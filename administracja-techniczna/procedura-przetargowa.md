@@ -79,8 +79,6 @@ gazowych i elektrycznych nie podlegają przetargom.
 
 **Źródło / podstawa**: Regulamin udzielania zamówień na roboty i usługi
 (uchwała RN nr 33/R/26 z 22.04.2026, na podstawie § 49 ust. 1 pkt 21
-Statutu) — pliki `Regulamin-przetargow.pdf` / `Regulamin przetargów.pdf`
-(identyczne). Wersja historyczna (do 2026 r.) — `skan Reg. org. licyt.
-zwanej przetargiem lub konk ofert.pdf`.
+Statutu) — plik `regulamin-przetargow.pdf`.
 
 **Ostatnia aktualizacja**: 2026-09-25 (pierwsza wersja).

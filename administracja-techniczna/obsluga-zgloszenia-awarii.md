@@ -55,7 +55,7 @@ odpowiadają)**:
 
 **Co może pójść nie tak / na co uważać**: DO UZUPEŁNIENIA.
 
-**Źródło / podstawa**: `Regulamin_Porzadku_Domowego-2025.pdf` § 3
+**Źródło / podstawa**: `regulamin-porzadku-domowego-2025.pdf` § 3
 (jedyny formalny fragment dot. zgłaszania awarii); zakres obowiązków
 stanowiska TT (Regulamin Organizacyjny) — patrz
 [`../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md`](../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md).

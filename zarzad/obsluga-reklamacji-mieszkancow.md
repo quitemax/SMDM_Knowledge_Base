@@ -30,7 +30,7 @@ To wymaga wiedzy osoby faktycznie prowadzącej ten proces.
 
 **Co może pójść nie tak / na co uważać**: DO UZUPEŁNIENIA.
 
-**Źródło / podstawa**: `Regulamin_Organizacyjny-06.10.2025.pdf` § 6
+**Źródło / podstawa**: `regulamin-organizacyjny-2025-10-06.pdf` § 6
 (zakres obowiązków Prezesa Zarządu) — jedyna wzmianka w dostępnych
 regulaminach; reszta procesu nie jest sformalizowana w żadnym z
 przeczytanych dokumentów.

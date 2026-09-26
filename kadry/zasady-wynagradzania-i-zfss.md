@@ -50,7 +50,7 @@ mechanizmu, nie konkretne kwoty.)*
 
 ## Zakładowy Fundusz Świadczeń Socjalnych (ZFŚS)
 
-Źródło: `Regulamin-ZFSS.pdf`.
+Źródło: `regulamin-zakladowego-funduszu-swiadczen-socjalnych.pdf`.
 
 - **Zarządzanie**: Zarząd Spółdzielni **w uzgodnieniu ze związkami
   zawodowymi** (§ 3). Zarząd powołuje **Komisję kwalifikacyjną ZFŚS**

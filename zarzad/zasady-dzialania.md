@@ -1,8 +1,8 @@
 # Zasady działania Zarządu
 
-> Źródło: `Regulamin_Zarzadu.pdf` (uchwała Rady Nadzorczej z 24.11.2020,
+> Źródło: `regulamin-zarzadu.pdf` (uchwała Rady Nadzorczej z 24.11.2020,
 > zastąpiła regulamin z 2013 r. zmieniany w 2015 r. — patrz uchwała w
-> `uchwała do regulaminu Zarządu.pdf`).
+> `uchwaly-rady-nadzorczej/uchwala-rady-nadzorczej-2020-11-24-regulamin-zarzadu.pdf`).
 
 - Zarząd działa na podstawie Prawa spółdzielczego, statutu i tego
   regulaminu (§ 3). Skład i liczbę członków określa statut — patrz

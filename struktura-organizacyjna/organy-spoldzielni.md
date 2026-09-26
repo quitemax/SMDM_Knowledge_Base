@@ -1,6 +1,6 @@
 # Organy spółdzielni
 
-> Źródło: `STATUT.pdf` (statut SM „Doły-Marysińska” w Łodzi). Numery
+> Źródło: `statut.pdf` (statut SM „Doły-Marysińska” w Łodzi). Numery
 > paragrafów odnoszą się do statutu.
 
 Organami Spółdzielni są (§ 28):
@@ -82,7 +82,7 @@ spośród nieograniczonej liczby kandydatów (§ 28).
 
 ### Stałe komisje Rady Nadzorczej
 
-Źródło: `Regulamin-stalych-komisji-RN.pdf`. Rada ma 3 stałe komisje
+Źródło: `regulamin-stalych-komisji-rady-nadzorczej.pdf`. Rada ma 3 stałe komisje
 (§ 1 ust. 3):
 
 1. **Komisja Rewizyjna** — gospodarka finansowa i rachunkowość
@@ -146,7 +146,7 @@ Zarząd.
 ---
 
 **Do zweryfikowania (rozbieżności między dokumentami, nie rozstrzygnięte
-tutaj):** starszy `Regulamin_Walnego_Zgromadzenia.pdf` (2011) różni się w
+tutaj):** starszy `regulamin-walnego-zgromadzenia.pdf` (2011) różni się w
 dwóch miejscach od aktualnego statutu — (1) możliwość udziału przez
 pełnomocnika dla osoby fizycznej, (2) termin i sposób ogłaszania uchwał
 WZ (7 dni + tablica ogłoszeń w regulaminie vs. 14 dni + strona

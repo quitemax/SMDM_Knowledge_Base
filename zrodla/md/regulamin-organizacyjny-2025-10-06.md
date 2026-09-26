@@ -1,4 +1,4 @@
-# Regulamin_Organizacyjny-06.10.2025
+# regulamin-organizacyjny-2025-10-06
 
 > **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).
 

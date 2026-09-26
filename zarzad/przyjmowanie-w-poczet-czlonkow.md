@@ -66,7 +66,7 @@ granicach możliwości; rejestr wniosków prowadzi PM.
   odwołanie, 3 miesiące na rozpatrzenie odwołania) są ustawowo/
   regulaminowo wiążące.
 
-**Źródło / podstawa**: `Regulamin-przyjmowania-w-poczet-czlonkow-calosc-uchwala.pdf`
+**Źródło / podstawa**: `regulamin-przyjmowania-w-poczet-czlonkow-ustanawiania-praw-do-lokali-i-zamiany-mieszkan.pdf`
 (uchwała RN, zastąpiła uchwałę nr 29/R/15 z 24.11.2015); § 3–12.
 
 **Ostatnia aktualizacja**: 2026-09-25 (pierwsza wersja).

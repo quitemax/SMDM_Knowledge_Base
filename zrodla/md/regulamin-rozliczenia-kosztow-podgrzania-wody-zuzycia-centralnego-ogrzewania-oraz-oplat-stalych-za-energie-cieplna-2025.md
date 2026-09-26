@@ -1,4 +1,4 @@
-# Regulamin-rozliczenia-kosztow-podgrzania-wody-zuzycia-centralnego-ogrzewania-oraz-oplat-stalych-za-energie-cieplna_2025
+# regulamin-rozliczenia-kosztow-podgrzania-wody-zuzycia-centralnego-ogrzewania-oraz-oplat-stalych-za-energie-cieplna-2025
 
 > **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).
 

@@ -65,7 +65,7 @@ lokalu).
 - Modernizacja budynku rodzi obowiązek **uzupełnienia wkładu** przez
   członka — trzeba pilnować tego przy planowaniu remontów.
 
-**Źródło / podstawa**: `Reg.-rozl.-wkladow-i-ustanowienie-odrebnej-wl.pdf`
+**Źródło / podstawa**: `regulamin-rozliczen-wkladow-i-ustanawiania-odrebnej-wlasnosci-lokali.pdf`
 (tekst jednolity, zmiana uchwałą RN nr 260/R/05 z 27.09.2005),
 rozdziały I–IV, VI, VIII.
 

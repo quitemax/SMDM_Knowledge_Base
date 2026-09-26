@@ -66,8 +66,8 @@ mieszkańcami, coroczna ewidencja.
   funduszu" bywa źródłem spornych przypadków — warto mieć jasne
   kryterium.
 
-**Źródło / podstawa**: `Reg.-tworz.-wydat.-i-rozl.-srod.-finans.-fund.-remontowego.pdf`
-(uchwała RN nr 1/R/13 z 29.01.2013) § 4–10; `Regulamin-GZM...pdf` § 23,
+**Źródło / podstawa**: `regulamin-tworzenia-wydatkowania-i-rozliczania-srodkow-funduszu-remontowego.pdf`
+(uchwała RN nr 1/R/13 z 29.01.2013) § 4–10; `regulamin-rozliczania-kosztow-gospodarki-zasobami-mieszkaniowymi-i-ustalania-oplat-za-uzywanie-lokali.pdf` § 23,
 26–28.
 
 **Ostatnia aktualizacja**: 2026-09-25 (pierwsza wersja).

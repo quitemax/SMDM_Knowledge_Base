@@ -1,4 +1,4 @@
-# STATUT
+# statut
 
 ### Spółdzielnia Mieszkaniowa | DOŁY-MARYSIŃSKA
 

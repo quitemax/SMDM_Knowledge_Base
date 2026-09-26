@@ -1,4 +1,4 @@
-# Uchwały 14.01.2026 r_organized (1)
+# uchwala-rady-nadzorczej-2026-01-14-plan-remontow
 
 > **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).
 

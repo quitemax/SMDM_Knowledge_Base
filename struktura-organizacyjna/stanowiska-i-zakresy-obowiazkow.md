@@ -6,7 +6,7 @@
 > patrz [`struktura-i-hierarchia.md`](struktura-i-hierarchia.md) po
 > schemat podległości.
 >
-> Źródła: `Regulamin_Organizacyjny-06.10.2025.pdf` (§ 6–24 — zakresy na
+> Źródła: `regulamin-organizacyjny-2025-10-06.pdf` (§ 6–24 — zakresy na
 > poziomie nazwy stanowiska) oraz, dla trzech członków Zarządu i dwóch
 > stanowisk technicznych, rzeczywiste zakresy obowiązków z akt
 > osobowych (zanonimizowane — wyabstrahowana rola, nie treść umowy

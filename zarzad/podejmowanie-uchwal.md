@@ -48,7 +48,7 @@ Statutu), w praktyce co środę.
 - Tryb obiegowy wymaga pamiętania o wpisaniu uchwały do protokołu
   najbliższego posiedzenia — inaczej ślad po decyzji może się zgubić.
 
-**Źródło / podstawa**: `Regulamin_Zarzadu.pdf` § 7, 10–13; § 57–58
+**Źródło / podstawa**: `regulamin-zarzadu.pdf` § 7, 10–13; § 57–58
 Statutu.
 
 **Ostatnia aktualizacja**: 2026-09-25 (pierwsza wersja).

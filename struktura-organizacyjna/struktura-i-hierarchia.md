@@ -1,6 +1,6 @@
 # Struktura organizacyjna i hierarchia
 
-> Źródło: `Regulamin_Organizacyjny-06.10.2025.pdf` (aktualna wersja,
+> Źródło: `regulamin-organizacyjny-2025-10-06.pdf` (aktualna wersja,
 > uchwała Rady Nadzorczej; merytorycznie identyczna z wersją z
 > 26.03.2025 — różni się tylko klauzulą uchylającą starsze wersje).
 > Regulamin uchwalony na podstawie § 49 ust. 1 pkt 21 statutu.

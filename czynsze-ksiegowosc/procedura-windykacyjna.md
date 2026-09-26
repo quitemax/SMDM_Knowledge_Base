@@ -69,7 +69,7 @@ w roku).
 - Zasada zaliczania spłat wg art. 451 k.c. — kolejność zaliczania wpłat
   ma znaczenie prawne, nie tylko księgowe.
 
-**Źródło / podstawa**: `Regulamin-windykacji.pdf` (tekst jednolity 2018,
+**Źródło / podstawa**: `regulamin-windykacji.pdf` (tekst jednolity 2018,
 uchwała RN nr 22/R/18 z 25.09.2018, zmiana 27/R/18) § 1–6.
 
 **Ostatnia aktualizacja**: 2026-09-25 (pierwsza wersja).

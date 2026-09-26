@@ -62,6 +62,6 @@ Za zaśmiecanie miejsc publicznych może być wszczęte postępowanie karne.
 Wobec niestosujących się do regulaminu Spółdzielnia może dochodzić
 odszkodowania lub wszcząć wewnątrzspółdzielcze postępowanie upominawcze.
 
-**Źródło / podstawa**: `Regulamin_Porzadku_Domowego-2025.pdf`.
+**Źródło / podstawa**: `regulamin-porzadku-domowego-2025.pdf`.
 
 **Ostatnia aktualizacja**: 2026-09-25 (pierwsza wersja).

@@ -66,6 +66,6 @@ nadzwyczajne na żądanie.
 - Uchwałę WZ można zaskarżyć do sądu w ciągu **6 tygodni** od odbycia WZ
   — po tym terminie ryzyko sporu prawnego znacznie spada.
 
-**Źródło / podstawa**: § 29–38 Statutu; `Regulamin_Walnego_Zgromadzenia.pdf`.
+**Źródło / podstawa**: § 29–38 Statutu; `regulamin-walnego-zgromadzenia.pdf`.
 
 **Ostatnia aktualizacja**: 2026-09-25 (pierwsza wersja).

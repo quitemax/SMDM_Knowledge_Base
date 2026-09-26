@@ -1,4 +1,4 @@
-# Uchwały 25.03.2026 r_organized
+# uchwala-rady-nadzorczej-2026-03-25-plan-remontow
 
 > **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).
 
