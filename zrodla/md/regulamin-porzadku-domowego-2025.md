@@ -7,15 +7,15 @@
 Regulamin porządku domowego
 w Spółdzielni Mieszkaniowej „Doły — Marysińska” w Łodzi
 
-L POSTANOWIENIA OGÓLNE
+I. POSTANOWIENIA OGÓLNE
 
-$1
+§ 1
 Regulamin określa zasady: użytkowania lokali, utrzymania bezpieczeństwa, porządku,
 higieny, estetyki budynków i ich otoczenia, a także zapewnienie prawidłowych warunków
 i zasad współżycia społecznego wynikającego z zamieszkiwania w budynkach
 Spółdzielni.
 
-$2
+§ 2
 
 1. Postanowienia regulaminu określające obowiązki użytkowników lokali odnoszą się
 odpowiednio do wszystkich osób korzystających z lokali, a w szczególności
@@ -34,7 +34,7 @@ zmianach dotyczących jego lokalu, a w szczególności o zmianach własności,
 zmianach osób zamieszkałych lub uprawnionych do korzystania z lokalu
 oraz zamierzonych pracach remontowych.
 
-$3
+§ 3
 
 1. W przypadku działań użytkowników lokali lub innych osób znajdujących się
 na terenie Spółdzielni zagrażających bezpieczeństwu życia lub zdrowia ludzi albo
@@ -63,50 +63,41 @@ niezbędne do wykonania napraw lub usunięcia awarii w tym, bądź innym lokalu.
 
 II. PRZEPISY PORZĄDKOWE OGÓLNE
 
-10.
-
-11.
-12.
-
-13.
-
-14.
-
-$ 4
-Osoby przebywające na terenie nieruchomości obowiązane są do zachowania się
+§ 4
+1. Osoby przebywające na terenie nieruchomości obowiązane są do zachowania się
 w sposób nie powodujący uciążliwości dla współmieszkańców, w szczególności
 dotyczy to nadmiernego hałasu i utrzymania czystości.
-W godzinach od 2209 do 6”0 na terenie nieruchomości obowiązuje cisza nocna.
-W niedzielę i święta zabrania się wykonywania prac remontowych powodujących
-nadmierny hałas, a w pozostałe dni w godzinach od 20” do 87”.
-Zabrania się spożywania napojów alkoholowych, palenia wyrobów tytoniowych,
-papierosów _ elektronicznych _ oraz zażywania środków odurzających
-w pomieszczeniach wspólnych, o których mowa w $ 6 ust. 2, znajdujących się
+2. W godzinach od 22:00 do 6:00 na terenie nieruchomości obowiązuje cisza nocna.
+3. W niedzielę i święta zabrania się wykonywania prac remontowych powodujących
+nadmierny hałas, a w pozostałe dni w godzinach od 20:00 do 8:00.
+4. Zabrania się spożywania napojów alkoholowych, palenia wyrobów tytoniowych,
+papierosów elektronicznych oraz zażywania środków odurzających
+w pomieszczeniach wspólnych, o których mowa w § 6 ust. 2, znajdujących się
 wewnątrz budynku.
-Zabrania się wyrzucania przez okna i drzwi balkonowe jakichkolwiek przedmiotów,
+5. Zabrania się wyrzucania przez okna i drzwi balkonowe jakichkolwiek przedmiotów,
 resztek jedzenia, śmieci, niedopałków papierosów itp. oraz pożywienia dla ptaków
 i zwierząt.
-Trzepanie dywanów, odzieży i pościeli może odbywać się w miejscach na ten cel
+6. Trzepanie dywanów, odzieży i pościeli może odbywać się w miejscach na ten cel
 przeznaczonych.
-Niedopuszczalne jest nadmierne obciążanie dźwigów poprzez przewożenie
+7. Niedopuszczalne jest nadmierne obciążanie dźwigów poprzez przewożenie
 przedmiotów przekraczających wagą nośność dźwigu.
-Nieczystości i odpadki należy wrzucać do pojemników na ten cel przeznaczonych, do
+8. Nieczystości i odpadki należy wrzucać do pojemników na ten cel przeznaczonych, do
 zsypów lub worków foliowych zawieszonych w zsypach, nie zanieczyszczając przy
 tym otoczenia.
-Zabrania się niszczenia elewacji budynków, ogrodzeń, zieleńców, placów zabaw
+9. Zabrania się niszczenia elewacji budynków, ogrodzeń, zieleńców, placów zabaw
 i innych obiektów stanowiących własność Spółdzielni.
-Podlewanie kwiatów na balkonach powinno odbywać się z umiarem, tak aby woda nie
+10. Podlewanie kwiatów na balkonach powinno odbywać się z umiarem, tak aby woda nie
 niszczyła elewacji, nie zalewała i brudziła położonych poniżej okien i balkonów.
-Instalowanie wszelkich anten jest dozwolone za zgodą Spółdzielni.
-Mieszkańcy mogą instalować domofony po uprzednim uzgodnieniu warunków
+11. Instalowanie wszelkich anten jest dozwolone za zgodą Spółdzielni.
+12. Mieszkańcy mogą instalować domofony po uprzednim uzgodnieniu warunków
 z administracją Spółdzielni.
-W lokalach mieszkalnych dozwolone jest posiadanie zwierząt w ilości nie stanowiącej
+13. W lokalach mieszkalnych dozwolone jest posiadanie zwierząt w ilości nie stanowiącej
 uciążliwości dla otoczenia. Osoby utrzymujące lub sprawujące opiekę nad psami
 i innymi zwierzętami domowymi zobowiązane są do przestrzegania przepisów
 sanitarno — porządkowych oraz zachowania środków ostrożności, mających na celu
 ochronę zdrowia i życia ludzi, a także dołożenia starań, by zwierzęta te były jak
 najmniej uciążliwe dla otoczenia.
-Do obowiązków osób, o których mowa w ust. 12 należy:
+14. Do obowiązków osób, o których mowa w ust. 12 należy:
 1/ stały i skuteczny dozór nad psami i innymi zwierzętami domowymi,
 2/ prowadzenie psów na uwięzi w miejscach publicznych (dopuszcza się czasowe
 uwolnienie psa z uwięzi, lecz w założonym kagańcu w miejscach, gdzie nie stwarza to
@@ -114,7 +105,7 @@ zagrożenia oraz gdy opiekun ma możliwość sprawowania bezpośredniej kontroli
 jego zachowaniem - za wyjątkiem psów, o których mowa w pkt. 3),
 3/ prowadzenie psów agresywnych oraz mieszańców z tymi rasami — wyłącznie
 na uwięzi oraz w założonych kagańcach,
-4/ niezwłoczne usuwanie _ zanieczyszczeń spowodowanych przez zwierzęta
+4/ niezwłoczne usuwanie zanieczyszczeń spowodowanych przez zwierzęta
 na klatkach schodowych lub w innych miejscach służących do użytku publicznego
 oraz gromadzenie zebranych zanieczyszczeń w specjalnie oznaczonych koszach lub
 w koszach ulicznych, pod warunkiem, że są one wyłożone workiem z tworzyw
@@ -124,29 +115,10 @@ do zbierania odchodów.
 
 ## Strona 3
 
-Iż.
-
-16.
-
-17.
-
-19:
-20.
-
-2
-
-—
-
-Zł.
-
-23.
-
-IN.
-
-Zakazuje się wyprowadzania psów i innych zwierząt domowych na place zabaw
+15. Zakazuje się wyprowadzania psów i innych zwierząt domowych na place zabaw
 i w inne miejsca służące do zabawy dla dzieci.
 
-W miejscach wspólnego użytku mieszkańcom nie wolno umieszczać żadnych
+16. W miejscach wspólnego użytku mieszkańcom nie wolno umieszczać żadnych
 przedmiotów.
 
 Przedmioty te mogą być usunięte przez administrację Spółdzielni po uprzednim
@@ -154,47 +126,47 @@ powiadomieniu właściciela. W przypadku braku możliwości ustalenia właścici
 po okresie wyznaczonym przez Spółdzielnię, przedmioty te zostaną usunięte bez
 uprzedzenia.
 
-Z urządzeniami w pralni i suszarni należy obchodzić się z należytą starannością, aby
+17. Z urządzeniami w pralni i suszarni należy obchodzić się z należytą starannością, aby
 nie dopuścić do ich uszkodzenia. Koszty napraw uszkodzeń powstałych z winy
 użytkownika pokrywa użytkownik.
 
 Po ukończeniu prania pomieszczenie pralni należy sprzątnąć oraz zamknąć zawór
 odcinający dopływ gazu, jeżeli pralnia jest wyposażona w instalację gazową.
 
-.Niedozwolone jest przechowywanie w piwnicach — komórkach materiałów
+18. Niedozwolone jest przechowywanie w piwnicach — komórkach materiałów
 
 łatwopalnych, wybuchowych i cuchnących oraz używanie otwartego ognia i palenia
 papierosów.
 
-Korytarze piwniczne winny być oświetlone.
+19. Korytarze piwniczne winny być oświetlone.
 
-Parkowanie pojazdów dopuszczalne jest w miejscach wyznaczonych przez
+20. Parkowanie pojazdów dopuszczalne jest w miejscach wyznaczonych przez
 administrację Spółdzielni.
 
-. Na terenie osiedla zabrania się mycia, naprawy i regulacji pojazdów mechanicznych
+21. Na terenie osiedla zabrania się mycia, naprawy i regulacji pojazdów mechanicznych
 
 oraz wymiany oleju silnikowego.
 
-Niedopuszczalne jest pozostawianie na terenie nieruchomości wraków samochodów
+22. Niedopuszczalne jest pozostawianie na terenie nieruchomości wraków samochodów
 i motocykli.
 
 Pozostawione wraki będą usuwane na złomowisko na koszt właściciela.
 
-Ze względu na konieczność ochrony poszycia dachowego oraz zapewnienia
+23. Ze względu na konieczność ochrony poszycia dachowego oraz zapewnienia
 bezpieczeństwa ogranicza się dostęp do dachów jako części wspólnych
 nieruchomości. Wejście na dach odbywać się może wyłącznie w obecności
 przedstawiciela Spółdzielni, a w przypadku ewentualnego zagrożenia — w obecności
 służb takich jak straż pożarna czy policja;
 
-OBOWIĄZKI SPÓŁDZIELNI
+III. OBOWIĄZKI SPÓŁDZIELNI
 
-$5
-Spółdzielnia zobowiązana jest do zapewnienia porządku i czystości oraz należytego
+§ 5
+1. Spółdzielnia zobowiązana jest do zapewnienia porządku i czystości oraz należytego
 stanu sanitarno — higienicznego w budynkach oraz na terenie zarządzanej
 
 nieruchomości.
 
-Spółdzielnia w szczególności zobowiązana jest do:
+2. Spółdzielnia w szczególności zobowiązana jest do:
 
 1/ utrzymania porządku i czystości pomieszczeń oraz urządzeń budynków, służących
 do wspólnego użytku mieszkańców,
@@ -259,7 +231,8 @@ pożarnej, pogotowia ratunkowego, policji,
 15/ egzekwowania od gospodarzy domów należytego wykonania ich obowiązków.
 
 IV. OBOWIĄZKI UŻYTKOWNIKÓW LOKALI
-$6
+
+§ 6
 
 1. Użytkownicy lokali zobowiązani są utrzymywać zajmowany lokal i przynależne
 do niego pomieszczenia we właściwym stanie technicznym,  sanitamym
@@ -291,7 +264,7 @@ naprawienia takiej szkody na zlecenie Spółdzielni, porycia kosztów jej usuni�
 
 VI. POSTANOWIENIA KOŃCOWE
 
-$7
+§ 7
 
 1. W stosunku do użytkowników lokali, którzy zanieczyszczają lub zaśmiecają miejsca
 publiczne, a w szczególności klatkę schodową, drogę, chodnik, trawnik może być
@@ -302,7 +275,7 @@ wszczęte postępowanie karne.
 2/ Spółdzielnia ma prawo wszcząć wewnątrz spółdzielcze postępowanie
 upominawcze.
 
-$8
+§ 8
 
 1. Regulamin został uchwalony przez Radę Nadzorczą uchwałą nr ...../R/25 z dnia
 3.06.2025 r. i wchodzi w życie z dniem uchwalenia.
@@ -311,54 +284,61 @@ $8
 31.10.2017 r.
 
 PRZEWODNICZĄCA
+RADY NADZORCZEJ
+Grażyna Białkowska
 
-RETARZ
-
-SE
-Y NADZORCZEJ
-| o- o
+SEKRETARZ
+RADY NADZORCZEJ
 Monika Denarska
 
-RABCA PRAWNY
-
-ścief erw
+RADCA PRAWNY
+Maciej Czerw
 
 ## Strona 6
 
-
+*(strona pusta w oryginale dokumentu)*
 
 ## Strona 7
 
-Uchwała Nr U(e /R/25
+Uchwała Nr 26 /R/25
 Rady Nadzorczej SM „Doły-Marysińska” w Łodzi
 z dnia 03.06.2025 r.
 
-Rada Nadzorcza działając na podstawie $ 49 ust. 1 pkt 19 statutu Spółdzielni
+Rada Nadzorcza działając na podstawie § 49 ust. 1 pkt 19 statutu Spółdzielni
 
 postanawia
 
-$1
-Uchwalić Regulamin porządku domowego w Spółdzielni Mieszkaniowej „Doły-Marysińska*
+§ 1
+Uchwalić Regulamin porządku domowego w Spółdzielni Mieszkaniowej „Doły-Marysińska”
 w Łodzi w brzmieniu stanowiącym załącznik do niniejszej uchwały
 
-$2
+§ 2
 
 Uchwała wchodzi w życie z dniem podjęcia.
 
-$3
+§ 3
 Traci moc Regulamin porządku domowego w Spółdzielni Mieszkaniowej „Doły-Marysińska”
 w Łodzi uchwalony uchwałą Rady Nadzorczej nr 28/R/17 z dnia 31 października 2017 r.
 
-Wyniki głosowania: PRZEWODł ICZĄC.;
-głosów „,za” : 2 RADYN RCZEJ
-głosów „„przeciw” : Ą Grażyńa Biąłkowska
+Wyniki głosowania:
+głosów „za” : 6
+głosów „przeciw” : 1
+głosów „wstrzymujących”: 2
 
-głosów „wstrzymujących”: Ź |
-SEKRETARZ. |
-Z y NADZORC
+PRZEWODNICZĄCA
+RADY NADZORCZEJ
+Grażyna Białkowska
+
+SEKRETARZ
+RADY NADZORCZEJ
+Monika Denarska
+
+RADCA PRAWNY
+Maciej Czerw
 
 _—yfonika Denarska
 
 ## Strona 8
 
+*(strona pusta w oryginale dokumentu)*
 
