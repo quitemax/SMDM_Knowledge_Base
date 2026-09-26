@@ -4,31 +4,31 @@
 
 ## Strona 1
 
-Uchwała nr?70/2024
+Uchwała nr 338/2024
 
-Zarządu Spółdzielni Mieszkaniowej „„Doły-Marysińska” w Łodzi
-24.42.2020 u.
+Zarządu Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
+z dnia 24.12.2024 r.
 
 w sprawie wprowadzenia nowego Regulaminu wynagrodzenia pracowników Spółdzielni
 Mieszkaniowej „Doły - Marysińska” w Łodzi
 
-Na podstawie art. 777 $ 4 Kodeksu Pracy, Zarząd Spółdzielni Mieszkaniowej „„Doły-
+Na podstawie art. 77² § 4 Kodeksu Pracy, Zarząd Spółdzielni Mieszkaniowej „Doły-
 Marysińska” w Łodzi .
 
 postanawia:
 
-$1
+§ 1
 
 Uchwalić nowy „Regulamin wynagrodzeń pracowników Spółdzielni Mieszkaniowej
 „Doły - Marysińska” w Łodzi, w brzmieniu stanowiącym załącznik nr 1 do niniejszej uchwały.
 
-$2
+§ 2
 
-Traci moc dotychczasowy Regulamin Wynagradzania pracowników SM „„Doły-Marysińska”
+Traci moc dotychczasowy Regulamin Wynagradzania pracowników SM „Doły-Marysińska”
 w Łodzi przyjęty uchwałą nr 332/2023 Zarządu SM „Doły-Marysińska” w Łodzi z dnia
 21.12.2023 r.
 
-$3
+§ 3
 
 1. Uchwała wchodzi w życie z dniem podjęcia.
 2. Nowy Regulamin wynagradzania wchodzi w życie po upływie dwóch tygodni
@@ -37,27 +37,19 @@ od podania go do wiadomości pracowników Spółdzielni.
 Niniejszy Regulamin wynagrodzeń wchodzi w życie po upływie 14 dni od podania
 do wiadomości pracowników.
 
-CZŁONĘK ZARZ DU Człónak Zarządu
-ds. feet zka ie U, Głó vwny 3Y gOWy
+CZŁONEK ZARZĄDU                          Członek Zarządu
+ds. Techniczno-Eksploatacyjnych          Główny Księgowy
 
-Oiga Zuchmańska Martyna Gawróńska
+Olga Zuchmańska                          Martyna Gawrońska
 
-SPÓŁDZI
-"w oaz ELNI
-D A MI:
+[Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14”]
 
-OŁY MAR PSLANIOWA
-
-z SKĄ"
-ATZ YĆ KĄ
-
-ul,
-Nowopojska 12/14 BABC ze NY
+RADCA PRAWNY
 Maciej Czerw
 
 ## Strona 2
 
-4 Wi
+*(strona pusta w oryginale dokumentu)*
 
 ## Strona 3
 
@@ -66,7 +58,7 @@ Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 I. Przepisy wstępne
 
-$1.
+§ 1.
 
 1. Niniejszy Regulamin reguluje warunki wynagradzania za pracę i przyznawania innych
 świadczeń związanych z pracą dla pracowników Spółdzielni Mieszkaniowej „Doły-Marysińska”
@@ -87,7 +79,7 @@ a) zasady wynagradzania pracowników na stanowiskach nierobotniczych — załąc
 b) zasady wynagradzania pracowników na stanowiskach robotniczych — załącznik nr 2,
 c) zasady wynagradzania gospodarzy domów — załącznik nr 3.
 
-$ 2.
+§ 2.
 
 1. Wynagrodzenie za pracę ustala się w wysokości odpowiadającej rodzajowi wykonywanej
 pracy, kwalifikacjom pracownika wymaganym przy jej wykonywaniu, z uwzględnieniem ilości
@@ -111,7 +103,7 @@ stanowią.
 
 II. Zasady wynagradzania za pracę
 
-$3.
+§ 3.
 1. Pracownicy zatrudnieni w Spółdzielni wynagradzani są ze środków funduszu płac
 tworzonego na podstawie uchwały Rady Nadzorczej zatwierdzającej plan finansowy Spółdzielni
 na dany rok.
@@ -125,7 +117,7 @@ przez organizację związkową.
 3. Środki funduszu płac winny być wykorzystane w całości w danym roku kalendarzowym,
 przy uwzględnieniu faktycznego stanu zatrudnienia.
 
-$4.
+§ 4.
 
 W Spółdzielni wypłacane są następujące składniki wynagrodzenia i świadczenia związane
 z pracą:
@@ -150,7 +142,7 @@ i) należności z tytułu podróży służbowej.
 
 j) nagroda roczna.
 
-5.
+§ 5.
 [Wynagrodzenie zasadnicze]
 
 1. Wynagrodzenie zasadnicze ustalane jest po uwzględnieniu opinii bezpośredniego
@@ -171,7 +163,7 @@ Godzinową stawkę wynagrodzenia zasadniczego wynikającego z osobistego zaszere
 pracownika, określonego stawką miesięczną ustala się, dzieląc miesięczną stawkę
 wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
 
-$ 6.
+§ 6.
 [Dodatek za pracę w godzinach nadliczbowych]
 
 1. Za pracę w godzinach nadliczbowych przysługuje dodatek na zasadach określonych
@@ -209,20 +201,20 @@ obejmuje wynagrodzenie pracownika wynikające z jego osobistego zaszeregowania.
 udzielono czasu wolnego na wniosek pracownika (w tym samym wymiarze godzin) lub przez
 pracodawcę (w wymiarze o połowę wyższym niż liczba przepracowanych godzin).
 
-$ 7.
+§ 7.
 [Dodatek za pracę w porze nocnej]
 Za pracę w porze nocnej przysługuje pracownikowi za każdą godzinę dodatek do wynagrodzenia
 w wysokości 20 % stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę.
 
-88.
+§ 8.
 [Dodatki wyrównawcze]
 Pracownikowi przysługują dodatki wyrównawcze na zasadach określonych w przepisach prawa
 pracy, w szczególności dodatki wyrównawcze dla kobiet w ciąży i karmiących piersią,
 pracowników przeniesionych do innej pracy w związku ze stanem zdrowia oraz pracowników
 niezdolnych do wykonywania dotychczasowej pracy wskutek wypadku przy pracy lub choroby
-zawodowej określone w art. 179 $ 4, art. 230 oraz 231 kodeksu pracy.
+zawodowej określone w art. 179 § 4, art. 230 oraz 231 kodeksu pracy.
 
-$9.
+§ 9.
 [Fundusz premiowy]
 
 1. Na wypłatę premii uznaniowej tworzy się fundusz premiowy w ramach posiadanych
@@ -239,7 +231,7 @@ z miesięcy poprzednich.
 
 4. Środki funduszu mogą być wykorzystane tylko w danym roku kalendarzowym.
 
-$ 11.
+§ 11.
 [Premia uznaniowa]
 1. Pracownikom mogą być przyznawane premie uznaniowe, stosownie do możliwości
 finansowych pracodawcy, w zależności od oceny wykonywanej pracy.
@@ -253,7 +245,7 @@ przełożonego pracownika.
 3. Pracownikowi nie przysługuje roszczenie o zapłatę premii uznaniowej ani możliwość
 odwołania się od wysokości przyznanej premii uznaniowej.
 
-$ 12.
+§ 12.
 [Nagroda jubileuszowa]
 1. Za długoletnią pracę pracownikowi przysługuje nagroda jubileuszowa w wysokości:
 a) 100 % wynagrodzenia miesięcznego - po 15 latach pracy,
@@ -292,7 +284,7 @@ nagrody wyższej a kwotą nagrody niższej.
 Pracy i Polityki Socjalnej z dnia 23 grudnia 1989 r. w sprawie ustalania okresów uprawniających
 do nagrody jubileuszowej oraz zasad jej obliczania i wypłacania.
 
-$ 13.
+§ 13.
 [Wynagrodzenie lub zasiłek za okres niezdolności do pracy]
 1. Pracownik zachowuje prawo do:
 
@@ -312,16 +304,16 @@ przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz podd
 
 się zabiegowi pobrania komórek, tkanek i narządów - w okresie wskazanym w pkt a).
 
-2. Wynagrodzenie, o którym mowa w $ 1, oblicza się według zasad obowiązujących
+2. Wynagrodzenie, o którym mowa w § 1, oblicza się według zasad obowiązujących
 przy ustalaniu podstawy wymiaru zasiłku chorobowego i wypłaca za każdy dzień niezdolności
 do pracy, nie wyłączając dni wolnych od pracy.
 
-3. Za czas niezdolności do pracy, o której mowa w $ 1, trwającej łącznie dłużej niż 33 dni
+3. Za czas niezdolności do pracy, o której mowa w § 1, trwającej łącznie dłużej niż 33 dni
 w ciągu roku kalendarzowego, a w przypadku pracownika, który ukończył 50 rok życia,
 trwającej łącznie dłużej niż 14 dni w ciągu roku kalendarzowego, pracownikowi przysługuje
 zasiłek chorobowy na zasadach określonych w odpowiednich przepisach.
 
-$ 14.
+§ 14.
 [Odprawa]
 
 1. Pracownikowi spełniającemu warunki uprawniające do renty z tytułu niezdolności
@@ -339,7 +331,7 @@ do niej prawa.
 po jego rozwiązaniu, zasiłku z tytułu niezdolności do pracy wskutek choroby, rodzinie
 przysługuje odprawa pośmiertna na warunkach i wysokości określonej w art. 93 kodeksu pracy.
 
-$ 15.
+§ 15.
 INależności z tytułu podróży służbowych]
 Do należności pracowników z tytułu podróży służbowych stosuje się:
 
@@ -353,7 +345,7 @@ wysokości oraz warunków ustalania należności przysługujących pracownikowi
 zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu
 podróży służbowej poza granicami kraju (Dz. U. Nr 236, poz. 1991).
 
-$ 16.
+§ 16.
 [Inne należności]
 Poszczególnym pracownikom przysługują następujące dodatkowe wynagrodzenia, względnie
 środki pieniężne:
@@ -369,14 +361,14 @@ osobowych, motocykli i motorowerów nie będących własnością pracodawcy
 
 ## Strona 8
 
-$ 16'
+§ 16¹
 [Karty MukiSport]
 
 1. Spółdzielnia Mieszkaniowa „Doły-Marysińska” w Łodzi zapewnia pracownikom
 możliwość korzystania z usług sportowo-rekreacyjnych na terenie Polski przy wykorzystaniu
-karty „„MultiSport" zwanych dalej „Usługami sportowymi".
+karty „MultiSport" zwanych dalej „Usługami sportowymi".
 
-2. Spółdzielnia Mieszkaniowa „„Doły-Marysińska” w Łodzi finansuje pracownikom 50%
+2. Spółdzielnia Mieszkaniowa „Doły-Marysińska” w Łodzi finansuje pracownikom 50%
 kosztów miesięcznej opłaty abonamentowej za korzystanie z Usług sportowych.
 
 3. Pracownik zobowiązany jest pokryć pozostałą część miesięcznej opłaty abonamentowej —
@@ -405,7 +397,7 @@ wpływa na wysokość kwoty finansowanej przez pracodawcę zgodnie z ust. 2.
 
 IM. Postanowienia końcowe
 
-$ 17.
+§ 17.
 
 1. Zmiana Regulaminu następuje w formie pisemnej pod rygorem nieważności i może wejść
 w życie nie wcześniej, niż po upływie 14 dni od podania do wiadomości pracowników w sposób
@@ -442,7 +434,7 @@ Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 I. Przepisy wstępne
 
-$1.
+§ 1.
 
 1. Niniejszy Regulamin reguluje warunki wynagradzania za pracę i przyznawania innych
 świadczeń związanych z pracą dla pracowników Spółdzielni Mieszkaniowej „Doły-Marysińska”
@@ -463,7 +455,7 @@ a) zasady wynagradzania pracowników na stanowiskach nierobotniczych — załąc
 b) zasady wynagradzania pracowników na stanowiskach robotniczych — załącznik nr 2,
 c) zasady wynagradzania gospodarzy domów — załącznik nr 3.
 
-$ 2.
+§ 2.
 
 1. Wynagrodzenie za pracę ustala się w wysokości odpowiadającej rodzajowi wykonywanej
 pracy, kwalifikacjom pracownika wymaganym przy jej wykonywaniu, z uwzględnieniem ilości
@@ -487,7 +479,7 @@ stanowią.
 
 II. Zasady wynagradzania za pracę
 
-83.
+§ 3.
 l. Pracownicy zatrudnieni w Spółdzielni wynagradzani są ze środków funduszu płac
 tworzonego na podstawie uchwały Rady Nadzorczej zatwierdzającej plan finansowy Spółdzielni
 na dany rok.
@@ -501,7 +493,7 @@ przez organizację związkową.
 3. Środki funduszu płac winny być wykorzystane w całości w danym roku kalendarzowym,
 przy uwzględnieniu faktycznego stanu zatrudnienia.
 
-$4.
+§ 4.
 
 W Spółdzielni wypłacane są następujące składniki wynagrodzenia i świadczenia związane
 z pracą:
@@ -526,7 +518,7 @@ i) należności z tytułu podróży służbowej.
 
 j) nagroda roczna.
 
-$5.
+§ 5.
 [Wynagrodzenie zasadnicze]
 
 1. Wynagrodzenie zasadnicze ustalane jest po uwzględnieniu opinii bezpośredniego
@@ -547,7 +539,7 @@ Godzinową stawkę wynagrodzenia zasadniczego wynikającego z osobistego zaszere
 pracownika, określonego stawką miesięczną ustala się, dzieląc miesięczną stawkę
 wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
 
-$ 6.
+§ 6.
 [Dodatek za pracę w godzinach nadliczbowych]
 
 I. Za pracę w godzinach nadliczbowych przysługuje dodatek na zasadach określonych
@@ -585,20 +577,20 @@ obejmuje wynagrodzenie pracownika wynikające z jego osobistego zaszeregowania.
 udzielono czasu wolnego na wniosek pracownika (w tym samym wymiarze godzin) lub przez
 pracodawcę (w wymiarze o połowę wyższym niż liczba przepracowanych godzin).
 
-$ 7.
+§ 7.
 [Dodatek za pracę w porze nocnej]
 Za pracę w porze nocnej przysługuje pracownikowi za każdą godzinę dodatek do wynagrodzenia
 w wysokości 20 % stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę.
 
-$ 8.
+§ 8.
 [Dodatki wyrównawcze]
 Pracownikowi przysługują dodatki wyrównawcze na zasadach określonych w przepisach prawa
 pracy, w szczególności dodatki wyrównawcze dla kobiet w ciąży i karmiących piersią,
 pracowników przeniesionych do innej pracy w związku ze stanem zdrowia oraz pracowników
 niezdolnych do wykonywania dotychczasowej pracy wskutek wypadku przy pracy lub choroby
-zawodowej określone w art. 179 $ 4, art. 230 oraz 231 kodeksu pracy.
+zawodowej określone w art. 179 § 4, art. 230 oraz 231 kodeksu pracy.
 
-89.
+§ 9.
 [Fundusz premiowy]
 
 1. Na wypłatę premii uznaniowej tworzy się fundusz premiowy w ramach posiadanych
@@ -615,7 +607,7 @@ z miesięcy poprzednich.
 
 4. Środki funduszu mogą być wykorzystane tylko w danym roku kalendarzowym.
 
-$ 11.
+§ 11.
 [Premia uznaniowa]
 1. Pracownikom mogą być przyznawane premie uznaniowe, stosownie do możliwości
 finansowych pracodawcy, w zależności od oceny wykonywanej pracy.
@@ -629,7 +621,7 @@ przełożonego pracownika.
 3. Pracownikowi nie przysługuje roszczenie o zapłatę premii uznaniowej ani możliwość
 odwołania się od wysokości przyznanej premii uznaniowej.
 
-$ 12.
+§ 12.
 [Nagroda jubileuszowa]
 1. Zadługoletnią pracę pracownikowi przysługuje nagroda jubileuszowa w wysokości:
 a) 100 % wynagrodzenia miesięcznego - po 15 latach pracy,
@@ -668,7 +660,7 @@ nagrody wyższej a kwotą nagrody niższej.
 Pracy i Polityki Socjalnej z dnia 23 grudnia 1989 r. w sprawie ustalania okresów uprawniających
 do nagrody jubileuszowej oraz zasad jej obliczania i wypłacania.
 
-$ 13.
+§ 13.
 [Wynagrodzenie lub zasiłek za okres niezdolności do pracy]
 1. Pracownik zachowuje prawo do:
 
@@ -688,16 +680,16 @@ przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz podd
 
 się zabiegowi pobrania komórek, tkanek i narządów - w okresie wskazanym w pkt a).
 
-2. Wynagrodzenie, o którym mowa w $ 1, oblicza się według zasad obowiązujących
+2. Wynagrodzenie, o którym mowa w § 1, oblicza się według zasad obowiązujących
 przy ustalaniu podstawy wymiaru zasiłku chorobowego i wypłaca za każdy dzień niezdolności
 do pracy, nie wyłączając dni wolnych od pracy.
 
-3. Za czas niezdolności do pracy, o której mowa w $ 1, trwającej łącznie dłużej niż 33 dni
+3. Za czas niezdolności do pracy, o której mowa w § 1, trwającej łącznie dłużej niż 33 dni
 w ciągu roku kalendarzowego, a w przypadku pracownika, który ukończył 50 rok życia,
 trwającej łącznie dłużej niż 14 dni w ciągu roku kalendarzowego, pracownikowi przysługuje
 zasiłek chorobowy na zasadach określonych w odpowiednich przepisach.
 
-$ 14.
+§ 14.
 [Odprawa]
 
 1. Pracownikowi spełniającemu warunki uprawniające do renty z tytułu niezdolności
@@ -715,7 +707,7 @@ do niej prawa.
 pojego rozwiązaniu, zasiłku z tytułu niezdolności do pracy wskutek choroby, rodzinie
 przysługuje odprawa pośmiertna na warunkach i wysokości określonej w art. 93 kodeksu pracy.
 
-$ 15.
+§ 15.
 /Należności z tytułu podróży służbowych]
 Do należności pracowników z tytułu podróży służbowych stosuje się:
 
@@ -729,7 +721,7 @@ wysokości oraz warunków ustalania należności przysługujących pracownikowi
 zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu
 podróży służbowej poza granicami kraju (Dz. U. Nr 236, poz. 1991).
 
-$ 16.
+§ 16.
 [Inne należności]
 Poszczególnym pracownikom przysługują następujące dodatkowe wynagrodzenia, względnie
 środki pieniężne:
@@ -747,12 +739,12 @@ osobowych, motocykli i motorowerów nie będących własnością pracodawcy
 
 ## Strona 14
 
-$ 16!
+§ 16¹
 [Karty MultiSport]
 
-1. Spółdzielnia Mieszkaniowa „„Doły-Marysińska” w Łodzi zapewnia pracownikom
+1. Spółdzielnia Mieszkaniowa „Doły-Marysińska” w Łodzi zapewnia pracownikom
 możliwość korzystania z usług sportowo-rekreacyjnych na terenie Polski przy wykorzystaniu
-karty „„MultiSport" zwanych dalej „Usługami sportowymi".
+karty „MultiSport" zwanych dalej „Usługami sportowymi".
 
 2. Spółdzielnia Mieszkaniowa „Doły-Marysińska” w Łodzi finansuje pracownikom 50%
 kosztów miesięcznej opłaty abonamentowej za korzystanie z Usług sportowych.
@@ -783,7 +775,7 @@ wpływa na wysokość kwoty finansowanej przez pracodawcę zgodnie z ust. 2.
 
 III. Postanowienia końcowe
 
-$ 17.
+§ 17.
 
 1. Zmiana Regulaminu następuje w formie pisemnej pod rygorem nieważności i może wejść
 w życie nie wcześniej, niż po upływie 14 dni od podania do wiadomości pracowników w sposób
@@ -796,7 +788,7 @@ zastępują z mocy prawa wynikające z dotychczasowych przepisów warunki umowy 
 porozumienia zmieniającego lub wypowiedzenia pracownikom dotychczasowych warunków
 umowy o pracę.
 
-518.
+§ 18.
 Regulamin wynagradzania został ustalony na czas nieokreślony.
 
 MIE ZAŁ
@@ -817,7 +809,7 @@ Spółdzielni Mieszkaniowej
 
 Zasady wynagradzania pracowników na stanowiskach nierobotniczych
 
-$ 1.
+§ 1.
 l. Pracownicy zatrudnieni na stanowiskach nierobotniczych i robotniczych otrzymują
 wynagrodzenie zasadnicze określone stawką miesięczną.
 
@@ -845,7 +837,7 @@ IX | 10.501,00 — 11.500,00
 minimalnego wynagrodzenia za pracę lub zwiększenia środków finansowych na
 wynagrodzenia.
 
-82.
+§ 2.
 1. Kategorię osobistego zaszeregowania przyznaje się pracownikowi w oparciu
 o posiadane przez niego kwalifikacje zawodowe, staż pracy oraz rodzaj i zakres
 powierzonych mu obowiązków, zgodnie z ustalonym taryfikatorem kwalifikacyjnym.
@@ -855,6 +847,7 @@ nierobotniczych ustala się według poniższej tabeli:
 
 ## Strona 16
 
+*(strona pusta w oryginale dokumentu)*
 
 
 ## Strona 17
@@ -908,6 +901,7 @@ Starszy V-VII wyższe odpowiednie | 3 lata pracy
 
 ## Strona 18
 
+*(strona pusta w oryginale dokumentu)*
 
 
 ## Strona 19
@@ -951,22 +945,16 @@ I średnie
 
 Za zgodność:
 
-de 5 EK z Człęń
-4d ZĄD 121 iek Zarządu
+CZŁONEK ZARZĄDU                          Członek Zarządu
+ds. Techniczno-Eksploatacyjnych          Główny Księgowy
 
-Olga Zuchmańska Martyna Gawrońska
+Olga Zuchmańska                          Martyna Gawrońska
 
-SPÓŁDZIE
-
-" L-LNIA Mrocz
-
-maż ao ŻKANIOWA
-. S<ŃSK
-
-u. Nowopolska la/ją
+[Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14”]
 
 ## Strona 20
 
+*(strona pusta w oryginale dokumentu)*
 
 
 ## Strona 21
@@ -979,11 +967,11 @@ Spółdzielni Mieszkaniowej
 
 Zasady wynagradzania pracowników na stanowiskach robotniczych
 
-$1.
+§ 1.
 Zasady wynagradzania pracowników na stanowiskach robotniczych nie obejmują gospodarzy
 domów.
 
-$ 2.
+§ 2.
 1. Pracownicy zatrudnieni na stanowiskach robotniczych otrzymują wynagrodzenie
 zasadnicze określone stawką miesięczną.
 2. Wynagrodzenie zasadnicze przyznaje się zgodnie z kategorią osobistego
@@ -1007,13 +995,14 @@ wynagrodzenia lub zwiększenia środków finansowych na wynagrodzenia.
 miesięcznie płatnych, wynagrodzenie to należy podzielić przez liczbę godzin pracy
 przypadających do przepracowania w danym miesiącu.
 
-83.
+§ 3.
 1. Kategorię osobistego zaszeregowania przyznaje się pracownikowi w oparciu
 o posiadane przez niego kwalifikacje zawodowe, staż pracy oraz rodzaj i zakres powierzonych
 mu obowiązków, zgodnie z ustalonym taryfikatorem kwalifikacyjnym.
 
 ## Strona 22
 
+*(strona pusta w oryginale dokumentu)*
 
 
 ## Strona 23
@@ -1036,7 +1025,7 @@ osiedla i zieleni
 e Konserwator
 e Pracownik budowlany
 
-54. |
+§ 4.
 
 1.  Zaszeregowania (przeszeregowania) pracowników dokonuje Zarząd Spółdzielni
 
@@ -1053,18 +1042,16 @@ zaszeregowania z zachowaniem ustawowego terminu wypowiedzenia.
 
 Za zgodność:
 
-Finych
+CZŁONEK ZARZĄDU                          Członek Zarządu
+ds. Techniczno-Eksploatacyjnych          Główny Księgowy
 
-CZ » *
-ds. GRANE Z Czigqneł Zarządu
-cin iż ĄDU Giówny WE
+Olga Zuchmańska                          Martyna Gawrońska
 
-Ol sa |
-ga Zuchmań sk „ 'arbima Gawrońska
-Ska
+[Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12”]
 
 ## Strona 24
 
+*(strona pusta w oryginale dokumentu)*
 
 
 ## Strona 25
@@ -1077,7 +1064,7 @@ Spółdzielni Mieszkaniowej
 
 Zasady wynagradzania gospodarzy domów i pracownika gospodarczego
 
-$1.
+§ 1.
 1. Czas pracy gospodarzy domów, zwanych dalej „gospodarzami” i pracownika
 gospodarczego ustala Zarząd Spółdzielni wymiarem zleconych do wykonania robót.
 
@@ -1088,7 +1075,7 @@ wysokość minimalnego wynagrodzenia za pracę.
 3. Gospodarze i pracownik gospodarczy zatrudnieni są w zadaniowym systemie czasu
 
 pracy.
-$ 2.
+§ 2.
 
 1. Miesięczne wynagrodzenie zasadnicze gospodarza składa się z wynagrodzenia
 za wykonanie czynności wymiernych, ustalonych w zależności od powierzonej do obsługi
@@ -1106,17 +1093,17 @@ oraz za wykonanie czynności niewymiernych.
 2. Miesięczne wynagrodzenie przysługuje za utrzymanie czystości na powierzonym
 terenie oraz wykonywanie innych czynności zleconych przez przełożonych.
 
-83.
+§ 3.
 Częstotliwość wykonywania przez gospodarzy okresowych czynności uzależniona jest
 od potrzeb i ustalana przez bezpośredniego przełożonego.
 
-54.
+§ 4.
 
 1. Pracownicy zatrudnieni na stanowiskach gospodarzy domów otrzymują
 wynagrodzenie zasadnicze według tabeli:
 
 Powierzchnia obsługiwana Miesięczne Kategoria
-w m? przeliczeniowych wynagrodzenie zasadnicze brutto | zaszeregowania
+w m² przeliczeniowych wynagrodzenie zasadnicze brutto | zaszeregowania
 (w zł)
 7.500 — 10.000 4.666,00 — 4.800,00 | I
 10.001 - 12.000 —_— | 4.801,00 — 5.000,00 | II
@@ -1125,6 +1112,7 @@ w m? przeliczeniowych wynagrodzenie zasadnicze brutto | zaszeregowania
 
 ## Strona 26
 
+*(strona pusta w oryginale dokumentu)*
 
 
 ## Strona 27
@@ -1135,21 +1123,23 @@ wynagrodzenie zasadnicze według powyższej tabeli bez uwzględniania powierzchn
 3. Ustalenie wysokości wynagrodzenia następuje w ramach posiadanych środków
 funduszu płac, w zależności od wielkości zadań przydzielonych.
 
-$5.
+§ 5.
 Do gospodarzy nie stosuje się postanowień dotyczących zasad wynagradzania za pracę
 w niedziele i święta oraz w dni ustawowo wolne od pracy, a także w warunkach szkodliwych
 dla zdrowia.
 
 Za zgodność:
-ds. NEK
-$4 cza j SZA Di Głó
-wyjiryć h
 
-Olga
-Zuch maską Martyna Gawroj iska
+CZŁONEK ZARZĄDU                          Członek Zarządu
+ds. Techniczno-Eksploatacyjnych          Główny Księgowy
+
+Olga Zuchmańska                          Martyna Gawrońska
+
+[Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14”]
 
 ## Strona 28
 
+*(strona pusta w oryginale dokumentu)*
 
 
 ## Strona 29
@@ -1163,7 +1153,7 @@ Spółdzielni Mieszkaniowej
 Oświadczenie
 
 1. Z dniem —_.................. przystępuję do Programu „MultiSport*” wdrożonego
-przez Spółdzielnię Mieszkaniową ,„„Doły-Marysińska”” w Łodzi. Otrzymując kartę MultiSport
+przez Spółdzielnię Mieszkaniową ,„Doły-Marysińska”” w Łodzi. Otrzymując kartę MultiSport
 będącą potwierdzeniem uczestnictwa w Programie, zobowiązuję się do pokrywania części
 abonamentu za korzystanie z Programu przy pomocy karty w wysokości wynikającej
 z aktualnie obowiązującego cennika, każdego miesiąca, do czasu rezygnacji z uczestnictwa
@@ -1191,14 +1181,14 @@ Data i podpis pracownika
 
 Za zgodność:
 
-TYT>Yr= A - A
-SPÓŁDZIELNIA MIESZKANIOWA  GZZQNEK 74 RzĄDy - ( o cządu
+[Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14”]
 
-"DOŁY MARYSIŃSKA" U luazuiwipiacyjnwe 4 RYILĘGOWY
-ZARZĄD
+CZŁONEK ZARZĄDU                          Członek Zarządu
+ds. Techniczno-Eksploatacyjnych          Główny Księgowy
 
-91-712 Łódź, ul. Nowopolska 12/14 Otga Zuchmańska cawryńska
+Olga Zuchmańska                          Martyna Gawrońska
 
 ## Strona 30
 
+*(strona pusta w oryginale dokumentu)*
 
