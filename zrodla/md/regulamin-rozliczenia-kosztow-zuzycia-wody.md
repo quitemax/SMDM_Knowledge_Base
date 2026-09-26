@@ -13,7 +13,7 @@ Postawa prawna:
 - Ustawa z dnia 07 czerwca 2001r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzeniu
 ścieków tj. Dz. U.2019 poz.1437 z póź.zm.
 
-- $ 49 ust.1 pkt.15 Statutu Spółdzielni SM „ Doły — Marysińska „ w Łodzi
+- § 49 ust.1 pkt.15 Statutu Spółdzielni SM „ Doły — Marysińska „ w Łodzi
 
 - Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych ( tj. Dz.U. z 2018 r poz. 845) z
 póź.zmianami)
@@ -47,27 +47,30 @@ na jedną osobę wyliczone na podstawie analizy wewnętrznej, określone uchwał
 9) opłata stała — zużycie wody na cele gospodarcze, techniczne oraz opłaty abonamentowe,
 ustalana uchwałą Rady Nadzorczej Spółdzielni,
 
-10) opłata za odczyt — opłata'z tytułu odczytu wodomierzy bez modułów radiowych
+10) opłata za odczyt — opłata·z tytułu odczytu wodomierzy bez modułów radiowych
 zamontowanych indywidualnie przez właściciela lokalu, ustalana uchwałą Rady Nadzorczej
 Spółdzielni.
+
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 2
 
 Zobowiązania i uprawnienia dostawcy
 
-$1
+§1
 Do obowiązków dostawcy należy:
 1. dostarczanie wody do lokali w sposób ciągły i bez zakłóceń oraz odprowadzenie ścieków,
 2. utrzymanie, eksploatacja i usuwanie awarii urządzeń wodociągowych i kanalizacyjnych oraz
 przyłączy będących własnością dostawcy ( od przyłącza do zaworu odcinającego w mieszkaniu ),
 3. rozliczenie kosztów zużycia wody z odbiorcą.
 
-$2
+§2
 
 Przedstawiciele dostawcy mają prawo wstępu do lokalu odbiorcy w celu dokonania odczytów i
 kontroli wodomierzy.
 
-g3
+§3
 
 Dostawca jest uprawniony do:
 
@@ -84,8 +87,8 @@ budynek.
 
 Zobowiązania i uprawnienia odbiorcy
 
-$4
-Do obowiązków odbiorcy należy: |
+§4
+Do obowiązków odbiorcy należy:
 1. utrzymanie w należytym stanie technicznym instalacji wodociągowej od zaworu na pionie w
 lokalu do punktu czerpalnego łącznie z nim,
 2. udostępnienie lokalu przedstawicielom dostawcy w celu dokonania odczytów wodomierzy,
@@ -96,14 +99,14 @@ utrzymanie plomb na wodomierzach w stanie nienaruszonym,
 lokali bez wodomierzy.
 6. przeprowadzenie legalizacji i instalacja nowych wodomierzy po określeniu typu wodomierza
 przez dostawcę, przy czym odbiorca może powierzyć wykonanie powyższych czynności
-
-uk M
-
 dostawcy.
+
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 3
 
-= 55
+§5
 1. Wodomierze w lokalu są własnością właściciela lokalu który ponosi:
 
 - koszty montażu wodomierzy,
@@ -118,13 +121,13 @@ radiowy.
 
 2. Koszty montażu legalizacji wodomierzy rozliczane są z odbiorcą w 36 ratach miesięcznych.
 
-86
+§6
 Odbiorca jest uprawniony do składania reklamacji dotyczących stanu technicznego instalacji wodno-
 kanalizacyjnej, za którą odpowiedzialność ponosi dostawca
 
 Przerwy w świadczeniu usług
 
-$7
+§7
 1. Dostawca usług nie ponosi odpowiedzialności za przerwy w dostawie wody lub okresowe
 obniżenie ciśnienia oraz za przerwy w odbiorze ścieków spowodowane:
 — _ brakiem wody w przyłączu wodociągowym do budynków niskich,
@@ -136,7 +139,7 @@ wodę,
 odbiorców usług w sposób zwyczajowo przyjęty, o czasie trwania przerwy w dopływie wody
 lub odbiorze ścieków.
 
-58
+§8
 
 W przypadku awarii bądź robót remontowych powodujących wyłączenie dostawy wody do całego
 budynku na czas dłuższy niż 12 godzin, dostawca zapewni zastępczy punkt poboru wody wskazując
@@ -145,12 +148,13 @@ obciążają koszty eksploatacji spółdzielni.
 
 Reklamacje
 
-$9
+§9
 1. W przypadku pogorszenia się jakości dostarczanej wody z przyczyn niezawinionych przez
 dostawcę, dostawca występuje do Zakładu Wodociągów i Kanalizacji w celu uzyskania
 bonifikaty za dostarczoną wodę o pogorszonej jakości.
 
-WORZUA
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 4
 
@@ -158,7 +162,7 @@ WORZUA
 
 odbiorcami.
 
-810
+§10
 
 1. Na wniosek odbiorcy, dostawca dokona oceny prawidłowości wskazań wodomierza
 zamontowanego w lokalu.
@@ -174,7 +178,7 @@ w każdym przypadku odbiorca.
 
 Zasady rozliczania należności za zużycie wody i odprowadzenie ścieków
 
-811
+§11
 1. Dostawca rozlicza faktycznie poniesione koszty zakupu wody i odprowadzenia ścieków dla
 danego budynku lub budynków zasilanych z jednej hydroforni pomiędzy odbiorców
 zamieszkałych w tym budynku bądź budynkach.
@@ -183,7 +187,7 @@ zamieszkałych w tym budynku bądź budynkach.
 odprowadzeniem ścieków ( np. opłaty abonamentowe ) dla danego budynku lub budynków
 pomiędzy odbiorców zamieszkałych w tym budynku bądź budynkach.
 
-$12
+§12
 
 1. Ilość wody dostarczonej do budynku ustala się na podstawie wskazania wodomierza
 głównego( dla budynków do pięciu kondygnacji).
@@ -200,59 +204,57 @@ wodomierzami głównymi rozliczana jest proporcjonalnie do wskazań wodomierzy g
 Ilość wody przypadającej do rozliczenia na budynek zasilany z hydroforni oblicza się wg wzoru:
 
 Wz .
-W = reemenmnmmm- X WW £M3)
+W = ------------- x WB { m3 }
 WG
 gdzie:
 W - zużycie wody w budynku przypadające do rozliczenia, po uwzględnieniu różnicy wskazań
 pomiędzy wodomierzem zbiorczym a sumą wskazań wodomierzy głównych zasilanych z hydroforni w
-m?
+m³
 
-Wa - suma wskazań wodomierzy głównych zasilanych z danej hydroforni w m”
+WG - suma wskazań wodomierzy głównych zasilanych z danej hydroforni w m³
+
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 5
 
-W, - wskazanie wodomierza zbiorczego w m
+WZ - wskazanie wodomierza zbiorczego w m³
 
-WB - wskazanie wodomierza głównego w budynku w m3; ( w przypadku, gdy budynek posiada dwa
+WB - wskazanie wodomierza głównego w budynku w m³ ( w przypadku, gdy budynek posiada dwa
 przyłącza wodociągowe - suma wskazań obydwu wodomierzy na przyłączach ).
 
-3.
-4.
+3. Ilość odprowadzonych ścieków jest równa ilości dostarczonej wody do budynku.
 
-gdzie:
-
-Ilość odprowadzonych ścieków jest równa ilości dostarczonej wody do budynku.
-
-Ilość wody dostarczonej do lokalu określa się na podstawie wskazań wodomierzy
+4. Ilość wody dostarczonej do lokalu określa się na podstawie wskazań wodomierzy
 zainstalowanych przy punktach czerpalnych wody.
 
-Ilość wody dostarczonej do lokalu nie wyposażonego w wodomierze, określa się jako iloczyn
+5. Ilość wody dostarczonej do lokalu nie wyposażonego w wodomierze, określa się jako iloczyn
 ryczałtowego zużycia i liczbę osób zamieszkałych w lokalu.
 
-$13
-Odczyty wodomierzy w lokalach mieszkalnych dokonywane są raz w roku na dzień 31
+§13
+1. Odczyty wodomierzy w lokalach mieszkalnych dokonywane są raz w roku na dzień 31
 grudnia oraz w przypadku zmiany cen jednostkowych wody i ścieków.
 Za okres rozliczeniowy przyjmuje się okres od 01.01. do 31.12. każdego roku, oprócz
 przypadków, o których mowa w ust. 3.
-Odczyty wodomierzy w lokalach usługowych, w pawilonach usługowo - handlowych
+2. Odczyty wodomierzy w lokalach usługowych, w pawilonach usługowo - handlowych
 dokonywane są co miesiąc. Okresy rozliczeniowe obejmują jeden miesiąc.
-Lokale zwalniane przez użytkowników rozliczane są z chwilą zwolnienia lokalu.
+3. Lokale zwalniane przez użytkowników rozliczane są z chwilą zwolnienia lokalu.
 
-814
-Opłaty za dostawę wody i odprowadzenie ścieków ustala się dla poszczególnych lokali
+§14
+1. Opłaty za dostawę wody i odprowadzenie ścieków ustala się dla poszczególnych lokali
 zaliczkowo, na podstawie rzeczywistego zużycia w poprzednim okresie rozliczeniowym.
 
-Wysokość zaliczek o których mowa w ust.1 na poczet zużycia wody może być zmieniona w
+2. Wysokość zaliczek o których mowa w ust.1 na poczet zużycia wody może być zmieniona w
 uzasadnionych przypadkach na pisemny wniosek odbiorcy.
 
-815
-Rozliczenie zużycia wody w budynkach mieszkalnych gdzie nie wszystkie lokale wyposażone
+§15
+1. Rozliczenie zużycia wody w budynkach mieszkalnych gdzie nie wszystkie lokale wyposażone
 są w wodomierze oraz ustalenie wyniku finansowego do rozliczenia , dokonywane jest wg
 wzoru :
 
-Wzw =( Kszw + Kzzw ) — ( PRzw * Pwzw * Post. )
+Wzw =( Kszw + Kzzw ) – ( PRzw + Pwzw + Post. )
 
-Wazw - różnica kosztów i przychodów z tytułu dostawy zimnej wody i odprowadzania ścieków (wynik)
+Wzw - różnica kosztów i przychodów z tytułu dostawy zimnej wody i odprowadzania ścieków (wynik)
 
 Kszw - koszty stałe dostawy zimnej wody (np. opłaty abonamentowe )
 
@@ -263,20 +265,16 @@ PRzw- przychody- ryczałtowe zużycie zimnej wody
 Pwzw= przychody- zużycie zimnej wody wg wskazań wodomierzy indywidualnych
 P ost.- przychody — opłata stała
 
-2.
-
-gdzie:
-
-Rozliczenie zużycia wody w budynkach mieszkalnych gdzie wszystkie lokale wyposażone są
+2. Rozliczenie zużycia wody w budynkach mieszkalnych gdzie wszystkie lokale wyposażone są
 w wodomierze indywidualne oraz ustalenie wyniku finansowego do rozliczenia, dokonywane
 jest wg wzoru:
 
-Wzw =( Kszw * Kzzw ) —( Pwzw * Post.)
+Wzw =( Kszw + Kzzw ) –( Pwzw + Post.)
 
 ## Strona 6
 
-Waw = różnica kosztów i przychodów z tytułu dostawy zimnej wody i odprowadzania ścieków (wynik)
-Kszw - Koszty stałe dostawy zimnej wody (np. opłaty abonamentowe )
+Wzw - różnica kosztów i przychodów z tytułu dostawy zimnej wody i odprowadzania ścieków (wynik)
+Kszw - koszty stałe dostawy zimnej wody (np. opłaty abonamentowe )
 
 Kzzw - koszty zmienne zimnej wody (zużycie)
 
@@ -289,23 +287,23 @@ P ost.- przychody — opłata stała
 budynku bądź zespołu budynków.
 
 4. Koszt zużycia zimnej wody w lokalu wyposażonym w wodomierze indywidualne stanowi
-iloczyn ilości zużytej wody i ceny jednostkowej 1m” wody i odprowadzenia ścieków.
+iloczyn ilości zużytej wody i ceny jednostkowej 1m³ wody i odprowadzenia ścieków.
 
 5. Koszt zużycia zimnej wody w lokalu mieszkalnym nie posiadającym wodomierzy
-indywidualnych jest iloczynem ilości ryczałtowego zużycia wody i ceny jednostkowej 1m*
+indywidualnych jest iloczynem ilości ryczałtowego zużycia wody i ceny jednostkowej 1m³
 wody i odprowadzeni ścieków.
 
 6. Koszt zużycia ciepłej wody w lokalu wyposażonym w wodomierze stanowi iloczyn zużytej
-ciepłej wody i ceny jednostkowej podgrzania 1m? wody.
+ciepłej wody i ceny jednostkowej podgrzania 1m³ wody.
 
 7. Koszt zużycia ciepłej wody w lokalu nie wyposażonym w wodomierze indywidualne stanowi
-iloczyn ilości ryczałtowego zużycia ciepłej wody i ceny jednostkowej podgrzania 1m* wody.
+iloczyn ilości ryczałtowego zużycia ciepłej wody i ceny jednostkowej podgrzania 1m³ wody.
 
 8. W lokalu mieszkalnym nie wyposażonym w wodomierze indywidualne w którym nie przebywa
 żadna osoba, koszt zużycia wody przypadający na ten lokal określa się w wysokości 75%
 ryczałtowego zużycia dla jednej osoby.
 
-816
+§16
 
 1. W przypadku braku odczytu wodomierzy indywidualnych z przyczyn zależnych od odbiorcy w
 danym okresie rozliczeniowym, rozliczeni zużycia wody dokonuje się w oparciu o średnie
@@ -320,8 +318,7 @@ zużycia dokonuje się w oparciu o średnie zużycie poprzedniego okresu rozlicz
 powiększone o 20%.
 
 4. Jeżeli odbiorca w ciągu ostatnich dwóch okresów rozliczeniowych nie udostępni lokalu w celu
-
-" dokonania odczytów wodomierzy indywidualnych, następne okresy rozliczeniowe rozliczane
+dokonania odczytów wodomierzy indywidualnych, następne okresy rozliczeniowe rozliczane
 są wg zużycia ryczałtowego po uprzednim powiadomieniu o tym odbiorcy.
 
 5. Przywrócenie do rozliczenia zużycia wody wg wodomierzy indywidualnych może nastąpić na
@@ -332,41 +329,47 @@ Regulamin został zatwierdzony w dniu 24 kwietnia 2007 r. przez Radę Nadzorczą
 
 Zmiany do Regulaminu zostały uchwalone przez Radę Nadzorczą:
 
-, SPÓŁDZIELNIA MIESZKANIOWA
-- uchwałą nr 13/R/2017 z dnia 28.03.2017 r. "DOŁY MARYSIŃSKA"
-- uchwałą nr 28/R/2018 z dnia 30.10.2018 r. gą a. RZĄD
-- uchwałą nr MDIGJBISz dnia...98.3....139.428.1.2.) owopolska 12/14
+- uchwałą nr 13/R/2017 z dnia 28.03.2017 r.
+- uchwałą nr 28/R/2018 z dnia 30.10.2018 r.
+- uchwałą nr 43/R/2019 z dnia 29.10.2019 r.
 
-6 .
-Muuwekę_6470 ML
+ADWOKAT
+Agnieszka Rychlicka
+
+SPÓŁDZIELNIA MIESZKANIOWA
+"DOŁY MARYSIŃSKA"
+ZARZĄD
+91-712 Łódź, ul. Nowopolska 12/14
+
+[nieczytelne]
 
 ## Strona 7
 
-Uchwała nr 422] 0
+Uchwała nr 43/R/19
 
 Rady Nadzorczej SM „Doły - Marysińska” z dnia 29.10.2019 r.
 
 w sprawie zmian do Regulaminu rozliczania kosztów zużycia wody w Spółdzielni
 Mieszkaniowej „Doły - Marysińska”
 
-Rada Nadzorcza SM „Doły-Marysińska działając na podstawie $ 49 ust I pkt 15 statutu
+Rada Nadzorcza SM „Doły-Marysińska działając na podstawie § 49 ust 1 pkt 15 statutu
 Spółdzielni
 
 postanawia:
 
-$1
+§1
 
 Wprowadzić zmiany do Regulaminu rozliczania kosztów zużycia wody w Spółdzielni Mieszkaniowej
 „Doły-Marysińska” w Łodzi:
 
-| —  Uzupełniasię treść podstawy prawnej w ten sposób, że wskazuje się aktualne źródło
+I. — Uzupełnia się treść podstawy prawnej w ten sposób, że wskazuje się aktualne źródło
 publikacji, Ustawy z dnia 07 czerwca 2001r. o zbiorowym zaopatrzeniu w wodę i
 zbiorowym odprowadzeniu ścieków na „tj. Dz. U. z 2019, poz. 1437 z póź. zm.”
-— _Skreśla się $42 ust. 1 pkt 15 Statutu Spółdzielni Mieszkaniowej „Doły- Marysińska”.
+— _Skreśla się §42 ust. 1 pkt 15 Statutu Spółdzielni Mieszkaniowej „Doły- Marysińska”.
 — _ Wprowadza się zapis w brzmieniu „Ustawa z 15.12.2000 r. o spółdzielniach
 mieszkaniowych ( tj. Dz. U. 2018 poz. 845,z póź. zm.).
 
-Il. Treść $ 5 dzieli się na 2 ust., które otrzymują brzmienie:
+II. Treść § 5 dzieli się na 2 ust., które otrzymują brzmienie:
 
 1.  Wodomierze w lokalu są własnością właściciela lokalu, który ponosi:
 
@@ -377,55 +380,52 @@ Il. Treść $ 5 dzieli się na 2 ust., które otrzymują brzmienie:
 — koszty napraw lub wymiany wodomierzy w przypadku ich niesprawności,
 
 — koszty z tytułu odczytu wodomierza mieszkaniowego nie wyposażonego w
-moduł radiowy. |
+moduł radiowy.
 
 2. Koszty montażu legalizacji wodomierzy rozliczane są z odbiorcą w 36 ratach
-
 miesięcznych.
 
-II. Treść $ 14 dzieli się na 2 ust., które otrzymują brzmienie:
+III. Treść § 14 dzieli się na 2 ust., które otrzymują brzmienie:
 
 1. Opłaty za dostawę wody i odprowadzenie ścieków ustala się dla poszczególnych
 lokali zaliczkowo, na podstawie rzeczywistego zużycia w poprzednim okresie
 rozliczeniowym
 
-2. Wysokość zaliczek orktórych mowa w pkt.1 na poczet zużycia wody może być
+2. Wysokość zaliczek o których mowa w pkt.1 na poczet zużycia wody może być
 zmieniona w uzasadnionych przypadkach na pisemny wniosek odbiorcy
-IV. $ 15 ust. 8 otrzymuje brzmienie:
+IV. § 15 ust. 8 otrzymuje brzmienie:
 W lokalu mieszkalnym niewyposażonym w wodomierze indywidualne, w którym nie
 przebywa żadna osoba , koszt zużycia wody przypadający na ten lokal określa się w
 wysokości 75% ryczałtowego zużycia dla jednej osoby.
-V. $ 16 ust.4 i ust. 5 otrzymuje brzmienie:
+V. § 16 ust.4 i ust. 5 otrzymuje brzmienie:
 
-A DW QJK AT
-
-Agniosiiyodihha
-V
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 8
 
 4. Jeżeli odbiorca w ciągu dwóch kolejnych okresów rozliczeniowych nie udostępni
 lokalu w celu dokonania odczytów wodomierzy indywidualnych, następne okresy
-
 rozliczeniowe rozliczane są wg zużycia ryczałtowego, po uprzednim powiadomieniu
 o tym odbiorcy.
 
-Przywrócenie do rozliczenia zużycia wody wg wodomierzy indywidualnych może
+5. Przywrócenie do rozliczenia zużycia wody wg wodomierzy indywidualnych może
 nastąpić na wniosek odbiorcy złożony w formie pisemnej.
 
-VI.  Skreśla się $ 17.
-$2
+VI. Skreśla się § 17.
+
+§2
 
 Pozostałe postanowienia Regulaminu pozostają bez zmian.
-83
+
+§3
 
 Uchwała wchodzi w życie z dniem podjęcia.
 
-SEKRETARZ —*
+SEKRETARZ                              PRZEWODNICZĄCY
+RADY NADZORCZEJ                        RADY NADZORCZEJ
 
-Z PRZEWO
-RADY NADZORI EJ RAD ZORCYEJ
-[|
+Helena Rajpold                         Wojciech Kołodziejczak
 
-U
-Felena Rajpold Wojciech Kołodziejczak
+ADWOKAT
+Agnieszka Rychlicka
