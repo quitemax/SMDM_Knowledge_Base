@@ -28,6 +28,10 @@ można rozważyć migrację do dedykowanego narzędzia (np. BookStack).
 - [`procedury-mieszkancow/`](procedury-mieszkancow/) — czego mieszkaniec
   może się spodziewać, jak zgłasza sprawy (do wykorzystania też przy
   komunikacji zewnętrznej).
+- [`zrodla/`](zrodla/) — oryginalne regulaminy i statut (PDF) oraz ich
+  wersje przekonwertowane na Markdown, na podstawie których zbudowano
+  powyższe foldery; pełna lista z opisami w
+  [`zrodla/spis-dokumentow.md`](zrodla/spis-dokumentow.md).
 
 ## Jak dokumentować proces
 

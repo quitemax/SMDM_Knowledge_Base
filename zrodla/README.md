@@ -5,12 +5,16 @@ tej bazy wiedzy (patrz pliki w folderach `struktura-organizacyjna/`,
 `zarzad/`, `czynsze-ksiegowosc/`, itd. — każdy z cytatami numerów
 paragrafów).
 
+Pełna lista dokumentów z linkami i opisem, co jest w każdym pliku:
+[`spis-dokumentow.md`](spis-dokumentow.md).
+
 - `pdf/` — oryginalne skany/eksporty PDF.
 - `md/` — wersje przekonwertowane na Markdown (OCR, `scripts/pdf_to_markdown.py`
-  z projektu SMDM_Sprawozdania) — mogą zawierać drobne błędy odczytu
-  skanów, traktuj jako pomoc, nie jako źródło ostateczne przy sporach
-  interpretacyjnych (w takich przypadkach sprawdź PDF/oryginał
-  papierowy).
+  z projektu SMDM_Sprawozdania), następnie ręcznie poprawione strona po
+  stronie względem PDF (błędy odczytu znaków „§”, numeracji list,
+  podpisów/pieczątek). Mimo korekty traktuj jako pomoc, nie jako źródło
+  ostateczne przy sporach interpretacyjnych — w takich przypadkach
+  zawsze sprawdź oryginalny PDF.
 
 **Celowo pominięto** pliki z folderu „umowy i zakres obowiązków dla
 Prezydium" — to prawdziwe umowy o pracę i zakresy obowiązków
