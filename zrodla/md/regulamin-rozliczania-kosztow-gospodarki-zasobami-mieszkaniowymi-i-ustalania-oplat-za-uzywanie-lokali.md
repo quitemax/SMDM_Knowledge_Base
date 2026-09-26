@@ -1,26 +1,70 @@
-# regulamin-rozliczania-kosztow-gospodarki-zasobami-mieszkaniowymi-i-ustalania-oplat-za-uzywanie-lokali
+# Regulamin rozliczania kosztów gospodarki zasobami mieszkaniowymi oraz ustalania opłat za używanie lokali w Spółdzielni Mieszkaniowej „Doły - Marysińska” w Łodzi
 
-> **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).
+*(tekst jednolity)*
 
-## Strona 1
+## Spis treści
 
-REGULAMIN
+- [I. Podstawa prawna](#dzial-1)
+- [II. Postanowienia ogólne](#dzial-2)
+  - [§ 1](#par-1)
+  - [§ 2](#par-2)
+  - [§ 3](#par-3)
+  - [§ 4](#par-4)
+  - [§ 5](#par-5)
+- [III. Zasady ogólne rozliczeń](#dzial-3)
+  - [§ 6](#par-6)
+  - [§ 7](#par-7)
+  - [§ 8](#par-8)
+  - [§ 9](#par-9)
+  - [§ 10](#par-10)
+  - [§ 11](#par-11)
+  - [§ 12](#par-12)
+  - [§ 13](#par-13)
+- [IV. Zasady rozliczania kosztów utrzymania nieruchomości lokalowych](#dzial-4)
+  - [§ 14](#par-14)
+  - [§ 15](#par-15)
+  - [§ 16](#par-16)
+  - [§ 17](#par-17)
+  - [IV.1. Rozliczanie kosztów centralnego ogrzewania i dostaw ciepłej i zimnej wody](#dzial-4-1)
+    - [§ 18](#par-18)
+    - [§ 19](#par-19)
+    - [§ 20](#par-20)
+    - [§ 21](#par-21)
+    - [§ 22](#par-22)
+  - [IV.2. Rozliczanie kosztów eksploatacji dźwigów](#dzial-4-2)
+    - [§ 23](#par-23)
+  - [IV.3. Rozliczenie kosztów gospodarowania odpadami komunalnymi](#dzial-4-3)
+    - [§ 24](#par-24)
+  - [IV.4. Rozliczanie podatku od nieruchomości części wspólnych](#dzial-4-4)
+    - [§ 25](#par-25)
+  - [IV.5. Rozliczenie kosztów odpisu na fundusz remontowy](#dzial-4-5)
+    - [§ 26](#par-26)
+    - [§ 27](#par-27)
+    - [§ 28](#par-28)
+- [V. Obowiązki Spółdzielni w zakresie gospodarki zasobami mieszkaniowymi](#dzial-5)
+  - [§ 29](#par-29)
+  - [§ 30](#par-30)
+  - [§ 31](#par-31)
+  - [§ 32](#par-32)
+- [VI. Podział napraw wewnątrz lokali na obciążające Spółdzielnię oraz użytkowników lokali](#dzial-6)
+  - [§ 33](#par-33)
+- [VII. Rozliczenie finansowe Spółdzielni z użytkownikami zwalniającymi lokale mieszkalne](#dzial-7)
+  - [§ 34](#par-34)
+- [VIII. Postanowienia końcowe](#dzial-8)
+  - [§ 35](#par-35)
+  - [§ 36](#par-36)
+  - [§ 37](#par-37)
 
-ROZLICZANIA KOSZTÓW GOSPODARKI ZASOBAMI MIESZKANIOWYMI ORAZ
-
-USTALANIA OPŁAT ZA UŻYWANIE LOKALI
-w SPÓŁDZIELNI MIESZKANIOWEJ „DOŁY - MARYSIŃSKA” w Łodzi
-(tekst jednolity)
-
-I. PODSTAWA PRAWNA
+<a id="dzial-1"></a>
+## I. Podstawa prawna
 
 1. ustawa z dnia 16 września 1982r. prawo spółdzielcze / t.j. Dz.U. z 2003r. nr 188 poz. 1848
 ze zm.
 2. ustawa z dnia 15 grudnia 2000r. o spółdzielniach mieszkaniowych / t.j. Dz.U. z 2003r. nr 119
 poz.1116 ze zm.
 3. ustawa z dnia 24 czerwca 1994r. o własności lokali / t.j. Dz.U. z 2000r. nr 80 poz. 903 ze zm.
-4. ustawa z dnia 21 czerwca 2001r. o ochronie praw lokatorów , mieszkaniowym zasobie gminy
-i o zmianie Kodeksu cywilnego/ t.j. Dz.U. z 2005r. nr 31 poz. 266 ze zm.
+4. ustawa z dnia 21 czerwca 2001r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy
+i o zmianie Kodeksu cywilnego / t.j. Dz.U. z 2005r. nr 31 poz. 266 ze zm.
 5. ustawa z dnia 29 września 1994r. o rachunkowości / t.j. Dz.U. z 2009r. nr 152 poz. 1223 ze zm.
 6. ustawa z dnia 21 sierpnia 1997r. o gospodarce nieruchomościami / t.j. Dz.U. z 2010r. nr 102
 poz. 651.
@@ -31,30 +75,31 @@ poz. 613.
 nr 54 poz. 654 ze zm.
 10. statut Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
-II. POSTANOWIENIA OGÓLNE
+<a id="dzial-2"></a>
+## II. Postanowienia ogólne
 
-§ 1
+<a id="par-1"></a>
+### § 1
 
 Regulamin określa zasady rozliczania kosztów gospodarki zasobami mieszkaniowymi w celu ustalenia
 wysokości opłat ponoszonych przez użytkowników lokali w związku z eksploatacją tychże lokali.
 
-§ 2
+<a id="par-2"></a>
+### § 2
 
 Ilekroć w regulaminie jest mowa o:
 
-1.
-
-gospodarce zasobami mieszkaniowymi — należy przez to rozumieć gospodarkę obejmującą
-lokale mieszkalne , użytkowe oraz garaże stanowiące własność lub współwłasność Spółdzielni
+1. gospodarce zasobami mieszkaniowymi — należy przez to rozumieć gospodarkę obejmującą
+lokale mieszkalne, użytkowe oraz garaże stanowiące własność lub współwłasność Spółdzielni
 oraz nieruchomości wspólnych objętych jej zarządem, a także gospodarkę nieruchomościami
 stanowiącymi mienie Spółdzielni — zabudowanymi urządzeniami i sieciami uzbrojenia
 technicznego terenu związanymi z funkcjonowaniem budynków;
 
 2. użytkowniku lokalu — należy przez to rozumieć wszystkie osoby korzystające z lokalu
-mieszkalnego , użytkowego , garażu bez względu na posiadany tytuł prawny do lokalu a także
+mieszkalnego, użytkowego, garażu bez względu na posiadany tytuł prawny do lokalu a także
 osoby korzystające z lokalu bez tytułu prawnego;
 
-3. mieniu Spółdzielni — należy przez to rozumieć: nieruchomości , budowle , małą architekturę
+3. mieniu Spółdzielni — należy przez to rozumieć: nieruchomości, budowle, małą architekturę
 będącą własnością Spółdzielni – służące prawidłowemu funkcjonowaniu wszystkich
 nieruchomości zarządzanych i administrowanych przez Spółdzielnię
 
@@ -66,15 +111,13 @@ korzystanie z tego mienia przez użytkowników lokalu,
 5. nieruchomości — należy przez to rozumieć działkę lub kilka działek, jak również budynek
 i trwale z gruntem związane budowle, dla których prowadzona jest jedna księga wieczysta;
 
-## Strona 2
-
 6. nieruchomości zabudowanej – należy przez to rozumieć działkę lub działki gruntowe
-zabudowane obiektami budowlanymi / na trwale związanymi z gruntem/
+zabudowane obiektami budowlanymi /na trwale związanymi z gruntem/
 
 7. obiekcie budowlanym — należy przez to rozumieć:
 
 a/ budynek wraz z instalacjami i urządzeniami technicznymi,
-b/ budowlę stanowiącą całość techniczno- użytkową wraz z instalacjami i urządzeniami,
+b/ budowlę stanowiącą całość techniczno-użytkową wraz z instalacjami i urządzeniami,
 c/ obiekt małej architektury;
 
 8. budynku — należy przez to rozumieć taki obiekt budowlany, który jest trwale związany
@@ -82,15 +125,12 @@ z gruntem wydzielony z przestrzeni za pomocą przegród budowlanych oraz posiada
 fundamenty i dach,
 
 9. obiekcie małej architektury — należy przez to rozumieć niewielkie obiekty,
-
 a w szczególności:
 
 a/ kultu religijnego jak: kapliczki, krzyże przydrożne, figury,
-
-b/ posągi , wodotryski i inne obiekty architektury ogrodowej,
-
+b/ posągi, wodotryski i inne obiekty architektury ogrodowej,
 c/ użytkowe służące rekreacji codziennej i utrzymaniu porządku, jak:
-piaskownice , huśtawki , drabinki , śmietniki;
+piaskownice, huśtawki, drabinki, śmietniki;
 
 10. remoncie — należy przez to rozumieć wykonywanie w istniejącym obiekcie budowlanym robót
 budowlanych polegających na odtworzeniu stanu pierwotnego, a nie stanowiących bieżącej
@@ -112,36 +152,42 @@ i zachowania jej w stanie co najmniej niepogorszonym, a także czynności podejm
 zachowania bezpieczeństwa użytkowania nieruchomości i ich użytkowników /mienia i ludzi/
 mieszkających w zasobach Spółdzielni.
 
-§ 3
+<a id="par-3"></a>
+### § 3
 
 1. Rozliczenia kosztów gospodarki zasobami mieszkaniowymi ewidencjonowane są odrębnie
 dla poszczególnych nieruchomości i przeprowadza się je w okresach rocznych, pokrywających
 się z latami kalendarzowymi.
 
 2. Rozliczenie funduszu remontowego w podziale na nieruchomości następuje w 5-letnich
-okresach rozliczeniowych , z wyjątkiem przypadków określonych w ust. 3.
+okresach rozliczeniowych, z wyjątkiem przypadków określonych w ust. 3.
 
 3. Z chwilą powstania wspólnoty mieszkaniowej, osoby posiadające tytuł prawny do lokali tej
 nieruchomości — zobowiązane są do bezzwłocznego dokonania rozliczenia i ewentualnej
 dopłaty do pełnej wysokości kosztów poniesionych na remonty.
 
-§ 4
+<a id="par-4"></a>
+### § 4
+
 1. Podstawą do rozliczeń z tytułu kosztów gospodarki zasobami mieszkaniowymi — jest roczny
 plan rzeczowo-finansowy uchwalony przez organ wskazany w statucie Spółdzielni.
 2. Jeżeli w ciągu roku następują zmiany mające wpływ na wysokość kosztów gospodarki
 zasobami mieszkaniowymi dokonywana jest korekta planu rzeczowo-finansowego i rozliczenia
 kosztów oraz wysokości obciążeń poszczególnych lokali.
 
-§ 5
+<a id="par-5"></a>
+### § 5
+
 Różnica między rzeczywistymi kosztami a przychodami gospodarki zasobami mieszkaniowymi
 w danym roku zwiększa odpowiednio koszty lub przychody tej gospodarki w następnym roku
 obrachunkowym.
 
-## Strona 3
+<a id="dzial-3"></a>
+## III. Zasady ogólne rozliczeń
 
-III. ZASADY OGÓLNE ROZLICZEŃ
+<a id="par-6"></a>
+### § 6
 
-§ 6
 Fizycznymi jednostkami rozliczeniowymi kosztów gospodarki zasobami mieszkaniowymi są:
 - jeden m² powierzchni użytkowej lokalu,
 - jeden użytkownik lokalu,
@@ -150,7 +196,8 @@ Fizycznymi jednostkami rozliczeniowymi kosztów gospodarki zasobami mieszkaniowy
 - budynek,
 - nieruchomość.
 
-§ 7
+<a id="par-7"></a>
+### § 7
 
 1. Powierzchnią użytkową lokalu mieszkalnego jest powierzchnia wszystkich pomieszczeń
 znajdujących się w lokalu bez względu na ich przeznaczenie i sposób używania jak: pokoje,
@@ -162,47 +209,52 @@ przez meble wbudowane bądź obudowane.
 suszarni, strychów, piwnic, komórek, zsypów i innych pomieszczeń gospodarczych.
 
 3. Do powierzchni użytkowej lokalu mieszkalnego nie wlicza się tej części powierzchni
-w pomieszczeniach o sufitach nierównoległych do podłogi / np. w mansardach/, której wysokość
+w pomieszczeniach o sufitach nierównoległych do podłogi /np. w mansardach/, której wysokość
 od podłogi do sufitu wynosi mniej niż 140 cm. Jeżeli wysokość pomieszczenia lub jego części
-wynosi od 140 cm do 220 cm to do powierzchni użytkowej lokalu mieszkalnego wlicza się 50 %
+wynosi od 140 cm do 220 cm to do powierzchni użytkowej lokalu mieszkalnego wlicza się 50%
 powierzchni tego pomieszczenia lub jego części.
 
-Powierzchnię lokalu lub jego części o wysokości co najmniej 220 cm zalicza się w 100 %.
+Powierzchnię lokalu lub jego części o wysokości co najmniej 220 cm zalicza się w 100%.
 
-§ 8
+<a id="par-8"></a>
+### § 8
 
 1. Do powierzchni lokalu użytkowego zalicza się powierzchnię wszystkich pomieszczeń
-znajdujących się w nim oraz pomieszczeń przynależnych jak : piwnice , zamknięte pomieszczenia
-składowe . Do powierzchni lokalu użytkowego zalicza się również powierzchnię zajętą
+znajdujących się w nim oraz pomieszczeń przynależnych jak: piwnice, zamknięte pomieszczenia
+składowe. Do powierzchni lokalu użytkowego zalicza się również powierzchnię zajętą
 przez meble wbudowane lub obudowane.
 
 2. Powierzchnia lokalu zajęta przez urządzenia techniczne związane z funkcją danego lokalu jest
 powierzchnią tego lokalu.
 
 3. Powierzchnię pomieszczeń służących kilku użytkownikom lokali np. korytarz, wspólne
-urządzenia sanitarne / dolicza się w proporcjonalnych częściach do powierzchni poszczególnych
+urządzenia sanitarne dolicza się w proporcjonalnych częściach do powierzchni poszczególnych
 lokali.
 
-§ 9
+<a id="par-9"></a>
+### § 9
+
 Powierzchnię użytkową mieszkań i lokali użytkowych dla celów rozliczenia kosztów GZM oblicza się
 według powykonawczej dokumentacji technicznej budynku przyjętej przez Spółdzielnię w trakcie
-odbioru , a w przypadkach spornych wg faktycznie zajmowanej powierzchni , przy uwzględnieniu
+odbioru, a w przypadkach spornych wg faktycznie zajmowanej powierzchni, przy uwzględnieniu
 treści uchwały nr 21/R/05 RN Spółdzielni z dnia 15.03.2005r. utrzymującej normę polską
 PN 70/B 02365.
 
-§ 10
-Przez urządzenia pomiarowe i inne jednostki rozliczeniowe , które są stosowane w rozliczeniach
-kosztów gospodarki zasobami mieszkaniowymi rozumie się :
+<a id="par-10"></a>
+### § 10
+
+Przez urządzenia pomiarowe i inne jednostki rozliczeniowe, które są stosowane w rozliczeniach
+kosztów gospodarki zasobami mieszkaniowymi rozumie się:
 - wodomierze,
 - ciepłomierze,
 - liczniki energii elektrycznej.
 
-§ 11
-1. Liczbę osób zamieszkujących w danym lokalu przyjmuje się według oświadczenia osoby
-posiadającej tytuł prawny do lokalu , zaś w przypadku lokalu zajmowanego bez tytułu
-prawnego — wg ustaleń pracownika Spółdzielni.
+<a id="par-11"></a>
+### § 11
 
-## Strona 4
+1. Liczbę osób zamieszkujących w danym lokalu przyjmuje się według oświadczenia osoby
+posiadającej tytuł prawny do lokalu, zaś w przypadku lokalu zajmowanego bez tytułu
+prawnego — wg ustaleń pracownika Spółdzielni.
 
 2. Użytkownik lokalu jest zobowiązany do niezwłocznego powiadamiania Spółdzielni
 o każdorazowej zmianie liczby osób zamieszkujących w lokalu.
@@ -220,26 +272,28 @@ wniosek zainteresowanego rozpatruje Zarząd Spółdzielni.
 
 6. Koszty gospodarki zasobami mieszkaniowymi spółdzielni obejmują:
 - koszty utrzymania nieruchomości lokalowej,
-- koszty utrzymania / eksploatacji / nieruchomości wspólnych.
+- koszty utrzymania /eksploatacji/ nieruchomości wspólnych.
 
-§ 12
+<a id="par-12"></a>
+### § 12
 
-Do kosztów utrzymania / eksploatacji / nieruchomości lokalowej zaliczamy :
+Do kosztów utrzymania /eksploatacji/ nieruchomości lokalowej zaliczamy:
 
 1. koszty dostawy energii cieplnej zużytej na potrzeby centralnego ogrzewania i podgrzania wody,
-2. koszty dostawy wody i odprowadzania ścieków ,
+2. koszty dostawy wody i odprowadzania ścieków,
 3. koszty wywozu nieczystości,
 4. podatek od nieruchomości i opłata za wieczyste użytkowanie gruntu dotyczące lokali
-spółdzielczych ,
+spółdzielczych,
 5. inne nieokreślone rodzajowo koszty związane z daną nieruchomością
 
-§ 13
+<a id="par-13"></a>
+### § 13
 
-1. Do kosztów utrzymania części wspólnej nieruchomości zalicza się w szczególności :
+1. Do kosztów utrzymania części wspólnej nieruchomości zalicza się w szczególności:
 
 1. koszty dostawy energii cieplnej,
 2. koszty dostawy wody zimnej i odprowadzania ścieków,
-3. koszty wywozu nieczystości ,
+3. koszty wywozu nieczystości,
 4. koszty remontów i konserwacji,
 5. opłaty za wieczyste użytkowanie i podatek od nieruchomości obciążające tę nieruchomość,
 6. koszty ubezpieczenia budynku,
@@ -250,26 +304,18 @@ w prawie budowlanym,
 10. koszty energii elektrycznej zużytej na oświetlenie pomieszczeń wspólnych,
 11. koszty sprzątania części wspólnych nieruchomości,
 12. koszty utrzymania terenów zielonych i dróg osiedlowych,
-13. koszty administrowania nieruchomością w tym :
+13. koszty administrowania nieruchomością w tym:
 
 a/ płace i narzuty gospodarzy domów
-
 b/ zużycie materiałów
-
-c/ pozostałe koszty takie jak : opłaty telefoniczne , koszty utrzymania lokali własnych,
-koszty przejazdów i usług transportowych , diety i wydatki na obsługę organów
-Spółdzielni , prowizje bankowe i inne
-
+c/ pozostałe koszty takie jak: opłaty telefoniczne, koszty utrzymania lokali własnych,
+koszty przejazdów i usług transportowych, diety i wydatki na obsługę organów
+Spółdzielni, prowizje bankowe i inne
 d/ odpisy na zakładowy fundusz świadczeń socjalnych
-
 e/ amortyzacja środków trwałych i urządzeń
-
 f/ remonty i konserwacje środków trwałych niemieszkaniowych
-
 g/ ubezpieczenie majątku Spółdzielni
-
 h/ narzut kosztów ogólnych
-
 i/ i inne zakwalifikowane do w/w grup związane z mieniem Spółdzielni.
 
 2. Ewidencja kosztów eksploatacji i utrzymania części wspólnych nieruchomości
@@ -277,64 +323,78 @@ dokonywana jest na podstawie dokumentów źródłowych bezpośrednio dotyczącyc
 nieruchomości lub na podstawie dokonanych rozliczeń według zasad określonych
 w regulaminie.
 
-## Strona 5
+<a id="dzial-4"></a>
+## IV. Zasady rozliczania kosztów utrzymania nieruchomości lokalowych
 
-IV. ZASADY ROZLICZANIA KOSZTÓW UTRZYMANIA NIERUCHOMOŚCI
-LOKALOWYCH.
+<a id="par-14"></a>
+### § 14
 
-§ 14
 1. Na poczet kosztów eksploatacji i utrzymania nieruchomości lokalowej użytkownicy lokali
 wnoszą opłaty eksploatacyjne wynikającej z pomnożenia stawki eksploatacyjnej
 przez powierzchnię lokalu.
 2. Stawka eksploatacyjna zatwierdzona jest uchwałą Rady Nadzorczej i wynika z kalkulacji
-wchodzących w jej skład kosztów w przeliczeniu na 1 m2 powierzchni lokalu
+wchodzących w jej skład kosztów w przeliczeniu na 1 m² powierzchni lokalu
 3. W odniesieniu do stawki eksploatacyjnej obciążającej garaże — uchwała Rady Nadzorczej
 określa oprócz stawki eksploatacyjnej również rodzaj kosztów eksploatacyjnych wliczanych
 do stawki.
 
-§ 15
-1. Koszty eksploatacji rozlicza się na wszystkie lokale mieszkalne , użytkowe , garaże .
-2. Nie obciąża się kosztami eksploatacji pomieszczeń ogólnego użytku : pralni i suszarni
-domowych , przechowalni wózków oraz piwnic.
+<a id="par-15"></a>
+### § 15
+
+1. Koszty eksploatacji rozlicza się na wszystkie lokale mieszkalne, użytkowe, garaże.
+2. Nie obciąża się kosztami eksploatacji pomieszczeń ogólnego użytku: pralni i suszarni
+domowych, przechowalni wózków oraz piwnic.
 3. Najemcy lokali użytkowych pokrywają koszty eksploatacji poprzez ustalony w umowie
-najmu czynsz , który nie powinien być niższy od kosztów eksploatacji i opłat
+najmu czynsz, który nie powinien być niższy od kosztów eksploatacji i opłat
 przypadających na ten lokal.
 
-§ 16
-Podstawą do ustalenia obciążeń poszczególnych lokali kosztami eksploatacji / z wyłączeniem odpisów
-na fundusz remontowy oraz podatku od nieruchomości / jest średni roczny koszt w przeliczeniu na
+<a id="par-16"></a>
+### § 16
+
+Podstawą do ustalenia obciążeń poszczególnych lokali kosztami eksploatacji /z wyłączeniem odpisów
+na fundusz remontowy oraz podatku od nieruchomości/ jest średni roczny koszt w przeliczeniu na
 1 m² powierzchni użytkowej.
 
-§ 17
+<a id="par-17"></a>
+### § 17
+
 Średni roczny koszt eksploatacji 1 m² powierzchni użytkowej powiększony jest dla poszczególnych
 lokali o odpis na fundusz na remonty w wysokości właściwej dla danych lokali oraz o podatek
 od nieruchomości uiszczany przez spółdzielnię od danych lokali.
 
-IV.1 Rozliczanie kosztów centralnego ogrzewania i dostaw ciepłej i zimnej wody.
+<a id="dzial-4-1"></a>
+#### IV.1. Rozliczanie kosztów centralnego ogrzewania i dostaw ciepłej i zimnej wody
 
-§ 18
+<a id="par-18"></a>
+### § 18
+
 Koszty centralnego ogrzewania i dostaw ciepłej i zimnej wody rozliczane są w podziale
-na nieruchomości wchodzące w skład poszczególnych osiedli : Doły i Marysińska w tym Inflancka
+na nieruchomości wchodzące w skład poszczególnych osiedli: Doły i Marysińska w tym Inflancka
 i Berlińskiego, a następnie rozliczane na nieruchomości.
 
-§ 19
-Koszt centralnego ogrzewania i ciepłej wody rozlicza się wg wskazań aparatury pomiarowej węzłów
-cieplnych .
+<a id="par-19"></a>
+### § 19
 
-§ 20
+Koszt centralnego ogrzewania i ciepłej wody rozlicza się wg wskazań aparatury pomiarowej węzłów
+cieplnych.
+
+<a id="par-20"></a>
+### § 20
+
 Za powierzchnię ogrzewaną centralnym ogrzewaniem uważa się powierzchnię użytkową lokali
 posiadających grzejniki c.o. oraz wchodzących w skład lokali mieszkalnych lub użytkowych
 pomieszczeń ogrzewanych ciepłem pośrednim z pomieszczeń sąsiadujących. Nie wlicza się
-do powierzchni ogrzewanej centralnie : balkonów , logii , tarasów , klatek schodowych, piwnic ,
-strychów , pralni i suszarni domowych , pomieszczeń na wózki dziecinne i.t.p.
+do powierzchni ogrzewanej centralnie: balkonów, logii, tarasów, klatek schodowych, piwnic,
+strychów, pralni i suszarni domowych, pomieszczeń na wózki dziecinne i.t.p.
 
-§ 21
+<a id="par-21"></a>
+### § 21
+
 Za powierzchnię objętą dostawami ciepłej wody uważa się powierzchnię użytkową lokalu, w którym
 jest przynajmniej jedno ujęcie ciepłej wody dostarczanej centralnie.
 
-## Strona 6
-
-§ 22
+<a id="par-22"></a>
+### § 22
 
 1. Wysokość opłat za dostawę ciepłej i zimnej wody może ulec zmianie w następujących
 przypadkach:
@@ -343,16 +403,19 @@ przypadkach:
 - zmiany liczby osób zamieszkałych oraz przebywających w sposób stały w danym lokalu
 - ilości zużytej wody.
 
-1. Wnoszone opłaty z tytułu dostawy ciepłej i zimnej wody od lokali mieszkalnych będą ustalane
+2. Wnoszone opłaty z tytułu dostawy ciepłej i zimnej wody od lokali mieszkalnych będą ustalane
 od liczby osób zamieszkałych w lokalu oraz innych osób przebywających w sposób stały
 w lokalu bądź na podstawie odczytów wodomierzy.
 
-IV.2 Rozliczanie kosztów eksploatacji dźwigów.
+<a id="dzial-4-2"></a>
+#### IV.2. Rozliczanie kosztów eksploatacji dźwigów
 
-§ 23
+<a id="par-23"></a>
+### § 23
+
 1. Koszty eksploatacji dźwigów ewidencjonowane są odrębnie dla każdej nieruchomości, która
 takie koszty generuje.
-2. Koszty eksploatacji dźwigów obejmują :
+2. Koszty eksploatacji dźwigów obejmują:
 - koszty napraw bieżących
 - koszty konserwacji
 - koszty dozoru technicznego
@@ -362,19 +425,22 @@ takie koszty generuje.
 koszty eksploatacji wymienione w ust. 2.
 4. Na pokrycie kosztów eksploatacji dźwigów użytkownicy lokali mieszkalnych położonych
 powyżej parteru wnoszą opłaty w wysokości ustalonej na podstawie liczby osób
-zamieszkujących w danym lokalu , a w lokalach na pierwszym piętrze
-50 % wyliczonych opłat
-5. Za lokale obsługiwane przez dźwigi osobowe , uważa się lokale położone powyżej parteru,
-względnie jeżeli dźwig usytuowany jest wyżej , od następnej kondygnacji użytkowania
-dźwigów. Powierzchnię lokali położonych na pierwszym piętrze zalicza się w 50 % , powyżej
-w 100 %.
+zamieszkujących w danym lokalu, a w lokalach na pierwszym piętrze
+50% wyliczonych opłat
+5. Za lokale obsługiwane przez dźwigi osobowe, uważa się lokale położone powyżej parteru,
+względnie jeżeli dźwig usytuowany jest wyżej, od następnej kondygnacji użytkowania
+dźwigów. Powierzchnię lokali położonych na pierwszym piętrze zalicza się w 50%, powyżej
+w 100%.
 6. Nadwyżka wpływów z tytułu eksploatacji dźwigów z danej nieruchomości zwiększa fundusz
 remontowy danej nieruchomości w części dotyczącej remontów kapitalnych dźwigów
 w następnym roku obrachunkowym.
 
-IV.3 Rozliczenie kosztów gospodarowania odpadami komunalnymi
+<a id="dzial-4-3"></a>
+#### IV.3. Rozliczenie kosztów gospodarowania odpadami komunalnymi
 
-§ 24
+<a id="par-24"></a>
+### § 24
+
 1. Koszty gospodarowania odpadami komunalnymi obejmują:
 1) koszty wywozu komunalnych odpadów posegregowanych;
 2) koszty wywozu odpadów wielkogabarytowych;
@@ -387,10 +453,6 @@ wynikających z uchwał Rady Miejskiej w Łodzi.
 
 Koszty, o których mowa w ust. 1 pkt. 3 ustalane są przez służby Spółdzielni na podstawie
 faktycznie poniesionych kosztów.
-
-6
-
-## Strona 7
 
 3. Opłaty za gospodarowanie odpadami komunalnymi są opłatami niezależnymi od Spółdzielni.
 Opłaty za gospodarowanie odpadami komunalnymi ewidencjonuje się i rozlicza odrębnie dla
@@ -407,13 +469,13 @@ z postanowieniami Statutu Spółdzielni.
 5. Dla lokalu mieszkalnego wyposażonego w wodomierze ustala się miesięczną zaliczkę na opłaty
 za gospodarowanie odpadami komunalnymi w wysokości stanowiącej iloczyn
 średniomiesięcznego zużycia wody (wyliczony w oparciu o rozliczenie zużycia wody za rok
-poprzedni)p i jednostkowej stawki opłaty za 1 m³ wody przyjętej Uchwałą Rady Miejskiej
+poprzedni) i jednostkowej stawki opłaty za 1 m³ wody przyjętej Uchwałą Rady Miejskiej
 w Łodzi.
 
 6. Dla lokalu mieszkalnego nieopomiarowanego, w którym brak jest możliwości ustalenia
 średniomiesięcznego zużycia wody na podstawie wskazań wodomierzy indywidualnych, ustala
-się je na zasadach obowiązujących w Spółdzielni wynikających z Regulaminu rozliczenia
-kosztów zużycia wody w Spółdzielni Mieszkaniowej „Doły-Marysińska”.
+się je na zasadach obowiązujących w Spółdzielni wynikających z [Regulaminu rozliczenia
+kosztów zużycia wody w Spółdzielni Mieszkaniowej „Doły-Marysińska”](regulamin-rozliczenia-kosztow-zuzycia-wody.md).
 
 7. Opłaty wnoszone za gospodarowanie odpadami komunalnymi podlegają rozliczeniu
 z mieszkańcami w podziale na poszczególne budynki w oparciu o faktyczne zużycie wody
@@ -441,9 +503,11 @@ a wniesionymi przez najemców opłatami będzie zewidencjonowana w koszty lub pr
 eksploatacji lokali użytkowych. Opłaty za gospodarowanie odpadami komunalnymi
 nie są rozliczane z najemcami lokali użytkowych.
 
-IV.4 Rozliczanie podatku od nieruchomości części wspólnych.
+<a id="dzial-4-4"></a>
+#### IV.4. Rozliczanie podatku od nieruchomości części wspólnych
 
-§ 25
+<a id="par-25"></a>
+### § 25
 
 1. Opłacany przez Spółdzielnię podatek od nieruchomości jest ewidencjonowany odrębnie
 dla każdej nieruchomości.
@@ -452,104 +516,112 @@ dla każdej nieruchomości.
 są poszczególnych użytkowników lokali proporcjonalnie do powierzchni użytkowej lokali bez
 względu na wyodrębnienie lokalu.
 
-3. Jednostką rozliczeniową podatku od nieruchomości jest m2 powierzchni użytkowej lokalu.
+3. Jednostką rozliczeniową podatku od nieruchomości jest m² powierzchni użytkowej lokalu.
 
-4.  Okresem rozliczeniowym kosztów podatku od nieruchomości jest rok kalendarzowy.
+4. Okresem rozliczeniowym kosztów podatku od nieruchomości jest rok kalendarzowy.
 
-## Strona 8
+<a id="dzial-4-5"></a>
+#### IV.5. Rozliczenie kosztów odpisu na fundusz remontowy
 
-IV.5 Rozliczenie kosztów odpisu na fundusz remontowy
+<a id="par-26"></a>
+### § 26
 
-§ 26
 1. Odpisy na fundusz remontowy nalicza się na: lokale mieszkalne i użytkowe znajdujące się
 w budynkach mieszkalnych w wysokości ustalonej przez Radę Nadzorczą w przeliczeniu
+na 1 m² powierzchni użytkowej.
 
-na 1 m2 powierzchni użytkowej.
-
-2. Lokale użytkowe w budynkach wolnostojących / cała powierzchnia związana z prowadzeniem
+2. Lokale użytkowe w budynkach wolnostojących /cała powierzchnia związana z prowadzeniem
 działalności gospodarczej/ amortyzuje się zgodnie ze stawkami określonymi w ustawie
 o podatku dochodowym od osób prawnych.
 
-§ 27
+<a id="par-27"></a>
+### § 27
 
 1. Spółdzielnia tworzy fundusz na remonty zasobów mieszkaniowych. Odpisy na ten fundusz
 obciążają koszty gospodarki zasobami mieszkaniowymi.
 
 2. Obowiązek świadczenia na fundusz remontowy dotyczy członków Spółdzielni,
-właścicieli lokali i osób , którym przysługuje spółdzielcze własnościowe prawo do lokalu
+właścicieli lokali i osób, którym przysługuje spółdzielcze własnościowe prawo do lokalu
 nie będących członkami Spółdzielni a także osób zajmujących lokal bez tytułu prawnego.
 
 3. Wysokość odpisów na fundusz remontowy zatwierdzona jest uchwałą Rady Nadzorczej
-i wynika i wynika z kalkulacji wchodzących w jej skład kosztów w przeliczeniu na 1 m2
+i wynika z kalkulacji wchodzących w jej skład kosztów w przeliczeniu na 1 m²
 powierzchni lokalu.
 
-§ 28
+<a id="par-28"></a>
+### § 28
 
 1. Rozliczenie funduszu remontowego w podziale na nieruchomości odbywa się w 5 letnich
-okresach rozliczeniowych , począwszy od 01 stycznia 2008r.
+okresach rozliczeniowych, począwszy od 01 stycznia 2008r.
 
-2. Pięcioletni okres , o którym mowa w ust. 1 podlega skróceniu w przypadku powstania wspólnoty
+2. Pięcioletni okres, o którym mowa w ust. 1 podlega skróceniu w przypadku powstania wspólnoty
 mieszkaniowej danej nieruchomości.
 
 3. Z chwilą powstania wspólnoty mieszkaniowej — osoby posiadające tytuł prawny do lokalu tej
 nieruchomości zobowiązane są do bezzwłocznego dokonania dopłaty do pełnej wysokości
 kosztów poniesionych na remonty w tej nieruchomości.
 
-4.  Pięcioletni okres rozliczeniowy , o którym mowa w ust. 1 nie zwalnia Spółdzielni z prowadzenia
+4. Pięcioletni okres rozliczeniowy, o którym mowa w ust. 1 nie zwalnia Spółdzielni z prowadzenia
 corocznej ewidencji naliczeń na fundusz remontowy i kosztów poniesionych z tego funduszu
 z podziałem na nieruchomości.
 
-V. OBOWIĄZKI SPÓŁDZIELNI W ZAKRESIE GOSPODARKI ZASOBAMI
+<a id="dzial-5"></a>
+## V. Obowiązki Spółdzielni w zakresie gospodarki zasobami mieszkaniowymi
 
-MIESZKANIOWYMI
-§ 29
-1. W ramach pobieranych opłat za używanie lokali , Spółdzielnia zobowiązana jest zapewnić
+<a id="par-29"></a>
+### § 29
+
+1. W ramach pobieranych opłat za używanie lokali, Spółdzielnia zobowiązana jest zapewnić
 w zakresie eksploatacji i remontów zasobów mieszkaniowych — utrzymanie budynków
+w należytym stanie technicznym i estetycznym, sprawne funkcjonowanie wszelkich instalacji
+i urządzeń w budynkach oraz ich otoczeniu, a także sprawną obsługę administracyjną.
 
-w należytym stanie technicznym i estetycznym , sprawne funkcjonowanie wszelkich instalacji
-i urządzeń w budynkach oraz ich otoczeniu , a także sprawną obsługę administracyjną.
-
-2. Do obowiązków Spółdzielni w zakresie napraw wewnątrz lokali należy :
+2. Do obowiązków Spółdzielni w zakresie napraw wewnątrz lokali należy:
 a/ w zakresie centralnego ogrzewania — utrzymanie normatywnej temperatury wewnątrz lokali
 w sezonie grzewczym
 b/ w zakresie dostaw ciepłej wody — możliwość stałego korzystania z ciepłej wody
 o właściwych parametrach
 c/ w zakresie eksploatacji dźwigów — stałe funkcjonowanie dźwigów.
 
-§ 30
+<a id="par-30"></a>
+### § 30
+
 Niedogrzanie lokalu lub brak ciepłej wody użytkownik powinien zgłosić w dniu jego stwierdzenia.
 Spółdzielnia ma obowiązek sprawdzenia powyższego faktu w dniu zgłoszenia lub najpóźniej w dniu
 następnym. Sprawdzenie winno odbyć się w obecności użytkownika lokalu.
 Za niedogrzanie lokalu lub brak ciepłej wody przysługują upusty cenowe.
 
-## Strona 9
+<a id="par-31"></a>
+### § 31
 
-§ 31
 1. Użytkowników lokali korzystających z dźwigów zwalnia się z opłat w części dotyczącej
 eksploatacji dźwigów za każdy dzień unieruchomienia dźwigu w stosunku
 proporcjonalnym do opłaty miesięcznej.
-2. Bonifikatę dla użytkowników dźwigów osobowych stosuje się , jeżeli dźwig jest nieczynny
+2. Bonifikatę dla użytkowników dźwigów osobowych stosuje się, jeżeli dźwig jest nieczynny
 nieprzerwanie powyżej 24 godzin.
 3. Podstawą do stwierdzenia czasu unieruchomienia dźwigu jest wpis w książce zgłoszeń awarii
 prowadzonej przez służby techniczne Spółdzielni.
-4. Bonifikat nie stosuje się , jeżeli w budynku występują dwa dźwigi , z których tylko jeden był
-nieczynny , względnie występuje większa ilość dźwigów , z których korzystanie umożliwione
+4. Bonifikat nie stosuje się, jeżeli w budynku występują dwa dźwigi, z których tylko jeden był
+nieczynny, względnie występuje większa ilość dźwigów, z których korzystanie umożliwione
 jest poprzez przejście na wyższych kondygnacjach.
 
-§ 32
+<a id="par-32"></a>
+### § 32
 
 Opłaty za używanie lokalu wnoszone są w okresach miesięcznych z góry w terminie do dnia 15
 każdego miesiąca. Członkowie Spółdzielni wnoszą opłaty za pośrednictwem PKO. Koszty prowizji
 pobieranej przez PKO ponosi Spółdzielnia.
 
-VI. PODZIAŁ NAPRAW WEWNĄTRZ LOKALI NA OBCIĄŻAJĄCE SPÓŁDZIELNIĘ ORAZ
-UŻYTKOWNIKÓW LOKALI.
+<a id="dzial-6"></a>
+## VI. Podział napraw wewnątrz lokali na obciążające Spółdzielnię oraz użytkowników lokali
 
-§ 33
+<a id="par-33"></a>
+### § 33
+
 1. Naprawami w rozumieniu niniejszego regulaminu są roboty konserwacyjne oraz naprawy
 bieżące obiektów budowlanych.
 
-2. Do obowiązków Spółdzielni w zakresie napraw lokali należą naprawy :
+2. Do obowiązków Spółdzielni w zakresie napraw lokali należą naprawy:
 
 - głównych przewodów instalacji kanalizacyjnej tj piony kanalizacyjne wraz z trójnikiem
 - instalacji wodnej włącznie z zaworami odcinającymi na pionach
@@ -558,96 +630,53 @@ bieżące obiektów budowlanych.
 gazomierza mieszkaniowego
 - instalacji elektrycznej do licznika poboru energii
 - naprawy wewnątrz lokali polegające na usunięciu zniszczeń powstałych z winy
-Spółdzielni , z przyczyn niezależnych od użytkownika.
-3. Naprawy instalacji , o których mowa w ust. 2 dotyczą standardowego wyposażenia lokalu.
+Spółdzielni, z przyczyn niezależnych od użytkownika.
+3. Naprawy instalacji, o których mowa w ust. 2 dotyczą standardowego wyposażenia lokalu.
 4. Naprawy wewnątrz lokali nie zaliczone w regulaminie do obowiązków Spółdzielni obciążają
 użytkowników lokali.
 5. Wszelkie uszkodzenia wewnątrz lokalu powstałe z winy użytkownika lokalu lub jego
 domowników obciążają te osoby.
 
-VII. ROZLICZENIE FINANSOWE SPÓŁDZIELNI Z UŻYTKOWNIKAMI
-ZWALNIAJĄCYMI LOKALE MIESZKALNE
+<a id="dzial-7"></a>
+## VII. Rozliczenie finansowe Spółdzielni z użytkownikami zwalniającymi lokale mieszkalne
 
-§ 34
-1. W przypadku zwrotu lokalu i postawienia go do dyspozycji Spółdzielni , wartość lokalu zostaje
+<a id="par-34"></a>
+### § 34
+
+1. W przypadku zwrotu lokalu i postawienia go do dyspozycji Spółdzielni, wartość lokalu zostaje
 oszacowana przez rzeczoznawcę majątkowego.
 2. Osobie uprawnionej Spółdzielnia zwraca wartość rynkową uzyskaną w przetargu po potrąceniu
 m. innymi:
 a/ zaległych opłat wraz z odsetkami naliczonymi do dnia zbycia lokalu,
-b/ poniesionych przez Spółdzielnię kosztów na opróżnienie lokalu , dezynfekcję, dezynsekcję,
+b/ poniesionych przez Spółdzielnię kosztów na opróżnienie lokalu, dezynfekcję, dezynsekcję,
 c/ kosztów ogłoszenia w prasie o przetargu,
 d/ kosztów sporządzenia operatu szacunkowego,
 e/ kosztów organizacji przetargu zgodnie z uchwałą Zarządu Spółdzielni,
 f/ kosztów podłączenia energii elektrycznej i gazu.
 
-## Strona 10
-
 3. Spółdzielnia wypłaca osobie uprawnionej kwotę uzyskaną w przetargu po potrąceniu kwot,
 o których mowa w ust. 2 niniejszego paragrafu.
 
-VIII. POSTANOWIENIA KOŃCOWE
+<a id="dzial-8"></a>
+## VIII. Postanowienia końcowe
 
-§ 35
+<a id="par-35"></a>
+### § 35
 
 W przypadku braku obiektywnych możliwości wprowadzenia określonych w regulaminie zasad,
 stosuje się sposób ewidencjonowania i rozliczania kosztów GZM zgodny z decyzjami organów
 Spółdzielni.
 
-§ 36
+<a id="par-36"></a>
+### § 36
+
 W przypadkach nieuregulowanych niniejszym regulaminem mają zastosowanie postanowienia
 statutu i powszechnie obowiązujące przepisy prawne.
 
-§ 37
-1. Regulamin został uchwalony przez Radę Nadzorczą Spółdzielni uchwałą nr 3 /R/11
-z dnia 22.02.2011 r. i wchodzi w życie z dniem uchwalenia.
-2. Zmiany do Regulaminu zostały uchwalone przez Radę Nadzorczą Spółdzielni uchwałą
+<a id="par-37"></a>
+### § 37
 
-nr 20/R/2013 z dnia 18.06.2013 r. , uchwałą nr 24/R/21. z dnia 29.06.21. i obowiązują
-od dnia 29.06.2021 r.
-
-Za zgodność:
-
-SEKRETARZ                    PRZEWODNICZĄCY
-RADY NADZORCZEJ              RADY NADZORCZEJ
-
-Helena Rajpold                Kamil Oberbek
-
-RADCA PRAWNY
-Maciej Czerw
-
-10
-
-## Strona 11
-
-Uchwała Nr 24 /R/21
-Rady Nadzorczej SM „Doły-Marysińska” w Łodzi
-z dnia 29.06.2021 r.
-
-Rada Nadzorcza działając na podstawie § 49 ust. 1 pkt. 14 statutu Spółdzielni
-postanowiła
-
-1. uchwalić Regulamin rozliczania kosztów gospodarki zasobami
-mieszkaniowymi oraz ustalania opłat za używanie lokali w Spółdzielni
-Mieszkaniowej „Doły-Marysińska” w Łodzi w brzmieniu stanowiącym
-załącznik do niniejszej uchwały,
-
-2. uchwała wchodzi w życie z dniem uchwalenia,
-
-3. traci moc Regulamin rozliczania kosztów gospodarki zasobami
-mieszkaniowymi oraz ustalania opłat za używanie lokali w Spółdzielni
-Mieszkaniowej „Doły-Marysińska” w Łodzi wprowadzony uchwałą
-Rady Nadzorczej nr 3/R/11 z dnia 22.02.2011 r. wraz ze zmianami
-uchwalonymi przez Radę Nadzorczą uchwała nr 20/R/2013 z dnia
-18.06.2013 r.
-
-SEKRETARZ                    PRZEWODNICZĄCY
-RADY NADZORCZEJ              RADY NADZORCZEJ
-
-Helena Rajpold                Kamil Oberbek
-
-RADCA PRAWNY
-Maciej Czerw
-
-## Strona 12
-
-*(strona pusta w oryginale dokumentu)*
+1. Regulamin został uchwalony przez Radę Nadzorczą Spółdzielni i wchodzi w życie z dniem
+uchwalenia.
+2. Zmiany do Regulaminu zostały uchwalone przez Radę Nadzorczą Spółdzielni i obowiązują
+od dnia uchwalenia.
