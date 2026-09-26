@@ -11,58 +11,54 @@ lokale mieszkalne i garaże w SM „Doły — Marysińska”.
 
 1. POSTANOWIENIA OGÓLNE
 
-$1
-Przedmiotem przetargu jest ustanowienie odrębnej własności lokali mieszkalnych i
+§ 1
+1. Przedmiotem przetargu jest ustanowienie odrębnej własności lokali mieszkalnych i
 garaży odzyskanych oraz postawionych do dyspozycji Spółdzielni w wyniku:
-I) ustania członkostwa i wygaśnięcia prawa do lokalu,
+1) ustania członkostwa i wygaśnięcia prawa do lokalu,
 2) wygaśnięcia lub wypowiedzenia umowy najmu.
-W celu uzyskania pierwszeństwa na zawarcie umowy o ustanowienie prawa do lokalu
+2. W celu uzyskania pierwszeństwa na zawarcie umowy o ustanowienie prawa do lokalu
 mieszkalnego, Spółdzielnia organizuje przetarg w formie licytacji ustnej.
-Przetarg ma na celu uzyskanie najwyższej ceny.
+3. Przetarg ma na celu uzyskanie najwyższej ceny.
 
-$2
+§ 2
 
 Przetarg na garaże odbywa się na tych samych zasadach jak na lokale mieszkalne.
 
-$3
+§ 3
 
 W przetargu mogą uczestniczyć osoby fizyczne i prawne.
 
-1.
-2.
-
-$4
-Przetargi przeprowadza Komisja przetargowa zwana dalej „„Komisją”.
-W przetargu nie mogą uczestniczyć osoby będące w składzie Komisji oraz członkowie
+§ 4
+1. Przetargi przeprowadza Komisja przetargowa zwana dalej „Komisją”.
+2. W przetargu nie mogą uczestniczyć osoby będące w składzie Komisji oraz członkowie
 ich rodzin.
 
-H. KOMISJA PRZETARGOWA
-
-| DORI
-
-(22
+II. KOMISJA PRZETARGOWA
 
 Skład, zakres działania, uprawnień i odpowiedzialności
 
-$5
-Komisja powoływana jest uchwałą przez Zarząd Spółdzielni.
-Komisja działa w składzie co najmniej 3 osób.
+§ 5
+1. Komisja powoływana jest uchwałą przez Zarząd Spółdzielni.
+2. Komisja działa w składzie co najmniej 3 osób.
 W skład Komisji wchodzą:
 - przewodniczący Komisji — pracownik Spółdzielni
 - członek Zarządu Spółdzielni
 - pracownik Spółdzielni, który zgodnie z zakresem obowiązków służbowych zajmuje
 się sprawami członkowsko - mieszkaniowymi i którego obowiązkiem jest
 sporządzenie protokołu z posiedzenia Komisji.
-W pracach Komisji z głosem doradczym może uczestniczyć osoba wykonująca
+3. W pracach Komisji z głosem doradczym może uczestniczyć osoba wykonująca
 obsługę prawną Spółdzielni.
-W uzasadnionych przypadkach Zarząd może wskazać innego pracownika do
+4. W uzasadnionych przypadkach Zarząd może wskazać innego pracownika do
 wykonywania czynności Komisji niż określeni w ust. 2.
-W posiedzeniach Komisji w charakterze obserwatora może brać udział członek Rady
+5. W posiedzeniach Komisji w charakterze obserwatora może brać udział członek Rady
 Nadzorczej wybrany i upoważniony przez Radę.
 
-$6
+§ 6
 
 Do zakresu działania Komisji należy:
+
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 2
 
@@ -70,7 +66,7 @@ Do zakresu działania Komisji należy:
 2) przeprowadzenie przetargu,
 3) przekazanie Zarządowi Spółdzielni wyników przetargu.
 
-$7
+§ 7
 
 Przewodniczący Komisji i jej członkowie
 
@@ -79,114 +75,104 @@ Przewodniczący Komisji i jej członkowie
 2) obowiązani są do przedstawiania Zarządowi Spółdzielni faktów i ocen wynikających z
 działalności Komisji. W imieniu Komisji występuje przewodniczący Komisji.
 
-UI. ORGANIZOWANIE PRZETARGÓW
+III. ORGANIZOWANIE PRZETARGÓW
 
-0
-
-$8
-Przetarg organizowany jest przez Zarząd Spółdzielni, który określa:
+§ 8
+1. Przetarg organizowany jest przez Zarząd Spółdzielni, który określa:
 - lokale postawione do przetargu,
 - prawo do lokalu,
 - cenę wywoławczą,
 - wysokość kwoty postąpienia,
 - termin i miejsce przetargu,
 - treść ogłoszenia.
-Jeżeli pierwszy przetarg zakończył się wynikiem negatywnym, Zarząd Spółdzielni
+2. Jeżeli pierwszy przetarg zakończył się wynikiem negatywnym, Zarząd Spółdzielni
 zobowiązany jest do zorganizowania ponownego przetargu, z obniżoną ceną
 wywoławczą ustaloną dla pierwszego przetargu.
-Przy kierowaniu lokalu na przetarg stosuje się następujące zasady ustalania cen:
+3. Przy kierowaniu lokalu na przetarg stosuje się następujące zasady ustalania cen:
 1) cena wywoławcza w pierwszym przetargu stanowi kwotę, od której rozpoczyna się
 licytacja, ustaloną wg operatu szacunkowego sporządzonego przez rzeczoznawcę
 majątkowego,
 2) cena wywoławcza w drugim i następnych przetargach może być obniżona max o
 10% od ceny wywoławczej z poprzedniego przetargu.
 
-59
-Przetarg poprzedza ogłoszenie zamieszczone w prasie codziennej i na stronie
+§ 9
+1. Przetarg poprzedza ogłoszenie zamieszczone w prasie codziennej i na stronie
 internetowej Spółdzielni, a szczegółowa treść ogłoszenia zostaje wywieszona w
 siedzibie Zarządu Spółdzielni oraz w innych miejscach o dobrej widoczności,
 wyznaczonych przez Zarząd Spółdzielni.
-Ogłoszenie o przetargu (szczegółowe) oprócz adresu lokalu postawionego do
+2. Ogłoszenie o przetargu (szczegółowe) oprócz adresu lokalu postawionego do
 przetargu, jego powierzchni użytkowej, ceny wywoławczej, terminu przeprowadzenia
 przetargu winno zawierać warunki przetargu tj.:
 - wymogi, które winny spełniać osoby mogące brać udział w przetargu,
 - postąpienie,
 - wadium (wpłata, zwrot, zaliczenie, przepadek),
 - informację o prawie odstąpienia od przetargu i unieważnienia przetargu.
-Termin przetargu należy wyznaczyć tak, aby pomiędzy datą ogłoszenia, a terminem
+3. Termin przetargu należy wyznaczyć tak, aby pomiędzy datą ogłoszenia, a terminem
 przetargu upłynęło co najmniej 14 dni.
-Przetarg rozpoczyna się w miejscu i terminie określonym w ogłoszeniu o przetargu.
-W przypadku, gdy przedmiotem ogłoszonego przetargu jest więcej niż jeden lokal
+4. Przetarg rozpoczyna się w miejscu i terminie określonym w ogłoszeniu o przetargu.
+5. W przypadku, gdy przedmiotem ogłoszonego przetargu jest więcej niż jeden lokal
 mieszkalny, postępowanie przetargowe prowadzi się oddzielnie dla każdego z nich w
 kolejności uwidocznionej w ogłoszeniu przetargowym.
 
-9
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 3
 
-IV.
-
-KM
-
-se)
-
-e
-
-$ TO
-Przystępujący do przetargu zobowiązany jest do wpłacenia wadium w terminie
+§ 10
+1. Przystępujący do przetargu zobowiązany jest do wpłacenia wadium w terminie
 wskazanym w warunkach przetargu.
-Spółdzielnia dokonuje zwrotu wadium w terminie do pięciu dni roboczych:
-- po zakończeniu przetargu wszystkim uczestnikom licytacji oprócz osoby (osób).
+2. Spółdzielnia dokonuje zwrotu wadium w terminie do pięciu dni roboczych:
+- po zakończeniu przetargu wszystkim uczestnikom licytacji oprócz osoby (osób),
 które wygrały przetarg,
 - po rezygnacji uczestnika z udziału w przetargu, jeżeli nastąpiło to przed licytacją,
 - po odwołaniu lub unieważnieniu przetargu,
 - po wykluczeniu uczestnika z przetargu.
-Wadium wpłacone przez uczestnika, który wygrał przetarg zalicza się na poczet
+3. Wadium wpłacone przez uczestnika, który wygrał przetarg zalicza się na poczet
 wylicytowanej ceny.
-Wadium ulega przepadkowi w razie rezygnacji z ubiegania się o ustanowienieprawa
+4. Wadium ulega przepadkowi w razie rezygnacji z ubiegania się o ustanowienieprawa
 do lokalu lub uchylenie się oferenta, który przetarg wygrał od wpłacenia w terminie
 30 dni od dnia przetargu wylicytowanej ceny oraz załatwienia spraw związanych z
 ustanowieniem prawa do mieszkania.
-W . szczególnie uzasadnionych przypadkach Zarząd może podjąć decyzję o
+5. W szczególnie uzasadnionych przypadkach Zarząd może podjąć decyzję o
 przesunięciu terminu wpłaty wylicytowanej ceny.
 
-$11
-Spółdzielnia dopuszcza udział na przetargu poprzez pełnomocnika na podstawie
+§ 11
+1. Spółdzielnia dopuszcza udział na przetargu poprzez pełnomocnika na podstawie
 pełnomocnictwa notarialnego.
-W sali, w której odbywa się przetarg mają prawo przebywać tylko członkowie
+2. W sali, w której odbywa się przetarg mają prawo przebywać tylko członkowie
 Komisji przetargowej, osoba wykonująca obsługę prawną Spółdzielni, członkowie
 Rady Nadzorczej obserwujący przetarg i uczestnicy przetargu, którzy wpłacili
 wadium zgodnie z warunkami przetargu.
-Osoby stające do przetargu zobowiązane są do zapoznania się i przestrzegania zasad
+3. Osoby stające do przetargu zobowiązane są do zapoznania się i przestrzegania zasad
 zawartych w niniejszym Regulaminie oraz w ogłoszeniu przetargowym.
 W momencie dostarczenia dowodu wpłaty wadium, składają oświadczenie, że znany
 jest im stan techniczny i prawny lokalu postawionego do przetargu.
 
-PRZEBIEG PRZETARGU
+IV. PRZEBIEG PRZETARGU
 
-$12
-Przetarg jest ważny przy minimum dwóch uczestnikach przetargu, z których jeden
+§ 12
+1. Przetarg jest ważny przy minimum dwóch uczestnikach przetargu, z których jeden
 zaoferował cenę wyższą od wywoławczej, przynajmniej o jedno postąpienie.
-Przed rozpoczęciem postępowania przetargowego uczestnicy przetargu podpisują listę
+2. Przed rozpoczęciem postępowania przetargowego uczestnicy przetargu podpisują listę
 obecności i pobierają kartę z numerem uczestnika.
-Przewodniczący Komisji rozpoczynając postępowanie przetargowe:
+3. Przewodniczący Komisji rozpoczynając postępowanie przetargowe:
 1) odczytuje warunki przetargu,
 2) sprawdza czy uczestnicy spełniają wymagane warunki, a w przypadku
 pełnomocnika, czy posiada odpowiednie pełnomocnictwo,
 3) potwierdza zgodność wpłaconego wadium.
-Przewodniczący Komisji informuje uczestników przetargu, że po trzecim wywołaniu
+4. Przewodniczący Komisji informuje uczestników przetargu, że po trzecim wywołaniu
 najwyższej zaoferowanej ceny dalsze postąpienia nie zostaną przyjęte.
-Licytacja rozpoczyna się od wywołania przez Przewodniczący Komisji ceny
+5. Licytacja rozpoczyna się od wywołania przez Przewodniczący Komisji ceny
 wywoławczej lokalu postawionego do przetargu i pytania „kto da więcej?”.
-Licytacja odbywa się przez ustne zgłaszanie postąpień z jednoczesnym podniesieniem
+6. Licytacja odbywa się przez ustne zgłaszanie postąpień z jednoczesnym podniesieniem
 ręki w górę z trzymaną w niej kartą uczestnika. Kartę należy trzymać w taki sposób,
 aby widniejący na niej numer był widoczny dla członków Komisji.
-Po wskazaniu i wywołaniu przez Przewodniczącego Komisji przebicia danej osoby,
+7. Po wskazaniu i wywołaniu przez Przewodniczącego Komisji przebicia danej osoby,
 osoba ta zobowiązana jest niezwłocznie opuścić rękę.
 
-s
-PES
-Agnieszk
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 4
 
@@ -204,9 +190,9 @@ przetarg.
 11. Nie dozwolone jest zabieranie głosu przez uczestników przetargu, przerywanie
 licytacji, pod rygorem wykluczenia takiego uczestnika z przetargu.
 
-. POSTANOWIENIA KOŃCOWE
+V. POSTANOWIENIA KOŃCOWE
 
-$ 13
+§ 13
 Komisja sporządza i przedkłada Zarządowi Spółdzielni protokół z przebiegu przetargu,
 który winien zawierać m. innymi:
 - oznaczenie miejsca i czasu przetargu,
@@ -221,16 +207,16 @@ osoby, która wygrała przetarg,
 - wnioski i oświadczenia osób obecnych przy przetargu,
 - podpisy członków Komisji.
 
-$ 14
+§ 14
 Zarząd Spółdzielni posiada prawo odstąpienia od przetargu i unieważnienia przetargu bez
 podania przyczyn, przed rozpoczęciem licytacji.
 
-$15
+§ 15
 W przypadku zgłoszenia przez osobę, która przetarg wygrała rezygnacji z ubiegania się o
 ustanowienie prawa do lokalu, Zarząd Spółdzielni zobowiązany jest do natychmiastowego
 podjęcia działań w celu zorganizowania ponownego przetargu.
 
-$16
+§ 16
 1. W przypadku zawierania aktu notarialnego strony przystępują do jego sporządzenia w
 terminie wspólnie uzgodnionym, po spełnieniu przez licytanta wszystkich warunków
 przetargu.
@@ -238,14 +224,17 @@ przetargu.
 wieczystoksięgowym obciążają osobę lub osoby, na rzecz których ustanawiane jest
 prawo.
 
-$17
+§ 17
 Zarząd Spółdzielni zobowiązany jest do bieżącego informowania Rady Nadzorczej o
 podejmowanych decyzjach w sprawach zagospodarowania lokali mieszkalnych
 postawionych do dyspozycji Spółdzielni.
 
+ADWOKAT
+Agnieszka Rychlicka
+
 ## Strona 5
 
-$ 18
+§ 18
 Osobie uprawnionej Spółdzielnia zwraca wartość rynkową lokalu uzyskaną w przetargu.
 po potrąceniu:
 1) zaległych opłat wraz z odsetkami naliczonymi do dnia zbycia lokalu,
@@ -256,22 +245,21 @@ dezynsekcję.
 5) kosztów organizacji przetargu zgodnie z uchwałą Zarządu Spółdzielni,
 6) inne koszty obciążające lokal.
 
-$19
-1. Regulamin został uchwalony przez Radę Nadzorczą uchwałą nr «:;. /R/19 z dnia
-ROREAWE xi.1:.... I wchodzi w życie z dniem uchwalenia.
-Traci : moc Regulamin uchwalony przez Radę Nadzorczą uchwałą nr 4 /R/11 z dnia
+§ 19
+1. Regulamin został uchwalony przez Radę Nadzorczą uchwałą nr [nieczytelne] /R/19 z dnia
+[nieczytelne] i wchodzi w życie z dniem uchwalenia.
+2. Traci moc Regulamin uchwalony przez Radę Nadzorczą uchwałą nr 4 /R/11 z dnia
 
 22.02.2011 r. ze zmianami uchwalonymi przez Radę Nadzorczą uchwałą nr 20 /R/16 z
 dnia 07.06.2016 r.
 
-N
+SEKRETARZ                    PRZEWODNICZĄCY
+RADY NADZORCZEJ              RADY NADZORCZEJ
 
-japZORCZa
+Helena Rajpold                Wojciech Kołodziejczak
 
-SEKRETARZ _
-RADY NADZORĘ: EJ
-
-Helena Rajpoli
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 6
 
@@ -279,34 +267,31 @@ Helena Rajpoli
 
 ## Strona 7
 
-Uchwała Nr ZY
-Rady Nadzorczej SM. Doti Mary: sińska” w Łodzi
+Uchwała Nr [nieczytelne] /R/19
+Rady Nadzorczej SM „Doły-Marysińska” w Łodzi
 z dnia 17.09.2019 r.
 
-Rada Nadzorcza działając na podstawie $ 49 ust. | pkt 17 statutu Spółdzielni
-
-SZ)
+Rada Nadzorcza działając na podstawie § 49 ust. 1 pkt 17 statutu Spółdzielni
 
 postanowiła
 
-uchwalić Regulamin dzialania Komisji przetargowej oraz zasad organizowania przetargu na
-lokale mi jeszkalne i garażc w S5M Doły Marysińóska”. w brzmieniu stanowiącym
+1. uchwalić Regulamin działania Komisji przetargowej oraz zasad organizowania przetargu na
+lokale mieszkalne i garaże w SM „Doły – Marysińska”, w brzmieniu stanowiącym
 załącznik do niniejszej uchwały
 
-uchwała wchodzi w życie z dniem uchwalenia
+2. uchwała wchodzi w życie z dniem uchwalenia
 
-traci moc uchwała nr H/R/TI z dnia 22.02.2011 r. ze zmianami uchwalonymi przez Radę
-Nadzorczą uchwałą nr 20/R/T16 z dnia 07.06.20161
+3. traci moc uchwała nr 4/R/11 z dnia 22.02.2011 r. ze zmianami uchwalonymi przez Radę
+Nadzorczą uchwałą nr 20/R/16 z dnia 07.06.2016 r.
 
-SEKR LETARZ PRZ
-RADY NADŻORCZIRAH
+SEKRETARZ                    PRZEWODNICZĄCY
+RADY NADZORCZEJ              RADY NADZORCZEJ
 
-Ę
+Helena Rajpold                Wojciech Kołodziejczak
 
-j a u, zajczak
-j woj 1 Kołodziej
-Helena Rajpold Wajciech K
+ADWOKAT
+Agnieszka Rychlicka
 
 ## Strona 8
 
-i
+[Odręczna lista obiegowa z inicjałami i podpisami — nieczytelna]
