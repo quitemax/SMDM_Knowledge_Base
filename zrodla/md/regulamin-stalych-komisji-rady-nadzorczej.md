@@ -4,28 +4,20 @@
 
 ## Strona 1
 
-pr
-
-w
-
-U)
-
-LU)
-
 REGULAMIN
 STAŁYCH KOMISJI RADY NADZORCZEJ
 w SM "Doły-Marysińska" w Łodzi
 
 (tekst jednolity)
-. POSTANOWIENIA OGÓLNE
-$1
-„ Komisja Rady Nadzorczej zwana dalej "Komisją" wybierana jest przez Radę Nadzorczą,
+I. POSTANOWIENIA OGÓLNE
+§ 1
+1. Komisja Rady Nadzorczej zwana dalej "Komisją" wybierana jest przez Radę Nadzorczą,
 
 zwaną dalej "Radą" na podstawie postanowień Statutu Spółdzielni i Regulaminu Rady
 Nadzorczej Spółdzielni.
 
-„. Komisja wybierana jest na okres kadencji Rady.
-„ Komisja powołana jest dla sprawniejszego wykonywania zadań nadzorczo — kontrolnych
+2. Komisja wybierana jest na okres kadencji Rady.
+3. Komisja powołana jest dla sprawniejszego wykonywania zadań nadzorczo — kontrolnych
 Rady:
 1/ Komisja Rewizyjna _ -w zakresie gospodarki finansowej i rachunkowości
 Spółdzielni
@@ -38,37 +30,37 @@ których uchwalania uprawniona jest Rada.
 
 Rada może podjąć uchwałę o czasowym połączeniu Komisji GZM i Regulaminowej.
 
-. ZAKRES DZIAŁANIA
+II. ZAKRES DZIAŁANIA
 
-82
+§ 2
 
-. Zakres działania Komisji określa załącznik do regulaminu:
+1. Zakres działania Komisji określa załącznik do regulaminu:
 
-- zał. nr l - Komisja Rewizyjna
-- zał. nr2 - Komisja GZM
+- zał. nr 1 - Komisja Rewizyjna
+- zał. nr 2 - Komisja GZM
 - zał. nr 3 - Komisja Regulaminowa.
 
-Komisja może również rozpatrywać inne sprawy, niż określone w załączniku do
+2. Komisja może również rozpatrywać inne sprawy, niż określone w załączniku do
 
 regulaminu, o ile wiążą się one w sposób oczywisty z jej zakresem działania.
 Sprawy takie Komisja rozpatruje z własnej inicjatywy lub na wniosek Rady.
 
-„ W przypadku wątpliwości, czy sprawa przyjęta do rozpatrzenia należy do zakresu
+3. W przypadku wątpliwości, czy sprawa przyjęta do rozpatrzenia należy do zakresu
 
 działania Komisji, rozstrzygnięcie w tym przedmiocie podejmuje Prezydium Rady.
 
-. Zapis ust. 1 ma zastosowanie do składu połączonych Komisji, o których mowa w $ 1 ust. 4.
+4. Zapis ust. 1 ma zastosowanie do składu połączonych Komisji, o których mowa w § 1 ust. 4.
 
-53
+§ 3
 
-. Jeżeli sprawa przyjęta do rozpatrzenia przez Komisję dotyczy również zakresu działania
+1. Jeżeli sprawa przyjęta do rozpatrzenia przez Komisję dotyczy również zakresu działania
 
 innej (innych) Komisji, rozpatrzenie tej sprawy odbywa się na wspólnym posiedzeniu
 zainteresowanych Komisji.
 
-„. Komisję wiodącą w sprawie wspólnej wskazuje Prezydium Rady.
+2. Komisję wiodącą w sprawie wspólnej wskazuje Prezydium Rady.
 
-. Komisja wiodąca w sprawie wspólnej wykonuje wszystkie czynności organizacyjne
+3. Komisja wiodąca w sprawie wspólnej wykonuje wszystkie czynności organizacyjne
 
 związane z przygotowaniem posiedzenia i rozpatrzeniem sprawy.
 
@@ -81,7 +73,7 @@ związane z przygotowaniem posiedzenia i rozpatrzeniem sprawy.
 4. Wspólnemu posiedzeniu zainteresowanych Komisji przewodniczy przewodniczący
 Komisji wiodącej w sprawie. Postanowienia niniejszego regulaminu dotyczące głosowa-
 
-nia na posiedzeniu ($ 11) stosuje się odpowiednio.
+nia na posiedzeniu (§ 11) stosuje się odpowiednio.
 
 5. Stanowisko zajęte w danej sprawie na posiedzeniu zainteresowanych Komisji jest
 stanowiskiem wspólnym tych Komisji.
@@ -91,8 +83,8 @@ rozpatrywanej sprawy. Z tych samych względów Komisja może zapraszać na swoje
 
 posiedzenia inne Komisje z głosem doradczym.
 
-IM. SKŁAD KOMISJI
-$ 4
+III. SKŁAD KOMISJI
+§ 4
 
 1. Komisja składa się co najmniej z 3 członków.
 2. Członków Komisji wybiera Rada spośród swego składu w głosowaniu jawnym.
@@ -100,7 +92,7 @@ $ 4
 3. Na pierwszym posiedzeniu Komisja wybiera ze swego grona przewodniczącego, zastępcę
 przewodniczącego i sekretarza.
 
-$5
+§ 5
 1. W trybie przewidzianym dla wyboru członków Komisji Rada może z własnej inicjatywy
 albo na wniosek Komisji odwołać ze składu Komisji członka, który:
 1/ uchyla się od udziału w pracach Komisji
@@ -114,7 +106,7 @@ a na wniosek 2/3 członków Komisji - przewodniczącego Komisji.
 przypadku odwołania przewodniczącego, Komisja ponownie ukonstytuuje się na naj-
 bliższym swoim posiedzeniu.
 
-$6
+§ 6
 1. Rada w porozumieniu z Komisją lub na wniosek przewodniczącego Komisji może
 dokooptować do składu Komisji - z głosem doradczym - osoby spoza Rady.
 
@@ -132,7 +124,7 @@ konsultanci wskazani przez Radę.
 ## Strona 5
 
 IV. ORGANIZACJA PRACY KOMISJI
-$ 7
+§ 7
 
 Przewodniczący Komisji:
 
@@ -147,7 +139,7 @@ Przewodniczący Komisji:
 
 - wykonuje inne czynności związane z organizacją pracy Komisji.
 
-$8
+§ 8
 1. Komisja realizuje swoje zadania :
 1/ na posiedzeniach Komisji
 2/ poprzez prace podkomisji (zespołów roboczych), które może wyłaniać ze swego
@@ -157,14 +149,14 @@ grona dla przygotowania poszczególnych tematów (spraw) na posiedzenia Komisji.
 zgodą Rady zlecać przygotowanie opinii i ekspertyz rzeczoznawcom i konsultantom
 spoza Spółdzielni.
 
-$9
+§ 9
 
 1. Członkowie Komisji są zobowiązani brać udział w posiedzeniach Komisji.
 
 2. Członek Komisji, który nie może wziąć udziału w posiedzeniu jest zobowiązany
 usprawiedliwić swoją nieobecność.
 
-$ 10
+§ 10
 
 1. Posiedzenia Komisji odbywają się w miarę potrzeby, jednak nie rzadziej niż raz na
 
@@ -196,55 +188,49 @@ Wniosek taki zostaje poddany pod głosowanie przed zatwierdzeniem porządku obra
 
 ## Strona 7
 
-—
+§ 11
 
-—
+1. Postanowienia Komisji zapadają w formie opinii i wniosków..
 
-—
-
-$ 11
-
-. Postanowienia Komisji zapadają w formie opinii i wniosków..
-
-„ Dla ważności postanowień Komisji konieczna jest obecność na posiedzeniu więcej niż
+2. Dla ważności postanowień Komisji konieczna jest obecność na posiedzeniu więcej niż
 
 połowy członków Komisji z głosem stanowiącym, w tym przewodniczącego Komisji lub
 jego zastępcy. W głosowaniu biorą udział tylko członkowie Komisji, będący członkami
 Rady.
 
-„ Postanowienia Komisji zapadają zwykłą większością głosów członków obecnych na
+3. Postanowienia Komisji zapadają zwykłą większością głosów członków obecnych na
 
 posiedzeniu. W przypadku równości głosów głosowanie należy powtórzyć,
 
-. Postanowienia Komisji podejmowane są w głosowaniu jawnym,
+4. Postanowienia Komisji podejmowane są w głosowaniu jawnym,
 
-„ Głosowanie tajne ma miejsce na żądanie co najmniej 1/2 członków Komisji obecnych na
+5. Głosowanie tajne ma miejsce na żądanie co najmniej 1/2 członków Komisji obecnych na
 
 posiedzeniu.
 
-$ 12
+§ 12
 
-. Postanowienia Komisji dotyczące rozpatrywanych przez Komisję zagadnień
+1. Postanowienia Komisji dotyczące rozpatrywanych przez Komisję zagadnień
 
 merytorycznych mają dla Rady charakter opinii i wniosków postulujących kierunki
 rozstrzygnięć podejmowanych przez Radę.
 
-Rozpatrując konkretną sprawę Rada ma obowiązek przeanalizować postanowienia
+2. Rozpatrując konkretną sprawę Rada ma obowiązek przeanalizować postanowienia
 Komisji, jakie w tej sprawie zapadły.
 
-. Rada nie może zmienić ani uchylić postanowienia Komisji. Jeżeli Rada stwierdzi, że
+3. Rada nie może zmienić ani uchylić postanowienia Komisji. Jeżeli Rada stwierdzi, że
 
 postanowienie Komisji jest sprzeczne z prawem lub zasadami współżycia społecznego,
 nie analizuje go przy rozpatrywaniu danej sprawy. W takim przypadku Rada ma jednak
 obowiązek zwrócić Komisji uwagę na fakt naruszenia prawa.
 
-5 13
+§ 13
 
-„. Komisja ma obowiązek przekazać Radzie podjęte postanowienia w ciągu 7 dni od daty
+1. Komisja ma obowiązek przekazać Radzie podjęte postanowienia w ciągu 7 dni od daty
 
 posiedzenia.
 
-. Jeżeli Komisja uzna to za konieczne lub istotne dla sprawy, może przekazać postanowienia
+2. Jeżeli Komisja uzna to za konieczne lub istotne dla sprawy, może przekazać postanowienia
 
 wraz z uzasadnieniem.
 Treść uzasadnienia Komisja ustala na posiedzeniu, na którym podjęła uzasadnione
@@ -252,13 +238,13 @@ Treść uzasadnienia Komisja ustala na posiedzeniu, na którym podjęła uzasadn
 postanowienie.
 
 V. ODPOWIEDZIALNOŚĆ KOMISJI
-$ 14
+§ 14
 
-. Przewodniczący Komisji i jej członkowie odpowiadają przed Radą za terminowe i
+1. Przewodniczący Komisji i jej członkowie odpowiadają przed Radą za terminowe i
 
 rzetelne sporządzanie ocen i wniosków w zakresie prowadzonych prac.
 
-. Przewodniczący Komisji i jej członkowie obowiązani są do ujawnienia faktów i ocen
+2. Przewodniczący Komisji i jej członkowie obowiązani są do ujawnienia faktów i ocen
 
 wynikających z działalności Komisji wyłącznie na Prezydium Rady i na posiedzeniu
 Rady.
@@ -271,7 +257,7 @@ Rady.
 
 VI. POSTANOWIENIA KOŃCOWE
 
-$ 15
+§ 15
 1. Z obrad Komisji sporządza się protokół, który podpisuje przewodniczący lub zastępca
 przewodniczącego.
 
@@ -285,11 +271,11 @@ Załącznikiem do protokołu jest lista osób obecnych na posiedzeniu Komisji.
 
 3. Obsługę Komisji zapewnia Zarząd Spółdzielni.
 
-$ 16
+§ 16
 
 Członkowie Komisji Rewizyjnej nie mogą wchodzić w skład innych Komisji Rady.
 
-$ 17
+§ 17
 
 1. Regulamin niniejszy został uchwalony przez Radę Nadzorczą uchwałą nr 83 /R/99 z dnia
 07.10.1999 r. i wszedł w życie z dniem uchwalenia.
@@ -299,14 +285,7 @@ z dnia 24.10.2006 r. i weszły w życie z dniem uchwalenia.
 
 Za zgodność:
 
-SPÓŁDZIELNIA MIESZKANY
-j 8.211 [0] !
-"DO AR YSIŃSKĄ W
-ZĄD
-
-91-71
-
-u
+[Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY-MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14” wraz z dwoma odręcznymi podpisami (nieczytelne).]
 
 ## Strona 10
 
@@ -314,21 +293,19 @@ u
 
 ## Strona 11
 
-L)
-
 Załącznik nr 1
 ZAKRES DZIAŁANIA KOMISJI REWIZYJNEJ
 
-. Opiniowanie projektów regulaminów i innych przepisów wewnętrznych Spółdzielni
+1. Opiniowanie projektów regulaminów i innych przepisów wewnętrznych Spółdzielni
 dotyczących problematyki finansowej.
 
-. Opiniowanie projektów wieloletnich planów działalności i rocznych planów gospodarczo-
+2. Opiniowanie projektów wieloletnich planów działalności i rocznych planów gospodarczo-
 finansowych Spółdzielni.
 
-. Opiniowanie projektów struktury organizacyjnej Spółdzielni oraz wniosków dotyczących
+3. Opiniowanie projektów struktury organizacyjnej Spółdzielni oraz wniosków dotyczących
 liczby etatów.
 
-. Przeprowadzanie okresowych kontroli Spółdzielni w zakresie:
+4. Przeprowadzanie okresowych kontroli Spółdzielni w zakresie:
 
 - wykonania planów gospodarczo - finansowych
 
@@ -339,23 +316,18 @@ liczby etatów.
 - dostosowania organizacji wewnętrznej Spółdzielni do jej zadań społeczno-gospodarczych
 - dyscypliny zatrudnienia i gospodarki funduszem płac.
 
-. Przeprowadzanie kontroli okresowych zamknięć rachunkowych i rocznych sprawozdań
+5. Przeprowadzanie kontroli okresowych zamknięć rachunkowych i rocznych sprawozdań
 finansowych oraz stawianie wniosków w sprawie zatwierdzenia bilansów i rachunków
 
 wyników objętych tymi sprawozdaniami.
-. Kontrola prawidłowości przeprowadzonych inwentaryzacji majątku Spółdzielni.
+6. Kontrola prawidłowości przeprowadzonych inwentaryzacji majątku Spółdzielni.
 
-. Wykonywanie innych czynności zleconych przez Radę w zakresie nadzoru i kontroli
+7. Wykonywanie innych czynności zleconych przez Radę w zakresie nadzoru i kontroli
 gospodarki finansowej oraz rachunkowości Spółdzielni.
 
-r
+Za zgodność:
 
-SPÓŁÓŻIEŁNIA MibazkaNtOWa
-
-"DOŁY MARYSIŃSKA"
-ARZĄD KA
-91-712 Łódź, ul: iska 12/f4
-ji
+[Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY-MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14” wraz z dwoma odręcznymi podpisami (nieczytelne).]
 
 ## Strona 12
 
@@ -373,10 +345,9 @@ wydawania których uprawniona jest Rada.
 2. Wnioskowanie w sprawie wprowadzenia zmian w uchwalonych przez Radę
 regulaminach i innych przepisach wewnętrznych.
 
-KeBŁ oi neodoRŚzK
-DOŁ Y-MARYSIŃSKA"
+Za zgodność:
 
-91-712 Łódź ul..Nowopolska 12/14
+[Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY-MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14” wraz z dwoma odręcznymi podpisami (nieczytelne).]
 
 ## Strona 14
 
@@ -384,37 +355,45 @@ DOŁ Y-MARYSIŃSKA"
 
 ## Strona 15
 
-Uchwała nr SO /R/ 2006
+Uchwała nr 50 /R/ 2006
 Rady Nadzorczej SM „Doły — Marysińska” w Łodzi
 z dnia 24.10.2006r.
 w sprawie: zmian do Regulaminu stałych Komisji Rady Nadzorczej w SM „Doły —
 Marysińska” w Łodzi
 
-Rada Nadzorcza działając na podstawie $ 42 ust. 1 pkt. 21 statutu Spółdzielni
+Rada Nadzorcza działając na podstawie § 42 ust. 1 pkt. 21 statutu Spółdzielni
 postanowiła
 
-$1
+§ 1
 wprowadzić następujące zmiany do Regulaminu stałych Komisji Rady Nadzorczej
 w SM „Doły — Marysińska” w Łodzi:
 
-1. w$ lust. 1 otrzymuje brzmienie:
-„l. Komisja Rady Nadzorczej zwana dalej „Komisją” wybierana jest przez Radę
+1. w § 1ust. 1 otrzymuje brzmienie:
+„1. Komisja Rady Nadzorczej zwana dalej „Komisją” wybierana jest przez Radę
 Nadzorczą, zwaną dalej „Radą” na podstawie postanowień Statutu Spółdzielni
 i Regulaminu Rady Nadzorczej Spółdzielni.”
 
-2. w$ 2skreśla się ust. 5
+2. w § 2 skreśla się ust. 5
 
-3. w$ 7 po wyrażeniu „„- opracowuje porządek obrad Komisji” skreśla się zapis
-„Zgodnie z planem pracy Komisji”
+3. w § 7 po wyrażeniu „- opracowuje porządek obrad Komisji” skreśla się zapis
+„zgodnie z planem pracy Komisji”
 
-4. w$ lOust. 1 skreśla się zapis "oraz z uwzględnieniem postanowień wynikających z
+4. w § 10 ust. 1 skreśla się zapis "oraz z uwzględnieniem postanowień wynikających z
 planu pracy Komisji”
 
-$2
+§ 2
 Zobowiązuje się Zarząd do opracowania tekstu jednolitego obejmującego powyższe zmiany.
-$3
+§ 3
 Uchwała wchodzi w życie z dniem podjęcia.
-dr BoleSta; Jędrasżko | Andizój, Śrzatkowski
+
+ADWOKAT
+Alicja Rychlicka-Ziepult [podpis odręczny]
+
+SEKRETARZ RADY NADZORCZEJ
+dr Bolesław Jędraszko [podpis odręczny]
+
+PRZEWODNICZĄCY RADY NADZORCZEJ
+Andrzej Strzałkowski [podpis odręczny]
 
 ## Strona 16
 
