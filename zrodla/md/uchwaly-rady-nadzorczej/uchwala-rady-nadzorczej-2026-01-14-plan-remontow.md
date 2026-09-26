@@ -4,11 +4,11 @@
 
 ## Strona 1
 
-Uchwała Nr U /R/26
+Uchwała Nr 4 /R/26
 Rady Nadzorczej SM „Doły-Marysińska” z siedzibą w Łodzi
 z dnia 14.01.2026 r.
 
-Rada Nadzorcza działając na podstawie $ 49 ust. 1 pkt 1 statutu Spółdzielni
+Rada Nadzorcza działając na podstawie § 49 ust. 1 pkt 1 statutu Spółdzielni
 
 postanowiła
 
@@ -18,449 +18,79 @@ dla osiedla „Doły” na 2026 r. w zakresie rzeczowym i finansowym w brzmieniu
 załącznik do niniejszej uchwały.
 
 Wyniki głosowania:
-głosów „za” : 4
-głosów „„przeciw” : O
+głosów „za” : 7
+głosów „przeciw” : 0
 
-głosów „wstrzymujących”: Ą
+głosów „wstrzymujących”: 1
+
 Przewodnicząca
-: asy Nadzorązej
-LON>
-<-Monika Denarska
-kr
+Rady Nadzorczej
+Monika Denarska
 
-/ Se z
-ady I Ę a>
-WA: Malkiewicz
+Sekretarz
+Rady Nadzorczej
+Leon Michał Malkiewicz
+
+RADCA PRAWNY
+Maciej Czerw
 
 ## Strona 2
 
-DYSUOLMDS) DUŃIJADAT
-
-< 7
-
-nptzae7 Houojzy
-
-t
-
-*
-
-N|N
-m | ri
-a | s
-st | m
-o | st
-nń|6
-| ©
-— | si
-
-4
-
-"R
-NN
-(e)
-u)
-si
-N
-|»
-w)
-
-4,
-
-=
-
-R
-GO
-[=
-m
-R
-[e]
-00
-m
-
-©)
-
-a=
-
-N
-s
-o
-qq
-sę
-[c2)
-CN
-CN
-m
-
-4
-
-t
-
-4,
-
-1
-
-RBR|JOIO |
-nim] +*| +
-O|sH|O| PN
-39 | OJO |
-= GO | (N
-
-4
-
-4
-
-+
-
-R|R|JR|R|R|R]|R
-+lojmialn|in|N
-oją|jo|n|o|o]| i
-
-alo|j o
-m | GO | (ON
-N[|5] o
-a|O |<
-O|E|F
-
-1
-
-4
-
-0
-
-o|o|jo
-m|Go | o
-B|IF]|G
-m | 0
-5 |5|5
-
-p)
-
-+
-
-R|R|R|R|R
-m|o NN |
-o|a|ŻlaJ ia
-
-X
-00
-wy
-
-[e]
-N
-©
-©
-|=)
-wy
-
-DYSADUGT Dyluo
-
-ZYOYO | |
-
-EDEZoTUPOMoZJĄ
-
-bpysupuiyonz n6]0
-
-ysAulASEJEO(dSĄJ-OUZIIUUDA| 'SP
-YGVZAVZ AAHNOTZO
-
-HZ GT'009 vŁT Hz OT'v64 zzT łz Z0'0TŁ zbz Hz OZ'T
-
-4,
-
-0)
-
-R|R
-m | 4
-4 |
-| O
-o| Qa
-© | (N
-n|wv
-| w”
-
-! e
-
-+
-
-==
-
-N
-M
-o
-9
-si
-s
-©
-|x4
-
-Hz TE'0T8 S9T
-
-«|
-
-[2]
-=
-=
-OQ
-R
-s
-
-1:
-
-R|G
-LN | m3
-Ly | m
-
-=
-Z
-o)
-m
-ns
-
-U
-
-4
-
-4
-
-B|R|R
-o|o| o
-m|jo| ń
-o|e|a
-m|qT| o
-MIN] ©
-n|<+| +
-NN | ms | ©
-|=
-
-4
-
-4
-
-Ri
-|=)
-o
-[r
-©
-5
-o
-N
-
-9c02
-
-9202"
-
-ł7 04 0€0 £
-ł €8 0EC Ty
-
-«4
-
-JBIUOĄ EU ĄlIUAM
-AuemApimazid
-
-HZ bŁ'Z28 16 łz OZ'EZb OTT Hz 00'z
-Iz 26'62T zb- łZ 00'980 ve Z 00'z
-
-IZ OE TSZ TZT IZ 07'659 8ZT pe
-
-9207 TOTO
-EU EDJEMIO SUEJIQ
-
-AuemApimazig
-
-Ti/* erup z bzasozpeg Apey
-zu kjamgoq op aruzobrez
-
-| sidpo |
-
-R|R|R|R|R|R
-ofajojo|m| si
-<lojóojn|>]|o
-o|dfo|nin|n
-minajmjo| 5] v
-n|a|jas|o|ol|©
-+|o|s|a|o| o
-oOla|u]|0 -
-
-R|R|R
-aloa|r
-0 | to | oo
-A|o| dd
-o|nńljo
-+|R|H
-a|o| +
-
-N|m
-
-| elmeqs |
-
-AMO1UOWaJ zSNpunj Eu sidpo
-
-Hz £9'GG9 O8b T
-
-łz 6T'£€0 S9
-IZ 6£'vT9 82
-łz 94'8€2 Z
-Iz 49'6G6 b
-
-HZ OZ'€ST £
-
-HZ ŁO'ETP Zb
-IZ 47'826 ty
-łz zy'8SZ Zb
-HZ zv'6€b bz
-7 88'€98 vE
-IZ T8' ZS S8
-IZ T8 ZSh £9
-łz 69'560 Ot
-łz S8'vT9 OZ
-łz SŁ'8Z7 TT
-HZ t0'68T 9
-
-IZ bE' SEP 8
-
-HZ 26'€06 06T
-
-iz €8'666 Sb
-łz99'€89 TT
-
-Hz 28'v6b 6ZT
-
-1
-«|
-4
-.
-t:
-+,
-..
-4,
-
-4.
-
-osamojuoweJ
-nzsnpunj AJzsoĄ4
-8UuEMApIMSZJd
-
-bhT/EPT
-EzpT
-
-Chr
-TYT
-O$T
-6ET
-8€ET
-
-€T
-
-A
-
-9€T
-SET
-PET
-£ET
-ESZT
-Epct
-Pet
-EZT
-
-ESTT
-ŁET
-
-o
-ON
-ei
-
-qceT
-EZZT
-CET
-9TT
-STT
-EPTT ! YTL
-q€TT
-EETT
-€TT
-
-TTT
-60T ! 80T
-
-ŁO
-90
-
-N
-|=.
-|
-
-|
-T
-Ł9
-
-6ć
-
-m
-m
-
-nad
-va)
-
-nyuApną
-IBWnN
-
-|ARSSSZTTEF TE NE |
-Z9T oBansjod BĄsfoM| | TEN |
-OST O88IĄs|od EĄSIOM | 6-N |
-
-£Z-'N
-
-T EĄSIOdoMON 8T-N
-
-tyT oSapisiIod EĄSIOM
-8YT OSo|ĄS|Od EĄSIOM
-
-OT/z EĄSIOdOMON
-
-eg waluezAJYJ
-
-8 WaJUEZAJYJ
-OT-N
-
-GG EyoeJg
-
-€ EĄSJaDJEH €T-N
-
-rz/8T EMojsAwazig
-ozr oBapisjodejsfom| | gn |
-STU/btT oBasodejslom| — zoN |
-
-selpy
-
-J$0WOYPNIIN
-
-Ty
-ŁE
-
-se
-ve
-
-T
-6
-
-€
-c
-8
-ŁZ
-
-ON
-
-8T
-9T
-
-14:
-CT
-TL
-
-£
-
-G
-
-T
-
-AŁOG VIG3ISO V1Q XO04 9707 VN ODAMOLNOWJH NZSNANNA ALZSOXA JNVMONV 1d
+> **Uwaga:** ta strona to tabela w orientacji poziomej (arkusz kalkulacyjny), zeskanowana na stronie pionowej. OCR odczytał ją jako bezsensowny ciąg znaków; poniżej podano odtworzoną treść na podstawie bezpośredniego odczytu obrazu strony. Wiersze dla nieruchomości grupowych (N-10 obejmujący budynki 111–113a; N-13 obejmujący budynki 115–127) mają jedną wspólną kwotę kosztów/odpisów/bilansu dla całej grupy — zaznaczono to w tabeli zamiast powielać wartość dla każdego wiersza z osobna.
+
+**ZAŁĄCZNIK DO UCHWAŁY NR 4/R/2026 RADY NADZORCZEJ Z DNIA 14.01.2026**
+
+### PLANOWANE KOSZTY FUNDUSZU REMONTOWEGO NA 2026 ROK DLA OSIEDLA DOŁY
+
+| L.p. | Nieruchomość | Adres | Nr budynku | Przewidywane koszty funduszu remontowego | Stawka odpisu | Odpis na fundusz remontowy | Przewidywany bilans otwarcia na 01.01.2026 | Przewidywany wynik na koniec 2026 |
+|---|---|---|---|---|---|---|---|---|
+| 1 | N-01 | Głowackiego 13a | 13 | 1 462,81 zł | 1,50 zł | 15 238,80 zł | 13 129,02 zł | 26 905,01 zł |
+| 2 | N-02 | Wojska Polskiego 114/116 | 29 | 23 738,69 zł | 2,50 zł | 35 730,00 zł | -53 222,14 zł | -41 230,83 zł |
+| 3 | N-03 | Wojska Polskiego 120 | 40 | 34 192,87 zł | 1,70 zł | 8 180,40 zł | 18 981,77 zł | -7 030,70 zł |
+| 4 | N-04 | Bracka 29 | 57 | 64 538,18 zł | 1,60 zł | 35 404,80 zł | 158 469,74 zł | 129 336,36 zł |
+| 5 | N-05 | Przemysłowa 18/24 | 67 | 196 991,89 zł | 2,00 zł | 55 447,20 zł | 155 785,67 zł | 14 240,98 zł |
+| 6 | N-06 | Bracka 25 | 69 | 54 136,80 zł | 1,70 zł | 37 601,28 zł | 101 219,11 zł | 84 683,59 zł |
+| 7 | N-07 | Bracka 39 | 106 | 22 037,50 zł | - zł | 21 225,60 zł | 41 853,45 zł | 41 041,55 zł |
+| 8 | N-08 | Bracka 41 | 107 | 8 075,73 zł | - zł | 54 023,28 zł | -194 660,86 zł | -148 713,31 zł |
+| 9 | N-09 | Bracka 43 | 108 i 109 | 16 067,01 zł | 2,00 zł | 60 657,60 zł | 121 219,72 zł | 165 810,31 zł |
+| 11 | N-10 (grupa, budynki 111–113a) | Bracka 51 | 111 | 179 494,87 zł (wartość dla całej grupy N-10) | 2,00 zł | 128 659,20 zł (grupa) | 121 251,30 zł (grupa) | 70 415,63 zł (grupa) |
+| 12 | N-10 | Bracka 55 | 112 | „ | 2,00 zł | „ | „ | „ |
+| 13 | N-10 | Chryzantem 8 | 113 | „ | 2,00 zł | „ | „ | „ |
+| 14 | N-10 | Chryzantem 8a | 113a | „ | 2,00 zł | „ | „ | „ |
+| 15 | N-11 | Nowopolska 13 | 113b | 11 683,56 zł | 2,00 zł | 34 056,00 zł | -42 179,97 zł | -19 807,53 zł |
+| 16 | N-12 | Chryzantem 6 | 114 i 114a | 45 999,83 zł | 2,00 zł | 110 473,20 zł | 91 822,74 zł | 156 296,11 zł |
+| 18 | N-13 (grupa, budynki 115–127) | Nowopolska 16 | 115 | 190 903,97 zł (wartość dla całej grupy N-13; wyróżniona na czerwono w oryginale) | 1,70 zł | 242 710,02 zł (grupa) | 122 794,10 zł (grupa) | 174 600,15 zł (grupa) |
+| 19 | N-13 | Harcerska 7 | 116 | „ | 1,70 zł | „ | „ | „ |
+| 20 | N-13 | Nowopolska 2/10 | 122 | „ | 1,70 zł | „ | „ | „ |
+| 21 | N-13 | Harcerska 3 | 122a | „ | 1,70 zł | „ | „ | „ |
+| 22 | N-13 | Harcerska 5 | 122b | „ | 1,70 zł | „ | „ | „ |
+| 23 | N-13 | Wojska Polskiego 148 | 126 | „ | 1,70 zł | „ | „ | „ |
+| 24 | N-13 | Wojska Polskiego 144 | 127 | „ | 1,70 zł | „ | „ | „ |
+| 25 | N-14 | Nowopolska 20 | 115a | 82 435,34 zł | - zł | 35 787,60 zł | 52 496,57 zł | 5 848,83 zł |
+| 26 | N-16 | Chryzantem 4 | 123 | 6 189,04 zł | 2,00 zł | 85 965,60 zł | -189 805,66 zł | -110 029,10 zł |
+| 27 | N-17 | Chryzantem 2 | 124 | 11 228,75 zł | 2,10 zł | 34 758,36 zł | -78 260,45 zł | -54 730,84 zł |
+| 28 | N-18 | Nowopolska 1 | 124a | 20 614,85 zł | 2,00 zł | 46 800,00 zł | -113 678,37 zł | -87 493,22 zł |
+| 29 | N-19 | Wojska Polskiego 150 | 125a | 40 055,69 zł | 1,70 zł | 24 913,91 zł | 93 431,33 zł | 78 289,55 zł |
+| 30 | N-20 | Chryzantem 1 | 133 | 63 452,81 zł | 2,00 zł | 58 395,36 zł | 66 289,09 zł | 61 231,64 zł |
+| 31 | N-21 | Chryzantem 3 | 134 | 85 452,81 zł | 2,00 zł | 58 395,36 zł | 97 840,71 zł | 70 783,26 zł |
+| 32 | N-22 | Chryzantem 5 | 135 | 34 863,88 zł | 2,20 zł | 64 234,63 zł | -103 997,58 zł | -74 626,83 zł |
+| 33 | N-23 | Chryzantem 7 | 136 | 24 439,42 zł | 2,00 zł | 60 611,04 zł | -17 513,90 zł | 18 657,72 zł |
+| 34 | N-24 | Zmienna 22 | 137 | 42 258,42 zł | 1,50 zł | 21 693,60 zł | 26 701,67 zł | 6 136,85 zł |
+| 35 | N-25 | Zmienna 17a | 138 | 44 928,27 zł | 1,50 zł | 23 463,00 zł | 101 511,94 zł | 80 046,67 zł |
+| 36 | N-26 | Zmienna 19a | 139 | 42 413,07 zł | 2,20 zł | 34 180,08 zł | 33 976,16 zł | 25 743,17 zł |
+| 37 | N-27 | Zmienna 15b | 140 | 7 153,70 zł | 1,70 zł | 37 234,08 zł | 92 269,23 zł | 122 349,61 zł |
+| 38 | N-28 | Zmienna 15a | 141 | 4 959,67 zł | 1,80 zł | 62 000,64 zł | -96 014,05 zł | -38 973,08 zł |
+| 39 | N-29 | Zmienna 11 | 142 | 27 238,76 zł | 1,30 zł | 20 212,61 zł | 64 272,02 zł | 57 245,87 zł |
+| 40 | N-30 | Zmienna 7/9 | 142a | 28 614,29 zł | 1,50 zł | 19 067,04 zł | 22 112,24 zł | 12 564,99 zł |
+| 41 | N-31 | Wojska Polskiego 162 | 143/144 | 65 033,19 zł | 2,00 zł | 27 787,20 zł | 53 289,10 zł | 16 043,11 zł |
+| **Suma:** | | | | **1 480 655,67 zł** | | **1 554 907,49 zł** | **761 383,70 zł** | **835 635,52 zł** |
+
+Podpisy:
+
+CZŁONEK ZARZĄDU ds. Techniczno-Eksploatacyjnych — Olga Zuchmańska
+
+Członek Zarządu Główny Księgowy — Martyna Gawrońska
+
+Przewodnicząca Rady Nadzorczej — Monika Denarska
+
+Sekretarz Rady Nadzorczej — Leon Michał Malkiewicz
