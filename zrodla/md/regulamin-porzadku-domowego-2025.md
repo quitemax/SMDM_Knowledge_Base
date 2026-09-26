@@ -1,21 +1,34 @@
-# regulamin-porzadku-domowego-2025
+# Regulamin porządku domowego w Spółdzielni Mieszkaniowej „Doły — Marysińska” w Łodzi
 
-> **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).
+## Spis treści
 
-## Strona 1
+- [I. Postanowienia ogólne](#dzial-1)
+  - [§ 1](#par-1)
+  - [§ 2](#par-2)
+  - [§ 3](#par-3)
+- [II. Przepisy porządkowe ogólne](#dzial-2)
+  - [§ 4](#par-4)
+- [III. Obowiązki Spółdzielni](#dzial-3)
+  - [§ 5](#par-5)
+- [IV. Obowiązki użytkowników lokali](#dzial-4)
+  - [§ 6](#par-6)
+- [VI. Postanowienia końcowe](#dzial-6)
+  - [§ 7](#par-7)
+  - [§ 8](#par-8)
 
-Regulamin porządku domowego
-w Spółdzielni Mieszkaniowej „Doły — Marysińska” w Łodzi
+<a id="dzial-1"></a>
+## I. Postanowienia ogólne
 
-I. POSTANOWIENIA OGÓLNE
+<a id="par-1"></a>
+### § 1
 
-§ 1
 Regulamin określa zasady: użytkowania lokali, utrzymania bezpieczeństwa, porządku,
 higieny, estetyki budynków i ich otoczenia, a także zapewnienie prawidłowych warunków
 i zasad współżycia społecznego wynikającego z zamieszkiwania w budynkach
 Spółdzielni.
 
-§ 2
+<a id="par-2"></a>
+### § 2
 
 1. Postanowienia regulaminu określające obowiązki użytkowników lokali odnoszą się
 odpowiednio do wszystkich osób korzystających z lokali, a w szczególności
@@ -34,7 +47,8 @@ zmianach dotyczących jego lokalu, a w szczególności o zmianach własności,
 zmianach osób zamieszkałych lub uprawnionych do korzystania z lokalu
 oraz zamierzonych pracach remontowych.
 
-§ 3
+<a id="par-3"></a>
+### § 3
 
 1. W przypadku działań użytkowników lokali lub innych osób znajdujących się
 na terenie Spółdzielni zagrażających bezpieczeństwu życia lub zdrowia ludzi albo
@@ -59,11 +73,12 @@ i spisuje odpowiedni protokół z wykonanych czynności.
 komórkę, wynajmowane pomieszczenie gospodarcze, jeżeli udostępnienie jest
 niezbędne do wykonania napraw lub usunięcia awarii w tym, bądź innym lokalu.
 
-## Strona 2
+<a id="dzial-2"></a>
+## II. Przepisy porządkowe ogólne
 
-II. PRZEPISY PORZĄDKOWE OGÓLNE
+<a id="par-4"></a>
+### § 4
 
-§ 4
 1. Osoby przebywające na terenie nieruchomości obowiązane są do zachowania się
 w sposób nie powodujący uciążliwości dla współmieszkańców, w szczególności
 dotyczy to nadmiernego hałasu i utrzymania czystości.
@@ -72,7 +87,7 @@ dotyczy to nadmiernego hałasu i utrzymania czystości.
 nadmierny hałas, a w pozostałe dni w godzinach od 20:00 do 8:00.
 4. Zabrania się spożywania napojów alkoholowych, palenia wyrobów tytoniowych,
 papierosów elektronicznych oraz zażywania środków odurzających
-w pomieszczeniach wspólnych, o których mowa w § 6 ust. 2, znajdujących się
+w pomieszczeniach wspólnych, o których mowa w [§ 6](#par-6) ust. 2, znajdujących się
 wewnątrz budynku.
 5. Zabrania się wyrzucania przez okna i drzwi balkonowe jakichkolwiek przedmiotów,
 resztek jedzenia, śmieci, niedopałków papierosów itp. oraz pożywienia dla ptaków
@@ -112,12 +127,8 @@ w koszach ulicznych, pod warunkiem, że są one wyłożone workiem z tworzyw
 sztucznych,
 5/ posiadanie w niezbędnej ilości torebek, łopatek lub innych urządzeń służących
 do zbierania odchodów.
-
-## Strona 3
-
 15. Zakazuje się wyprowadzania psów i innych zwierząt domowych na place zabaw
 i w inne miejsca służące do zabawy dla dzieci.
-
 16. W miejscach wspólnego użytku mieszkańcom nie wolno umieszczać żadnych
 przedmiotów.
 
@@ -134,7 +145,6 @@ Po ukończeniu prania pomieszczenie pralni należy sprzątnąć oraz zamknąć z
 odcinający dopływ gazu, jeżeli pralnia jest wyposażona w instalację gazową.
 
 18. Niedozwolone jest przechowywanie w piwnicach — komórkach materiałów
-
 łatwopalnych, wybuchowych i cuchnących oraz używanie otwartego ognia i palenia
 papierosów.
 
@@ -144,7 +154,6 @@ papierosów.
 administrację Spółdzielni.
 
 21. Na terenie osiedla zabrania się mycia, naprawy i regulacji pojazdów mechanicznych
-
 oraz wymiany oleju silnikowego.
 
 22. Niedopuszczalne jest pozostawianie na terenie nieruchomości wraków samochodów
@@ -158,12 +167,14 @@ nieruchomości. Wejście na dach odbywać się może wyłącznie w obecności
 przedstawiciela Spółdzielni, a w przypadku ewentualnego zagrożenia — w obecności
 służb takich jak straż pożarna czy policja;
 
-III. OBOWIĄZKI SPÓŁDZIELNI
+<a id="dzial-3"></a>
+## III. Obowiązki Spółdzielni
 
-§ 5
+<a id="par-5"></a>
+### § 5
+
 1. Spółdzielnia zobowiązana jest do zapewnienia porządku i czystości oraz należytego
 stanu sanitarno — higienicznego w budynkach oraz na terenie zarządzanej
-
 nieruchomości.
 
 2. Spółdzielnia w szczególności zobowiązana jest do:
@@ -191,18 +202,11 @@ pomieszczeń służących do wspólnego użytku mieszkańców,
 8/ wywieszenia w budynku czytelnej informacji zawierającej:
 
 - adres nieruchomości,
-
-## Strona 4
-
 - nazwę i adres Spółdzielni,
-
 - imię i nazwisko administratora oraz osoby odpowiedzialnej za utrzymanie porządku
 na terenie nieruchomości,
-
 - spis lokatorów (za ich zgodą),
-
 - przepisy porządkowe ogólne - wyciąg z regulaminu porządku domowego,
-
 - adresy i telefony straży pożarnej, pogotowia ratunkowego, policji, pogotowia
 wodociągowego, gazowego itp.,
 
@@ -211,7 +215,6 @@ wodociągowego, gazowego itp.,
 10/ przestrzegania przepisów w sprawie ochrony środowiska, a w szczególności:
 
 - nie spalania śmieci i liści,
-
 - nie używania środków chemicznych szkodliwych dla otoczenia,
 
 11/ wykonywania czynności związanych z dezynfekcją, dezynsekcją, deratyzacją
@@ -230,12 +233,14 @@ pożarnej, pogotowia ratunkowego, policji,
 
 15/ egzekwowania od gospodarzy domów należytego wykonania ich obowiązków.
 
-IV. OBOWIĄZKI UŻYTKOWNIKÓW LOKALI
+<a id="dzial-4"></a>
+## IV. Obowiązki użytkowników lokali
 
-§ 6
+<a id="par-6"></a>
+### § 6
 
 1. Użytkownicy lokali zobowiązani są utrzymywać zajmowany lokal i przynależne
-do niego pomieszczenia we właściwym stanie technicznym,  sanitamym
+do niego pomieszczenia we właściwym stanie technicznym, sanitarnym
 i porządkowym.
 
 2. Korzystanie przez użytkownika z zajmowanego lokalu oraz pomieszczeń i urządzeń
@@ -260,11 +265,11 @@ zobowiązany jest niezwłocznie i na bieżąco uprzątać.
 zobowiązany jest on do naprawienia tej szkody na własny koszt, a w przypadku
 naprawienia takiej szkody na zlecenie Spółdzielni, porycia kosztów jej usunięcia.
 
-## Strona 5
+<a id="dzial-6"></a>
+## VI. Postanowienia końcowe
 
-VI. POSTANOWIENIA KOŃCOWE
-
-§ 7
+<a id="par-7"></a>
+### § 7
 
 1. W stosunku do użytkowników lokali, którzy zanieczyszczają lub zaśmiecają miejsca
 publiczne, a w szczególności klatkę schodową, drogę, chodnik, trawnik może być
@@ -275,70 +280,10 @@ wszczęte postępowanie karne.
 2/ Spółdzielnia ma prawo wszcząć wewnątrz spółdzielcze postępowanie
 upominawcze.
 
-§ 8
+<a id="par-8"></a>
+### § 8
 
-1. Regulamin został uchwalony przez Radę Nadzorczą uchwałą nr ...../R/25 z dnia
-3.06.2025 r. i wchodzi w życie z dniem uchwalenia.
+1. Regulamin został uchwalony przez Radę Nadzorczą i wchodzi w życie z dniem
+uchwalenia.
 
-2. Traci moc regulamin uchwalony przez Radę Nadzorczą uchwałą nr 28/R/17 z dnia
-31.10.2017 r.
-
-PRZEWODNICZĄCA
-RADY NADZORCZEJ
-Grażyna Białkowska
-
-SEKRETARZ
-RADY NADZORCZEJ
-Monika Denarska
-
-RADCA PRAWNY
-Maciej Czerw
-
-## Strona 6
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 7
-
-Uchwała Nr 26 /R/25
-Rady Nadzorczej SM „Doły-Marysińska” w Łodzi
-z dnia 03.06.2025 r.
-
-Rada Nadzorcza działając na podstawie § 49 ust. 1 pkt 19 statutu Spółdzielni
-
-postanawia
-
-§ 1
-Uchwalić Regulamin porządku domowego w Spółdzielni Mieszkaniowej „Doły-Marysińska”
-w Łodzi w brzmieniu stanowiącym załącznik do niniejszej uchwały
-
-§ 2
-
-Uchwała wchodzi w życie z dniem podjęcia.
-
-§ 3
-Traci moc Regulamin porządku domowego w Spółdzielni Mieszkaniowej „Doły-Marysińska”
-w Łodzi uchwalony uchwałą Rady Nadzorczej nr 28/R/17 z dnia 31 października 2017 r.
-
-Wyniki głosowania:
-głosów „za” : 6
-głosów „przeciw” : 1
-głosów „wstrzymujących”: 2
-
-PRZEWODNICZĄCA
-RADY NADZORCZEJ
-Grażyna Białkowska
-
-SEKRETARZ
-RADY NADZORCZEJ
-Monika Denarska
-
-RADCA PRAWNY
-Maciej Czerw
-
-_—yfonika Denarska
-
-## Strona 8
-
-*(strona pusta w oryginale dokumentu)*
-
+2. Traci moc poprzedni regulamin uchwalony przez Radę Nadzorczą.
