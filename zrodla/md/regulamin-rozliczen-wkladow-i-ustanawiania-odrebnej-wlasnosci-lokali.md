@@ -13,12 +13,12 @@ w Spółdzielni Mieszkaniowej „Doły - Marysińska” w Łodzi
 PRZEPISY PRAWNE
 
 - Ustawa z dnia 16 września 1982 r. prawo spółdzielcze
-( tekst jednolity Dz.U. Nr 188, poz.1846 z 2003 r.)
+( tekst jednolity Dz.U. Nr 188, poz.1848 z 2003 r.)
 
 - Ustawa z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych
-(tekst jednolity Dz.U. Nr 119, poz.Il16 z 2003 r.)
+(tekst jednolity Dz.U. Nr 119, poz.1116 z 2003 r.)
 
-„ Ustawa z dnia 24 czerwca 1994 r. o własności lokali
+- Ustawa z dnia 24 czerwca 1994 r. o własności lokali
 ( tekst jednolity Dz.U. Nr 80, poz. 903 z 2000 r.)
 
 - Ustawa z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami
@@ -27,20 +27,18 @@ PRZEPISY PRAWNE
 - przepisy określające finansowanie spółdzielczego budownictwa mieszkaniowego
 wydane w latach 1957 - 1989 wg załącznika
 
-L ROZLICZENIE WKŁADÓW MIESZKANIOWYCH _NA_ SPÓŁDZIELCZE
-
-ASZZESLASZ Z ORE0OMAA M 03 A AAA MNAEA EA O CE O Con
+I. ROZLICZENIE WKŁADÓW MIESZKANIOWYCH _NA_ SPÓŁDZIELCZE
 
 LOKATORSKIE PRAWA DO LOKALU
 
-1. Spółdzielcze lokatorskie prawo do lokału mieszkalnego wygasa z chwila ustania członkostwa.
+1. Spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa z chwila ustania członkostwa.
 W wypadku gdy przysługuje ono małżonkom, wygaśniecie prawa następuje z chwilą ustania
 członkostwa obojga małżonków.
 
 2. W wypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego po dniu
 23 kwietnia 2001 r., spółdzielnia zwraca osobie uprawnionej wniesiony wkład mieszkaniowy albo
-jego wniesioną część, zwałoryzowane według wartości rynkowej lokalu na dzień wygaśnięcia
-prawa. Zwałoryzowaną wartość wniesionego wkładu mieszkaniowego ustala się wg udziału
+jego wniesioną część, zwaloryzowane według wartości rynkowej lokalu na dzień wygaśnięcia
+prawa. Zwaloryzowaną wartość wniesionego wkładu mieszkaniowego ustala się wg udziału
 procentowego wniesionego wkładu w stosunku do pierwotnych kosztów budowy. W rozliczeniu
 tym nie uwzględnia się długu obciążającego członka z tytułu przypadającej na niego części
 zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów budowy danego lokalu wraz z
@@ -51,7 +49,7 @@ opróżnienie lokalu.
 4. Przysługujący osobie uprawnionej wkład mieszkaniowy „ ustalony w sposób przewidziany w
 ust.2 , nie może być wyższy od kwoty, jaką spółdzielnia jest w stanie uzyskać od członka
 
-obejmującego dany lokał w trybie przetargu przeprowadzonego przez spółdzielnię.
+obejmującego dany lokal w trybie przetargu przeprowadzonego przez spółdzielnię.
 
 5. Z przysługującej kwoty wkładu mieszkaniowego spółdzielnia ma prawo do pokrycia
 bezspornych kwot należnych od członka na dzień opróżnienia lokalu.
@@ -61,13 +59,13 @@ bezspornych kwot należnych od członka na dzień opróżnienia lokalu.
 6. Spółdzielnia zawierając umowę o ustanowienie spółdzielczego lokatorskiego prawa do lokalu
 mieszkalnego , do którego wygasło prawo przysługujące innej osobie, określa kwotę
 wymaganego wkładu mieszkaniowego w wysokości wkładu wypłaconego osobie , o której mowa
-w. ust.2. Ponadto członek zobowiązuje się do spłaty długu obciążającego tę osobę z tytułu
+w ust.2. Ponadto członek zobowiązuje się do spłaty długu obciążającego tę osobę z tytułu
 przypadającej na nią części zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów
 budowy danego lokalu wraz z odsetkami.
 
 7. Jeżeli między datą wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego a
 datą ustanowienia nowego prawa do tego lokalu uległa istotnej zmianie wartość rynkowa lokalu
-tj.+- 10 % pierwotnie ustalonej wartości rynkowej , członek zawierający umowę 0 ustanowienie
+tj.+- 10 % pierwotnie ustalonej wartości rynkowej , członek zawierający umowę o ustanowienie
 spółdzielczego lokatorskiego prawa do tego lokalu wnosi wkład mieszkaniowy zwaloryzowany
 według wartości rynkowej na dzień zawarcia umowy.
 
@@ -89,13 +87,9 @@ lokatorskie prawo do lokalu mieszkalnego, jest obowiązany uzupełnić wkład mi
 Koszty modernizacji zwiększają wartość budynku pod warunkiem, że są one pokrywane
 wyłącznie przez członków zamieszkałych w tym budynku w formie wkładów mieszkaniowych.
 
-I. PRZEKSZTAŁCENIE SPÓŁDZIELCZEGO LOKATORSKIEGO PRAWA DO
-
-ZEN SE ZES SZ AEENR CZIKI EO AEON
+II. PRZEKSZTAŁCENIE SPÓŁDZIELCZEGO LOKATORSKIEGO PRAWA DO
 
 LOKALU MIESZKALNEGO NA SPÓŁDZIELCZE WŁASNOŚCIOWE PRAWO
-
-PSZ BAŁA OZ ZE 2 ZZA ERIE II o EOG
 
 DO LOKALU
 
@@ -108,17 +102,15 @@ przez niego wpłaty różnicy pomiędzy wartością rynkową lokalu, a zwaloryzo
 wniesionego całego wkładu mieszkaniowego albo jego części. Jeżeli spółdzielnia skorzystała z
 pomocy uzyskanej ze środków publicznych lub innych środków, to różnica pomiędzy wartością
 rynkową lokalu, a wartością zwaloryzowanego wkładu mieszkaniowego, podlega zmniejszeniu
-0 50 % wartości pomocy uzyskanej przez spółdzielnię, zwaloryzowanej proporcjonalnie do
+o 50 % wartości pomocy uzyskanej przez spółdzielnię, zwaloryzowanej proporcjonalnie do
 aktualnej wartości rynkowej lokalu.
 
-3. Koszty określenia wartości rynkowej lokału, o której mowa w ust.2 , obciążają osobę, z którą
+3. Koszty określenia wartości rynkowej lokalu, o której mowa w ust.2 , obciążają osobę, z którą
 spółdzielnia zawiera umowę o przekształcenie lokalu mieszkalnego.
-
-t9
 
 ## Strona 3
 
-4. Kwota uzupełniająca wkład budowłany może być wpłacona jednorazowo lub w formie zaliczki
+4. Kwota uzupełniająca wkład budowlany może być wpłacona jednorazowo lub w formie zaliczki
 oraz miesięcznych rat płatnych przez okres do 24 miesięcy wraz z odsetkami i przeznaczona jest
 na:
 
@@ -133,7 +125,7 @@ z odsetkami w wysokości 5 % w stosunku rocznym od kwoty do uzupełnienia rataln
 
 5. Umowa powinna być zawarta pod rygorem nieważności w formie pisemnej.
 
-Hi. ROZLICZENIE WKŁADÓW BUDOWLANYCH NA SPÓŁDZIELCZE
+III. ROZLICZENIE WKŁADÓW BUDOWLANYCH NA SPÓŁDZIELCZE
 WŁASNOŚCIOWE PRAWA DO LOKALU
 
 1. W wypadku wygaśnięcia spółdzielczego własnościowego prawa do lokalu, spółdzielnia
@@ -152,7 +144,7 @@ następcy obejmującego dany lokal w trybie przetargu przeprowadzonego przez sp�
 lokalu.
 
 5. Członek zawierający umowę o ustanowienie spółdzielczego własnościowego prawa do lokalu,
-do którego wygasło prawo przysługujące innej osobie , wnosi wkład budowłany w wysokości
+do którego wygasło prawo przysługujące innej osobie , wnosi wkład budowlany w wysokości
 wkładu wypłaconego innej osobie.
 
 6. Jeżeli między datą wygaśnięcia spółdzielczego własnościowego prawa do lokalu a datą
@@ -177,7 +169,7 @@ w/w przypadku określa obowiązujący do 15 stycznia 2003 r. Regulamin rozlicze�
 ## Strona 4
 
 9. Członek zawierający umowę o ustanowienie spółdzielczego własnościowego prawa do lokalu,
-o którym mowa w ust.8 , wnosi wkład budowlany zwałoryzowany według aktualnej wartości
+o którym mowa w ust.8 , wnosi wkład budowlany zwaloryzowany według aktualnej wartości
 rynkowej prawa do lokalu.
 
 Różnice pomiędzy wypłaconymi a wpłaconymi wkładami budowlanymi są odnoszone na fundusz
@@ -200,7 +192,7 @@ z tytułu spłaty rat wkładu, kredytu i.odsetek przechodzą na nabywców praw.
 prawa do lokali mieszkalnych stosuje się odpowiednio do lokali użytkowych i garaży, do których
 przysługują spółdzielcze własnościowe prawa do tych lokali.
 
-Iv. PRAWO ODRĘBNEJ WŁASNOŚCI LOKALI MIESZKALNYCH
+IV. PRAWO ODRĘBNEJ WŁASNOŚCI LOKALI MIESZKALNYCH
 I UŻYTKOWYCH
 
 1. Na pisemne żądanie członka , któremu przysługuje spółdzielcze lokatorskie prawo do lokalu
@@ -212,7 +204,7 @@ a) spłaty przypadającej na jego lokal części zobowiązań spółdzielni zwi�
 w tym w szczególności odpowiedniej części zadłużenia kredytowego spółdzielni wraz z
 odsetkami,
 
-b) spłaty przypadającego na jego lokał uzupełnienia wkładu mieszkaniowego mieszkaniowego
+b) spłaty przypadającego na jego lokal uzupełnienia wkładu mieszkaniowego mieszkaniowego
 tytułu modernizacji budynku,
 
 c) spłaty przypadających na jego lokal zobowiązań spółdzielni z tytułu kredytów i pożyczek
@@ -231,13 +223,13 @@ aktualnej wartości rynkowej lokalu.
 rynkowej lokalu ( wg udziału procentowego wniesionego wkładu w stosunku do pierwotnych
 kosztów budowy ).
 
-3. Wpływy z wpłat, o których mowa w ust. llit.”e” spółdzielnia przeznacza na zwrot do banku
+3. Wpływy z wpłat, o których mowa w ust. 1lit.”e” spółdzielnia przeznacza na zwrot do banku
 umorzonego kredytu przy rozliczeniu zadania inwestycyjnego a w pozostałej części na fundusz
 remontowy.
 
 ## Strona 5
 
-4. Koszty określenia wartości rynkowej lokalu, koszty zawarcia umowy, © której mowa w pkt.l.
+4. Koszty określenia wartości rynkowej lokalu, koszty zawarcia umowy, o której mowa w pkt.1.
 oraz koszty założenia księgi wieczystej dla lokalu i wpisu do księgi wieczystej obciążają członka
 spółdzielni, na rzecz którego spółdzielnia dokonuje przeniesienia własności lokalu.
 
@@ -248,13 +240,13 @@ członkiem umowę przeniesienia własności lokalu po dokonaniu przez niego:
 a) spłaty przypadającej na jego lokal części zobowiązań spółdzielni związanych z budową, w
 tym w szczególności odpowiedniej części zadłużenia kredytowego spółdzielni wraz z odsetkami,
 
-b) spłaty przypadającego na jego lokał uzupełnienia wkładu budowlanego z tytułu modernizacji
+b) spłaty przypadającego na jego lokal uzupełnienia wkładu budowlanego z tytułu modernizacji
 budynku,
 
 c) spłaty rat wkładu budowlanego określonych w umowie o przekształcenie prawa z
 lokatorskiego na własnościowe,
 
-d) spłaty przypadających na jego lokal zobowiązań spółdzielni z tytułu kredytów 1 pożyczek
+d) spłaty przypadających na jego lokal zobowiązań spółdzielni z tytułu kredytów i pożyczek
 zaciągniętych na sfinansowanie kosztów remontów nieruchomości, w której znajduje się lokal,
 
 e) spłaty wszelkich długów związanych z tym lokalem.
@@ -263,8 +255,8 @@ e) spłaty wszelkich długów związanych z tym lokalem.
 lokalu i wpisu do księgi wieczystej obciążają członka spółdzielni, na rzecz którego spółdzielnia
 dokonuje przeniesienia własności lokalu.
 
-Yv. USTANOWIENIE I PRZENIESIENIE PRAW _NAJMU _DO_BYŁYCH
-MIESZKAŃ ZAKŁADOWYCH PRZEJĘTYCH PRZEZ SPOŁDZIELNIĘ
+V. USTANOWIENIE I PRZENIESIENIE PRAW _NAJMU _DO_BYŁYCH
+MIESZKAŃ ZAKŁADOWYCH PRZEJĘTYCH PRZEZ SPÓŁDZIELNIĘ
 
 1. Na pisemne żądanie najemcy spółdzielczego lokalu mieszkalnego spółdzielnia jest
 zobowiązana zawrzeć z tym Najemcą umowę:
@@ -274,16 +266,16 @@ określonych w art. 9 i art. 10 ust.2-4 ustawy o spółdzielniach mieszkaniowych
 wkład mieszkaniowy zwaloryzowany według wartości rynkowej na dzień zawarcia umowy,
 
 b) o ustanowienie spółdzielczego własnościowego prawa do lokalu mieszkalnego na warunkach
-określonych w art.17' i art.17' ust.2-4 ustawy o spółdzielniach mieszkaniowych.
-Najemca wnosi wkład budowłany według wartości rynkowej na dzień zawarcia umowy.,
+określonych w art.17¹ i art.17³ ust.2-4 ustawy o spółdzielniach mieszkaniowych.
+Najemca wnosi wkład budowlany według wartości rynkowej na dzień zawarcia umowy.,
 
 c) przeniesienia własności lokalu na warunkach określonych w art. 12 ustawy o spółdzielniach
 mieszkaniowych.
 
-VI ZBYCIE PRAW ODRĘBNEJ WŁASNOŚCI LOKALI SPÓŁDZIELCZYCH
+VI. ZBYCIE PRAW ODRĘBNEJ WŁASNOŚCI LOKALI SPÓŁDZIELCZYCH
 WOLNYCH _W_SENSIE_ PRAWNYM
 
-1. Lokałe spółdziełcze wolne w sensie prawnym mogą pochodzić z:
+1. Lokale spółdzielcze wolne w sensie prawnym mogą pochodzić z:
 a) zwolnień lokali mieszkalnych na rzecz spółdzielni przez byłych członków, którym
 
 przysługiwało spółdzielcze lokatorskie lub własnościowe prawo do lokalu i nie zostało
@@ -295,7 +287,7 @@ b) zwolnionych lokali mieszkalnych tzw. funkcyjnych (umowa najmu z gospodarzami 
 sfinansowanych funduszem zasobów mieszkaniowych spółdzielni,
 
 2. Lokale te, w związku z wypłatą zwaloryzowanych wkładów mieszkaniowych lub budowlanych
-byłym członkom ( ust. l pkt a ) oraz w przypadkach wymienionych w ust.1 pkt. b sfinansowane
+byłym członkom ( ust.1 pkt. a ) oraz w przypadkach wymienionych w ust.1 pkt. b sfinansowane
 są z bieżących środków pieniężnych spółdzielni.
 
 3. Sprzedaż lokali w sensie prawnym może nastąpić w drodze przetargu ogłoszonego przez
@@ -304,7 +296,7 @@ spółdzielnię. Cenę wywoławczą stanowi wartość rynkowa lokalu ustalona pr
 majątkowego.
 
 4. Sprzedaż lokalu następuje poprzez zawarcie umowy sprzedaży potwierdzonej aktem
-notarialnym 1 wpisem do księgi wieczystej.
+notarialnym i wpisem do księgi wieczystej.
 
 5. Kwoty uzyskane ze sprzedaży lokalu są przeznaczane na:
 
@@ -316,25 +308,25 @@ lokalu i inne ),
 
 c) pozostała kwota na fundusz zasobowy wolnych środków obrotowych.
 
-VIL LOKALE UŻYTKOWE W TYM GARAŻE
+VII. LOKALE UŻYTKOWE W TYM GARAŻE
 
 1. Postanowienia regulaminu dot. spółdzielczych własnościowych praw do lokali mieszkalnych
 stosuje się odpowiednio do lokali użytkowych, do których przysługuje członkowi spółdzielcze
 własnościowe prawo do lokalu przed dniem 24.04.2001 r.
 
-VII. WYKSIĘGOWANIE WARTOŚCI LOKALI Z EWIDENCJI KSIEGOWEJ
+VIII. WYKSIĘGOWANIE WARTOŚCI LOKALI Z EWIDENCJI KSIĘGOWEJ
 
 1. Wartość księgowa ( rynkowa ) lokali, na które zostały zawarte umowy o przeniesieniu
-własności odrębnej podłega zdjęciu z ewidencji księgowej w ciężar funduszy finansujących te
+własności odrębnej podlega zdjęciu z ewidencji księgowej w ciężar funduszy finansujących te
 lokale ( fundusz wkładów mieszkaniowych, fundusz wkładów budowlanych, fundusz zasobów
-mieszkaniowych, fundusz waloryzacji wkładów |).
+mieszkaniowych, fundusz waloryzacji wkładów ).
 
 2. Zdjęcie z ewidencji księgowej lokali następuje na podstawie umowy o przeniesienie własności
 odrębnej lokalu i aktów notarialnych.
 
 3. Zdjęcie z ewidencji księgowej środków trwałych następuje w proporcji wartości początkowej i
 umorzeń danego lokalu do wartości początkowej obiektów nieruchomości z którą związany jest
-ten lokal np. m”p.u. lokalu do m? p.u. budynku i części ułamkowych wartości praw wieczystego
+ten lokal np. m²p.u. lokalu do m² p.u. budynku i części ułamkowych wartości praw wieczystego
 użytkowania gruntów lub wartości gruntów.
 
 ## Strona 7
@@ -347,19 +339,19 @@ ustanawiania własności odrębnej lokali
 w SM „Doły - Marysińska”
 
 Przepisy prawne dotyczące finansowania spółdzielczego
-tokatorskiego budownictwa mieszkaniowego latach 1957 - 1989 r.
+lokatorskiego budownictwa mieszkaniowego latach 1957 - 1989 r.
 
 Budynki z lat 1957 - 1965 - przepisy Uchwały Nr 81 Rady Ministrów z dnia 15.03.1957 r.
 M.P. Nr 22, poz.157 ; Uchwały Nr 59 Rady Ministrów z dnia 15.03.1958 r. M.P. Nr 22,
 poz.133.
 
-I. Wkład mieszkaniowy zaliczka 15,00 %
+1. Wkład mieszkaniowy zaliczka 15,00 %
 2. Umorzenie kredytu 1/3 netto [ (100% -15%):3] 28,30%
 3. Spłata kredytu 2/3 netto 56,70 %
 Budynki z lat 1966 - 1971 - przepisy Uchwały Nr 122 Rady Ministrów dnia 22.05.1965 r.
 M.P. Nr 27, poz. 133 ;, Uchwały Nr 38 Rady Ministrów dnia 23.02.1967 r. M.P. Nr 13,
 poz.66.
-| | Wkłady i i „kredyty |
+| | Wkłady i kredyty |
 | 1|. Wkład mieszkaniowy zaliczkowy | | | | | |
 | | a/ standard podstawowy 15% | 15,0 | | | | |
 | | b/ w miastach od 20 — 100 tys. mieszkańców | | | | | |
@@ -368,77 +360,71 @@ poz.66.
 | | c/ w miastach do 20 tys. mieszkańców 18% | | | | | 18,0 |
 | | d/ w miastach ponad 100 tys. mieszkańców jak | | 22,0 | | | |
 | | pkt. b oraz w centrum 22% | | | | | |
-| 2 | Umorzenie kredytu 1/3 netto [ (100% - zaliczka):3 | | 28,3 | 26,0 | 27,3 | 26,7 127,3 |
-| 3 | Spłata kredytu 2/3 netto | 56.7 |52,0 | 54,7 | 53,3 | 54,7 |
-| 4 |71,7 | 740 | 72,7 | 73,3 | 72,7 |
+| 2 | Umorzenie kredytu 1/3 netto [ (100% - zaliczka):3 ] | 28,3 | 26,0 | 27,3 | 26,7 | 27,3 |
+| 3 | Spłata kredytu 2/3 netto | 56,7 | 52,0 | 54,7 | 53,3 | 54,7 |
+| 4 | 71,7 | 74,0 | 72,7 | 73,3 | 72,7 |
 
 Łączny wymagany wkład mieszkaniowy
-(.poz.l + poz.3 )
+( poz.1 + poz.3 )
 
 ## Strona 8
 
-Budynki z 1972 r. — przepisy Uchwały Nr 281 Rady Ministrów dnia 10.12.1971 r. MP. Nr
+Budynki z 1972 r. — przepisy Uchwały Nr 281 Rady Ministrów dnia 10.12.1971 r. M.P. Nr
 60, poz. 398; Uchwały Nr 16 Rady Ministrów dnia 23.01.1973 r. M.P.Nr 5, poz.33.
 
-|
-|
-|
-
-Wkłady i kredyty
-
-| | % | % |
-|1 | Wkład mieszkaniowy zaliczkowy | | |
+| | Wkłady i kredyty | | |
+| | | % | % | % |
+| 1 | Wkład mieszkaniowy zaliczkowy | | | |
 | | a/ miejscowość do 20 tys. mieszkańców oraz strefa | | | |
 | | peryferyjna miast ponad 20 tys. mieszkańców | 16,0 | | |
 | | b/ strefa śródmiejska miast ponad 20 tys. mieszkańców | | 18,0 | |
 | | c/ strefa centralna miast ponad 100 tys. mieszkańców | | | 20,0 |
-|2_ | Umorzenia kredytu 1/3 netto [ (100%-zaliczka):3] | 28,3 1273 | 26,7 |
-(3 | Spłata kredytu 2/3 netto 1560 | 54,7 | 53,3 |
-|4 | Łączny wymagany wkład ( poz.l + poz.3 [820 [727 [733 |
+| 2 | Umorzenia kredytu 1/3 netto [ (100%-zaliczka):3] | 28,3 | 27,3 | 26,7 |
+| 3 | Spłata kredytu 2/3 netto | 56,0 | 54,7 | 53,3 |
+| 4 | Łączny wymagany wkład ( poz.1 + poz.3 ) | 82,0 | 72,7 | 73,3 |
 
 Budynki z lat 1973 — 31 marca 1981 - Zarządzenie Ministra Gospodarki Terenowej i Ochrony
-Srodowiska z dnia 14.02.1973 r. M.P. Nr 10, poz.60
+Środowiska z dnia 14.02.1973 r. M.P. Nr 10, poz.60
 ( umorzenie kredytu 1/3 netto )
 
-na Wkłady i kredyty |
-|| | |
-| | |
-|1 | Wkład mieszkaniowy zaliczkowy | | |
+| | Wkłady i kredyty | | |
+| | | % | % | % |
+| 1 | Wkład mieszkaniowy zaliczkowy | | | |
 | | a/ miejscowość do 20 tys. mieszkańców oraz strefa | | | |
 | | peryferyjna miast ponad 20 tys. mieszkańców | 16,0 | | |
-| | b/ strefa śródmiejska miast ponad 20 tys. mieszkańców | |1 8,0 | |
-| | _c/ strefa centralna miast ponad 100 tys. mieszkańców | | 120,0 |
-|2 | Umorzenia kredytu 1/3 netto [ (100%-zaliczka):3] [28,3 | 27,3 | 26,7 |
-13 | Spłata kredytu 2/3 netto [560  |547  |533 |
-|4 | Łączny wymagany wkład ( poz.! + poz.3 ) 182,0 | 72,7 | 73,3 |
+| | b/ strefa śródmiejska miast ponad 20 tys. mieszkańców | | 18,0 | |
+| | c/ strefa centralna miast ponad 100 tys. mieszkańców | | | 20,0 |
+| 2 | Umorzenia kredytu 1/3 netto [ (100%-zaliczka):3] | 28,3 | 27,3 | 26,7 |
+| 3 | Spłata kredytu 2/3 netto | 56,0 | 54,7 | 53,3 |
+| 4 | Łączny wymagany wkład ( poz.1 + poz.3 ) | 82,0 | 72,7 | 73,3 |
+
 Budynki z lat 01 kwietnia 1981 — 31 grudnia 1981 r. - Zarządzenie Ministra Gospodarki
 Terenowej i Ochrony Środowiska z dnia 14.02.1973 r. M.P. Nr 10, poz.60 ( umorzenie
 kredytu 50 % netto ).
-| | © Wkłady i kredyty _ |
-m | % | %.]| %.|
-|1 | Wkład mieszkaniowy zaliczkowy | | | |
+
+| | Wkłady i kredyty | | |
+| | | % | % | % |
+| 1 | Wkład mieszkaniowy zaliczkowy | | | |
 | | a/ miejscowość do 20 tys. mieszkańców oraz strefa | | | |
 | | peryferyjna miast ponad 20 tys. mieszkańców | 16,0 | | |
-| |. b/'strefa śródmiejska miast ponad 20 tys. mieszkańców | | 18,0 | |
-| | c/ strefa centralna miast ponad 100 tys. mieszkanców | | [20,0 |
-[2 | Umorzenia kredytu 50 % netto [ (100%-zaliczka):2 | 42,0 1410 | 40,0 |
-3 | Spłata kredytu 50 % netto [420 [410  |400 |
-4 | Łączny wymagany wkład ( poz.l + poz.3 ) 1580 | 590  |600 |
-
-9
+| | b/ strefa śródmiejska miast ponad 20 tys. mieszkańców | | 18,0 | |
+| | c/ strefa centralna miast ponad 100 tys. mieszkańców | | | 20,0 |
+| 2 | Umorzenia kredytu 50 % netto [ (100%-zaliczka):2 ] | 42,0 | 41,0 | 40,0 |
+| 3 | Spłata kredytu 50 % netto | 42,0 | 41,0 | 40,0 |
+| 4 | Łączny wymagany wkład ( poz.1 + poz.3 ) | 58,0 | 59,0 | 60,0 |
 
 ## Strona 9
 
-Budynki z 1982 r. — przepisy Uchwały Nr 50 Rady Ministrów dnia 02.03.1981 r. M.P. Nr9,
+Budynki z 1982 r. — przepisy Uchwały Nr 50 Rady Ministrów dnia 02.03.1981 r. M.P. Nr 9,
 
 poz.69.
-1. Wkład mieszkaniowy 900 zł/m”
+1. Wkład mieszkaniowy 900 zł/m²
 2. Umorzenia kredytu 50 % netto
 3. Spłata kredytu 50 % netto na......... lat
 4. Do wyliczenia % wymaganego pełnego wkładu należy przyjąć dane z rozliczenia
 Zadania
 
-Budynki z lat 1983 — 1987 — Rozporządzenie Rady Ministrów dnia 30.12.1982 r. Dz.U. Nr l,
+Budynki z lat 1983 — 1987 — Rozporządzenie Rady Ministrów dnia 30.12.1982 r. Dz.U. Nr 1,
 poz.4
 
 1. Wkład mieszkaniowy zaliczka 10%
@@ -450,15 +436,15 @@ Budynki z lat 1988 — 30 stycznia 1989 - Rozporządzenie Rady Ministrów dnia 2
 DZ.U. Nr 23, poz.132; Rozporządzenie Rady Ministrów z dnia 28.03.1988 r. Dz.U.Nr
 10,poz.77; Rozporządzenie Rady Ministrów dnia 18.07.1988 r. Dz.U. Nr 27, poz.188.
 
-I. Wkład mieszkaniowy zaliczka 10%
+1. Wkład mieszkaniowy zaliczka 10%
 2. Umorzenia kredytu 40% netto [(100%-10%)*40%] 36%
 3. Spłata kredytu 60 % netto [(100%-10%)*60%] 54 %
 4. Łączny wymagany wkład 64 %
 
 Budynki od 31 stycznia 1989 r. — Rozporządzenie Rady Ministrów dnia 30.12.1988 r. Dz.U.
-Nr 1, poz.l
+Nr 1, poz.1
 
-h Wkład mieszkaniowy zaliczka 10 %
+1. Wkład mieszkaniowy zaliczka 10 %
 
 2. Umorzenie kredytu 30 % brutto 30 %
 
@@ -471,77 +457,76 @@ Przy zastosowaniu w/w % wymaganych wpłat wkładów mieszkaniowych poszczególny
 członków, należy sprawdzić dokumenty źródłowe rozliczeń zadań inwestycyjnych oraz
 faktyczne wpłaty wkładów tj. zaliczek i spłat kredytu w nominale.
 
-Za zgodnośćAPÓŁDZIELNIA MIESZKAMIOWA
+Za zgodność
 
-"DOŁY. MARYSIŃSKĄ"
-ARZĄD
+SPÓŁDZIELNIA MIESZKANIOWA
+"DOŁY-MARYSIŃSKA"
+ZARZĄD
+91-712 Łódź, ul. Nowopolska 12/14
 
-"81.712 Łódź | Owe giska 12/14
-
-Ou
-
-f
-U
-A
-
-40
-
-10
+[nieczytelne — podpisy]
 
 ## Strona 10
 
-"EM
-Uchwała Nr Ż60 /R/05
-Rady Nadzorczej SM "Dołly-=Marysińska" w Łodzi
+Uchwała Nr 36 /R/05
+Rady Nadzorczej SM "Doły-Marysińska" w Łodzi
 z dnia 27.09.2005
 
-Rada Nadzorcza działając na podstawie $ 42 ust, 1 pkt, 17 statutu
+Rada Nadzorcza działając na podstawie § 42 ust. 1 pkt. 17 statutu
 Spółdzielni
 
-bostanowiża
+p o s t a n o w i ł a
 
-$ 1
+§ 1
 
 wprowadzić następujące zmiany do Regulaminu rozliczeń wkładów
 mieszkaniowych i budowlanych oraz ustanawiania własności odrębnej
-lokali w SM "Doły=Marysińska" w Łodzią uchwalonego w dn. 16.03.2004
+lokali w SM "Doły-Marysińska" w Łodzi, uchwalonego w dn. 16.03.2004
 
-1» Rozdział II ust, 2, otrzymuje brzmienie:
+1. Rozdział II ust. 2. otrzymuje brzmienie:
 
 Umowę o przekształcenie prawa do lokalu Spółdzielnia zawiera
 
-z czionkiem po dokonaniu przez niego wpłaty różnicy pomiędzy
+z członkiem po dokonaniu przez niego wpłaty różnicy pomiędzy
 wartością rynkową lokalu, a zwaloryzowaną wartością wniesionego
-caiego wkładu mieszkaniowego albo jego części, Jeżeli Spółdzielnia
+całego wkładu mieszkaniowego albo jego części. Jeżeli Spółdzielnia
 skorzystała z pomocy uzyskanej ze środków publicznych lub innych
 środków, to różnica pomiędzy wartością rynkową lokalu, a wartością
 zwaloryzowanego wkładu mieszkaniowego, podlega zmniejszeniu o 50%
 wartości pomocy uzyskanej przez Spółdzielnię, zwaloryzowanej
-proporcjonalnie do aktualnej wartości rynkowej lokalu,
+proporcjonalnie do aktualnej wartości rynkowej lokalu.
 
-uje przmienie:
+2. ust. 4. (zdanie drugie) otrzymuje brzmienie:
 
-Zaliczka na uzupełnienie wkładu budowlanego wynosi minimum asese %
+Zaliczka na uzupełnienie wkładu budowlanego wynosi minimum .... 50 .... %
 kwoty do uzupełnienia. Pozostała do wpłaty część wkładu budowlanego
-może być wniesiona w 24 m=cznych ratach wraz z odsetkami w wysokości
-s.*o» % w stosunku rocznym od kwoty do uzupełnienia ratalnego»
+może być wniesiona w 24 m-cznych ratach wraz z odsetkami w wysokości
+.... 5 .... % w stosunku rocznym od kwoty do uzupełnienia ratalnego.
 
-3, dodaje się ust, 5, w brzmienius
+3. dodaje się ust. 5. w brzmieniu:
 
 Umowa powinna być zawarta pod rygorem nieważności w formie
-pisemnej»
+pisemnej.
 
-4, Rozdział IV ust. 1 lit, "e" otrzymuje brzmienie:
+4. Rozdział IV ust. 1 lit. "e" otrzymuje brzmienie:
 
 wpłaty różnicy pomiędzy wartością rynkową lokalu, a zwaloryzowaną
-wartością wniesionego całego wkładu mieszkaniowego albo jego części,
+wartością wniesionego całego wkładu mieszkaniowego albo jego części.
 Jeżeli Spółdzielnia skorzystała z pomocy uzyskanej ze środków
-publicznych lut z innych środków, to różnica pomiędzy wartością
+publicznych lub z innych środków, to różnica pomiędzy wartością
 rynkową lokalu, a wartością zwaloryzowanego wkładu mieszkaniowego,
-podlega zmniejszeniu 6 50% wartości pomocy uzyskanej przez Spół-
+podlega zmniejszeniu o 50% wartości pomocy uzyskanej przez Spół-
 dzielnię, zwaloryzowanej proporcjonalnie do aktualnej wartości
-rynkowej Lokalu,
+rynkowej lokalu.
 
-$ 2
+§ 2
 
-Uchważa wchodzi w życie z dniem podję
+Uchwała wchodzi w życie z dniem podjęcia.
+
+SEKRETARZ RADY NADZORCZEJ
+[nieczytelne — podpis]
+dr Bolesław Jędraszko
+
+PRZEWODNICZĄCY RADY NADZORCZEJ
+[nieczytelne — podpis]
+Mirosław Świątek
