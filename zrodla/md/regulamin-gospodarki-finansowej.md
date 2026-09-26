@@ -6,28 +6,30 @@
 
 REGULAMIN GOSPODARKI FINANSOWEJ
 
-SPOŁDZIELNI MIESZKANICYEJ "DOŁY=<MARYSINSKE" w ŁODZI
-54
-l. Podstawa prawna
+SPÓŁDZIELNI MIESZKANIOWEJ "DOŁY-MARYSIŃSKA" W ŁODZI
 
-1. Ustawa z dn. 16.09.1932 r. - Prawo Spółdzielcze /Dz.U.
+§ 1
+
+I. Podstawa prawna
+
+1. Ustawa z dn. 16.09.1982 r. - Prawo spółdzielcze /Dz.U.
 nr 10 poz. 210 z późniejszymi zmianami, Dz.U.nr 54
 poz. 288 z 1995 r. - tekst jednolity/.
 
-2. Ustawa bud>etowa — dotacje.
+2. Ustawa budżetowa - dotacje.
 
 3. Przepisy ustaw o podatku dochodowym od osób prawnych,
 ustawa o rachunkowości i inne przepisy państwowe.
 
 4. Statut Spółdzielni.
 
+§ 2
+
 Spółdzielnia tworzy następujące fundusze:
 
 - fundusz udziałowy,
 
 - fundusz zasobowy,
-
-JI
 
 - fundusz zasobów mieszkaniowych,
 
@@ -36,27 +38,22 @@ JI
 - fundusz na remonty i konserwacje obiektów budowlanych
 i zieleni,
 
-- zakładowy fundusz świadczeń Socjalnych.
+- zakładowy fundusz świadczeń socjalnych.
 
-Gospodarka funduszami i finansowanie działalności Snółdzielni
-CCC OŹÓÓL 2 0eU$OWANiE dziatfalności Spółdzielni
-
-- zasady ogólne. ;
-* 3
+II. Gospodarka funduszami i finansowanie działalności Spółdzielni
+- zasady ogólne.
+§ 3
 
 1. Spółdzielnia prowadzi działalność gospodarczą samodzielnie
 na zasadach rachunku ekonomicznego przy zapewnieniu
 korzyści członkom /art. 67 - Prawo spółdzielcze/.
 
-Przedmiotem działalności Spółdzielni jest zaspokajanie
+2. Przedmiotem działalności Spółdzielni jest zaspokajanie
 potrzeb mieszkaniowych członków i ich rodzin oraz
 potrzeb gospodarczych i kulturalnych w spółdzielczym
 osiedlu lub budynku.
 
-Ad)
-12
-
-+£
+./.
 
 ## Strona 2
 
@@ -64,33 +61,30 @@ Ad)
 
 ## Strona 3
 
-y
-va
-
-Działalność Spółdzielni finansowana jest ze środków włesnych
+3. Działalność Spółdzielni finansowana jest ze środków własnych
 
 które mogą być uzupełnione kredytami bankowymi.
-Spółdzielnia prowadzi działalność na podstawie planów
+4. Spółdzielnia prowadzi działalność na podstawie planów
 gospodarczych zatwierdzonych przez Radę Nadzorczą.
 
-Ró*nica między kosztami a dochodami gospodarki zasobami
+5. Różnica między kosztami a dochodami gospodarki zasobami
 mieszkaniowymi zwiększa odpowiednio koszty lub dochody tej
 gospodarki w roku następnym.
 
-Inne źródła dochodów /otrzymane odsetki; od lokat temniucwych,
+6. Inne źródła dochodów /otrzymane odsetki: od lokat terminowych,
 zaległości czynszowych i inne dochody/ przeznaczane są na
 gospodarkę zasobami mieszkaniowymi oraz inne cele statutowe.
 
+§ 4
+
 Fundusze zasadnicze Spółdzielni:
 
-ds
-
-Fundusz udziałowy
+1. Fundusz udziałowy
 
 1/ fundusz udziałowy /801/ tworzy się z wpłat udziałów
 
 członkowskich,
-Wysokość udziału oraz zasady ich wnoszenia określa Ś 57
+Wysokość udziału oraz zasady ich wnoszenia określa § 57
 
 Statutu Spółdzielni,
 2/ fundusz udziałowy zmniejsza się z tytułu:
@@ -98,19 +92,20 @@ a/ dokonanego zwrotu wniesionych udziałów byłym członkom
 Spółdzielni lub ich spadkobiercom,
 b/ przeznaczenia udziałów na pokrycie straty bilansowej,
 3/ środki funduszu udziałowego służą przejściowo do finanso-
-wania bież ącej działalności Spółdzielni.
+wania bieżącej działalności Spółdzielni.
 
-Fundusz zasobowy
+2. Fundusz zasobowy
+
 1/ fundusz zasobowy tworzy się z następujących tytułów:
 a/ z wpłat wpisowego członków Spółdzielni w wysokościach
-określonych w $ 57 Statutu Spółdzielni,
+określonych w § 57 Statutu Spółdzielni,
 
 b/ wartości przyjętych do eksploatacji środków trwałych
 nie zaliczanych do zasobów mieszkaniowych sfinansowa-
 
 nych funduszami wyodrębnionymi,
 
-<fa
+./.
 
 ## Strona 4
 
@@ -118,13 +113,11 @@ nych funduszami wyodrębnionymi,
 
 ## Strona 5
 
-AN
-
-c/ wartość, nieodpłatnie otrzymanych - przejętych gruntów
+c/ wartością nieodpłatnie otrzymanych - przejętych gruntów
 
 /własnych/,
-d/ wartość nieodpłatnie przyjętych do eksploatacji
-środków trwałych nie zaliczanych do zasobów mieszka
+d/ wartością nieodpłatnie przyjętych do eksploatacji
+środków trwałych nie zaliczanych do zasobów mieszka-
 
 niowych oraz środków obrotowych,
 
@@ -134,7 +127,7 @@ wspólnymi zadaniami w ramach inwestycji mieszkaniowych
 takich jak pawilony handlowo-usługowe, dźwigi osobowe
 infrastruktura techniczna itp. stanowiące obiekty
 wspólnego użytku, służące członkom spółdzielni i nie
-podlegające amortyzowaniu w cię*ar kosztów eksploatacji
+podlegające amortyzowaniu w ciężar kosztów eksploatacji.
 
 2/Fundusz zasobowy zwiększa się o:
 
@@ -143,14 +136,14 @@ a/ skutki przeszacowania/w terminach urzędowych /wartości
 
 b/ uwolnione środki funduszu zasobów mieszkaniowych
 w związku z przekształceniem lokatorskiego prawa na
-własnościowe prawo, zmiany statusu prawnego iokalu
-/orawo do lokalu zakładowego - na prawo spółdzielcze
+własnościowe prawo, zmiany statusu prawnego lokalu
+/prawo do lokalu zakładowego - na prawo spółdzielcze
 
 lokatorskie lub własnościowe prawo do lokalu/,
 
 c/ z innych tytułów wynikających z umów lub przepisów
 
-mie objętych niniejszym regulaminem oraz na podstawie
+nie objętych niniejszym regulaminem oraz na podstawie
 
 uchwał organów Spółdzielni,
 
@@ -161,13 +154,15 @@ zasobowym oraz o skutki aktualizacji tych umorzeń
 w związku z urzędowym przeszacowaniem środków trwałych,
 
 2/ wartość przekazanych, sprzedanych lub zlikwidowanych
-środków trwałych finansowanych funduszem zasabowym
+środków trwałych finansowanych funduszem zasobowym
 
 lub innymi funduszami wyodrębnionymi,
 
 4/Fundusz zasobowy finansuje majątek Spółdzielni oraz
 
-bie*acą działalność Spółdzielni.
+bieżącą działalność Spółdzielni.
+
+./.
 
 ## Strona 6
 
@@ -175,19 +170,9 @@ bie*acą działalność Spółdzielni.
 
 ## Strona 7
 
-Fundusz zasobów mieszkaniowych
+3. Fundusz zasobów mieszkaniowych
 
-1/
-
-2/
-
-3/
-
-4/
-
-5/
-
-Fundusz zasobów mieszkaniowych tworzą:
+1/ Fundusz zasobów mieszkaniowych tworzą:
 
 a/ umorzenia kredytów bankowych zaciągniętych na budowę
 mieszkań,
@@ -199,15 +184,17 @@ spółdzielni a zajmowanych na prawach najmu bądź mieszkań
 zakładowych /w wysokości wymaganego wkładu lokatorskiego/,
 
 d/ umorzenia kredytu bankowego.
-Fundusz zasobów mieszkaniowych zwiększa się odpowiednio:
 
-a/ o skutki aktualizacji środków trwałych brutto nale>ących
+2/ Fundusz zasobów mieszkaniowych zwiększa się odpowiednio:
+
+a/ o skutki aktualizacji środków trwałych brutto należących
 do zasobów mieszkaniowych w części nie sfinansowanej
 wkładami członków Spółdzielni,
 
 b/ o wartość modernizacji /dotacja budżetowa/,
 c/ inne zwiększenia.
-Fundusz zasobów mieszkaniowych zmniejsza się o:
+
+3/ Fundusz zasobów mieszkaniowych zmniejsza się o:
 
 a/ wyksięgowane umorzenie kredytu /dotacji/na skutek zmiany
 
@@ -222,16 +209,16 @@ c/ skutki aktualizacji umorzeń środków trwałych zaliczanych
 do zasobów mieszkaniowych /budynków/ proporcjonalnie
 do wartości wymienionych w poz. 2a.
 
-Finansowanie zasobów mieszkaniowych /budynków/.
+4/ Finansowanie zasobów mieszkaniowych /budynków/.
 
-wartość ewidencyjna Środków trwałych /netto/ budynków
+Wartość ewidencyjna środków trwałych /netto/ budynków
 mieszkalnych sfinansowana winna być funduszem wkładów
 lokatorskich, budowlanych oraz funduszem zasobów mieszkanio-
 wych.
 
-Wolne /uwolnione/ środki funduszu zasobów mieszkaniowych na
+5/ Wolne /uwolnione/ środki funduszu zasobów mieszkaniowych na
 skutek zmiany prawa do lokalu przenoszone są na fundusz za-
-sobowy. Na podstawie decyzji Rady Nadzorczej mogą zostać "
+sobowy. Na podstawie decyzji Rady Nadzorczej mogą zostać
 
 przeznaczone na zwiększenie funduszu remontowego Spółdzielni.
 
@@ -241,28 +228,15 @@ przeznaczone na zwiększenie funduszu remontowego Spółdzielni.
 
 ## Strona 9
 
-3%y
-
-ź.
-
-Fundusz wkładów mieszkaniowych i budowlanych powstaje
-t
-
-4)
-
-iem oprawa do lokalu lokatorskiego /wkład
-
-s
-w związku z orzyznan
-miesienier
-
-mieszkaniowy/ lub własnościowego /wkład budowlany/ i
+4. Fundusz wkładów mieszkaniowych i budowlanych powstaje
+w związku z przyznaniem prawa do lokalu lokatorskiego /wkład
+mieszkaniowy/ lub własnościowego /wkład budowlany/ i wniesieniem
 
 przez członka wymaganej kwoty wkładu
 
 1/ definicję wkładów mieszkaniowych i budowlanych oraz rozlicze-
 nia z członkami w tym zakresie określa Statut Spółdzielni
-£ 5 oraz art. 213 - 239 Prawa Spółdzielczego,
+§ 58 oraz art. 213 - 239 Prawa Spółdzielczego,
 
 2/ fundusz wkładów mieszkaniowych i budowlanych finansuje
 majątek trwały.
@@ -282,33 +256,30 @@ zmniejsza się odpowiednio o umorzenie środków trwałych
 zacją środków trwałych zasobów mieszkaniowych zwiększają
 odpowiednio fundusz wkładów mieszkaniowych i budowlanych.
 
-5/ środki pienię*ne wkładów mieszkaniowych i budowlanych
+5/ środki pieniężne wkładów mieszkaniowych i budowlanych
 gromadzone są na odrębnym rachunku bankowym i mogą być wy—
 korzystane na finansowanie bieżącej działalności.
 
-6/ szczegółowe zasady rozliczeń z członkami z tytułu wkradów
+6/ szczegółowe zasady rozliczeń z członkami z tytułu wkładów
 mieszkaniowych i budowlanych określa odrębny regulamin.
 
-Fundusz na remonty i konserwacje obiektów budowlanych i zieleni
-a nn - m a nnn nic A 00
-
-%
+5. Fundusz na remonty i konserwacje obiektów budowlanych i zieleni
 
 Źródła tworzenia i wydatkowania środków tego funduszu określa
 odrębny regulamin zatwierdzony przez Radę Nadzorczą Spółdzielni.
 
-zakładowy fundusz świadczeń socjalnych tworzony jest na
+6. Zakładowy fundusz świadczeń socjalnych tworzony jest na
 
-podstawie art. 78 $ 2 Prawa Spółdzielczego oraz $ 54 p.1 p.p.2
-Statutu Spółdzielni na zasadacł. określonych w regulaminie.
+podstawie art. 78 § 2 Prawa Spółdzielczego oraz § 54 p.1 p.p.2
+Statutu Spółdzielni na zasadach określonych w regulaminie.
 zakładowego funduszu świadczeń socjalnych zatwierdzonego przez
 
-zarząd Spółdzielni.
-Zasady tworzenia i wydatkowania środków funduszu świadczeń:
+Zarząd Spółdzielni.
+Zasady tworzenia i wydatkowania środków funduszu świadczeń
 
 socjalnych określają odrębne przepisy państwowe.
 
--/.
+./.
 
 ## Strona 10
 
@@ -316,35 +287,32 @@ socjalnych określają odrębne przepisy państwowe.
 
 ## Strona 11
 
-III.
+III. Postanowienia końcowe
 
-Po
-©
+§ 5
 
-Postanowienia kolicowe
-
-Spółdzielnia prowadzi rachunkowość wg zasad
-
-nych w ustawie o rachunkowości z dnia
+1. Spółdzielnia prowadzi rachunkowość wg zasad
+określonych w ustawie o rachunkowości z dnia
 29.09.1994 r. /Dz.U. nr 121 poz. 591/.
 
-Szczegółowe zasady gospodarki finansowej w ramach
+2. Szczegółowe zasady gospodarki finansowej w ramach
 przepisów ustaw i postanowień Statutu określają
 odpowiednie regulaminy i instrukcje zatwierdzone
 przez Radę Nadzorczą lub Zarząd Spółdzielni
 zgodnie z kompetencjami.
 
-3 6
+§ 6
 
 Regulamin został uchwalony przez Radę Nadzorczą
-uchważą nr 60 /R/98 z dnia /3./0./$49rm.
+uchwałą nr 60 /R/98 z dnia 13.10.1998 r.
 i wchodzi w życie z dniem uchwalenia.
 
-BIZ CY
+[podpis nieczytelny]
 
-NA ae CZEJ
+SEKRETARZ                    PRZEWODNICZĄCY
+RADY NADZORCZEJ              RADY NADZORCZEJ
 
-a Tada Baz
+mgr inż. Eugeniusz Krupiński           inż. Tadeusz Perz
 
 ## Strona 12
 
