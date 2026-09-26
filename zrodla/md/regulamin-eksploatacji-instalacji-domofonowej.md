@@ -7,31 +7,31 @@
 REGULAMIN EKSPLOATACJI INSTALACJI DOMOFONOWEJ W ZASOBACH
 SPÓŁDZIELNI MIESZKANIOWEJ „DOŁY-MARYSIŃKA”
 
-Postanowienia ogólne
+I. Postanowienia ogólne
 
-$1
+§ 1
 
 Regulamin określa zasady montażu, eksploatacji, konserwacji i remontów instalacji
 domofonowej w zasobach mieszkaniowych Spółdzielni oraz ustalania opłat z tego tytułu
 dla osób posiadających prawo do lokalu jak i osób zajmujących lokal bez tytułu prawnego
 zwanych w treści Regulaminu „użytkownikami lokali”.
 
-$2
+§ 2
 Ilekroć w niniejszym Regulaminie jest mowa o:
 
-Spółdzielnia — należy przez to rozumieć Spółdzielnię Mieszkaniową „Doły-Marysińska”
+1. Spółdzielnia — należy przez to rozumieć Spółdzielnię Mieszkaniową „Doły-Marysińska”
 
 z siedzibą w Łodzi,
 
-Zarząd — należy przez to rozumieć Zarząd Spółdzielni Mieszkaniowej „Doły- Marysińska”
+2. Zarząd — należy przez to rozumieć Zarząd Spółdzielni Mieszkaniowej „Doły- Marysińska”
 
 z siedziba w Łodzi,
 
-Lokal — należy przez to rozumieć lokal mieszkalny, użytkowy,
+3. Lokal — należy przez to rozumieć lokal mieszkalny, użytkowy,
 
-Nieruchomość — należy przez to rozumieć budynki, którymi zarządza Spółdzielnia,
+4. Nieruchomość — należy przez to rozumieć budynki, którymi zarządza Spółdzielnia,
 
-Instałacja domofonowa kablowa — należy przez to rozumieć zespół urządzeń
+5. Instalacja domofonowa kablowa — należy przez to rozumieć zespół urządzeń
 
 elektronicznych służących do komunikacji głosowej wraz z możliwością otwierania wejść
 
@@ -40,7 +40,7 @@ zamontowanymi w poszczególnych lokalach schodowych.
 
 Kompletne instalacje domofonowe kablowe w poszczególnych klatkach schodowych składają
 
-się Z:
+się z:
 
 a) osprzętu instalacji domofonowej obejmującego elementy instalacji na zewnątrz
 
@@ -54,75 +54,71 @@ schodowej,
 
 b) unifonów (urządzeń odbiorczych znajdujących się w lokalach).
 
-Montaż - należy przez to rozumieć wykonanie nowej instalacji domofonowej.
+6. Montaż - należy przez to rozumieć wykonanie nowej instalacji domofonowej.
 
-. Konserwacja — należy przez to rozumieć wykonanie robót mających na celu utrzymanie
+7. Konserwacja — należy przez to rozumieć wykonanie robót mających na celu utrzymanie
 sprawności technicznej i estetycznej elementów instalacji domofonowej, a także bieżącą
 lub częściową jej naprawę, inną niż remont, w celu zapobiegania skutkom
 ponadnormatywnego zużycia poszczególnych elementów tej instalacji.
 
-. Remont — należy przez to rozumieć wykonanie w istniejącym obiekcie budowlanym robót
+8. Remont — należy przez to rozumieć wykonanie w istniejącym obiekcie budowlanym robót
 budowlanych, w tym instalacyjnych, polegających na odtworzeniu stanu pierwotnego,
 a nie stanowiących bieżącej konserwacji.
 
 ## Strona 2
 
-IL.
-
-q="=J
-
-. Brelok — należy przez to rozumieć czytnik zbliżeniowy lub dotykowy klucz elektroniczny
+9. Brelok — należy przez to rozumieć czytnik zbliżeniowy lub dotykowy klucz elektroniczny
 
 do zwalniania elektrozaczepu zamka drzwi zewnętrznych do klatki schodowej.
 
-$3
+§ 3
 W celu unowocześnienia instalacji  domofonowej i zwiększenia komfortu
 oraz bezpieczeństwa mieszkańców, Spółdzielnia wykonuje określone niniejszym
 Regulaminem obowiązki związane z montażem, eksploatacją, konserwacją i remontami
 instalacji domofonowej w budynku lub klatce schodowej:
 a) istniejącej, będącej w konserwacji Spółdzielni na dzień wejścia w życie niniejszego
 Regulaminu,
-b) nowo wykonanej przez Spółdzielnię na wniosek, o którym mowa w $ 4,
-c) przejętej do konserwacji przez Spółdzielnię na wniosek, o którym mowa w $ 4, nie będącej
+b) nowo wykonanej przez Spółdzielnię na wniosek, o którym mowa w § 4,
+c) przejętej do konserwacji przez Spółdzielnię na wniosek, o którym mowa w § 4, nie będącej
 w konserwacji na dzień wejścia w życie niniejszego regulaminu.
 
-$4
+§ 4
 
-. Czynności, o których mowa w $ 3, w przypadkach wskazanych w pkt b i c, Spółdzielnia
+1. Czynności, o których mowa w § 3, w przypadkach wskazanych w pkt b i c, Spółdzielnia
 
-wykonuje na pisemny wniosek lub za pisemną zgodą co najmniej 50% plus I uprawnionych
-użytkowników lokali w klatce schodowej. Wzór wniosku stanowi Załącznik nr I
+wykonuje na pisemny wniosek lub za pisemną zgodą co najmniej 50% plus 1 uprawnionych
+użytkowników lokali w klatce schodowej. Wzór wniosku stanowi Załącznik nr 1
 do niniejszego Regulaminu.
 
-Na każdy lokal w klatce schodowej jego użytkownikom przysługuje jeden głos.
+2. Na każdy lokal w klatce schodowej jego użytkownikom przysługuje jeden głos.
 
-. Wniosek lub zgoda większości użytkowników lokali klatki schodowej upoważnia
+3. Wniosek lub zgoda większości użytkowników lokali klatki schodowej upoważnia
 
 Spółdzielnię do obciążenia wszystkich użytkowników lokali kosztami eksploatacji instalacji
-domofonowej, o których mowa w $ 11 i $ 12, bez względu czy oddali głos za, czy przeciwko
+domofonowej, o których mowa w § 11 i § 12, bez względu czy oddali głos za, czy przeciwko
 montażowi, modernizacji lub przejęciu instalacji domofonowej.
-W klatkach schodowych, w których na dzień wejścia w życie niniejszego Regulaminu
+4. W klatkach schodowych, w których na dzień wejścia w życie niniejszego Regulaminu
 jest zamontowana instalacja domofonowa przewodowa, będąca w konserwacji Spółdzielni,
-opłatę, o której mowa w $ 11 i $ 12 wnoszą wszyscy użytkownicy łokali w danej klatce
+opłatę, o której mowa w § 11 i § 12 wnoszą wszyscy użytkownicy lokali w danej klatce
 schodowej.
 
-$5
-Decyzję o typie instalacji domofonowej w danej klatce schodowej podejmuje Zarząd.
-Zarząd uwzględnia sugestię co do typu instalacji domofonowej wskazanej we wniosku
-użytkowników lokali o którym mowa w $ 4 niniejszego regulaminu.
+§ 5
+1. Decyzję o typie instalacji domofonowej w danej klatce schodowej podejmuje Zarząd.
+2. Zarząd uwzględnia sugestię co do typu instalacji domofonowej wskazanej we wniosku
+użytkowników lokali o którym mowa w § 4 niniejszego regulaminu.
 
-Usługi świadczone przez Spółdzielnię w zakresie instalacji domofonowej.
+II. Usługi świadczone przez Spółdzielnię w zakresie instalacji domofonowej.
 
-86
+§ 6
 Usługi świadczone w zakresie instalacji domofonowej to:
 a) montaż nowej instalacji,
 b) eksploatacja i konserwacja,
 c) remonty,
 d) usługi świadczone na zlecenie dysponentów lokali za indywidualną odpłatnością.
 
-$ 7
+§ 7
 
-. W przypadku otrzymania przez Spółdzielnię wniosku użytkowników lokali dotyczącego:
+1. W przypadku otrzymania przez Spółdzielnię wniosku użytkowników lokali dotyczącego:
 
 a) istniejącej instalacji domofonowej: Spółdzielnia dokonuje przeglądu technicznego
 tej instalacji, określając zakres rzeczowy koniecznych prac remontowych
@@ -134,20 +130,19 @@ montażu nowej instalacji,
 b) montażu nowej instalacji domofonowej: Spółdzielnia dokonuje przeglądu klatki
 schodowej pod kątem możliwości technicznych jej wykonania, określając rozmiar
 i zakres niezbędnych prac.
-Po określeniu zakresu rzeczowego robót i dokonaniu wstępnej wyceny, decyzję o realizacji
+2. Po określeniu zakresu rzeczowego robót i dokonaniu wstępnej wyceny, decyzję o realizacji
 montażu instalacji domofonowej podejmuje Zarząd, biorąc pod uwagę stan funduszu
 remontowego danej nieruchomości budynkowej.
-Nowo montowane instalacje domofonowe mają zapewnić możliwość podłączenia do nowej
+3. Nowo montowane instalacje domofonowe mają zapewnić możliwość podłączenia do nowej
 instalacji wszystkich lokali danej klatki schodowej.
-Koszty indywidualnego podłączenia instalacji domofonowej do lokalu, poza terminem
+4. Koszty indywidualnego podłączenia instalacji domofonowej do lokalu, poza terminem
 uruchomienia instalacji w klatce schodowej, ponosi użytkownik tego lokalu.
-Każdy użytkownik lokalu, w tym i użytkownicy, którzy nie wyrazili zgody na zainstalowanie
+5. Każdy użytkownik lokalu, w tym i użytkownicy, którzy nie wyrazili zgody na zainstalowanie
 w ich lokalach unifonu otrzymają: „kod dostępu”, nieodpłatnie jeden klucz i jeden brelok
 do drzwi wejściowych do klatki schodowej.
 
-88
-
-Konserwacja instalacji domofonowej w nieruchomości prowadzona jest w zakresie:
+§ 8
+1. Konserwacja instalacji domofonowej w nieruchomości prowadzona jest w zakresie:
 
 a) sprawdzenia stanu technicznego i sprawności instalacji,
 
@@ -171,24 +166,24 @@ spowodowanych normalną eksploatacją powodujących wadliwe działanie instalacj
 poprzez wymianę lub naprawę uszkodzonych odcinków z wyłączeniem uszkodzeń
 spowodowanych przez użytkownika lokalu.
 
-Usługi związane z konserwacją powinny być wykonywane w sposób ciągły, aby sprawność
+2. Usługi związane z konserwacją powinny być wykonywane w sposób ciągły, aby sprawność
 
 techniczna urządzeń była zapewniona w sposób możliwie nieprzerwany. Usterki powinny
 
 być usunięte w ciągu 48 godzin od zgłoszenia.
 
-Materiały niezbędne do wykonywania w/w czynności zapewnia firma śŚwiadcząca
+3. Materiały niezbędne do wykonywania w/w czynności zapewnia firma świadcząca
 
 dla Spółdzielni usługi w zakresie konserwacji domofonów.
 
-Za datę rozpoczęcia konserwacji przyjmuje się pierwszy miesiąc po odbiorze i włączeniu
+4. Za datę rozpoczęcia konserwacji przyjmuje się pierwszy miesiąc po odbiorze i włączeniu
 
 do eksploatacji instalacji domofonowej zamontowanej, wyremontowanej, zmodernizowanej
 
 lub przejętej.
 
-$9
-Remonty instalacji domofonowej obejmują w szczególności:
+§ 9
+1. Remonty instalacji domofonowej obejmują w szczególności:
 a) wymianę kompletnej elektroniki sterującej,
 b) wymianę lub regenerację kasety przyzywowej — w zależności od stopnia zużycia,
 c) wymianę okablowania w klatce schodowej — w zależności od stopnia zużycia,
@@ -196,12 +191,10 @@ d) naprawy związane z kradzieżą, wandalizmem i ingerencją osób niepowołany
 
 ## Strona 4
 
-TL.
-
 e) naprawę uszkodzeń spowodowanych wypadkami losowymi.
-Remonty są prowadzone przez Spółdzielnię dla instalacji, o których mowa w $ 3.
+2. Remonty są prowadzone przez Spółdzielnię dla instalacji, o których mowa w § 3.
 
-$10
+§ 10
 
 Na zlecenie użytkowników lokali, za dodatkową odpłatnością, firma świadcząca na rzecz
 Spółdzielni usługi w zakresie montażu, remontów i konserwacji instalacji domofonowej,
@@ -215,51 +208,49 @@ c) zakup i zaprogramowanie dodatkowych breloków,
 
 d) indywidualne podłączenie lokalu do istniejącej instalacji domofonowej kablowej.
 
-Zasady finansowania i rozliczania kosztów oraz ustalania opłat
+III. Zasady finansowania i rozliczania kosztów oraz ustalania opłat
 
-$11
+§ 11
 
-Koszty montażu nowej lub remontu istniejącej instalacji domofonowej łącznie z zakupem
+1. Koszty montażu nowej lub remontu istniejącej instalacji domofonowej łącznie z zakupem
 unifonów są finansowane w całości ze środków funduszu remontowego danej nieruchomości.
-W przypadku stwierdzenia przez firmę świadczącą na rzecz Spółdzielni usługi w zakresie
+2. W przypadku stwierdzenia przez firmę świadczącą na rzecz Spółdzielni usługi w zakresie
 instalacji domofonowej uszkodzenia unifonu, koszty jego zakupu i naprawy instalacji
 pokrywa użytkownik lokalu.
 
-Koszty eksploatacji instalacji domofonowej finansowane są w całości z opłat pod nazwą
+3. Koszty eksploatacji instalacji domofonowej finansowane są w całości z opłat pod nazwą
 „domofon” wnoszonych przez użytkowników lokali.
 
-$ 12
-Koszty montażu, eksploatacji i remontów instalacji domofonowej są ewidencjonowane
+§ 12
+1. Koszty montażu, eksploatacji i remontów instalacji domofonowej są ewidencjonowane
 odrębnie dla każdej nieruchomości.
-Jednostką rozliczeniową dla opłaty z tytułu ekspłoatacji instalacji domofonowej jest lokal.
-Obciążenia kosztami za eksploatację instalacji domofonowej dokonuje się jednolicie
-dla każdego lokału.
-Wysokość miesięcznej opłaty przypadającej na lokal na pokrycie kosztów eksploatacji
-instalacji domofonowej ustała się jednolicie dla lokali znajdujących się w nieruchomościach
+2. Jednostką rozliczeniową dla opłaty z tytułu eksploatacji instalacji domofonowej jest lokal.
+3. Obciążenia kosztami za eksploatację instalacji domofonowej dokonuje się jednolicie
+dla każdego lokalu.
+4. Wysokość miesięcznej opłaty przypadającej na lokal na pokrycie kosztów eksploatacji
+instalacji domofonowej ustala się jednolicie dla lokali znajdujących się w nieruchomościach
 wyposażonych w instalację domofonową.
-Wysokość opłaty może ulegać zmianie w przypadku zmiany wysokości rzeczywiście
+5. Wysokość opłaty może ulegać zmianie w przypadku zmiany wysokości rzeczywiście
 poniesionych kosztów z tytułu eksploatacji instalacji domofonowej.
-Opłaty z tytułu eksploatacji instalacji domofonowej wnoszone są przez użytkowników
+6. Opłaty z tytułu eksploatacji instalacji domofonowej wnoszone są przez użytkowników
 wszystkich lokali każdej klatki schodowej z instalacją domofonową w poszczególnych
-nieruchomościach w tym również tych, którzy nie wyrazili zgody na zainstałowanie
+nieruchomościach w tym również tych, którzy nie wyrazili zgody na zainstalowanie
 domofonu w ich lokalu.
-Opłaty z tytułu eksploatacji instalacji domofonowej stanowią oddzielną pozycję w należnej
+7. Opłaty z tytułu eksploatacji instalacji domofonowej stanowią oddzielną pozycję w należnej
 opłacie za lokal pod nazwą „domofon”.
-Wysokość miesięcznej opłaty pod nazwą „domofon” z tytułu eksploatacji instalacji
+8. Wysokość miesięcznej opłaty pod nazwą „domofon” z tytułu eksploatacji instalacji
 domofonowej uchwala Rada Nadzorcza Spółdzielni.
 
-$ 13
+§ 13
 
 Opłaty związane z eksploatacją instalacji domofonowej pod nazwą „domofon”, wnoszone są
 od miesiąca następującego po miesiącu oddania lub przejęcia instalacji domofonowej.
 
-a
-
 ## Strona 5
 
-Iv. Postanowienia końcowe
+IV. Postanowienia końcowe
 
-$ 14
+§ 14
 
 1. Unifon zainstalowany w lokalu stanowi wyposażenie instalacji domofonowej i nie może
 być demontowany lub przenoszony.
@@ -274,22 +265,24 @@ odłączenie tego lokalu od instalacji domofonowej do czasu usunięcia awarii
 przez użytkownika lokalu, na jego koszt. W tym przypadku Spółdzielnia zobowiązana
 jest bezzwłocznie poinformować użytkownika lokalu o fakcie i przyczynie odłączenia.
 
-$ 15
+§ 15
 W przypadkach nieunormowanych niniejszym regulaminem mają zastosowanie przepisy Statutu
 Spółdzielni.
 
-dzo MIAŁ dnia 6.4, JOZZŁ .
+§ 16
+Regulamin został zatwierdzony Uchwałą Rady Nadzorczej Nr ......24/R/22...... z dnia ......26.X.2022r......
 
-Regulamin został zatwierdzony Uchwałą Rady Nadzorczej Nr ....../4/7/.9z dnia ........ WZA
+i wchodzi w życie z dniem ......02.XI.2022r......
 
-i wchodzi w życie z dniem U: z ; AMIR ,
+SEKRETARZ PRZEWODNICZĄCY
+RADY NADZORCZEJ RADY NADZORCZEJ
 
-Kąf il Oberbek,
+Helena Rajpold Kamil Oberbek
 
 ## Strona 6
 
 Załącznik nr 1
-Łódź, dnia .........sseeoa aa aaaaana22
+Łódź, dnia ...........................
 
 Spółdzielnia Mieszkaniowa
 „Doły-Marysińska”
@@ -300,13 +293,25 @@ ul. Nowopolska 12/14
 Wniosek o przejęcie przez Spółdzielnię obowiązków
 w zakresie eksploatacji instalacji domofonowej
 
-My niżej podpisani mieszkańcy bloku nr.......... przy ulicy .....-=-<xaeemazorzoeoneycezywwicweie
-|| OOOCOPCCAE w Łodzi wnioskujemy o wykonanie remontu/wymiany w ramach funduszu
+My niżej podpisani mieszkańcy bloku nr.......... przy ulicy ....................................
+nr ...............w Łodzi wnioskujemy o wykonanie remontu/wymiany w ramach funduszu
 remontowego z przejęciem w konserwację instalacji domofonowej.
 
-Imie i nazwisko właściciela lokalu Nr lokalu Podpis
-
-16
-
-= | | | |= |=
-w | |w | |= |©
+| Lp. | Imię i nazwisko właściciela lokalu | Nr lokalu | Podpis |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+| 6 | | | |
+| 7 | | | |
+| 8 | | | |
+| 9 | | | |
+| 10 | | | |
+| 11 | | | |
+| 12 | | | |
+| 13 | | | |
+| 14 | | | |
+| 15 | | | |
+| 16 | | | |
