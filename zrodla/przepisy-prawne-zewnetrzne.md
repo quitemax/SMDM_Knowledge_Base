@@ -8,9 +8,11 @@ same w sobie nie są tworzone ani zmieniane przez Spółdzielnię, ale determinu
 statutu i regulaminów oraz obowiązki Spółdzielni jako zarządcy nieruchomości i
 pracodawcy.
 
-Na razie jest to sama lista referencyjna (numery aktów, publikatory, uwagi co do
-zastosowania) — pełne teksty poszczególnych aktów mają zostać dodane osobno, w
-odrębnym katalogu (katalogach), poza `zrodla/`.
+Pełne teksty PDF poszczególnych aktów (pobrane z ISAP/api.sejm.gov.pl, RODO z mirrora
+PIBR) znajdują się osobno, poza `zrodla/`, w [`../przepisy-prawne/`](../przepisy-prawne/) —
+patrz [`../przepisy-prawne/README.md`](../przepisy-prawne/README.md) po dokładne
+publikatory, stan prawny na dzień pobrania i zalecane interwały sprawdzania aktualizacji.
+Wersje Markdown (`przepisy-prawne/md/`) mają zostać dodane w kolejnym kroku.
 
 **Uwaga:** status niektórych aktów (np. rozporządzenia z 1999 r. o warunkach
 technicznych użytkowania budynków mieszkalnych, pkt 2) wymaga potwierdzenia w ISAP —

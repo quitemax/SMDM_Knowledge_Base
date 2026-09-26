@@ -34,7 +34,11 @@ można rozważyć migrację do dedykowanego narzędzia (np. BookStack).
   [`zrodla/spis-dokumentow.md`](zrodla/spis-dokumentow.md). Zobacz też
   [`zrodla/przepisy-prawne-zewnetrzne.md`](zrodla/przepisy-prawne-zewnetrzne.md)
   — listę zewnętrznych ustaw i rozporządzeń wyznaczających ramy działalności
-  Spółdzielni (pełne teksty aktów mają zostać dodane osobno).
+  Spółdzielni.
+- [`przepisy-prawne/`](przepisy-prawne/) — pełne teksty (PDF, docelowo też
+  Markdown) tych zewnętrznych aktów prawnych; patrz
+  [`przepisy-prawne/README.md`](przepisy-prawne/README.md) po publikatory,
+  stan prawny na dzień pobrania i interwały sprawdzania aktualizacji.
 
 ## Jak dokumentować proces
 

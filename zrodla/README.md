@@ -11,7 +11,7 @@ Pełna lista dokumentów z linkami i opisem, co jest w każdym pliku:
 Lista zewnętrznych przepisów prawa (ustaw i rozporządzeń), które wyznaczają ramy
 działalności Spółdzielni obok statutu i regulaminów wewnętrznych:
 [`przepisy-prawne-zewnetrzne.md`](przepisy-prawne-zewnetrzne.md). Pełne teksty tych
-aktów mają zostać dodane osobno, w odrębnym katalogu (katalogach).
+aktów (PDF) są w osobnym katalogu [`../przepisy-prawne/`](../przepisy-prawne/).
 
 - `pdf/` — oryginalne skany/eksporty PDF.
 - `md/` — wersje przekonwertowane na Markdown (OCR, `scripts/pdf_to_markdown.py`
