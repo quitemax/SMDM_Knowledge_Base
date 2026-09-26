@@ -4,7 +4,7 @@
 
 ## Strona 1
 
-Uchwała NR 22,f-/ 2026
+Uchwała NR 33/R/ 2026
 Rady Nadzorczej Spółdzielni Mieszkaniowej „Doły — Marysińska”
 
 z dnia 22 kwietnia 2026 r.
@@ -13,18 +13,18 @@ w Sprawie: zmiany Regulaminu organizowania licytacji zwanej dalej przetargiem lu
 
 konkursu ofert na roboty remontowe oraz zmiany jego nazwy.
 
-Działając na podstawie $ 49 ust. 1 pkt 21 Statutu Spółdzielni Mieszkaniowej „Doły —
+Działając na podstawie § 49 ust. 1 pkt 21 Statutu Spółdzielni Mieszkaniowej „Doły —
 Marysińska”, Rada Nadzorcza postanawia:
 
-$1
+§ 1
 
 1. Zmienić nazwę Regulaminu zatwierdzonego uchwałą nr 55/R/98 z dnia 13 października
 
 1998 r. Rady Nadzorczej i zmienionego uchwałami nr 32/R/2022 z dnia 20 czerwca 2002
 r., nr 38/R/07 z dnia 25 września 2007 r., nr 21/R/16 z dnia 7 czerwca 2016 r., nr 8/R/22
 z dnia 22 lutego 2022 r. na:
-„Regulamin udzielania zamówień na roboty i usługi przez SM Doty-Marysińska”.
-Zmienić Rozdział II w ten sposób, że w
+„Regulamin udzielania zamówień na roboty i usługi przez SM Doły-Marysińska”.
+2. Zmienić Rozdział II w ten sposób, że w
 
 a. ust. 2 dotychczasową treść zastąpić słowami:
 „2. Komisja Przetargowa składa się co najmniej z pięciu członków— trzech
@@ -42,7 +42,7 @@ c. Po ust. 2a wprowadzić ust. 2b o treści:
 „2b. Komisja Przetargowa podejmuje decyzje na podstawie niniejszego Regulaminu w
 
 formie uchwał większością zwykłą w obecności co najmniej 3/5 jej składu osobowego”
-d. Po ust. 2b wprowadzić ust. 2co treści:
+d. Po ust. 2b wprowadzić ust. 2c o treści:
 
 „2c. W przypadku delegowania do Komisji osoby, która pełni rolę ekspercką i posiada
 wiedzę specjalną w przedmiocie zamówienia lub zamówień, osobie takiej może
@@ -54,7 +54,7 @@ z Zamawiającym”
 
 3. Wprowadzić po Rozdziale VI następującą treść
 
-„Vla Zapytanie ofertowe
+„VIa Zapytanie ofertowe
 
 1. Zamówienia na roboty o wartości do 80.000 zł udziela Komisja Przetargowa na
 podstawie zapytania ofertowego.
@@ -84,7 +84,7 @@ jest datą zakończenia postępowania.
 6. Zamawiający zawiadamia niezwłocznie oferentów o zakończeniu procedury
 zapytania ofertowego i jego wyniku.
 7. Postanowień tego rozdziału nie stosuje się w sytuacji określonej w Rozdziale VIII ust.
-4,”
+1.”
 
 4. Zmienić Rozdział VIII ust. 4 „Regulamin udzielania zamówień na roboty i usługi przez
 
@@ -92,14 +92,16 @@ SM Doły-Marysińska” w ten sposób, że dotychczasową treść skreślić.
 
 ## Strona 3
 
-$2
+§ 2
 Uchwała wchodzi w życie z dniem podjęcia.
 
-Peerów
+Sekretarz
+Rady Nadzorczej
+Leon Michał Malkiewicz
 
-7 RE
-adz (a, u a PORZE Nadzor
-/Micha M onika Denarska
+Przewodnicząca
+Rady Nadzorczej
+Monika Denarska
 
 ## Strona 4
 
@@ -113,57 +115,49 @@ adz (a, u a PORZE Nadzor
 
 I Zasady ogólne
 
-L.
+1.
 
 Przetarg ma za zadanie dokonanie przez Spółdzielnię (zwaną dalej Zamawiającym)
 Wyboru najkorzystniejszej spośród pisemnych ofert na wykonanie robót remontowych.
 Zarząd może w uzasadnionych przypadkach unieważnić przetarg.
 
-Pisemny przetarg na wykonanie robót budowlanych może być nieograniczony lub
+2. Pisemny przetarg na wykonanie robót budowlanych może być nieograniczony lub
 ograniczony do Wykonawców, określonych przez Zamawiającego w zaproszeniu do
 składania ofert.
 
-Zamawiający może ogłosić przetarg, jeżeli posiada kompletną dokumentację
+3. Zamawiający może ogłosić przetarg, jeżeli posiada kompletną dokumentację
 projektową remontu lub co najmniej „ślepy kosztorys” robót objętych przetargiem.
 
-Zamawiający może ogłosić przetarg pomimo braku dokumentacji projektowej, jeżeli
+4. Zamawiający może ogłosić przetarg pomimo braku dokumentacji projektowej, jeżeli
 poszukuje wykonawcy nieskomplikowanych robót, określonych rzeczowo i ilościowo.
 W takim przypadku oferta określa oprócz propozycji wynagrodzenia także sposób
 wykonania robót.
 
-„Ślepe kosztorysy” na roboty remontowe Zamawiający może sporządzić we własnym
+5. „Ślepe kosztorysy” na roboty remontowe Zamawiający może sporządzić we własnym
 zakresie lub zlecić ich wykonanie na zewnątrz.
 
-Il Komisja Przetargowa
+II Komisja Przetargowa
 
-be
-
-2a.
-
-2b.
-
-2c.
-
-Przetarg przeprowadza Komisja Przetargowa powołana przez Zamawiającego. Komisja
+1. Przetarg przeprowadza Komisja Przetargowa powołana przez Zamawiającego. Komisja
 czuwa nad właściwym zorganizowaniem przetargu, jego przebiegiem i zakończeniem.
 
-Komisja Przetargowa składa się co najmniej z pięciu członków trzech delegowanych
+2. Komisja Przetargowa składa się co najmniej z pięciu członków— trzech delegowanych
 przez Zarząd oraz dwóch członków Rady Nadzorczej wskazanych uchwałą Rady
 Nadzorczej
 
-Komisja Przetargowa po każdej zmianie osobowej wynikającej ze zmiany delegacji
+2a. Komisja Przetargowa po każdej zmianie osobowej wynikającej ze zmiany delegacji
 Zarządu lub zmiany uchwały Rady Nadzorczej wskazującej członków Komisji
 Przetargowej wybiera Przewodniczącego Komisji, który kieruje jej pracą.”
 
-Komisja Przetargowa podejmuje decyzje na podstawie niniejszego Regulaminu w
+2b. Komisja Przetargowa podejmuje decyzje na podstawie niniejszego Regulaminu w
 formie uchwał większością zwykłą w obecności co najmniej 3/5 jej składu osobowego
 
-W przypadku delegowania do Komisji osoby, która pełni rolę ekspercką i posiada
+2c. W przypadku delegowania do Komisji osoby, która pełni rolę ekspercką i posiada
 wiedzę specjalną w przedmiocie zamówienia lub zamówień, osobie takiej może
 przysługiwać wynagrodzenie za udział w pracach Komisji ustalone w umowie zawartej
 z Zamawiającym.
 
-fw
+[nieczytelne — parafa]
 
 ## Strona 6
 
@@ -172,7 +166,7 @@ otwarcia. Przewodniczący Komisji Przetargowej potwierdza zachowanie tajności o
 
 do chwili komisyjnego ich otwarcia.
 
-Iii Ogłoszenie przetargu
+III Ogłoszenie przetargu
 
 1. Przetarg poprzedza zaproszenie do składania ofert pisemnych ogłoszone w prasie
 codziennej.
@@ -184,7 +178,7 @@ byłyby niewspółmiernie wysokie w stosunku do zamówienia. W tym przypadku
 Zamawiający może powiadomić również indywidualnie co najmniej czterech znanych
 sobie wykonawców.
 
-3. Wogłoszeniu lub na afiszu należy podać:
+3. W ogłoszeniu lub na afiszu należy podać:
 a) Nazwę i siedzibę Zamawiającego.
 
 b) Rodzaj przetargu (w przypadku przetargu ograniczonego należy wskazać jednostki,
@@ -236,37 +230,34 @@ j) Określenia innych wymaganych warunków realizacji przedmiotu przetargu.
 
 IV Wadium
 
-i
-
-Celowość wniesienia wadium i jego wysokość określa Zarząd. Zaleca się, by w
+1. Celowość wniesienia wadium i jego wysokość określa Zarząd. Zaleca się, by w
 przypadku ustanowienia wadium wynosiło ono od 3% do 5% przewidywanej wartości
 robót.
 
-Przystępujący do przetargu oferent zobowiązany jest do wpłaty wadium (gdy jest ono
+2. Przystępujący do przetargu oferent zobowiązany jest do wpłaty wadium (gdy jest ono
 wymagane) w wysokości, terminie oraz formie określonej przez Zamawiającego w
 zaproszeniu do składania ofert.
 
-Wadium ulega przepadkowi w razie cofnięcia lub zmiany oferty po rozpoczęciu
+3. Wadium ulega przepadkowi w razie cofnięcia lub zmiany oferty po rozpoczęciu
 przetargu, bądź uchylania się przez oferenta, który przetarg wygrał od zawarcia
 umowy na warunkach zawartych w ofercie.
 
-Nie powoduje utraty wadium cofnięcie oferty lub wprowadzenie w niej zmian przed
+4. Nie powoduje utraty wadium cofnięcie oferty lub wprowadzenie w niej zmian przed
 terminem rozpoczęcia przetargu, wskazanym w zaproszeniu do składania ofert.
 
-Zamawiający zwraca wadium niezwłocznie po zakończeniu przetargu, nie później
+5. Zamawiający zwraca wadium niezwłocznie po zakończeniu przetargu, nie później
 jednak niż następnego dnia po wygaśnięciu ważności oferty.
-Oferentowi, który wygrał przetarg, Zamawiający zwraca wadium następnego dnia po
 
+6. Oferentowi, który wygrał przetarg, Zamawiający zwraca wadium następnego dnia po
 zawarciu umowy.
 
-Jeżeli Zamawiający po zawiadomieniu oferenta o przyjęciu oferty zmieni warunki
+7. Jeżeli Zamawiający po zawiadomieniu oferenta o przyjęciu oferty zmieni warunki
 wykonania robót, oferent może uchylić się od zawarcia umowy i żądać zwrotu
-
 wadium.
 
 V Warunki jakim powinna odpowiadać oferta
 
-fa =
+[nieczytelne — parafa]
 
 ## Strona 8
 
@@ -288,7 +279,7 @@ minimalnego okresu jej ważności, określonego w szczegółowych warunkach prze
 oraz zobowiązuje się do zawarcia umowy w terminie określonym przez
 Zamawiającego.
 
-g) wyciąg, odpis lub kopia dokumentów o których mowa w rozdz. Ill ust. 4 h.
+g) wyciąg, odpis lub kopia dokumentów o których mowa w rozdz. III ust. 4 h.
 h) dowód wpłaty wadium jeżeli jest ono wymagane.
 i) inne wymagane dokumenty określone w rozdz. III ust. 4 i.
 
@@ -303,7 +294,7 @@ ofert.
 
 2. Z przebiegu przetargu sporządza się protokół.
 3. Przetarg składa się z części jawnej i niejawnej.
-4. Wczęści jawnej Komisja Przetargowa w obecności oferentów:
+4. W części jawnej Komisja Przetargowa w obecności oferentów:
 
 a) Stwierdza prawidłowość ogłoszenia przetargu, odrzuca oferty złożone po
 wyznaczonym terminie.
@@ -327,7 +318,7 @@ c) Nieczytelne lub budzące wątpliwości, co do ich treści (przeróbki, skreś
 6. W przypadku złożenia tylko jednej ważnej oferty, Komisja Przetargowa unieważnia
 przetarg.
 
-7. Wczęści niejawnej Komisja Przetargowa:
+7. W części niejawnej Komisja Przetargowa:
 
 a) Dokonuje szczegółowej analizy ofert i wybiera najkorzystniejszą z nich lub ustala, że
 żadna z ofert nie nadaje się do przyjęcia.
@@ -351,11 +342,11 @@ d) Protokół podpisują członkowie Komisji Przetargowej.
 9. Zamawiający zawiadamia niezwłocznie oferentów o zakończeniu przetargu i jego
 
 wyniku.
-Vla Zapytanie ofertowe
+VIa Zapytanie ofertowe
 1. Zamówienia na roboty o wartości do 80.000 zł udziela Komisja Przetargowa na podstawie
 zapytania ofertowego.
 
-2. Wtreści zapytania ofertowego Komisja Przetargowa podaje
+2. W treści zapytania ofertowego Komisja Przetargowa podaje
 
 a) Nazwę i siedzibę Zamawiającego.
 b) Przedmiot przetargu (w tym lokalizacja robót).
@@ -400,14 +391,14 @@ VII Umowa
 powstaje między stronami stosunek zobowiązaniowy, do którego stosuje się
 odpowiednie przepisy Kodeksu Cywilnego o umowie przedwstępnej.
 
-2. Wterminie określonym w rozdz. III ust. 4 f zostaje sporządzona i podpisana przez
+2. W terminie określonym w rozdz. III ust. 4 f zostaje sporządzona i podpisana przez
 Strony umowa zawarta na warunkach określonych w wybranej ofercie przetargowej.
 
 3. Umowa obejmująca przedmiot przetargu o kilku lokalizacjach i różnych zakresach
 robót winna zawierać załączniki określające szczegółowe zakresy poszczególnych
 robót oraz harmonogram ich realizacji.
 
-4. Wszczególnych przypadkach, gdy w trakcie wykonywania przedmiotu umowy
+4. W szczególnych przypadkach, gdy w trakcie wykonywania przedmiotu umowy
 występuje konieczność zmiany technologii realizacji robót bądź dodatkowych prac
 nieprzewidzianych, dopuszcza się na podstawie sporządzonego protokołu
 
@@ -419,50 +410,42 @@ umowy.
 
 VIII Postanowienia końcowe
 
-1.
+1. Zalecenia powyższe nie dotyczą sytuacji i robót awaryjnych.
 
-ż.
-
-4.
-
-5.
-
-Zalecenia powyższe nie dotyczą sytuacji i robót awaryjnych.
-
-Przetarg lub konkurs ofert organizuje się dla robót remontowych o wartości
+2. Przetarg lub konkurs ofert organizuje się dla robót remontowych o wartości
 szacunkowej powyżej 80 000,00 zł w jednym obiekcie i jednej branży robót. Nie wolno
 dzielić robót jednej branży występujących w tym samym obiekcie, na kilka zleceń nie
 przekraczających w/w kwoty.
 
-Rada Nadzorcza corocznie może korygować wysokość wartości granicznej.
-(skreślony)
+3. Rada Nadzorcza corocznie może korygować wysokość wartości granicznej.
 
-Przetargom nie podlegają roboty remontowe realizowane na podstawie umów stałych
+4. (skreślony)
+
+5. Przetargom nie podlegają roboty remontowe realizowane na podstawie umów stałych
 w zakresie prac gazowych i elektrycznych.
 
-Regulamin niniejszy został zatwierdzony przez Radę Nadzorczą Spółdzielni
+1. Regulamin niniejszy został zatwierdzony przez Radę Nadzorczą Spółdzielni
 Mieszkaniowej „Doły-Marysińska” w Łodzi uchwałą nr 55/R/98 z dnia 13.10.1998 r. i
 ma moc obowiązującą od dnia uchwalenia.
 
-Zmiany do regulaminu zostały zatwierdzone przez Radę Nadzorczą Spółdzielni
+2. Zmiany do regulaminu zostały zatwierdzone przez Radę Nadzorczą Spółdzielni
 Mieszkaniowej „Doły-Marysińska” w Łodzi:
 
-uchwałą nr 32/R/2002 z dnia 20.06.2002 r.
-uchwałą nr 38/R/07 z dnia 25.09.2007 r.
-uchwałą nr 21/R/16 z dnia 07.06.2016 r.
-uchwałą nr 8/R/22 z dnia 22.02.2022 r.
+1. uchwałą nr 32/R/2002 z dnia 20.06.2002 r.
+2. uchwałą nr 38/R/07 z dnia 25.09.2007 r.
+3. uchwałą nr 21/R/16 z dnia 07.06.2016 r.
+4. uchwałą nr 8/R/22 z dnia 22.02.2022 r.
 
-uchwałą nr 33/R/26 z dnia 22.04.2026 r.
+5. uchwałą nr 33/R/26 z dnia 22.04.2026 r.
 
 i weszły w życie z dniem uchwalenia.
 
 Przewodnicząca
-„w Rady Nadzarc
-4 |BZĄK V
+Rady Nadzorczej
 Monika Denarska
-ekr Z
-(o
 
+Sekretarz
+Rady Nadzorczej
 Leon Michał Malkiewicz
 
 ## Strona 12
