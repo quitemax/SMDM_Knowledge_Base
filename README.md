@@ -47,6 +47,11 @@ oznaczona jako **DO UZUPEŁNIENIA**. Te fragmenty wymagają wiedzy osób
 faktycznie prowadzących dany proces — nie zostały zgadnięte, żeby baza
 wiedzy nie zawierała nieprawdziwych informacji.
 
+## Dokumentacja projektu
+
+- [`docs/historia.md`](docs/historia.md) — jak i po co powstał ten projekt.
+- [`AGENTS.md`](AGENTS.md) — zasady pracy z tym repozytorium dla agentów AI.
+
 ## Zasada poufności
 
 Ta baza wiedzy zawiera treść regulaminów i statutu — dokumentów uznanych
