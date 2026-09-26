@@ -8,7 +8,7 @@ REGULAMIN ROZLICZANIA KOSZTÓW PODGRZANIA WODY, ZUŻYCIA
 CENTRALNEGO OGRZEWANIA ORAZ OPŁAT STAŁYCH ZA ENERGIĘ
 CIEPLNĄ W SPÓŁDZIELNI MIESZKANIOWEJ „DOŁY-MARYSIŃSKA”
 
-1
+§ 1
 Podstawę prawną niniejszego Regulaminu stanowią następujące akty normatywne:
 
 1. Ustawa z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz.U. 1997 Nr 54 poz. 348
@@ -37,14 +37,14 @@ nr 74 poz. 836 z późn.zm.),
 7. Ustawa z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, w mieszkaniowym
 zasobie gminy i o zmianie Kodeksu cywilnego (Dz.U. 2001 nr 71 poz. 733 z późn.zm.);
 
-8. Statut Spółdzielni Mieszkaniowej „Doły-Marysińska ”;
+8. Statut Spółdzielni Mieszkaniowej „Doły-Marysińska”;
 
 9. Regulamin rozliczania kosztów gospodarki zasobami mieszkaniowymi w Spółdzielni
 Mieszkaniowej „Doły-Marysińska”.
 
-82
+§ 2
 
-l. Zapisy niniejszego Regulaminu mają zastosowanie do wszystkich lokali będących
+1. Zapisy niniejszego Regulaminu mają zastosowanie do wszystkich lokali będących
 w zasobach Spółdzielni Mieszkaniowej „Doły-Marysińska” z siedzibą w Łodzi
 przy ul. Nowopolskiej 12/14, zwanej dalej Spółdzielnią, wyposażonych w instalację ciepłej
 wody i centralnego ogrzewania.
@@ -64,7 +64,7 @@ mieszkaniowych lub potrzeb innych niż mieszkaniowe.
 oraz przygotowania ciepłej wody użytkowej w budynku wielolokalowym.
 
 6. Ciepła woda użytkowa to woda w instalacji wodociągowej, spełniająca wymagania
-dla wody pitnej, podgrzana do temperatury wynikającej z $ 120 ust. 2 rozporządzenia Ministra
+dla wody pitnej, podgrzana do temperatury wynikającej z § 120 ust. 2 rozporządzenia Ministra
 
 ## Strona 2
 
@@ -93,7 +93,7 @@ się w lokalu bez względu na ich przeznaczenie i sposób używania, określona 
 Spółdzielni. Do powierzchni użytkowej wlicza się również powierzchnię zajętą przez meble
 wbudowane lub obudowane. Nie wlicza się do powierzchni użytkowej lokalu: balkonów, logii,
 tarasów, klatek schodowych, piwnic, strychów, pralni, suszarni, pomieszczeń na wózki
-dziecięce, itp. Ewidencja powierzchni Jest prowadzona na podstawie uchwał Zarządu w sprawie
+dziecięce, itp. Ewidencja powierzchni jest prowadzona na podstawie uchwał Zarządu w sprawie
 określenia przedmiotu odrębnej własności lokali w poszczególnych nieruchomościach.
 
 13. Spółdzielnia uprawniona jest do dokonywania okresowych kontroli wskazań urządzeń
@@ -108,17 +108,17 @@ ciepła.
 15. Użytkownicy lokali mogą składać reklamacje dotyczące rozliczenia w terminie 14 dni
 od doręczenia rozliczenia. Po upływie terminu reklamacje nie będą uwzględniane.
 
-$3
+§ 3
 Całkowita ilość energii cieplnej zamówionej i dostarczonej według wskazań ciepłomierza
 głównego dla potrzeb użytkowników lokali budynku jest dzielona na:
 - energię cieplną dla potrzeb centralnego ogrzewania,
 - energię cieplną dla potrzeb podgrzania wody.
 
-84
+§ 4
 Rozliczenia kosztów podgrzania wody dokonuje się w oparciu o faktury wystawione
 przez dostawcę energii cieplnej, zgodnie z zawartą umową ze Spółdzielnią.
 
-85
+§ 5
 Całkowite koszty podgrzania wody określa się na podstawie kosztów zmiennych faktycznego
 zużycia ciepła dla podgrzania wody według wskazań podliczników zamontowanych
 
@@ -126,16 +126,16 @@ w budynkach.
 
 ## Strona 3
 
-$6
-Kalkulacja określająca koszt energii cieplnej potrzebnej na podgrzanie | m* wody jest
+§ 6
+Kalkulacja określająca koszt energii cieplnej potrzebnej na podgrzanie 1 m³ wody jest
 wykonywana w zakresie podgrzania wody w okresach rocznych lub w przypadku zmiany cen
 przez dostawcę.
 
-$7
+§ 7
 
 1. Lokale, w których nie ma zainstalowanych wodomierzy lub w których są wodomierze
 bez ważnej legalizacji traktuje się jako lokale nieopomiarowane i przyjmuje się koszty
-podgrzania wody w wysokości 3 m*/osobę/miesiąc x aktualna cena za 1 m.
+podgrzania wody w wysokości 3 m³/osobę/miesiąc x aktualna cena za 1 m³.
 
 2. W przypadku uszkodzenia wodomierzy wody ciepłej wszelkie koszty wymiany danego
 urządzenia ponosi użytkownik lokalu zgodnie z cennikiem dostawcy usług.
@@ -145,15 +145,15 @@ albo użytkownik lokalu dokona ingerencji urządzenie w celu zafałszowania jego
 lub wskazań, Spółdzielnia może dochodzić od użytkownika tego lokalu odszkodowania
 w wysokości określonej przez Spółdzielnię.
 
-88
+§ 8
 
-l. Średnioroczny koszt podgrzania wody jest równy całkowitym kosztom energii cieplnej
+1. Średnioroczny koszt podgrzania wody jest równy całkowitym kosztom energii cieplnej
 dla celów podgrzania wody podzielonym przez 12 miesięcy.
 
 2. Wysokość miesięcznej zaliczki na pokrycie kosztów podgrzania zimnej wody
 uchwalana jest przez Radę Nadzorczą indywidualnie dla każdego budynku na podstawie
 średniego miesięcznego zużycia ciepłej wody liczonego z ostatniego okresu rozliczeniowego
-oraz kalkulacji kosztów podgrzewu 1 m* zimnej wody w danym budynku.
+oraz kalkulacji kosztów podgrzewu 1 m³ zimnej wody w danym budynku.
 
 3. Wysokość miesięcznej zaliczki może być aktualizowana na wniosek użytkownika
 lokalu od następnego miesiąca od złożenia wniosku.
@@ -162,14 +162,14 @@ lokalu od następnego miesiąca od złożenia wniosku.
 na dotychczasowym poziomie lub wprowadza się na wniosek nową, biorąc pod uwagę liczbę
 osób zgłoszonych do zamieszkania w lokalu.
 
-89
-l. Zmiana zaliczki miesięcznej na pokrycie kosztów zużycia ciepłej wody będzie
+§ 9
+1. Zmiana zaliczki miesięcznej na pokrycie kosztów zużycia ciepłej wody będzie
 następować w oparciu o kalkulację przychodów i kosztów na podstawie co najmniej dwóch
 ostatnich okresów rozliczeniowych.
 2. W przypadku znaczących zmian cen dostawcy energii cieplnej wysokość zaliczki może
 ulec zmianie w okresie rozliczeniowym.
 
-810
+§ 10
 
 1. Rozliczenia wniesionych zaliczek za zużycie ciepłej wody dla lokali opomiarowanych
 dokonuje Spółdzielnia w okresach rocznych według odczytów wskazań wodomierzy
@@ -184,9 +184,9 @@ obowiązkowa, w szczególności, jeżeli odczyt w systemie radiowym był niemoż
 
 ## Strona 4
 
-811
+§ 11
 
-l. Koszty centralnego ogrzewania rozliczane są indywidualnie dla każdego budynku
+1. Koszty centralnego ogrzewania rozliczane są indywidualnie dla każdego budynku
 na podstawie faktur wystawionych przez dostawcę energii cieplnej w roku kalendarzowym.
 
 2. Spółdzielnia wyposażyła każdy budynek w ciepłomierze, w celu rozliczenia kosztów
@@ -230,7 +230,7 @@ procentowego udziału kubatury tych budynków.
 7. Całkowite koszty zakupu ciepła dla poszczególnych budynków rozlicza się w części
 dotyczącej centralnego ogrzewania według powierzchni użytkowej lokali.
 
-812
+§ 12
 
 1. Do kosztów stałych energii cieplnej zalicza się:
 
@@ -254,9 +254,9 @@ w zdaniu pierwszym niniejszego ustępu, następuje po podziale kosztów stałych
 pomiędzy budynki ogrzewane ze wspólnego węzła - według procentowego udziału kubatury
 tych budynków.
 
-$ 13
+§ 13
 
-l. Opłaty zaliczkowe za centralne ogrzewanie, podgrzanie wody oraz opłaty stałe są
+1. Opłaty zaliczkowe za centralne ogrzewanie, podgrzanie wody oraz opłaty stałe są
 rozłożone w opłatach miesięcznych równomiernie na cały rok.
 
 2. Każdy użytkownik lokalu jest zobowiązany do wnoszenia zaliczkowych opłat na poczet
@@ -286,9 +286,9 @@ w opłatach bieżących lub zasądzonych.
 8. Użytkownikom nie przysługuje roszczenie o odsetki od kwot nadpłat wynikających
 z rozliczenia centralnego ogrzewania i podgrzania wody.
 
-$ 14
+§ 14
 
-l. Na czas koniecznych odczytów urządzenia pomiarowe powinny być dostępne
+1. Na czas koniecznych odczytów urządzenia pomiarowe powinny być dostępne
 dla odczytujących. Użytkownicy lokali umożliwią swobodny dostęp do tych urządzeń przez
 usunięcie zabudów, mebli i innych rzeczy, które uniemozliwiają odczyt.
 
@@ -310,7 +310,7 @@ ich legalizacji obciążony będzie użytkownik lokalu.
 
 ## Strona 6
 
-815
+§ 15
 1. Wodomierze jako urządzenia pomiarowe podlegają okresowej kontroli w zakresie
 wymagań, jakim powinny odpowiadać, warunków właściwego ich stosowania oraz okresów
 ważności zgodnie z obowiązującymi przepisami metrologicznymi. Dowodem kontroli
@@ -331,22 +331,23 @@ dokonywania odczytów, przeprowadzenia czynności związanych z legalizacją
 i uwierzytelnianiem tych urządzeń osobom do tego upoważnionym, a także do przestrzegania
 terminów legalizacji i uwierzytelniania.
 
-$ 16
-l. Niniejszy Regulamin został zatwierdzony przez Radę Nadzorczą Spółdzielni
-Mieszkaniowej „Doły-Marysińska” w dniu AL. A... 2025 r. Uchwałą nr Gi wchodzi
-w życie z dniem .,1..0.4..4025v.
+§ 16
+1. Niniejszy Regulamin został zatwierdzony przez Radę Nadzorczą Spółdzielni
+Mieszkaniowej „Doły-Marysińska” w dniu 22.01... 2025 r. Uchwałą nr 6 i wchodzi
+w życie z dniem 22.01.2025r.
 2. Użytkownicy lokali są informowani o treści niniejszego Regulaminu poprzez
 umieszczenie regulaminu na stronie internetowej Spółdzielni oraz udostępnianie Regulaminu
 na żądanie użytkownika.
 
 Sekretarz Rady Nadzorczej Przewodniczący Rady Nadzorczej
 
-PRZEWODNICZĄ CA
-RADYN ORCZEJ
+PRZEWODNICZĄCA
+RADY NADZORCZEJ
 
-Grażyna B ałkowska
+Grażyna Białkowska
 
-<T$BKREPARŹ/
+SEKRETARZ
+RADY NADZORCZEJ
 
 Monika Denarska
 
@@ -356,33 +357,41 @@ Uchwała Nr 6 /R/25
 Rady Nadzorczej SM „Doły-Marysińska” w Łodzi
 z dnia 22.01.2025 r.
 
-Rada Nadzorcza działając na podstawie $ 49 ust. 1 pkt 21 statutu Spółdzielni
+Rada Nadzorcza działając na podstawie § 49 ust. 1 pkt 21 statutu Spółdzielni
 
 postanowiła
 
-$1
+§1
 Uchwalić Regulamin rozliczania kosztów podgrzania wody, zużycia centralnego ogrzewania oraz
 opłat stałych za energię cieplną w SM „Doły-Marysińska”, którego treść stanowi załącznik
 do niniejszej uchwały.
 
-$2
+§2
 Traci moc Regulamin rozliczania kosztów podgrzania wody, zużycia centralnego ogrzewania oraz
 opłat stałych za energię cieplną w SM „Doły-Marysińska” uchwalony na podstawie uchwały Rady
 Nadzorczej Nr 33/R/22 z dnia 13.12.2022 r.
 
-$3
+§3
 Uchwała wchodzi w życie z dniem jej podjęcia.
-PRZEWOBNICZĄCA
-RADYN
-Wyniki głosowania: Grażjiia. Białkowska
-głosów „za”: 4 Ź R
-Ą BodBi RADY
-głosów „przeciw”: kar
-głosów „wstrzymujących”: Monika Denarska
 
-BABC AWNY
+Wyniki głosowania:
+głosów „za”: 8
+głosów „przeciw”:
+głosów „wstrzymujących”:
 
-diz
+PRZEWODNICZĄCA
+RADY NADZORCZEJ
+
+Grażyna Białkowska
+
+SEKRETARZ
+RADY NADZORCZEJ
+
+Monika Denarska
+
+RADCA PRAWNY
+
+Maciej Czerw
 
 ## Strona 8
 
