@@ -8,6 +8,11 @@ paragrafów).
 Pełna lista dokumentów z linkami i opisem, co jest w każdym pliku:
 [`spis-dokumentow.md`](spis-dokumentow.md).
 
+Lista zewnętrznych przepisów prawa (ustaw i rozporządzeń), które wyznaczają ramy
+działalności Spółdzielni obok statutu i regulaminów wewnętrznych:
+[`przepisy-prawne-zewnetrzne.md`](przepisy-prawne-zewnetrzne.md). Pełne teksty tych
+aktów mają zostać dodane osobno, w odrębnym katalogu (katalogach).
+
 - `pdf/` — oryginalne skany/eksporty PDF.
 - `md/` — wersje przekonwertowane na Markdown (OCR, `scripts/pdf_to_markdown.py`
   z projektu SMDM_Sprawozdania), następnie ręcznie poprawione strona po

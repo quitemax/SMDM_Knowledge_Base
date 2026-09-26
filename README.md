@@ -31,7 +31,10 @@ można rozważyć migrację do dedykowanego narzędzia (np. BookStack).
 - [`zrodla/`](zrodla/) — oryginalne regulaminy i statut (PDF) oraz ich
   wersje przekonwertowane na Markdown, na podstawie których zbudowano
   powyższe foldery; pełna lista z opisami w
-  [`zrodla/spis-dokumentow.md`](zrodla/spis-dokumentow.md).
+  [`zrodla/spis-dokumentow.md`](zrodla/spis-dokumentow.md). Zobacz też
+  [`zrodla/przepisy-prawne-zewnetrzne.md`](zrodla/przepisy-prawne-zewnetrzne.md)
+  — listę zewnętrznych ustaw i rozporządzeń wyznaczających ramy działalności
+  Spółdzielni (pełne teksty aktów mają zostać dodane osobno).
 
 ## Jak dokumentować proces
 
