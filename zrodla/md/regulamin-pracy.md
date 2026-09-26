@@ -1,20 +1,84 @@
-# regulamin-pracy
+# Regulamin pracy obowiązujący w Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
-> **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).
+## Spis treści
 
-## Strona 1
+- [I. Przepisy wstępne](#dzial-1)
+  - [§ 1](#par-1)
+  - [§ 2](#par-2)
+  - [§ 3](#par-3)
+- [II. Organizacja i porządek pracy obowiązujący w Spółdzielni](#dzial-2)
+  - [§ 4](#par-4)
+  - [§ 5](#par-5)
+  - [§ 6](#par-6)
+  - [§ 7](#par-7)
+  - [§ 8](#par-8)
+- [III. Podstawowe prawa i obowiązki Zarządu związane z porządkiem pracy w Spółdzielni](#dzial-3)
+  - [§ 9](#par-9)
+  - [§ 10](#par-10)
+- [IV. Obowiązki Pracownika związane z porządkiem pracy w Spółdzielni](#dzial-4)
+  - [§ 11](#par-11)
+- [V. Nieobecności i inne zwolnienia z pracy](#dzial-5)
+  - [§ 12](#par-12)
+  - [§ 13](#par-13)
+  - [§ 14](#par-14)
+  - [§ 15](#par-15)
+- [VI. Obowiązki pracownika związane z realizacją zadań służbowych](#dzial-6)
+  - [§ 16](#par-16)
+  - [§ 17](#par-17)
+  - [§ 18](#par-18)
+  - [§ 19](#par-19)
+  - [§ 20](#par-20)
+- [VII. Czas pracy, system i rozkład czasu pracy, okres rozliczeniowy](#dzial-7)
+  - [§ 21](#par-21)
+  - [§ 22](#par-22)
+  - [§ 23](#par-23)
+  - [§ 24](#par-24)
+  - [§ 25](#par-25)
+  - [§ 26](#par-26)
+  - [§ 27](#par-27)
+- [VIII. Urlopy wypoczynkowe](#dzial-8)
+  - [§ 28](#par-28)
+  - [§ 29](#par-29)
+  - [§ 30](#par-30)
+  - [§ 31](#par-31)
+  - [§ 32](#par-32)
+  - [§ 33](#par-33)
+  - [§ 34](#par-34)
+  - [§ 35](#par-35)
+  - [§ 36](#par-36)
+  - [§ 37](#par-37)
+- [IX. Odpowiedzialność porządkowa](#dzial-9)
+  - [§ 38](#par-38)
+  - [§ 39](#par-39)
+- [X. Wyróżnienia i nagrody](#dzial-10)
+  - [§ 40](#par-40)
+- [XI. Termin i sposób wypłaty wynagrodzenia](#dzial-11)
+  - [§ 41](#par-41)
+- [XII. Bezpieczeństwo i higiena pracy](#dzial-12)
+  - [§ 42](#par-42)
+  - [§ 43](#par-43)
+- [XIII. Obowiązki pracownika z zakresu bezpieczeństwa i higieny pracy](#dzial-13)
+  - [§ 44](#par-44)
+  - [§ 45](#par-45)
+  - [§ 46](#par-46)
+  - [§ 47](#par-47)
+  - [§ 48](#par-48)
+  - [§ 49](#par-49)
+- [XIV. Postanowienia końcowe](#dzial-14)
+  - [§ 50](#par-50)
+- [Załącznik nr 1 — Przepisy o równym traktowaniu w zatrudnieniu](#zalacznik-1)
+- [Załącznik nr 2 — Zakładowa Tabela Norm przydziału odzieży roboczej i ochronnej oraz środków ochrony indywidualnej](#zalacznik-2)
+- [Załącznik nr 4 — Oświadczenie o zapoznaniu się z Regulaminem Pracy](#zalacznik-4)
 
-Regulamin pracy
+<a id="dzial-1"></a>
+## I. Przepisy wstępne
 
-obowiązujący w Spółdzielni Mieszkaniowej „Doły- Marysińska” w Łodzi
+<a id="par-1"></a>
+### § 1
 
-I. Przepisy wstępne
+1. Podstawę prawną dla wprowadzenia Regulaminu Pracy stanowi art. 104 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks Pracy z późn. zm.
 
-§ 1
-
-1. Podstawę prawną dla wprowadzenia Regulaminu Pracy stanowi art. 104 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks Pracy z późn. zm..
-
-2. Regulamin Pracy jest aktem normatywnym ustalającym organizację i porządek w procesie pracy Spółdzielni Mieszkaniowej „Doły- Marysińska” w Łodzi oraz określającym prawa i obowiązki pracodawcy i pracowników.
+2. Regulamin Pracy jest aktem normatywnym ustalającym organizację i porządek w procesie pracy Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi oraz określającym prawa i obowiązki pracodawcy i pracowników.
 
 3. Postanowienia regulaminu dotyczą wszystkich pracowników bez względu na zajmowane stanowisko i rodzaj wykonywanej pracy, a także rodzaj umowy o pracę.
 
@@ -22,49 +86,54 @@ I. Przepisy wstępne
 
 5. Czynności w sprawach prawa pracy wykonuje, w imieniu Pracodawcy Prezes Zarządu – Kierownik bieżącej działalności bądź podczas jego nieobecności wyznaczony Członek Zarządu.
 
-§ 2
+<a id="par-2"></a>
+### § 2
 
 1. Pracodawca za pośrednictwem pracownika zatrudnionego na stanowisku ds. pracowniczych i obsługi sekretariatu zapoznaje z treścią regulaminu każdego przyjmowanego do pracy pracownika przed rozpoczęciem przez niego pracy, a pracownik potwierdza znajomość regulaminu podpisując stosowne oświadczenie, które zostaje dołączone do jego akt osobowych. Pracodawca zapoznaje także wszystkich pracowników ze zmianami wprowadzonymi do niniejszego regulaminu.
 
-2. Wzór oświadczenia stanowi załącznik nr 4 do regulaminu.
+2. Wzór oświadczenia stanowi [załącznik nr 4](#zalacznik-4) do regulaminu.
 
-§ 3
+<a id="par-3"></a>
+### § 3
 
 1. Jeśli w regulaminie jest mowa o:
 
-1) regulaminie- należy rozumieć niniejszy Regulamin Pracy Spółdzielni obowiązujący w Spółdzielni Mieszkaniowej „Doły- Marysińska w Łodzi,
+1) regulaminie - należy rozumieć niniejszy Regulamin Pracy Spółdzielni obowiązujący w Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi,
 
 2) pracodawcy - należy przez to rozumieć Spółdzielnię Mieszkaniową „Doły – Marysińska” w Łodzi,
 
 3) pracowniku - należy przez to rozumieć osoby pozostające z pracodawcą w stosunku pracy.
 
-## Strona 2
+<a id="dzial-2"></a>
+## II. Organizacja i porządek pracy obowiązujący w Spółdzielni
 
-II. Organizacja i porządek pracy obowiązujący w Spółdzielni
-
-§ 4
+<a id="par-4"></a>
+### § 4
 
 Siedziba pracodawcy mieści się w Łodzi przy ulicy Nowopolskiej 12/14.
 
-§ 5
+<a id="par-5"></a>
+### § 5
 
 1. Organizacja pracy polega na podziale zadań między komórkami organizacyjnymi zgrupowanymi w pionach organizacyjnych:
 
 - Prezesa Zarządu – Kierownika Bieżącej Działalności,
-- Członka Zarządu, Kierownika ds. techniczno - eksploatacyjnych,
+- Członka Zarządu, Kierownika ds. techniczno-eksploatacyjnych,
 - Członka Zarządu, Głównego księgowego.
 
-2. Szczegółowy podział Spółdzielni jako zakładu pracy na piony i komórki organizacyjne określony jest w strukturze organizacyjnej stanowiącej załącznik do Regulaminu Organizacyjnego Spółdzielni - zatwierdzonego przez Radę Nadzorczą.
+2. Szczegółowy podział Spółdzielni jako zakładu pracy na piony i komórki organizacyjne określony jest w strukturze organizacyjnej stanowiącej załącznik do [Regulaminu Organizacyjnego Spółdzielni](regulamin-organizacyjny-2025-10-06.md) - zatwierdzonego przez Radę Nadzorczą.
 
 3. Pracownicy wykonują polecenia służbowe wydawane przez bezpośredniego przełożonego (zgodnie ze strukturą, o której mowa w ust. 2) lub członka Zarządu.
 
-§ 6
+<a id="par-6"></a>
+### § 6
 
 1. W razie nieobecności w pracy Prezesa Zarządu Kierownika bieżącej działalności zastępstwo pełni inny wyznaczony przez niego Członek Zarządu.
 
 2. W przypadku nieobecności pracownika, jeśli zachodzi taka potrzeba, jego bezpośredni przełożony wyznacza na ten okres zastępstwo lub rozdziela czynności nieobecnego pracownika pomiędzy innych pracowników danej komórki organizacyjnej.
 
-§ 7
+<a id="par-7"></a>
+### § 7
 
 Przed dopuszczeniem do pracy nowo zatrudnionego pracownika należy:
 
@@ -78,15 +147,16 @@ Przed dopuszczeniem do pracy nowo zatrudnionego pracownika należy:
 
 5) zaopatrzyć w razie potrzeby w środki ochrony indywidualnej oraz w odzież i obuwie robocze.
 
-§ 8
+<a id="par-8"></a>
+### § 8
 
 Każdy zatrudniony w Spółdzielni pracownik bez względu na charakter wykonywanej pracy po zakończeniu pracy ma obowiązek uporządkować swoje stanowisko pracy, wyłączyć komputer i urządzenia towarzyszące oraz zabezpieczyć powierzone mienie pracodawcy, w tym także dokumenty, pieczęcie, narzędzia i urządzenia.
 
-## Strona 3
+<a id="dzial-3"></a>
+## III. Podstawowe prawa i obowiązki Zarządu związane z porządkiem pracy w Spółdzielni
 
-III. Podstawowe prawa i obowiązki Zarządu związane z porządkiem pracy w Spółdzielni
-
-§ 9
+<a id="par-9"></a>
+### § 9
 
 1. Do obowiązków Pracodawcy należy w szczególności:
 
@@ -108,11 +178,12 @@ III. Podstawowe prawa i obowiązki Zarządu związane z porządkiem pracy w Spó
 
 9) przeciwdziałanie dyskryminacji w zatrudnieniu i mobbingowi.
 
-2. Przepisy o równym traktowaniu w zatrudnieniu stanowią załącznik nr 1 do regulaminu.
+2. Przepisy o równym traktowaniu w zatrudnieniu stanowią [załącznik nr 1](#zalacznik-1) do regulaminu.
 
 3. Spółdzielnia Mieszkaniowa jako administrator danych osobowych, jest zobowiązana przestrzegać przepisów związanych z ochroną danych osobowych.
 
-§ 10
+<a id="par-10"></a>
+### § 10
 
 Pracodawca wobec pracowników ma prawo:
 
@@ -122,17 +193,17 @@ Pracodawca wobec pracowników ma prawo:
 
 3) określania zakresu czynności pracowników oraz ich egzekwowania.
 
-IV. Obowiązki Pracownika związane z porządkiem pracy w Spółdzielni
+<a id="dzial-4"></a>
+## IV. Obowiązki Pracownika związane z porządkiem pracy w Spółdzielni
 
-§ 11
+<a id="par-11"></a>
+### § 11
 
 1. Pracownik ma obowiązek punktualnie o wyznaczonej godzinie rozpocząć pracę;
 
 1) Pracownicy umysłowi i konserwatorzy rozpoczynają pracę w poniedziałek, środę, czwartek i piątek - o godzinie 7.15, we wtorek o godzinie 10.00,
 
-2) Gospodarze domów, robotnicy gospodarczy, oraz konserwatorzy terenu osiedla i zieleni, ze względu na specyfikę pracy, rozpoczynają pracę, w czasie wcześniej uzgodnionym z bezpośrednim przełożonym, z zachowaniem postanowień § 21 ust. 2.
-
-## Strona 4
+2) Gospodarze domów, robotnicy gospodarczy, oraz konserwatorzy terenu osiedla i zieleni, ze względu na specyfikę pracy, rozpoczynają pracę, w czasie wcześniej uzgodnionym z bezpośrednim przełożonym, z zachowaniem postanowień [§ 21](#par-21) ust. 2.
 
 2. Pracownik niezwłocznie po przybyciu do pracy ma obowiązek złożyć podpis na liście obecności. Lista obecności pracowników Spółdzielni znajduje się dla:
 
@@ -144,11 +215,13 @@ IV. Obowiązki Pracownika związane z porządkiem pracy w Spółdzielni
 
 3. Lista obecności podporządkowanych pracowników wymienionych w ust. 2 pkt. 2 i 2 pkt 3 zostaje przekazana przez administratorów i inspektorów pionu technicznego w ostatnim dniu miesiąca, pracownikowi ds. pracowniczych i obsługi sekretariatu.
 
-V Nieobecności i inne zwolnienia z pracy
+<a id="dzial-5"></a>
+## V. Nieobecności i inne zwolnienia z pracy
 
-§ 12
+<a id="par-12"></a>
+### § 12
 
-1. Rozpoczęcie pracy w terminie późniejszym od wymienionego w § 11 ust. 1 traktowane jest jako spóźnienie.
+1. Rozpoczęcie pracy w terminie późniejszym od wymienionego w [§ 11](#par-11) ust. 1 traktowane jest jako spóźnienie.
 
 2. Pracownik obowiązany jest niezwłocznie po przybyciu do pracy powiadomić przełożonego o przyczynie spóźnienia.
 
@@ -156,7 +229,8 @@ V Nieobecności i inne zwolnienia z pracy
 
 4. W przypadku przewidywanego spóźnienia pracownik ma obowiązek w miarę technicznych możliwości poinformować o tym fakcie przełożonego.
 
-§ 13
+<a id="par-13"></a>
+### § 13
 
 1. Pracownik powinien uprzedzić pracodawcę o przyczynie i przewidywanym okresie nieobecności w pracy, jeżeli przyczyna tej nieobecności jest z góry wiadoma lub możliwa do przewidzenia.
 
@@ -166,11 +240,10 @@ V Nieobecności i inne zwolnienia z pracy
 
 4. Zaświadczenie lekarskie w formie dokumentu elektronicznego przesyłane jest pracodawcy przez ZUS.
 
-## Strona 5
-
 5. Pracodawca ma prawo przeprowadzenia kontroli prawidłowości wykorzystywania zwolnień lekarskich.
 
-§ 14
+<a id="par-14"></a>
+### § 14
 
 1. Wyjście w czasie pracy poza siedzibę Spółdzielni wymaga zgody bezpośredniego przełożonego lub Pracodawcy, chyba że wiąże się ono z charakterem wykonywanej pracy. Pracownik wychodzący ze Spółdzielni w czasie godzin pracy dokonuje wpisu w książce „Ewidencja wyjść w godzinach służbowych”.
 
@@ -178,13 +251,16 @@ V Nieobecności i inne zwolnienia z pracy
 
 3. Pracownik może opuścić miejsce pracy w celu załatwienia spraw osobistych w godzinach pracy, wyłącznie za zgodą bezpośrednio przełożonego bądź Pracodawcy.
 
-§ 15
+<a id="par-15"></a>
+### § 15
 
 Przebywanie pracownika na terenie Spółdzielni poza ustalonymi godzinami pracy jest dozwolone tylko i wyłącznie za pisemną zgodą przełożonego.
 
-VI. Obowiązki pracownika związane z realizacją zadań służbowych
+<a id="dzial-6"></a>
+## VI. Obowiązki pracownika związane z realizacją zadań służbowych
 
-§ 16
+<a id="par-16"></a>
+### § 16
 
 1. Do obowiązków pracownika należy:
 
@@ -195,7 +271,7 @@ VI. Obowiązki pracownika związane z realizacją zadań służbowych
 - przepisów i zasad bhp, oraz przepisów o ochronie przeciwpożarowej,
 - zasad współżycia społecznego.
 
-3) Dbanie o dobro Spółdzielni i chronienie jej mienia oraz zachowanie w tajemnicy informacji, których ujawnienie mogłoby narazić Spółdzielnię na szkodę (np. dane finansowo - księgowe, kadrowo - płacowe, dane adresowe).
+3) Dbanie o dobro Spółdzielni i chronienie jej mienia oraz zachowanie w tajemnicy informacji, których ujawnienie mogłoby narazić Spółdzielnię na szkodę (np. dane finansowo-księgowe, kadrowo-płacowe, dane adresowe).
 
 4) Przestrzeganie tajemnicy określonej w odrębnych przepisach o ochronie danych osobowych.
 
@@ -205,13 +281,12 @@ VI. Obowiązki pracownika związane z realizacją zadań służbowych
 
 7) Wykorzystywanie czasu pracy tylko na czynności wynikające ze stosunku pracy.
 
-## Strona 6
-
 8) Po zakończeniu pracy pracownik ma obowiązek pozostawić na miejscu pracy bezwzględny ład i porządek.
 
 9) Pracownik za zgodą przełożonego, ma prawo wynieść poza teren spółdzielni przedmioty stanowiące własność pracodawcy w celu wykorzystania ich tylko do celów służbowych.
 
-§ 17
+<a id="par-17"></a>
+### § 17
 
 Ciężkim naruszeniem podstawowych obowiązków pracowniczych w Spółdzielni, w rozumieniu art. 52 § 1 pkt. 1 Kodeksu pracy jest w szczególności:
 
@@ -225,7 +300,7 @@ Ciężkim naruszeniem podstawowych obowiązków pracowniczych w Spółdzielni, w
 
 5) Przywłaszczenie przedmiotów stanowiących własność Spółdzielni i znajdujących się na terenie Spółdzielni.
 
-6) Nieusprawiedliwiona nieobecność w pracy trwająca dłużej niż 2 dni, za wyjątkiem przypadków, o których mowa w paragrafie 13 pkt. 3.
+6) Nieusprawiedliwiona nieobecność w pracy trwająca dłużej niż 2 dni, za wyjątkiem przypadków, o których mowa w [§ 13](#par-13) pkt. 3.
 
 7) Samowolne opuszczenie pracy bez usprawiedliwienia.
 
@@ -243,15 +318,15 @@ Ciężkim naruszeniem podstawowych obowiązków pracowniczych w Spółdzielni, w
 
 14) Ujawnienie informacji objętych ochroną danych osobowych a także tajemnicy służbowej.
 
-§ 18
+<a id="par-18"></a>
+### § 18
 
 1. Pracownik ma obowiązek niezwłocznie zawiadomić pracodawcę, poprzez przedłożenie odpowiednich dokumentów, o jakichkolwiek zmianach swoich danych osobowych lub zmianach warunkujących nabycie lub utratę odpowiednich świadczeń.
 
 2. W zależności od specyfiki i charakteru przydzielonej do wykonywania pracy, po zakończeniu pracy pracownik obowiązany jest zabezpieczyć narzędzia, materiały dokumenty lub inne niezbędne przedmioty pracy i pozostawić miejsce pracy w należytym porządku.
 
-## Strona 7
-
-§ 19
+<a id="par-19"></a>
+### § 19
 
 1. Dokumentacja personalna kandydata ubiegającego się o zatrudnienie w Spółdzielni, powinna obejmować:
 
@@ -275,7 +350,8 @@ Ciężkim naruszeniem podstawowych obowiązków pracowniczych w Spółdzielni, w
 
 Pracownik jest zobowiązany osobiście lub przez osobę przez niego upoważnioną, najpóźniej do dnia ustania stosunku pracy uzyskać stosowne wpisy w karcie obiegowej.
 
-§ 20
+<a id="par-20"></a>
+### § 20
 
 1. Zabrania się pracownikom:
 
@@ -287,17 +363,17 @@ Pracownik jest zobowiązany osobiście lub przez osobę przez niego upoważnion�
 
 4) Wynoszenia z terenu Spółdzielni bez zgody pracodawcy jakichkolwiek przedmiotów niebędących własnością pracownika.
 
-## Strona 8
-
 5) Korzystania z telefonów pracodawcy i poczty elektronicznej dla celów prywatnych.
 
 6) Ujawniania informacji objętych ochroną danych osobowych.
 
 2. W razie uzasadnionego podejrzenia naruszenia przez pracownika obowiązku trzeźwości, przełożony pracownika jest obowiązany niedopuścić go do pracy.
 
-VII. Czas pracy, system i rozkład czasu pracy, okres rozliczeniowy Spółdzielni Mieszkaniowej „Doły Marysińska”
+<a id="dzial-7"></a>
+## VII. Czas pracy, system i rozkład czasu pracy, okres rozliczeniowy
 
-§ 21
+<a id="par-21"></a>
+### § 21
 
 1. Czasem pracy jest czas, w którym pracownik pozostaje do dyspozycji Zarządu Spółdzielni na terenie Spółdzielni lub w innym miejscu wyznaczonym do wykonywania pracy.
 
@@ -311,7 +387,7 @@ VII. Czas pracy, system i rozkład czasu pracy, okres rozliczeniowy Spółdzieln
 
 4. Praca dla pracowników administracji i konserwatorów od poniedziałku do piątku (z wyłączeniem wtorku) rozpoczyna się o 7.15 a kończy 15.15, we wtorek praca rozpoczyna się o godz. 10.00 i kończy się o godz. 18.00.
 
-5. Pracownicy niewymienieni w ust. 4 pracują od poniedziałku do piątku w systemie dniówki zadaniowej w wymiarze 8 godzin dziennie w zmiennym czasie pracy między godziną 5.00 a godziną 21.00 w zależności od potrzeb pracodawcy z zachowaniem postanowień § 21 ust. 2 pkt.1:
+5. Pracownicy niewymienieni w ust. 4 pracują od poniedziałku do piątku w systemie dniówki zadaniowej w wymiarze 8 godzin dziennie w zmiennym czasie pracy między godziną 5.00 a godziną 21.00 w zależności od potrzeb pracodawcy z zachowaniem postanowień ust. 2 pkt.1:
 
 1) Pracodawca rozlicza pracowników z powierzonych zadań, stosownie do obowiązków wynikających z zakresu czynności.
 
@@ -323,17 +399,18 @@ VII. Czas pracy, system i rozkład czasu pracy, okres rozliczeniowy Spółdzieln
 
 8. Zarząd Spółdzielni stosownie do art. 154⁴ Kodeksu pracy - w razie konieczności wykonuje pracę poza normalnymi godzinami pracy, bez prawa do dodatkowego wynagrodzenia.
 
-## Strona 9
+<a id="par-22"></a>
+### § 22
 
-§ 22
+Stosownie do [§ 21](#par-21) pracownik ma prawo do co najmniej 11-godzinnego dobowego nieprzerywalnego odpoczynku oraz do co najmniej 35-godzinnego nieprzerwanego odpoczynku tygodniowego.
 
-Stosownie do § 21 pracownik ma prawo do co najmniej 11-godzinnego dobowego nieprzerywalnego odpoczynku oraz do co najmniej 35-godzinnego nieprzerwanego odpoczynku tygodniowego.
-
-§ 23
+<a id="par-23"></a>
+### § 23
 
 Pora nocna obejmuje 8 godzin od godziny 21.00 do godziny 5.00 następnego dnia.
 
-§ 24
+<a id="par-24"></a>
+### § 24
 
 1. Jeżeli dobowy wymiar czas pracy pracownika wynosi co najmniej 6 godzin, przysługuje pracownikowi 15-minutowa płatna przerwa w pracy, wliczona do czasu pracy.
 
@@ -343,11 +420,12 @@ Czas w/w przerwy ustala bezpośredni przełożony pracownika z zachowaniem norma
 
 2) W odniesieniu do pracowników fizycznych pionu technicznego - inspektorzy działu technicznego.
 
-3) W odniesieniu do gospodarzy domów os. Doły i os. Marysińska - inspektorzy ds. administracyjno - eksploatacyjnych stosownie do struktury organizacyjnej Spółdzielni.
+3) W odniesieniu do gospodarzy domów os. Doły i os. Marysińska - inspektorzy ds. administracyjno-eksploatacyjnych stosownie do struktury organizacyjnej Spółdzielni.
 
 2. Pracownicy zatrudnieni na stanowiskach związanych z obsługą monitorów ekranowych mają prawo do 5-minutowych przerw po każdej pełnej godzinie pracy przy monitorze, wliczonej do czasu pracy.
 
-§ 25
+<a id="par-25"></a>
+### § 25
 
 1. Pracą w godzinach nadliczbowych jest praca ponad obowiązujące pracownika normy czasu pracy, a także ponad przedłużony dobowy wymiar czasu pracy, wynikający z obowiązującego pracownika systemu i rozkładu czasu pracy.
 
@@ -357,19 +435,21 @@ Czas w/w przerwy ustala bezpośredni przełożony pracownika z zachowaniem norma
 - konieczności prowadzenia akcji ratowniczej dla ochrony życia lub zdrowia ludzkiego bądź ochrony mienia Spółdzielni,
 - innych szczególnych potrzeb pracodawcy.
 
-§ 26
+<a id="par-26"></a>
+### § 26
 
 Pracownik odpowiedzialny w Spółdzielni za politykę kadrową, prowadzi ewidencję czasu pracy odrębnie dla każdego pracownika na zasadach określonych w przepisach prawa pracy.
 
-## Strona 10
+<a id="par-27"></a>
+### § 27
 
-§ 27
+Pracodawca jest obowiązany zwolnić pracownika od pracy, jeżeli obowiązek taki wynika z Kodeksu pracy, z przepisów wykonawczych do Kodeksu pracy albo z innych przepisów prawa.
 
-1. Pracodawca jest obowiązany zwolnić pracownika od pracy, jeżeli obowiązek taki wynika z Kodeksu pracy, z przepisów wykonawczych do Kodeksu pracy albo z innych przepisów prawa.
+<a id="dzial-8"></a>
+## VIII. Urlopy wypoczynkowe
 
-VIII Urlopy wypoczynkowe
-
-§ 28
+<a id="par-28"></a>
+### § 28
 
 1. Pracownikowi przysługuje prawo do corocznego, nieprzerwanego, płatnego urlopu wypoczynkowego.
 
@@ -377,7 +457,8 @@ VIII Urlopy wypoczynkowe
 
 3. Za czas urlopu wypoczynkowego pracownikowi przysługuje wynagrodzenie zgodnie z przepisami Kodeksu Pracy.
 
-§ 29
+<a id="par-29"></a>
+### § 29
 
 1. Wymiar urlopu wynosi:
 
@@ -387,13 +468,15 @@ VIII Urlopy wypoczynkowe
 
 2. Wymiar urlopu ustalony zgodnie z obowiązującymi przepisami uwzględnia okresy zatrudnienia, okres nauki i inne okresy, wliczone na podstawie przepisów odrębnych.
 
-§ 30
+<a id="par-30"></a>
+### § 30
 
 1. Pracownik podejmujący pracę po raz pierwszy, w roku kalendarzowym, w którym podjął pracę uzyskuje prawo do urlopu z upływem każdego miesiąca pracy, w wymiarze 1/12 wymiaru urlopu przysługującego mu po przepracowaniu roku.
 
 2. Prawo do kolejnego urlopu wypoczynkowego pracownik nabywa w każdym następnym roku kalendarzowym.
 
-§ 31
+<a id="par-31"></a>
+### § 31
 
 1. Pracownik powinien wykorzystywać urlop wypoczynkowy zgodnie z planem urlopów.
 
@@ -401,27 +484,27 @@ VIII Urlopy wypoczynkowe
 
 3. Plan urlopów na rok następny podaje się do wiadomości pracowników do 31 grudnia roku poprzedniego.
 
-§ 32
+<a id="par-32"></a>
+### § 32
 
-1. Pracownik jest uprawniony do wykorzystania urlopu wypoczynkowego zgodnie z planem urlopów po wypełnieniu wniosku z wyprzedzeniem wskazanego terminu i zatwierdzeniu przez bezpośredniego przełożonego członka Zarządu w pionie organizacyjnym. Zaakceptowany wniosek
-
-## Strona 11
-
-przez przełożonego zostaje przedłożony pracownikowi ds. pracowniczych i obsługi sekretariatu celem naniesienia zmian w dokumentacji kadrowej Spółdzielni.
+1. Pracownik jest uprawniony do wykorzystania urlopu wypoczynkowego zgodnie z planem urlopów po wypełnieniu wniosku z wyprzedzeniem wskazanego terminu i zatwierdzeniu przez bezpośredniego przełożonego członka Zarządu w pionie organizacyjnym. Zaakceptowany wniosek przez przełożonego zostaje przedłożony pracownikowi ds. pracowniczych i obsługi sekretariatu celem naniesienia zmian w dokumentacji kadrowej Spółdzielni.
 
 2. Pracownik przed rozpoczęciem urlopu zobowiązany jest przekazać niezbędne informacje oraz dokumenty osobie, która będzie go zastępować.
 
 3. Termin urlopu może być przesunięty na wniosek pracownika, umotywowany ważnymi przyczynami, jak również z powodu szczególnych potrzeb Spółdzielni.
 
-§ 33
+<a id="par-33"></a>
+### § 33
 
 W wyjątkowych okolicznościach, które nie były znane w momencie rozpoczęcia urlopu, Pracodawca może odwołać pracownika z urlopu.
 
-§ 34
+<a id="par-34"></a>
+### § 34
 
 Na pisemny wniosek pracownika, Pracodawca może udzielić mu urlopu bezpłatnego.
 
-§ 35
+<a id="par-35"></a>
+### § 35
 
 Pracownik może wykorzystać w ciągu roku kalendarzowego 4 dni urlopu „na żądanie”.
 
@@ -429,11 +512,13 @@ Pracownik może wykorzystać w ciągu roku kalendarzowego 4 dni urlopu „na ż�
 
 2) Forma zawiadomienia jest dowolna z tym, że niezwłocznie po powrocie do pracy pracownik powinien wypełnić wniosek urlopowy.
 
-§ 36
+<a id="par-36"></a>
+### § 36
 
 Urlopy niewykorzystane za dany rok kalendarzowy powinny być wykorzystane najpóźniej do 30 września następnego roku kalendarzowego.
 
-§ 37
+<a id="par-37"></a>
+### § 37
 
 1. Pracownik ma prawo do okolicznościowych zwolnień od pracy, z zachowaniem prawa do wynagrodzenia.
 
@@ -449,13 +534,13 @@ b) 1 dzień – z okazji ślubu dziecka pracownika, zgonu i pogrzebu rodzeństwa
 
 4. Jeżeli pracownik korzysta już ze zwolnienia od pracy np. urlopu wypoczynkowego, niezdolności do pracy z powodu choroby, to nie przysługują mu w/w zwolnienia okolicznościowe.
 
-## Strona 12
+<a id="dzial-9"></a>
+## IX. Odpowiedzialność porządkowa
 
-IX. Odpowiedzialność porządkowa
+<a id="par-38"></a>
+### § 38
 
-§ 38
-
-1. Za nieprzestrzeganie przez pracownika ustalonej organizacji i porządku w procesie pracy, przepisów bhp i przeciwpożarowych, a także przyjętego sposobu potwierdzania przybycia i obecności w pracy oraz usprawiedliwiania nieobecności w pracy pracodawca może stosować karę upomnienia lub karę nagany- zgodnie z treścią art. 108 § 1 Kp.
+1. Za nieprzestrzeganie przez pracownika ustalonej organizacji i porządku w procesie pracy, przepisów bhp i przeciwpożarowych, a także przyjętego sposobu potwierdzania przybycia i obecności w pracy oraz usprawiedliwiania nieobecności w pracy pracodawca może stosować karę upomnienia lub karę nagany - zgodnie z treścią art. 108 § 1 Kp.
 
 2. Za nieprzestrzeganie przez pracownika przepisów bhp i przeciwpożarowych, opuszczenie pracy bez usprawiedliwienia, stawienie się do pracy w stanie nietrzeźwości lub spożywanie alkoholu w czasie pracy pracodawca może również stosować karę pieniężną, zgodnie treścią art. 108 § 2 i 3 Kp.
 
@@ -467,7 +552,8 @@ IX. Odpowiedzialność porządkowa
 
 6. Kara może być zastosowana tylko po uprzednim wysłuchaniu pracownika z uwzględnieniem stopnia jego winy i jego dotychczasowego stosunku do wykonywania obowiązków.
 
-§ 39
+<a id="par-39"></a>
+### § 39
 
 1. Pracodawca zawiadamia pracownika o zastosowanej karze na piśmie. Odpis pisma o ukaraniu składa się do akt osobowych pracownika.
 
@@ -477,11 +563,11 @@ IX. Odpowiedzialność porządkowa
 
 4. Karę uważa się za niebyłą, a odpis zawiadomienia o ukaraniu usuwa się z akt osobowych pracownika po roku nienagannej pracy.
 
-## Strona 13
+<a id="dzial-10"></a>
+## X. Wyróżnienia i nagrody
 
-X. Wyróżnienia i nagrody
-
-§ 40
+<a id="par-40"></a>
+### § 40
 
 1. Za wzorowe wypełnianie obowiązków zawodowych, wysoką jakość i wydajność pracy Zarząd Spółdzielni może przyznać pracownikom nagrody i wyróżnienia w formie:
 
@@ -491,9 +577,11 @@ X. Wyróżnienia i nagrody
 
 3) awansów zawodowych.
 
-XI. Termin i sposób wypłaty wynagrodzenia
+<a id="dzial-11"></a>
+## XI. Termin i sposób wypłaty wynagrodzenia
 
-§ 41
+<a id="par-41"></a>
+### § 41
 
 1. Wypłata wynagrodzenia następuje raz w miesiącu tj. 28 dnia każdego miesiąca.
 
@@ -501,13 +589,15 @@ XI. Termin i sposób wypłaty wynagrodzenia
 
 3. Wynagrodzenie wypłaca się na wskazany przez pracownika rachunek bankowy.
 
-4. Szczegółowe zasady wynagradzania pracowników Spółdzielni Mieszkaniowej określa Zakładowy Układ Zbiorowy Pracy Pracowników SM „Doły- Marysińska” w Łodzi z dnia 31 lipca 1997 roku z późn. zmianami.
+4. Szczegółowe zasady wynagradzania pracowników Spółdzielni Mieszkaniowej określa Zakładowy Układ Zbiorowy Pracy Pracowników SM „Doły-Marysińska” w Łodzi z dnia 31 lipca 1997 roku z późn. zmianami.
 
 5. Wyjaśnień w sprawie wysokości otrzymanego wynagrodzenia udziela pracownik zatrudniony na stanowisku d/s płac.
 
-XII. Bezpieczeństwo i higiena pracy
+<a id="dzial-12"></a>
+## XII. Bezpieczeństwo i higiena pracy
 
-§ 42
+<a id="par-42"></a>
+### § 42
 
 1. Spółdzielnia jest zobowiązana chronić zdrowie i życie pracowników poprzez zapewnienie bezpiecznych i higienicznych warunków pracy a w szczególności przez:
 
@@ -525,15 +615,14 @@ XII. Bezpieczeństwo i higiena pracy
 
 3) Dbać o bezpieczny i higieniczny stan pomieszczeń pracy i wyposażenia technicznego, a także o sprawność środków ochrony zbiorowej i ich stosowanie zgodnie z przeznaczeniem.
 
-## Strona 14
-
 4) Egzekwować przestrzeganie przez pracowników przepisów i zasad bezpieczeństwa i higieny pracy, przepisów ppoż., przepisów sanitarnych.
 
 5) Zapewniać wykonanie zaleceń lekarza sprawującego opiekę zdrowotną nad pracownikami.
 
 6) Wobec uzgodnionego terminu i wystawionego przez Spółdzielnię skierowania, egzekwować od pracowników przedłożenia aktualnego zaświadczenia lekarskiego, najpóźniej w dniu upływu ważności terminu poprzednich badań profilaktycznych lub najpóźniej w dniu przystąpienia do pracy.
 
-§ 43
+<a id="par-43"></a>
+### § 43
 
 1. Spółdzielnia ocenia ryzyko zawodowe oraz informuje pracowników o ryzyku zawodowym na zajmowanym stanowisku pracy poprzez udostępnienie dokumentacji analizy ryzyka zawodowego oraz omówienie w trakcie szkoleń wstępnych zidentyfikowanych zagrożeń występujących na poszczególnych stanowiskach pracy.
 
@@ -541,9 +630,11 @@ XII. Bezpieczeństwo i higiena pracy
 
 3. Oświadczenie o zapoznaniu się z ryzykiem zawodowym pracodawca przechowuje w aktach osobowych pracownika.
 
-XIII. Obowiązki pracownika z zakresu bezpieczeństwa i higieny pracy
+<a id="dzial-13"></a>
+## XIII. Obowiązki pracownika z zakresu bezpieczeństwa i higieny pracy
 
-§ 44
+<a id="par-44"></a>
+### § 44
 
 Pracownik ma obowiązek w szczególności:
 
@@ -561,27 +652,28 @@ W przypadku:
 
 1) Badań wstępnych: Pracownik ma obowiązek (na podstawie skierowania otrzymanego z działu kadr Spółdzielni), przedłożyć zaświadczenie lekarskie o zdolności do wykonywania pracy na danym stanowisku najpóźniej w dniu rozpoczęcia pracy.
 
-## Strona 15
-
 2) Badań okresowych: Pracownik ma obowiązek (na podstawie skierowania otrzymanego z działu kadr Spółdzielni), przedłożyć zaświadczenie lekarskie o zdolności do wykonywania pracy na danym stanowisku najpóźniej w dniu, w którym upływa termin ważności poprzednich badań.
 
 3) Badań kontrolnych: Pracownik ma obowiązek na podstawie skierowania otrzymanego z działu kadr Spółdzielni, przedłożyć zaświadczenie lekarskie o zdolności do wykonywania pracy na danym stanowisku najpóźniej w dniu rozpoczęcia pracy, po niezdolności do pracy trwającej powyżej 30 dni spowodowanej chorobą pracownika.
 
 6. W przypadku braku zaświadczenia lekarskiego pracownik do momentu dostarczenia stosownego przedmiotowego zaświadczenia nie zostaje dopuszczony do pracy.
 
-§ 45
+<a id="par-45"></a>
+### § 45
 
 Badania lekarskie (wstępne, okresowe bądź kontrolne), jak również stosowne szkolenia z zakresu BHP przeprowadza się na koszt Spółdzielni.
 
-§ 46
+<a id="par-46"></a>
+### § 46
 
 Pracownik ma obowiązek współdziałać z Pracodawcą jak również z bezpośrednim przełożonym w wypełnianiu obowiązków Bezpieczeństwa i Higieny Pracy.
 
-§ 47
+<a id="par-47"></a>
+### § 47
 
 1. Pracownik nie może być dopuszczony do pracy bez środków ochrony indywidualnej oraz odzieży i obuwia roboczego przewidzianego do stosowania na danym stanowisku pracy (odniesienie w szczególności do stanowisk robotniczych Spółdzielni - konserwatorzy, gospodarze domów, konserwator terenu osiedla i zieleni).
 
-2. Dla każdego w/w pracownika, o którym mowa w ust 1 Spółdzielnia prowadzi kartę przydziału odzieży, obuwia roboczego oraz środków ochrony indywidualnej. Wydanie pracownikowi odzieży i obuwia następuje zgodnie z wystawioną kartą i jest odnotowywane w karcie wyposażenia przez pracownika ds. administracyjno- gospodarczych.
+2. Dla każdego w/w pracownika, o którym mowa w ust 1 Spółdzielnia prowadzi kartę przydziału odzieży, obuwia roboczego oraz środków ochrony indywidualnej. Wydanie pracownikowi odzieży i obuwia następuje zgodnie z wystawioną kartą i jest odnotowywane w karcie wyposażenia przez pracownika ds. administracyjno-gospodarczych.
 
 3. Pracownik dokonuje czyszczenia i naprawy środków ochrony, odzieży i obuwia roboczego.
 
@@ -589,23 +681,25 @@ Pracownik ma obowiązek współdziałać z Pracodawcą jak również z bezpośre
 
 5. Ekwiwalentu pieniężnego nie wypłaca się za okresy, w których pracownik nie wywiązał się z obowiązku czyszczenia i naprawy środków ochrony, odzieży i obuwia roboczego.
 
-6. Zakładowa Tabela Norm przydziału odzieży roboczej oraz środków ochrony indywidualnej określa załącznik nr 2 do Regulaminu Pracy.
+6. Zakładowa Tabela Norm przydziału odzieży roboczej oraz środków ochrony indywidualnej określa [załącznik nr 2](#zalacznik-2) do Regulaminu Pracy.
 
-§ 48
+<a id="par-48"></a>
+### § 48
 
 Kobiety nie mogą być zatrudniane przy pracach szczególnie uciążliwych i szkodliwych dla zdrowia, ujętych w wykazie prac wzbronionych kobietom, stanowiącym załącznik nr 3 do regulaminu pracy.
 
-## Strona 16
-
-§ 49
+<a id="par-49"></a>
+### § 49
 
 Pracodawca nie zatrudnia pracowników młodocianych i w związku z tym nie sporządził wykazu stanowisk pracy dozwolonych pracownikom młodocianym. W przypadku zatrudnienia pracownika młodocianego wykaz takich prac zostanie sporządzony.
 
-XIV. Postanowienia końcowe
+<a id="dzial-14"></a>
+## XIV. Postanowienia końcowe
 
-§ 50
+<a id="par-50"></a>
+### § 50
 
-1. Z chwilą wejścia w życie niniejszego Regulaminu traci moc Regulamin Pracy uchwalony przez Zarząd Spółdzielni uchwałą nr **492/18** *(numer i data wpisane odręcznie na formularzu; potwierdzone brzmieniem uchwały nr 368/19 przytoczonej na str. 33)* z dnia **31.12.2018** z późniejszymi zmianami.
+1. Z chwilą wejścia w życie niniejszego Regulaminu traci moc poprzedni Regulamin Pracy wraz z późniejszymi zmianami.
 
 2. Niniejszy Regulamin Pracy wchodzi w życie po upływie 2 tygodni od dnia podania go do wiadomości pracowników.
 
@@ -617,47 +711,28 @@ XIV. Postanowienia końcowe
 
 6. Pracownik ds. pracowniczych i obsługi sekretariatu obowiązany jest niezwłocznie zapoznać wszystkich pracowników z postanowieniami regulaminu, na potwierdzenie czego zobowiązany jest przyjąć od pracownika stosowne oświadczenie na piśmie.
 
-Regulamin pracy został wprowadzony uchwałą Zarządu nr **368/19** z dnia **10 listopada 2019 r.** *(numer i data wpisane odręcznie na formularzu; zapis odręczny dnia po powiększeniu odczytuje się jako „10”, co różni się od maszynowo wpisanej daty „13 listopada 2019 r.” widniejącej na dołączonej kopii uchwały nr 368/19 na str. 33 — rozbieżność w źródle, niesprostowana w tym opracowaniu)* i został uzgodniony z Zarządem Międzyzakładowego Związku Zawodowego „Budowlani” z siedzibą w Łodzi przy ul. Nastrojowej 12.
+Regulamin pracy został wprowadzony uchwałą Zarządu i został uzgodniony z Zarządem Międzyzakładowego Związku Zawodowego „Budowlani” z siedzibą w Łodzi przy ul. Nastrojowej 12.
 
-[Odręczne podpisy i pieczątki:]
-
-Pieczątka: „Związek Zawodowy «Budowlani» Zarząd Międzyzakładowy nr 0540 w Łodzi, 91-496 Łódź, ul. Nastrojowa 12” wraz z odręcznym podpisem przedstawiciela związku (imię czytelne jako „Jolanta”, nazwisko nieczytelne).
-
-Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14” wraz z odręcznymi podpisami przedstawicieli Zarządu (nazwiska nieczytelne w pełni, widoczne fragmenty „Kucińska”, „…Głowacka”).
-
-Załączniki do regulaminu:
-
-Załącznik nr 1 - Przepisy o równym traktowaniu w zatrudnieniu.
-
-Załącznik nr 2 - Zakładowa Tabela Norm przydziału odzieży roboczej i ochronnej oraz środków ochrony indywidualnej.
-
-Załącznik nr 3 - Wykaz prac wzbronionych kobietom.
-
-Załącznik nr 4 - Oświadczenie o zapoznaniu się z Regulaminem Pracy.
-
-## Strona 17
-
-Załącznik nr 1
-do Regulaminu pracy
+<a id="zalacznik-1"></a>
+## Załącznik nr 1
 
 Przepisy dotyczące równego traktowania w zatrudnieniu
 
-Podstawa prawna:
-(Ustawa z dnia 26 czerwca 1974 r. - Kodeks pracy, Dz.U. z 1998 r. Nr 21, poz. 94 ze zm.)
+Podstawa prawna: Ustawa z dnia 26 czerwca 1974 r. - Kodeks pracy, Dz.U. z 1998 r. Nr 21, poz. 94 ze zm.
 
-Art. 11³.
+**Art. 11³.**
 
 Jakakolwiek dyskryminacja w zatrudnieniu, bezpośrednia lub pośrednia, w szczególności ze względu na płeć, wiek, niepełnosprawność, rasę, religię, narodowość, przekonania polityczne, przynależność związkową, pochodzenie etniczne, wyznanie, orientację seksualną, a także ze względu na zatrudnienie na czas określony lub nieokreślony albo w pełnym lub w niepełnym wymiarze czasu pracy – jest niedopuszczalna.
 
-Art. 18.
+**Art. 18.**
 
 § 1. Postanowienia umów o pracę oraz innych aktów, na których podstawie powstaje stosunek pracy, nie mogą być mniej korzystne dla pracownika niż przepisy prawa pracy.
 
 § 2. Postanowienia umów i aktów, o których mowa w § 1, mniej korzystne dla pracownika niż przepisy prawa pracy są nieważne; zamiast nich stosuje się odpowiednie przepisy prawa pracy.
 
-§ 3. Postanowienia umów o pracę i innych aktów, na podstawie, których powstaje stosunek pracy, naruszające zasadę równego traktowania w zatrudnieniu są nieważne. Zamiast takich postanowień stosuje się odpowiednie przepisy prawa pracy, a w razie braku takich przepisów -postanowienia te należy zastąpić odpowiednimi postanowieniami nie mającymi charakteru dyskryminacyjnego.
+§ 3. Postanowienia umów o pracę i innych aktów, na podstawie, których powstaje stosunek pracy, naruszające zasadę równego traktowania w zatrudnieniu są nieważne. Zamiast takich postanowień stosuje się odpowiednie przepisy prawa pracy, a w razie braku takich przepisów - postanowienia te należy zastąpić odpowiednimi postanowieniami nie mającymi charakteru dyskryminacyjnego.
 
-Art. 18³ᵃ.
+**Art. 18³ᵃ.**
 
 § 1. Pracownicy powinni być równo traktowani w zakresie nawiązania i rozwiązania stosunku pracy, warunków zatrudnienia, awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych, w szczególności bez względu na płeć, wiek, niepełnosprawność, rasę, religię, narodowość, przekonania polityczne, przynależność związkową, pochodzenie etniczne, wyznanie, orientację seksualną, a także bez względu na zatrudnienie na czas określony lub nieokreślony albo w pełnym lub w niepełnym wymiarze czasu pracy.
 
@@ -665,15 +740,7 @@ Art. 18³ᵃ.
 
 § 3. Dyskryminowanie bezpośrednie istnieje wtedy, gdy pracownik z jednej lub z kilku przyczyn określonych w § 1 był, jest lub mógłby być traktowany w porównywalnej sytuacji mniej korzystnie niż inni pracownicy.
 
-§ 4. Dyskryminowanie pośrednie istnieje wtedy, gdy na skutek pozornie neutralnego postanowienia, zastosowanego kryterium lub podjętego działania występują dysproporcje w zakresie warunków
-
-## Strona 18
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 19
-
-zatrudnienia na niekorzyść wszystkich lub znacznej liczby pracowników należących do grupy wyróżnionej ze względu na jedną lub kilka przyczyn określonych, w § 1, jeżeli dysproporcje te nie mogą być uzasadnione innymi obiektywnymi powodami.
+§ 4. Dyskryminowanie pośrednie istnieje wtedy, gdy na skutek pozornie neutralnego postanowienia, zastosowanego kryterium lub podjętego działania występują dysproporcje w zakresie warunków zatrudnienia na niekorzyść wszystkich lub znacznej liczby pracowników należących do grupy wyróżnionej ze względu na jedną lub kilka przyczyn określonych, w § 1, jeżeli dysproporcje te nie mogą być uzasadnione innymi obiektywnymi powodami.
 
 § 5. Przejawem dyskryminowania w rozumieniu § 2 jest także:
 
@@ -685,7 +752,7 @@ zatrudnienia na niekorzyść wszystkich lub znacznej liczby pracowników należ�
 
 § 7. Podporządkowanie się przez pracownika molestowaniu lub molestowaniu seksualnemu, a także podjęcie przez niego działań przeciwstawiających się molestowaniu lub molestowaniu seksualnemu nie może powodować jakichkolwiek negatywnych konsekwencji wobec pracownika.
 
-Art. 18³ᵇ.
+**Art. 18³ᵇ.**
 
 § 1. Za naruszenie zasady równego traktowania w zatrudnieniu, z zastrzeżeniem § 2 - 4, uważa się różnicowanie przez pracodawcę sytuacji pracownika z jednej lub kilku przyczyn określonych w art. 18³ᵃ § 1, którego skutkiem jest w szczególności:
 
@@ -705,17 +772,11 @@ Art. 18³ᵇ.
 
 4) ustalaniu warunków zatrudniania i zwalniania pracowników, zasad wynagradzania i awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych - z uwzględnieniem kryterium stażu pracy.
 
-## Strona 20
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 21
-
 § 3. Nie stanowią naruszenia zasady równego traktowania w zatrudnieniu działania podejmowane przez określony czas, zmierzające do wyrównywania szans wszystkich lub znacznej liczby pracowników wyróżnionych z jednej lub kilku przyczyn określonych w art. 18³ᵃ § 1, przez zmniejszenie na korzyść takich pracowników faktycznych nierówności, w zakresie określonym w tym przepisie.
 
 § 4. Nie stanowi naruszenia zasady równego traktowania ograniczanie przez kościoły i inne związki wyznaniowe, a także organizacje, których etyka opiera się na religii, wyznaniu lub światopoglądzie, dostępu do zatrudnienia, ze względu na religię, wyznanie lub światopogląd jeżeli rodzaj lub charakter wykonywania działalności przez kościoły i inne związki wyznaniowe, a także organizacje powoduje, że religia, wyznanie lub światopogląd są rzeczywistym i decydującym wymaganiem zawodowym stawianym pracownikowi, proporcjonalnym do osiągnięcia zgodnego z prawem celu zróżnicowania sytuacji tej osoby; dotyczy to również wymagania od zatrudnionych działania w dobrej wierze i lojalności wobec etyki kościoła, innego związku wyznaniowego oraz organizacji, których etyka opiera się na religii, wyznaniu lub światopoglądzie.
 
-Art. 18³ᶜ.
+**Art. 18³ᶜ.**
 
 § 1. Pracownicy mają prawo do jednakowego wynagrodzenia za jednakową pracę lub za pracę o jednakowej wartości.
 
@@ -723,34 +784,20 @@ Art. 18³ᶜ.
 
 § 3. Pracami o jednakowej wartości są prace, których wykonywanie wymaga od pracowników porównywalnych kwalifikacji zawodowych, potwierdzonych dokumentami przewidzianymi w odrębnych przepisach lub praktyką i doświadczeniem zawodowym, a także porównywalnej odpowiedzialności i wysiłku.
 
-Art. 18³ᵈ.
+**Art. 18³ᵈ.**
 
 Osoba, wobec której pracodawca naruszył zasadę równego traktowania w zatrudnieniu, ma prawo do odszkodowania w wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.
 
-Art. 18³ᵉ.
+**Art. 18³ᵉ.**
 
 § 1. Skorzystanie przez pracownika z uprawnień przysługujących z tytułu naruszenia zasady równego traktowania w zatrudnieniu nie może być podstawą niekorzystnego traktowania pracownika, a także nie może powodować jakichkolwiek negatywnych konsekwencji wobec pracownika, zwłaszcza nie może stanowić przyczyny uzasadniającej wypowiedzenie przez pracodawcę stosunku pracy lub jego rozwiązanie bez wypowiedzenia.
 
 § 2. Przepis § 1 stosuje się odpowiednio do pracownika, który udzielił w jakiejkolwiek formie wsparcia pracownikowi korzystającemu z uprawnień przysługujących z tytułu naruszenia zasady równego traktowania w zatrudnieniu.
 
-[Odręczne podpisy i pieczątki:]
+<a id="zalacznik-2"></a>
+## Załącznik nr 2
 
-Pieczątka: „Związek Zawodowy «Budowlani» Zarząd Międzyzakładowy nr 0540 w Łodzi, 91-496 Łódź, ul. Nastrojowa 12” wraz z odręcznym podpisem przedstawiciela związku (imię czytelne jako „Jolanta”, nazwisko nieczytelne).
-
-Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14” wraz z odręcznymi podpisami przedstawicieli Zarządu (nazwiska nieczytelne w pełni, widoczne fragmenty „Kucińska”, „…Głowacka”).
-
-## Strona 22
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 23
-
-Załącznik nr 2
-do Regulaminu pracy
-
-Zakładowa Tabela Norm
-
-przydziału odzieży roboczej i ochronnej oraz środków ochrony indywidualnej
+Zakładowa Tabela Norm przydziału odzieży roboczej i ochronnej oraz środków ochrony indywidualnej
 
 Legenda: L.p. — liczba porządkowa; Stanowisko pracy; Wyposażenie: R — odzież robocza, O — ochrony indywidualne; Przewidywany okres używalności: m.-cy — miesiące, O.Z — okresy zimowe, D.Z — do zużycia.
 
@@ -793,12 +840,6 @@ Legenda: L.p. — liczba porządkowa; Stanowisko pracy; Wyposażenie: R — odzi
 | O-rękawice robocze | d.z |
 | O-kamizelka ostrzegawcza | d.z |
 | O-okulary ochronne | d.z** |
-
-## Strona 24
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 25
 
 **3. Elektromonter, elektryk, konserwator elektryk**
 
@@ -847,12 +888,6 @@ Legenda: L.p. — liczba porządkowa; Stanowisko pracy; Wyposażenie: R — odzi
 | O-rękawice robocze | d.z |
 | O-szelki bezpieczeństwa | d.z** w/g instrukcji |
 | O-hełm ochronny | d.z |
-
-## Strona 26
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 27
 
 **6. Spawacz acetylenowo-tlenowy i łukiem elektrycznym, ślusarz**
 
@@ -911,12 +946,6 @@ Legenda: L.p. — liczba porządkowa; Stanowisko pracy; Wyposażenie: R — odzi
 | O-hełm ochronny | d.z** |
 | O-szelki bezp. z linką | d.z w/g instrukcji |
 
-## Strona 28
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 29
-
 **9. Prezes, personel: inż.-techn., adm.-eksploatac., adm.-gospodarczy**
 
 | Wyposażenie | Przewidywany okres używalności |
@@ -948,21 +977,8 @@ Objaśnienia:
 
 \*\*\* - w przypadku wydania dwóch kompletów odzieży termin przydatności wydłuża się o jeden czasokres.
 
-[Odręczne podpisy i pieczątki:]
-
-Pieczątka: „Związek Zawodowy «Budowlani» Zarząd Międzyzakładowy nr 0540 w Łodzi, 91-496 Łódź, ul. Nastrojowa 12” wraz z odręcznym podpisem przedstawiciela związku (imię czytelne jako „Jolanta”, nazwisko nieczytelne).
-
-Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14” wraz z odręcznymi podpisami przedstawicieli Zarządu (nazwiska nieczytelne w pełni, widoczne fragmenty „Kucińska”, „…Głowacka”).
-
-## Strona 30
-
-*(strona pusta w oryginale dokumentu)*
-
-**Uwaga dotycząca kompletności skanu:** numeracja stron wydrukowanych na dokumencie przeskakuje ze strony 23 (koniec Załącznika nr 2, PDF: Strona 29) na stronę 25 (Załącznik nr 4, PDF: Strona 31). Strona wydrukowana nr 24, która zgodnie z wykazem załączników na str. 16 powinna zawierać Załącznik nr 3 — „Wykaz prac wzbronionych kobietom” (przywołany też w § 48) — nie występuje w zeskanowanym dokumencie; w jej miejscu (PDF: Strona 30) znajduje się pusta karta. Prawdopodobnie brakuje jej w źródłowym skanie dostarczonym przez Spółdzielnię.
-
-## Strona 31
-
-Załącznik nr 4
+<a id="zalacznik-4"></a>
+## Załącznik nr 4
 
 ...................... (dane pracownika)                    .......................... (miejscowość i data)
 
@@ -979,57 +995,3 @@ objętych tajemnicą służbową*.
 \* niewłaściwe skreślić
 
 ...................... (podpis pracownika)
-
-[Odręczne podpisy i pieczątki:]
-
-Pieczątka: „Związek Zawodowy «Budowlani» Zarząd Międzyzakładowy nr 0540 w Łodzi, 91-496 Łódź, ul. Nastrojowa 12” wraz z odręcznym podpisem przedstawiciela związku (imię czytelne jako „Jolanta”, nazwisko nieczytelne).
-
-Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14” wraz z odręcznymi podpisami przedstawicieli Zarządu (nazwiska nieczytelne w pełni, widoczne fragmenty „Kucińska”, „…Głowacka”).
-
-## Strona 32
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 33
-
-Uchwała nr 368/19
-
-Zarządu SM „Doły – Marysińska” w Łodzi
-
-z dnia 13 listopada 2019 r.
-
-w sprawie uchwalenia Regulaminu Pracy w Spółdzielni Mieszkaniowej: „Doły – Marysińska” w Łodzi
-
-Zarząd Spółdzielni – Mieszkaniowej „Doły-Marysińska” w Łodzi stosownie do postanowień art. 104 §1¹ Ustawy z dna 26 czerwca 1974 r.- Kodeks pracy z późniejszymi zmianami, po uzgodnieniu Regulaminu Pracy z Zarządem Międzyzakładowego Związku Zawodowego „Budowlani” z siedzibą w Łodzi ul. Nastrojowa 12.
-
-Postanawia:
-
-§ 1
-
-Uchylić „Regulamin Pracy” w Spółdzielni Mieszkaniowej „Doły – Marysińska” w Łodzi uchwalony w dniu 20.01.2016 r., uchwałą nr 18/16
-
-wraz ze
-
-zmianami do „Regulaminu Pracy” w Spółdzielni Mieszkaniowej „Doły – Marysińska” w Łodzi wprowadzonymi uchwałą nr 492/18 z dnia 31.12.2018 r.
-
-§ 2
-
-Zatwierdzić „Regulamin Pracy” w Spółdzielni Mieszkaniowej „Doły – Marysińska” w Łodzi w brzmieniu stanowiącym załącznik do niniejszej uchwały.
-
-§ 3
-
-„Regulamin Pracy” wchodzi w życie po upływie dwóch tygodni od podania go do wiadomości pracowników Spółdzielni.
-
-[Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14” wraz z odręcznym podpisem (nazwisko nieczytelne w pełni, widoczny fragment „Kucińska”).]
-
-Otrzymują:
-
-1. ZZ „Budowlani”
-2. PP
-3. a/a
-
-*(brak numeru strony w oryginale — strona stanowi załączoną kopię uchwały Zarządu)*
-
-## Strona 34
-
-*(strona pusta w oryginale dokumentu)*
