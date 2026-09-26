@@ -617,7 +617,7 @@ XIV. Postanowienia końcowe
 
 6. Pracownik ds. pracowniczych i obsługi sekretariatu obowiązany jest niezwłocznie zapoznać wszystkich pracowników z postanowieniami regulaminu, na potwierdzenie czego zobowiązany jest przyjąć od pracownika stosowne oświadczenie na piśmie.
 
-Regulamin pracy został wprowadzony uchwałą Zarządu nr **368/19** z dnia **13 listopada 2019 r.** *(numer i data wpisane odręcznie na formularzu; potwierdzone brzmieniem uchwały przytoczonej na str. 33)* i został uzgodniony z Zarządem Międzyzakładowego Związku Zawodowego „Budowlani” z siedzibą w Łodzi przy ul. Nastrojowej 12.
+Regulamin pracy został wprowadzony uchwałą Zarządu nr **368/19** z dnia **10 listopada 2019 r.** *(numer i data wpisane odręcznie na formularzu; zapis odręczny dnia po powiększeniu odczytuje się jako „10”, co różni się od maszynowo wpisanej daty „13 listopada 2019 r.” widniejącej na dołączonej kopii uchwały nr 368/19 na str. 33 — rozbieżność w źródle, niesprostowana w tym opracowaniu)* i został uzgodniony z Zarządem Międzyzakładowego Związku Zawodowego „Budowlani” z siedzibą w Łodzi przy ul. Nastrojowej 12.
 
 [Odręczne podpisy i pieczątki:]
 
@@ -794,6 +794,12 @@ Legenda: L.p. — liczba porządkowa; Stanowisko pracy; Wyposażenie: R — odzi
 | O-kamizelka ostrzegawcza | d.z |
 | O-okulary ochronne | d.z** |
 
+## Strona 24
+
+*(strona pusta w oryginale dokumentu)*
+
+## Strona 25
+
 **3. Elektromonter, elektryk, konserwator elektryk**
 
 | Wyposażenie | Przewidywany okres używalności |
@@ -841,6 +847,12 @@ Legenda: L.p. — liczba porządkowa; Stanowisko pracy; Wyposażenie: R — odzi
 | O-rękawice robocze | d.z |
 | O-szelki bezpieczeństwa | d.z** w/g instrukcji |
 | O-hełm ochronny | d.z |
+
+## Strona 26
+
+*(strona pusta w oryginale dokumentu)*
+
+## Strona 27
 
 **6. Spawacz acetylenowo-tlenowy i łukiem elektrycznym, ślusarz**
 
@@ -899,6 +911,12 @@ Legenda: L.p. — liczba porządkowa; Stanowisko pracy; Wyposażenie: R — odzi
 | O-hełm ochronny | d.z** |
 | O-szelki bezp. z linką | d.z w/g instrukcji |
 
+## Strona 28
+
+*(strona pusta w oryginale dokumentu)*
+
+## Strona 29
+
 **9. Prezes, personel: inż.-techn., adm.-eksploatac., adm.-gospodarczy**
 
 | Wyposażenie | Przewidywany okres używalności |
@@ -936,35 +954,11 @@ Pieczątka: „Związek Zawodowy «Budowlani» Zarząd Międzyzakładowy nr 0540
 
 Pieczątka: „SPÓŁDZIELNIA MIESZKANIOWA «DOŁY MARYSIŃSKA» ZARZĄD, 91-712 Łódź, ul. Nowopolska 12/14” wraz z odręcznymi podpisami przedstawicieli Zarządu (nazwiska nieczytelne w pełni, widoczne fragmenty „Kucińska”, „…Głowacka”).
 
-## Strona 24
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 25
-
-*(strona pusta w oryginale dokumentu)*
-
-**Uwaga dotycząca kompletności skanu:** numeracja stron wydrukowanych na dokumencie przeskakuje ze strony 23 (koniec Załącznika nr 2, PDF: Strona 23) na stronę 25 (Załącznik nr 4, PDF: Strona 31). Strona wydrukowana nr 24, która zgodnie z wykazem załączników na str. 16 powinna zawierać Załącznik nr 3 — „Wykaz prac wzbronionych kobietom” (przywołany też w § 48) — nie występuje w zeskanowanym dokumencie. Prawdopodobnie brakuje jej w źródłowym skanie dostarczonym przez Spółdzielnię.
-
-## Strona 26
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 27
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 28
-
-*(strona pusta w oryginale dokumentu)*
-
-## Strona 29
-
-*(strona pusta w oryginale dokumentu)*
-
 ## Strona 30
 
 *(strona pusta w oryginale dokumentu)*
+
+**Uwaga dotycząca kompletności skanu:** numeracja stron wydrukowanych na dokumencie przeskakuje ze strony 23 (koniec Załącznika nr 2, PDF: Strona 29) na stronę 25 (Załącznik nr 4, PDF: Strona 31). Strona wydrukowana nr 24, która zgodnie z wykazem załączników na str. 16 powinna zawierać Załącznik nr 3 — „Wykaz prac wzbronionych kobietom” (przywołany też w § 48) — nie występuje w zeskanowanym dokumencie; w jej miejscu (PDF: Strona 30) znajduje się pusta karta. Prawdopodobnie brakuje jej w źródłowym skanie dostarczonym przez Spółdzielnię.
 
 ## Strona 31
 

@@ -12,27 +12,27 @@ I.
 
 PODSTAWA PRAWNA
 
-g1
+§ 1
 
-„ Ustawa z dnia 16.09.1982r. Prawo spółdzielcze (tekst jednolity Dz.U. z
+1. Ustawa z dnia 16.09.1982r. Prawo spółdzielcze (tekst jednolity Dz.U. z
 
 2003r. nr 188 poz. 1848 z późniejszymi zmianami)
 
-„ Ustawa z dnia 15.12.2000r. o spółdzielniach mieszkaniowych (tekst
+2. Ustawa z dnia 15.12.2000r. o spółdzielniach mieszkaniowych (tekst
 
 jednolity Dz.U. z 2003r. nr 119 poz. 1116 z późniejszymi zmianami)
 
-„ Statut Spółdzielni.
+3. Statut Spółdzielni.
 
-POSTANOWIENIA OGÓLNE
+II. POSTANOWIENIA OGÓLNE
 
-2
+§ 2
 
-. Walne Zgromadzenie jest najwyższym organem Spółdzielni 1 jest ważne
+1. Walne Zgromadzenie jest najwyższym organem Spółdzielni i jest ważne
 
 niezależnie od liczby obecnych na nim członków.
 
-. Walne Zgromadzenie jest podzielone na dwie części, obejmujące
+2. Walne Zgromadzenie jest podzielone na dwie części, obejmujące
 
 członków posiadających tytuł prawny w nieruchomościach znajdujących
 się:
@@ -40,29 +40,27 @@ się:
 - na osiedlu Doły (jedna część) .
 - na osiedlu Marysińska (druga część).
 
-. Członek Spółdzielni może brać udział w Walnym Zgromadzeniu tylko
+3. Członek Spółdzielni może brać udział w Walnym Zgromadzeniu tylko
 
 osobiście i uczestniczyć w tej części, w której posiada tytuł prawny do
 lokalu, a w przypadku gdy posiada lokale na terenie dwóch osiedli — w
 
-- wybranej przez niego części Walnego Zgromadzenia.
+wybranej przez niego części Walnego Zgromadzenia.
 
 4. Każdy członek ma jeden głos bez względu na ilość posiadanych udziałów.
 
--3
-
-Osoby prawne będące członkami Spółdzielni biorą udział w Walnym
+5. Osoby prawne będące członkami Spółdzielni biorą udział w Walnym
 Zgromadzeniu przez ustanowionego w tym celu pełnomocnika.
 Pełnomocnik nie może zastępować więcej niż jednego członka.
 
-. Członek ma prawo do korzystania, na własny koszt z pomocy prawnej lub
+6. Członek ma prawo do korzystania, na własny koszt z pomocy prawnej lub
 
 pomocy eksperta. Osoby, z których pomocy korzysta członek, nie są
 uprawnione do zabierania głosu.
 
 ## Strona 2
 
-g3
+§ 3
 
 1. Walne Zgromadzenie zwołuje Zarząd przynajmniej raz w roku w terminie
 do 30 czerwca.
@@ -95,16 +93,15 @@ Walnego Zgromadzenia lub pierwszej jego części.
 Projekt uchwały zgłaszanej przez członków spółdzielni musi być poparty
 przez co najmniej 10 członków.
 
-$ 4
+§ 4
 
 1. O czasie, miejscu i porządku obrad Walnego Zgromadzenia związek
 rewizyjny, w którym Spółdzielnia jest zrzeszona oraz Krajowa Rada
-
-_ Spółdzielcza zawiadamiani są na piśmie co najmniej na 21 dni przed
-terminem Walnego Z.gromadzenia.
+Spółdzielcza zawiadamiani są na piśmie co najmniej na 21 dni przed
+terminem Walnego Zgromadzenia.
 
 2. Członkowie Spółdzielni powinni być zawiadomieni o czasie, miejscu i
-porządku obrad części obrad Walnego Z.gromadzenia przez wywieszenie
+porządku obrad części obrad Walnego Zgromadzenia przez wywieszenie
 ogłoszeń w biurze Zarządu oraz w budynkach mieszkalnych na
 poszczególnych klatkach, co najmniej 21 dni przed terminem każdej
 części Walnego Zgromadzenia.
@@ -112,70 +109,73 @@ części Walnego Zgromadzenia.
 3. W przypadku wniesienia do porządku obrad Walnego Zgromadzenia
 dodatkowych spraw, uzupełniony porządek obrad powinien być podany
 
-hl
+ADWOKAT
 
-Alicjy Rydhi
+Alicja Rychlicka-Ziepult
+
+2
 
 ## Strona 3
 
-do wiadomości członków, osób i organizacji wymienionych w ust. I na 4
+do wiadomości członków, osób i organizacji wymienionych w ust. 1 na 4
 dni przed terminem Walnego Zgromadzenia w sposób określony w ust. 2.
 
 4. Członek ma prawo zgłaszania poprawek do projektów uchwał nie później
 
-III.
-
 niż na 3 dni przed posiedzeniem Walnego Zgromadzenia lub jego
 pierwszej części.
 
-. Zarząd ma obowiązek przygotowania pod względem formalnym |
+5. Zarząd ma obowiązek przygotowania pod względem formalnym i
 
 przedłożenia pod głosowanie na Walnym Zgromadzeniu projektów
 uchwał i poprawek zgłoszonych przez członków Spółdzielni.
 
-W obradach Walnego Zgromadzenia biorą udział osoby wchodzące w
+6. W obradach Walnego Zgromadzenia biorą udział osoby wchodzące w
 
 skład Zarządu Spółdzielni oraz zaproszone przez Zarząd osoby i
 przedstawiciele reprezentujący jednostki współpracujące ze Spółdzielnią.
 
-KOMPETENCJE WALNEGO ZGROMADZENIA
+III. KOMPETENCJE WALNEGO ZGROMADZENIA
 
-$5
+§ 5
 
 Do wyłącznej właściwości Walnego Zgromadzenia należy:
 
-1.
-2.
+1. uchwalanie kierunków rozwoju działalności gospodarczej,
 
-uchwalanie kierunków rozwoju działalności gospodarczej,
-
-rozpatrywanie sprawozdań Rady Nadzorczej, zatwierdzanie sprawozdań
-rocznych i sprawozdań finansowych oraz podejmowanie uchwal co do
+2. rozpatrywanie sprawozdań Rady Nadzorczej, zatwierdzanie sprawozdań
+rocznych i sprawozdań finansowych oraz podejmowanie uchwał co do
 wniosków członków Spółdzielni, Rady Nadzorczej lub Zarządu w tych
 sprawach,
 
-„ udzielanie absolutorium członkom Zarządu,
+3. udzielanie absolutorium członkom Zarządu,
 
-. rozpatrywanie wniosków wynikających z przedstawionego protokołu
+4. rozpatrywanie wniosków wynikających z przedstawionego protokołu
 
 polustracyjnego z działalności Spółdzielni oraz podejmowanie uchwał w
 tym zakresie,
 
-. podejmowanie uchwał w sprawie podziału nadwyżki bilansowej
+5. podejmowanie uchwał w sprawie podziału nadwyżki bilansowej
 
 (dochodu ogólnego) lub sposobu pokrycia strat,
 
-. podejmowanie uchwał w sprawie zbycia nieruchomości, zbycia zakładu
+6. podejmowanie uchwał w sprawie zbycia nieruchomości, zbycia zakładu
 
 lub innej wyodrębnionej jednostki organizacyjnej,
 
-. podejmowanie uchwał w sprawie przystępowania do innych organizacji
+7. podejmowanie uchwał w sprawie przystępowania do innych organizacji
 
 gospodarczych oraz występowania z nich,
 
-. oznaczanie najwyższej sumy zobowiązań jaką Spółdzielnia może
+8. oznaczanie najwyższej sumy zobowiązań jaką Spółdzielnia może
 
 zaciągnąć,
+
+ADWOKAT
+
+Alicja Rychlicka-Ziepult
+
+3
 
 ## Strona 4
 
@@ -201,7 +201,7 @@ zrzeszona,
 
 IV. ORGANIZACJA ZEBRANIA
 
-g 6
+§ 6
 
 1. Obrady każdej części Walnego Zgromadzenia otwiera przewodniczący
 Rady Nadzorczej lub inny upoważniony członek Rady Nadzorczej.
@@ -212,7 +212,7 @@ zastępca przewodniczącego i sekretarz.
 
 W skład prezydium nie mogą wchodzić członkowie Zarządu Spółdzielni.
 
-$ 7
+§ 7
 
 1. Członkowie obecni na Walnym Zgromadzeniu wybierają ze swego grona
 co najmniej 3 osobowe komisje:
@@ -225,6 +225,12 @@ c) dokonywanie obliczeń wyników głosowań, w tym liczenie głosów
 w wyborach do Rady Nadzorczej.
 
 Osoba wybrana do komisji mandatowo-skrutacyjnej nie może
+
+ADWOKAT
+
+Alicja Rychlicka-Ziepult
+
+4
 
 ## Strona 5
 
@@ -239,53 +245,58 @@ względem formalnym i merytorycznym zgłoszonych przez
 uczestników Walnego Zgromadzenia wniosków i przedkładanie ich
 Walnemu Zgromadzeniu w formie projektów uchwał.
 
-58
+§ 8
 
-. Po dokonaniu wyboru prezydium i komisji, prowadzenie obrad przejmuje
+1. Po dokonaniu wyboru prezydium i komisji, prowadzenie obrad przejmuje
 przewodniczący Walnego Zgromadzenia, który zarządza głosowanie w
 sprawie porządku obrad.
 
-. Walne Zgromadzenie może skreślić z porządku obrad poszczególne
+2. Walne Zgromadzenie może skreślić z porządku obrad poszczególne
 sprawy, odroczyć je do następnego Walnego Zgromadzenia, a także
 zmienić kolejność ich rozpatrywania.
 
-89
-„. Każda komisja wybiera ze swego grona przewodniczącego.
-„ Uchwały komisji zapadają zwykłą większością głosów.
+§ 9
 
-. Członek komisji ma prawo zgłosić odrębne zdanie z uzasadnieniem
+1. Każda komisja wybiera ze swego grona przewodniczącego.
+
+2. Uchwały komisji zapadają zwykłą większością głosów.
+
+3. Członek komisji ma prawo zgłosić odrębne zdanie z uzasadnieniem
 swego stanowiska wobec Walnego Zgromadzenia.
 
-. Z dokonanych czynności komisja sporządza protokół, który podpisują
+4. Z dokonanych czynności komisja sporządza protokół, który podpisują
 wszyscy członkowie komisji.
 
-. Przewodniczący komisji podaje do wiadomości uczestników obrad treść
+5. Przewodniczący komisji podaje do wiadomości uczestników obrad treść
 protokołu poprzez odczytanie.
 
-_ TRYB OBRADOWANIA I PODEJMOWANIA UCHWAŁ
+V. TRYB OBRADOWANIA I PODEJMOWANIA UCHWAŁ
 
-$ 10
+§ 10
 
-. Walne Zgromadzenie. może podejmować uchwały jedynie w sprawach
+1. Walne Zgromadzenie. może podejmować uchwały jedynie w sprawach
 objętych porządkiem obrad podanym do wiadomości członków w
-sposób określony w $ 4.
+sposób określony w § 4.
 
-„. Uchwałę uważa się za podjętą, jeżeli była poddana pod głosowanie
+2. Uchwałę uważa się za podjętą, jeżeli była poddana pod głosowanie
 
 obydwu części Walnego Zgromadzenia, a za uchwałą opowiedziała się
 
-ADWÓK Ar
-Alicja Rychli basziebui:
+ADWOKAT
+
+Alicja Rychlicka-Ziepult
+
+5
 
 ## Strona 6
 
 zwykła większość członków obecnych na obydwu częściach Walnego
 Zgromadzenia, za wyjątkiem uchwał, o których mowa w ust. 3 oraz 4.
 
-. Wybór i odwołanie członków Rady Nadzorczej dokonany jest poprzez
+3. Wybór i odwołanie członków Rady Nadzorczej dokonany jest poprzez
 podjęcie uchwały na właściwej części Walnego Zgromadzenia.
 
-.. W sprawach:
+4. W sprawach:
 
 a) likwidacji spółdzielni,
 
@@ -299,13 +310,13 @@ Walnego Zgromadzenia, na których uchwała była poddana pod
 głosowanie, uczestniczyła łącznie co najmniej połowa ogólnej liczby
 członków.
 
-. Podjęcie uchwały w sprawie udzielenia Zarządowi absolutorium odbywa
+5. Podjęcie uchwały w sprawie udzielenia Zarządowi absolutorium odbywa
 się po rozpatrzeniu sprawozdania z działalności Zarządu oraz
 sprawozdania i wniosków Rady Nadzorczej.
 
-$11
+§ 11
 
-. Przewodniczący Walnego Zgromadzenia przedstawia sprawę
+1. Przewodniczący Walnego Zgromadzenia przedstawia sprawę
 zamieszczoną w porządku obrad i otwiera dyskusję udzielając głosu w
 kolejności zgłoszeń.
 
@@ -315,24 +326,26 @@ podaniem imienia i nazwiska.
 Za zgodą większości członków, dyskusja może być przeprowadzona nad
 kilku punktami porządku obrad łącznie.
 
-. Członkom Zarządu i Rady Nadzorczej oraz przedstawicielom jednostek
+2. Członkom Zarządu i Rady Nadzorczej oraz przedstawicielom jednostek
 organizacyjnych, w których Spółdzielnia jest zrzeszona przewodniczący
 może udzielić głosu poza kolejnością.
 
-. Przewodniczący ma prawo zwrócić uwagę mówcy, który odbiega od
+3. Przewodniczący ma prawo zwrócić uwagę mówcy, który odbiega od
 tematu dyskusji lub przekracza czas ustalony dla wystąpień.
 
-„Nie stosującym się do uwag, przewodniczący może odebrać głos, chyba,
+Nie stosującym się do uwag, przewodniczący może odebrać głos, chyba,
 że członkowie postanowią inaczej. Jeżeli mówca nie mieści się w limicie
 czasu, o dalszym przedłużeniu wystąpienia decydują członkowie.
 Przewodniczący może odmówić udzielenia głosu osobie, która w danej
 sprawie już przemawiała chyba, że uczestnicy obrad postanowią inaczej.
 
-. W sprawach formalnych przewodniczący udziela głosu poza kolejnością.
+4. W sprawach formalnych przewodniczący udziela głosu poza kolejnością.
 
-pljy
+ADWOKAT
+
+Alicja Rychlicka-Ziepult
+
 6
-usp lick Are s
 
 ## Strona 7
 
@@ -359,7 +372,7 @@ do prezydium Zebrania.
 7. Zarządzenie przewodniczącego w sprawach porządkowych może być
 uchylone przez członków w drodze głosowania.
 
-512
+§ 12
 
 1. Po zamknięciu dyskusji i wysłuchaniu odpowiedzi referenta,
 przewodniczący poddaje pod głosowanie wnioski, przestrzegając zasady,
@@ -369,12 +382,12 @@ aby wnioski najdalej idące były głosowane w pierwszej kolejności.
 wiadomości, jakie wnioski wpłynęły i ustala kolejność głosowania.
 Poprawki do wniosku głównego głosuje się przed wnioskiem.
 
-$ 13
+§ 13
 
 Po wyczerpaniu wszystkich spraw zamieszczonych w porządku obrad
 przewodniczący ogłasza zamknięcie Zebrania.
 
-$ 14
+§ 14
 
 1. Uchwały Walnego Zgromadzenia obowiązują wszystkich członków
 Spółdzielni .
@@ -390,29 +403,33 @@ Zgromadzenia, jeżeli zaś powództwo wnosi członek nieobecny na
 Walnym Zgromadzeniu na skutek jego wadliwego zwołania — w ciągu
 sześciu tygodni od dnia powzięcia wiadomości przez tego członka o
 
-Alicjajkychjic (Cz, t 7
+ADWOKAT
+
+Alicja Rychlicka-Ziepult
+
+7
 
 ## Strona 8
 
 uchwale, nie później jednak niż przed upływem roku od dnia odbycia
 Walnego Zgromadzenia.
 
-. Prawo zaskarżenia uchwały w sprawie wykluczenia lub wykreślenia
+4. Prawo zaskarżenia uchwały w sprawie wykluczenia lub wykreślenia
 przysługuje wyłącznie członkowi, którego uchwała dotyczy.
 
-$ 15
-. Zakończenie każdej części obrad Walnego Zgromadzenia następuje:
+§ 15
+1. Zakończenie każdej części obrad Walnego Zgromadzenia następuje:
 
 1) po wyczerpaniu porządku obrad,
 2) gdy dana część obrad Walnego Zgromadzenia podejmie uchwałę o
 zakończeniu obrad mimo nie wyczerpania porządku obrad.
 
-. Po zakończeniu każdej części Walnego Zgromadzenia jego prezydium
+2. Po zakończeniu każdej części Walnego Zgromadzenia jego prezydium
 przekazuje przewodniczącemu Rady Nadzorczej wyniki głosowań z tej
 części obrad Walnego Zgromadzenia oraz protokoły powołanych na tej
 części obrad Komisji.
 
-„ Na ostatniej części obrad Walnego Zgromadzenia przewodniczący Rady
+3. Na ostatniej części obrad Walnego Zgromadzenia przewodniczący Rady
 Nadzorczej przekazuje prezydium tej części Walnego Zgromadzenia
 wyniki głosowań i treść podjętych uchwał i protokoły, o których mowa w
 ust. 2. W trakcie głosowań podlicza się najpierw głosy oddane na
@@ -422,7 +439,7 @@ Zgromadzenia sumuje głosy oddane na wszystkich częściach Walnego
 Zgromadzenia i podaje się do wiadomości obecnych członków łączne
 wyniki głosowań.
 
-. W protokole z ostatniej części Walnego Zgromadzenia wskazuje się,
+4. W protokole z ostatniej części Walnego Zgromadzenia wskazuje się,
 
 które uchwały zostały podjęte, a które nie, w przypadku wyborów do
 
@@ -435,18 +452,23 @@ Nadzorczej członków wraz z wynikami głosowań. Protokół ten oraz
 uchwały przyjęte przez Walne Zgromadzenie podpisują przewodniczący i
 sekretarz tej części obrad Walnego Zgromadzenia.
 
-. Przyjęte uchwały Walnego Zgromadzenia podaje się do wiadomości
+5. Przyjęte uchwały Walnego Zgromadzenia podaje się do wiadomości
 wszystkich członków Spółdzielni w terminie 7 dni od dnia zakończenia
 ostatniej części obrad Walnego Zgromadzenia poprzez wywieszenie ich
 treści na tablicy ogłoszeń przed siedzibą Spółdzielni oraz na tablicach
 ogłoszeń w poszczególnych budynkach mieszkalnych.
 
+ADWOKAT
+
+Alicja Rychlicka-Ziepult
+
+8
+
 ## Strona 9
 
-VI.
+VI. WYBÓR I ODWOŁANIE CZŁONKÓW RADY NADZORCZEJ
 
-WYBÓR I ODWOŁANIE CZŁONKÓW RADY NADZORCZEJ
-$ 16
+§ 16
 
 1. Rada Nadzorcza składa się od 8 do 12 członków.
 
@@ -475,7 +497,7 @@ Zgłoszenie pisemne winno być złożone w siedzibie Spółdzielni w
 terminie najpóźniej 7 dni przed pierwszą częścią Walnego Zgromadzenia.
 
 Zgłoszenie winno zawierać imiona i nazwisko kandydata, jego miejsce
-zamieszkania oraz krótkie uzasadnienie zgłoszenia, a także imię 1
+zamieszkania oraz krótkie uzasadnienie zgłoszenia, a także imię i
 nazwisko oraz adres zgłaszającego.
 
 Załącznikiem do zgłoszenia winno być własnoręcznie podpisane
@@ -484,48 +506,50 @@ oświadczenie o wyrażeniu zgody na kandydowanie.
 Kandydaci winni być obecni na części Walnego Zgromadzenia, z której
 są zgłaszani. Usprawiedliwiona nieobecność kandydata w przypadku
 
-_ wyrażenia przez niego zgody na kandydowanie na części Walnego
+wyrażenia przez niego zgody na kandydowanie na części Walnego
 
 Zgromadzenia, na której jest wybierany nie wyklucza możliwości jego
 wyboru.
 
-. Jeżeli członkiem Spółdzielni jest osoba prawna, do Rady Nadzorczej
+5. Jeżeli członkiem Spółdzielni jest osoba prawna, do Rady Nadzorczej
 
 może być wybrana osoba nie będąca członkiem Spółdzielni,
 upełnomocniona przez osobę prawną.
 
-. Kadencja Rady Nadzorczej wynosi 3 lata i trwa od Walnego
+6. Kadencja Rady Nadzorczej wynosi 3 lata i trwa od Walnego
 
 Zgromadzenia, na którym Rada została wybrana do Walnego
 Zgromadzenia , które dokona wyboru Rady na następną kadencję.
 
-A
+ADWOKAT
 
-Alicja Rytfilijcka-Sjepult
+Alicja Rychlicka-Ziepult
+
+9
 
 ## Strona 10
 
-$ 17
+§ 17
 
-. Członkowie Rady Nadzorczej wybierani są w głosowaniu tajnym spośród
+1. Członkowie Rady Nadzorczej wybierani są w głosowaniu tajnym spośród
 członków Spółdzielni.
 
-„ Głosowanie odbywa się przy pomocy karty wyborczej przez złożenie kart
+2. Głosowanie odbywa się przy pomocy karty wyborczej przez złożenie kart
 wyborczych do urny w obecności komisji mandatowo- skrutacyjnej.
 
-„ Głosujący skreśla nazwiska kandydatów, na których nie głosuje.
+3. Głosujący skreśla nazwiska kandydatów, na których nie głosuje.
 
-. Głos jest ważny, jeżeli został oddany za pomocą karty wyborczej, a
+4. Głos jest ważny, jeżeli został oddany za pomocą karty wyborczej, a
 liczba nie skreślonych kandydatów do Rady Nadzorczej jest mniejsza lub
 równa liczbie miejsc w Radzie. Kartę wyborczą oddaną bez skreśleń
 uważa się za głos nieważny, jeżeli liczba nie skreślonych na niej
 kandydatów przekracza liczbę miejsc w Radzie.
 
-. Ilość głosów oddanych na poszczególnych kandydatów oblicza komisja
+5. Ilość głosów oddanych na poszczególnych kandydatów oblicza komisja
 mandatowo — skrutacyjna, a przewodniczący komisji ogłasza wyniki
 głosowania.
 
-. Członkami Rady Nadzorczej zostają kandydaci, którzy w I turze
+6. Członkami Rady Nadzorczej zostają kandydaci, którzy w I turze
 wyborów otrzymali co najmniej 50% oddanych głosów + 1 osoba.
 
 Jeżeli w I turze wyborów nie zostały obsadzone wszystkie miejsca,
@@ -536,22 +560,24 @@ mniej niż 50%.
 
 Członkami Rady Nadzorczej zostają kandydaci wybrani w I turze
 wyborów oraz kandydaci, którzy w II turze otrzymali kolejno największą
-liczbę oddanych głosów. |
+liczbę oddanych głosów.
 
-. Jeżeli w wyniku wyborów dwóch lub więcej kandydatów uzyska równą
+7. Jeżeli w wyniku wyborów dwóch lub więcej kandydatów uzyska równą
 liczbę głosów i spowoduje to przekroczenie liczby członków Rady,
 zarządza się wybory uzupełniające między tymi kandydatami, wg wyżej
-_ wymienionych zasad.
+wymienionych zasad.
 
-$ 18
+§ 18
 
-„ Mandat członka Rady Nadzorczej wygasa z chwila wyboru członka na
+1. Mandat członka Rady Nadzorczej wygasa z chwilą wyboru członka na
 następną kadencję.
 
-. Nie można być członkiem Rady Nadzorczej dłużej niż przez 2 kolejne
+2. Nie można być członkiem Rady Nadzorczej dłużej niż przez 2 kolejne
 kadencje Rady Nadzorczej.
 
-Atjlja Ryghli ka-Ziepult
+ADWOKAT
+
+Alicja Rychlicka-Ziepult
 
 10
 
@@ -561,7 +587,7 @@ Atjlja Ryghli ka-Ziepult
 Uchwała w sprawie wyboru takiej osoby do Rady Nadzorczej jest
 nieważna.
 
-$ 19
+§ 19
 1. Utrata mandatu przed upływem kadencji następuje w przypadkach:
 
 1) odwołania większością 2/3 głosów członków biorących udział w
@@ -585,27 +611,30 @@ ust. 1 pkt. 2 - 5 wymaga zwykłej większości głosów.
 
 VII. POSTANOWIENIA KOŃCOWE
 
-g 20
+§ 20
 
 Sprawy dotyczące sposobu obradowania, nie objęte niniejszym regulaminem
 rozstrzyga prezydium zgodnie z przyjętymi ogólnie zasadami obradowania.
 
-321
+§ 21
 
 1. Z obrad każdej części obrad Walnego Zgromadzenia sporządza się
 protokół, który podpisują przewodniczący i sekretarz danej części
 Walnego Zgromadzenia.
 
 2. Protokół powinien zawierać datę, porządek obrad, skład prezydium,
-krótka relację z przebiegu zebrania, treść wniosków poddanych pod
+krótką relację z przebiegu zebrania, treść wniosków poddanych pod
 głosowanie i wyniki głosowania, treść podjętych uchwał, dane liczbowe
 odnoszące się do przyjętych bilansów oraz planów działalności.
 Przy uchwałach należy podawać liczbę oddanych głosów za i przeciw.
 Załączniki do protokołu stanowią: listy obecności, teksty podjętych
 uchwał, protokoły komisji.
 
-Alicja Rilch|icka-Ziepult
-| 11
+ADWOKAT
+
+Alicja Rychlicka-Ziepult
+
+11
 
 ## Strona 12
 
@@ -628,61 +657,65 @@ następne Walne Zgromadzenie danej części członków.
 7. Protokóły z obrad Walnego Zgromadzenia przechowuje Zarząd
 Spółdzielni co najmniej przez 10 lat.
 
-$ 22
+§ 22
 
 1. Regulamin został uchwalony przez Walne Zgromadzenie SM „Doły -
 Marysińska” w dniu 16.06.2011r. i wszedł w życie z dniem uchwalenia.
 
 2. Traci moc Regulamin Zebrania Przedstawicieli Spółdzielni
-Mieszkaniowej „Doły — Marysińska” z,dnia 26.06.2003r. wraz ze
+Mieszkaniowej „Doły — Marysińska” z dnia 26.06.2003r. wraz ze
 zmianami.
-GerperAPJZ W GO ZGROMAJZENIA
 
-JNCZY
-jr
+ADWOKAT
 
-ADEVSZ RAJPOLV ]
+Alicja Rychlicka-Ziepult
 
-PRZEWODNICZRĘCY WALNEGO ZGROMADZENIA
+SEKRETARZ WALNEGO ZGROMADZENIA
 
-Z
+/ TADEUSZ RAJPOLD /
 
-/ BNÓR picoń/
+PRZEWODNICZĄCY WALNEGO ZGROMADZENIA
+
+/ ANNA PIGOŃ /
 
 12
 
 ## Strona 13
 
-Uchwała Nr ..... ALA SER
+Uchwała Nr ..... 1/11 .....
 Walnego Zgromadzenia S. M. „Doły-Marysińska” w Łodzi
 z dnia 16.06.2011r.
 
 w sprawie : Uchwalenia Regulaminu Walnego Zgromadzenia w Spółdzielni
 Mieszkaniowej „, Doły - Marysińska”
 
-Na podstawie $ 36 pkt 15 oraz $ 35 ust3 i 4 statutu Spółdzielni , Walne Zgromadzenie
+Na podstawie § 36 pkt 15 oraz § 35 ust 3 i 4 statutu Spółdzielni , Walne Zgromadzenie
 
 postanawia:
-$1
+§ 1
 1. Uchylić Regulamin Zebrania Przedstawicieli S. M. „Doły — Marysińska w Łodzi,
 uchwalony przez Zebranie Przedstawicieli 26.06.2003r.
-2.
-
-Uchwalić Regulamin Walnego Zgromadzenia w Spółdzielni Mieszkaniowej „Doły
+2. Uchwalić Regulamin Walnego Zgromadzenia w Spółdzielni Mieszkaniowej „Doły
 —  Marysińska „ w Łodzi w brzmieniu stanowiącym załącznik do uchwały.
 
-$2
+§ 2
 
 Regulamin wchodzi w życie z dniem uchwalenia
 
-za uchwałą oddano łącznie 93. głosów
+za uchwałą oddano łącznie 95 głosów
 
-przeciw uchwale oddano łącznie db głosów
+przeciw uchwale oddano łącznie 2 głosów
 
-etarz Przewodniczący
-ne AU Walnego Zgromadzenia
+Sekretarz
+Walnego Zgromadzenia
 
-w)
-j TADEUL RA]JPOLD/
+/ TADEUSZ RAJPOLD /
 
-/ANNA PIGON /
+Przewodniczący
+Walnego Zgromadzenia
+
+/ ANNA PIGOŃ /
+
+ADWOKAT
+
+Alicja Rychlicka-Ziepult

@@ -8,6 +8,10 @@ Regulamin
 
 Rady Nadzorczej Spółdzielni Mieszkaniowej "Doły -Marysińska" w Łodzi
 
+I. PODSTAWY I ZAKRES DZIAŁANIA
+
+§ 1
+
 Rada Nadzorcza działa na podstawie:
 
 1/ ustawy z dnia 16.09.1982r. Prawo spółdzielcze (tekst jednolity Dz. U. z 2003r. r. nr 188
@@ -20,18 +24,21 @@ poz. 1848 z późniejszymi zmianami)
 
 4/ niniejszego regulaminu.
 
-$2
+§ 2
 Do zakresu działania Rady Nadzorczej zwanej dalej Radą należy wykonywanie zadań
-określonych w $ 49 statutu Spółdzielni.
+określonych w § 49 statutu Spółdzielni.
 
-53
+
+II. SKŁAD RADY
+
+§ 3
 1. Rada składa się od 8 do 12 członków wybranych przez Walne Zgromadzenie, przy czym z
 każdego osiedla bez względu na występującą w danym osiedlu ilość członków,
 wybieranych jest od 4 do 6 członków Rady. Obowiązuje zasada równej ilości członków
 Rady z każdego osiedla.
 2. Wybór i odwołanie członków Rady określa Regulamin Walnego Zgromadzenia.
 
-$ 4
+§ 4
 
 1. Rada wybiera ze swego grona prezydium Rady, w skład którego wchodzą:
 przewodniczący, jego zastępca, sekretarz oraz przewodniczący stałych komisji Rady.
@@ -46,15 +53,15 @@ głosowaniu tajnym.
 Walnego Zgromadzenia.
 
 5. Zadaniem prezydium Rady jest kierowanie pracą Rady i koordynowanie działalności
-komisji, zgodnie z postanowieniami $ 15 niniejszego regulaminu.
+komisji, zgodnie z postanowieniami § 15 niniejszego regulaminu.
 
-A
+ADWOKAT
 
-icja Rydhli 1 lt JĄ
+Alicja Rychlicka-Ziepult
 
 ## Strona 2
 
-35
+§ 5
 1. Rada powołuje ze swego grona komisję rewizyjną oraz inne stałe komisje, a także
 dokonuje wyboru przewodniczącego komisji.
 2. Rada może powołać w miarę potrzeby komisje czasowe, dokonując wyboru
@@ -62,12 +69,16 @@ przewodniczącego tych komisji.
 3. Do składu komisji mogą być włączone przez Radę osoby nie będące członkami Rady.
 Postanowienie to nie dotyczy komisji rewizyjnej.
 
-$6
+§ 6
 1. W posiedzeniach Rady biorą udział z głosem decydującym członkowie Rady.
 2. W posiedzeniach Rady, jej prezydium oraz komisji mogą uczestniczyć z głosem
 doradczym członkowie Zarządu oraz inne zaproszone osoby.
 
-$ 7
+III. ORGANIZACJA PRACY RADY
+
+A. Rada Nadzorcza
+
+§ 7
 
 Rada realizuje swoje zadania statutowo:
 1/ na posiedzeniach Rady
@@ -78,7 +89,7 @@ Rada realizuje swoje zadania statutowo:
 
 4/ poprzez czynności kontrolno-nadzorcze.
 
-$8
+§ 8
 
 1. Posiedzenia Rady zwołuje przewodniczący Rady lub - w razie jego nieobecności -
 zastępca przewodniczącego.
@@ -91,7 +102,7 @@ prowadzenie, celem dokonania wyboru prezydium Rady.
 3. Posiedzenie Rady powinno być zwołane na wniosek 1/3 członków Rady lub na
 wniosek Zarządu w terminie 4 tygodni od dnia zgłoszenia wniosku.
 
-59
+§ 9
 
 1. Zawiadomienia o terminie posiedzenia Rady wraz z porządkiem obrad powinny być
 doręczone członkom Rady, Zarządowi i zaproszonym osobom w formie pisemnej co
@@ -105,12 +116,12 @@ być rozpatrzone przez Radę.
 3. Jeżeli w porządku obrad znajduje się sprawa dot. wykluczenia lub wykreślenia członka z
 rejestru członków, o czasie i miejscu posiedzenia Rady, która ma podjąć decyzję w tej
 sprawie, powiadamia się zainteresowanego członka Spółdzielni co najmniej na 3 dni
-przed terminem z podaniem informacji o prawie członka do składania wyjaśnień. J! eżeli
+przed terminem z podaniem informacji o prawie członka do składania wyjaśnień. Jeżeli
 zainteresowany członek prawidłowo zawiadomiony o terminie posiedzenia listem
 poleconym lub za zwrotnym poświadczeniem odbioru lub za osobistym pokwitowaniem
 nie przybędzie na posiedzenie, Rada może rozpatrzyć sprawę bez jego udziału.
 
-5 10
+§ 10
 
 1. Rada może podejmować uchwały jedynie w sprawach objętych porządkiem obrad.
 
@@ -120,14 +131,14 @@ podaje do wiadomości członków Rady na posiedzeniu i poddaje go pod głosowani
 przed zatwierdzeniem porządku obrad. Na wniosek prezydium zgłoszony na
 posiedzeniu porządek obrad może być uzupełniony o inne pilne sprawy.
 
-$11
+§ 11
 
 1. Każdy członek Rady jest zobowiązany do udziału w posiedzeniach Rady i w pracach
 prezydium i komisji, do których został wybrany przez Radę.
 2. Praca w Radzie wykonywana jest społecznie i za jej wykonywanie nie przysługuje
 wynagrodzenie.
 
-$ 12
+§ 12
 
 1. Decyzje Rady zapadają w formie uchwał.
 
@@ -137,13 +148,13 @@ przewodniczącego lub jego zastępcy.
 3. Rada podejmuje uchwały zwykłą większością głosów członków obecnych na posiedzeniu.
 W wypadku równych ilości głosów, głosowanie należy powtórzyć.
 
-4. Przy obliczaniu większości głosów dla podjęcia uchwały uwzględnia się tylko głosy za 1
-przeciw uchwale. ,
+4. Przy obliczaniu większości głosów dla podjęcia uchwały uwzględnia się tylko głosy za i
+przeciw uchwale.
 
 5. Członek Rady nie bierze udziału w głosowaniu nad uchwałą w sprawie, która dotyczy go
 osobiście.
 
-5 13
+§ 13
 
 1. Rada podejmuje uchwały w głosowaniu jawnym.
 
@@ -156,11 +167,13 @@ Prezesa i jego zastępców.
 posiedzeniu.
 
 4. W istotnych dla Spółdzielni sprawach może być przeprowadzone głosowanie imienne.
-$ 14
+§ 14
 
 Rada może zasięgać opinii rzeczoznawców.
 
-$ 15
+B. Prezydium Rady
+
+§ 15
 
 1. Do obowiązków prezydium Rady należy:
 
@@ -183,7 +196,7 @@ Rady
 
 8/ wykonywanie innych prac zleconych przez Radę w zakresie organizowania pracy Rady.
 
-5 16
+§ 16
 
 1. Posiedzenie prezydium zwołuje przewodniczący Rady, a w razie nieobecności
 przewodniczącego jego zastępca.
@@ -191,20 +204,22 @@ przewodniczącego jego zastępca.
 2. Posiedzenia prezydium odbywają się w miarę potrzeby, a w szczególności przed
 posiedzeniami Rady.
 
-$ 17
+§ 17
 
-Postanowienia $$ 12, 13 ust. 1, 3i4oraz $ 14 niniejszego regulaminu stosuje się
+Postanowienia §§ 12, 13 ust. 1, 3 i 4 oraz § 14 niniejszego regulaminu stosuje się
 odpowiednio.
 
-C. Komisje Rądy
+C. Komisje Rady
 
-5 18
+§ 18
 
 1. Rada Nadzorca powołuje stałe komisje: rewizyjną, g.z.m. i regulaminową.
 2. Komisje Rady działają w zakresie ustalonym przez Radę.
 3. Członkowie komisji wybierani są na okres kadencji Rady.
 
-Alicja Jychiickh-Ziepuli
+ADWOKAT
+
+Alicja Rychlicka-Ziepult
 
 ## Strona 5
 
@@ -212,24 +227,24 @@ Alicja Jychiickh-Ziepuli
 określa Regulamin stałych komisji Rady Nadzorczej w SM „Doły — Marysińska” w Łodzi,
 uchwalony przez Radę Nadzorczą.
 
-5 19
+§ 19
 
 1. Rada może dokonać zmian w składach komisji, a także dokooptować członków Spółdzielni
-nie wchodzących w skład Rady, z wyjątkiem określonym w $ 5 ust. 3 zdanie 2.
+nie wchodzących w skład Rady, z wyjątkiem określonym w § 5 ust. 3 zdanie 2.
 2. Członkowie dokooptowani mają głos doradczy.
 
-$ 20
+§ 20
 
 1. Członek powołany jednocześnie do dwóch komisji może być przewodniczącym tylko
-„jednej z nich.
+jednej z nich.
 2. Członkowie komisji rewizyjnej nie mogą wchodzić w skład innych komisji stałych Rady.
 
-$21
+§ 21
 
 Powołując komisję czasową dla określonej sprawy, Rada wybiera jej członków w liczbie
 przez siebie określonej.
 
-5 22
+§ 22
 
 1. Pracami komisji kierują jej przewodniczący, a w razie nieobecności sekretarz.
 
@@ -240,7 +255,9 @@ uchwał przez Radę.
 
 4. Sprawozdania i wnioski komisji rozpatruje Rada.
 
-$ 23
+IV. WYBORY CZŁONKÓW ZARZĄDU
+
+§ 23
 
 1. Rada wybiera członków Zarządu z nieograniczonej liczby kandydatów
 
@@ -272,12 +289,14 @@ największą liczbę głosów.
 W przypadku równej liczby głosów, powodującej przekroczenie ustalonej w statucie
 liczebności Zarządu, głosowanie należy powtórzyć.
 
-$ 24
+V. POSTANOWIENIA KOŃCOWE
+
+§ 24
 
 Rada zobowiązana jest do udzielenia odpowiedzi na otrzymane skargi i wnioski członków
 Spółdzielni, w terminach przewidzianych prawem i statutem Spółdzielni.
 
-5 25
+§ 25
 
 1. Posiedzenia Rady są nagrywane i protokołowane. Protokół podlega przyjęciu na następnym
 posiedzeniu Rady.
@@ -291,11 +310,13 @@ posiedzeniu Rady.
 5. Nagrania posiedzeń przechowywane są przez rok od momentu przyjęcia protokołu przez
 Radę.
 
-$ 26
+§ 26
 
 W sprawach nie uregulowanych w niniejszym regulaminie decyduje Rada w granicach
 zakreślonych statutem Spółdzielni.
-$ 27
+
+§ 27
+
 1. Regulamin niniejszy został uchwalony przez Walne Zgromadzenie SM „Doły —
 Marysińska” w dniu 16.06.2011r. i wchodzi w życie z dniem uchwalenia.
 
@@ -303,17 +324,14 @@ Marysińska” w dniu 16.06.2011r. i wchodzi w życie z dniem uchwalenia.
 Marysińska” w Łodzi uchwalony przez Zebranie Przedstawicieli w dniu 10.10.1995r.
 wraz ze zmianami.
 
-PRIZEWODNI SZĄĘCJ
+SEKRETARZ PRZEWODNICZĄCY
+WALNEGO ZGROMADZENIA WALNEGO ZGROMADZENIA
 
-zZĄNI WALNEGO ZGAOMKDZENIAK
-(it (BAG
-
-I
-( TADEVs2 ŁicjPOLD ) (KN NP PIGON )
+(TADEUSZ RAJPOLD) (ANNA PIGOŃ)
 
 ## Strona 7
 
-Uchwała Nr 2 ( MM
+Uchwała Nr 3/2011
 
 Walnego Zgromadzenia S M „Doły-Marysińska” w Łodzi
 z dnia 16.06.2011r.
@@ -321,11 +339,11 @@ z dnia 16.06.2011r.
 w sprawie : Uchwalenia Regulaminu Rady Nadzorczej w Spółdzielni
 Mieszkaniowej „, Doły - Marysińska”
 
-Na podstawie $ 36 pkt 16 oraz $ 35 ust3i4 statutu Spółdzielni , Walne Zgromadzenie
+Na podstawie § 36 pkt 16 oraz § 35 ust. 3 i 4 statutu Spółdzielni , Walne Zgromadzenie
 
 postanawia:
 
-51
+§ 1
 
 1. Uchylić Regulamin Rady Nadzorczej S.M. „Doły — Marysińska w Łodzi,
 uchwalony przez Zebranie Przedstawicieli w dniu 10.10.1995r.
@@ -333,17 +351,15 @@ uchwalony przez Zebranie Przedstawicieli w dniu 10.10.1995r.
 2. Uchwalić Regulamin Rady Nadzorczej Spółdzielni Mieszkaniowej „Doły -
 Marysińska „, w Łodzi w brzmieniu stanowiącym załącznik do uchwały.
 
-$2
+§ 2
 
 Regulamin wchodzi w życie z dniem uchwalenia
 
-za uchwałą oddano łącznie 20. głosów
+za uchwałą oddano łącznie 99 głosów
 
-przeciw uchwale oddano łącznie „A... głosów
+przeciw uchwale oddano łącznie 1 głosów
 
- Sekretar Przewodniczący
-"Walnego Zgr LA pm Zgromadzenia
+Sekretarz Przewodniczący
+Walnego Zgromadzenia Walnego Zgromadzenia
 
-1(kDEU52 RAJ POLI
-
-ANNĄ <<
+(TADEUSZ RAJPOLD) (ANNA PIGOŃ)
