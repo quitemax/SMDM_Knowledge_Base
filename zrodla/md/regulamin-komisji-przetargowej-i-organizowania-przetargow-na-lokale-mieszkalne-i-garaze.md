@@ -1,17 +1,38 @@
-# regulamin-komisji-przetargowej-i-organizowania-przetargow-na-lokale-mieszkalne-i-garaze
+# Regulamin działania Komisji przetargowej oraz zasad organizowania przetargu na lokale mieszkalne i garaże w SM „Doły — Marysińska”
 
-> **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).
+## Spis treści
 
-## Strona 1
+- [I. Postanowienia ogólne](#dzial-1)
+  - [§ 1](#par-1)
+  - [§ 2](#par-2)
+  - [§ 3](#par-3)
+  - [§ 4](#par-4)
+- [II. Komisja przetargowa](#dzial-2)
+  - [§ 5](#par-5)
+  - [§ 6](#par-6)
+  - [§ 7](#par-7)
+- [III. Organizowanie przetargów](#dzial-3)
+  - [§ 8](#par-8)
+  - [§ 9](#par-9)
+  - [§ 10](#par-10)
+  - [§ 11](#par-11)
+- [IV. Przebieg przetargu](#dzial-4)
+  - [§ 12](#par-12)
+- [V. Postanowienia końcowe](#dzial-5)
+  - [§ 13](#par-13)
+  - [§ 14](#par-14)
+  - [§ 15](#par-15)
+  - [§ 16](#par-16)
+  - [§ 17](#par-17)
+  - [§ 18](#par-18)
+  - [§ 19](#par-19)
 
-Regulamin
+<a id="dzial-1"></a>
+## I. Postanowienia ogólne
 
-działania Komisji przetargowej oraz zasad organizowania przetargu na
-lokale mieszkalne i garaże w SM „Doły — Marysińska”.
+<a id="par-1"></a>
+### § 1
 
-1. POSTANOWIENIA OGÓLNE
-
-§ 1
 1. Przedmiotem przetargu jest ustanowienie odrębnej własności lokali mieszkalnych i
 garaży odzyskanych oraz postawionych do dyspozycji Spółdzielni w wyniku:
 1) ustania członkostwa i wygaśnięcia prawa do lokalu,
@@ -20,24 +41,31 @@ garaży odzyskanych oraz postawionych do dyspozycji Spółdzielni w wyniku:
 mieszkalnego, Spółdzielnia organizuje przetarg w formie licytacji ustnej.
 3. Przetarg ma na celu uzyskanie najwyższej ceny.
 
-§ 2
+<a id="par-2"></a>
+### § 2
 
 Przetarg na garaże odbywa się na tych samych zasadach jak na lokale mieszkalne.
 
-§ 3
+<a id="par-3"></a>
+### § 3
 
 W przetargu mogą uczestniczyć osoby fizyczne i prawne.
 
-§ 4
+<a id="par-4"></a>
+### § 4
+
 1. Przetargi przeprowadza Komisja przetargowa zwana dalej „Komisją”.
 2. W przetargu nie mogą uczestniczyć osoby będące w składzie Komisji oraz członkowie
 ich rodzin.
 
-II. KOMISJA PRZETARGOWA
+<a id="dzial-2"></a>
+## II. Komisja przetargowa
 
 Skład, zakres działania, uprawnień i odpowiedzialności
 
-§ 5
+<a id="par-5"></a>
+### § 5
+
 1. Komisja powoływana jest uchwałą przez Zarząd Spółdzielni.
 2. Komisja działa w składzie co najmniej 3 osób.
 W skład Komisji wchodzą:
@@ -53,20 +81,17 @@ wykonywania czynności Komisji niż określeni w ust. 2.
 5. W posiedzeniach Komisji w charakterze obserwatora może brać udział członek Rady
 Nadzorczej wybrany i upoważniony przez Radę.
 
-§ 6
+<a id="par-6"></a>
+### § 6
 
 Do zakresu działania Komisji należy:
-
-ADWOKAT
-Agnieszka Rychlicka
-
-## Strona 2
 
 1) czuwanie nad właściwym zorganizowaniem przetargu,
 2) przeprowadzenie przetargu,
 3) przekazanie Zarządowi Spółdzielni wyników przetargu.
 
-§ 7
+<a id="par-7"></a>
+### § 7
 
 Przewodniczący Komisji i jej członkowie
 
@@ -75,9 +100,12 @@ Przewodniczący Komisji i jej członkowie
 2) obowiązani są do przedstawiania Zarządowi Spółdzielni faktów i ocen wynikających z
 działalności Komisji. W imieniu Komisji występuje przewodniczący Komisji.
 
-III. ORGANIZOWANIE PRZETARGÓW
+<a id="dzial-3"></a>
+## III. Organizowanie przetargów
 
-§ 8
+<a id="par-8"></a>
+### § 8
+
 1. Przetarg organizowany jest przez Zarząd Spółdzielni, który określa:
 - lokale postawione do przetargu,
 - prawo do lokalu,
@@ -95,7 +123,9 @@ majątkowego,
 2) cena wywoławcza w drugim i następnych przetargach może być obniżona max o
 10% od ceny wywoławczej z poprzedniego przetargu.
 
-§ 9
+<a id="par-9"></a>
+### § 9
+
 1. Przetarg poprzedza ogłoszenie zamieszczone w prasie codziennej i na stronie
 internetowej Spółdzielni, a szczegółowa treść ogłoszenia zostaje wywieszona w
 siedzibie Zarządu Spółdzielni oraz w innych miejscach o dobrej widoczności,
@@ -114,12 +144,9 @@ przetargu upłynęło co najmniej 14 dni.
 mieszkalny, postępowanie przetargowe prowadzi się oddzielnie dla każdego z nich w
 kolejności uwidocznionej w ogłoszeniu przetargowym.
 
-ADWOKAT
-Agnieszka Rychlicka
+<a id="par-10"></a>
+### § 10
 
-## Strona 3
-
-§ 10
 1. Przystępujący do przetargu zobowiązany jest do wpłacenia wadium w terminie
 wskazanym w warunkach przetargu.
 2. Spółdzielnia dokonuje zwrotu wadium w terminie do pięciu dni roboczych:
@@ -130,14 +157,16 @@ które wygrały przetarg,
 - po wykluczeniu uczestnika z przetargu.
 3. Wadium wpłacone przez uczestnika, który wygrał przetarg zalicza się na poczet
 wylicytowanej ceny.
-4. Wadium ulega przepadkowi w razie rezygnacji z ubiegania się o ustanowienieprawa
+4. Wadium ulega przepadkowi w razie rezygnacji z ubiegania się o ustanowienie prawa
 do lokalu lub uchylenie się oferenta, który przetarg wygrał od wpłacenia w terminie
 30 dni od dnia przetargu wylicytowanej ceny oraz załatwienia spraw związanych z
 ustanowieniem prawa do mieszkania.
 5. W szczególnie uzasadnionych przypadkach Zarząd może podjąć decyzję o
 przesunięciu terminu wpłaty wylicytowanej ceny.
 
-§ 11
+<a id="par-11"></a>
+### § 11
+
 1. Spółdzielnia dopuszcza udział na przetargu poprzez pełnomocnika na podstawie
 pełnomocnictwa notarialnego.
 2. W sali, w której odbywa się przetarg mają prawo przebywać tylko członkowie
@@ -149,9 +178,12 @@ zawartych w niniejszym Regulaminie oraz w ogłoszeniu przetargowym.
 W momencie dostarczenia dowodu wpłaty wadium, składają oświadczenie, że znany
 jest im stan techniczny i prawny lokalu postawionego do przetargu.
 
-IV. PRZEBIEG PRZETARGU
+<a id="dzial-4"></a>
+## IV. Przebieg przetargu
 
-§ 12
+<a id="par-12"></a>
+### § 12
+
 1. Przetarg jest ważny przy minimum dwóch uczestnikach przetargu, z których jeden
 zaoferował cenę wyższą od wywoławczej, przynajmniej o jedno postąpienie.
 2. Przed rozpoczęciem postępowania przetargowego uczestnicy przetargu podpisują listę
@@ -170,29 +202,23 @@ ręki w górę z trzymaną w niej kartą uczestnika. Kartę należy trzymać w t
 aby widniejący na niej numer był widoczny dla członków Komisji.
 7. Po wskazaniu i wywołaniu przez Przewodniczącego Komisji przebicia danej osoby,
 osoba ta zobowiązana jest niezwłocznie opuścić rękę.
-
-ADWOKAT
-Agnieszka Rychlicka
-
-## Strona 4
-
 8. Przetarg jest skuteczny po ustaniu postąpień i trzykrotnym wywołaniu przez
 Przewodniczącego Komisji zaoferowanej najwyższej ceny i dokonaniu przez niego
 przybicia.
-
 9. Moment przybicia przez Przewodniczącego Komisji jest równoznaczny z
 zamknięciem przetargu i zbyciem przedmiotu przetargu, co Przewodniczący Komisji
 ogłasza potwierdzając wysokość ceny nabycia i nr karty uczestnika wygrywającego
 przetarg.
-
 10. Podczas licytacji obowiązuje cisza, w celu rzetelnego przeprowadzenia licytacji.
-
 11. Nie dozwolone jest zabieranie głosu przez uczestników przetargu, przerywanie
 licytacji, pod rygorem wykluczenia takiego uczestnika z przetargu.
 
-V. POSTANOWIENIA KOŃCOWE
+<a id="dzial-5"></a>
+## V. Postanowienia końcowe
 
-§ 13
+<a id="par-13"></a>
+### § 13
+
 Komisja sporządza i przedkłada Zarządowi Spółdzielni protokół z przebiegu przetargu,
 który winien zawierać m. innymi:
 - oznaczenie miejsca i czasu przetargu,
@@ -207,16 +233,22 @@ osoby, która wygrała przetarg,
 - wnioski i oświadczenia osób obecnych przy przetargu,
 - podpisy członków Komisji.
 
-§ 14
+<a id="par-14"></a>
+### § 14
+
 Zarząd Spółdzielni posiada prawo odstąpienia od przetargu i unieważnienia przetargu bez
 podania przyczyn, przed rozpoczęciem licytacji.
 
-§ 15
+<a id="par-15"></a>
+### § 15
+
 W przypadku zgłoszenia przez osobę, która przetarg wygrała rezygnacji z ubiegania się o
 ustanowienie prawa do lokalu, Zarząd Spółdzielni zobowiązany jest do natychmiastowego
 podjęcia działań w celu zorganizowania ponownego przetargu.
 
-§ 16
+<a id="par-16"></a>
+### § 16
+
 1. W przypadku zawierania aktu notarialnego strony przystępują do jego sporządzenia w
 terminie wspólnie uzgodnionym, po spełnieniu przez licytanta wszystkich warunków
 przetargu.
@@ -224,17 +256,16 @@ przetargu.
 wieczystoksięgowym obciążają osobę lub osoby, na rzecz których ustanawiane jest
 prawo.
 
-§ 17
+<a id="par-17"></a>
+### § 17
+
 Zarząd Spółdzielni zobowiązany jest do bieżącego informowania Rady Nadzorczej o
 podejmowanych decyzjach w sprawach zagospodarowania lokali mieszkalnych
 postawionych do dyspozycji Spółdzielni.
 
-ADWOKAT
-Agnieszka Rychlicka
+<a id="par-18"></a>
+### § 18
 
-## Strona 5
-
-§ 18
 Osobie uprawnionej Spółdzielnia zwraca wartość rynkową lokalu uzyskaną w przetargu.
 po potrąceniu:
 1) zaległych opłat wraz z odsetkami naliczonymi do dnia zbycia lokalu,
@@ -245,53 +276,9 @@ dezynsekcję.
 5) kosztów organizacji przetargu zgodnie z uchwałą Zarządu Spółdzielni,
 6) inne koszty obciążające lokal.
 
-§ 19
-1. Regulamin został uchwalony przez Radę Nadzorczą uchwałą nr [nieczytelne] /R/19 z dnia
-[nieczytelne] i wchodzi w życie z dniem uchwalenia.
-2. Traci moc Regulamin uchwalony przez Radę Nadzorczą uchwałą nr 4 /R/11 z dnia
+<a id="par-19"></a>
+### § 19
 
-22.02.2011 r. ze zmianami uchwalonymi przez Radę Nadzorczą uchwałą nr 20 /R/16 z
-dnia 07.06.2016 r.
-
-SEKRETARZ                    PRZEWODNICZĄCY
-RADY NADZORCZEJ              RADY NADZORCZEJ
-
-Helena Rajpold                Wojciech Kołodziejczak
-
-ADWOKAT
-Agnieszka Rychlicka
-
-## Strona 6
-
-
-
-## Strona 7
-
-Uchwała Nr [nieczytelne] /R/19
-Rady Nadzorczej SM „Doły-Marysińska” w Łodzi
-z dnia 17.09.2019 r.
-
-Rada Nadzorcza działając na podstawie § 49 ust. 1 pkt 17 statutu Spółdzielni
-
-postanowiła
-
-1. uchwalić Regulamin działania Komisji przetargowej oraz zasad organizowania przetargu na
-lokale mieszkalne i garaże w SM „Doły – Marysińska”, w brzmieniu stanowiącym
-załącznik do niniejszej uchwały
-
-2. uchwała wchodzi w życie z dniem uchwalenia
-
-3. traci moc uchwała nr 4/R/11 z dnia 22.02.2011 r. ze zmianami uchwalonymi przez Radę
-Nadzorczą uchwałą nr 20/R/16 z dnia 07.06.2016 r.
-
-SEKRETARZ                    PRZEWODNICZĄCY
-RADY NADZORCZEJ              RADY NADZORCZEJ
-
-Helena Rajpold                Wojciech Kołodziejczak
-
-ADWOKAT
-Agnieszka Rychlicka
-
-## Strona 8
-
-[Odręczna lista obiegowa z inicjałami i podpisami — nieczytelna]
+1. Regulamin został uchwalony przez Radę Nadzorczą i wchodzi w życie z dniem
+uchwalenia.
+2. Traci moc poprzedni Regulamin uchwalony przez Radę Nadzorczą, wraz ze zmianami.
