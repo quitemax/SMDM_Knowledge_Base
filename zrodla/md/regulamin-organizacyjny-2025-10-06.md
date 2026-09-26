@@ -1,109 +1,94 @@
-# regulamin-organizacyjny-2025-10-06
+# Regulamin Organizacyjny w Spółdzielni Mieszkaniowej „Doły - Marysińska” w Łodzi
 
-> **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).
+*(tekst jednolity)*
 
-## Strona 1
+## Spis treści
 
-Uchwała Nr 36 /R/25
-Rady Nadzorczej SM „Doły-Marysińska” w Łodzi
-z dnia 06.10.2025 r.
+- [I. Postanowienia ogólne](#dzial-1)
+  - [§ 1](#par-1)
+- [II. Struktura organizacyjna Spółdzielni](#dzial-2)
+  - [§ 2](#par-2)
+  - [§ 3](#par-3)
+  - [§ 4](#par-4)
+  - [§ 5](#par-5)
+- [III. Zakresy działania poszczególnych stanowisk pracy](#dzial-3)
+  - [Pion Prezesa Zarządu](#pion-prezesa)
+    - [§ 6 — Prezes Zarządu (P)](#par-6)
+    - [§ 7 — Stanowisko ds. organizacyjno-samorządowych i polityki mieszkaniowej (PM)](#par-7)
+    - [§ 8 — Stanowisko ds. obsługi prawnej (PR)](#par-8)
+    - [§ 9 — Stanowisko ds. ochrony danych osobowych (PRO)](#par-9)
+    - [§ 10 — Stanowisko ds. pracowniczych i obsługi sekretariatu (PP)](#par-10)
+    - [§ 11 — Sprzątaczka - robotnik gospodarczy (PS)](#par-11)
+    - [§ 12 — Stanowisko ds. bhp i p.poż. (PB)](#par-12)
+  - [Pion Członka Zarządu Głównego Księgowego](#pion-glownego-ksiegowego)
+    - [§ 13 — Członek Zarządu Główny Księgowy (F)](#par-13)
+    - [§ 14 — Stanowisko ds. czynszów i windykacji (FC)](#par-14)
+    - [§ 15 — Stanowisko ds. finansowo-księgowych i płac (FK)](#par-15)
+    - [§ 16 — Stanowisko ds. finansowo-księgowych i rozliczeń wkładów (FR)](#par-16)
+  - [Pion Członka Zarządu ds. techniczno-eksploatacyjnych](#pion-techniczny)
+    - [§ 17 — Członek Zarządu ds. techniczno-eksploatacyjnych (T)](#par-17)
+    - [§ 18 — Stanowisko ds. nadzoru technicznego (TT)](#par-18)
+    - [§ 19 — Stanowisko ds. technicznych i regulacji stanów prawnych nieruchomości (TP)](#par-19)
+    - [§ 20 — Stanowisko ds. eksploatacyjno-administracyjnych (TA)](#par-20)
+    - [§ 21 — Stanowisko ds. eksploatacyjno-administracyjnych i nadzoru technicznego (TAT)](#par-21)
+    - [§ 22 — Stanowisko ds. transportu i magazynowania (TM)](#par-22)
+    - [§ 23 — Zespół remontowo-konserwacyjny (TK)](#par-23)
+    - [§ 24 — Gospodarze domów (TG)](#par-24)
+- [IV. Postanowienia końcowe](#dzial-4)
+  - [§ 25](#par-25)
+  - [§ 26](#par-26)
+  - [§ 27](#par-27)
+- [Załącznik — struktura organizacyjna](#zalacznik)
 
-Rada Nadzorcza działając na podstawie § 49 ust. 1 pkt 21 statutu Spółdzielni
+<a id="dzial-1"></a>
+## I. Postanowienia ogólne
 
-postanawia
-
-§1
-Uchwalić Regulamin Organizacyjny w Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
-w brzmieniu stanowiącym załącznik do niniejszej uchwały
-
-§2
-
-Uchwała wchodzi w życie z dniem uchwalenia.
-
-§3
-Traci moc Regulamin Organizacyjny wprowadzony uchwałą Rady Nadzorczej nr 50/R/20 z dnia
-24 listopada 2020 r. wraz ze zmianami uchwalonymi przez Radę Nadzorczą uchwałą nr 7/R/21
-z dnia 23 marca 2021 r., uchwałą nr 16/R/21 z dnia 27 kwietnia 2021 r., uchwałą nr 12/R/25 z dnia
-26 marca 2025 r.
-
-Wyniki głosowania:
-
-głosów „za” : 5
-głosów „przeciw” : 0
-głosów „wstrzymujących”: 1
-
-PRZEWODNICZĄCA RADY NADZORCZEJ
-Magdalena Banasiak
-
-SEKRETARZ RADY NADZORCZEJ
-Małgorzata Górska
-
-RADCA PRAWNY
-Maciej Czerw
-
-## Strona 2
-
-
-
-## Strona 3
-
-Regulamin Organizacyjny
-w Spółdzielni Mieszkaniowej "Doły - Marysińska" w Łodzi
-(tekst jednolity)
-
-I. POSTANOWIENIA OGÓLNE
-
-§ 1
+<a id="par-1"></a>
+### § 1
 
 1. Spółdzielnia Mieszkaniowa „Doły — Marysińska” jest spółdzielnią eksploatacyjną,
-
 prowadzącą gospodarkę zasobami mieszkaniowymi.
 
 2. Niniejszy regulamin jest wewnętrznym aktem prawnym regulującym zasady
-
 organizacji i działania poszczególnych stanowisk pracy.
 
 3. W zakresie ustalania stanowisk pracy, kwalifikacji i zasad wynagradzania
-pracowników mają zastosowanie postanowienia zawarte w Regulaminie
-wynagradzania Pracowników Spółdzielni Mieszkaniowej „Doły - Marysińska”.
+pracowników mają zastosowanie postanowienia zawarte w [Regulaminie
+wynagradzania Pracowników Spółdzielni Mieszkaniowej „Doły - Marysińska”](regulamin-wynagradzania-2024.md).
 
-II. STRUKTURA ORGANIZACYJNA SPÓŁDZIELNI
+<a id="dzial-2"></a>
+## II. Struktura organizacyjna Spółdzielni
 
-§ 2
+<a id="par-2"></a>
+### § 2
 
 1. Organami Spółdzielni są:
-
 1) Walne Zgromadzenie,
-
 2) Rada Nadzorcza,
-
 3) Zarząd.
-
 2. Działalność Walnego Zgromadzenia, Rady Nadzorczej i Zarządu regulują:
 
-—__ ustawa z dnia 16 września 1982r. — Prawo spółdzielcze (tekst jednolity )
+— ustawa z dnia 16 września 1982r. — Prawo spółdzielcze (tekst jednolity
 Dz.U. z 2018 r. poz. 1285 z późniejszymi zmianami)
-
 — odpowiednie regulaminy.
 
 3. Bieżącą działalnością gospodarczą Spółdzielni kieruje Zarząd.
 
 Wszyscy członkowie Zarządu są sobie równi.
 
-§ 3
+<a id="par-3"></a>
+### § 3
 
 Strukturę organizacyjną — zatrudnienie w Spółdzielni określa niniejszy regulamin oraz
+[schemat Organizacyjny, stanowiący załącznik](#zalacznik) do regulaminu.
 
-schemat Organizacyjny, stanowiący załącznik do regulaminu.
+<a id="par-4"></a>
+### § 4
 
-§ 4
-Prezesowi Zarządu podlegają stanowiska ds.:
+1. Prezesowi Zarządu podlegają stanowiska ds.:
 1) Organizacyjno-samorządowych i polityki mieszkaniowej PM
 2) obsługi prawnej PR
 3) ochrony danych osobowych PRO
-
-## Strona 4
-
 4) pracowniczych i obsługi sekretariatu PP
 5) bhp i p.poż. PB
 6) sprzątaczka - robotnik gospodarczy PS
@@ -117,54 +102,43 @@ Prezesowi Zarządu podlegają stanowiska ds.:
 3. Członkowi Zarządu ds. techniczno-eksploatacyjnych podlegają stanowiska ds.
 
 1) nadzoru technicznego TT
-
 2) technicznych i regulacji stanów prawnych nieruchomości TP
-
 3) eksploatacyjno-administracyjnych TA
-
 4) eksploatacyjno-administracyjnych i nadzoru technicznego TAT
-
 5) transportu i magazynowania TM
-
 6) zespół remontowo-konserwacyjny TK
-
 7) gospodarze domów. TG
 
-§ 5
+<a id="par-5"></a>
+### § 5
 
 1. Pracownicy kierujący komórkami organizacyjnymi oraz na samodzielnych
-
 stanowiskach odpowiedzialni są za organizację pracy powierzonego im odcinka.
 
 2. Każdy z pracowników ponosi odpowiedzialność za właściwe wykonywanie
-
 powierzonych mu zadań.
 
 3. Dla zapewnienia pełnej koordynacji działalności Spółdzielni wszyscy pracownicy
-
 zobowiązani są do ścisłej współpracy.
 
 4. Pracownik, który otrzyma polecenie od członka Zarządu lub bezpośredniego
-
 przełożonego zobowiązany jest je wykonać niezwłocznie.
 
 5. Każdy z pracowników zatrudniony na stanowisku nierobotniczym jest zobowiązany
-
 do znajomości i korzystania z programu z zakresu edycji tekstu, arkuszy
 kalkulacyjnych (np. Word, Excel).
 
 6. Każdy pracownik zobowiązany jest do stosowania i przestrzegania przepisów
-
 o ochronie danych osobowych i zachowania tajemnicy służbowej.
 
-III. ZAKRESY DZIAŁANIA POSZCZEGÓLNYCH STANOWISK PRACY
+<a id="dzial-3"></a>
+## III. Zakresy działania poszczególnych stanowisk pracy
 
-PION PREZESA ZARZĄDU
+<a id="pion-prezesa"></a>
+### Pion Prezesa Zarządu
 
-## Strona 5
-
-§ 6
-PREZES ZARZĄDU -P
+<a id="par-6"></a>
+#### § 6 — Prezes Zarządu (P)
 
 1. Prezes Zarządu organizuje i koordynuje działalność Zarządu w zakresie
 wykonywania zadań statutowych Spółdzielni
@@ -184,24 +158,18 @@ o wprowadzenie zmian dla poprawy efektywności działania Spółdzielni.
 5. Dekretuje według właściwości wpływającą korespondencję.
 
 6. Przyjmuje skargi na działalność komórek organizacyjnych i pracowników
-
 Spółdzielni i przekazuje je na posiedzenie Zarządu celem rozpatrzenia.
 
 7. Organizuje skuteczną kontrolę i nadzór nad:
 
 1) terminową realizacją zadań przez poszczególne komórki organizacyjne,
-
 2) wykonywaniem uchwał organów Spółdzielni,
-
 3) nad prowadzeniem strony internetowej Spółdzielni,
-
 4) przestrzeganiem przepisów prawa oraz postanowień statutu, regulaminów
 i instrukcji wewnętrznych, a także tajemnicy służbowej,
-
 5) dyscypliną pracy.
 
 8. Podejmuje niezbędne działania w celu zapewnienia bezpiecznych i higienicznych
-
 warunków pracy.
 
 9. Zapewnienia przestrzeganie zgodności polityki bezpieczeństwa danych osobowych
@@ -209,38 +177,27 @@ z przepisami określającymi zasady przetwarzania danych osobowych oraz sporząd
 wytyczne w dziedzinie bezpieczeństwa systemów informatycznych dla podległych
 pracowników zgodnie z obowiązującymi przepisami.
 
-§ 7
-STANOWISKO DS. ORGANIZACYJNO-SAMORZĄDOWYCH I POLITYKI
-MIESZKANIOWEJ - PM
+<a id="par-7"></a>
+#### § 7 — Stanowisko ds. organizacyjno-samorządowych i polityki mieszkaniowej (PM)
 
 1. W zakresie spraw organizacyjnych:
 1) Opracowywanie projektów:
 a) regulaminów wewnętrznych, instrukcji, zarządzeń i poleceń służbowych
 b) pełnomocnictw dla pełnomocników ustanowionych przez Zarząd.
-
-## Strona 6
-
 2) Opracowywanie zmian do dokumentów wyszczególnionych w pkt. 1.
-
 3) Organizowanie i obsługa posiedzeń Zarządu (przygotowywanie: porządku obrad,
 materiałów będących przedmiotem obrad, projektów uchwał oraz sporządzanie
 protokołów z tych zebrań).
-
 4) Opracowywanie materiałów informacyjnych: zaleceń i uchwał z zakresu działania
 Zarządu oraz Rady Nadzorczej i przekazywanie ich zainteresowanym komórkom
 organizacyjnym lub organom Spółdzielni.
-
 5) Załatwianie spraw związanych ze zmianami wprowadzanymi do Krajowego
 Rejestru Sądowego.
-
 6) Prowadzenie ewidencji krytyki prasowej i udzielanie w tym zakresie odpowiedzi.
-
 7) Obsługa strony internetowej spółdzielni w zakresie aktualizacji danych zleconych
 przez przełożonego.
-
 8) Zlecenie zamieszczania ogłoszeń prasowych oraz kontrola poprawności
 i terminowości ich zamieszczania w prasie.
-
 9) Opracowywanie dokumentacji związanej z ochroną i przetwarzaniem danych
 osobowych.
 
@@ -249,15 +206,11 @@ osobowych.
 1) Organizowanie i obsługa zebrań Walnego Zgromadzenia i Rady Nadzorczej
 (przygotowywanie: porządku obrad, materiałów będących przedmiotem obrad,
 projektów uchwał oraz sporządzanie protokołów z tych zebrań).
-
 2) Prowadzenie rejestru uchwał poszczególnych organów statutowych,
 przekazywanie uchwał zainteresowanym do wiadomości lub wykonania, czuwanie
 nad terminowym składaniem informacji o ich wykonaniu właściwym organom.
-
 3) Prowadzenie korespondencji wynikającej z decyzji Rady Nadzorczej.
-
 4) Rejestrowanie i protokołowanie Walnych Zgromadzeń.
-
 5) Przygotowywanie materiałów informacyjnych do sprawozdań i analiz z zakresu
 działalności samorządowej.
 
@@ -265,31 +218,24 @@ działalności samorządowej.
 
 1) Prowadzenie rejestru członków Spółdzielni i dokumentacji członkowskiej
 oraz innych rejestrów pomocniczych.
-
 2) Załatwianie spraw związanych z obsługą interesantów ubiegających
 się o ustanowienie, nabycie lub zamianę prawa do lokali mieszkalnych i garaży.
-
 3) Współpraca z innymi komórkami organizacyjnymi w zakresie opróżniania
 i zasiedlania mieszkań.
-
 4) Przygotowywanie pism na likwidację książeczki mieszkaniowej PKO.
-
 5) Prowadzenie rejestru lokali mieszkalnych, dla których zostały założone księgi
 wieczyste.
-
 6) Prowadzenie rejestru zamian.
-
-## Strona 7
-
 7) Prowadzenie postępowania w stosunku do osób zamieszkałych bez tytułu
 prawnego w tym:
+
 a) przygotowywanie dla pracownika obsługi prawnej dokumentacji
 do wszczęcia postępowania sądowego o eksmisję i związane z tym
 roszczenia finansowe,
-
 b) współpraca z komornikiem i Urzędem Miasta w zakresie realizacji orzeczeń
 sądowych,
 c) nadzór nad prawidłowym przebiegiem eksmisji.
+
 8) Zlecanie rzeczoznawcy majątkowemu wycen praw do lokali mieszkalnych.
 9) Przygotowywanie i organizacja przetargów na uzyskanie pierwszeństwa
 na zawarcie umowy o ustanowienie prawa.
@@ -304,36 +250,29 @@ mieszkaniowych.
 polityki mieszkaniowej.
 14) Nadzór nad realizacją uchwał organów statutowych Spółdzielni w zakresie polityki
 mieszkaniowej.
-
 15) Ścisła współpraca ze stanowiskiem ds. technicznych i regulacji stanów prawnych
 nieruchomości w sprawach dot., odrębnych własności, lokali mieszkalnych
 i garaży tj. aktualizacja danych właścicieli, przekazywanie wszelkich dokumentów
 niezbędnych do wykupu nieruchomości (zgonów, poświadczeń dziedziczenia itp).
 16) Sporządzanie analiz i sprawozdań.
-
 17) Obsługa członków Spółdzielni i osób posiadających tytuł prawny do lokalu
 w zasobach Spółdzielni.
-
 18) Ustalania adresów członków i dłużników Spółdzielni.
 
 4. W zakresie spraw socjalnych:
+
 1) określenie potrzeb socjalnych i bytowych pracowników,
 2) prowadzenie całokształtu spraw związanych z funkcjonowaniem zfśs w tym:
 a) sporządzanie preliminarza wpływów i wydatków,
 b) realizowanie określonej regulaminem zfśs działalności socjalnej,
-
 c) prowadzenie ewidencji wysokości i rodzajów udzielonych świadczeń wraz
 z przygotowaniem dokumentacji oraz ich archiwizacja,
+d) opracowywanie rocznych analiz wykorzystania zfśs.
 
-d) opracowywanie rocznych analiz wykorzystania zfŚs.
-
-## Strona 8
-
-§ 8
-STANOWISKO DS. OBSŁUGI PRAWNEJ - PR
+<a id="par-8"></a>
+#### § 8 — Stanowisko ds. obsługi prawnej (PR)
 
 1. Kompletowanie dostarczonej dokumentacji, przygotowywanie wniosków i pism
-
 procesowych do sądów w sprawach dotyczących interesów Spółdzielni.
 
 2. Zastępstwo prawne Spółdzielni przed sądami i organami administracji państwowej,
@@ -343,7 +282,6 @@ pełnomocnictwa.
 3. Opiniowanie umów i innych aktów wywołujących określonego rodzaju skutki prawne.
 
 4. Udzielanie porad i opinii przy sporządzaniu uchwał, regulaminów i innych aktów
-
 wewnętrznych.
 
 5. Opiniowanie pod względem prawnym statutu Spółdzielni, uchwał, regulaminów,
@@ -362,11 +300,10 @@ nowych przepisów i aktów normatywnych dotyczących zakresu ich działania.
 
 10. Sporządzanie wzorów typowych umów.
 
-§ 9
-STANOWISKO DS. OCHRONY DANYCH OSOBOWYCH - PRO
+<a id="par-9"></a>
+#### § 9 — Stanowisko ds. ochrony danych osobowych (PRO)
 
 1. Dokonywane czynności, do których jest zobowiązany na mocy Rozporządzenia
-
 RODO.
 
 2. Dokonywanie czynności wynikających z Zintegrowanego Systemu Ochrony Danych
@@ -376,7 +313,7 @@ Osobowych obowiązującego u Administratora Danych Osobowych.
 ADO o planowanych zmianach przepisów oraz o wejściu w życie zmian przepisów
 dotyczących ochrony danych osobowych u ADO.
 
-4. Reprezentowanie ADO w postępowaniach  administracyjnych,  sądowo-
+4. Reprezentowanie ADO w postępowaniach administracyjnych, sądowo-
 administracyjnych oraz sądowych, których przedmiotem jest ustalenie
 odpowiedzialności cywilnej, administracyjnej lub karnej związanej
 z przestrzeganiem przepisów o ochronie danych osobowych w ramach udzielanego
@@ -386,16 +323,13 @@ pełnomocnictwa.
 i organizacyjnych związanych z ochroną danych osobowych.
 
 6. Prowadzenie szkoleń w miarę możliwości potrzeb z zakresu ochrony danych
-
-## Strona 9
-
 osobowych dla personelu oraz kierownictwa ADO.
 
 7. Dokonywanie raz w roku przeglądu działalności Zintegrowanie Systemu Ochrony
 Danych Osobowych oraz wykonywania dla ADO raportu z funkcjonowania systemu.
 
-§ 10
-STANOWISKO DS. PRACOWNICZYCH I OBSŁUGI SEKRETARIATU - PP
+<a id="par-10"></a>
+#### § 10 — Stanowisko ds. pracowniczych i obsługi sekretariatu (PP)
 
 1. W zakresie spraw pracowniczych:
 1) Prowadzenie obsługi spraw osobowych pracowników dot.:
@@ -406,52 +340,35 @@ STANOWISKO DS. PRACOWNICZYCH I OBSŁUGI SEKRETARIATU - PP
 2) Prowadzenie akt osobowych pracowników oraz ewidencji i statystyki osobowej.
 3) Opracowywanie zakresów czynności i obowiązków w oparciu o wytyczne
 kierownictwa Spółdzielni.
-
 4) Przyjmowanie i rejestrowanie zwolnień lekarskich, kart urlopowych i innych
 dokumentów dotyczących nieobecności w pracy oraz przekazywanie informacji
 pracownikowi zajmującemu się sprawami płac.
-
 5) Kontrola osób przebywających na zwolnieniach lekarskich oraz ustalanie
 przyczyn nieobecności pracownika w pracy, który nie powiadomił pracodawcy
 o powodzie nie stawienia się do pracy,
-
 6) Kontrola dyscypliny pracy, prowadzenie ewidencji obecności w pracy oraz rejestru
 pracy pracowników w godzinach nadliczbowych, nadzór nad prawidłowym
 wykorzystywaniem czasu pracy (delegacje, rejestry wyjść i odbioru godzin).
-
 7) Sporządzanie wniosków w sprawie wypłacania pracownikom nagród
 jubileuszowych, odpraw: emerytalnych, rentowych i z tytułu tzw. zwolnień
 grupowych.
-
 8) Sporządzanie planu urlopów wypoczynkowych i kontrola jego wykonania na
 podstawie danych przekazywanych przez Zarząd.
-
 9) Organizowanie szkoleń i dokształcania pracowników.
-
 10) Prowadzenie rejestru badań lekarskich i bhp oraz nadzór nad ich aktualizacją.
-
 11) Przygotowywanie dokumentacji kadrowej w związku z nabyciem uprawnień
 emerytalno-rentowych pracownika.
-
 12) Współpraca z Powiatowym Urzędem Pracy (biurami pośrednictwa pracy) oraz
 organizacjami związkowymi działającymi w Spółdzielni.
-
-13)Udzielanie pracownikom informacji i wyjaśnień w zakresie prawa pracy
+13) Udzielanie pracownikom informacji i wyjaśnień w zakresie prawa pracy
 i udostępnianie dokumentacji w tym zakresie.
-
 14) Prowadzenie rejestru zwrotu kosztów za okulary.
-
-## Strona 10
-
 15) Wydawanie i ewidencja kart drogowych.
-
-16)Przygotowywanie upoważnień dla pracowników do dostępu do zbiorów
+16) Przygotowywanie upoważnień dla pracowników do dostępu do zbiorów
 osobowych posiadanych przez Spółdzielnię i przetwarzania danych osobowych
 w zakresie niezbędnym dla wykonywania obowiązków służbowych. Bieżąca
 aktualizacja danych pracowników w systemie informatycznym.
-
 17) Prowadzenie ewidencji osób upoważnionych do przetwarzania danych osobowych.
-
 18) Sporządzanie sprawozdań w zakresie zatrudnienia pracowników na potrzeby GUS.
 
 2. W zakresie obsługi sekretariatu:
@@ -466,11 +383,10 @@ e) rozliczanie znaczków pocztowych,
 f) przyjmowanie czasopism, prasy i przekazywanie ich właściwym komórkom
 organizacyjnym.
 2) Prowadzenie terminarza zajęć członków Zarządu.
-
 3) Przyjmowanie, nadawanie faxów i ich ewidencja.
 
-§ 11
-SPRZĄTACZKA - ROBOTNIK GOSPODARCZY -PS
+<a id="par-11"></a>
+#### § 11 — Sprzątaczka - robotnik gospodarczy (PS)
 
 1. Otwieranie i zamykanie obiektu Spółdzielni, zabezpieczenie przekazanych kluczy
 od pracowników oraz ponoszenie odpowiedzialności za przejęty obiekt.
@@ -491,10 +407,8 @@ mieści się siedziba Spółdzielni oraz warsztatu konserwatorów.
 uszkodzeń sprzętu gospodarczego oraz innych faktów mogących mieć wpływ
 na zabezpieczenie mienia.
 
-## Strona 11
-
-§ 12
-STANOWISKO DS. BHP I P.POŻ. - PB
+<a id="par-12"></a>
+#### § 12 — Stanowisko ds. bhp i p.poż. (PB)
 
 1. Przedstawianie i sporządzanie analiz bezpieczeństwa i higieny pracy, zawierających
 propozycje przedsięwzięć organizacyjnych i technicznych mających na celu
@@ -507,7 +421,6 @@ oraz przedkładanie w tym temacie stosownych wniosków.
 3. Przeprowadzanie kontroli stanu bhp i p. poż.
 
 4. Udział w opracowywaniu zarządzeń wewnętrznych, regulaminów i instrukcji
-
 w zakresie bhp i p. poż.
 
 5. Udział w dochodzeniach powypadkowych oraz w opracowywaniu wniosków
@@ -516,13 +429,13 @@ wynikających z badań przyczyn wypadków.
 6. Przeprowadzanie szkoleń bhp wstępnych i okresowych.
 
 7. Prowadzenie rejestrów kompletowanie i przechowywanie dokumentów dotyczących
-
 wypadków przy pracy.
 
-PION CZŁONKA ZARZĄDU GŁÓWNEGO KSIĘGOWEGO
+<a id="pion-glownego-ksiegowego"></a>
+### Pion Członka Zarządu Głównego Księgowego
 
-§ 13
-CZŁONEK ZARZĄDU GŁÓWNY KSIĘGOWY -F
+<a id="par-13"></a>
+#### § 13 — Członek Zarządu Główny Księgowy (F)
 
 1. Kierowanie gospodarką finansową Spółdzielni zgodnie z obowiązującymi przepisami
 oraz zgodnie z uchwałami Zarządu i Rady Nadzorczej.
@@ -541,25 +454,20 @@ w tym zakresie do odpowiednich organów samorządowych Spółdzielni.
 
 6. Nadzór nad windykacją należności.
 
-7. Współpraca z obsługa prawną Spółdzielni w zakresie egzekucji zadłużeń.
+7. Współpraca z obsługą prawną Spółdzielni w zakresie egzekucji zadłużeń.
 
 8. Reprezentowanie Spółdzielni na zewnątrz w zakresie realizacji bieżących spraw
-
-finansowo- księgowych.
+finansowo-księgowych.
 
 9. Uprawnienie żądania od wszystkich komórek organizacyjnych Spółdzielni wyjaśnień
-
-## Strona 12
-
 i informacji oraz okazania dokumentów na ich potwierdzenia w związku
 z dokonywanymi operacjami gospodarczymi a w razie stwierdzenia nieprawidłowości
-usuniecie ich w wyznaczonym terminie prze odpowiednie komórki.
+usunięcie ich w wyznaczonym terminie prze odpowiednie komórki.
 
-§ 14
-STANOWISKO DS. CZYNSZÓW I WINDYKACJI - FC
+<a id="par-14"></a>
+#### § 14 — Stanowisko ds. czynszów i windykacji (FC)
 
 1. Naliczanie opłat za lokale mieszkalne i użytkowe, pomieszczenia gospodarcze, garaże
-
 oraz dzierżawę terenu.
 
 2. Wystawianie faktur sprzedaży i not korygujących z tytułu opłat, o których mowa
@@ -573,11 +481,10 @@ w ust.1.
 
 6. Rozliczanie zużycia wody w oparciu o odczyty wodomierzy lub ustalone ryczałty.
 
-7. Prowadzenie na bieżąco windykacji należności zgodnie z Regulaminem Windykacji
+7. Prowadzenie na bieżąco windykacji należności zgodnie z [Regulaminem Windykacji](regulamin-windykacji.md)
 obowiązującym w Spółdzielni.
 
 8. Bieżące aktualizowanie danych w systemie informatycznym w oparciu o uchwały
-
 Rady Nadzorczej lub Zarządu oraz oświadczenia osób posiadających tytuły prawne
 do lokali.
 
@@ -593,32 +500,23 @@ do lokalu mieszkalnego lub garażu.
 12. Prowadzenie spraw związanych z ubezpieczeniem majątku Spółdzielni:
 
 1) sporządzanie zestawień składników podlegających ubezpieczeniu,
-
 2) rozliczanie składki ubezpieczenia w układzie kalkulacyjnym kosztów,
-
 3) ewidencjonowanie dokumentów ubezpieczycieli dotyczących likwidacji szkód,
 4) analiza kont rozrachunkowych tytułu ubezpieczenia.
 
 13. Obsługa interesantów.
 
-§ 15
-STANOWISKO DS. FINANSOWO-KSIĘGOWYCH I PŁAC - FK
+<a id="par-15"></a>
+#### § 15 — Stanowisko ds. finansowo-księgowych i płac (FK)
 
 1. W zakresie płac:
+
 1) Sporządzanie list płac na podstawie zatwierdzonych przez Zarząd dokumentów:
-
-## Strona 13
-
 a) angaży o zatrudnieniu pracowników,
-
 b) wniosków premiowych,
-
 c) pism dot. gratyfikacji jubileuszowych,
-
 d) wniosków o wypłatę ekwiwalentu za urlop,
-
 e) wniosków o wypłatę odpraw emerytalnych lub rentowych,
-
 f) oświadczeń o korzystaniu z samochodu prywatnego do celów służbowych.
 2) Dokonywanie ustawowych i dobrowolnych potrąceń z wynagrodzeń pracowników.
 3) Prowadzenie dokumentacji z tytułu umów cywilnoprawnych oraz dokumentacji
@@ -627,141 +525,92 @@ zasiłkowej w związku z wypłatami świadczeń finansowanych przez ZUS.
 oraz członków ich rodzin (do ubezpieczenia zdrowotnego) i ich wyrejestrowanie
 po rozwiązaniu stosunku pracy bądź z innych przyczyn w terminach określonych
 ustawą.
-
 5) Sporządzanie i przesyłanie drogą elektroniczną raportów miesięcznych naliczeń
 (deklaracji) do ZUS, PEFRON, US, wpłat na PFRON, PIT 40 oraz informacji
 rocznej RMUA.
-
 6) Rozliczenie ewidencji rozrachunków z budżetem z tytułu: składek
 na ubezpieczenia społeczne i zdrowotne, Fundusz Pracy, FGŚP, wpłat na PFRON
 oraz podatku dochodowego od osób fizycznych zgodnie z obowiązującymi
 przepisami.
-
 7) Sporządzanie informacji ZUS Rp-7 oraz ZUS Z-3 oraz innych zgodnie
 z przepisami.
-
 8) Wystawianie zaświadczeń o wysokości wynagrodzeń pracowników.
-
 9) Elektroniczny import danych do systemu bankowego przelewów dotyczących
 wynagrodzeń, potrąceń z wynagrodzeń, składek ZUS, PFRON.
-
 10) Sporządzanie sprawozdań statystycznych o wynagrodzeniach do GUS.
 
 2. W zakresie spraw finansowo księgowych:
 
 1) Dekretacja wszystkich zarejestrowanych w systemie finansowo-księgowym
 dokumentów związanych z działalnością Spółdzielni.
-
 2) Opracowywanie, sporządzanie oraz dekretacja dokumentów memoriałowych (PK).
-
-3) Księgowanie faktur sprzedaży i operacji dokonanych karta płatniczą i rozliczeń
+3) Księgowanie faktur sprzedaży i operacji dokonanych kartą płatniczą i rozliczeń
 kosztów w układzie rodzajowym i kalkulacyjnym.
-
 4) Prowadzenie ewidencji przychodów i kosztów w podziale na nieruchomości w
 ramach osiedli.
-
 5) Ustalanie bilansowego wyniku finansowego Spółdzielni w okresach
 sprawozdawczych poprzedzone analizą poprawności zapisów w ewidencji kosztów
 i przychodów.
-
 6) Ustalanie podatkowego wyniku Spółdzielni z uwzględnieniem dodatnich
 i ujemnych różnic przejściowych pomiędzy wartością bilansową, a podatkową
 aktywów i pasywów.
-
 7) Prowadzenie ewidencji wpływów i wydatków funduszu na remonty w podziale
 na nieruchomości w ramach osiedli oraz jej uzgadnianie z Członkiem Zarządu
-
 ds. techniczno-eksploatacyjnych.
-
-## Strona 14
-
 8) Rozliczenie ewidencji rozrachunków z budżetem z tytułu: podatku dochodowego
 od osób prawnych oraz podatku od towarów i usług zgodnie z obowiązującymi
-przepisami(CIT , VAT).
-
+przepisami (CIT, VAT).
 9) Prowadzenie ewidencji, rejestrów oraz pomocniczych wykazów i zestawień
 służących do prawidłowego ustalenia zobowiązań budżetowych i sporządzania
 deklaracji określonych przepisami prawa.
-
 10) Prowadzenie analitycznej i syntetycznej ewidencji pozostałych środków trwałych
 oraz wartości niematerialnych i prawnych. Naliczanie umorzeń i amortyzacji
 zgodnie z obowiązującymi przepisami.
-
-11)Prowadzenie ewidencji ilościowo-wartościowej środków pracy Spółdzielni
+11) Prowadzenie ewidencji ilościowo-wartościowej środków pracy Spółdzielni
 zgodnie z obowiązującymi zasadami określonymi w polityce rachunkowości.
-
-12)Rozliczanie inwentaryzacji składników majątku Spółdzielni.
-
+12) Rozliczanie inwentaryzacji składników majątku Spółdzielni.
 13) Analiza, wyjaśnianie i inwentaryzowanie sald kont rozrachunkowych.
-
 14) Windykacja należności w ramach prowadzonych kont rozrachunkowych zgodnie
-z Regulaminem Windykacji obowiązującym w Spółdzielni.
-
+z [Regulaminem Windykacji](regulamin-windykacji.md) obowiązującym w Spółdzielni.
 15) Prowadzenie ewidencji funduszu świadczeń socjalnych.
-
 16) Prowadzenie ewidencji powierzchni zasobów wyodrębnionych.
-
 17) Fakturowanie pozostałych usług.
-
-18) Nadzór nad poprawnością transmisji danych z modułu : czynsze, płace i magazyn
+18) Nadzór nad poprawnością transmisji danych z modułu: czynsze, płace i magazyn
 oraz ich dekretacja w księdze głównej.
-
 19) Sporządzanie sprawozdawczości finansowej oraz nadzór nad sprawozdawczością
 statystyczną (GUS).
-
 20) Sporządzanie i przesyłanie plików JPK - VAT do US zgodnie z obowiązującymi
 przepisami.
-
 21) Otwieranie i zamykanie ksiąg rachunkowych w terminach określonych w Ustawie
 o rachunkowości.
 
-§ 16
-STANOWISKO DS. FINANSOWO-KSIĘGOWYCH I ROZLICZEŃ WKŁADÓW -
-FR
+<a id="par-16"></a>
+#### § 16 — Stanowisko ds. finansowo-księgowych i rozliczeń wkładów (FR)
 
 1. W zakresie rozliczeń wkładów:
-
 1) Prowadzenie ewidencji wkładów mieszkaniowych i budowlanych.
 2) Import elektronicznych wyciągów bankowych rachunku wkładów.
-
 3) Ewidencjonowanie dokumentów na analityczne konta wkładów i udziałów
 w oparciu o: wyciągi bankowe, raporty kasowe i noty memoriałowe.
-
 4) Aktualizowanie danych na podstawie otrzymanych dokumentów.
-
 5) Sporządzanie not rozliczeniowych funduszu wkładów mieszkaniowych
 i budowlanych.
-
 6) Prowadzenie ewidencji analitycznej rozrachunków z osobami posiadającymi tytuł
 prawny do lokalu z tytułu wkładów mieszkaniowych i budowlanych w zakresie:
-
 a) aktualizacji, urynkowienia i umorzenia wkładów,
-
-## Strona 15
-
 b) kontrola nad prawidłowością dokonywanych wpłat i wypłat wkładów,
-
 c) sporządzanie dokumentów określających wkłady należne oraz do zwrotu.
-
 7) Prowadzenie analitycznej ewidencji wypłaconych udziałów oraz rozrachunków
 z tytułu odpłatności za grunty.
-
 8) Analiza kont rozrachunkowych osób posiadających spółdzielcze prawa do lokali
 oraz ustalanie wkładów w wymaganej wysokości.
-
 9) Uzgadnianie ewidencji analitycznej z syntetyczną oraz prawidłowości powiązania
 kont wkładów z funduszami oraz rzeczowymi aktywami trwałymi.
-
 10) Sporządzanie zestawienia zmian w kapitale własnym.
-
 11) Przygotowywanie i wydawanie zaświadczeń do sądu, notariusza i innych
-
 instytucji.
-
 12) Współpraca ze stanowiskiem ds. polityki mieszkaniowej.
-
 13) Obsługa członków Spółdzielni oraz przygotowywanie i wydawanie zaświadczeń
-
 zgodnie z obowiązującymi zasadami.
 
 2. W zakresie spraw finansowo księgowych:
@@ -769,75 +618,52 @@ zgodnie z obowiązującymi zasadami.
 1) Dokonywanie kontroli pod względem formalnym i rachunkowym dokumentów
 księgowych stanowiących podstawę do przyjęcia lub wydatkowania środków
 pieniężnych w obrocie i bezgotówkowym.
-
 2) Prowadzenie ewidencji wpływu faktur zakupu towarów i usług i przekazywanie
 ich odpowiednim komórkom organizacyjnym do potwierdzenia pod względem
 merytorycznym.
-
 3) Wprowadzanie otrzymanych faktur i not do systemu informatycznego Spółdzielni
 zgodnie z obowiązującymi wymogami.
-
 4) Sporządzanie przelewów w bankowym systemie elektronicznym na podstawie
 zatwierdzonych przez Zarząd Spółdzielni: faktur, not, deklaracji oraz innych
 poleceń zapłaty.
-
 5) Prowadzenie ewidencji księgowej gospodarki obrotu magazynowego:
-
 a) dekretacja i księgowanie dokumentów magazynowych wg miejsca
 powstawania kosztów,
-
 b) uzgadnianie stanów ilościowych i wartościowych zapasów magazynowych,
 c) wycena i rozliczanie inwentaryzacji zapasów magazynowych.
-
 6) Import elektronicznych wyciągów bankowych oraz ich weryfikacja.
-
 7) Naliczanie oraz sporządzanie deklaracji podatku od nieruchomości.
-
 8) Prowadzenie ewidencji opłat za wieczyste użytkowanie gruntu.
-
 9) Rozliczenie ewidencji rozrachunków z budżetem z tytułu podatku
 od nieruchomości oraz opłat za wieczyste użytkowanie gruntu i opłat
 przekształceniowych zgodnie z obowiązującymi przepisami.
-
-10)Rozliczanie podatku od nieruchomości oraz opłat za użytkowanie wieczyste
-
-## Strona 16
-
+10) Rozliczanie podatku od nieruchomości oraz opłat za użytkowanie wieczyste
 na odpowiednie jednostki kalkulacyjne kosztów.
-
-11)Rozliczanie finansowe dot. zakupu lub przekształcenia gruntów z wieczystego
+11) Rozliczanie finansowe dot. zakupu lub przekształcenia gruntów z wieczystego
 użytkowania na grunt własny.
-
 12) Ewidencja środków trwałych zaliczanych do zasobów mieszkaniowych, gruntów
 własnych i w użytkowaniu wieczystym oraz sporządzanie tabel umorzeniowych.
-
-13)Rozliczanie inwentaryzacji składników majątku Spółdzielni wymienionych
+13) Rozliczanie inwentaryzacji składników majątku Spółdzielni wymienionych
 w ust.13.
-
-14)Rozliczanie i księgowanie faktur jednostek świadczących usługi na rzecz
+14) Rozliczanie i księgowanie faktur jednostek świadczących usługi na rzecz
 Spółdzielni.
-
 15) Wystawianie faktur za zużycie zimnej i ciepłej wody w lokalach użytkowych
 oraz w pomieszczeniach pralni.
-
-16)Rozliczanie faktur za energię cieplną (w podziale na koszty c.o. i c.w.
+16) Rozliczanie faktur za energię cieplną (w podziale na koszty c.o. i c.w.
 w jednostkach zużycia wyrażonych w GJ i MW oraz w przeliczeniu na zł)
 na poszczególne nieruchomości.
-
 17) Wystawianie faktur za pozostałe usługi Spółdzielni w tym refakturowanie.
-
 18) Prowadzenie ewidencji zamontowanych wodomierzy w systemie informatycznym.
-
 19) Wprowadzanie wskazań zużycia ciepłej i zimnej wody zgodnie z zestawieniem
 aktualnych liczników wody.
 
-PION CZŁONKA ZARZĄDU DS. TECHNICZNO-EKSPLOATACYJNYCH
+<a id="pion-techniczny"></a>
+### Pion Członka Zarządu ds. techniczno-eksploatacyjnych
 
-§ 17
-CZŁONEK ZARZĄDU DS. TECHNICZNO-EKSPLOATACYJNYCH - T
+<a id="par-17"></a>
+#### § 17 — Członek Zarządu ds. techniczno-eksploatacyjnych (T)
 
 1. W ramach nadzoru — odpowiedzialność za całokształt spraw techniczno-
-
 eksploatacyjnych.
 
 2. Sprawowanie nadzoru bezpośrednio nad wykonywaniem zadań przez komórki
@@ -846,7 +672,7 @@ organizacyjne podporządkowane zgodnie ze strukturą organizacyjną:
 3. Organizowanie realizacji spraw techniczno-eksploatacyjnych w sposób zapewniający
 prawidłowe i rzetelne oraz zgodne z wymogami obowiązujących przepisów prawa
 budowlanego i stosownych rozporządzeń wykonywanie prac przez podległe komórki
-organizacyjne .
+organizacyjne.
 
 4. Opracowywanie planów remontów w Spółdzielni.
 
@@ -859,8 +685,6 @@ organizacyjne .
 8. Bieżąca współpraca z Komisją Gospodarki Zasobami Mieszkaniowymi Rady
 Nadzorczej.
 
-## Strona 17
-
 9. Współudział z Komisją Przetargową w organizowaniu przetargów na roboty
 budowlane i nadzór nad sporządzaniem projektów umów na wykonanie robót
 budowlanych i ich ewidencjonowaniem.
@@ -872,50 +696,38 @@ przez pracowników.
 eksploatacyjnych.
 
 12. Przedkładanie do Rady Nadzorczej wniosków w zakresie spraw remontowych
-bądź modernizacyjnych .
+bądź modernizacyjnych.
 
 13. Reprezentowanie Spółdzielni na zewnątrz w zakresie realizacji bieżących spraw
 techniczno-eksploatacyjnych oraz regulacji stanów prawnych nieruchomości.
 
-§ 18
-STANOWISKO DS. NADZORU TECHNICZNEGO - TT
+<a id="par-18"></a>
+#### § 18 — Stanowisko ds. nadzoru technicznego (TT)
 
 1. Kierowanie pracą ekipy konserwatorów polegającą w szczególności na:
 1) właściwej organizacji pracy i należytym wykorzystaniu czasu pracy,
 2) wystawianiu kart pracy w oparciu o rejestr zgłoszeń,
 3) dysponowaniu materiałów do realizacji robót,
-
 4) systematycznym nadzorze terminowego i zgodnego z warunkami technicznymi
 wykonania robót,
-
 5) terminowe zlecenie przeglądów dźwigów, zlecenie napraw,
-
 6) bieżącym rozliczaniu materiałów (pobranych z magazynu i z odzysku) poprzez
 sporządzanie wymaganej dokumentacji magazynowej,
-
 7) comiesięcznym sporządzaniu rozliczeń materiałowych robót wykonywanych
 przez konserwatorów oraz czasu pracy,
-
-8) systematyczne prowadzenie szkoleń  stanowiskowych ze szczególnym
+8) systematyczne prowadzenie szkoleń stanowiskowych ze szczególnym
 uwzględnieniem pracy nietypowej,
-
 9) egzekwowaniu przestrzegania przepisów bhp, p. poż. i instrukcji obsługi urządzeń,
-
-10)zwracanie uwagi na bezwzględne przestrzeganie przez pracowników noszenia
+10) zwracanie uwagi na bezwzględne przestrzeganie przez pracowników noszenia
 odzieży roboczej i ochrony indywidualnej,
-
 11) egzekwowaniu przestrzegania porządku na stanowisku pracy
 oraz w pomieszczeniach warsztatowych,
-
 12) nadzorze należytego zabezpieczenia podległych miejsc pracy podczas przerw,
 po zakończeniu pracy oraz w dniach wolnych od pracy,
-
 13) wnioskowaniu w sprawach dot.: przyjęcia do pracy kandydatów na stanowisko
 konserwatora oraz oceny wykonywanej pracy, ustalania pracy w godzinach
 nadliczbowych, gospodarowania odzieżą roboczą i ochronną podległych
 pracowników.
-
-## Strona 18
 
 2. Opiniowanie zmian budowlanych i wszelkich przeróbek instalacji i urządzeń
 instalacyjnych, zmieniających standardowe wyposażenie lokalu.
@@ -928,14 +740,13 @@ instalacyjnych, zmieniających standardowe wyposażenie lokalu.
 Gazowniczym itp.
 
 6. Cykliczna rejestracja odczytów i analiza zużycia mediów: energii cieplnej, energii
-elektrycznej, wody i gazu i przekazywanie danych stanowiskom ds.. czynszów
+elektrycznej, wody i gazu i przekazywanie danych stanowiskom ds. czynszów
 i windykacji.
 
 7. Kontrolowanie stanu sprawności urządzeń pomiarowych i ich legalizacji oraz automatyki
 ciepłowniczej.
 
 8. Nadzór nad montażem wodomierzy zakładanych w zasobach Spółdzielni i dokonywanie
-
 odbiorów tych prac.
 
 9. Prowadzenie spraw związanych z sieciami telekomunikacyjnymi poprzez opiniowanie
@@ -946,65 +757,48 @@ w trakcie realizacji robót.
 
 10. Zabezpieczanie lokali po eksmisjach i innych zdarzeniach losowych.
 
-§ 19
-STANOWISKO DS. TECHNICZNYCH I REGULACJI STANÓW PRAWNYCH
-NIERUCHOMOŚCI - TP
+<a id="par-19"></a>
+#### § 19 — Stanowisko ds. technicznych i regulacji stanów prawnych nieruchomości (TP)
 
 1. Współpraca z firmą ubezpieczeniową w zakresie szkód powstałych w zasobach
 Spółdzielni bądź na administrowanym terenie.
 
 1) Zgłaszanie szkód do ubezpieczyciela.
-
 2) Ustalanie ze służbami technicznymi podmiotów odpowiedzialnych za szkody,
 rozmiarów szkody wraz z ich przyczyną, odbiór dokumentów (faktur,
 kosztorysów, zdjęć, zgłoszeń na Policję, polis ubezpieczeniowych), niezbędnych
 do likwidacji szkody.
-
 3) Uczestnictwo w postępowaniu odszkodowawczym wraz z innymi podmiotami.
-
 4) Prowadzenie korespondencji ze stronami postępowania odszkodowawczego.
-
 5) Przeprowadzanie analiz zasadności roszczeń odszkodowawczych wobec
 Spółdzielni.
-
 6) Prowadzenie dokumentacji likwidacji szkód.
 
 2. Prowadzenie dokumentacji związanej z regulacją prawną nieruchomości należących
-
 do Spółdzielni.
 
 1) Współpraca z geodetą w zakresie podziału nieruchomości, ustalania ich granic
 sporządzanych map do celów prawnych.
-
-## Strona 19
-
 2) Współpraca z Urzędem Miasta Łodzi w zakresie realizacji wniosków dotyczących:
 podziału nieruchomości, wykupu nieruchomości, przekształcenia prawa
 użytkowania wieczystego we własność, ustanowienia służebności.
-
 3) Współpraca z Sądem Rejonowym w zakresie składania wniosków do ksiąg
 wieczystych prowadzonych dla nieruchomości Spółdzielni w tym: ujawnienie
 podziału, zmiana adresu, prawa własności itp.
-
 4) Współpraca z Łódzkim Ośrodkiem Geodezyjnym w sprawie map prawnych,
 wypisów z rejestru gruntów oraz zgłaszanie innych zmian prawnych.
-
 5) Współpraca z rzeczoznawcami majątkowymi w zakresie wycen nieruchomości
 oraz dostarczania danych do operatów szacunkowych.
-
 6) Współpraca z kancelariami notarialnymi w zakresie wykupu nieruchomości,
 ustanawiania służebności, spraw wymagających aktów notarialnych
 oraz dostarczanie wszelkich niezbędnych dokumentów.
-
 7) Uczestnictwo w sprawach spornych dotyczących wycen nieruchomości
 Spółdzielni.
-
 8) Współpraca ze stanowiskiem ds. organizacyjno-samorządowych i polityki
 mieszkaniowej w sprawie aktualizacji danych odrębnych właścicieli lokali
 mieszkalnych w tym: odbiór wszelkich dokumentów (kopii aktów zbycia lokalu,
 aktów zgonu, poświadczeń dziedziczenia, itp.) niezbędnych do wykupu
 nieruchomości.
-
 9) Koordynacja współpracy pomiędzy właścicielami odrębnych nieruchomości,
 a Spółdzielnią, Urzędem Miasta Łodzi, kancelarią notarialną, i innymi podmiotami
 w zakresie niezbędnym do wykupu nieruchomości, przekształcenia prawa
@@ -1012,9 +806,7 @@ użytkowania wieczystego we własność lub ustanowienia służebności, w zakre
 ustanawiania pełnomocnictw, regulowania należności wobec Gminy, informacji
 dot. udziału w czynnościach prawnych, przekazywania decyzji administracyjnych
 wraz z obciążeniami kosztami wykupu nieruchomości itp.
-
 10) Sporządzanie wniosków do organów Spółdzielni w zakresie spraw prawnych
-
 związanych z nieruchomościami.
 
 3. Tworzenie wykazu osób, które wyraziły zgodę na przetwarzanie danych osobowych
@@ -1027,15 +819,10 @@ którego dotyczy.
 
 1) bieżąca rejestracja protokołów odbioru robót remontowych w obiektach
 oraz archiwizowanie protokołów,
-
 2) bieżąca rejestracja protokołów kontroli okresowych stanu technicznej sprawności
 obiektu oraz archiwizowanie protokołów,
-
 3) bieżąca rejestracja protokołów kontroli okresowych stanu technicznej sprawności
 i wartości użytkowej całego obiektu oraz archiwizowanie protokołów,
-
-## Strona 20
-
 4) bieżąca rejestracja opracowań technicznych dotyczących obiektu, danych
 dotyczących opracowań oraz ich archiwizacja.
 
@@ -1044,27 +831,27 @@ i naukowych oraz dzierżawą terenów w tym:
 
 1) opracowywanie projektów umów najmu,
 2) protokolarne przekazywanie i przejmowanie lokali użytkowych,
-
 3) aktualizacja i przekazywanie do wiadomości stanowiska ds. eksploatacyjno-
 administracyjnych oświadczeń najemców lokali użytkowych o ilości
 zatrudnionych osób,
-
 4) korespondencja w sprawach najmu lokali oraz prowadzonej działalności,
-
 5) przyjmowanie ofert najmu i wnioskowanie o zawarcie umowy, prowadzenie
 rejestru umów,
 6) podejmowanie działań w sprawie oddania w najem zwolnionych lokali
 w tym przygotowywanie ogłoszeń,
 7) przekazywanie do Działu Księgowości comiesięcznych informacji o ilości
 wynajętych lokali użytkowych
+
 6. Weryfikacja faktur za świadczone wobec Spółdzielni usługi oraz potwierdzanie
 pod względem merytorycznym w zakresie wynikającym z kompetencji.
+
 7. Konsultacja i zasięganie opinii prawnych w zakresie prowadzonych spraw
 wynikających z powierzonych obowiązków.
+
 8. Prowadzenie ewidencji rejestru zgód na przetwarzanie danych osobowych.
 
-§ 20
-STANOWISKO DS. EKSPLOATACYJNO-ADMINISTRACYJNYCH - TA
+<a id="par-20"></a>
+#### § 20 — Stanowisko ds. eksploatacyjno-administracyjnych (TA)
 
 1. Odpowiedzialność za właściwe utrzymanie w czystości budynków i terenów
 zewnętrznych w przydzielonym rejonie.
@@ -1074,16 +861,12 @@ pokontrolnych i ocena pracy gospodarzy domów.
 
 3. Wnioskowanie w sprawach dotyczących gospodarzy domów:
 — przyjęcia do pracy i zwolnienia z pracy,
-—  przeszeregowania finansowego,
+— przeszeregowania finansowego,
 — udzielenia nagród i kar dyscyplinarnych,
 — ustalania wysokości premii,
 — ustalania pracy w ramach zastępstw,
 — wnioskowania w sprawach przedwczesnego zużycia odzieży roboczej
-i obuwia
-
-— gospodarzy.
-
-## Strona 21
+i obuwia gospodarzy.
 
 4. Dokonywane obmiarów powierzchni zewnętrznych i wewnątrz budynków w celu
 wyliczenia wynagrodzenia gospodarzy.
@@ -1113,61 +896,56 @@ decyzji na wycinkę lub przycięcie drzew i krzewów.
 
 12. Przygotowanie umów z wykonawcami zewnętrznymi na prace zieleniarskie.
 
-12. Nadzór nad pracami z zakresu utrzymania właściwego stanu zieleni na osiedlu.
+13. Nadzór nad pracami z zakresu utrzymania właściwego stanu zieleni na osiedlu.
 
-13. Dokonywanie rozliczeń paliwa zużytego przez spalinowe maszyny ogrodnicze
+14. Dokonywanie rozliczeń paliwa zużytego przez spalinowe maszyny ogrodnicze
 i sprzęt odśnieżający.
 
-14. Kontrola zabezpieczeń pomieszczeń TOPL, gazomierzy, wodomierzy oraz węzłów
+15. Kontrola zabezpieczeń pomieszczeń TOPL, gazomierzy, wodomierzy oraz węzłów
 cieplnych.
 
-15. Koordynacja odczytów liczników wodomierzy w lokalach użytkowych
+16. Koordynacja odczytów liczników wodomierzy w lokalach użytkowych
 i przekazywanie danych do księgowości oraz ZWiK.
 
-16. Udział w odbiorze mieszkań zwolnionych w drodze eksmisji, a także w innych
+17. Udział w odbiorze mieszkań zwolnionych w drodze eksmisji, a także w innych
 wyznaczonych komisjach.
 
-17. Przyjmowanie oświadczeń o ilości osób zamieszkałych w lokalu i rejestrowanie
+18. Przyjmowanie oświadczeń o ilości osób zamieszkałych w lokalu i rejestrowanie
 tych danych w książce osób zamieszkujących.
 
-18. Kontrola zgodności oświadczeń mieszkańców o ilości zamieszkałych osób ze stanem
+19. Kontrola zgodności oświadczeń mieszkańców o ilości zamieszkałych osób ze stanem
 faktycznym.
 
-19. Przedkładanie informacji na podstawie wywiadu środowiskowego o przyczynach
+20. Przedkładanie informacji na podstawie wywiadu środowiskowego o przyczynach
 zaległości osób posiadających tytuły prawne do lokalu czynszowych i najemców
 lokali użytkowych.
 
-20. Ścisła współpraca ze stanowiskiem ds. polityki mieszkaniowej w zakresie
+21. Ścisła współpraca ze stanowiskiem ds. polityki mieszkaniowej w zakresie
 ujawniania ilości zamieszkałych osób.
 
-21. Aktualizacja i dbałość o estetyczny wygląd tablic informacyjnych na klatkach
+22. Aktualizacja i dbałość o estetyczny wygląd tablic informacyjnych na klatkach
 schodowych, przed wejściami do klatek, numerów policyjnych i innych oznaczeń
-
 na elewacji budynków.
 
-## Strona 22
+23. Zawiadamianie mieszkańców o sprawach awaryjnych dotyczących nieruchomości.
 
-22. Zawiadamianie mieszkańców o sprawach awaryjnych dotyczących nieruchomości.
-
-23. Natychmiastowe zgłaszanie nadzorowi technicznemu wszelkich zauważonych
+24. Natychmiastowe zgłaszanie nadzorowi technicznemu wszelkich zauważonych
 bądź zgłoszonych awarii i usterek w budynku.
 
-24. Kontrola prawidłowości oświetlenia na terenie osiedla — współpraca z Ł Z E SA.
+25. Kontrola prawidłowości oświetlenia na terenie osiedla — współpraca z ŁZE SA.
 
-25. Kontrola prawidłowości oznakowania terenu osiedla — współpraca z ZD i T.
+26. Kontrola prawidłowości oznakowania terenu osiedla — współpraca z ZDiT.
 
-26. Załatwianie spraw zgłaszanych przez mieszkańców, wynikających z naruszenia
+27. Załatwianie spraw zgłaszanych przez mieszkańców, wynikających z naruszenia
 regulaminu porządku domowego (konflikty sąsiedzkie, skargi na uciążliwych
 lokatorów).
 
-27. Współpraca z organami administracji państwowej, jednostkami prewencji,
+28. Współpraca z organami administracji państwowej, jednostkami prewencji,
 samorządu terytorialnego i organami społecznymi w zakresie działalności
 Spółdzielni.
 
-§ 21
-
-STANOWISKO DS. EKSPLOATACYJNO-ADMINISTRACYJNYCH
-I NADZORU TECHNICZNEGO - TAT
+<a id="par-21"></a>
+#### § 21 — Stanowisko ds. eksploatacyjno-administracyjnych i nadzoru technicznego (TAT)
 
 1. Bieżąca obsługa techniczna zasobów mieszkaniowych w zakresie robót budowlanych,
 dekarskich, malarskich, kominiarskich, elektrycznych, instalacyjnych c.o., c.w., wod-
@@ -1180,22 +958,17 @@ konserwacyjne, awaryjne i usługi w zakresie wykonawstwa własnego i obcego.
 3. Realizacja zleceń robót planowanych i awaryjnych w ramach wykonawstwa obcego:
 
 1) prowadzenie rejestru zleceń,
-
 2) kwalifikacja i zlecanie do realizacji prac planowanych i awaryjnych — nadzór
 terminowego, jakościowego i zgodnego z warunkami technicznymi wykonania
 robót,
-
 3) dokonywanie odbioru robót,
-
 4) weryfikacja obmiarów i kosztorysów oraz innej wymaganej dokumentacji,
-
 5) dokonywanie sprawdzianów jakości w okresie gwarancji, po upływie gwarancji
 oraz wnioskowanie o zwrot kaucji zabezpieczającej należyte wykonanie robót.
 
 4. Cykliczne przeprowadzanie kontroli i przeglądów:
 
 1) okresowych,
-
 2) stanu sprawności technicznej obiektu budowlanego,
 
 5. Opracowywanie wg kompetencji projektów planów remontów, konserwacji
@@ -1203,10 +976,7 @@ oraz okresowej sprawozdawczości z realizacji.
 
 6. Organizacja i obsługa przetargów związanych z pracami konserwacyjnymi
 i remontowymi obiektów oraz prowadzenie pełnej dokumentacji przetargowej
-
 w oparciu o regulamin wewnętrzny.
-
-## Strona 23
 
 7. Opracowywanie uproszczonej dokumentacji technicznej i kosztorysowej
 w poszczególnych zakresach robót.
@@ -1218,13 +988,14 @@ w poszczególnych zakresach robót.
 10. Weryfikacja faktur za świadczone wobec Spółdzielni usługi oraz potwierdzanie
 pod względem merytorycznym w zakresie wynikającym z kompetencji.
 
-§ 22
-STANOWISKO DS. TRANSPORTU I MAGAZYNOWANIA - TM
+<a id="par-22"></a>
+#### § 22 — Stanowisko ds. transportu i magazynowania (TM)
 
 1. Prowadzenie gospodarki magazynowej zgodnie z instrukcją obowiązującą
 w tym zakresie.
 
 2. Dokonywanie odbiorów materiałów poprzez:
+
 1) sprawdzanie ilościowe i jakościowe zgodnie z dowodami dostaw i dokumentami
 towarzyszącymi,
 2) wystawianie dowodów obrotu materiałowego.
@@ -1245,6 +1016,7 @@ i rozchodów do rachunkowości materiałowej.
 
 8. W przypadku stwierdzenia różnic w dostawie, komisyjne sporządzanie protokołów
 oraz zgłaszanie reklamacji.
+
 9. Przygotowywanie magazynu do inwentaryzacji.
 
 10. Prawidłowe zabezpieczenie pomieszczenia przed kradzieżą, pod względem bhp
@@ -1264,8 +1036,6 @@ Zarządu Spółdzielni.
 
 15. Rejestrowanie wyjazdów oraz zużycia paliwa na kartach drogowych.
 
-## Strona 24
-
 16. Dbałość o należyty stan techniczny i estetyczny samochodu służbowego oraz jego
 zabezpieczenia.
 
@@ -1280,8 +1050,8 @@ się w obiegu dokumentacji Spółdzielni.
 
 21. Prowadzenie całokształtu spraw dot. obrony cywilnej.
 
-§ 23
-ZESPÓŁ REMONTOWO-KONSERWACYJNY - TK
+<a id="par-23"></a>
+#### § 23 — Zespół remontowo-konserwacyjny (TK)
 
 1. Terminowe wykonywanie prac konserwacyjnych na nieruchomościach należących
 do Spółdzielni (tereny zewnętrzne i wewnętrzne budynków) oraz w mieszkaniach
@@ -1293,7 +1063,7 @@ przez przełożonego.
 pobranych i wykorzystanych materiałów oraz poświadczenie realizacji wykonanych
 robót własnoręcznym podpisem zleceniodawcy w zależności od lokalizacji zlecenia
 (lokatora — w przypadku mieszkań indywidualnych, gospodarza domu lub inspektora
-ds. eksploatacyjno - adm. — w przypadku części administracyjno technicznej).
+ds. eksploatacyjno-adm. — w przypadku części administracyjno technicznej).
 
 3. Zgłaszanie przełożonemu wszelkich zauważonych usterek w zasobach Spółdzielni.
 
@@ -1308,8 +1078,8 @@ wykorzystywania ich w pracach zleconych.
 7. Stosowanie materiałów i narzędzi zgodnie z ich przeznaczeniem, normami zużycia
 materiałów, ze szczególną dbałością o stan techniczny narzędzi.
 
-§ 24
-GOSPODARZE DOMÓW - TG
+<a id="par-24"></a>
+#### § 24 — Gospodarze domów (TG)
 
 1. Gospodarza domu obowiązuje dniówka zadaniowa, w której ma utrzymać budynek
 mieszkalny i przydzielony mu teren zewnętrzny w należytym porządku i czystości.
@@ -1319,10 +1089,7 @@ mieszkalny i przydzielony mu teren zewnętrzny w należytym porządku i czystoś
 szczególnych anomalii pogodowych, gospodarz domu przystępuje bezzwłocznie
 do prac usuwających skutki tych anomalii.
 
-## Strona 25
-
 3. Gospodarz domu zobowiązany jest do dbałości o powierzone budynki,
-
 ich wyposażenie techniczne, urządzenia i przydzielony mu sprzęt, przeznaczony
 do utrzymania porządku i czystości.
 
@@ -1335,7 +1102,7 @@ W przypadku wybuchu pożaru — wezwanie straży pożarnej.
 
 5. Czuwa nad bezpieczeństwem budynku, jego urządzeń i mieszkańców.
 
-6. Zgłasza administratorowi o  spostrzeżonych zmianach w ruchu osobowym
+6. Zgłasza administratorowi o spostrzeżonych zmianach w ruchu osobowym
 mieszkańców. Powiadamia administratora o przypadkach przebywania w sposób
 stały na terenie posesji osób zamieszkujących bądź podnajmujących lokale
 mieszkalne, o zgonach osób posiadających tytuł prawny do lokali, a w szczególności
@@ -1367,6 +1134,7 @@ Zgłasza konieczność regulacji zegarów świetlnych.
 13. Podczas wykonywania swoich obowiązków sprawdza sprawność urządzeń bloku
 takich jak: windy, instalacje: gazowe, wodociągowe, grzewcze, elektryczne
 oraz sprzęty stanowiące wyposażenie nieruchomości w tym placów zabaw dla dzieci.
+
 Zauważone usterki i awarie zabezpiecza oraz zgłasza niezwłocznie przełożonemu
 bądź pracownikowi nadzoru technicznego.
 
@@ -1377,8 +1145,6 @@ administratora o konieczności ich naprawy bądź wymiany.
 
 15. Wykonuje czynności związane z dezynfekcją, dezynfekcją i deratyzacją
 pomieszczeń przeznaczonych do wspólnego użytku mieszkańców.
-
-## Strona 26
 
 16. Gospodarz domu dokonuje drobnych, nie wymagających uprawnień napraw takich
 jak: drzwi, klamek, zamków, ławek. Na polecenie przełożonego wykonuje
@@ -1395,10 +1161,8 @@ mu terenów zielonych i znajdujących się na nich obiektów zielonych,
 a w szczególności:
 
 1) koszenia trawników,
-
-2) pielenia rabat,  odchwaszczania żywopłotów i skupisk krzewów,
+2) pielenia rabat, odchwaszczania żywopłotów i skupisk krzewów,
 usuwania odrostów drzew
-
 3) podlewania zieleni w czasie długotrwałej suszy
 4) odkrywania krawężników (ewentualnego ich malowania).
 
@@ -1409,7 +1173,7 @@ Powiadamia przełożonego o rażących lub uporczywych przypadkach naruszania
 regulaminu.
 
 20. Na polecenie przełożonego wywiesza na tablicach informacyjnych, znajdujących
-sięna klatkach schodowych wykazy mieszkańców oraz inne ogłoszenia
+się na klatkach schodowych wykazy mieszkańców oraz inne ogłoszenia
 i zawiadomienia.
 
 21. Usuwa z budynków nieaktualne ogłoszenia, komunikaty i pisma Spółdzielni
@@ -1430,13 +1194,13 @@ za konieczne na terenie obsługiwanych budynków.
 26. Wykonywanie innych prac (w ramach posiadanych kwalifikacji) zleconych
 przez przełożonego.
 
-§ 25
-IV. POSTANOWIENIA KOŃCOWE
+<a id="dzial-4"></a>
+## IV. Postanowienia końcowe
+
+<a id="par-25"></a>
+### § 25
 
 Oprócz komórek funkcjonalnych objętych strukturą organizacyjną, w Spółdzielni
-
-## Strona 27
-
 działają:
 1. komisje stałe:
 a) komisja bezpieczeństwa i higieny pracy,
@@ -1447,41 +1211,24 @@ e) komisja ds. przeprowadzenia przetargów na lokale mieszkalne i garaże
 
 2. komisje okresowe, powoływane na czas wykonywania określonych czynności.
 
-§ 26
+<a id="par-26"></a>
+### § 26
 
 Szczegółowy zakres obowiązków znajduje się w teczce personalnej zatrudnionego
 na danym stanowisku.
 
-§ 27
+<a id="par-27"></a>
+### § 27
 
-1. Traci moc Regulamin Organizacyjny wprowadzony uchwałą Rady Nadzorczej
-nr 50/R/20 z dnia 24 listopada 2020 r. wraz ze zmianami uchwalonymi przez Radę
-Nadzorczą uchwałą nr 7/R/21 z dnia 23 marca 2021 r., uchwałą nr 16/R/21 z dnia 27
-kwietnia 2021 r., uchwałą nr 12/R/25 z dnia 26 marca 2025 r.
+1. Traci moc poprzedni Regulamin Organizacyjny wraz ze zmianami.
 
-2. Regulamin został uchwalony przez Radę Nadzorczą uchwałą nr 36/R/25 z dnia
-06.10.2025 r.  i wchodzi w życie z dniem uchwalenia.
+2. Regulamin został uchwalony przez Radę Nadzorczą i wchodzi w życie z dniem
+uchwalenia.
 
-Za zgodność:
-PRZEWODNICZĄCA
-RADY NADZORCZEJ
-Magdalena Banasiak
+<a id="zalacznik"></a>
+## Załącznik
 
-SEKRETARZ
-RADY NADZORCZEJ
-Małgorzata Górska
-
-## Strona 28
-
-
-
-## Strona 29
-
-> **Uwaga:** ta strona to schemat organizacyjny (diagram blokowy z połączeniami), zeskanowany w orientacji poziomej. OCR odczytał tekst z obróconej strony jako bezsensowny ciąg znaków; poniżej podano odtworzoną treść diagramu na podstawie odczytu obrazu strony (nazwy stanowisk, kody i liczby etatów), z zachowaniem struktury hierarchii zamiast układu graficznego.
-
-ZAŁĄCZNIK DO REGULAMINU ORGANIZACYJNEGO
-
-STRUKTURA ORGANIZACYJNA SPÓŁDZIELNI MIESZKANIOWEJ „DOŁY – MARYSIŃSKA”
+Struktura organizacyjna Spółdzielni Mieszkaniowej „Doły – Marysińska”
 
 PREZES ZARZĄDU — P/1
 - STAN. DS. ORGANIZACYJNO-SAMORZĄDOWYCH I POLITYKI MIESZKANIOWEJ — PM/2
@@ -1513,16 +1260,4 @@ Ogółem zatrudnienie w etatach: 37
 na stanowiskach nierobotniczych: 20
 na stanowiskach robotniczych: 17
 
-Schemat struktury organizacyjnej zatwierdzony uchwałą Rady Nadzorczej nr 36/R/25 z dnia 6.10.2025 r.
-
-Za zgodność:
-
-PRZEWODNICZĄCA RADY NADZORCZEJ
-Magdalena Banasiak
-
-SEKRETARZ RADY NADZORCZEJ
-Małgorzata Górska
-
-## Strona 30
-
-
+Schemat struktury organizacyjnej zatwierdzony przez Radę Nadzorczą.
