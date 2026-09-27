@@ -23,8 +23,32 @@ prawnej). Jedno ograniczenie znane: w
 (źle zagnieżdżone w źródłowym HTML) nie została odwzorowana — plik ma o tym adnotację i
 w razie potrzeby trzeba sprawdzić PDF.
 
-Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — ich konwersja do
-Markdown jeszcze się nie odbyła.
+Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
+(3 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+`rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`), przez własny skrypt
+(PyMuPDF + ręczne reguły), nie model AI. Te trzy akty pochodzą ze starych (2003 r.)
+skanów Dziennika Ustaw i miały nietypowe problemy źródłowe, które trzeba było wykrywać
+i naprawiać ręcznie:
+- **łamanie czcionki**: część znaków diakrytycznych była zakodowana w PDF jako inne,
+  niepowiązane symbole (np. „ł”→„∏”, „ń”→„ƒ”, „ś”→„Ê”) — wykryte i skorygowane
+  automatycznie w skrypcie (bezpieczne, bo te symbole nigdy nie występują w polskim
+  tekście prawnym);
+- **układ dwuszpaltowy**: skrypt wykrywa układ kolumnowy per dokument i scala kolumny
+  we właściwej kolejności;
+- **pasek tytułowy w „rynnie” między kolumnami**: na stronach otwierających akt tytuł
+  bywa wydrukowany wąskim pasem dokładnie pomiędzy kolumnami, co myli automatyczne
+  wykrywanie kolumn — w `rozporzadzenie-bhp-roboty-budowlane.md` i
+  `rozporzadzenie-plan-bioz.md` fragment tytułu/klauzuli wprowadzającej trzeba było
+  ręcznie zrekonstruować z surowego tekstu strony (zweryfikowane wobec PDF, nie zgadywane);
+- **wycinek PDF obejmuje sąsiedni akt**: eksport ISAP dla krótkiego aktu bywa cięciem po
+  stronach Dziennika Ustaw, więc ciągnie ze sobą końcówkę poprzedniego aktu i/lub
+  początek następnego, który dzieli z nim stronę — skrypt wykrywa i przycina do
+  właściwego aktu po tytule ustawy/rozporządzenia (zastosowane w `rozporzadzenie-plan-bioz`,
+  gdzie oryginalny PDF zawierał fragmenty sąsiednich aktów: rozporządzenia o
+  funkcjonariuszach ABW przed i rozporządzenia o wzorach wniosków budowlanych po).
+
+Pozostałych 16 aktów jeszcze nie sprawdzono pod kątem tych samych problemów — możliwe,
+że część z nich (zwłaszcza nowsze, po ~2010 r.) ma czysty tekst PDF bez tych wad.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
