@@ -360,3 +360,20 @@ nowelizowany i jak krytyczny jest dla bieżącej działalności Spółdzielni:
 Przy każdym sprawdzeniu najszybciej zweryfikować status przez
 `https://api.sejm.gov.pl/eli/acts/DU/{rok}/{pozycja}` (pole `status`/`inForce` oraz
 `nowelizacje po tekście jednolitym`) dla Dz.U. wskazanego w tabelach wyżej.
+
+## Spis treści i linkowane odniesienia (w toku)
+
+Każdy plik w `md/` dostaje: (1) `## Spis treści` zaraz po tytule, linkujący do
+Działów/Rozdziałów/Oddziałów/Art./§/Załączników w dokumencie, (2) w treści — bez
+zmieniania samego brzmienia — odniesienia typu „art. 5 ust. 2”/„§ 3”/„rozdziału II”/
+„załącznika nr 1” zamienione na link do właściwego nagłówka, **tylko gdy dotyczą tego
+samego aktu** (nie do innej ustawy/rozporządzenia/Kodeksu/dyrektywy — te zostają zwykłym
+tekstem, bo nie ma tu ich treści) **i tylko gdy cel istnieje w pliku** (żadnych martwych
+linków). Link prowadzi do całego artykułu/paragrafu, nie do pojedynczego ustępu/punktu —
+te nie mają własnych kotwic. Pliki z HTML mają już kotwice `<a id="...">` z
+`html_to_md.py` (`dzial-N`, `rozdzial-N`, `oddzial-N`, `art-N`, `par-N`); pliki z PDF
+dostają analogiczne kotwice dopisane tym samym skryptem wzbogacającym
+(`toc_and_links.py`, w tym samym scratchpadzie co konwertery). Robione seriami po 3
+pliki, z przerwą na przegląd. Gotowe: `rozporzadzenie-audyt-energetyczny-nowelizacja-2022-2816`,
+`rozporzadzenie-ochrona-przeciwpozarowa-budynkow-nowelizacja-2024-1716`,
+`rozporzadzenie-podzielniki-kosztow-ogrzewania` (3 z 36).

@@ -2,6 +2,23 @@
 
 w sprawie warunków ustalania technicznej możliwości i opłacalności zastosowania ciepłomierzy, podzielników kosztów ogrzewania oraz wodomierzy do pomiaru ciepłej wody użytkowej, warunków wyboru metody rozliczania kosztów zakupu ciepła oraz zakresu informacji zawartych w indywidualnych rozliczeniach [1)]
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [§ 1.](#par-1)
+- [§ 2.](#par-2)
+- [§ 3.](#par-3)
+- [§ 4.](#par-4)
+- [§ 5.](#par-5)
+- [§ 6.](#par-6)
+- [§ 7.](#par-7)
+- [§ 8.](#par-8)
+- [§ 9.](#par-9)
+- [§ 10.](#par-10)
+- [§ 11.](#par-11)
+- [§ 12.](#par-12)
+- [§ 13.](#par-13)
+
 <a id="tresc-rozporzadzenia"></a>
 ## Treść rozporządzenia
 
@@ -60,7 +77,7 @@ e) węzły cieplne umożliwiają zminimalizowanie strat ciepła wynikających z 
 
 Podzielniki kosztów ogrzewania posiadające funkcję zdalnego odczytu stosuje się w przypadku, gdy:
 
-1) instalacja centralnego ogrzewania nie spełnia warunku, o którym mowa w § 4 pkt 1;
+1) instalacja centralnego ogrzewania nie spełnia warunku, o którym mowa w [§ 4](#par-4) pkt 1;
 
 2) są spełnione łącznie warunki:
 
@@ -88,7 +105,7 @@ Wodomierze do pomiaru ciepłej wody użytkowej służące do rozliczeń kosztów
 
 1. Właściciel lub zarządca budynku wielolokalowego dokonuje wyboru metody rozliczania całkowitych kosztów zakupu ciepła na poszczególne lokale w tym budynku, tak aby wybrana metoda, uwzględniając współczynniki wyrównawcze zużycia ciepła na ogrzewanie wynikające z położenia lokalu w bryle budynku, przy jednoczesnym zachowaniu prawidłowych warunków eksploatacji budynku określonych w odrębnych przepisach, stymulowała energooszczędne zachowania oraz zapewniała ustalanie kosztów zakupu ciepła w sposób odpowiadający zużyciu ciepła na ogrzewanie.
 
-2. Właściciel lub zarządca budynku wielolokalowego dokonuje wyboru metody rozliczania kosztów zakupu ciepła wykorzystującej wskazania podzielników kosztów ogrzewania, jeżeli zgodnie z § 8 jest możliwe wyznaczenie dla kosztów zmiennych zakupu ciepła zależnych od jego zużycia w lokalach dla każdego sezonu grzewczego:
+2. Właściciel lub zarządca budynku wielolokalowego dokonuje wyboru metody rozliczania kosztów zakupu ciepła wykorzystującej wskazania podzielników kosztów ogrzewania, jeżeli zgodnie z [§ 8](#par-8) jest możliwe wyznaczenie dla kosztów zmiennych zakupu ciepła zależnych od jego zużycia w lokalach dla każdego sezonu grzewczego:
 
 1) maksymalnego kosztu zmiennego zakupu ciepła zależnego od jego zużycia w lokalach w przeliczeniu na 1 m 2 powierzchni lokali użytkowanych w budynku wielolokalowym;
 
@@ -97,9 +114,9 @@ Wodomierze do pomiaru ciepłej wody użytkowej służące do rozliczeń kosztów
 <a id="par-8"></a>
 ### § 8.
 
-1. Maksymalny koszt zmienny zakupu ciepła, o którym mowa w § 7 ust. 2 pkt 1, wylicza się jako wartość zużycia ciepła na dany lokal wynikającą z technicznej możliwości dostawy ciepła do lokalu.
+1. Maksymalny koszt zmienny zakupu ciepła, o którym mowa w [§ 7](#par-7) ust. 2 pkt 1, wylicza się jako wartość zużycia ciepła na dany lokal wynikającą z technicznej możliwości dostawy ciepła do lokalu.
 
-2. Minimalny koszt zmienny zakupu ciepła, o którym mowa w § 7 ust. 2 pkt 2, wylicza się jako wartość zużycia ciepła do ogrzania lokalu konieczną do utrzymania w nim temperatur nie niższych niż temperatury obliczeniowe ogrzewanych pomieszczeń określone w przepisach wydanych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm. [4)]).
+2. Minimalny koszt zmienny zakupu ciepła, o którym mowa w [§ 7](#par-7) ust. 2 pkt 2, wylicza się jako wartość zużycia ciepła do ogrzania lokalu konieczną do utrzymania w nim temperatur nie niższych niż temperatury obliczeniowe ogrzewanych pomieszczeń określone w przepisach wydanych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm. [4)]).
 
 <a id="par-9"></a>
 ### § 9.
@@ -140,14 +157,14 @@ Zakres przekazywanych użytkownikom lokali informacji o zużyciu ciepła dla uż
 <a id="par-11"></a>
 ### § 11.
 
-1. Przepisów § 3-5 nie stosuje się w przypadku budynku wielolokalowego, który w dniu wejścia w życie rozporządzenia był wyposażony w ciepłomierze albo w podzielniki kosztów ogrzewania, zarówno posiadające, jak i nieposiadające funkcji zdalnego odczytu, umożliwiające indywidualne rozliczanie kosztów ogrzewania poszczególnych lokali.
+1. Przepisów [§ 3](#par-3)-5 nie stosuje się w przypadku budynku wielolokalowego, który w dniu wejścia w życie rozporządzenia był wyposażony w ciepłomierze albo w podzielniki kosztów ogrzewania, zarówno posiadające, jak i nieposiadające funkcji zdalnego odczytu, umożliwiające indywidualne rozliczanie kosztów ogrzewania poszczególnych lokali.
 
-2. Przepisów § 3 i § 6 nie stosuje się w przypadku budynku wielolokalowego, który w dniu wejścia w życie rozporządzenia był wyposażony w wodomierze do pomiaru ciepłej wody użytkowej w poszczególnych lokalach, zarówno posiadające, jak i nieposiadające funkcji zdalnego odczytu.
+2. Przepisów [§ 3](#par-3) i [§ 6](#par-6) nie stosuje się w przypadku budynku wielolokalowego, który w dniu wejścia w życie rozporządzenia był wyposażony w wodomierze do pomiaru ciepłej wody użytkowej w poszczególnych lokalach, zarówno posiadające, jak i nieposiadające funkcji zdalnego odczytu.
 
 <a id="par-12"></a>
 ### § 12.
 
-Właściciel lub zarządca budynku dostosowuje regulamin rozliczeń w terminie 12 miesięcy od dnia wejścia w życie rozporządzenia, w przypadku gdy zmiana wynikająca z rozporządzenia dotyczy metod rozliczania kosztów zakupu ciepła lub zakresu informacji wskazanych w § 9 oraz § 10.
+Właściciel lub zarządca budynku dostosowuje regulamin rozliczeń w terminie 12 miesięcy od dnia wejścia w życie rozporządzenia, w przypadku gdy zmiana wynikająca z rozporządzenia dotyczy metod rozliczania kosztów zakupu ciepła lub zakresu informacji wskazanych w [§ 9](#par-9) oraz [§ 10](#par-10).
 
 <a id="par-13"></a>
 ### § 13.

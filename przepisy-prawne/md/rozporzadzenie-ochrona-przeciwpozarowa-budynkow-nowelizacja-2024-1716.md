@@ -2,6 +2,14 @@
 
 zmieniające rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów [1)]
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [§ 1.](#par-1)
+- [§ 2.](#par-2)
+- [§ 3.](#par-3)
+- [Załącznik - Sposób oznakowania miejsca połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną oraz z dachem](#zalacznik-sposob-oznakowania-miejsca-polaczenia-sciany-oddzielenia-przeciwpozarowego-ze-sciana-zewnetrzna-oraz-z-dachem)
+
 <a id="tresc-rozporzadzenia"></a>
 ## Treść rozporządzenia
 
@@ -12,7 +20,7 @@ Na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie prz
 
 W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. z 2023 r. poz. 822) wprowadza się następujące zmiany:
 
-1) w § 3 po ust. 3 dodaje się ust. 3a w brzmieniu:
+1) w [§ 3](#par-3) po ust. 3 dodaje się ust. 3a w brzmieniu:
 
 „3a. Wymagań, o których mowa w ust. 1-3, nie stosuje się do autonomicznych czujek dymu i autonomicznych czujek tlenku węgla. Urządzenia te należy zamontować, konserwować i eksploatować w sposób określony w instrukcjach obsługi, opracowanych przez ich producentów.”;
 
@@ -48,13 +56,13 @@ b) w co najmniej jednej strefie pożarowej gęstość obciążenia ogniowego prz
 <a id="par-2"></a>
 ### § 2.
 
-1. W stosunku do budynków handlowych, produkcyjnych oraz magazynowych, dla których przed dniem wejścia w życie niniejszego rozporządzenia wydano decyzję w sprawie pozwolenia na użytkowanie albo został złożony wniosek o pozwolenie na budowę lub odrębny wniosek o zatwierdzenie projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego i wnioski te zostały opracowane na podstawie dotychczasowych przepisów z zakresu ochrony przeciwpożarowej, albo zostało dokonane zgłoszenie budowy lub wykonania robót budowlanych, wymagania, o których mowa w § 4 ust. 2 pkt 6 rozporządzenia zmienianego w § 1, stosuje się od dnia 1 stycznia 2026 r.
+1. W stosunku do budynków handlowych, produkcyjnych oraz magazynowych, dla których przed dniem wejścia w życie niniejszego rozporządzenia wydano decyzję w sprawie pozwolenia na użytkowanie albo został złożony wniosek o pozwolenie na budowę lub odrębny wniosek o zatwierdzenie projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego i wnioski te zostały opracowane na podstawie dotychczasowych przepisów z zakresu ochrony przeciwpożarowej, albo zostało dokonane zgłoszenie budowy lub wykonania robót budowlanych, wymagania, o których mowa w § 4 ust. 2 pkt 6 rozporządzenia zmienianego w [§ 1](#par-1), stosuje się od dnia 1 stycznia 2026 r.
 
-2. W przypadku lokali mieszkalnych użytkowanych jako takie lokale w dniu wejścia w życie niniejszego rozporządzenia, wymagania określone w § 28a rozporządzenia zmienianego w § 1, stosuje się od dnia 1 stycznia 2030 r.
+2. W przypadku lokali mieszkalnych użytkowanych jako takie lokale w dniu wejścia w życie niniejszego rozporządzenia, wymagania określone w § 28a rozporządzenia zmienianego w [§ 1](#par-1), stosuje się od dnia 1 stycznia 2030 r.
 
-3. W przypadku pomieszczeń, w których odbywa się proces spalania paliwa stałego, ciekłego lub gazowego, wchodzących w skład lokali mieszkalnych, użytkowanych jako takie pomieszczenia w dniu wejścia w życie niniejszego rozporządzenia, wymagania określone w § 28a rozporządzenia zmienianego w § 1, stosuje się od dnia 1 stycznia 2030 r.
+3. W przypadku pomieszczeń, w których odbywa się proces spalania paliwa stałego, ciekłego lub gazowego, wchodzących w skład lokali mieszkalnych, użytkowanych jako takie pomieszczenia w dniu wejścia w życie niniejszego rozporządzenia, wymagania określone w § 28a rozporządzenia zmienianego w [§ 1](#par-1), stosuje się od dnia 1 stycznia 2030 r.
 
-4. W przypadku pomieszczeń mieszkalnych oraz jednostek mieszkalnych, w których są świadczone usługi hotelarskie, a także wchodzących w skład lokali użytkowych pomieszczeń, w których odbywa się proces spalania paliwa stałego, ciekłego lub gazowego, użytkowanych jako takie pomieszczenia lub jednostki w dniu wejścia w życie niniejszego rozporządzenia, wymagania określone w § 28a rozporządzenia zmienianego w § 1, stosuje się od dnia 30 czerwca 2026 r.
+4. W przypadku pomieszczeń mieszkalnych oraz jednostek mieszkalnych, w których są świadczone usługi hotelarskie, a także wchodzących w skład lokali użytkowych pomieszczeń, w których odbywa się proces spalania paliwa stałego, ciekłego lub gazowego, użytkowanych jako takie pomieszczenia lub jednostki w dniu wejścia w życie niniejszego rozporządzenia, wymagania określone w § 28a rozporządzenia zmienianego w [§ 1](#par-1), stosuje się od dnia 30 czerwca 2026 r.
 
 <a id="par-3"></a>
 ### § 3.

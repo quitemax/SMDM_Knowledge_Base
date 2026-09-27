@@ -2,6 +2,12 @@
 
 zmieniające rozporządzenie w sprawie szczegółowego zakresu i form audytu energetycznego oraz części audytu remontowego, wzorów kart audytów, a także algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego [1)]
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [§ 1.](#par-1)
+- [§ 2.](#par-2)
+
 <a id="tresc-rozporzadzenia"></a>
 ## Treść rozporządzenia
 
