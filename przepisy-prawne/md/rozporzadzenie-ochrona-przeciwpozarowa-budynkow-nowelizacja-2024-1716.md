@@ -1,0 +1,98 @@
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 listopada 2024 r.
+
+zmieniające rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów [1)]
+
+<a id="tresc-rozporzadzenia"></a>
+## Treść rozporządzenia
+
+Na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275, 1222 i 1692) zarządza się, co następuje:
+
+<a id="par-1"></a>
+### § 1.
+
+W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. z 2023 r. poz. 822) wprowadza się następujące zmiany:
+
+1) w § 3 po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+2) w § 4 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
+
+3) tytuł rozdziału 6 otrzymuje brzmienie: „Stosowanie stałych urządzeń gaśniczych, systemów sygnalizacji pożarowej, autonomicznych czujek dymu, autonomicznych czujek tlenku węgla, dźwiękowych systemów ostrzegawczych i gaśnic”;
+
+4) po § 28 dodaje się § 28a w brzmieniu:
+
+5) w § 37 w ust. 8 wyraz „załącznik” zastępuje się wyrazami „załącznik nr 2”;
+
+6) załącznik do rozporządzenia oznacza się jako załącznik nr 2 do rozporządzenia i dodaje się załącznik nr 1 do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
+
+<a id="par-2"></a>
+### § 2.
+
+1. W stosunku do budynków handlowych, produkcyjnych oraz magazynowych, dla których przed dniem wejścia w życie niniejszego rozporządzenia wydano decyzję w sprawie pozwolenia na użytkowanie albo został złożony wniosek o pozwolenie na budowę lub odrębny wniosek o zatwierdzenie projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego i wnioski te zostały opracowane na podstawie dotychczasowych przepisów z zakresu ochrony przeciwpożarowej, albo zostało dokonane zgłoszenie budowy lub wykonania robót budowlanych, wymagania, o których mowa w § 4 ust. 2 pkt 6 rozporządzenia zmienianego w § 1, stosuje się od dnia 1 stycznia 2026 r.
+
+2. W przypadku lokali mieszkalnych użytkowanych jako takie lokale w dniu wejścia w życie niniejszego rozporządzenia, wymagania określone w § 28a rozporządzenia zmienianego w § 1, stosuje się od dnia 1 stycznia 2030 r.
+
+3. W przypadku pomieszczeń, w których odbywa się proces spalania paliwa stałego, ciekłego lub gazowego, wchodzących w skład lokali mieszkalnych, użytkowanych jako takie pomieszczenia w dniu wejścia w życie niniejszego rozporządzenia, wymagania określone w § 28a rozporządzenia zmienianego w § 1, stosuje się od dnia 1 stycznia 2030 r.
+
+4. W przypadku pomieszczeń mieszkalnych oraz jednostek mieszkalnych, w których są świadczone usługi hotelarskie, a także wchodzących w skład lokali użytkowych pomieszczeń, w których odbywa się proces spalania paliwa stałego, ciekłego lub gazowego, użytkowanych jako takie pomieszczenia lub jednostki w dniu wejścia w życie niniejszego rozporządzenia, wymagania określone w § 28a rozporządzenia zmienianego w § 1, stosuje się od dnia 30 czerwca 2026 r.
+
+<a id="par-3"></a>
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+<a id="zalacznik-sposob-oznakowania-miejsca-polaczenia-sciany-oddzielenia-przeciwpozarowego-ze-sciana-zewnetrzna-oraz-z-dachem"></a>
+## Załącznik - Sposób oznakowania miejsca połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną oraz z dachem
+
+Miejsce połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną oraz z dachem oznakowuje się:
+
+1) za pomocą znaku koloru czerwonego i białego o wymiarach co najmniej 200 mm × 200 mm, według wzoru przedstawionego na rys. nr 1, zwanego dalej „znakiem”, lub
+
+2) za pomocą pasa koloru czerwonego o szerokości co najmniej 0,15 m, zwanego dalej „pasem”, lub
+
+3) przez wykonanie w kolorze czerwonym wysunięcia ściany oddzielenia przeciwpożarowego poza lico ściany zewnętrznej lub ponad pokrycie dachu budynku
+
+- w sposób przedstawiony na rys. nr 2, 3, 4 lub 5.
+
+Uwagi:
+
+1. Rozwiązania przedstawione na rys. nr 2-4 mogą być łączone lub stosowane zamiennie. Przykłady łącznego i zamiennego stosowania tych rozwiązań przedstawiono na rys. nr 5.
+
+2. Do oznakowania za pomocą znaku miejsca połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną stosuje się co najmniej jeden znak na elewacji zgodnie z rys. nr 2 lub 5. Jeżeli ściana oddzielenia przeciwpożarowego nie przebiega w pionie od poziomu terenu do dachu, instrukcja bezpieczeństwa pożarowego, o której mowa w § 6 rozporządzenia, powinna zawierać rysunek z widokiem elewacji budynku, przedstawiający przebieg tego połączenia.
+
+3. Znaki mogą być mocowane do ścian lub dachów bezpośrednio lub za pomocą trwałych elementów mocujących, takich jak uchwyty lub słupki.
+
+Rys. nr 1. Znak - „Ściana oddzielenia przeciwpożarowego”.
+
+a) patrz oryginał
+
+b) patrz oryginał
+
+Rys. nr 2. Oznakowanie znakami miejsc połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną oraz z dachem.
+
+a) patrz oryginał
+
+b) patrz oryginał
+
+Rys. nr 3. Oznakowanie pasami miejsc połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną oraz z dachem.
+
+patrz oryginał
+
+Rys. nr 4. Oznakowanie miejsc połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną oraz z dachem poprzez wykonanie w kolorze czerwonym wysunięcia ściany oddzielenia przeciwpożarowego poza lico ściany zewnętrznej oraz ponad pokrycie dachu budynku.
+
+a) patrz oryginał
+
+b) patrz oryginał
+
+c) patrz oryginał
+
+d) patrz oryginał
+
+Rys. nr 5. Przykłady łącznego i zamiennego stosowania rozwiązań przedstawionych na rys. nr 2-4.
+
+patrz oryginał
+
+
+## Przypisy
+
+
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej - sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).

@@ -7,8 +7,24 @@ wyznacza ramy jej działalności.
 
 - `pdf/` — oryginalne pliki PDF pobrane z oficjalnych źródeł (głównie
   `api.sejm.gov.pl`/ISAP — Internetowy System Aktów Prawnych Kancelarii Sejmu; RODO z
-  mirrora PIBR, ponieważ EUR-Lex blokuje automatyczne pobieranie).
-- `md/` — wersje przekonwertowane na Markdown (do zrobienia w kolejnym kroku).
+  mirrora PIBR, jako zapasowe źródło na wypadek, gdyby EUR-Lex zablokował pobieranie).
+- `html/` — dla aktów, które mają dostępny tekst w HTML (ISAP `text.html` lub, dla RODO,
+  EUR-Lex), surowy HTML pobrany bezpośrednio (bez pośrednictwa modeli AI) — źródło
+  pośrednie dla konwersji do `md/`.
+- `md/` — wersje przekonwertowane na Markdown. 16 z 35 aktów przekonwertowano z HTML
+  (patrz tabele niżej, kolumna „MD”); pozostałe wymagają konwersji z PDF (do zrobienia).
+
+### Stan konwersji do Markdown
+
+16 aktów miało dostępny tekst HTML u źródła i zostało przekonwertowanych bezpośrednio
+(konwersja własnym skryptem, nie przez model AI — unika ryzyka parafrazy/skrótów treści
+prawnej). Jedno ograniczenie znane: w
+`rozporzadzenie-warunki-techniczne-budynkow-i-usytuowanie-2002-UCHYLONE.md` część tabel
+(źle zagnieżdżone w źródłowym HTML) nie została odwzorowana — plik ma o tym adnotację i
+w razie potrzeby trzeba sprawdzić PDF.
+
+Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — ich konwersja do
+Markdown jeszcze się nie odbyła.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
@@ -103,7 +119,7 @@ i ustawa o CEEB (kat. 5).
 
 | Plik | Źródło | Uwagi |
 |---|---|---|
-| `rodo-rozporzadzenie-2016-679.pdf` | Dz.Urz. UE L 119/1 z 4.5.2016 | rozporządzenie unijne, stosowane wprost, nie ma polskiego tekstu jednolitego do aktualizacji; pobrane z mirrora PIBR (EUR-Lex blokuje automatyczne pobieranie) |
+| `rodo-rozporzadzenie-2016-679.pdf` | Dz.Urz. UE L 119/1 z 4.5.2016 | rozporządzenie unijne, stosowane wprost, nie ma polskiego tekstu jednolitego do aktualizacji; PDF z mirrora PIBR (zapasowo — EUR-Lex bywa niedostępny, blokada anty-botowa), ale MD przekonwertowano z HTML pobranego bezpośrednio z EUR-Lex |
 | `ustawa-o-ochronie-danych-osobowych.pdf` | 2019 poz. 1781 | tekst jednolity z 2019 r.; nowelizacje DU 2026/252 i DU 2026/548 jeszcze nie wliczone |
 | `ustawa-o-ochronie-praw-lokatorow.pdf` | 2023 poz. 725 | tekst jednolity |
 
