@@ -24,14 +24,15 @@ prawnej). Jedno ograniczenie znane: w
 w razie potrzeby trzeba sprawdzić PDF.
 
 Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(13 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+(14 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
 `ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
 `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`,
 `ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb`,
 `ustawa-o-spoldzielniach-mieszkaniowych`, `ustawa-o-ochronie-przeciwpozarowej`,
 `ustawa-prawo-spoldzielcze`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605`,
-`kodeks-cywilny`, `rozporzadzenie-audyt-energetyczny`), przez własny skrypt
+`kodeks-cywilny`, `rozporzadzenie-audyt-energetyczny`,
+`rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`), przez własny skrypt
 (PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i jak skrypt sobie
 z nimi radzi:
 - **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
@@ -96,8 +97,35 @@ z nimi radzi:
   mają załączniki (wzory formularzy/kart) osadzone jako zeskanowana grafika, nie tekst —
   w takim wypadku plik ma adnotację, że dany załącznik nie został skonwertowany, i odsyła
   do PDF (zastosowane w `rozporzadzenie-audyt-energetyczny`, załączniki nr 1–4).
+- **nagłówek strony rozbity przez wykrywanie kolumn**: nagłówek typu „Dziennik Ustaw – N
+  – Poz. NNN” bywa jedną linią rozciągniętą na całą szerokość strony z szerokim odstępem
+  wewnętrznym (np. wyśrodkowany numer strony vs. wyrównany do prawej „Poz.”) — jeśli ten
+  odstęp trafiał akurat w punkt podziału kolumn, skrypt dzielił nagłówek na dwie części
+  jak zwykły tekst dwuszpaltowy, więc nigdy nie pasował do wzorca nagłówka i przeciekał do
+  treści. Naprawione: skrypt sprawdza wzorzec nagłówka na całej (niepodzielonej) linii,
+  zanim w ogóle rozważy podział na kolumny.
+- **fałszywe wykrycie układu dwuszpaltowego** (`rozporzadzenie-kontrola-metrologiczna-...`):
+  dokument jest w całości jednoszpaltowy, ale zwykłe odstępy między wyrazami w
+  wyjustowanym tekście przypadkiem utworzyły pozorną „szczelinę” w rozkładzie pozycji
+  początków wyrazów blisko środka strony, co myliło wykrywanie kolumn. Naprawione:
+  kandydat na szczelinę kolumn jest teraz dodatkowo weryfikowany przez sprawdzenie, czy
+  przy tym podziale rzeczywiście niewiele linii miałoby tekst „przeskakujący” przez niego
+  z małym odstępem (co dla prawdziwej kolumny prawie nigdy się nie zdarza, a dla zwykłego
+  tekstu jednoszpaltowego — bardzo często).
+- **obwieszczenie + wykrywanie „PDF obejmuje sąsiedni akt” w złej kolejności**: gdy
+  wykrywanie sąsiedniego aktu (patrz wyżej) uruchamiało się przed pominięciem wstępu
+  obwieszczenia, własny tytuł obwieszczenia i tytuł właściwego aktu w załączniku bywały
+  mylnie potraktowane jako „dwa sąsiadujące akty”, co ucinało całą właściwą treść,
+  zostawiając tylko proceduralny wstęp obwieszczenia. Kolejność kroków odwrócona: najpierw
+  pominięcie strony tytułowej/wstępu obwieszczenia, dopiero potem wykrywanie sąsiedniego
+  aktu.
+- **zdublowane przypisy z tekstu jednolitego i strony obwieszczenia**: obwieszczenie i
+  załącznik, który opakowuje, czasem numerują przypisy od nowa, więc ten sam numer (np.
+  „1)”) mógł się pojawić dwa razy z niemal identyczną, ale nie identyczną treścią — skrypt
+  teraz zachowuje tylko ostatnie (chronologicznie późniejsze, czyli należące do
+  właściwego aktu) wystąpienie danego numeru przypisu.
 
-Pozostałych 6 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
+Pozostałych 5 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
