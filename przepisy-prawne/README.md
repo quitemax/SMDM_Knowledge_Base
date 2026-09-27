@@ -24,7 +24,7 @@ prawnej). Jedno ograniczenie znane: w
 w razie potrzeby trzeba sprawdzić PDF.
 
 Pozostałe 20 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(16 z 20 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+(17 z 20 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
 `ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
 `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`,
@@ -33,7 +33,7 @@ Pozostałe 20 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja
 `ustawa-prawo-spoldzielcze`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605`,
 `kodeks-cywilny`, `rozporzadzenie-audyt-energetyczny`,
 `rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`, `ustawa-o-rachunkowosci`,
-`ustawa-prawo-budowlane`),
+`ustawa-prawo-budowlane`, `ustawa-o-dozorze-technicznym-nowelizacja-2026-252`),
 przez własny skrypt (PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i
 jak skrypt sobie z nimi radzi:
 - **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
@@ -155,11 +155,27 @@ jak skrypt sobie z nimi radzi:
   (nadpisywany później przez prawdziwy przypis 3). Naprawione: marker przypisu rozpoznawany
   jest teraz też po rozmiarze czcionki (najmniejszy rozmiar występujący w obszarze przypisów
   w całym dokumencie), a nie tylko po treści.
+- **konwencja „Art. N. § 1.” użyta tylko w jednym cytowanym przepisie wewnątrz ustawy
+  nowelizującej** (`ustawa-o-dozorze-technicznym-nowelizacja-2026-252` — mimo nazwy pliku
+  to obszerna nowelizacja wdrażająca dyrektywę NIS2, głównie zmieniająca ustawę o krajowym
+  systemie cyberbezpieczeństwa; przepis dotyczący dozoru technicznego to tylko jeden art.
+  wśród ok. 50): art. 6 tej ustawy wstawia do Ordynacji podatkowej nowy art. 299i, który —
+  zgodnie z konwencją Ordynacji podatkowej — dzieli się na „§ 1.”, „§ 2.”, „§ 3.” zamiast
+  zwykłych ustępów. Skrypt wykrywa tę konwencję tylko globalnie dla całego dokumentu (po
+  wystąpieniu „Art. N. § 1.” na początku akapitu), a cytowany art. 299i zaczyna się w
+  środku akapitu (po „w brzmieniu: „Art. 299i. § 1. ...”), więc nie został wykryty — „§ 2.”
+  i „§ 3.” zostały błędnie potraktowane jako nagłówki najwyższego poziomu. Poprawione
+  ręcznie (za wąski, jednorazowy przypadek na całe dotychczasowe 17 plików, żeby uzasadniać
+  zmianę w skrypcie); do obserwacji, czy powtórzy się w kolejnych aktach.
+- **załączniki w formie rozbudowanych tabel wielostronicowych** (`ustawa-o-dozorze-technicznym-nowelizacja-2026-252`,
+  załączniki nr 1–3: klasyfikacja sektorów/podsektorów/rodzajów podmiotów z kolumnami progu
+  wielkości „I II III”): podobnie jak przy `rozporzadzenie-kontrola-metrologiczna...`, tekst
+  jest odzyskany, ale bez struktury tabeli — plik ma o tym adnotację i w razie potrzeby
+  trzeba sprawdzić PDF.
 
-Pozostałe 4 akty (`ustawa-prawo-energetyczne`, `ustawa-prawo-zamowien-publicznych`,
-`ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`,
-`ustawa-o-dozorze-technicznym-nowelizacja-2026-252`) jeszcze nie sprawdzono pod kątem
-tych samych problemów.
+Pozostałe 3 akty (`ustawa-prawo-energetyczne`, `ustawa-prawo-zamowien-publicznych`,
+`ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`) jeszcze nie sprawdzono pod kątem tych
+samych problemów.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
