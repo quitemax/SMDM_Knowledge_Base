@@ -23,8 +23,8 @@ prawnej). Jedno ograniczenie znane: w
 (źle zagnieżdżone w źródłowym HTML) nie została odwzorowana — plik ma o tym adnotację i
 w razie potrzeby trzeba sprawdzić PDF.
 
-Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(15 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+Pozostałe 20 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
+(16 z 20 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
 `ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
 `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`,
@@ -32,7 +32,8 @@ Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja
 `ustawa-o-spoldzielniach-mieszkaniowych`, `ustawa-o-ochronie-przeciwpozarowej`,
 `ustawa-prawo-spoldzielcze`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605`,
 `kodeks-cywilny`, `rozporzadzenie-audyt-energetyczny`,
-`rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`, `ustawa-o-rachunkowosci`),
+`rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`, `ustawa-o-rachunkowosci`,
+`ustawa-prawo-budowlane`),
 przez własny skrypt (PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i
 jak skrypt sobie z nimi radzi:
 - **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
@@ -136,8 +137,29 @@ jak skrypt sobie z nimi radzi:
   do nagłówka. Ten sam numer bywa zlepiony z numerem przypisu („Załącznik nr 119)” = nr 1
   + przypis 19) — skrypt zakłada wtedy jednocyfrowy numer załącznika i nawiasuje przypis
   osobno (`Załącznik nr 1[19)]`), a tytuł z kolejnego akapitu nadal poprawnie dołącza.
+- **fałszywe wykrycie układu dwuszpaltowego przez tabelę w załączniku** (`ustawa-prawo-budowlane`,
+  95 stron, 1 załącznik-tabela na 3 ostatnich stronach): dokument jest w całości
+  jednoszpaltowy, ale prawdziwa szczelina między kolumnami tabeli w załączniku przeszła
+  walidację jako gdyby to była szczelina kolumn głównego tekstu, i cały dokument (92 strony
+  zwykłej prozy) został błędnie podzielony na dwie kolumny, co poprzestawiało kolejność
+  fragmentów zdań na każdej stronie. Naprawione: wykrywanie układu kolumnowego bierze pod
+  uwagę tylko strony sprzed pierwszego napotkanego podpisu „Załącznik nr N”/„Załącznik do
+  ustawy/rozporządzenia” (ale nie „Załącznik do obwieszczenia”, czyli własnego opakowania
+  obwieszczenia — to nie jest treściowy załącznik aktu).
+- **numer wyliczenia wewnątrz treści przypisu mylony z markerem nowego przypisu**
+  (`ustawa-prawo-budowlane`, przypis 1): gdy przypis sam zawiera numerowane wyliczenie
+  („[...]: 1) dyrektywy...; 2) częściowo...; 3) częściowo...”), pozycja takiego wyliczenia
+  może trafić do własnego fragmentu tekstu, którego cała treść to tylko „3)” — nie do
+  odróżnienia od prawdziwego, małego markera nowego przypisu przez samo dopasowanie wzorca,
+  więc przypis 1 urywał się w połowie, a jego dalsza treść ginęła jako fałszywy „przypis 3)”
+  (nadpisywany później przez prawdziwy przypis 3). Naprawione: marker przypisu rozpoznawany
+  jest teraz też po rozmiarze czcionki (najmniejszy rozmiar występujący w obszarze przypisów
+  w całym dokumencie), a nie tylko po treści.
 
-Pozostałych 4 akty jeszcze nie sprawdzono pod kątem tych samych problemów.
+Pozostałe 4 akty (`ustawa-prawo-energetyczne`, `ustawa-prawo-zamowien-publicznych`,
+`ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`,
+`ustawa-o-dozorze-technicznym-nowelizacja-2026-252`) jeszcze nie sprawdzono pod kątem
+tych samych problemów.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
