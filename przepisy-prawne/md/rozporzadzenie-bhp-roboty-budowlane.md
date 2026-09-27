@@ -1190,7 +1190,7 @@ Zakładanie obudowy lub montaż rur w uprzednio wykonanym wykopie o ścianach pi
 
 6. Temperatura powietrza w miejscu pracy nie powinna przekraczać 301 K (28°C).
 
-7. Ilość powietrza doprowadzonego do wyrobisk powinna zapewniać utrzymanie wymaganego składu i temperatury powietrza. Objętość dostarczanego pom3, wietrza powinna wynosić co najmniej 6 na jedną osobę najliczniejszej zmiany.
+7. Ilość powietrza doprowadzonego do wyrobisk powinna zapewniać utrzymanie wymaganego składu i temperatury powietrza. Objętość dostarczanego powietrza powinna wynosić co najmniej 6 m3, na jedną osobę najliczniejszej zmiany.
 
 8. Prędkość ruchu powietrza w wyrobiskach korytarzowych powinna wynosić nie mniej niż 0,1 m/s i nie więcej niż 8 m/s.
 
@@ -1558,7 +1558,7 @@ W czasie spawania gazowego należy używać wyłącznie butli posiadających wa�
 
 ### § 225.
 
-Przemieszczanie butli o pojemności wodnej dm3 powyżej 10 powinno odbywać się zgodnie z przepisami dotyczącymi bezpieczeństwa i higieny pracy przy pracach spawalniczych.
+Przemieszczanie butli o pojemności wodnej powyżej 10 dm3 powinno odbywać się zgodnie z przepisami dotyczącymi bezpieczeństwa i higieny pracy przy pracach spawalniczych.
 
 ### § 226.
 

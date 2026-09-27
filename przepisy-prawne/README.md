@@ -24,12 +24,14 @@ prawnej). Jedno ograniczenie znane: w
 w razie potrzeby trzeba sprawdzić PDF.
 
 Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(6 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+(9 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
 `ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
-`ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`), przez własny skrypt
-(PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i jak skrypt sobie
-z nimi radzi:
+`ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`,
+`ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb`,
+`ustawa-o-spoldzielniach-mieszkaniowych`, `ustawa-o-ochronie-przeciwpozarowej`), przez
+własny skrypt (PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i jak
+skrypt sobie z nimi radzi:
 - **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
   zakodowana w PDF jako inne, niepowiązane symbole (np. „ł”→„∏”, „ń”→„ƒ”, „ś”→„Ê”) —
   wykryte i skorygowane automatycznie (bezpieczne, bo te symbole nigdy nie występują w
@@ -55,8 +57,23 @@ z nimi radzi:
   przypisów na dole strony po mniejszej czcionce (a nie sztywnym progu wysokości strony,
   bo długi przypis z zagnieżdżoną listą może zaczynać się wysoko na stronie) i zbiera je
   w sekcję „## Przypisy” na końcu pliku, tak jak w plikach z HTML.
+- **numeracja z sufiksem w nawiasie kwadratowym** („art. 24[1]”, „ust. 1[1]”): niektóre
+  akty oznaczają wstawiony przepis nie literą („24a”) tylko taką notacją zamiast
+  indeksu górnego („24¹”) — to autentyczny sposób zapisu w źródle (zweryfikowane wizualnie
+  w PDF), skrypt rozpoznaje go jak zwykły sufiks jednostki, żeby poprawnie dzielić
+  akapity i nagłówki.
+- **precyzja grupowania linii**: dwa słowa na tej samej fizycznej linii mogą mieć
+  nieznacznie różny raportowany y0 (np. gdy jeden fragment zawiera indeks w nawiasie
+  kwadratowym) i przy grupowaniu przez proste zaokrąglenie trafić do różnych „wierszy” —
+  skrypt grupuje słowa w linie z tolerancją, a nie sztywnym zaokrągleniem, co naprawiło
+  kilka wcześniej niezauważonych przestawień słów (m.in. jednostki „m2”/„m3” w kilku już
+  wcześniej skonwertowanych plikach — poprawione przy okazji).
+- **wzory matematyczne w załącznikach**: formuła w PDF czasem nie odwzorowuje się jako
+  sensowny tekst (np. `ustawa-o-wspieraniu-termomodernizacji...`, wzór na premię
+  kompensacyjną) — w takim wypadku strona źródłowa jest renderowana jako obraz i wzór
+  przepisywany ręcznie na tej podstawie, z adnotacją w pliku wskazującą, że tak powstał.
 
-Pozostałych 13 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
+Pozostałych 10 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity

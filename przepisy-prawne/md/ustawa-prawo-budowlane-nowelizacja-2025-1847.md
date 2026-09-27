@@ -70,7 +70,7 @@ a) w ust. 1: – po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) wolno stojący
 
 a) niezadaszonych,
 
-b) zadaszonych, o powierzchni dachu nie większej niż 50 m2;”, – pkt 25 otrzymuje brzmienie: „25) stacji ładowania w rozumieniu art. 2 pkt 27 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289, 1853 i 1881), z wyłączeniem infrastruktury ładowania drogowego transportu publicznego w rozumieniu art. 2 pkt 3 tej ustawy, z uwzględnieniem art. 29a;”, – w pkt 29 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: m3 „e) bezodpływowych zbiorników na wody opadowe lub roztopowe o pojemności większej niż 5 i nie większej niż 30 m3;”, – w pkt 34 kropkę zastępuje się średnikiem i dodaje się pkt 35–40 w brzmieniu: m2 „35) kolumbariów na terenie cmentarza o powierzchni zabudowy nie większej niż 15 i wysokości nie większej niż 3 m;
+b) zadaszonych, o powierzchni dachu nie większej niż 50 m2;”, – pkt 25 otrzymuje brzmienie: „25) stacji ładowania w rozumieniu art. 2 pkt 27 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289, 1853 i 1881), z wyłączeniem infrastruktury ładowania drogowego transportu publicznego w rozumieniu art. 2 pkt 3 tej ustawy, z uwzględnieniem art. 29a;”, – w pkt 29 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) bezodpływowych zbiorników na wody opadowe lub roztopowe o pojemności większej niż 5 m3 i nie większej niż 30 m3;”, – w pkt 34 kropkę zastępuje się średnikiem i dodaje się pkt 35–40 w brzmieniu: „35) kolumbariów na terenie cmentarza o powierzchni zabudowy nie większej niż 15 m2 i wysokości nie większej niż 3 m;
 
 36) przepustów o długości nie większej niż 20 m oraz przekroju wewnętrznym nie mniejszym niż 0,85 m2 i nie większym niż 3 m2;
 
@@ -84,7 +84,7 @@ b) zadaszonych, o powierzchni dachu nie większej niż 50 m2;”, – pkt 25 otr
 
 b) w ust. 2: – w pkt 1 po lit. b średnik zastępuje się przecinkiem i dodaje lit. c w brzmieniu: „c) bezodpływowych zbiorników na wody opadowe lub roztopowe o pojemności nie większej niż 5 m3;”, – pkt 13 otrzymuje brzmienie: „13) basenów i oczek wodnych o powierzchni nie większej niż 50 m2 przy budynkach mieszkalnych jednorodzinnych oraz przy budynkach rekreacji indywidualnej;”, – w pkt 18 lit. a i b otrzymują brzmienie: „a) stacji i posterunków: wodowskazowych, meteorologicznych, opadowych oraz wód podziemnych,
 
-b) stacji i punktów: obserwacyjnych stanów wód podziemnych oraz monitoringu jakości wód powierzchniowych i podziemnych,”, – po pkt 18a dodaje się pkt 18b w brzmieniu: „18b) obiektów kontenerowych lub urządzeń pomiarowych będących punktem pomiarowym państwowego monitoringu środowiska wraz z ogrodzeniem o wysokości nieprzekraczającej 2,20 m;”, – pkt 31 otrzymuje brzmienie: m2: „31) przydomowych tarasów naziemnych o powierzchni zabudowy nie większej niż 35
+b) stacji i punktów: obserwacyjnych stanów wód podziemnych oraz monitoringu jakości wód powierzchniowych i podziemnych,”, – po pkt 18a dodaje się pkt 18b w brzmieniu: „18b) obiektów kontenerowych lub urządzeń pomiarowych będących punktem pomiarowym państwowego monitoringu środowiska wraz z ogrodzeniem o wysokości nieprzekraczającej 2,20 m;”, – pkt 31 otrzymuje brzmienie: „31) przydomowych tarasów naziemnych o powierzchni zabudowy nie większej niż 35 m2:
 
 a) niezadaszonych,
 

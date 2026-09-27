@@ -682,7 +682,7 @@ Opłatę za gospodarowanie odpadami komunalnymi są obowiązani ponosić:
 
 1) w przypadku metody, o której mowa w art. 6j ust. 1 pkt 1 – 2 % przeciętnego miesięcznego dochodu rozporządzalnego na 1 osobę ogółem – za mieszkańca;
 
-2) w przypadku metody, o której mowa w art. 6j ust. 1 pkt 2 – 0,7 % przeciętnego miesięcznego dochodu rozporządzalm3 nego na 1 osobę ogółem – za zużytej wody;
+2) w przypadku metody, o której mowa w art. 6j ust. 1 pkt 2 – 0,7 % przeciętnego miesięcznego dochodu rozporządzalnego na 1 osobę ogółem – za m3 zużytej wody;
 
 3) w przypadku metody, o której mowa w art. 6j ust. 1 pkt 3 – 0,08 % przeciętnego miesięcznego dochodu rozporządzalnego na 1 osobę ogółem – za m2 powierzchni użytkowej lokalu mieszkalnego w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
 
@@ -778,7 +778,7 @@ Opłatę za gospodarowanie odpadami komunalnymi są obowiązani ponosić:
 
 1. Rada gminy, uwzględniając konieczność zapewnienia prawidłowego obliczenia wysokości opłaty za gospodarowanie odpadami komunalnymi oraz ułatwienia składania deklaracji, określi, w drodze uchwały stanowiącej akt prawa miejscowego:
 
-1) wzór deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi składanej przez właścicieli nieruchomości, z uwzględnieniem art. 6m ust. 1a i 1b, obejmujący objaśnienia dotyczące sposobu jej wypełnienia, informacje wskazane w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 zm.4)) z 04.05.2016, str. 1, z późn. oraz pouczenie, że deklaracja stanowi podstawę do wystawienia tytułu wykonawczego; uchwała zawiera także informację o terminach i miejscu składania deklaracji;
+1) wzór deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi składanej przez właścicieli nieruchomości, z uwzględnieniem art. 6m ust. 1a i 1b, obejmujący objaśnienia dotyczące sposobu jej wypełnienia, informacje wskazane w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.4)) oraz pouczenie, że deklaracja stanowi podstawę do wystawienia tytułu wykonawczego; uchwała zawiera także informację o terminach i miejscu składania deklaracji;
 
 2) warunki i tryb składania deklaracji za pomocą środków komunikacji elektronicznej, w szczególności:
 
@@ -1608,9 +1608,9 @@ d) składowania;
 
 2. Kto nie wykonuje obowiązków wymienionych w art. 5 ust. 1 lub 1a – podlega karze grzywny.
 
-2a. Karze określonej w ust. 2 podlega także ten, kto nie wykonuje obowiązków określonych w regulaminie. 11
+2a. Karze określonej w ust. 2 podlega także ten, kto nie wykonuje obowiązków określonych w regulaminie.
 
-2b. Kto wbrew obowiązkowi określonemu w art. 2a ust. 5 albo art. 6m ust. 1, lub 2 nie składa deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi – podlega karze grzywny.
+2b. Kto wbrew obowiązkowi określonemu w art. 2a ust. 5 albo art. 6m ust. 1, 11 lub 2 nie składa deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi – podlega karze grzywny.
 
 2c. Kto wbrew złożonej informacji, o której mowa w art. 6m ust. 1b pkt 7, nie posiada kompostownika przydomowego lub nie kompostuje w nim bioodpadów stanowiących odpady komunalne – podlega karze grzywny.
 
