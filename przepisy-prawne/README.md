@@ -374,6 +374,24 @@ te nie mają własnych kotwic. Pliki z HTML mają już kotwice `<a id="...">` z
 `html_to_md.py` (`dzial-N`, `rozdzial-N`, `oddzial-N`, `art-N`, `par-N`); pliki z PDF
 dostają analogiczne kotwice dopisane tym samym skryptem wzbogacającym
 (`toc_and_links.py`, w tym samym scratchpadzie co konwertery). Robione seriami po 3
-pliki, z przerwą na przegląd. Gotowe: `rozporzadzenie-audyt-energetyczny-nowelizacja-2022-2816`,
+pliki, z przerwą na przegląd.
+
+Rozpoznawanie „obcego” aktu przy odniesieniu jak „art. 2” nie ogranicza się do sprawdzenia
+tekstu bezpośrednio przed/po cytacie — skrypt skanuje cały akapit jako sekwencję
+przełączników kontekstu („ustawy/rozporządzenia... z dnia...”, „Kodeksu...”, „wymienionej
+ustawy”, „ustawy, o której mowa w odnośniku N” → kontekst obcy; „tej ustawy”/„niniejszego
+rozporządzenia” → kontekst własny, *chyba że* wcześniej w tym samym akapicie nazwano już
+inny akt, bo wtedy to zaimkowe odniesienie zwykle wraca do TEGO aktu, nie do
+konwertowanego dokumentu — np. „ustawy z dnia 11 stycznia 2018 r. o
+elektromobilności... w rozumieniu art. 2 pkt 3 tej ustawy” dalej mówi o ustawie o
+elektromobilności). Dodatkowo sprawdzane jest też najbliższe otoczenie PO cytacie w tej
+samej klauzuli (do najbliższego „.”/„;”/„:”), bo szyk polski często stawia numer artykułu
+przed nazwą aktu („art. 2 pkt 27 ustawy z dnia...”), zanim jakikolwiek wcześniejszy
+przełącznik kontekstu zdążyłby zadziałać.
+
+Gotowe: `rozporzadzenie-audyt-energetyczny-nowelizacja-2022-2816`,
 `rozporzadzenie-ochrona-przeciwpozarowa-budynkow-nowelizacja-2024-1716`,
-`rozporzadzenie-podzielniki-kosztow-ogrzewania` (3 z 36).
+`rozporzadzenie-podzielniki-kosztow-ogrzewania`, `rozporzadzenie-plan-bioz`,
+`rozporzadzenie-dziennik-budowy-edb`, `rozporzadzenie-audyt-energetyczny`,
+`rozporzadzenie-ksiazka-obiektu-budowlanego-c-kob`,
+`ustawa-prawo-budowlane-nowelizacja-2025-1847`, `ustawa-o-wlasnosci-lokali` (9 z 36).

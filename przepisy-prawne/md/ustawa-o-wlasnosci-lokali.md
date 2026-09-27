@@ -2,18 +2,70 @@
 
 o własności lokali
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [Art. 1.](#art-1)
+  - [Art. 1a.](#art-1a)
+  - [Art. 2.](#art-2)
+  - [Art. 3.](#art-3)
+  - [Art. 3a.](#art-3a)
+  - [Art. 4.](#art-4)
+  - [Art. 5.](#art-5)
+  - [Art. 6.](#art-6)
+- [Rozdział 2. Ustanowienie własności lokalu](#rozdzial-2)
+  - [Art. 7.](#art-7)
+  - [Art. 8.](#art-8)
+  - [Art. 9.](#art-9)
+  - [Art. 10.](#art-10)
+  - [Art. 11.](#art-11)
+- [Rozdział 3. Prawa i obowiązki właścicieli lokali](#rozdzial-3)
+  - [Art. 12.](#art-12)
+  - [Art. 13.](#art-13)
+  - [Art. 14.](#art-14)
+  - [Art. 15.](#art-15)
+  - [Art. 16.](#art-16)
+  - [Art. 17.](#art-17)
+- [Rozdział 4. Zarząd nieruchomością wspólną](#rozdzial-4)
+  - [Art. 18.](#art-18)
+  - [Art. 19.](#art-19)
+  - [Art. 20.](#art-20)
+  - [Art. 21.](#art-21)
+  - [Art. 22.](#art-22)
+  - [Art. 23.](#art-23)
+  - [Art. 24.](#art-24)
+  - [Art. 25.](#art-25)
+  - [Art. 26.](#art-26)
+  - [Art. 27.](#art-27)
+  - [Art. 28.](#art-28)
+  - [Art. 29.](#art-29)
+  - [Art. 30.](#art-30)
+  - [Art. 31.](#art-31)
+  - [Art. 32.](#art-32)
+  - [Art. 32a.](#art-32a)
+  - [Art. 33.](#art-33)
+- [Rozdział 5. Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe Art. 34–38. (pominięte)](#rozdzial-5)
+  - [Art. 39.](#art-39)
+  - [Art. 40.](#art-40)
+  - [Art. 41.](#art-41)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="art-1"></a>
 ### Art. 1.
 
 1. Ustawa określa sposób ustanawiania odrębnej własności samodzielnych lokali mieszkalnych, lokali o innym przeznaczeniu, prawa i obowiązki właścicieli tych lokali oraz zarząd nieruchomością wspólną.
 
 2. W zakresie nieuregulowanym ustawą do własności lokali stosuje się przepisy Kodeksu cywilnego.
 
+<a id="art-1a"></a>
 ### Art. 1a.
 
-Ilekroć w ustawie jest mowa o właścicielu lokalu, należy przez to rozumieć także współwłaściciela lokalu w częściach ułamkowych, z wyjątkiem art. 16.
+Ilekroć w ustawie jest mowa o właścicielu lokalu, należy przez to rozumieć także współwłaściciela lokalu w częściach ułamkowych, z wyjątkiem [art. 16](#art-16).
 
+<a id="art-2"></a>
 ### Art. 2.
 
 1. Samodzielny lokal mieszkalny, a także lokal o innym przeznaczeniu, zwane dalej „lokalami”, mogą stanowić odrębne nieruchomości.
@@ -36,6 +88,7 @@ Ilekroć w ustawie jest mowa o właścicielu lokalu, należy przez to rozumieć 
 
 6. W razie braku dokumentacji technicznej budynku, zaznaczeń, o których mowa w ust. 5, dokonuje się, zgodnie z wymogami przepisów prawa budowlanego, na koszt dotychczasowego właściciela nieruchomości, o ile strony umowy o ustanowienie odrębnej własności lokalu nie postanowiły inaczej.
 
+<a id="art-3"></a>
 ### Art. 3.
 
 1. W razie wyodrębnienia własności lokali właścicielowi lokalu przysługuje udział w nieruchomości wspólnej jako prawo związane z własnością lokali. Nie można żądać zniesienia współwłasności nieruchomości wspólnej, dopóki trwa odrębna własność lokali.
@@ -54,6 +107,7 @@ Ilekroć w ustawie jest mowa o właścicielu lokalu, należy przez to rozumieć 
 
 7. W budynkach, w których nastąpiło wyodrębnienie własności co najmniej jednego lokalu i ustalenie wysokości udziałów w nieruchomości wspólnej bez uwzględnienia powierzchni pomieszczeń przynależnych lub w sposób inny niż określony w ust. 3, a przy wyodrębnianiu kolejnych lokali ustalano wysokość udziałów w nieruchomości wspólnej w taki sam sposób, do czasu wyodrębnienia ostatniego lokalu stosuje się zasady obliczania udziału w nieruchomości wspólnej takie, jak przy wyodrębnieniu pierwszego lokalu. Przepisu zdania poprzedzającego nie stosuje się, jeżeli wszyscy właściciele lokali wyodrębnionych i dotychczasowy właściciel nieruchomości dokonają w umowie nowego ustalenia wysokości udziałów w nieruchomości wspólnej.
 
+<a id="art-3a"></a>
 ### Art. 3a.
 
 1. Przy oddawaniu w użytkowanie wieczyste ułamkowej części gruntu, jako prawa związanego z odrębną własnością lokali, stosuje się następujące zasady:
@@ -66,6 +120,7 @@ Ilekroć w ustawie jest mowa o właścicielu lokalu, należy przez to rozumieć 
 
 2. Jeżeli przy ustanowieniu odrębnej własności lokali ustanowiono różne terminy trwania prawa współużytkowania wieczystego przynależnej do tych lokali działki budowlanej, właściciele wyodrębnionych lokali mogą żądać zmiany terminów przez przyjęcie jednego terminu dla wszystkich udziałów we współużytkowaniu wieczystym tej działki. Z żądaniem takim może wystąpić także właściwy organ. Termin ten ustanawia się stosownie do najdalszego terminu ustalonego dla pozostałych udziałów.
 
+<a id="art-4"></a>
 ### Art. 4.
 
 1. Dotychczasowemu właścicielowi nieruchomości przysługują co do niewyodrębnionych lokali oraz co do nieruchomości wspólnej takie same uprawnienia, jakie przysługują właścicielom lokali wyodrębnionych; odnosi się to także do jego obowiązków.
@@ -74,6 +129,7 @@ Ilekroć w ustawie jest mowa o właścicielu lokalu, należy przez to rozumieć 
 
 3. Jeżeli budynek został wzniesiony na gruncie oddanym w użytkowanie wieczyste, przedmiotem wspólności jest to prawo, a dalsze przepisy o własności lub współwłasności gruntu stosuje się odpowiednio do prawa użytkowania wieczystego.
 
+<a id="art-5"></a>
 ### Art. 5.
 
 1. Jeżeli powierzchnia nieruchomości gruntowej zabudowanej budynkiem, w którym wyodrębniono własność lokali, jest większa niż powierzchnia działki budowlanej, w rozumieniu przepisów o gospodarce nieruchomościami, niezbędnej do korzystania z niego, współwłaściciele mogą dokonać podziału tej nieruchomości.
@@ -82,20 +138,24 @@ Ilekroć w ustawie jest mowa o właścicielu lokalu, należy przez to rozumieć 
 
 3. Przy dokonywaniu podziału, o którym mowa w ust. 1 i 2, stosuje się przepisy o gospodarce nieruchomościami.
 
+<a id="art-6"></a>
 ### Art. 6.
 
 Ogół właścicieli, których lokale wchodzą w skład określonej nieruchomości, tworzy wspólnotę mieszkaniową. Wspólnota mieszkaniowa może nabywać prawa i zaciągać zobowiązania, pozywać i być pozwana.
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Ustanowienie własności lokalu
 
+<a id="art-7"></a>
 ### Art. 7.
 
 1. Odrębną własność lokalu można ustanowić w drodze umowy, a także jednostronnej czynności prawnej właściciela nieruchomości albo orzeczenia sądu znoszącego współwłasność.
 
 2. Umowa o ustanowieniu odrębnej własności lokalu powinna być dokonana w formie aktu notarialnego; do powstania tej własności niezbędny jest wpis do księgi wieczystej.
 
-3. W razie ustanowienia odrębnej własności lokalu bez zaświadczenia, o którym mowa w art. 2 ust. 3, powództwo o stwierdzenie nieważności takiego ustanowienia może wnieść również właściwy z uwagi na położenie nieruchomości wójt, burmistrz albo prezydent miasta, starosta.
+3. W razie ustanowienia odrębnej własności lokalu bez zaświadczenia, o którym mowa w [art. 2](#art-2) ust. 3, powództwo o stwierdzenie nieważności takiego ustanowienia może wnieść również właściwy z uwagi na położenie nieruchomości wójt, burmistrz albo prezydent miasta, starosta.
 
+<a id="art-8"></a>
 ### Art. 8.
 
 1. Umowa o ustanowieniu odrębnej własności lokalu powinna określać w szczególności:
@@ -108,6 +168,7 @@ Ogół właścicieli, których lokale wchodzą w skład określonej nieruchomoś
 
 3. Umowa o ustanowieniu odrębnej własności lokalu może być zawarta albo przez współwłaścicieli nieruchomości, albo przez właściciela nieruchomości i nabywcę lokalu.
 
+<a id="art-9"></a>
 ### Art. 9.
 
 1. Odrębna własność lokalu może powstać także w wykonaniu umowy zobowiązującej właściciela gruntu do wybudowania na tym gruncie domu oraz do ustanowienia – po zakończeniu budowy – odrębnej własności lokali i przeniesienia tego prawa na drugą stronę umowy lub na inną wskazaną w umowie osobę.
@@ -116,20 +177,24 @@ Ogół właścicieli, których lokale wchodzą w skład określonej nieruchomoś
 
 3. W wypadku wykonywania umowy w sposób wadliwy albo sprzeczny z umową, na wniosek każdego nabywcy, sąd może powierzyć, w trybie postępowania nieprocesowego, dalsze wykonywanie umowy innemu wykonawcy na koszt i niebezpieczeństwo właściciela gruntu.
 
+<a id="art-10"></a>
 ### Art. 10.
 
 Właściciel nieruchomości może ustanawiać odrębną własność lokali dla siebie, na mocy jednostronnej czynności prawnej. W takim wypadku stosuje się odpowiednio przepisy o ustanowieniu odrębnej własności w drodze umowy.
 
+<a id="art-11"></a>
 ### Art. 11.
 
 1. Przepisy o ustanowieniu odrębnej własności lokali w drodze umowy stosuje się również odpowiednio do wyodrębnienia własności lokalu z mocy orzeczenia sądu znoszącego współwłasność nieruchomości.
 
 2. Jeżeli uczynienie zadość przesłance samodzielności lokali wymaga wykonania robót adaptacyjnych, sąd może w postanowieniu wstępnym, uznającym żądanie ustanowienia odrębnej własności lokali w zasadzie za usprawiedliwione, upoważnić zainteresowanego uczestnika postępowania do ich wykonania – tymczasowo na jego koszt. W razie przeszkód stawianych przez innych uczestników, sąd – w postanowieniu wstępnym lub w postanowieniu oddzielnym – może wydać stosowne nakazy lub zakazy.
 
-3. Jeżeli wydzielenie lokalu byłoby sprzeczne z art. 2 ust. 1a–2, sąd, znosząc współwłasność nieruchomości, nie orzeka o jej podziale przez wydzielenie lokalu, a ustala udziały współwłaścicieli w nieruchomości.
+3. Jeżeli wydzielenie lokalu byłoby sprzeczne z [art. 2](#art-2) ust. 1a–2, sąd, znosząc współwłasność nieruchomości, nie orzeka o jej podziale przez wydzielenie lokalu, a ustala udziały współwłaścicieli w nieruchomości.
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Prawa i obowiązki właścicieli lokali
 
+<a id="art-12"></a>
 ### Art. 12.
 
 1. Właściciel lokalu ma prawo do współkorzystania z nieruchomości wspólnej zgodnie z jej przeznaczeniem.
@@ -138,12 +203,14 @@ Właściciel nieruchomości może ustanawiać odrębną własność lokali dla s
 
 3. Uchwała właścicieli lokali może ustalić zwiększenie obciążenia z tego tytułu właścicieli lokali użytkowych, jeżeli uzasadnia to sposób korzystania z tych lokali.
 
+<a id="art-13"></a>
 ### Art. 13.
 
 1. Właściciel ponosi wydatki związane z utrzymaniem jego lokalu, jest obowiązany utrzymywać swój lokal w należytym stanie, przestrzegać porządku domowego, uczestniczyć w kosztach zarządu związanych z utrzymaniem nieruchomości wspólnej, korzystać z niej w sposób nieutrudniający korzystania przez innych współwłaścicieli oraz współdziałać z nimi w ochronie wspólnego dobra.
 
 2. Na żądanie zarządu właściciel lokalu jest obowiązany zezwalać na wstęp do lokalu, ilekroć jest to niezbędne do przeprowadzenia konserwacji, remontu albo usunięcia awarii w nieruchomości wspólnej, a także w celu wyposażenia budynku, jego części lub innych lokali w dodatkowe instalacje.
 
+<a id="art-14"></a>
 ### Art. 14.
 
 Na koszty zarządu nieruchomością wspólną składają się w szczególności:
@@ -158,24 +225,29 @@ Na koszty zarządu nieruchomością wspólną składają się w szczególności:
 
 5) wynagrodzenie członków zarządu lub zarządcy.
 
+<a id="art-15"></a>
 ### Art. 15.
 
 1. Na pokrycie kosztów zarządu właściciele lokali uiszczają zaliczki w formie bieżących opłat, płatne z góry do dnia 10 każdego miesiąca.
 
 2. (uchylony)
 
+<a id="art-16"></a>
 ### Art. 16.
 
 1. Jeżeli właściciel lokalu zalega długotrwale z zapłatą należnych od niego opłat lub wykracza w sposób rażący lub uporczywy przeciwko obowiązującemu porządkowi domowemu albo przez swoje niewłaściwe zachowanie czyni korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, wspólnota mieszkaniowa może w trybie procesu żądać sprzedaży lokalu w drodze licytacji na podstawie przepisów Kodeksu postępowania cywilnego o egzekucji z nieruchomości.
 
 2. Właścicielowi, którego lokal został sprzedany, nie przysługuje prawo do lokalu zamiennego.
 
+<a id="art-17"></a>
 ### Art. 17.
 
 Za zobowiązania dotyczące nieruchomości wspólnej odpowiada wspólnota mieszkaniowa bez ograniczeń, a każdy właściciel lokalu – w części odpowiadającej jego udziałowi w tej nieruchomości.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Zarząd nieruchomością wspólną
 
+<a id="art-18"></a>
 ### Art. 18.
 
 1. Właściciele lokali mogą w umowie o ustanowieniu odrębnej własności lokali albo w umowie zawartej później w formie aktu notarialnego określić sposób zarządu nieruchomością wspólną, a w szczególności mogą powierzyć zarząd osobie fizycznej albo prawnej.
@@ -186,28 +258,32 @@ Za zobowiązania dotyczące nieruchomości wspólnej odpowiada wspólnota mieszk
 
 3. Jeżeli sposobu zarządu nie określono w umowie, o której mowa w ust. 1, lub w uchwale zaprotokołowanej przez notariusza, obowiązują zasady określone w niniejszym rozdziale.
 
+<a id="art-19"></a>
 ### Art. 19.
 
 Jeżeli liczba lokali wyodrębnionych i lokali niewyodrębnionych, należących nadal do dotychczasowego właściciela, nie jest większa niż trzy, do zarządu nieruchomością wspólną mają odpowiednie zastosowanie przepisy Kodeksu cywilnego i Kodeksu postępowania cywilnego o współwłasności.
 
+<a id="art-20"></a>
 ### Art. 20.
 
 1. Jeżeli liczba lokali wyodrębnionych i lokali niewyodrębnionych jest większa niż trzy, właściciele lokali są obowiązani podjąć uchwałę o wyborze jednoosobowego lub kilkuosobowego zarządu. Członkiem zarządu może być wyłącznie osoba fizyczna.
 
 2. Zarząd lub poszczególni jego członkowie mogą być w każdej chwili na mocy uchwały właścicieli lokali zawieszeni w czynnościach lub odwołani.
 
+<a id="art-21"></a>
 ### Art. 21.
 
 1. Zarząd kieruje sprawami wspólnoty mieszkaniowej i reprezentuje ją na zewnątrz oraz w stosunkach między wspólnotą a poszczególnymi właścicielami lokali.
 
 2. Gdy zarząd jest kilkuosobowy, oświadczenia woli za wspólnotę mieszkaniową składają przynajmniej dwaj jego członkowie.
 
-3.[3)] Zarząd na podstawie pełnomocnictwa, o którym mowa w art. 22 ust. 2, składa oświadczenia w celu wykonania uchwał w sprawach, o których mowa w art. 22 ust. 3 pkt 5, 5a i 6 oraz w art. 32a, ze skutkiem w stosunku do właścicieli wszystkich lokali.
+3.[3)] Zarząd na podstawie pełnomocnictwa, o którym mowa w [art. 22](#art-22) ust. 2, składa oświadczenia w celu wykonania uchwał w sprawach, o których mowa w [art. 22](#art-22) ust. 3 pkt 5, 5a i 6 oraz w [art. 32a](#art-32a), ze skutkiem w stosunku do właścicieli wszystkich lokali.
 
 4. (uchylony)
 
 5. (uchylony)
 
+<a id="art-22"></a>
 ### Art. 22.
 
 1. Czynności zwykłego zarządu podejmuje zarząd samodzielnie.
@@ -232,16 +308,17 @@ Jeżeli liczba lokali wyodrębnionych i lokali niewyodrębnionych, należących 
 
 6a) nabycie nieruchomości;
 
-7) wytoczenie powództwa, o którym mowa w art. 16;
+7) wytoczenie powództwa, o którym mowa w [art. 16](#art-16);
 
 8) ustalenie, w wypadkach nieuregulowanych przepisami, części kosztów związanych z eksploatacją urządzeń lub części budynku służących zarówno do użytku poszczególnych właścicieli lokali, jak i do wspólnego użytku właścicieli co najmniej dwóch lokali, które zaliczane będą do kosztów zarządu nieruchomością wspólną;
 
 9) udzielenie zgody na podział nieruchomości gruntowej zabudowanej więcej niż jednym budynkiem mieszkalnym i związane z tym zmiany udziałów w nieruchomości wspólnej oraz ustalenie wysokości udziałów w nowo powstałych, odrębnych nieruchomościach wspólnych;
 
-10) określenie zakresu i sposobu prowadzenia przez zarząd lub zarządcę, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, ewidencji pozaksięgowej kosztów zarządu nieruchomością wspólną, zaliczek uiszczanych na pokrycie tych kosztów, a także rozliczeń z innych tytułów na rzecz nieruchomości wspólnej.
+10) określenie zakresu i sposobu prowadzenia przez zarząd lub zarządcę, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, ewidencji pozaksięgowej kosztów zarządu nieruchomością wspólną, zaliczek uiszczanych na pokrycie tych kosztów, a także rozliczeń z innych tytułów na rzecz nieruchomości wspólnej.
 
 4. Połączenie dwóch lokali stanowiących odrębne nieruchomości w jedną nieruchomość lub podział lokalu wymaga zgody właścicieli lokali wyrażonej w uchwale. W razie odmowy zainteresowany właściciel lokalu może żądać rozstrzygnięcia przez sąd.
 
+<a id="art-23"></a>
 ### Art. 23.
 
 1. Uchwały właścicieli lokali są podejmowane bądź na zebraniu, bądź w drodze indywidualnego zbierania głosów przez zarząd; uchwała może być wynikiem głosów oddanych częściowo na zebraniu, częściowo w drodze indywidualnego ich zbierania.
@@ -254,10 +331,12 @@ Jeżeli liczba lokali wyodrębnionych i lokali niewyodrębnionych, należących 
 
 3. O treści uchwały, która została podjęta z udziałem głosów zebranych indywidualnie, każdy właściciel lokalu powinien zostać powiadomiony na piśmie.
 
+<a id="art-24"></a>
 ### Art. 24.
 
-W razie braku zgody wymaganej większości właścicieli lokali zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, może żądać rozstrzygnięcia przez sąd, który orzeknie mając na względzie cel zamierzonej czynności oraz interesy wszystkich właścicieli. Sprawę sąd rozpoznaje w postępowaniu nieprocesowym.
+W razie braku zgody wymaganej większości właścicieli lokali zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, może żądać rozstrzygnięcia przez sąd, który orzeknie mając na względzie cel zamierzonej czynności oraz interesy wszystkich właścicieli. Sprawę sąd rozpoznaje w postępowaniu nieprocesowym.
 
+<a id="art-25"></a>
 ### Art. 25.
 
 1. Właściciel lokalu może zaskarżyć uchwałę do sądu z powodu jej niezgodności z przepisami prawa lub z umową właścicieli lokali albo jeśli narusza ona zasady prawidłowego zarządzania nieruchomością wspólną lub w inny sposób narusza jego interesy.
@@ -266,29 +345,33 @@ W razie braku zgody wymaganej większości właścicieli lokali zarząd lub zarz
 
 2. Zaskarżona uchwała podlega wykonaniu, chyba że sąd wstrzyma jej wykonanie do czasu zakończenia sprawy.
 
+<a id="art-26"></a>
 ### Art. 26.
 
 1. Jeżeli zarząd nie został powołany lub pomimo powołania nie wypełnia swoich obowiązków albo narusza zasady prawidłowej gospodarki, każdy właściciel lokalu może żądać ustanowienia zarządcy przymusowego przez sąd, który określi zakres jego uprawnień oraz należne mu wynagrodzenie. Sąd odwoła zarządcę, gdy ustaną przyczyny jego powołania.
 
 2. Jeżeli w terminie dwóch lat od dnia wyodrębnienia własności pierwszego lokalu w nieruchomości, w której liczba lokali wyodrębnionych i lokali niewyodrębnionych jest większa niż trzy, właściciele lokali nie dokonają wyboru zarządu ani nie powierzą zarządu nieruchomością wspólną w umowie zawartej w formie aktu notarialnego, ustanowienia zarządcy przymusowego przez sąd może żądać także dotychczasowy zarządca nieruchomości, który sprawował zarząd nieruchomością w dniu, w którym wyodrębniono własność pierwszego lokalu, i kontynuował zarząd tą nieruchomością przez okres co najmniej dwóch lat.
 
+<a id="art-27"></a>
 ### Art. 27.
 
-Każdy właściciel lokalu ma prawo i obowiązek współdziałania w zarządzie nieruchomością wspólną. Nie uchybia to jednak przepisom art. 21 ust. 1 i art. 22 ust. 1.
+Każdy właściciel lokalu ma prawo i obowiązek współdziałania w zarządzie nieruchomością wspólną. Nie uchybia to jednak przepisom [art. 21](#art-21) ust. 1 i [art. 22](#art-22) ust. 1.
 
+<a id="art-28"></a>
 ### Art. 28.
 
 Właściciel lokalu pełniący obowiązki członka zarządu może żądać od wspólnoty wynagrodzenia odpowiadającego uzasadnionemu nakładowi pracy.
 
+<a id="art-29"></a>
 ### Art. 29.
 
-1. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, jest obowiązany prowadzić dla każdej nieruchomości wspólnej, określoną przez wspólnotę mieszkaniową, ewidencję pozaksięgową kosztów zarządu nieruchomością wspólną oraz zaliczek uiszczanych na pokrycie tych kosztów, a także rozliczeń z innych tytułów na rzecz nieruchomości wspólnej.
+1. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, jest obowiązany prowadzić dla każdej nieruchomości wspólnej, określoną przez wspólnotę mieszkaniową, ewidencję pozaksięgową kosztów zarządu nieruchomością wspólną oraz zaliczek uiszczanych na pokrycie tych kosztów, a także rozliczeń z innych tytułów na rzecz nieruchomości wspólnej.
 
 1a. Okresem rozliczeniowym wspólnoty mieszkaniowej jest rok kalendarzowy.
 
-1b. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, jest obowiązany sporządzić protokół przejęcia nieruchomości i jej dokumentacji technicznej (budowlanej, powykonawczej i książki obiektu budowlanego) w imieniu wspólnoty mieszkaniowej, przechowywać dokumentację techniczną budynku oraz prowadzić i aktualizować spis właścicieli lokali i przypadających im udziałów w nieruchomości wspólnej.
+1b. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, jest obowiązany sporządzić protokół przejęcia nieruchomości i jej dokumentacji technicznej (budowlanej, powykonawczej i książki obiektu budowlanego) w imieniu wspólnoty mieszkaniowej, przechowywać dokumentację techniczną budynku oraz prowadzić i aktualizować spis właścicieli lokali i przypadających im udziałów w nieruchomości wspólnej.
 
-1c. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, jest obowiązany do podjęcia czynności zmierzających do opracowania lub aktualizacji dokumentacji technicznej budynku i rozliczenia kosztów związanych z opracowaniem lub aktualizacją tej dokumentacji.
+1c. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, jest obowiązany do podjęcia czynności zmierzających do opracowania lub aktualizacji dokumentacji technicznej budynku i rozliczenia kosztów związanych z opracowaniem lub aktualizacją tej dokumentacji.
 
 1d. Jeżeli uchwała właścicieli lokali nie stanowi inaczej, koszty opracowania lub aktualizacji dokumentacji technicznej budynku obciążają:
 
@@ -296,15 +379,16 @@ Właściciel lokalu pełniący obowiązki członka zarządu może żądać od ws
 
 2) po wyodrębnieniu własności ostatniego lokalu – wszystkich właścicieli lokali w częściach odpowiadających ich udziałom w nieruchomości wspólnej.
 
-1e. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, może żądać od właścicieli lokali okazania dokumentów potwierdzających prawo własności lokali.
+1e. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, może żądać od właścicieli lokali okazania dokumentów potwierdzających prawo własności lokali.
 
-2. Właściciele lokali podejmują uchwałę w przedmiocie udzielenia absolutorium zarządowi lub zarządcy, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, z prowadzonej przez niego działalności.
+2. Właściciele lokali podejmują uchwałę w przedmiocie udzielenia absolutorium zarządowi lub zarządcy, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, z prowadzonej przez niego działalności.
 
 3. Prawo kontroli działalności zarządu służy każdemu właścicielowi lokalu.
 
+<a id="art-30"></a>
 ### Art. 30.
 
-1. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, jest obowiązany:
+1. Zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, jest obowiązany:
 
 1) dokonywać rozliczeń przez rachunek bankowy;
 
@@ -312,59 +396,67 @@ Właściciel lokalu pełniący obowiązki członka zarządu może żądać od ws
 
 3) zwoływać zebranie ogółu właścicieli lokali co najmniej raz w roku, niepóźniej niż w pierwszym kwartale każdego roku.
 
-1a. W wypadku gdy zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, nie zwoła zebrania ogółu właścicieli lokali w terminie, o którym mowa w ust. 1 pkt 3, zebranie coroczne może zwołać każdy z właścicieli.
+1a. W wypadku gdy zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, nie zwoła zebrania ogółu właścicieli lokali w terminie, o którym mowa w ust. 1 pkt 3, zebranie coroczne może zwołać każdy z właścicieli.
 
 2. Przedmiotem zebrania, o którym mowa w ust. 1, powinny być w szczególności:
 
 1) uchwalenie rocznego planu gospodarczego zarządu nieruchomością wspólną i opłat na pokrycie kosztów zarządu;
 
-2) ocena pracy zarządu lub zarządcy, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1;
+2) ocena pracy zarządu lub zarządcy, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1;
 
 3) sprawozdanie zarządu i podjęcie uchwały w przedmiocie udzielenia mu absolutorium.
 
+<a id="art-31"></a>
 ### Art. 31.
 
 Zebrania ogółu właścicieli lokali:
 
-a) mogą być także, w razie potrzeby, zwoływane przez zarząd lub zarządcę, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1,
+a) mogą być także, w razie potrzeby, zwoływane przez zarząd lub zarządcę, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1,
 
-b) zwoływane są na wniosek właścicieli lokali dysponujących co najmniej 1/10 udziałów w nieruchomości wspólnej przez zarząd lub zarządcę, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1.
+b) zwoływane są na wniosek właścicieli lokali dysponujących co najmniej 1/10 udziałów w nieruchomości wspólnej przez zarząd lub zarządcę, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1.
 
+<a id="art-32"></a>
 ### Art. 32.
 
-1. O zebraniu ogółu właścicieli lokali zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, zawiadamia każdego właściciela lokalu na piśmie przynajmniej na tydzień przed terminem zebrania.
+1. O zebraniu ogółu właścicieli lokali zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, zawiadamia każdego właściciela lokalu na piśmie przynajmniej na tydzień przed terminem zebrania.
 
 2. W zawiadomieniu należy podać dzień, godzinę, miejsce i porządek obrad. W wypadku zamierzonej zmiany we wzajemnych prawach i obowiązkach właścicieli lokali należy wskazać treść tej zmiany.
 
+<a id="art-32a"></a>
 ### Art. 32a.
 
-Jeżeli grunt wchodzący w skład nieruchomości wspólnej nie spełnia wymogów przewidzianych dla działki budowlanej, uniemożliwiając prawidłowe i racjonalne korzystanie z budynków i urządzeń z nimi związanych, zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, jest obowiązany przedstawić właścicielom lokali projekty uchwał w sprawie:
+Jeżeli grunt wchodzący w skład nieruchomości wspólnej nie spełnia wymogów przewidzianych dla działki budowlanej, uniemożliwiając prawidłowe i racjonalne korzystanie z budynków i urządzeń z nimi związanych, zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, jest obowiązany przedstawić właścicielom lokali projekty uchwał w sprawie:
 
 1) wyrażenia zgody na nabycie przyległych nieruchomości gruntowych umożliwiających spełnienie wymogów przewidzianych dla działek budowlanych;
 
-2)[4)] udzielenia zarządowi lub zarządcy, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, pełnomocnictwa do wykonania odpowiednich, prawem przewidzianych, czynności zmierzających do nabycia przyległych nieruchomości gruntowych na rzecz właścicieli lokali.
+2)[4)] udzielenia zarządowi lub zarządcy, któremu zarząd nieruchomością wspólną powierzono w sposób określony w [art. 18](#art-18) ust. 1, pełnomocnictwa do wykonania odpowiednich, prawem przewidzianych, czynności zmierzających do nabycia przyległych nieruchomości gruntowych na rzecz właścicieli lokali.
 
+<a id="art-33"></a>
 ### Art. 33.
 
-W razie powierzenia zarządu osobie fizycznej lub prawnej, w trybie przewidzianym w art. 18 ust. 1, w braku odmiennych postanowień umowy, stosuje się odpowiednio przepisy niniejszego rozdziału.
+W razie powierzenia zarządu osobie fizycznej lub prawnej, w trybie przewidzianym w [art. 18](#art-18) ust. 1, w braku odmiennych postanowień umowy, stosuje się odpowiednio przepisy niniejszego rozdziału.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe Art. 34–38. (pominięte)
 
+<a id="art-39"></a>
 ### Art. 39.
 
 1. (pominięty)
 
 2. Minister Sprawiedliwości, w drodze rozporządzenia, określa tryb egzekucji z lokali stanowiących odrębne nieruchomości.
 
+<a id="art-40"></a>
 ### Art. 40.
 
 1. Państwowe lub komunalne jednostki organizacyjne, sprawujące na podstawie przepisów dotychczasowych zarząd nieruchomościami wspólnymi, są obowiązane zapewnić dla każdej z zarządzanych nieruchomości wspólnych ewidencję umożliwiającą najpóźniej od dnia 1 października 1994 r. ustalenie kosztów i przychodów dla każdej wspólnej nieruchomości oraz powiadomić współwłaścicieli, niepóźniej niż do dnia 30 listopada 1994 r., o zmianach, jakie wprowadza niniejsza ustawa co do sposobu zarządzania nieruchomością wspólną oraz co do ponoszenia jego kosztów.
 
 2. Do czasu uregulowania tych spraw przez właścicieli do zarządu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy niniejszej ustawy dotyczące zarządu zleconego przez właścicieli osobie fizycznej lub prawnej.
 
+<a id="art-41"></a>
 ### Art. 41.
 
-Ustawa wchodzi w życie z dniem 1 stycznia 1995 r., z wyjątkiem przepisu art. 40 ust. 1, który wchodzi w życie z dniem ogłoszenia5).
+Ustawa wchodzi w życie z dniem 1 stycznia 1995 r., z wyjątkiem przepisu [art. 40](#art-40) ust. 1, który wchodzi w życie z dniem ogłoszenia5).
 
 
 

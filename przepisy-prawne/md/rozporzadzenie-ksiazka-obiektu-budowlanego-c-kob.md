@@ -2,6 +2,39 @@
 
 w sprawie książki obiektu budowlanego oraz systemu Cyfrowa Książka Obiektu Budowlanego [1)]
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [§ 1.](#par-1)
+- [Rozdział 2. Sposób prowadzenia książki obiektu budowlanego](#rozdzial-2)
+  - [§ 2.](#par-2)
+  - [§ 3.](#par-3)
+  - [§ 4.](#par-4)
+  - [§ 5.](#par-5)
+  - [§ 6.](#par-6)
+  - [§ 7.](#par-7)
+  - [§ 8.](#par-8)
+  - [§ 9.](#par-9)
+  - [§ 10.](#par-10)
+  - [§ 11.](#par-11)
+  - [§ 12.](#par-12)
+  - [§ 13.](#par-13)
+  - [§ 14.](#par-14)
+  - [§ 15.](#par-15)
+- [Rozdział 3. Wpisy w książce obiektu budowlanego](#rozdzial-3)
+  - [§ 16.](#par-16)
+  - [§ 17.](#par-17)
+  - [§ 18.](#par-18)
+  - [§ 19.](#par-19)
+  - [§ 20.](#par-20)
+- [Rozdział 4. Uwierzytelnianie i autoryzacja w systemie c-KOB](#rozdzial-4)
+  - [§ 21.](#par-21)
+  - [§ 22.](#par-22)
+  - [§ 23.](#par-23)
+- [Rozdział 5. Przepis końcowy](#rozdzial-5)
+  - [§ 24.](#par-24)
+
 <a id="tresc-rozporzadzenia"></a>
 ## Treść rozporządzenia
 
@@ -322,7 +355,7 @@ Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. [3)]
 ## Przypisy
 
 
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej - budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
+1) Minister Rozwoju i Technologii kieruje działem administracji rządowej - budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie [§ 1](#par-1) ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 
 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687.
 

@@ -2,11 +2,29 @@
 
 o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw1)
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Art. 1.](#art-1)
+- [Art. 2.](#art-2)
+- [Art. 3.](#art-3)
+- [Art. 4.](#art-4)
+- [Art. 5.](#art-5)
+- [Art. 6.](#art-6)
+- [Art. 7.](#art-7)
+- [Art. 8.](#art-8)
+- [Art. 9.](#art-9)
+- [Art. 10.](#art-10)
+- [Art. 11.](#art-11)
+- [Art. 12.](#art-12)
+- [Art. 13.](#art-13)
+
+<a id="art-1"></a>
 ### Art. 1.
 
 W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535 i 1673) wprowadza się następujące zmiany:
 
-1) w art. 3:
+1) w [art. 3](#art-3):
 
 a) po pkt 2a dodaje się pkt 2b–2g w brzmieniu: „2b) budynku mieszkalnym – należy przez to rozumieć:
 
@@ -34,9 +52,9 @@ c) w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 24–27 w brzm
 
 27) magazynie energii elektrycznej – należy przez to rozumieć magazyn energii elektrycznej w rozumieniu art. 3 pkt 10k ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm.3)), a także instalację umożliwiającą magazynowanie energii elektrycznej i wprowadzenie jej do instalacji elektrycznej obiektu budowlanego lub bezpośrednie zasilanie urządzeń budowlanych.”;
 
-2) w art. 7 w ust. 1 po pkt 2 dodaje się pkt 3 w brzmieniu: „3) warunki techniczne, warunki techniczne użytkowania i warunki techniczne usytuowania budowli ochronnych, wydane na podstawie art. 115 ust. 1 pkt 1 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907 oraz z 2025 r. poz. 1705).”;
+2) w [art. 7](#art-7) w ust. 1 po pkt 2 dodaje się pkt 3 w brzmieniu: „3) warunki techniczne, warunki techniczne użytkowania i warunki techniczne usytuowania budowli ochronnych, wydane na podstawie art. 115 ust. 1 pkt 1 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907 oraz z 2025 r. poz. 1705).”;
 
-3) w art. 9:
+3) w [art. 9](#art-9):
 
 a) w ust. 3 pkt 3 otrzymuje brzmienie: „3) propozycje rozwiązań zamiennych – jeżeli istnieją możliwości techniczne;”,
 
@@ -54,7 +72,7 @@ b) dodaje się ust. 7 i 8 w brzmieniu: „7. W przypadku przebudowy lub zmiany s
 
 2. W przypadku gdy odwołanie od decyzji lub zażalenie na postanowienie nie spełnia wymogów, o których mowa w ust. 1, stosuje się przepis art. 64 § 2 Kodeksu postępowania administracyjnego, z tym że wezwanie wnoszącego do usunięcia braków nie powinno nastąpić później niż po upływie 14 dni od dnia wpływu odwołania lub zażalenia.”;
 
-5) w art. 11:
+5) w [art. 11](#art-11):
 
 a) uchyla się ust. 1,
 
@@ -240,12 +258,14 @@ b) w ust. 7 skreśla się wyrazy „, a w przypadku inwestycji KZN – inwestor 
 
 3) zapewnienia bezpiecznego użytkowania obiektu budowlanego – podlega grzywnie nie mniejszej niż 100 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do roku.”.
 
+<a id="art-2"></a>
 ### Art. 2.
 
 W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907, 1940 oraz z 2025 r. poz. 527, 680 i 1668) w art. 59 w ust. 2b pkt 3 i 4 otrzymują brzmienie: „3) o których mowa w art. 29 ust. 1 pkt 4, 5, 8, 10, 23 i 27 oraz ust. 2 pkt 1–3, 8, 14, 15, 17, 24, 29, 32–34 i 38 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, sytuowanych na obszarach Natura 2000;
 
 4) o których mowa w art. 29 ust. 1 pkt 5, 8 i 22 oraz ust. 2 pkt 1–3, 8, 14, 15, 31–34 i 38 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, sytuowanych na obszarach objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 3, 4 i 6–9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody.”.
 
+<a id="art-3"></a>
 ### Art. 3.
 
 W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2025 r. poz. 1154 i 1795) w załączniku do ustawy w części I:
@@ -294,63 +314,73 @@ W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2025 r. poz
 
 9) bezodpływowych zbiorników na wody opadowe lub roztopowe o łącznej pojemności większej niż 5 m3 i nie większej niż 15 m3, o których mowa w art. 29 ust. 1 pkt 38 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane – od którego właściwy organ nie wniósł sprzeciwu
 
+<a id="art-4"></a>
 ### Art. 4.
 
 W ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2025 r. poz. 1419) użyte w art. 27a ust. 1, art. 27b ust. 8, 9 i 11–13, art. 27c ust. 6, art. 27d ust. 4, art. 27f ust. 3 oraz art. 27g ust. 6, w różnym przypadku, wyrazy „minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się użytymi w odpowiednim przypadku wyrazami „Główny Inspektor Nadzoru Budowlanego”.
 
+<a id="art-5"></a>
 ### Art. 5.
 
 W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2025 r. poz. 1402) po art. 39f dodaje się art. 39g w brzmieniu: „Art. 39g. 1. W przypadku tymczasowych obiektów budowlanych na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 pkt 1, termin, o którym mowa w art. 29 ust. 1 pkt 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane ulega wydłużeniu do 2 lat od dnia rozpoczęcia budowy określonego w zgłoszeniu.
 
 2. Zmiana zagospodarowania terenu dotycząca obiektów budowlanych, o których mowa w ust. 1, nie wymaga uzyskania decyzji o warunkach zabudowy i zagospodarowania terenu.”.
 
+<a id="art-6"></a>
 ### Art. 6.
 
 W ustawie z dnia 7 lipca 2022 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 1557) w art. 6 w ust. 3 wyrazy „do dnia 31 grudnia 2026 r.” zastępuje się wyrazami „do dnia 31 grudnia 2031 r.”.
 
+<a id="art-7"></a>
 ### Art. 7.
 
 1. Do zamierzenia budowlanego, w odniesieniu do którego przed dniem wejścia w życie niniejszej ustawy:
 
 1) został złożony i nierozpatrzony wniosek o pozwolenie na budowę, wniosek o wydanie odrębnej decyzji o zatwierdzeniu projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego albo wniosek o zmianę pozwolenia na budowę,
 
-2) zostało dokonane zgłoszenie budowy lub wykonywania innych robót budowlanych, w przypadku gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę, i do którego organ administracji architektoniczno-budowlanej nie zgłosił sprzeciwu albo nie upłynął termin na wniesienie sprzeciwu – stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+2) zostało dokonane zgłoszenie budowy lub wykonywania innych robót budowlanych, w przypadku gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę, i do którego organ administracji architektoniczno-budowlanej nie zgłosił sprzeciwu albo nie upłynął termin na wniesienie sprzeciwu – stosuje się przepisy ustawy zmienianej w [art. 1](#art-1), w brzmieniu nadanym niniejszą ustawą.
 
-2. Do spraw, o których mowa w art. 50 ust. 6 i art. 86 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+2. Do spraw, o których mowa w art. 50 ust. 6 i art. 86 ust. 1 ustawy zmienianej w [art. 1](#art-1), wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w [art. 1](#art-1), w brzmieniu nadanym niniejszą ustawą.
 
-3. Wojewoda Pomorski oraz Pomorski Wojewódzki Inspektor Nadzoru Budowlanego, którzy po wejściu w życie niniejszej ustawy utracą właściwość w sprawach, o których mowa w art. 82 ust. 3 pkt 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w odniesieniu do morskich wód wewnętrznych, morskich portów i przystani oraz pasa technicznego na obszarze województwa warmińsko-mazurskiego, niezwłocznie przekażą sprawy wszczęte i niezakończone odpowiednio Wojewodzie Warmińsko-Mazurskiemu oraz Warmińsko-Mazurskiemu Wojewódzkiemu Inspektorowi Nadzoru Budowlanego.
+3. Wojewoda Pomorski oraz Pomorski Wojewódzki Inspektor Nadzoru Budowlanego, którzy po wejściu w życie niniejszej ustawy utracą właściwość w sprawach, o których mowa w art. 82 ust. 3 pkt 1 ustawy zmienianej w [art. 1](#art-1), w brzmieniu dotychczasowym, w odniesieniu do morskich wód wewnętrznych, morskich portów i przystani oraz pasa technicznego na obszarze województwa warmińsko-mazurskiego, niezwłocznie przekażą sprawy wszczęte i niezakończone odpowiednio Wojewodzie Warmińsko-Mazurskiemu oraz Warmińsko-Mazurskiemu Wojewódzkiemu Inspektorowi Nadzoru Budowlanego.
 
+<a id="art-8"></a>
 ### Art. 8.
 
-Do tymczasowych obiektów budowlanych na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 pkt 1 ustawy zmienianej w art. 5, istniejących przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą.
+Do tymczasowych obiektów budowlanych na terenie gmin wskazanych w przepisach wydanych na podstawie [art. 1](#art-1) ust. 2 pkt 1 ustawy zmienianej w [art. 5](#art-5), istniejących przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w [art. 5](#art-5), w brzmieniu nadanym niniejszą ustawą.
 
+<a id="art-9"></a>
 ### Art. 9.
 
-Do wniosków o wydanie decyzji o warunkach zabudowy, złożonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+Do wniosków o wydanie decyzji o warunkach zabudowy, złożonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w [art. 2](#art-2), w brzmieniu dotychczasowym.
 
+<a id="art-10"></a>
 ### Art. 10.
 
-Przepisy ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do zgłoszeń złożonych od dnia wejścia w życie niniejszej ustawy.
+Przepisy ustawy zmienianej w [art. 3](#art-3), w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do zgłoszeń złożonych od dnia wejścia w życie niniejszej ustawy.
 
+<a id="art-11"></a>
 ### Art. 11.
 
-1. W sprawach wszczętych i niezakończonych, o których mowa w art. 27b ust. 8, 9 i 11 oraz w art. 27d ust. 4 ustawy zmienianej w art. 4, stosuje się przepisy ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą.
+1. W sprawach wszczętych i niezakończonych, o których mowa w art. 27b ust. 8, 9 i 11 oraz w art. 27d ust. 4 ustawy zmienianej w [art. 4](#art-4), stosuje się przepisy ustawy zmienianej w [art. 4](#art-4), w brzmieniu nadanym niniejszą ustawą.
 
-2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekaże Głównemu Inspektorowi Nadzoru Budowlanego akta spraw, o których mowa w art. 27b ust. 8, 9 i 11 oraz art. 27d ust. 4 ustawy zmienianej w art. 4, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekaże Głównemu Inspektorowi Nadzoru Budowlanego akta spraw, o których mowa w art. 27b ust. 8, 9 i 11 oraz art. 27d ust. 4 ustawy zmienianej w [art. 4](#art-4), w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
+<a id="art-12"></a>
 ### Art. 12.
 
-Do odwołań od decyzji lub zażaleń na postanowienia, wydanych na podstawie ustawy zmienianej w art. 4, wniesionych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+Do odwołań od decyzji lub zażaleń na postanowienia, wydanych na podstawie ustawy zmienianej w [art. 4](#art-4), wniesionych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
+<a id="art-13"></a>
 ### Art. 13.
 
 Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
-1) art. 1 pkt 1 lit. a i c oraz pkt 3, które wchodzą w życie z dniem 20 września 2026 r.;
+1) [art. 1](#art-1) pkt 1 lit. a i c oraz pkt 3, które wchodzą w życie z dniem 20 września 2026 r.;
 
-2) art. 1 pkt 10 lit. b oraz pkt 11 i 12 lit. a, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+2) [art. 1](#art-1) pkt 10 lit. b oraz pkt 11 i 12 lit. a, które wchodzą w życie z dniem 1 stycznia 2026 r.;
 
-3) art. 5, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 22 października 2025 r.
+3) [art. 5](#art-5), który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 22 października 2025 r.
 
 Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
