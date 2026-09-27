@@ -24,15 +24,16 @@ prawnej). Jedno ograniczenie znane: w
 w razie potrzeby trzeba sprawdzić PDF.
 
 Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(12 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+(13 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
 `ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
 `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`,
 `ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb`,
 `ustawa-o-spoldzielniach-mieszkaniowych`, `ustawa-o-ochronie-przeciwpozarowej`,
 `ustawa-prawo-spoldzielcze`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605`,
-`kodeks-cywilny`), przez własny skrypt (PyMuPDF + ręczne reguły), nie model AI. Napotkane
-problemy źródłowe i jak skrypt sobie z nimi radzi:
+`kodeks-cywilny`, `rozporzadzenie-audyt-energetyczny`), przez własny skrypt
+(PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i jak skrypt sobie
+z nimi radzi:
 - **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
   zakodowana w PDF jako inne, niepowiązane symbole (np. „ł”→„∏”, „ń”→„ƒ”, „ś”→„Ê”) —
   wykryte i skorygowane automatycznie (bezpieczne, bo te symbole nigdy nie występują w
@@ -85,8 +86,18 @@ problemy źródłowe i jak skrypt sobie z nimi radzi:
 - **Rozdział/Oddział numerowane cyframi rzymskimi**: większość aktów używa cyfr arabskich
   („Rozdział 1”), ale Kodeks cywilny konsekwentnie używa rzymskich („Rozdział I”) —
   skrypt rozpoznaje oba warianty.
+- **próg wykrywania układu dwuszpaltowego zbyt wysoki dla dokumentów z załącznikami
+  tabelarycznymi**: dokument uznawany był za jednoszpaltowy, jeśli mniej niż ~30% stron
+  wykazywało sygnał kolumn — zbyt agresywne dla aktu, którego większość stron to
+  załączniki/tabele (np. `rozporzadzenie-audyt-energetyczny`, gdzie tylko 5 z 44 stron to
+  właściwy, dwuszpaltowy tekst przepisów, reszta to wzory kart audytu). Próg obniżony do
+  stałej liczby stron (3), niezależnie od długości dokumentu.
+- **załączniki w formie obrazu (nieczytelne tabele)**: niektóre starsze rozporządzenia
+  mają załączniki (wzory formularzy/kart) osadzone jako zeskanowana grafika, nie tekst —
+  w takim wypadku plik ma adnotację, że dany załącznik nie został skonwertowany, i odsyła
+  do PDF (zastosowane w `rozporzadzenie-audyt-energetyczny`, załączniki nr 1–4).
 
-Pozostałych 7 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
+Pozostałych 6 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
