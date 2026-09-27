@@ -2,6 +2,34 @@
 
 w sprawie dziennika budowy oraz systemu Elektroniczny Dziennik Budowy [1)]
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [§ 1.](#par-1)
+- [Rozdział 2. Dziennik budowy](#rozdzial-2)
+  - [§ 2.](#par-2)
+  - [§ 3.](#par-3)
+  - [§ 4.](#par-4)
+  - [§ 5.](#par-5)
+- [Rozdział 3. Wpisy w dzienniku budowy](#rozdzial-3)
+  - [§ 6.](#par-6)
+  - [§ 7.](#par-7)
+  - [§ 8.](#par-8)
+  - [§ 9.](#par-9)
+  - [§ 10.](#par-10)
+  - [§ 11.](#par-11)
+  - [§ 12.](#par-12)
+  - [§ 13.](#par-13)
+  - [§ 14.](#par-14)
+  - [§ 15.](#par-15)
+- [Rozdział 4. Uwierzytelnianie i autoryzacja w systemie EDB](#rozdzial-4)
+  - [§ 16.](#par-16)
+  - [§ 17.](#par-17)
+  - [§ 18.](#par-18)
+- [Rozdział 5. Przepis końcowy](#rozdzial-5)
+  - [§ 19.](#par-19)
+
 <a id="tresc-rozporzadzenia"></a>
 ## Treść rozporządzenia
 
@@ -158,7 +186,7 @@ c) nazwą organu uprawnionego do kontroli przestrzegania przepisów na terenie b
 <a id="par-12"></a>
 ### § 12.
 
-W dzienniku budowy w postaci elektronicznej wpisów, o których mowa w § 10 ust. 1 i 2 i § 11 ust. 1, dokonuje się przez przydzielenie odpowiednich uprawnień w systemie EDB, natomiast potwierdzenie przyjęcia powierzonych funkcji, o którym mowa w § 10 ust. 3 i § 11 ust. 2, jest dokonywane za pomocą funkcji w systemie EDB świadczących o takim potwierdzeniu.
+W dzienniku budowy w postaci elektronicznej wpisów, o których mowa w [§ 10](#par-10) ust. 1 i 2 i [§ 11](#par-11) ust. 1, dokonuje się przez przydzielenie odpowiednich uprawnień w systemie EDB, natomiast potwierdzenie przyjęcia powierzonych funkcji, o którym mowa w [§ 10](#par-10) ust. 3 i [§ 11](#par-11) ust. 2, jest dokonywane za pomocą funkcji w systemie EDB świadczących o takim potwierdzeniu.
 
 <a id="par-13"></a>
 ### § 13.

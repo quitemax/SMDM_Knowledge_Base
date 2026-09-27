@@ -4,12 +4,41 @@ w sprawie szczegółowego zakresu i form audytu energetycznego oraz części aud
 
 Na podstawie art. 18 ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. Nr 223, poz. 1459) zarządza się, co następuje:
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [§ 1.](#par-1)
+  - [§ 2.](#par-2)
+  - [§ 3.](#par-3)
+- [Rozdział 2. Forma audytu energetycznego i części audytu remontowego](#rozdzial-2)
+  - [§ 4.](#par-4)
+- [Rozdział 3. Szczegółowy zakres audytu energetycznego budynku](#rozdzial-3)
+  - [§ 5.](#par-5)
+  - [§ 6.](#par-6)
+- [Rozdział 4. Szczegółowy zakres audytu energetycznego lokalnego źródła ciepła, zlokalizowanego poza zaopatrywanym przez to źródło budynkiem lub źródła zaopatrującego więcej niż jeden budynek](#rozdzial-4)
+  - [§ 7.](#par-7)
+  - [§ 8.](#par-8)
+- [Rozdział 5. Szczegółowy zakres audytu energetycznego lokalnej sieci ciepłowniczej](#rozdzial-5)
+  - [§ 9.](#par-9)
+  - [§ 10.](#par-10)
+- [Rozdział 6. Szczegółowy zakres części audytu remontowego](#rozdzial-6)
+  - [§ 11.](#par-11)
+  - [§ 12.](#par-12)
+- [Rozdział 7. Przepisy przejściowe i końcowe](#rozdzial-7)
+  - [§ 13.](#par-13)
+  - [§ 14.](#par-14)
+- [Załączniki](#załączniki)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="par-1"></a>
 ### § 1.
 
 Rozporządzenie określa szczegółowy zakres i formy audytu energetycznego oraz audytu remontowego w części określonej w art. 14 ust. 2 pkt 2 i 3 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz algorytm oceny opłacalności przedsięwzięcia termomodernizacyjnego i wzory kart audytów.
 
+<a id="par-2"></a>
 ### § 2.
 
 Ilekroć w rozporządzeniu jest mowa o:
@@ -34,14 +63,17 @@ Ilekroć w rozporządzeniu jest mowa o:
 
 10) wartości wskaźnika EK — rozumie się przez to wartość wskaźnika E, o którym mowa w ustawie, określającego roczne zapotrzebowanie na energię końcową (ciepło) do ogrzewania budynku w sezonie grzewczym na jednostkę powierzchni wyrażoną w kWh/(m2 x rok), obliczonego zgodnie z rozporządzeniem dotyczącym sporządzania świadectw.
 
+<a id="par-3"></a>
 ### § 3.
 
 1. Audyt energetyczny lub część audytu remontowego, sporządzone dla budynku należącego do grupy budynków o jednakowych rozwiązaniach konstrukcyjno-materiałowych i o tym samym stopniu zużycia stwierdzonym na podstawie inwentaryzacji techniczno-budowlanej, może być opracowany z wykorzystaniem wyników audytu energetycznego wykonanego dla jednego z tych budynków.
 
 2. Dokumentacja wykonania kolejnych kroków optymalizacyjnych algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego lub wskazania przedsięwzięcia remontowego obejmuje tylko ulepszenia uzasadnione technicznie i ekonomicznie dla danego budynku.
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Forma audytu energetycznego i części audytu remontowego
 
+<a id="par-4"></a>
 ### § 4.
 
 1. Audyt energetyczny i część audytu remontowego sporządza się w języku polskim w formie pisemnej, stosując oznaczenia graficzne i literowe określone w Polskich Normach lub inne objaśnione w legendzie audytu.
@@ -50,8 +82,10 @@ Ilekroć w rozporządzeniu jest mowa o:
 
 3. Audyt energetyczny i część audytu remontowego oprawia się w okładkę formatu A-4, w sposób
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Szczegółowy zakres audytu energetycznego budynku
 
+<a id="par-5"></a>
 ### § 5.
 
 Audyt energetyczny budynku składa się z następujących części:
@@ -92,9 +126,10 @@ j) charakterystykę instalacji elektrycznej, w przypadku gdy ma ona wpływ na ul
 
 8) opisu technicznego, niezbędnych szkiców i przedmiaru robót optymalnego wariantu przedsięwzięcia termomodernizacyjnego przewidzianego do realizacji.
 
+<a id="par-6"></a>
 ### § 6.
 
-Algorytm, o którym mowa w § 5 pkt 7, zawiera następujące kroki optymalizacyjne:
+Algorytm, o którym mowa w [§ 5](#par-5) pkt 7, zawiera następujące kroki optymalizacyjne:
 
 1) pierwszy polegający na wskazaniu rodzajów ulepszeń termomodernizacyjnych mających na celu zmniejszenie zapotrzebowania na ciepło:
 
@@ -110,10 +145,12 @@ b) zestawieniu, zgodnie ze wzorem zawartym w tabeli 1 części 2 załącznika nr
 
 3) trzeci polegający na wyborze optymalnego wariantu przedsięwzięcia termomodernizacyjnego poprawiającego sprawność cieplną systemu grzewczego, według metody opisanej w pkt 3 części 3 załącznika nr 1 do rozporządzenia, i zestawieniu rodzajów ulepszeń według schematu przedstawionego w tabeli 2 części 2 załącznika nr 1 do rozporządzenia;
 
-4) czwarty polegający na wyborze optymalnego wariantu przedsięwzięcia termomodernizacyjnego, pierwszego z kolejnych wariantów, dla którego wartości w kolumnach 7—9 tabeli części 4 załącznika nr 1 do rozporządzenia spełniają odpowiednio wymagania ustawy określone w art. 3 pkt 1 — kolumna 5, art. 5 ust. 1 — kolumna 7, art. 5 ust. 2 pkt 1 — kolumna 8, art. 5 ust. 2 pkt 2 — kolumna 9 oraz wartość w kolumnie 6 tabeli spełnia wymaganie nieprzekroczenia przez inwestora wielkości środków własnych, o których mowa w § 5 pkt 3.
+4) czwarty polegający na wyborze optymalnego wariantu przedsięwzięcia termomodernizacyjnego, pierwszego z kolejnych wariantów, dla którego wartości w kolumnach 7—9 tabeli części 4 załącznika nr 1 do rozporządzenia spełniają odpowiednio wymagania ustawy określone w art. 3 pkt 1 — kolumna 5, art. 5 ust. 1 — kolumna 7, art. 5 ust. 2 pkt 1 — kolumna 8, art. 5 ust. 2 pkt 2 — kolumna 9 oraz wartość w kolumnie 6 tabeli spełnia wymaganie nieprzekroczenia przez inwestora wielkości środków własnych, o których mowa w [§ 5](#par-5) pkt 3.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Szczegółowy zakres audytu energetycznego lokalnego źródła ciepła, zlokalizowanego poza zaopatrywanym przez to źródło budynkiem lub źródła zaopatrującego więcej niż jeden budynek
 
+<a id="par-7"></a>
 ### § 7.
 
 Audyt energetyczny lokalnego źródła ciepła składa się z następujących części:
@@ -130,7 +167,7 @@ a) charakterystykę techniczną lokalnego źródła ciepła, w tym w szczególno
 
 b) charakterystykę techniczną instalacji lokalnego źródła ciepła, w tym kotłów, rurociągów, pomp, aparatury kontrolno-pomiarowej, urządzeń regulacyjnych, urządzeń oczyszczania spalin, komina, odżużlania, nawęglania (doprowadzenia paliwa), w zakresie: stopnia zużycia urządzeń i możliwości wykorzystania istniejących urządzeń w zmodernizowanym źródle,
 
-c) charakterystykę budynku lokalnego źródła ciepła i jego pomieszczeń, sporządzoną zgodnie z wymaganiami określonymi w § 5 pkt 4,
+c) charakterystykę budynku lokalnego źródła ciepła i jego pomieszczeń, sporządzoną zgodnie z wymaganiami określonymi w [§ 5](#par-5) pkt 4,
 
 d) bilans ciepła lokalnego źródła ciepła, sporządzony według metody opisanej w części 2 załącznika nr 2 do rozporządzenia;
 
@@ -140,9 +177,10 @@ d) bilans ciepła lokalnego źródła ciepła, sporządzony według metody opisa
 
 7) opisu technicznego, niezbędnych szkiców i przedmiaru robót optymalnego wariantu przedsięwzięcia termomodernizacyjnego, przewidzianego do realizacji.
 
+<a id="par-8"></a>
 ### § 8.
 
-Algorytm, o którym mowa w § 7 pkt 6, zawiera następujące kroki optymalizacyjne:
+Algorytm, o którym mowa w [§ 7](#par-7) pkt 6, zawiera następujące kroki optymalizacyjne:
 
 1) pierwszy polegający na wskazaniu wariantów przedsięwzięcia termomodernizacyjnego;
 
@@ -160,10 +198,12 @@ a) obliczeniu kosztów wytwarzania ciepła, według metody opisanej w części 3
 
 b) wyznaczeniu, według metody opisanej w części 3 załącznika nr 2 do rozporządzenia, efektów ekonomicznych dla wariantów przedsięwzięcia termomodernizacyjnego wskazanych w pkt 1;
 
-5) piąty polegający na wyborze, według metody opisanej w części 4 załącznika nr 2 do rozporządzenia, optymalnego wariantu przedsięwzięcia termomodernizacyjnego, pierwszego z kolejnych wariantów, dla którego wartości w kolumnach 4, 6 i 7 tabeli części 5 załącznika nr 2 do rozporządzenia spełniają wymagania ustawy określone w art. 2 pkt 2 lit. b, c lub d — kolumna 4, art. 4 pkt 2 — kolumna 6, art. 4 pkt 2 — kolumna 7 oraz wartość w kolumnie 6 tabeli spełnia wymaganie nieprzekroczenia deklarowanych przez inwestora środków własnych, o których mowa w § 7 pkt 3.
+5) piąty polegający na wyborze, według metody opisanej w części 4 załącznika nr 2 do rozporządzenia, optymalnego wariantu przedsięwzięcia termomodernizacyjnego, pierwszego z kolejnych wariantów, dla którego wartości w kolumnach 4, 6 i 7 tabeli części 5 załącznika nr 2 do rozporządzenia spełniają wymagania ustawy określone w art. 2 pkt 2 lit. b, c lub d — kolumna 4, art. 4 pkt 2 — kolumna 6, art. 4 pkt 2 — kolumna 7 oraz wartość w kolumnie 6 tabeli spełnia wymaganie nieprzekroczenia deklarowanych przez inwestora środków własnych, o których mowa w [§ 7](#par-7) pkt 3.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Szczegółowy zakres audytu energetycznego lokalnej sieci ciepłowniczej
 
+<a id="par-9"></a>
 ### § 9.
 
 Audyt energetyczny lokalnej sieci ciepłowniczej składa się z następujących części:
@@ -190,9 +230,10 @@ d) określenie całkowitych strat ciepła w lokalnej sieci ciepłowniczej metod�
 
 7) opisu technicznego, niezbędnych szkiców i przedmiaru robót optymalnego wariantu przedsięwzięcia termomodernizacyjnego, przewidzianego do realizacji.
 
+<a id="par-10"></a>
 ### § 10.
 
-Algorytm, o którym mowa w § 9 pkt 6, zawiera następujące kroki optymalizacyjne:
+Algorytm, o którym mowa w [§ 9](#par-9) pkt 6, zawiera następujące kroki optymalizacyjne:
 
 1) pierwszy polegający na wskazaniu ulepszeń termomodernizacyjnych dla odcinków sieci wyszczególnionych w tabeli 1 części 2 załącznika nr 3 do rozporządzenia;
 
@@ -208,10 +249,12 @@ b) wyznaczeniu, według metody opisanej w części 3 załącznika nr 3 do rozpor
 
 5) piąty polegający na zestawieniu, zgodnie ze wzorem zawartym w tabeli 1 części 4 załącznika nr 3 do rozporządzenia, ulepszeń termomodernizacyjnych dla sieci ciepłowniczej uszeregowanych zgodnie z rosnącą wartością prostego czasu zwrotu nakładów (SPBT);
 
-6) szósty polegający na wyborze, według metody opisanej w części 5 załącznika nr 3 do rozporządzenia, optymalnego wariantu przedsięwzięcia termomodernizacyjnego, pierwszego z kolejnych wariantów, dla którego wartości w kolumnach 4, 6 i 7 tabeli części 5 załącznika nr 3 do rozporządzenia spełniają wymagania ustawy określone w art. 2 pkt 2 lit. b — kolumna 4, art. 4 pkt 1 — kolumna 6, art. 4 pkt 2 — kolumna 7 oraz wartość w kolumnie 6 tabeli spełnia wymaganie nieprzekroczenia deklarowanych przez inwestora środków własnych, o których mowa w § 9 pkt 3.
+6) szósty polegający na wyborze, według metody opisanej w części 5 załącznika nr 3 do rozporządzenia, optymalnego wariantu przedsięwzięcia termomodernizacyjnego, pierwszego z kolejnych wariantów, dla którego wartości w kolumnach 4, 6 i 7 tabeli części 5 załącznika nr 3 do rozporządzenia spełniają wymagania ustawy określone w art. 2 pkt 2 lit. b — kolumna 4, art. 4 pkt 1 — kolumna 6, art. 4 pkt 2 — kolumna 7 oraz wartość w kolumnie 6 tabeli spełnia wymaganie nieprzekroczenia deklarowanych przez inwestora środków własnych, o których mowa w [§ 9](#par-9) pkt 3.
 
+<a id="rozdzial-6"></a>
 ### Rozdział 6. Szczegółowy zakres części audytu remontowego
 
+<a id="par-11"></a>
 ### § 11.
 
 Część audytu remontowego składa się z:
@@ -252,9 +295,10 @@ j) charakterystykę instalacji elektrycznej;
 
 8) opisu technicznego i niezbędnych szkiców wariantu przedsięwzięcia remontowego, przewidzianego do realizacji, a także rzeczowego zakresu prac objętych przedsięwzięciem remontowym.
 
+<a id="par-12"></a>
 ### § 12.
 
-Dokumentacja, o której mowa w § 11 pkt 7, składa się z następujących elementów:
+Dokumentacja, o której mowa w [§ 11](#par-11) pkt 7, składa się z następujących elementów:
 
 1) zestawu ulepszeń wchodzących w zakres przedsięwzięcia remontowego niezbędnych do spełnienia warunku zawartego w art. 7 ustawy dotyczącego zmniejszenia rocznego zapotrzebowania na energię wraz z obliczeniem procentu oszczędności energii w stosunku do stanu istniejącego, wg tabeli 3 załącznika nr 4 do rozporządzenia;
 
@@ -266,18 +310,22 @@ Dokumentacja, o której mowa w § 11 pkt 7, składa się z następujących eleme
 
 5) określenia wskaźnika rocznego obliczeniowego zapotrzebowania na energię końcową (ciepło) oraz wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną przypadającą na jednostkę powierzchni dla części budynku zawierającej lokale mieszkalne zgodnie z zasadami opisanymi w załączniku nr 5 do rozporządzenia dotyczącego sporządzania świadectw.
 
+<a id="rozdzial-7"></a>
 ### Rozdział 7. Przepisy przejściowe i końcowe
 
+<a id="par-13"></a>
 ### § 13.
 
 Do audytu energetycznego, który złożony został w banku kredytującym wraz z wnioskiem o przyznanie premii termomodernizacyjnej przed dniem wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
 
+<a id="par-14"></a>
 ### § 14.
 
 Rozporządzenie wchodzi w życie z dniem 19 marca 2009 r.
 
 Minister Infrastruktury: C. Grabarczyk
 
+<a id="załączniki"></a>
 ## Załączniki
 
 > **Uwaga:** rozporządzenie zawiera 4 załączniki (wzory kart audytu energetycznego

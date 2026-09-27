@@ -4,10 +4,23 @@ w sprawie informacji dotyczącej bezpieczeństwa i ochrony zdrowia oraz planu be
 
 Na podstawie art. 21a ust. 4 ustawy z dnia 7 lipca 1994 r. — Prawo budowlane (Dz. U. z 2000 r. Nr 106, poz. 1126, z późn. zm.[2)]) zarządza się, co następuje:
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [§ 1.](#par-1)
+- [§ 2.](#par-2)
+- [§ 3.](#par-3)
+- [§ 4.](#par-4)
+- [§ 5.](#par-5)
+- [§ 6.](#par-6)
+- [§ 7.](#par-7)
+
+<a id="par-1"></a>
 ### § 1.
 
 Rozporządzenie określa zakres i formę informacji dotyczącej bezpieczeństwa i ochrony zdrowia, planu bezpieczeństwa i ochrony zdrowia oraz szczegółowy zakres rodzajów robót budowlanych, stwarzających zagrożenia bezpieczeństwa i zdrowia ludzi.
 
+<a id="par-2"></a>
 ### § 2.
 
 1. Informacja dotycząca bezpieczeństwa i ochrony zdrowia, zwana dalej „informacją”, zawiera stronę tytułową i część opisową.
@@ -34,6 +47,7 @@ Rozporządzenie określa zakres i formę informacji dotyczącej bezpieczeństwa 
 
 6) wskazanie środków technicznych i organizacyjnych, zapobiegających niebezpieczeństwom wynikającym z wykonywania robót budowlanych w strefach szczególnego zagrożenia zdrowia lub w ich sąsiedztwie, w tym zapewniających bezpieczną i sprawną komunikację, umożliwiającą szybką ewakuację na wypadek pożaru, awarii i innych zagrożeń.
 
+<a id="par-3"></a>
 ### § 3.
 
 1. Plan bezpieczeństwa i ochrony zdrowia, zwany dalej „planem bioz”, zawiera:
@@ -96,14 +110,17 @@ c) zasady bezpośredniego nadzoru nad pracami szczególnie niebezpiecznymi przez
 
 8) lokalizację pomieszczeń higieniczno-sanitarnych.
 
+<a id="par-4"></a>
 ### § 4.
 
 W planie bioz nie zamieszcza się danych dotyczących obiektów lub części tych obiektów służących obronności lub bezpieczeństwu, które mogą ujawnić charakter, przeznaczenie i nazwę tych obiektów. Zakres wyłączenia określa inwestor zgodnie z przepisami o ochronie informacji niejawnych.
 
+<a id="par-5"></a>
 ### § 5.
 
 Kierownik budowy, wprowadzając w części opisowej i w części rysunkowej planu bioz zmiany, zamieszcza adnotację określającą przyczyny ich wprowadzenia.
 
+<a id="par-6"></a>
 ### § 6.
 
 Szczegółowy zakres robót budowlanych, o których mowa w art. 21a ust. 2 ustawy z dnia 7 lipca 1994 r. — Prawo budowlane, obejmuje w przypadku:
@@ -188,6 +205,7 @@ b) roboty rozbiórkowe, w tym wykonywanie otworów w istniejących elementach ko
 
 10) robót budowlanych prowadzonych przy montażu i demontażu ciężkich elementów prefabrykowanych — roboty, których masa przekracza 1,0 t.
 
+<a id="par-7"></a>
 ### § 7.
 
 Rozporządzenie wchodzi w życie z dniem 11 lipca 2003 r.[3)]
