@@ -24,31 +24,39 @@ prawnej). Jedno ograniczenie znane: w
 w razie potrzeby trzeba sprawdzić PDF.
 
 Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(3 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
-`rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`), przez własny skrypt
-(PyMuPDF + ręczne reguły), nie model AI. Te trzy akty pochodzą ze starych (2003 r.)
-skanów Dziennika Ustaw i miały nietypowe problemy źródłowe, które trzeba było wykrywać
-i naprawiać ręcznie:
-- **łamanie czcionki**: część znaków diakrytycznych była zakodowana w PDF jako inne,
-  niepowiązane symbole (np. „ł”→„∏”, „ń”→„ƒ”, „ś”→„Ê”) — wykryte i skorygowane
-  automatycznie w skrypcie (bezpieczne, bo te symbole nigdy nie występują w polskim
-  tekście prawnym);
+(6 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+`rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
+`ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
+`ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`), przez własny skrypt
+(PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i jak skrypt sobie
+z nimi radzi:
+- **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
+  zakodowana w PDF jako inne, niepowiązane symbole (np. „ł”→„∏”, „ń”→„ƒ”, „ś”→„Ê”) —
+  wykryte i skorygowane automatycznie (bezpieczne, bo te symbole nigdy nie występują w
+  polskim tekście prawnym). Nowsze akty (2020+) tego problemu nie mają.
 - **układ dwuszpaltowy**: skrypt wykrywa układ kolumnowy per dokument i scala kolumny
-  we właściwej kolejności;
-- **pasek tytułowy w „rynnie” między kolumnami**: na stronach otwierających akt tytuł
-  bywa wydrukowany wąskim pasem dokładnie pomiędzy kolumnami, co myli automatyczne
-  wykrywanie kolumn — w `rozporzadzenie-bhp-roboty-budowlane.md` i
+  we właściwej kolejności.
+- **pasek tytułowy w „rynnie” między kolumnami** (stare skany): na stronach otwierających
+  akt tytuł bywa wydrukowany wąskim pasem dokładnie pomiędzy kolumnami, co myli
+  automatyczne wykrywanie kolumn — w `rozporzadzenie-bhp-roboty-budowlane.md` i
   `rozporzadzenie-plan-bioz.md` fragment tytułu/klauzuli wprowadzającej trzeba było
-  ręcznie zrekonstruować z surowego tekstu strony (zweryfikowane wobec PDF, nie zgadywane);
+  ręcznie zrekonstruować z surowego tekstu strony (zweryfikowane wobec PDF, nie zgadywane).
 - **wycinek PDF obejmuje sąsiedni akt**: eksport ISAP dla krótkiego aktu bywa cięciem po
   stronach Dziennika Ustaw, więc ciągnie ze sobą końcówkę poprzedniego aktu i/lub
   początek następnego, który dzieli z nim stronę — skrypt wykrywa i przycina do
   właściwego aktu po tytule ustawy/rozporządzenia (zastosowane w `rozporzadzenie-plan-bioz`,
   gdzie oryginalny PDF zawierał fragmenty sąsiednich aktów: rozporządzenia o
   funkcjonariuszach ABW przed i rozporządzenia o wzorach wniosków budowlanych po).
+- **obwieszczenie opakowujące tekst jednolity** (nowsze akty): skrypt wykrywa nagłówek
+  strony tytułowej Dziennika Ustaw i proceduralny wstęp obwieszczenia Marszałka Sejmu i
+  pomija je, zaczynając właściwą treść od „Załącznik do obwieszczenia…” (ten sam wzorzec
+  co przy konwersji z HTML).
+- **przypisy dolne** (tekst jednolity z historią nowelizacji): skrypt wykrywa blok
+  przypisów na dole strony po mniejszej czcionce (a nie sztywnym progu wysokości strony,
+  bo długi przypis z zagnieżdżoną listą może zaczynać się wysoko na stronie) i zbiera je
+  w sekcję „## Przypisy” na końcu pliku, tak jak w plikach z HTML.
 
-Pozostałych 16 aktów jeszcze nie sprawdzono pod kątem tych samych problemów — możliwe,
-że część z nich (zwłaszcza nowsze, po ~2010 r.) ma czysty tekst PDF bez tych wad.
+Pozostałych 13 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
