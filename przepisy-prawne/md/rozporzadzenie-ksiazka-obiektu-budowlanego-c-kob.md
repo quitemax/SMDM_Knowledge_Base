@@ -355,7 +355,7 @@ Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. [3)]
 ## Przypisy
 
 
-1) Minister Rozwoju i Technologii kieruje działem administracji rządowej - budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie [§ 1](#par-1) ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
+1) Minister Rozwoju i Technologii kieruje działem administracji rządowej - budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
 
 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687.
 

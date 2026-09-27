@@ -385,13 +385,42 @@ inny akt, bo wtedy to zaimkowe odniesienie zwykle wraca do TEGO aktu, nie do
 konwertowanego dokumentu — np. „ustawy z dnia 11 stycznia 2018 r. o
 elektromobilności... w rozumieniu art. 2 pkt 3 tej ustawy” dalej mówi o ustawie o
 elektromobilności). Dodatkowo sprawdzane jest też najbliższe otoczenie PO cytacie w tej
-samej klauzuli (do najbliższego „.”/„;”/„:”), bo szyk polski często stawia numer artykułu
-przed nazwą aktu („art. 2 pkt 27 ustawy z dnia...”), zanim jakikolwiek wcześniejszy
-przełącznik kontekstu zdążyłby zadziałać.
+samej klauzuli — do najbliższego „;” (NIE „.”: polskie skróty prawne, „lit. a”, „pkt 2”,
+„2022 r.”, obcinałyby okno tuż przed „z dnia”, które dopiero czyni cytat obcym), bo szyk
+polski często stawia numer artykułu przed nazwą aktu („art. 2 pkt 27 ustawy z dnia...”),
+zanim jakikolwiek wcześniejszy przełącznik kontekstu zdążyłby zadziałać. Akt bywa też
+nazwany bez daty, samym (krótkim) tytułem — „ustawy o własności lokali”, „ustawy – Prawo
+budowlane”, „rozporządzenia w sprawie...” — to również rozpoznawane jako kontekst obcy.
+Osobny przypadek: „ustawy zmienianej w art. N” nazywa inny akt przez wskazanie, GDZIE w
+tym dokumencie go nowelizuje — więc samo „art. N” w tej frazie zostaje linkiem do tego
+dokumentu (to naprawdę jego artykuł), ale każde INNE odniesienie do numeracji przed tą
+frazą w tej samej klauzuli („art. 5 ust. 14 ustawy zmienianej w art. 43” — art. 5 należy
+tam do aktu nowelizowanego w art. 43, nie do tego dokumentu) jest traktowane jako obce.
+
+Ta seria (batch 4) ujawniła też dwa oddzielne, wcześniejsze błędy w samym `pdf_to_md.py`
+(nie w `toc_and_links.py`), obecne od dawna w już zatwierdzonych plikach — nagłówek
+Rozdziału/Oddziału z sufiksem „prim” w nawiasie kwadratowym („Rozdział 1[1]”) albo z
+doklejonym numerem przypisu bez nawiasu („Rozdział 6b46)”) nie był poprawnie rozpoznawany:
+`\b` w `heading_and_title()` nie może dopasować się między dwoma znakami
+nie-alfanumerycznymi (np. „]” i spacją), więc silnik nigdy nie cofał się do próby
+dopasowania nawiasu, a dla doklejonego przypisu brakowało odpowiednika
+`split_heading_footnote()`, który mają already Art./§. Efekt: taki nagłówek albo w ogóle
+nie był rozpoznawany jako nagłówek (zwykły akapit), albo numer jednostki i numer przypisu
+zlewały się w jedno. Naprawione ogólnie w `pdf_to_md.py` (kolejność alternatyw w `NUM`,
+usunięcie zbędnego `\b`, dodanie analogicznego rozdzielania doklejonego przypisu) i
+zastosowane retroaktywnie do `ustawa-o-spoldzielniach-mieszkaniowych` (3 nagłówki
+Rozdziałów) i `ustawa-o-rachunkowosci` (2 nagłówki) — jedyne dwa dotychczas zatwierdzone
+pliki, w których ten wzorzec się pojawia (sprawdzone na wszystkich 20). Ten sam błąd
+kolejności alternatyw dotyczył też cytowań w treści (`art. 2[1]`, `rozdziału 2[1]`) w
+`toc_and_links.py` — poprawiony tam samo.
 
 Gotowe: `rozporzadzenie-audyt-energetyczny-nowelizacja-2022-2816`,
 `rozporzadzenie-ochrona-przeciwpozarowa-budynkow-nowelizacja-2024-1716`,
 `rozporzadzenie-podzielniki-kosztow-ogrzewania`, `rozporzadzenie-plan-bioz`,
 `rozporzadzenie-dziennik-budowy-edb`, `rozporzadzenie-audyt-energetyczny`,
 `rozporzadzenie-ksiazka-obiektu-budowlanego-c-kob`,
-`ustawa-prawo-budowlane-nowelizacja-2025-1847`, `ustawa-o-wlasnosci-lokali` (9 z 36).
+`ustawa-prawo-budowlane-nowelizacja-2025-1847`, `ustawa-o-wlasnosci-lokali`,
+`rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+`ustawa-o-charakterystyce-energetycznej-budynkow`, `ustawa-o-spoldzielniach-mieszkaniowych`,
+`ustawa-o-ochronie-praw-lokatorow`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-i-odprowadzaniu-sciekow`
+(14 z 36).

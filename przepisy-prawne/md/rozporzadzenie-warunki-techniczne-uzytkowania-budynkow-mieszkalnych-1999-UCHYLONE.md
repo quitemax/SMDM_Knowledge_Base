@@ -4,12 +4,94 @@ w sprawie warunków technicznych użytkowania budynków mieszkalnych.
 
 Na podstawie art. 7 ust. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz.U. Nr 89, poz. 414, z 1996 r. Nr 100, poz. 465, Nr 106, poz. 496 i Nr 146, poz. 680, z 1997 r. Nr 88, poz. 554 i Nr 111, poz. 726, 1998 r. Nr 22, poz. 118 i Nr 106, poz. 668 oraz z 1999 r. Nr 41, poz. 412, Nr 49, poz. 483 i Nr 62, poz. 682) zarządza się, co następuje:
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [§ 1.](#par-1)
+  - [§ 2.](#par-2)
+  - [§ 3.](#par-3)
+- [Rozdział 2. Kontrola okresowa budynku](#rozdzial-2)
+  - [§ 4.](#par-4)
+  - [§ 5.](#par-5)
+  - [§ 6.](#par-6)
+- [Rozdział 3. Remont budynku](#rozdzial-3)
+  - [§ 7.](#par-7)
+  - [§ 8.](#par-8)
+- [Rozdział 4. Ogólne warunki użytkowania budynku](#rozdzial-4)
+  - [§ 9.](#par-9)
+  - [§ 10.](#par-10)
+  - [§ 11.](#par-11)
+  - [§ 12.](#par-12)
+  - [§ 13.](#par-13)
+  - [§ 14.](#par-14)
+- [Rozdział 5. Użytkowanie lokali](#rozdzial-5)
+  - [§ 15.](#par-15)
+  - [§ 16.](#par-16)
+  - [§ 17.](#par-17)
+  - [§ 18.](#par-18)
+  - [§ 19.](#par-19)
+  - [§ 20.](#par-20)
+  - [§ 21.](#par-21)
+- [Rozdział 6. Użytkowanie instalacji i urządzeń wentylacyjnych](#rozdzial-6)
+  - [§ 22.](#par-22)
+  - [§ 23.](#par-23)
+  - [§ 24.](#par-24)
+- [Rozdział 7. Użytkowanie kanałów i przewodów spalinowych oraz dymowych](#rozdzial-7)
+  - [§ 25.](#par-25)
+  - [§ 26.](#par-26)
+  - [§ 27.](#par-27)
+- [Rozdział 8. Użytkowanie instalacji ciepłej wody użytkowej](#rozdzial-8)
+  - [§ 28.](#par-28)
+  - [§ 29.](#par-29)
+  - [§ 30.](#par-30)
+- [Rozdział 9. Użytkowanie instalacji wodociągowej](#rozdzial-9)
+  - [§ 31.](#par-31)
+  - [§ 32.](#par-32)
+  - [§ 33.](#par-33)
+- [Rozdział 10. Użytkowanie instalacji kanalizacyjnej](#rozdzial-10)
+  - [§ 34.](#par-34)
+  - [§ 35.](#par-35)
+- [Rozdział 11. Użytkowanie wewnętrznych urządzeń do usuwania odpadów i nieczystości stałych](#rozdzial-11)
+  - [§ 36.](#par-36)
+  - [§ 37.](#par-37)
+  - [§ 38.](#par-38)
+- [Rozdział 12. Użytkowanie instalacji i urządzeń centralnego ogrzewania](#rozdzial-12)
+  - [§ 39.](#par-39)
+  - [§ 40.](#par-40)
+  - [§ 41.](#par-41)
+  - [§ 42.](#par-42)
+- [Rozdział 13. Użytkowanie instalacji i urządzeń gazowych](#rozdzial-13)
+  - [§ 43.](#par-43)
+  - [§ 44.](#par-44)
+  - [§ 45.](#par-45)
+  - [§ 46.](#par-46)
+  - [§ 47.](#par-47)
+- [Rozdział 14. Użytkowanie instalacji gazowej zasilanej gazem płynnym](#rozdzial-14)
+  - [§ 48.](#par-48)
+  - [§ 49.](#par-49)
+  - [§ 50.](#par-50)
+  - [§ 51.](#par-51)
+- [Rozdział 15. Użytkowanie instalacji elektrycznej](#rozdzial-15)
+  - [§ 52.](#par-52)
+  - [§ 53.](#par-53)
+  - [§ 54.](#par-54)
+  - [§ 55.](#par-55)
+- [Rozdział 16. Użytkowanie instalacji piorunochronnej](#rozdzial-16)
+  - [§ 56.](#par-56)
+  - [§ 57.](#par-57)
+- [Rozdział 17. Przepis końcowy](#rozdzial-17)
+  - [§ 58.](#par-58)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="par-1"></a>
 ### § 1.
 
 Rozporządzenie określa warunki techniczne użytkowania budynków mieszkalnych, wraz ze związanymi z nimi instalacjami i urządzeniami technicznymi, zwanych dalej „budynkami”.
 
+<a id="par-2"></a>
 ### § 2.
 
 Rozporządzenie określa warunki, które maja zapewnić:
@@ -28,6 +110,7 @@ Rozporządzenie określa warunki, które maja zapewnić:
 
 7) ochronę uzasadnionych interesów osób trzecich.
 
+<a id="par-3"></a>
 ### § 3.
 
 Użyte w rozporządzeniu określenia oznaczają:
@@ -76,8 +159,10 @@ Użyte w rozporządzeniu określenia oznaczają:
 
 23) ustawa – ustawę z dnia 7 lipca 199 4 r. – Prawo budowlane (Dz.U. Nr 89, poz. 414, z 1996 r. Nr 100, poz. 465, Nr 106, poz. 496 i Nr 146, poz. 680, z 1997 r. Nr 88, poz. 554 i Nr 111, poz. 726, 1998 r. Nr 22, poz. 118 i Nr 106, poz. 668 oraz z 1999 r. Nr 41, poz. 412, Nr 49, poz. 483 i Nr 62, poz. 682).
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Kontrola okresowa budynku
 
+<a id="par-4"></a>
 ### § 4.
 
 1. W celu właściwego użytkowania budynku należy przeprowadzać kontrole okresowe.
@@ -102,6 +187,7 @@ Użyte w rozporządzeniu określenia oznaczają:
 
 6. Niezależnie od kontroli okresowych, o których mowa w ust. 1, właściciel budynku może przeprowadzać przeglądy robocze mające na celu określenie stanu przygotowania budynku, urządzeń i instalacji do użytkowania w okresie zimowym.
 
+<a id="par-5"></a>
 ### § 5.
 
 1. Okresowej kontroli, o której mowa w art. 62 ust. 1 pkt 1 lit. a) ustawy, podlegają elementy budynku narażone na szkodliwe wpływy atmosferyczne i niszczące działania czynników występujących podczas użytkowania, których uszkodzenia mogą powodować zagrożenie dla:
@@ -130,15 +216,18 @@ Użyte w rozporządzeniu określenia oznaczają:
 
 8) przejść przyłączy instalacyjnych przez ściany budynku.
 
+<a id="par-6"></a>
 ### § 6.
 
-Zakresem okresowej kontroli, o której mowa w art. 62 ust. 1 pkt 2 ustawy, należy objąć również sprawdzenie stanu sprawności technicznej i wartości użytkowej elementów budynku, o których mowa w § 5, oraz wszystkie pozostałe elementy budynku, a także estetykę budynku i jego otoczenia.
+Zakresem okresowej kontroli, o której mowa w art. 62 ust. 1 pkt 2 ustawy, należy objąć również sprawdzenie stanu sprawności technicznej i wartości użytkowej elementów budynku, o których mowa w [§ 5](#par-5), oraz wszystkie pozostałe elementy budynku, a także estetykę budynku i jego otoczenia.
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Remont budynku
 
+<a id="par-7"></a>
 ### § 7.
 
-1. Dane zawarte w protokołach kontroli, o których mowa w § 4, powinny stanowić podstawę do sporządzenia zestawienia robót remontowych budynku.
+1. Dane zawarte w protokołach kontroli, o których mowa w [§ 4](#par-4), powinny stanowić podstawę do sporządzenia zestawienia robót remontowych budynku.
 
 2. Zestawienie, o którym mowa w ust. 1, powinno zawierać podział robót na:
 
@@ -160,6 +249,7 @@ Zakresem okresowej kontroli, o której mowa w art. 62 ust. 1 pkt 2 ustawy, nale�
 
 4) zachowanie zapobiegawczego charakteru remontu.
 
+<a id="par-8"></a>
 ### § 8.
 
 1. Przy remontach budynku należy zapewnić:
@@ -172,12 +262,15 @@ Zakresem okresowej kontroli, o której mowa w art. 62 ust. 1 pkt 2 ustawy, nale�
 
 2. Wszelkie zmiany w stosunku do istniejących rozwiązań, dokonywanie w związku z wykonywaniem robót remontowych, nie powinny powodować pogorszenia stanu technicznego i właściwości użytkowych elementów budynku oraz naruszać interesów użytkowników lokali lub osób trzecich.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Ogólne warunki użytkowania budynku
 
+<a id="par-9"></a>
 ### § 9.
 
 Dokumentacja użytkowania budynku powinna być systematycznie gromadzona i przechowywana przez okres istnienia budynku.
 
+<a id="par-10"></a>
 ### § 10.
 
 1. Pomieszczenia w budynku przeznaczone do wspólnego użytkowania oraz elementy i urządzenia stanowiące wyposażenie budynku użytkowane intensywnie lub narażone na uszkodzenie powinny być objęte przeglądami co najmniej dwa razy w roku oraz poddawane odpowiedniej konserwacji..
@@ -186,28 +279,34 @@ Dokumentacja użytkowania budynku powinna być systematycznie gromadzona i przec
 
 3. Zakres robót konserwacyjnych, o których mowa w ust. 1, powinien być ustalany na podstawie wyników przeglądów oraz potrzeb zgłoszonych przez użytkowników lokali.
 
+<a id="par-11"></a>
 ### § 11.
 
 1. Pomieszczenia oraz urządzenia przeznaczone do wspólnego użytkowania mieszkańców powinny być utrzymywane w stanie technicznym, higieniczno-sanitarnym i estetycznym zapewniającym właściwe spełnianie założonych funkcji przez cały okres użytkowania budynku.
 
 2. Naprawa uszkodzeń w budynku, powstałych z winy osoby korzystającej z lokalu znajdującego się w tym budynku, obciąża użytkownika tego lokalu.
 
+<a id="par-12"></a>
 ### § 12.
 
 Pomieszczenia techniczne w budynku, piwnice, strychy oraz inne pomieszczenia, nie przewidziane do użytkowania przez osoby trzecie, powinny być zabezpieczone przed dostępem tych osób.
 
+<a id="par-13"></a>
 ### § 13.
 
 1. Warunki i sposób użytkowania urządzeń technicznych i instalacji oraz wyroby użyte do ich napraw i konserwacji nie mogą powodować pogorszenia właściwości użytkowych czynnika dostarczanego za pomocą tych urządzeń i instalacji.
 
 2. parametry techniczne i użytkowe czynnika dostarczanego za pomocą urządzeń technicznych i instalacji do lokali oraz do pomieszczeń przeznaczonych do wspólnego użytkowania powinny być zgodne z wartościami tych parametrów określonymi w odrębnych przepisach i w odpowiednich projektach tych urządzeń i instalacji.
 
+<a id="par-14"></a>
 ### § 14.
 
 Budynki powinny być użytkowane przy zapewnieniu bezpieczeństwa pożarowego zgodnie z zasadami określonymi w przepisach szczególnych.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Użytkowanie lokali
 
+<a id="par-15"></a>
 ### § 15.
 
 Lokal powinien być użytkowany w sposób zapewniający:
@@ -220,6 +319,7 @@ Lokal powinien być użytkowany w sposób zapewniający:
 
 4) prawidłowe funkcjonowanie wspólnych instalacji i urządzeń znajdujących się w tym lokalu.
 
+<a id="par-16"></a>
 ### § 16.
 
 1. Sposób użytkowania instalacji i urządzeń stanowiących wyposażenie lokalu powinien:
@@ -242,6 +342,7 @@ Lokal powinien być użytkowany w sposób zapewniający:
 
 3. W przypadku wystąpienia uszkodzeń lub zakłóceń w funkcjonowaniu instalacji i urządzeń należy niezwłocznie wstrzymać ich eksploatację, jeżeli dalsze ich użytkowanie może spowodować zagrożenie bezpieczeństwa osób lub mienia albo skażenie środowiska.
 
+<a id="par-17"></a>
 ### § 17.
 
 1. Sposób użytkowania instalacji gazowej przez użytkownika lokalu powinien:
@@ -276,8 +377,9 @@ Lokal powinien być użytkowany w sposób zapewniający:
 
 3. Naprawa i konserwacja urządzenia gazowego może być powierzona wyłącznie osobom posiadającym świadectwa kwalifikacyjne określone w odrębnych przepisach.
 
-4. Instalacje i urządzenia gazowe po ich naprawie, przeróbce lub wymianie nie mogą być użytkowane bez poddania ich próbie szczelności, o której mowa w § 45.
+4. Instalacje i urządzenia gazowe po ich naprawie, przeróbce lub wymianie nie mogą być użytkowane bez poddania ich próbie szczelności, o której mowa w [§ 45](#par-45).
 
+<a id="par-18"></a>
 ### § 18.
 
 1. Sposób użytkowania instalacji elektrycznej w lokalu powinien:
@@ -310,6 +412,7 @@ Lokal powinien być użytkowany w sposób zapewniający:
 
 3. Naprawa i konserwacja instalacji i odbiorników zasilanych energią elektryczna może być powierzona wyłącznie osobom posiadającym świadectwa kwalifikacyjne określone w odrębnych przepisach.
 
+<a id="par-19"></a>
 ### § 19.
 
 1. Sposób użytkowania przewodów i kanałów dymowych, spalinowych oraz wentylacyjnych powinien:
@@ -336,10 +439,12 @@ Lokal powinien być użytkowany w sposób zapewniający:
 
 4. Po przeróbce lub wymianie przewody i kanały dymowe lub spalinowe oraz wentylacyjne należy poddać kontroli.
 
+<a id="par-20"></a>
 ### § 20.
 
 Wszelkie zmiany instalacji w lokalu dokonywane w czasie jego użytkowania wymagają pisemnej zgody właściciela budynku.
 
+<a id="par-21"></a>
 ### § 21.
 
 1. W robotach remontowych wykonywanych w lokalu należy stosować wyroby dopuszczone do obrotu i stosowania w budownictwie oraz zapewniać właściwe funkcjonowanie znajdujących się w nim wspólnych instalacji lub urządzeń.
@@ -354,17 +459,20 @@ Wszelkie zmiany instalacji w lokalu dokonywane w czasie jego użytkowania wymaga
 
 4) ograniczyć do niezbędnego minimum uciążliwość związaną z realizacją robót remontowych dla użytkowników pozostałych lokali oraz dla osób trzecich.
 
+<a id="rozdzial-6"></a>
 ### Rozdział 6. Użytkowanie instalacji i urządzeń wentylacyjnych
 
+<a id="par-22"></a>
 ### § 22.
 
 1. Instalacje i urządzenia wentylacyjne powinny w okresie ich użytkowania zapewniać możliwość skutecznej wymiany powietrza w pomieszczeniach zgodnie z warunkami założonymi w projekcie.
 
 2. Instalacje i urządzenia, o których mowa w ust. 1, w okresie ich użytkowania powinny być utrzymywane w stanie technicznym zapewniającym sprawność i niezawodność funkcjonowania.
 
+<a id="par-23"></a>
 ### § 23.
 
-W okresie użytkowania instalacji i urządzeń, o których mowa w § 22 ust. 1, należy zapewniać:
+W okresie użytkowania instalacji i urządzeń, o których mowa w [§ 22](#par-22) ust. 1, należy zapewniać:
 
 1) pełną drożność i szczelność przewodów i urządzeń,
 
@@ -376,18 +484,22 @@ W okresie użytkowania instalacji i urządzeń, o których mowa w § 22 ust. 1, 
 
 5) w razie uzasadnionej potrzeby – kontrolę stanu technicznego instalacji i urządzeń wentylacyjnych.
 
+<a id="par-24"></a>
 ### § 24.
 
 Wprowadzanie jakiejkolwiek zmiany w instalacji i urządzeniach wentylacyjnych w lokalu wymaga wcześniejszego uzyskania zgody właściciela budynku.
 
+<a id="rozdzial-7"></a>
 ### Rozdział 7. Użytkowanie kanałów i przewodów spalinowych oraz dymowych
 
+<a id="par-25"></a>
 ### § 25.
 
 1. Kanały i przewody spalinowe w okresie ich użytkowania powinny zapewniać możliwość odprowadzania spalin powstałych w procesie spalania paliw, zgodnie z założonymi warunkami.
 
 2. kanały i przewody dymowe powinny w okresie ich użytkowania zapewniać możliwość odprowadzania dymu powstałego w procesie spalania paliw stałych, zgodnie z założonymi warunkami.
 
+<a id="par-26"></a>
 ### § 26.
 
 1. Kanały i przewody spalinowe oraz dymowe w budynku powinny być utrzymywane w stanie technicznym zapewniającym skuteczne i niezawodne ich funkcjonowanie.
@@ -404,16 +516,20 @@ Wprowadzanie jakiejkolwiek zmiany w instalacji i urządzeniach wentylacyjnych w 
 
 5) w razie uzasadnionej potrzeby – kontrolę stanu technicznego tych kanałów i przewodów.
 
+<a id="par-27"></a>
 ### § 27.
 
 Wprowadzanie jakichkolwiek zmian w kanałach i przewodach spalinowych lub dymowych w lokalu wymaga wcześniejszego uzyskania zgody właściciela budynku.
 
+<a id="rozdzial-8"></a>
 ### Rozdział 8. Użytkowanie instalacji ciepłej wody użytkowej
 
+<a id="par-28"></a>
 ### § 28.
 
 Instalacja ciepłej wody użytkowej powinna, w okresie jej użytkowania, zapewniać możliwość dostarczania wody, o temperaturze określonej odrębnymi przepisami, do punktów czerpalnych, zgodnie z warunkami jej użytkowania założonymi w projekcie.
 
+<a id="par-29"></a>
 ### § 29.
 
 W okresie użytkowania instalacji ciepłej wody użytkowej należy zapewniać:
@@ -430,18 +546,22 @@ W okresie użytkowania instalacji ciepłej wody użytkowej należy zapewniać:
 
 6) w razie uzasadnionej potrzeby – kontrolę stanu technicznego tej instalacji.
 
+<a id="par-30"></a>
 ### § 30.
 
 1. W przypadku gdy instalacja ciepłej wody użytkowej została wyposażona w wodomierze służące do rozliczeń zużycia tej wody w lokalach, właściciel tych urządzeń powinien zapewniać okresową ich legalizację.
 
 2. Okresy ważności cechy legalizacyjnej określają odrębne przepisy.
 
+<a id="rozdzial-9"></a>
 ### Rozdział 9. Użytkowanie instalacji wodociągowej
 
+<a id="par-31"></a>
 ### § 31.
 
 Instalacja wodociągowa powinna w okresie jej użytkowania zapewniać możliwość dostarczenia wody do wszystkich punktów czerpalnych w budynku, zgodnie z warunkami jej użytkowania założonymi w projekcie tej instalacji.
 
+<a id="par-32"></a>
 ### § 32.
 
 W okresie użytkowania instalacji wodociągowej należy zapewniać:
@@ -458,20 +578,24 @@ W okresie użytkowania instalacji wodociągowej należy zapewniać:
 
 6) utrzymywanie wymaganego stanu technicznego urządzeń hydroforowych.
 
+<a id="par-33"></a>
 ### § 33.
 
 1. W przypadku gdy instalacja wodociągowa została wyposażona w wodomierze do rozliczeń zużycia wody w lokalach, właściciel tych urządzeń powinien zapewniać okresowa ich legalizację.
 
 2. Okresy ważności cechy legalizacyjnej określają odrębne przepisy.
 
+<a id="rozdzial-10"></a>
 ### Rozdział 10. Użytkowanie instalacji kanalizacyjnej
 
+<a id="par-34"></a>
 ### § 34.
 
 1. Instalacja kanalizacyjna powinna w okresie jej użytkowania być utrzymywana w pełnej sprawności technicznej zapewniającej możliwość odprowadzania ścieków.
 
 2. Jakość ścieków odprowadzanych instalacją kanalizacyjną powinna odpowiadać wymaganiom określonym przepisami szczególnymi.
 
+<a id="par-35"></a>
 ### § 35.
 
 W okresie użytkowania instalacji kanalizacyjnej należy zapewniać:
@@ -488,19 +612,23 @@ W okresie użytkowania instalacji kanalizacyjnej należy zapewniać:
 
 6) w razie uzasadnionej potrzeby – kontrolę stanu technicznego tej instalacji.
 
+<a id="rozdzial-11"></a>
 ### Rozdział 11. Użytkowanie wewnętrznych urządzeń do usuwania odpadów i nieczystości stałych
 
+<a id="par-36"></a>
 ### § 36.
 
 Wewnętrzne urządzenia do usuwania odpadów i nieczystości stałych powinny w okresie ich u użytkowania zapewniać możliwość usuwania odpadów i nieczystości stałych, których jakość i wymiary odpowiadają wymaganiom określonym w instrukcji użytkowania tych urządzeń.
 
+<a id="par-37"></a>
 ### § 37.
 
-Wewnętrzne urządzenia, o których mowa w § 36, oraz pomieszczenia, w których one się znajdują, należy utrzymywać w stanie technicznym i higieniczno-sanitarnym zapewniającym ich pełną sprawność techniczną i przydatność do użytkowania.
+Wewnętrzne urządzenia, o których mowa w [§ 36](#par-36), oraz pomieszczenia, w których one się znajdują, należy utrzymywać w stanie technicznym i higieniczno-sanitarnym zapewniającym ich pełną sprawność techniczną i przydatność do użytkowania.
 
+<a id="par-38"></a>
 ### § 38.
 
-W okresie użytkowania urządzeń, o których mowa w § 36, należy zapewniać:
+W okresie użytkowania urządzeń, o których mowa w [§ 36](#par-36), należy zapewniać:
 
 1) drożność urządzeń,
 
@@ -510,8 +638,10 @@ W okresie użytkowania urządzeń, o których mowa w § 36, należy zapewniać:
 
 4) w razie uzasadnionej potrzeby – kontrolę stanu technicznego tych urządzeń.
 
+<a id="rozdzial-12"></a>
 ### Rozdział 12. Użytkowanie instalacji i urządzeń centralnego ogrzewania
 
+<a id="par-39"></a>
 ### § 39.
 
 1. Instalacja i urządzenia centralnego ogrzewania w okresie ich użytkowania powinny być utrzymywane w stanie technicznym zapewniającym we wszystkich ogrzewanych pomieszczeniach właściwe temperatury określone Polską Normą.
@@ -520,6 +650,7 @@ W okresie użytkowania urządzeń, o których mowa w § 36, należy zapewniać:
 
 3. W przypadku gdy przyczyną zakłóceń, o których mowa w ust. 2, są produkty korozji lub substancje pochodzące ze związków zawartych w wodzie instalacyjnej osadzone na wewnętrznych powierzchniach instalacji i urządzeń, przed podjęciem decyzji w sprawie usprawnienia ich funkcjonowania należy opracować ekspertyzę zawierającą analizę celowości i opłacalności oraz określenie sposobu usunięcia osadów.
 
+<a id="par-40"></a>
 ### § 40.
 
 W okresie użytkowania instalacji i urządzeń centralnego ogrzewania należy zapewniać:
@@ -536,6 +667,7 @@ W okresie użytkowania instalacji i urządzeń centralnego ogrzewania należy za
 
 6) w razie uzasadnionej potrzeby – kontrolę stanu technicznego tej instalacji i urządzeń.
 
+<a id="par-41"></a>
 ### § 41.
 
 1. W przypadku gdy instalacja centralnego ogrzewania została wyposażona w urządzenia służące do pomiaru i rozliczeń zużycia ciepła w lokalach, właściciel tych urządzeń powinien zapewniać okresową ich legalizację lub wymianę.
@@ -544,16 +676,20 @@ W okresie użytkowania instalacji i urządzeń centralnego ogrzewania należy za
 
 3. Okresy ważności cechy legalizacyjnej określają odrębne przepisy.
 
+<a id="par-42"></a>
 ### § 42.
 
 Wprowadzenie jakichkolwiek zmian instalacji i urządzeń centralnego ogrzewania w lokalu wymaga wcześniejszego uzyskania zgody właściciela budynku.
 
+<a id="rozdzial-13"></a>
 ### Rozdział 13. Użytkowanie instalacji i urządzeń gazowych
 
+<a id="par-43"></a>
 ### § 43.
 
 Instalacja gazowa powinna w okresie jej użytkowania zapewniać możliwość bezpiecznego korzystania z urządzeń gazowych, zgodnego z warunkami założonymi w projekcie tej instalacji.
 
+<a id="par-44"></a>
 ### § 44.
 
 1. W przypadku:
@@ -582,10 +718,12 @@ Instalacja gazowa powinna w okresie jej użytkowania zapewniać możliwość bez
 
 8. Z przeprowadzenia głównej próby szczelności sporządza się protokół, który powinien być podpisany przez właściciela budynku oraz wykonawcę instalacji gazowej.
 
+<a id="par-45"></a>
 ### § 45.
 
 W przypadku gdy instalacja gazowa nie została napełniona gazem w okresie 6 miesięcy od daty przeprowadzenia głównej próby szczelności – próbę te należy przeprowadzić ponownie.
 
+<a id="par-46"></a>
 ### § 46.
 
 Do obowiązków właściciela budynku w zakresie utrzymania właściwego stanu technicznego instalacji gazowej należy:
@@ -604,26 +742,31 @@ Do obowiązków właściciela budynku w zakresie utrzymania właściwego stanu t
 
 7) zawiadamianie dostawcy gazu w każdym przypadku stwierdzenia uszkodzenia szafki, w której umieszczono kurek główny gazowy.
 
+<a id="par-47"></a>
 ### § 47.
 
 Stan technicznej sprawności instalacji gazowej w budynku powinien być kontrolowany równocześnie z kontrolą stanu technicznego przewodów i kanałów wentylacyjnych oraz spalinowych.
 
+<a id="rozdzial-14"></a>
 ### Rozdział 14. Użytkowanie instalacji gazowej zasilanej gazem płynnym
 
+<a id="par-48"></a>
 ### § 48.
 
-1. Instalacja gazowa zasilana gazem płynnym, w której długość nieelastycznego przewodu z rury stalowej przekracza 2,0 m, powinna być, po jej wymianie lub remoncie, poddana głównej próbie szczelności, o której mowa w § 44.
+1. Instalacja gazowa zasilana gazem płynnym, w której długość nieelastycznego przewodu z rury stalowej przekracza 2,0 m, powinna być, po jej wymianie lub remoncie, poddana głównej próbie szczelności, o której mowa w [§ 44](#par-44).
 
 2. Instalacja gazowa zasilana z butli gazowej, w której długość przewodu nieelastycznego z rury stalowej nie przekracza 2,0 m, powinna być, po jej wymianie lub remoncie, poddana sprawdzeniu szczelności pod ciśnieniem roboczym gazu.
 
-3. Sprawdzenie, o którym mowa w ust. 2, powinno być wykonywane niezwłocznie po każdej wymianie butli gazowej oraz po wymianie przewodu, o którym mowa w § 49.
+3. Sprawdzenie, o którym mowa w ust. 2, powinno być wykonywane niezwłocznie po każdej wymianie butli gazowej oraz po wymianie przewodu, o którym mowa w [§ 49](#par-49).
 
 4. Sprawdzenie szczelności przy wymianie butli gazowej przeprowadza użytkownik instalacji, zgodnie z instrukcja otrzymana od rozprowadzającego butle, lub przedstawiciel dostawcy gazu, w przypadku gdy z użytkownikiem lokalu została zawarta umowa o dostarczanie gazu w butlach.
 
+<a id="par-49"></a>
 ### § 49.
 
 W przypadku stosowania przewodu elastycznego do połączenia pojedynczego urządzenia gazowego z reduktorem ciśnienia gazu na butli, przewód taki powinien mieć oznaczona graniczną datę użytkowania. Jeżeli termin użytkowania upłynął, przewód należy wymienić na nowy.
 
+<a id="par-50"></a>
 ### § 50.
 
 1. W przypadku zasilania instalacji gazowej gazu płynnego z baterii butli:
@@ -640,28 +783,33 @@ W przypadku stosowania przewodu elastycznego do połączenia pojedynczego urząd
 
 2. Sprawdzenie, o którym mowa w ust. 1 pkt 5, przeprowadza użytkownik instalacji gazu płynnego lub przedstawiciel dostawcy gazu, jeżeli wynika to z umowy o dostarczanie gazu płynnego.
 
+<a id="par-51"></a>
 ### § 51.
 
 Instalacja gazu płynnego zasilana ze zbiornika lub grupy zbiorników może być użytkowana, jeżeli:
 
 1) po jej wykonaniu lub remoncie dokonano odbioru technicznego,
 
-2) wykonano główną próbę szczelności przyłącza według zasad określonych w § 44,
+2) wykonano główną próbę szczelności przyłącza według zasad określonych w [§ 44](#par-44),
 
 3) zbiornik został zarejestrowany we właściwym terenowo urzędzie dozoru technicznego.
 
+<a id="rozdzial-15"></a>
 ### Rozdział 15. Użytkowanie instalacji elektrycznej
 
+<a id="par-52"></a>
 ### § 52.
 
 Instalacja elektryczna powinna w okresie jej użytkowania zapewniać możliwość bezpiecznego korzystania z odbiorników energii elektrycznej, zgodnego z ich przeznaczeniem i warunkami założonymi w projekcie tej instalacji.
 
+<a id="par-53"></a>
 ### § 53.
 
 1. Właściciel budynku jest obowiązany do dokonywania okresowych kontroli stanu sprawności technicznej urządzeń i instalacji elektrycznych w budynku.
 
 2. Stan sprawności technicznej urządzeń i instalacji elektrycznych w budynku powinien być kontrolowany tak, aby zapewnione było właściwe ich funkcjonowanie, w tym sprawność połączeń, osprzętu, sprzętu, zabezpieczeń i środków ochrony od porażeń, uziemień oraz oporności izolacji przewodów.
 
+<a id="par-54"></a>
 ### § 54.
 
 Instalacja elektryczna w budynku nie może być użytkowana, jeżeli:
@@ -670,6 +818,7 @@ Instalacja elektryczna w budynku nie może być użytkowana, jeżeli:
 
 2) nie zainstalowano urządzeń do pomiaru zużycia energii elektrycznej.
 
+<a id="par-55"></a>
 ### § 55.
 
 Do obowiązków właściciela budynku w zakresie właściwego utrzymania stanu technicznego instalacji elektrycznej należy:
@@ -684,12 +833,15 @@ Do obowiązków właściciela budynku w zakresie właściwego utrzymania stanu t
 
 5) odłączenie z użytkowania instalacji elektrycznej w lokalach, w których w wyniku kontroli stwierdzono występowanie zagrożeń, o których mowa w pkt 4.
 
+<a id="rozdzial-16"></a>
 ### Rozdział 16. Użytkowanie instalacji piorunochronnej
 
+<a id="par-56"></a>
 ### § 56.
 
 Obowiązek zapewnienia właściwego stanu technicznego instalacji piorunochronnej i ochrony wewnętrznej budynku obciąża właściciela budynku.
 
+<a id="par-57"></a>
 ### § 57.
 
 Do obowiązków właściciela budynku w zakresie utrzymania właściwego stanu technicznego instalacji piorunochronnej należy:
@@ -704,8 +856,10 @@ Do obowiązków właściciela budynku w zakresie utrzymania właściwego stanu t
 
 5) w razie zagrożenia życia lub zdrowia użytkowników albo środowiska lub mienia – przeprowadzenie kontroli stanu technicznego tej instalacji.
 
+<a id="rozdzial-17"></a>
 ### Rozdział 17. Przepis końcowy
 
+<a id="par-58"></a>
 ### § 58.
 
 Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.

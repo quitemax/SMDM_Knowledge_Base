@@ -2112,7 +2112,7 @@ Do sprawozdania z płatności i skonsolidowanego sprawozdania z płatności stos
 
 Sprawozdanie z płatności i skonsolidowane sprawozdanie z płatności sporządza się w postaci elektronicznej oraz opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-Rozdział 6b46) Sprawozdanie o podatku dochodowym
+### Rozdział 6b [46)]. Sprawozdanie o podatku dochodowym
 
 ### Art. 63l.
 
@@ -2302,7 +2302,7 @@ b) przychody w rozumieniu ram sprawozdawczości finansowej, na podstawie któryc
 
 16. Do sprawozdania o podatku dochodowym oraz oświadczenia, o którym mowa w art. 63n ust. 4 pkt 2, stosuje się odpowiednio przepisy art. 52 ust. 1, w zakresie przedstawiania tego sprawozdania właściwym organom, oraz art. 52 ust. 2–2e, z tym że tego sprawozdania ani tego oświadczenia nie podpisuje osoba, której powierzono prowadzenie ksiąg rachunkowych.
 
-Rozdział 6c56) Sprawozdawczość zrównoważonego rozwoju
+### Rozdział 6c [56)]. Sprawozdawczość zrównoważonego rozwoju
 
 ### Art. 63p.
 

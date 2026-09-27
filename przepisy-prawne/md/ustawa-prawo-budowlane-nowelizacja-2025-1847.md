@@ -347,7 +347,7 @@ W ustawie z dnia 7 lipca 2022 r. o zmianie ustawy – Prawo budowlane oraz niekt
 <a id="art-8"></a>
 ### Art. 8.
 
-Do tymczasowych obiektów budowlanych na terenie gmin wskazanych w przepisach wydanych na podstawie [art. 1](#art-1) ust. 2 pkt 1 ustawy zmienianej w [art. 5](#art-5), istniejących przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w [art. 5](#art-5), w brzmieniu nadanym niniejszą ustawą.
+Do tymczasowych obiektów budowlanych na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 pkt 1 ustawy zmienianej w [art. 5](#art-5), istniejących przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w [art. 5](#art-5), w brzmieniu nadanym niniejszą ustawą.
 
 <a id="art-9"></a>
 ### Art. 9.

@@ -1,5 +1,81 @@
 # Ustawa z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [Art. 1.](#art-1)
+  - [Art. 2.](#art-2)
+  - [Art. 3.](#art-3)
+  - [Art. 4.](#art-4)
+- [Rozdział 2. Zasady zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków](#rozdzial-2)
+  - [Art. 5.](#art-5)
+  - [Art. 6.](#art-6)
+  - [Art. 7.](#art-7)
+  - [Art. 8.](#art-8)
+  - [Art. 9.](#art-9)
+  - [Art. 10.](#art-10)
+  - [Art. 11.](#art-11)
+  - [Art. 12.](#art-12)
+  - [Art. 12a.](#art-12a)
+  - [Art. 12b.](#art-12b)
+  - [Art. 12c.](#art-12c)
+  - [Art. 13.](#art-13)
+  - [Art. 14.](#art-14)
+  - [Art. 15.](#art-15)
+- [Rozdział 3. Zasady udzielania zezwoleń na prowadzenie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków oraz uchwalanie regulaminu](#rozdzial-3)
+  - [Art. 16.](#art-16)
+  - [Art. 17.](#art-17)
+  - [Art. 17a.](#art-17a)
+  - [Art. 17b.](#art-17b)
+  - [Art. 17c.](#art-17c)
+  - [Art. 18.](#art-18)
+  - [Art. 18a.](#art-18a)
+  - [Art. 18b.](#art-18b)
+  - [Art. 18c.](#art-18c)
+  - [Art. 18d.](#art-18d)
+  - [Art. 18da.](#art-18da)
+  - [Art. 18e.](#art-18e)
+  - [Art. 19.](#art-19)
+  - [Art. 19a.](#art-19a)
+- [Rozdział 4. Zasady ustalania taryf za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków](#rozdzial-4)
+  - [Art. 20.](#art-20)
+  - [Art. 21.](#art-21)
+  - [Art. 22.](#art-22)
+  - [Art. 23.](#art-23)
+- [Rozdział 5. Zatwierdzanie taryf oraz zasady rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków](#rozdzial-5)
+  - [Art. 24.](#art-24)
+  - [Art. 24a.](#art-24a)
+  - [Art. 24b.](#art-24b)
+  - [Art. 24c.](#art-24c)
+  - [Art. 24d.](#art-24d)
+  - [Art. 24e.](#art-24e)
+  - [Art. 24f.](#art-24f)
+  - [Art. 24g.](#art-24g)
+  - [Art. 24h.](#art-24h)
+  - [Art. 24i.](#art-24i)
+  - [Art. 24j.](#art-24j)
+  - [Art. 25.](#art-25)
+  - [Art. 26.](#art-26)
+  - [Art. 27.](#art-27)
+- [Rozdział 5a. Organ regulacyjny](#rozdzial-5a)
+  - [Art. 27a.](#art-27a)
+  - [Art. 27b.](#art-27b)
+  - [Art. 27c.](#art-27c)
+  - [Art. 27d.](#art-27d)
+- [Rozdział 5b. Rozstrzyganie sporów pomiędzy przedsiębiorstwami wodociągowo-kanalizacyjnymi a odbiorcami usług](#rozdzial-5b)
+  - [Art. 27e.](#art-27e)
+  - [Art. 27f.](#art-27f)
+- [Rozdział 6. Przepisy karne i kary pieniężne](#rozdzial-6)
+  - [Art. 28.](#art-28)
+  - [Art. 29.](#art-29)
+- [Rozdział 7. Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#rozdzial-7)
+  - [Art. 30.](#art-30)
+  - [Art. 31.](#art-31)
+  - [Art. 32.](#art-32)
+  - [Art. 33.](#art-33)
+  - [Art. 34.](#art-34)
+
 <a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
@@ -140,7 +216,7 @@ b) wodę wykorzystywaną przez przedsiębiorstwo produkcji żywności do wytworz
 
 4) procedur i warunków kontroli urządzeń wodociągowych i urządzeń kanalizacyjnych;
 
-5) ustaleń zawartych w zezwoleniu, o których mowa w art. 18;
+5) ustaleń zawartych w zezwoleniu, o których mowa w [art. 18](#art-18);
 
 6) okresu obowiązywania umowy oraz odpowiedzialności stron za niedotrzymanie warunków umowy, w tym warunków wypowiedzenia.
 
@@ -154,7 +230,7 @@ b) wodę wykorzystywaną przez przedsiębiorstwo produkcji żywności do wytworz
 
 2) jest możliwy odczyt wskazań wodomierzy w terminie uzgodnionym przez przedsiębiorstwo wodociągowo-kanalizacyjne z właścicielem lub zarządcą;
 
-3) właściciel lub zarządca rozlicza, zgodnie z art. 26 ust. 3, różnicę wskazań między wodomierzem głównym a sumą wskazań wodomierzy zainstalowanych przy punktach czerpalnych wody;
+3) właściciel lub zarządca rozlicza, zgodnie z [art. 26](#art-26) ust. 3, różnicę wskazań między wodomierzem głównym a sumą wskazań wodomierzy zainstalowanych przy punktach czerpalnych wody;
 
 4) właściciel lub zarządca na podstawie umowy, o której mowa w ust. 1, reguluje należności wynikające z różnicy wskazań między wodomierzem głównym a sumą wskazań wodomierzy zainstalowanych przy punktach czerpalnych wody;
 
@@ -173,7 +249,7 @@ b) wodę wykorzystywaną przez przedsiębiorstwo produkcji żywności do wytworz
 <a id="art-7"></a>
 ### Art. 7.
 
-Osoby reprezentujące przedsiębiorstwo wodociągowo-kanalizacyjne, po okazaniu legitymacji służbowej i pisemnego upoważnienia, mają prawo wstępu na teren nieruchomości lub do obiektu budowlanego należących do osób, o których mowa w art. 6 ust. 2 i 4-7, w celu:
+Osoby reprezentujące przedsiębiorstwo wodociągowo-kanalizacyjne, po okazaniu legitymacji służbowej i pisemnego upoważnienia, mają prawo wstępu na teren nieruchomości lub do obiektu budowlanego należących do osób, o których mowa w [art. 6](#art-6) ust. 2 i 4-7, w celu:
 
 1) zainstalowania lub demontażu wodomierza głównego;
 
@@ -185,7 +261,7 @@ Osoby reprezentujące przedsiębiorstwo wodociągowo-kanalizacyjne, po okazaniu 
 
 5) odcięcia przyłącza wodociągowego lub przyłącza kanalizacyjnego lub założenia plomb na zamkniętych zaworach odcinających dostarczanie wody do lokalu;
 
-6) usunięcia awarii przyłącza wodociągowego lub przyłącza kanalizacyjnego, jeżeli umowa, o której mowa w art. 6 ust. 1, tak stanowi.
+6) usunięcia awarii przyłącza wodociągowego lub przyłącza kanalizacyjnego, jeżeli umowa, o której mowa w [art. 6](#art-6) ust. 1, tak stanowi.
 
 <a id="art-8"></a>
 ### Art. 8.
@@ -270,7 +346,7 @@ Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właś
 <a id="art-12"></a>
 ### Art. 12.
 
-1. Nadzór nad jakością wody przeznaczonej do spożycia przez ludzi sprawują organy Państwowej Inspekcji Sanitarnej na zasadach określonych w przepisach o Państwowej Inspekcji Sanitarnej, z zastrzeżeniem art. 12b.
+1. Nadzór nad jakością wody przeznaczonej do spożycia przez ludzi sprawują organy Państwowej Inspekcji Sanitarnej na zasadach określonych w przepisach o Państwowej Inspekcji Sanitarnej, z zastrzeżeniem [art. 12b](#art-12b).
 
 2. Każdy materiał i wyrób używany do uzdatniania wody przeznaczonej do spożycia przez ludzi powinien posiadać pozytywną ocenę higieniczną państwowego powiatowego inspektora sanitarnego.
 
@@ -283,9 +359,9 @@ Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właś
 <a id="art-12a"></a>
 ### Art. 12a.
 
-1. Udokumentowany system jakości prowadzonych badań wody, o którym mowa w art. 12 ust. 4, powinien być zgodny z wymaganiami zawartymi w aktualnym wydaniu normy PN-EN ISO/IEC-17025.
+1. Udokumentowany system jakości prowadzonych badań wody, o którym mowa w [art. 12](#art-12) ust. 4, powinien być zgodny z wymaganiami zawartymi w aktualnym wydaniu normy PN-EN ISO/IEC-17025.
 
-2. Zatwierdzenie, o którym mowa w art. 12 ust. 4, jest dokonywane każdego roku przez właściwego państwowego powiatowego lub państwowego granicznego inspektora sanitarnego na podstawie:
+2. Zatwierdzenie, o którym mowa w [art. 12](#art-12) ust. 4, jest dokonywane każdego roku przez właściwego państwowego powiatowego lub państwowego granicznego inspektora sanitarnego na podstawie:
 
 1) zaświadczenia potwierdzającego przeszkolenie przez organy Państwowej Inspekcji Sanitarnej osób pobierających próbki wody do badań albo certyfikatu laboratorium w zakresie pobierania próbek wody;
 
@@ -299,16 +375,16 @@ Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właś
 
 2) zewnętrzną, realizowaną przez udział w badaniach biegłości.
 
-4. W przypadku zmiany wydania normy PN-EN ISO/IEC-17025 zatwierdzenie, o którym mowa w art. 12 ust. 4, jest dokonywane zgodnie z normą obowiązującą w momencie wykonywania badań biegłości.
+4. W przypadku zmiany wydania normy PN-EN ISO/IEC-17025 zatwierdzenie, o którym mowa w [art. 12](#art-12) ust. 4, jest dokonywane zgodnie z normą obowiązującą w momencie wykonywania badań biegłości.
 
 5. Organizator badań biegłości powinien postępować zgodnie z wymaganiami zawartymi w aktualnym wydaniu normy PN-EN ISO/IEC 17043.
 
-6. Właściwy państwowy powiatowy lub państwowy graniczny inspektor sanitarny może dokonać kontroli laboratorium przed zatwierdzeniem, o którym mowa w art. 12 ust. 4, w zakresie zgodności systemu jakości prowadzonych badań z wymaganiami zawartymi w normie PN-EN ISO/IEC-17025.
+6. Właściwy państwowy powiatowy lub państwowy graniczny inspektor sanitarny może dokonać kontroli laboratorium przed zatwierdzeniem, o którym mowa w [art. 12](#art-12) ust. 4, w zakresie zgodności systemu jakości prowadzonych badań z wymaganiami zawartymi w normie PN-EN ISO/IEC-17025.
 
 <a id="art-12b"></a>
 ### Art. 12b.
 
-1. Główny Inspektor Sanitarny w ramach sprawowanego nadzoru, o którym mowa w art. 12 ust. 1, publikuje co 3 lata sprawozdanie z badania jakości wody przeznaczonej do spożycia przez ludzi.
+1. Główny Inspektor Sanitarny w ramach sprawowanego nadzoru, o którym mowa w [art. 12](#art-12) ust. 1, publikuje co 3 lata sprawozdanie z badania jakości wody przeznaczonej do spożycia przez ludzi.
 
 2. Sprawozdanie, o którym mowa w ust. 1, zawiera zestawienie co najmniej wszystkich poszczególnych dostaw wody przekraczających średnio 1000 m 3 dziennie lub umożliwiających zaopatrzenie w wodę ponad 5000 osób i obejmuje okres 3 lat kalendarzowych.
 
@@ -376,13 +452,13 @@ Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Na
 <a id="art-15"></a>
 ### Art. 15.
 
-1 [4)]. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane zapewnić budowę urządzeń wodociągowych i urządzeń kanalizacyjnych, ustalonych przez gminę w miejscowych planach zagospodarowania przestrzennego, w zakresie uzgodnionym w wieloletnim planie rozwoju i modernizacji, o którym mowa w art. 21 ust. 1.
+1 [4)]. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane zapewnić budowę urządzeń wodociągowych i urządzeń kanalizacyjnych, ustalonych przez gminę w miejscowych planach zagospodarowania przestrzennego, w zakresie uzgodnionym w wieloletnim planie rozwoju i modernizacji, o którym mowa w [art. 21](#art-21) ust. 1.
 
 2. Realizację budowy przyłączy do sieci oraz studni wodomierzowej, pomieszczenia przewidzianego do lokalizacji wodomierza głównego i urządzenia pomiarowego zapewnia na własny koszt osoba ubiegająca się o przyłączenie nieruchomości do sieci.
 
 3. Koszty nabycia, zainstalowania i utrzymania wodomierza głównego ponosi przedsiębiorstwo wodociągowo-kanalizacyjne, a urządzenia pomiarowego - odbiorca usług.
 
-4. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane przyłączyć do sieci nieruchomość osoby ubiegającej się o przyłączenie nieruchomości do sieci, jeżeli są spełnione warunki przyłączenia określone w regulaminie, o którym mowa w art. 19, oraz istnieją techniczne możliwości świadczenia usług.
+4. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane przyłączyć do sieci nieruchomość osoby ubiegającej się o przyłączenie nieruchomości do sieci, jeżeli są spełnione warunki przyłączenia określone w regulaminie, o którym mowa w [art. 19](#art-19), oraz istnieją techniczne możliwości świadczenia usług.
 
 <a id="rozdzial-3"></a>
 ### Rozdział 3. Zasady udzielania zezwoleń na prowadzenie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków oraz uchwalanie regulaminu
@@ -479,7 +555,7 @@ Zezwolenie powinno określać w szczególności:
 
 4) wymagania w zakresie jakości usług wodociągowo-kanalizacyjnych;
 
-5) warunki, zakres i tryb kontroli realizacji zezwolenia i przestrzegania regulaminu, o którym mowa w art. 19 ust. 3;
+5) warunki, zakres i tryb kontroli realizacji zezwolenia i przestrzegania regulaminu, o którym mowa w [art. 19](#art-19) ust. 3;
 
 6) warunki wprowadzania ograniczeń dostarczania wody w przypadku wystąpienia jej niedoboru;
 
@@ -532,7 +608,7 @@ Odmowa wydania zezwolenia, jego zmiana i cofnięcie następuje w drodze decyzji 
 <a id="art-18da"></a>
 ### Art. 18da.
 
-Wójt (burmistrz, prezydent miasta) przekazuje organowi regulacyjnemu kopię ostatecznej decyzji w sprawie wydania zezwolenia, jego zmiany albo cofnięcia w terminie 7 dni od dnia, w którym ta decyzja stała się ostateczna. Wraz z kopią ostatecznej decyzji w sprawie wydania zezwolenia przekazuje się kopię wniosku, o którym mowa w art. 17.
+Wójt (burmistrz, prezydent miasta) przekazuje organowi regulacyjnemu kopię ostatecznej decyzji w sprawie wydania zezwolenia, jego zmiany albo cofnięcia w terminie 7 dni od dnia, w którym ta decyzja stała się ostateczna. Wraz z kopią ostatecznej decyzji w sprawie wydania zezwolenia przekazuje się kopię wniosku, o którym mowa w [art. 17](#art-17).
 
 <a id="art-18e"></a>
 ### Art. 18e.
@@ -647,7 +723,7 @@ Wójt (burmistrz, prezydent miasta) przekazuje organowi regulacyjnemu kopię ost
 
 2) zmiany warunków ekonomicznych oraz wielkość usług i warunki ich świadczenia;
 
-3) koszty wynikające z planowanych wydatków inwestycyjnych, na podstawie planów, o których mowa w art. 21 ust. 1.
+3) koszty wynikające z planowanych wydatków inwestycyjnych, na podstawie planów, o których mowa w [art. 21](#art-21) ust. 1.
 
 5. Ewidencja księgowa, o której mowa w ust. 4 pkt 1, powinna w szczególności umożliwiać:
 
@@ -822,7 +898,7 @@ c) strukturę cen i stawek opłat.
 
 1) sprawozdania finansowe za ostatnie 3 lata obrotowe;
 
-2) plan, z zastrzeżeniem art. 21 ust. 7;
+2) plan, z zastrzeżeniem [art. 21](#art-21) ust. 7;
 
 3) informację o ilości zakupionej przez przedsiębiorstwo wodociągowo-kanalizacyjne wody i jej cenie lub informację o ilości ścieków wprowadzonych do urządzeń niebędących w posiadaniu tego przedsiębiorstwa i cenie za ich wprowadzenie - za ostatnie 3 lata obrotowe;
 
@@ -851,23 +927,23 @@ i) analizy ekonomiczne związane z korzystaniem z wód, z uwzględnieniem zasady
 <a id="art-24c"></a>
 ### Art. 24c.
 
-1. Organ regulacyjny, w terminie 45 dni od dnia otrzymania wniosku, o którym mowa w art. 24b ust. 2:
+1. Organ regulacyjny, w terminie 45 dni od dnia otrzymania wniosku, o którym mowa w [art. 24b](#art-24b) ust. 2:
 
-1) ocenia projekt taryfy, o którym mowa w art. 24b ust. 4 pkt 1, oraz uzasadnienie, o którym mowa w art. 24b ust. 4 pkt 2, pod względem zgodności z:
+1) ocenia projekt taryfy, o którym mowa w [art. 24b](#art-24b) ust. 4 pkt 1, oraz uzasadnienie, o którym mowa w [art. 24b](#art-24b) ust. 4 pkt 2, pod względem zgodności z:
 
 a) przepisami ustawy,
 
 b) przepisami ustawy z dnia 20 lipca 2017 r. - Prawo wodne;
 
-2) analizuje zmiany warunków ekonomicznych wykonywania przez przedsiębiorstwo wodociągowo-kanalizacyjne działalności gospodarczej, w tym marżę zysku, oraz weryfikuje koszty, o których mowa w art. 20 ust. 4 pkt 1, pod względem celowości ich ponoszenia w celu zapewnienia ochrony interesów odbiorców usług przed nieuzasadnionym wzrostem cen.
+2) analizuje zmiany warunków ekonomicznych wykonywania przez przedsiębiorstwo wodociągowo-kanalizacyjne działalności gospodarczej, w tym marżę zysku, oraz weryfikuje koszty, o których mowa w [art. 20](#art-20) ust. 4 pkt 1, pod względem celowości ich ponoszenia w celu zapewnienia ochrony interesów odbiorców usług przed nieuzasadnionym wzrostem cen.
 
 2. Jeżeli wynik oceny, weryfikacji lub analizy, o których mowa w ust. 1, jest pozytywny, organ regulacyjny zatwierdza taryfę w drodze decyzji.
 
-3. Jeżeli wynik oceny, weryfikacji lub analizy, o których mowa w ust. 1, jest negatywny, organ regulacyjny odmawia, w drodze decyzji, zatwierdzenia taryfy oraz nakłada obowiązek w tej decyzji, w terminie w niej określonym, na przedsiębiorstwo wodociągowo-kanalizacyjne przedłożenia poprawionego projektu taryfy, o którym mowa w art. 24b ust. 4 pkt 1, lub poprawionego uzasadnienia, o którym mowa w art. 24b ust. 4 pkt 2, wskazując elementy projektu taryfy lub uzasadnienia wymagające poprawienia.
+3. Jeżeli wynik oceny, weryfikacji lub analizy, o których mowa w ust. 1, jest negatywny, organ regulacyjny odmawia, w drodze decyzji, zatwierdzenia taryfy oraz nakłada obowiązek w tej decyzji, w terminie w niej określonym, na przedsiębiorstwo wodociągowo-kanalizacyjne przedłożenia poprawionego projektu taryfy, o którym mowa w [art. 24b](#art-24b) ust. 4 pkt 1, lub poprawionego uzasadnienia, o którym mowa w [art. 24b](#art-24b) ust. 4 pkt 2, wskazując elementy projektu taryfy lub uzasadnienia wymagające poprawienia.
 
-4. Jeżeli wynik oceny, weryfikacji lub analizy, o których mowa w ust. 1, jest negatywny z powodu warunków ekonomicznych wykonywania przez przedsiębiorstwo wodociągowo-kanalizacyjne działalności gospodarczej, wskazujących na konieczność obniżenia cen i stawek opłat poniżej cen i stawek opłat zawartych w projekcie taryfy, a przedsiębiorstwo wodociągowo-kanalizacyjne nie przedłożyło w terminie określonym w decyzji, o której mowa w ust. 3, poprawionego projektu taryfy, o którym mowa w art. 24b ust. 4 pkt 1, lub poprawionego uzasadnienia, o którym mowa w art. 24b ust. 4 pkt 2, organ regulacyjny określa, w drodze decyzji, tymczasową taryfę, biorąc pod uwagę warunki ekonomiczne wykonywania działalności gospodarczej przez przedsiębiorstwo wodociągowo-kanalizacyjne oraz zapewniając pokrycie uzasadnionych kosztów tego przedsiębiorstwa.
+4. Jeżeli wynik oceny, weryfikacji lub analizy, o których mowa w ust. 1, jest negatywny z powodu warunków ekonomicznych wykonywania przez przedsiębiorstwo wodociągowo-kanalizacyjne działalności gospodarczej, wskazujących na konieczność obniżenia cen i stawek opłat poniżej cen i stawek opłat zawartych w projekcie taryfy, a przedsiębiorstwo wodociągowo-kanalizacyjne nie przedłożyło w terminie określonym w decyzji, o której mowa w ust. 3, poprawionego projektu taryfy, o którym mowa w [art. 24b](#art-24b) ust. 4 pkt 1, lub poprawionego uzasadnienia, o którym mowa w [art. 24b](#art-24b) ust. 4 pkt 2, organ regulacyjny określa, w drodze decyzji, tymczasową taryfę, biorąc pod uwagę warunki ekonomiczne wykonywania działalności gospodarczej przez przedsiębiorstwo wodociągowo-kanalizacyjne oraz zapewniając pokrycie uzasadnionych kosztów tego przedsiębiorstwa.
 
-5. Określenie tymczasowej taryfy nie zwalnia przedsiębiorstwa wodociągowo-kanalizacyjnego z obowiązku przedłożenia poprawionego projektu taryfy, o którym mowa w art. 24b ust. 4 pkt 1, wraz z poprawionym uzasadnieniem, o którym mowa w art. 24b ust. 4 pkt 2.
+5. Określenie tymczasowej taryfy nie zwalnia przedsiębiorstwa wodociągowo-kanalizacyjnego z obowiązku przedłożenia poprawionego projektu taryfy, o którym mowa w [art. 24b](#art-24b) ust. 4 pkt 1, wraz z poprawionym uzasadnieniem, o którym mowa w [art. 24b](#art-24b) ust. 4 pkt 2.
 
 6. Stronami postępowań w sprawach wydania decyzji, o których mowa w ust. 2-4, są przedsiębiorstwo wodociągowo-kanalizacyjne oraz właściwy wójt (burmistrz, prezydent miasta). Jeżeli przedsiębiorstwo wodociągowo-kanalizacyjne jest gminną jednostką organizacyjną nieposiadającą osobowości prawnej, stroną postępowania jest wyłącznie to przedsiębiorstwo.
 
@@ -876,9 +952,9 @@ b) przepisami ustawy z dnia 20 lipca 2017 r. - Prawo wodne;
 <a id="art-24d"></a>
 ### Art. 24d.
 
-1. Za wydanie decyzji, o której mowa w art. 24c ust. 2, przedsiębiorstwo wodociągowo-kanalizacyjne ponosi opłatę w wysokości 500 zł [6)]. Wpływy z tej opłaty stanowią przychód Państwowego Gospodarstwa Wodnego Wody Polskie.
+1. Za wydanie decyzji, o której mowa w [art. 24c](#art-24c) ust. 2, przedsiębiorstwo wodociągowo-kanalizacyjne ponosi opłatę w wysokości 500 zł [6)]. Wpływy z tej opłaty stanowią przychód Państwowego Gospodarstwa Wodnego Wody Polskie.
 
-2. Opłatę, o której mowa w ust. 1, uiszcza się na rachunek bankowy organu regulacyjnego, w terminie 14 dni od dnia, w którym decyzja, o której mowa w art. 24c ust. 2, stała się ostateczna.
+2. Opłatę, o której mowa w ust. 1, uiszcza się na rachunek bankowy organu regulacyjnego, w terminie 14 dni od dnia, w którym decyzja, o której mowa w [art. 24c](#art-24c) ust. 2, stała się ostateczna.
 
 3. Stawka opłaty, o której mowa w ust. 1, podlega z dniem 1 stycznia każdego roku zmianie w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego, w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” za rok poprzedni.
 
@@ -887,7 +963,7 @@ b) przepisami ustawy z dnia 20 lipca 2017 r. - Prawo wodne;
 <a id="art-24e"></a>
 ### Art. 24e.
 
-1. W terminie 7 dni od dnia, w którym decyzja, o której mowa w art. 24c ust. 2 lub 4, stała się ostateczna, organ regulacyjny ogłasza zatwierdzoną taryfę albo tymczasową taryfę na stronie podmiotowej Biuletynu Informacji Publicznej Państwowego Gospodarstwa Wodnego Wody Polskie.
+1. W terminie 7 dni od dnia, w którym decyzja, o której mowa w [art. 24c](#art-24c) ust. 2 lub 4, stała się ostateczna, organ regulacyjny ogłasza zatwierdzoną taryfę albo tymczasową taryfę na stronie podmiotowej Biuletynu Informacji Publicznej Państwowego Gospodarstwa Wodnego Wody Polskie.
 
 2. Właściwy wójt (burmistrz, prezydent miasta) zamieszcza zatwierdzoną taryfę albo tymczasową taryfę na stronie podmiotowej Biuletynu Informacji Publicznej właściwej gminy.
 
@@ -896,9 +972,9 @@ b) przepisami ustawy z dnia 20 lipca 2017 r. - Prawo wodne;
 <a id="art-24f"></a>
 ### Art. 24f.
 
-1. Zatwierdzona taryfa oraz tymczasowa taryfa wchodzą w życie po upływie 7 dni od dnia ogłoszenia, o którym mowa w art. 24e ust. 1.
+1. Zatwierdzona taryfa oraz tymczasowa taryfa wchodzą w życie po upływie 7 dni od dnia ogłoszenia, o którym mowa w [art. 24e](#art-24e) ust. 1.
 
-2. Jeżeli organ regulacyjny nie wyda decyzji, o której mowa w art. 24c ust. 2 lub 3, w terminie, o którym mowa w art. 24c ust. 1, taryfa wchodzi w życie po upływie 120 dni od dnia doręczenia jej projektu organowi regulacyjnemu wraz z wnioskiem o zatwierdzenie.
+2. Jeżeli organ regulacyjny nie wyda decyzji, o której mowa w [art. 24c](#art-24c) ust. 2 lub 3, w terminie, o którym mowa w [art. 24c](#art-24c) ust. 1, taryfa wchodzi w życie po upływie 120 dni od dnia doręczenia jej projektu organowi regulacyjnemu wraz z wnioskiem o zatwierdzenie.
 
 3. W przypadku, o którym mowa w ust. 2, taryfę ogłasza na swojej stronie internetowej oraz udostępnia w punktach obsługi klientów przedsiębiorstwo wodociągowo-kanalizacyjne.
 
@@ -914,7 +990,7 @@ Dotychczasową taryfę stosuje się do dnia wejścia w życie nowej taryfy albo 
 
 2. W przypadku zmiany taryfy, o której mowa w ust. 1, taryfa ta wchodzi w życie z dniem, w którym uległa zmianie stawka podatku od towarów i usług stosowana dla usług zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków.
 
-3. Przepisy art. 24e stosuje się odpowiednio do ogłaszania taryfy, o której mowa w ust. 1.
+3. Przepisy [art. 24e](#art-24e) stosuje się odpowiednio do ogłaszania taryfy, o której mowa w ust. 1.
 
 <a id="art-24i"></a>
 ### Art. 24i.
@@ -940,14 +1016,14 @@ Dotychczasową taryfę stosuje się do dnia wejścia w życie nowej taryfy albo 
 <a id="art-24j"></a>
 ### Art. 24j.
 
-1. W uzasadnionych przypadkach, w szczególności jeżeli wynika to z udokumentowanych zmian warunków ekonomicznych oraz wielkości usług i warunków ich świadczenia, przedsiębiorstwo wodociągowo-kanalizacyjne w trakcie obowiązywania dotychczasowej taryfy może złożyć do organu regulacyjnego wniosek o skrócenie okresu obowiązywania tej taryfy wraz z projektem nowej taryfy oraz uzasadnieniem, jednak nie później niż przed rozpoczęciem biegu terminu 120 dni od planowanego dnia wejścia w życie nowej taryfy. Przepisy art. 24b-24e i art. 24f ust. 1 stosuje się odpowiednio.
+1. W uzasadnionych przypadkach, w szczególności jeżeli wynika to z udokumentowanych zmian warunków ekonomicznych oraz wielkości usług i warunków ich świadczenia, przedsiębiorstwo wodociągowo-kanalizacyjne w trakcie obowiązywania dotychczasowej taryfy może złożyć do organu regulacyjnego wniosek o skrócenie okresu obowiązywania tej taryfy wraz z projektem nowej taryfy oraz uzasadnieniem, jednak nie później niż przed rozpoczęciem biegu terminu 120 dni od planowanego dnia wejścia w życie nowej taryfy. Przepisy [art. 24b](#art-24b)-24e i [art. 24f](#art-24f) ust. 1 stosuje się odpowiednio.
 
 2. W decyzji zatwierdzającej taryfę orzeka się o skróceniu czasu obowiązywania dotychczasowej taryfy.
 
 <a id="art-25"></a>
 ### Art. 25.
 
-Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 24b ust. 2, kierując się potrzebą ujednolicenia oraz usprawnienia procesu zatwierdzania taryfy.
+Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w [art. 24b](#art-24b) ust. 2, kierując się potrzebą ujednolicenia oraz usprawnienia procesu zatwierdzania taryfy.
 
 <a id="art-26"></a>
 ### Art. 26.
@@ -956,7 +1032,7 @@ Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzeni
 
 2. Jeżeli odbiorcą usług jest wyłącznie właściciel lub zarządca budynku wielolokalowego lub budynków wielolokalowych, jest on obowiązany do rozliczenia kosztów tych usług. Suma obciążeń za wodę lub ścieki nie może być wyższa od ponoszonych przez właściciela lub zarządcę na rzecz przedsiębiorstwa wodociągowo-kanalizacyjnego.
 
-3. Właściciel lub zarządca budynku wielolokalowego lub budynków wielolokalowych dokonuje wyboru metody rozliczania kosztów różnicy wskazań, o której mowa w art. 6 ust. 6 pkt 3. Należnościami wynikającymi z przyjętej metody rozliczania obciąża osobę korzystającą z lokalu w tych budynkach.
+3. Właściciel lub zarządca budynku wielolokalowego lub budynków wielolokalowych dokonuje wyboru metody rozliczania kosztów różnicy wskazań, o której mowa w [art. 6](#art-6) ust. 6 pkt 3. Należnościami wynikającymi z przyjętej metody rozliczania obciąża osobę korzystającą z lokalu w tych budynkach.
 
 <a id="art-27"></a>
 ### Art. 27.
@@ -969,7 +1045,7 @@ Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzeni
 
 4. Ilość odprowadzonych ścieków ustala się na podstawie wskazań urządzeń pomiarowych.
 
-5. W razie braku urządzeń pomiarowych ilość odprowadzonych ścieków ustala się na podstawie umowy, o której mowa w art. 6 ust. 1, jako równą ilości wody pobranej lub określonej w umowie.
+5. W razie braku urządzeń pomiarowych ilość odprowadzonych ścieków ustala się na podstawie umowy, o której mowa w [art. 6](#art-6) ust. 1, jako równą ilości wody pobranej lub określonej w umowie.
 
 6. W rozliczeniach ilości odprowadzonych ścieków ilość bezpowrotnie zużytej wody uwzględnia się wyłącznie w przypadkach, gdy wielkość jej zużycia na ten cel ustalona jest na podstawie dodatkowego wodomierza zainstalowanego na koszt odbiorcy usług.
 
@@ -991,7 +1067,7 @@ Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzeni
 
 3) rozstrzyganie sporów między przedsiębiorstwami wodociągowo-kanalizacyjnymi a odbiorcami usług;
 
-4) wymierzanie kar pieniężnych, o których mowa w art. 29;
+4) wymierzanie kar pieniężnych, o których mowa w [art. 29](#art-29);
 
 5) zbieranie i przetwarzanie informacji dotyczących przedsiębiorstw wodociągowo-kanalizacyjnych, w szczególności obliczanie średnich cen dostaw wody i odbioru ścieków i publikowanie informacji o tych cenach;
 
@@ -1021,7 +1097,7 @@ Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzeni
 
 1. Do postępowania przed organem regulacyjnym stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
-2. Organem wyższego stopnia w sprawach decyzji wydawanych na podstawie przepisów ustawy w stosunku do organu regulacyjnego jest Prezes Państwowego Gospodarstwa Wodnego Wody Polskie, z wyłączeniem decyzji, o której mowa w art. 27e ust. 1.
+2. Organem wyższego stopnia w sprawach decyzji wydawanych na podstawie przepisów ustawy w stosunku do organu regulacyjnego jest Prezes Państwowego Gospodarstwa Wodnego Wody Polskie, z wyłączeniem decyzji, o której mowa w [art. 27e](#art-27e) ust. 1.
 
 <a id="art-27d"></a>
 ### Art. 27d.
@@ -1057,11 +1133,11 @@ Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzeni
 <a id="art-27f"></a>
 ### Art. 27f.
 
-1. Od decyzji, o której mowa w art. 27e ust. 1, służy odwołanie do Sądu Okręgowego w Warszawie - sądu ochrony konkurencji i konsumentów w terminie 14 dni od dnia doręczenia decyzji.
+1. Od decyzji, o której mowa w [art. 27e](#art-27e) ust. 1, służy odwołanie do Sądu Okręgowego w Warszawie - sądu ochrony konkurencji i konsumentów w terminie 14 dni od dnia doręczenia decyzji.
 
 2. Postępowanie w sprawie odwołania od decyzji, o której mowa w art. 27e ust. 1, toczy się na podstawie przepisów ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. [7)]) o postępowaniu w sprawach z zakresu regulacji rynku wodno-kanalizacyjnego.
 
-3. Do postanowień, o których mowa w art. 27e ust. 3, przepisy ust. 1 i 2 stosuje się odpowiednio, z tym że zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia.
+3. Do postanowień, o których mowa w [art. 27e](#art-27e) ust. 3, przepisy ust. 1 i 2 stosuje się odpowiednio, z tym że zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia.
 
 <a id="rozdzial-6"></a>
 ### Rozdział 6. Przepisy karne i kary pieniężne
@@ -1069,7 +1145,7 @@ Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzeni
 <a id="art-28"></a>
 ### Art. 28.
 
-1. Kto bez uprzedniego zawarcia umowy, o której mowa w art. 6 ust. 1, pobiera wodę z urządzeń wodociągowych,
+1. Kto bez uprzedniego zawarcia umowy, o której mowa w [art. 6](#art-6) ust. 1, pobiera wodę z urządzeń wodociągowych,
 
 podlega karze grzywny do 5000 zł.
 
@@ -1077,15 +1153,15 @@ podlega karze grzywny do 5000 zł.
 
 1) uszkadza wodomierz główny, zrywa lub uszkadza plomby umieszczone na wodomierzach, urządzeniach pomiarowych lub zaworze odcinającym, a także wpływa na zmianę, zatrzymanie lub utratę właściwości lub funkcji metrologicznych wodomierza głównego lub urządzenia pomiarowego;
 
-2) nie dopuszcza przedstawiciela przedsiębiorstwa wodociągowo-kanalizacyjnego do wykonania czynności określonych w art. 7.
+2) nie dopuszcza przedstawiciela przedsiębiorstwa wodociągowo-kanalizacyjnego do wykonania czynności określonych w [art. 7](#art-7).
 
 3. (uchylony)
 
-4. Kto bez uprzedniego zawarcia umowy, o której mowa w art. 6 ust. 1, wprowadza ścieki do urządzeń kanalizacyjnych,
+4. Kto bez uprzedniego zawarcia umowy, o której mowa w [art. 6](#art-6) ust. 1, wprowadza ścieki do urządzeń kanalizacyjnych,
 
 podlega karze ograniczenia wolności albo grzywny do 10 000 zł.
 
-4a. Karze określonej w ust. 4 podlega także ten, kto nie stosuje się do zakazów, o których mowa w art. 9 ust. 1 i 2.
+4a. Karze określonej w ust. 4 podlega także ten, kto nie stosuje się do zakazów, o których mowa w [art. 9](#art-9) ust. 1 i 2.
 
 5. W razie skazania za wykroczenie lub przestępstwo, o których mowa w ust. 1 i 4, sąd może orzec nawiązkę na rzecz przedsiębiorstwa wodociągowo-kanalizacyjnego, w wysokości 1000 zł za każdy miesiąc, w którym nastąpiło bezumowne pobieranie wody z urządzeń wodociągowych lub wprowadzanie ścieków do urządzeń kanalizacyjnych tego przedsiębiorstwa.
 
@@ -1096,15 +1172,15 @@ podlega karze ograniczenia wolności albo grzywny do 10 000 zł.
 
 1. Karze pieniężnej podlega, kto stosuje taryfy:
 
-1) nie przestrzegając obowiązku ich przedstawienia do zatwierdzenia, o którym mowa w art. 24b ust. 1;
+1) nie przestrzegając obowiązku ich przedstawienia do zatwierdzenia, o którym mowa w [art. 24b](#art-24b) ust. 1;
 
 2) zawyżając ceny lub stawki opłat.
 
-2. Tej samej karze podlega, kto zawyża ceny i stawki zatwierdzone zgodnie z art. 24i ust. 1.
+2. Tej samej karze podlega, kto zawyża ceny i stawki zatwierdzone zgodnie z [art. 24i](#art-24i) ust. 1.
 
-3. Karze pieniężnej podlega, kto nie przekazał informacji lub dokumentów na wezwanie organu regulacyjnego, o którym mowa w art. 27b ust. 1, lub przekazał nieprawdziwe albo wprowadzające w błąd informacje lub dokumenty.
+3. Karze pieniężnej podlega, kto nie przekazał informacji lub dokumentów na wezwanie organu regulacyjnego, o którym mowa w [art. 27b](#art-27b) ust. 1, lub przekazał nieprawdziwe albo wprowadzające w błąd informacje lub dokumenty.
 
-3a. Karze pieniężnej podlega przedsiębiorstwo wodociągowo-kanalizacyjne, które nie wydaje warunków przyłączenia do sieci w terminach określonych w art. 19a ust. 1 lub 2.
+3a. Karze pieniężnej podlega przedsiębiorstwo wodociągowo-kanalizacyjne, które nie wydaje warunków przyłączenia do sieci w terminach określonych w [art. 19a](#art-19a) ust. 1 lub 2.
 
 4. Kary pieniężne wymierza organ regulacyjny w drodze decyzji.
 
@@ -1176,7 +1252,7 @@ Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia [8)].
 
 5) W brzmieniu ustalonym przez art. 19 pkt 3 ustawy, o której mowa w odnośniku 2.
 
-6) Aktualną wysokość stawki opłaty za wydanie decyzji zatwierdzającej taryfę ogłasza minister właściwy do spraw gospodarki wodnej, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie później niż do dnia 1 sierpnia każdego roku, na rok następny, na podstawie art. 24d ust. 3 i 4.
+6) Aktualną wysokość stawki opłaty za wydanie decyzji zatwierdzającej taryfę ogłasza minister właściwy do spraw gospodarki wodnej, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie później niż do dnia 1 sierpnia każdego roku, na rok następny, na podstawie [art. 24d](#art-24d) ust. 3 i 4.
 
 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760.
 
