@@ -24,7 +24,7 @@ prawnej). Jedno ograniczenie znane: w
 w razie potrzeby trzeba sprawdzić PDF.
 
 Pozostałe 20 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(18 z 20 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+(19 z 20 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
 `ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
 `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`,
@@ -34,7 +34,7 @@ Pozostałe 20 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja
 `kodeks-cywilny`, `rozporzadzenie-audyt-energetyczny`,
 `rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`, `ustawa-o-rachunkowosci`,
 `ustawa-prawo-budowlane`, `ustawa-o-dozorze-technicznym-nowelizacja-2026-252`,
-`ustawa-prawo-zamowien-publicznych`),
+`ustawa-prawo-zamowien-publicznych`, `ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`),
 przez własny skrypt (PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i
 jak skrypt sobie z nimi radzi:
 - **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
@@ -181,10 +181,16 @@ jak skrypt sobie z nimi radzi:
   cyfrowe (`\d+\)`), więc tekst „I) W brzmieniu ustalonym...” doczepił się do końca
   przypisu 1 zamiast być osobną pozycją. Poprawione ręcznie (pierwszy taki przypadek na 18
   plików); do obserwacji.
+- **załącznik w formie rozbudowanej tabeli liczbowej** (`ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`,
+  załącznik nr 1: Wykaz rocznych stawek amortyzacyjnych, 6 stron, tabela Pozycja/Stawka
+  %/Symbol KŚT/Nazwa środka trwałego): tekst jest odzyskany, ale bez struktury tabeli, a
+  błędne przypisanie stawki % do symbolu KŚT miałoby realny skutek podatkowy — plik ma o
+  tym adnotację i w razie potrzeby trzeba sprawdzić PDF. Pozostałe załączniki tej ustawy
+  (listy podmiotów/krajów UE, wykaz usług) to listy nazw bez tego ryzyka, więc zostały bez
+  adnotacji.
 
-Pozostałe 2 akty (`ustawa-prawo-energetyczne`,
-`ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`) jeszcze nie sprawdzono pod kątem tych
-samych problemów.
+Pozostał 1 akt (`ustawa-prawo-energetyczne`) jeszcze nie sprawdzony pod kątem tych samych
+problemów.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
