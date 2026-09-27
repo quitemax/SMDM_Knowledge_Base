@@ -17,11 +17,31 @@ wyznacza ramy jej działalności.
 ### Stan konwersji do Markdown
 
 16 aktów miało dostępny tekst HTML u źródła i zostało przekonwertowanych bezpośrednio
-(konwersja własnym skryptem, nie przez model AI — unika ryzyka parafrazy/skrótów treści
-prawnej). Jedno ograniczenie znane: w
+(konwersja własnym skryptem `html_to_md.py`, nie przez model AI — unika ryzyka
+parafrazy/skrótów treści prawnej), z wyjątkiem RODO — ten plik ma inną strukturę
+źródłowego HTML (EUR-Lex, nie ISAP) i nie przechodzi przez ten skrypt; jeśli będzie
+potrzebna jego weryfikacja, wymaga osobnego, ręcznego porównania z PDF/HTML, nie
+ponownego uruchomienia `html_to_md.py`. Jedno ograniczenie znane: w
 `rozporzadzenie-warunki-techniczne-budynkow-i-usytuowanie-2002-UCHYLONE.md` część tabel
 (źle zagnieżdżone w źródłowym HTML) nie została odwzorowana — plik ma o tym adnotację i
 w razie potrzeby trzeba sprawdzić PDF.
+
+**Naprawiony błąd konwertera HTML (27.09.2026):** gdy punkt wyliczenia lub ustęp
+(`unit_pint`/`unit_lett`/`unit_pass`/…) wprowadzał lub zastępował przepis cytowanym
+tekstem po dwukropku „w brzmieniu:”, źródłowy HTML owija ten cytat w `<div
+class="cite-box">` (znak cudzysłowu otwierającego, właściwa treść w `cite-body`, znak
+zamykający, przecinek/średnik/kropka na końcu) — a pętla obsługująca punkty wyliczenia
+nie miała żadnej obsługi dla generycznych divów-opakowań (w przeciwieństwie do głównej
+ścieżki `process_children`), więc całą zacytowaną treść po prostu pomijała, łącznie z
+przypadkami, gdy cytat sam w sobie był całym nowym, wielo-ustępowym artykułem. Naprawione
+ogólnie (dodano obsługę `cite-box` z zachowaniem naturalnego podziału na akapity dla
+cytowanej treści wieloustępowej). Przy ponownej konwersji wszystkich 16 plików HTML
+(oprócz RODO) okazało się, że realna utrata treści dotyczyła tylko 2 plików —
+`rozporzadzenie-ochrona-przeciwpozarowa-budynkow-nowelizacja-2024-1716.md` (całe brakujące
+§ 28a z 4 ustępami plus dwa inne cytowane fragmenty) i `ustawa-o-ochronie-danych-osobowych.md`
+(brakująca treść roty ślubowania Prezesa UODO) — w pozostałych aktach wystąpienia
+`cite-box` leżały wyłącznie w pomijanej celowo „treści obwieszczenia” (procedural preamble
+obwieszczenia ogłaszającego tekst jednolity), więc nie miały wpływu na treść merytoryczną.
 
 Pozostałe 20 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF
 **zakończona** (20 z 20: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,

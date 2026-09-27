@@ -494,6 +494,8 @@ Przestrzeganie zatwierdzonego kodeksu postępowania monitoruje podmiot akredytow
 
 1. Przed przystąpieniem do wykonywania obowiązków Prezes Urzędu składa przed Sejmem Rzeczypospolitej Polskiej ślubowanie o następującej treści:
 
+„Obejmując stanowisko Prezesa Urzędu Ochrony Danych Osobowych, uroczyście ślubuję dochować wierności postanowieniom Konstytucji Rzeczypospolitej Polskiej, strzec prawa do ochrony danych osobowych, a powierzone mi obowiązki wypełniać sumiennie i bezstronnie.”.
+
 2. Ślubowanie może zostać złożone z dodaniem słów „Tak mi dopomóż Bóg”.
 
 <a id="art-36"></a>

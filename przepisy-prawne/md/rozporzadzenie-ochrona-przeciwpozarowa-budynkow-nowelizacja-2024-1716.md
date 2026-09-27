@@ -14,11 +14,32 @@ W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 
 
 1) w § 3 po ust. 3 dodaje się ust. 3a w brzmieniu:
 
+„3a. Wymagań, o których mowa w ust. 1-3, nie stosuje się do autonomicznych czujek dymu i autonomicznych czujek tlenku węgla. Urządzenia te należy zamontować, konserwować i eksploatować w sposób określony w instrukcjach obsługi, opracowanych przez ich producentów.”;
+
 2) w § 4 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
+
+„6) oznakowują w budynkach handlowych, produkcyjnych oraz magazynowych, w których ściana oddzielenia przeciwpożarowego oddziela strefy pożarowe o powierzchni co najmniej 2000 m 2 każda i zachodzi co najmniej jeden z następujących warunków:
+
+a) ściany zewnętrzne lub dach co najmniej jednej strefy pożarowej nie są wykonane z materiałów niepalnych lub
+
+b) w co najmniej jednej strefie pożarowej gęstość obciążenia ogniowego przekracza 1000 MJ/m 2
+
+- miejsce połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną oraz z dachem w sposób określony w załączniku nr 1 albo inny uzgodniony z właściwym miejscowo komendantem powiatowym (miejskim) Państwowej Straży Pożarnej, umożliwiający jednoznaczną identyfikację tego miejsca z zewnątrz budynku.”;
 
 3) tytuł rozdziału 6 otrzymuje brzmienie: „Stosowanie stałych urządzeń gaśniczych, systemów sygnalizacji pożarowej, autonomicznych czujek dymu, autonomicznych czujek tlenku węgla, dźwiękowych systemów ostrzegawczych i gaśnic”;
 
 4) po § 28 dodaje się § 28a w brzmieniu:
+
+<a id="par-28a"></a>
+### „§ 28a.
+
+1. Pomieszczenie mieszkalne lub jednostkę mieszkalną, o której mowa w przepisach wydanych na podstawie art. 45 ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2023 r. poz. 1944), w których są świadczone usługi hotelarskie, a także lokal mieszkalny należy wyposażyć w co najmniej jedną autonomiczną czujkę dymu, spełniającą wymagania Polskiej Normy dotyczącej autonomicznych czujek dymu.
+
+2. Przepisu ust. 1 nie stosuje się w przypadku ochrony pomieszczenia mieszkalnego, jednostki mieszkalnej lub lokalu mieszkalnego, o których mowa w ust. 1, przez system sygnalizacji pożarowej lub stałe samoczynne urządzenie gaśnicze.
+
+3. Pomieszczenie, w którym odbywa się proces spalania paliwa stałego, ciekłego lub gazowego, wchodzące w skład lokalu mieszkalnego lub lokalu użytkowego przeznaczonego na pobyt ludzi, znajdującego się w strefie pożarowej zakwalifikowanej do kategorii zagrożenia ludzi ZL, należy wyposażyć w co najmniej jedną autonomiczną czujkę tlenku węgla, spełniającą wymagania Polskiej Normy dotyczącej urządzeń elektrycznych do wykrywania tlenku węgla w pomieszczeniach domowych.
+
+4. Przepisu ust. 3 nie stosuje się w przypadku, gdy proces spalania odbywa się w urządzeniu z zamkniętą komorą spalania, a także gdy spalanie ma miejsce w zasilanym paliwem gazowym urządzeniu przeznaczonym do przygotowania posiłków.”;
 
 5) w § 37 w ust. 8 wyraz „załącznik” zastępuje się wyrazami „załącznik nr 2”;
 
