@@ -11,8 +11,8 @@ wyznacza ramy jej działalności.
 - `html/` — dla aktów, które mają dostępny tekst w HTML (ISAP `text.html` lub, dla RODO,
   EUR-Lex), surowy HTML pobrany bezpośrednio (bez pośrednictwa modeli AI) — źródło
   pośrednie dla konwersji do `md/`.
-- `md/` — wersje przekonwertowane na Markdown. 16 z 35 aktów przekonwertowano z HTML
-  (patrz tabele niżej, kolumna „MD”); pozostałe wymagają konwersji z PDF (do zrobienia).
+- `md/` — wersje przekonwertowane na Markdown. Wszystkie akty są już przekonwertowane: 16
+  z HTML (patrz tabele niżej, kolumna „MD”), pozostałe 20 z samego PDF (patrz niżej).
 
 ### Stan konwersji do Markdown
 
@@ -23,8 +23,8 @@ prawnej). Jedno ograniczenie znane: w
 (źle zagnieżdżone w źródłowym HTML) nie została odwzorowana — plik ma o tym adnotację i
 w razie potrzeby trzeba sprawdzić PDF.
 
-Pozostałe 20 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(19 z 20 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+Pozostałe 20 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF
+**zakończona** (20 z 20: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
 `ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
 `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`,
@@ -34,7 +34,8 @@ Pozostałe 20 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja
 `kodeks-cywilny`, `rozporzadzenie-audyt-energetyczny`,
 `rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`, `ustawa-o-rachunkowosci`,
 `ustawa-prawo-budowlane`, `ustawa-o-dozorze-technicznym-nowelizacja-2026-252`,
-`ustawa-prawo-zamowien-publicznych`, `ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`),
+`ustawa-prawo-zamowien-publicznych`, `ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`,
+`ustawa-prawo-energetyczne`),
 przez własny skrypt (PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i
 jak skrypt sobie z nimi radzi:
 - **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
@@ -188,9 +189,32 @@ jak skrypt sobie z nimi radzi:
   tym adnotację i w razie potrzeby trzeba sprawdzić PDF. Pozostałe załączniki tej ustawy
   (listy podmiotów/krajów UE, wykaz usług) to listy nazw bez tego ryzyka, więc zostały bez
   adnotacji.
+- **jednostka z literowym sufiksem, do której doklejono własny sufiks „prim” (wstawiona
+  jednostka po już-literowej)** (`ustawa-prawo-energetyczne`, 48 wystąpień — najbardziej
+  poszkodowany plik ze wszystkich): oprócz zwykłego sufiksu literowego („24a”) i sufiksu
+  „prim” zapisanego wprost nawiasem kwadratowym w źródle („24[1]”, patrz wyżej), ta ustawa
+  (wyjątkowo mocno nowelizowana) zawiera dużo jednostek z sufiksem prim doklejonym do
+  jednostki, która już ma sufiks literowy — zapisanym w PDF jako prawdziwy, mniejszy
+  indeks górny („Art. 9d¹”, „ust. 8d²”), a nie nawiasem. PyMuPDF grupuje słowa wyłącznie po
+  położeniu, nie po foncie, więc taki indeks trafiał w jedno słowo z bazową jednostką bez
+  żadnego separatora („9d1”, „8d2”) — wzorzec jednostki nigdy tego nie rozpoznawał jako
+  początek jednostki/nagłówka, więc cała jednostka (czasem cały akapit) doklejała się do
+  poprzedniej. Dotyczyło to całych serii wstawionych artykułów (np. Art. 9d¹, 9e¹, 9h¹–9h³)
+  i ustępów (np. ust. 8d¹–8d¹⁶, 8g¹–8g⁸) — czyli sporej części przepisów o przyłączaniu
+  mikroinstalacji OZE do sieci. Naprawione ogólnie: cyfra bezpośrednio po sufiksie literowym
+  jest teraz zawsze rozpoznawana jako doklejony sufiks prim (bezpieczne, bo sufiks literowy
+  w prawdziwej polskiej numeracji nigdy sam nie kończy się gołą cyfrą) i przy renderowaniu
+  ujmowana w nawias kwadratowy dla jednego, spójnego zapisu niezależnie od tego, jak
+  zrobił to dany akt („Art. 9d1” → „Art. 9d[1]”); obsłużone też zagnieżdżenie głębsze niż
+  jeden poziom („ust. 8d2a” — kolejny sufiks literowy po cyfrze prim), choć tam sama cyfra
+  zostaje bez nawiasu (nie wygląda jak literówka, bo kończy się literą, nie cyfrą). Pełna
+  regresja na 19 wcześniej zatwierdzonych plikach nie wykazała żadnych zmian — ten wzorzec
+  w ogóle w nich nie występował.
 
-Pozostał 1 akt (`ustawa-prawo-energetyczne`) jeszcze nie sprawdzony pod kątem tych samych
-problemów.
+Wszystkie 20 aktów bez HTML u źródła zostały sprawdzone i przekonwertowane. Zbieranie
+napotkanych problemów źródłowych (lista wyżej) można uznać za zamknięte dla obecnego
+zestawu plików — nowy problem tego typu pojawi się dopiero przy kolejnym akcie dodanym do
+tego katalogu.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
