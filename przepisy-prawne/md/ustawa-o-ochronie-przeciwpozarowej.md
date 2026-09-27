@@ -22,7 +22,11 @@ Ilekroć w ustawie jest mowa o:
 
 a) zapewnienie koniecznych warunków ochrony technicznej nieruchomościom i ruchomościom,
 
-b) tworzenie warunków organizacyjnych i formalnoprawnych zapewniających ochronę ludzi i mienia, a także przeciwdziałających powstawaniu lub minimalizujących skutki pożaru, klęski żywiołowej lub innego miejscowego zagrożenia; 2)1) działaniach ratowniczych – rozumie się przez to każdą czynność podjętą w celu niezwłocznej likwidacji nagłych zagrożeń dla życia, zdrowia, dóbr kultury, środowiska i mienia występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia; 2a)2) działaniach pomocowych – rozumie się przez to każdą czynność niebędącą działaniem ratowniczym wykonywaną w ramach pomocy doraźnej lub pomocy humanitarnej w rozumieniu ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
+b) tworzenie warunków organizacyjnych i formalnoprawnych zapewniających ochronę ludzi i mienia, a także przeciwdziałających powstawaniu lub minimalizujących skutki pożaru, klęski żywiołowej lub innego miejscowego zagrożenia;
+
+2)[1)] działaniach ratowniczych – rozumie się przez to każdą czynność podjętą w celu niezwłocznej likwidacji nagłych zagrożeń dla życia, zdrowia, dóbr kultury, środowiska i mienia występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia;
+
+2a)[2)] działaniach pomocowych – rozumie się przez to każdą czynność niebędącą działaniem ratowniczym wykonywaną w ramach pomocy doraźnej lub pomocy humanitarnej w rozumieniu ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
 
 3) innym miejscowym zagrożeniu – rozumie się przez to zdarzenie wynikające z rozwoju cywilizacyjnego i naturalnych praw przyrody niebędące pożarem ani klęską żywiołową, stanowiące zagrożenie dla życia, zdrowia, mienia lub środowiska, któremu zapobieżenie lub którego usunięcie skutków nie wymaga zastosowania nadzwyczajnych środków;
 
@@ -792,7 +796,9 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 ### Art. 14.
 
-1. Krajowy system ratowniczo-gaśniczy ma na celu ochronę życia, zdrowia, mienia lub środowiska poprzez: 1)3) likwidację lub ograniczenie zagrożeń występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia;
+1. Krajowy system ratowniczo-gaśniczy ma na celu ochronę życia, zdrowia, mienia lub środowiska poprzez:
+
+1)[3)] likwidację lub ograniczenie zagrożeń występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia;
 
 2) ratownictwo techniczne;
 
@@ -810,7 +816,11 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółową organizację krajowego systemu ratowniczo-gaśniczego w zakresie:4)
 
-1) funkcjonowania na obszarze powiatu, województwa i kraju, 1a)5) szczegółowego sposobu sporządzania powiatowych i wojewódzkich planów ratowniczych oraz przeprowadzania analiz zagrożeń oraz analiz zabezpieczenia operacyjnego, 2)6) likwidacji lub ograniczenia zagrożeń występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia,
+1) funkcjonowania na obszarze powiatu, województwa i kraju,
+
+1a)[5)] szczegółowego sposobu sporządzania powiatowych i wojewódzkich planów ratowniczych oraz przeprowadzania analiz zagrożeń oraz analiz zabezpieczenia operacyjnego,
+
+2)[6)] likwidacji lub ograniczenia zagrożeń występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia,
 
 3) ratownictwa technicznego, chemicznego, ekologicznego i medycznego,
 

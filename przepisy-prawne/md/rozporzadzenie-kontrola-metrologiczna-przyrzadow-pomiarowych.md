@@ -120,13 +120,15 @@ Wniosek o zatwierdzenie typu przyrządu pomiarowego zawiera:
 
 2) sposób zapewnienia bezpieczeństwa oprogramowania i sposób identyfikacji wersji oprogramowania;
 
-3)6) schemat blokowy oprogramowania przyrządu pomiarowego realizującego funkcje związane z charakterystykami metrologicznymi przyrządu pomiarowego i wynikami pomiaru, obejmujący informacje o przepływie i wymianie danych pomiędzy poszczególnymi elementami przyrządu;
+3)[6)] schemat blokowy oprogramowania przyrządu pomiarowego realizującego funkcje związane z charakterystykami metrologicznymi przyrządu pomiarowego i wynikami pomiaru, obejmujący informacje o przepływie i wymianie danych pomiędzy poszczególnymi elementami przyrządu;
 
 4) konfigurację oprogramowania przyrządu pomiarowego uwzględniającą parametry odpowiedzialne za niezmienność oprogramowania i danych metrologicznych;
 
-5)7) wykaz i opisy komend protokołów komunikacyjnych przyrządu pomiarowego realizujących funkcje związane z charakterystykami metrologicznymi przyrządu pomiarowego, wynikami pomiaru, zmianą konfiguracji i aktualizacją oprogramowania wpływających na poprawność realizowanych funkcji, bezpieczeństwo danych cyfrowych i oprogramowania wraz z oświadczeniem o kompletności dostarczanego wykazu. 5.8) W przypadku gdy dokumenty, o których mowa w ust. 1–4 oraz w § 7, zawierają informacje stanowiące tajemnicę przedsiębiorstwa, w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85), wnioskodawca w celu zastrzeżenia, że nie mogą być one ujawnione podmiotom nieuprawnionym do dostępu do takich informacji, dołącza do wniosku, o którym mowa w § 4, oświadczenie określające, jakie dokumenty lub ich części zawierają informacje stanowiące tajemnicę przedsiębiorstwa, oraz wskazujące przyczyny uznania tych dokumentów za zawierające taką tajemnicę.
+5)[7)] wykaz i opisy komend protokołów komunikacyjnych przyrządu pomiarowego realizujących funkcje związane z charakterystykami metrologicznymi przyrządu pomiarowego, wynikami pomiaru, zmianą konfiguracji i aktualizacją oprogramowania wpływających na poprawność realizowanych funkcji, bezpieczeństwo danych cyfrowych i oprogramowania wraz z oświadczeniem o kompletności dostarczanego wykazu.
 
-6.8) W przypadku gdy okoliczności, o których mowa w ust. 5, zostaną ujawnione po złożeniu wniosku, wnioskodawca może do czasu zakończenia postępowania w sprawie zatwierdzenia typu przyrządu pomiarowego złożyć do akt oświadczenie, o którym mowa w ust. 5.
+5.[8)] W przypadku gdy dokumenty, o których mowa w ust. 1–4 oraz w § 7, zawierają informacje stanowiące tajemnicę przedsiębiorstwa, w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85), wnioskodawca w celu zastrzeżenia, że nie mogą być one ujawnione podmiotom nieuprawnionym do dostępu do takich informacji, dołącza do wniosku, o którym mowa w § 4, oświadczenie określające, jakie dokumenty lub ich części zawierają informacje stanowiące tajemnicę przedsiębiorstwa, oraz wskazujące przyczyny uznania tych dokumentów za zawierające taką tajemnicę.
+
+6.[8)] W przypadku gdy okoliczności, o których mowa w ust. 5, zostaną ujawnione po złożeniu wniosku, wnioskodawca może do czasu zakończenia postępowania w sprawie zatwierdzenia typu przyrządu pomiarowego złożyć do akt oświadczenie, o którym mowa w ust. 5.
 
 ### § 6.
 
@@ -242,7 +244,7 @@ Ilekroć w niniejszym rozdziale jest mowa o „legalizacji” bez bliższego okr
 
 2. Przyjmujący wniosek o dokonanie legalizacji wydaje pisemne potwierdzenie przyjęcia wniosku albo potwierdza jego przyjęcie na kopii wniosku.
 
-3.11) Jeżeli rejestr wniosków jest prowadzony przy użyciu systemu informatycznego, to w przypadku wniosków złożonych na piśmie, ustnie, przez elektroniczną skrzynkę podawczą albo za pomocą systemu informatycznego potwierdzeniem ich przyjęcia jest wydruk potwierdzenia przyjęcia wniosku. Wydanie potwierdzenia przyjęcia wniosku następuje zgodnie z formą złożenia wniosku albo w formie wskazanej przez wnioskodawcę, w miarę możliwości technicznych, którymi dysponuje organ wydający przedmiotowe potwierdzenie.
+3.[11)] Jeżeli rejestr wniosków jest prowadzony przy użyciu systemu informatycznego, to w przypadku wniosków złożonych na piśmie, ustnie, przez elektroniczną skrzynkę podawczą albo za pomocą systemu informatycznego potwierdzeniem ich przyjęcia jest wydruk potwierdzenia przyjęcia wniosku. Wydanie potwierdzenia przyjęcia wniosku następuje zgodnie z formą złożenia wniosku albo w formie wskazanej przez wnioskodawcę, w miarę możliwości technicznych, którymi dysponuje organ wydający przedmiotowe potwierdzenie.
 
 ### § 18.
 
@@ -454,7 +456,9 @@ f) numer certyfikatu badania typu UE albo WE lub certyfikatu badania projektu UE
 
 4) datę sporządzenia wniosku i podpis wnioskodawcy.
 
-2.12) Jeżeli dowodem legalizacji przyrządu pomiarowego jest świadectwo legalizacji, organ administracji miar albo podmiot upoważniony mogą wezwać wnioskodawcę do dołączenia do wniosku o dokonanie legalizacji ponownej świadectwa legalizacji pierwotnej albo poprzedniej legalizacji ponownej, albo ich kopii, jeżeli jest to niezbędne do prawidłowego dokonania legalizacji ponownej. Przepisu zdania pierwszego nie stosuje się do przyrządów pomiarowych wprowadzonych do obrotu lub użytkowania w wyniku dokonania oceny zgodności, zgłaszanych do legalizacji ponownej po raz pierwszy. 3.13) Jeżeli w wyniku wezwania, o którym mowa w ust. 2, do wniosku o dokonanie legalizacji ponownej dołączono kopię świadectwa legalizacji pierwotnej albo poprzedniej legalizacji ponownej, to wnioskodawca jest zobowiązany do okazania oryginałów tych dokumentów przed podjęciem czynności sprawdzenia tego przyrządu.
+2.[12)] Jeżeli dowodem legalizacji przyrządu pomiarowego jest świadectwo legalizacji, organ administracji miar albo podmiot upoważniony mogą wezwać wnioskodawcę do dołączenia do wniosku o dokonanie legalizacji ponownej świadectwa legalizacji pierwotnej albo poprzedniej legalizacji ponownej, albo ich kopii, jeżeli jest to niezbędne do prawidłowego dokonania legalizacji ponownej. Przepisu zdania pierwszego nie stosuje się do przyrządów pomiarowych wprowadzonych do obrotu lub użytkowania w wyniku dokonania oceny zgodności, zgłaszanych do legalizacji ponownej po raz pierwszy.
+
+3.[13)] Jeżeli w wyniku wezwania, o którym mowa w ust. 2, do wniosku o dokonanie legalizacji ponownej dołączono kopię świadectwa legalizacji pierwotnej albo poprzedniej legalizacji ponownej, to wnioskodawca jest zobowiązany do okazania oryginałów tych dokumentów przed podjęciem czynności sprawdzenia tego przyrządu.
 
 ### § 35.
 
@@ -602,11 +606,11 @@ b) średnicy nominalnej;
 
 4) jest niedostępny.
 
-1a.14) Przyrządy pomiarowe zapasowe użyte przy wymianie należy wybrać losowo spośród partii przyrządów pomiarowych zapasowych.
+1a.[14)] Przyrządy pomiarowe zapasowe użyte przy wymianie należy wybrać losowo spośród partii przyrządów pomiarowych zapasowych.
 
-2.15) W przypadkach, o których mowa w ust. 1 pkt 1–3, łącznie co najwyżej 6 % przyrządów pomiarowych z próbki kontrolnej można wymienić na przyrządy pomiarowe zapasowe.
+2.[15)] W przypadkach, o których mowa w ust. 1 pkt 1–3, łącznie co najwyżej 6 % przyrządów pomiarowych z próbki kontrolnej można wymienić na przyrządy pomiarowe zapasowe.
 
-2a.16) W przypadku, o którym mowa w ust. 1 pkt 4, niezależnie od zasad wymiany przyrządów pomiarowych określonych w ust. 2, dodatkowo co najwyżej 6 % przyrządów pomiarowych z próbki kontrolnej można wymienić na przyrządy pomiarowe zapasowe.
+2a.[16)] W przypadku, o którym mowa w ust. 1 pkt 4, niezależnie od zasad wymiany przyrządów pomiarowych określonych w ust. 2, dodatkowo co najwyżej 6 % przyrządów pomiarowych z próbki kontrolnej można wymienić na przyrządy pomiarowe zapasowe.
 
 3. Wymiana danego egzemplarza przyrządu pomiarowego z próbki kontrolnej na zapasowy jest możliwa jednokrotnie, po uprzednim stwierdzeniu wystąpienia co najmniej jednego z kryteriów, o których mowa w ust. 1.
 
@@ -690,9 +694,9 @@ Na odważnikach klas dokładności E1, E2, F1, F2 i M1 od 1 mg do 50 kg oraz M2 
 > rodzajów przyrządów) są obecne, lecz czytane liniowo, nie w układzie tabelarycznym. Przy
 > potrzebie odczytania konkretnych wartości z tabeli sprawdź źródłowy PDF.
 
-Załącznik nr 119)
+Załączniki do rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 22 marca 2019 r. (Dz. U. z 2026 r. poz. 551)
 
-WZORY DECYZJI ZATWIERDZENIA TYPU ORAZ DECYZJI ZATWIERDZENIA TYPU Z OGRANICZENIAMI
+## Załącznik nr 1. [19)] Wzory decyzji zatwierdzenia typu oraz decyzji zatwierdzenia typu z ograniczeniami
 
 1. Wzór decyzji zatwierdzenia typu
 
@@ -814,9 +818,9 @@ Od decyzji stronie nie przysługuje odwołanie. Jednakże strona niezadowolona z
 
 ...................................................................................... (pieczęć okrągła Prezesa)***** (podpis Prezesa albo osoby upoważnionej do wydania decyzji)******
 
-——————— * Wpisać, jeżeli dzień sporządzenia wniosku jest inny niż dzień wpływu wniosku do Głównego Urzędu Miar. ** Niepotrzebne skreślić. *** Do decyzji mogą być dołączone załączniki zawierające opisy, schematy lub fotografie przyrządu pomiarowego w celu jego identyfikacji albo może być określony dokument, na podstawie którego będzie dokonywana identyfikacja przyrządu pomiarowego. **** Wpisać, o ile ma to zastosowanie. ***** Pieczęć należy umieścić tylko w przypadku, gdy decyzja jest sporządzona w postaci papierowej. ****** W przypadku gdy decyzja jest wydawana w postaci elektronicznej, wskazuje się imię i nazwisko osoby wydającej decyzję oraz opatruje się ją kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Prezesa Głównego Urzędu Miar ze wskazaniem w treści decyzji osoby opatrującej decyzję pieczęcią. Załącznik nr 2
+——————— * Wpisać, jeżeli dzień sporządzenia wniosku jest inny niż dzień wpływu wniosku do Głównego Urzędu Miar. ** Niepotrzebne skreślić. *** Do decyzji mogą być dołączone załączniki zawierające opisy, schematy lub fotografie przyrządu pomiarowego w celu jego identyfikacji albo może być określony dokument, na podstawie którego będzie dokonywana identyfikacja przyrządu pomiarowego. **** Wpisać, o ile ma to zastosowanie. ***** Pieczęć należy umieścić tylko w przypadku, gdy decyzja jest sporządzona w postaci papierowej. ****** W przypadku gdy decyzja jest wydawana w postaci elektronicznej, wskazuje się imię i nazwisko osoby wydającej decyzję oraz opatruje się ją kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Prezesa Głównego Urzędu Miar ze wskazaniem w treści decyzji osoby opatrującej decyzję pieczęcią.
 
-WZÓR ZNAKU ZATWIERDZENIA TYPU O OKREŚLONYM WZORZE
+## Załącznik nr 2. Wzór znaku zatwierdzenia typu o określonym wzorze
 
 1. Wzór znaku zatwierdzenia typu o określonym wzorze stanowi stylizowana litera „ε” zawierająca:
 
@@ -828,7 +832,9 @@ Rys. 1. Wzór znaku zatwierdzenia typu o określonym wzorze
 
 2. Wzór znaku zatwierdzenia typu o określonym wzorze z ograniczeniami stanowi wzór znaku zatwierdzenia typu o określonym wzorze poprzedzony literą „P” o takich samych wymiarach.
 
-Rys. 2. Wzór znaku zatwierdzenia typu o określonym wzorze z ograniczeniami Załącznik nr 320)
+Rys. 2. Wzór znaku zatwierdzenia typu o określonym wzorze z ograniczeniami
+
+## Załącznik nr 3. [20)]
 
 1. WZÓR ŚWIADECTWA LEGALIZACJI
 
@@ -1010,7 +1016,9 @@ Rysunek nr 7. Wymiary cech identyfikujących stosowanych przez organy administra
 
 Lp. Nazwa i siedziba urzędu Wyróżnik 1 2 3 1 Okręgowy Urząd Miar w Warszawie 1 2 Okręgowy Urząd Miar w Warszawie Wydział Zamiejscowy 11 w Broniszach 3 Okręgowy Urząd Miar w Warszawie Wydział Zamiejscowy 12 w Zamościu 4 Okręgowy Urząd Miar w Warszawie Wydział Zamiejscowy 14 w Siedlcach 5 Okręgowy Urząd Miar w Warszawie Wydział Zamiejscowy 17 w Płocku 6 Okręgowy Urząd Miar w Warszawie Wydział Zamiejscowy 18 w Lublinie 7 Okręgowy Urząd Miar w Warszawie Wydział Zamiejscowy 19 w Radomiu 8 Okręgowy Urząd Miar w Krakowie 2 9 Okręgowy Urząd Miar w Krakowie Wydział Zamiejscowy 22 w Przemyślu 10 Okręgowy Urząd Miar w Krakowie Wydział Zamiejscowy 23 w Tarnobrzegu 11 Okręgowy Urząd Miar w Krakowie Wydział Zamiejscowy 24 w Rzeszowie 12 Okręgowy Urząd Miar w Krakowie Wydział Zamiejscowy 25 w Tarnowie 13 Okręgowy Urząd Miar w Krakowie Wydział Zamiejscowy w Jaśle 26 14 Okręgowy Urząd Miar w Krakowie Wydział Zamiejscowy 27 w Nowym Sączu 15 Okręgowy Urząd Miar we Wrocławiu 3 16 Okręgowy Urząd Miar we Wrocławiu Wydział Zamiejscowy 33 w Legnicy 17 Okręgowy Urząd Miar we Wrocławiu Wydział Zamiejscowy 34 w Jeleniej Górze 18 Okręgowy Urząd Miar we Wrocławiu Wydział Zamiejscowy 35 w Świdnicy 19 Okręgowy Urząd Miar we Wrocławiu Wydział Zamiejscowy 36 w Brzegu 20 Okręgowy Urząd Miar we Wrocławiu Wydział Zamiejscowy 37 w Opolu 21 Okręgowy Urząd Miar we Wrocławiu Wydział Zamiejscowy 38 w Nysie 22 Okręgowy Urząd Miar w Poznaniu 4 23 Okręgowy Urząd Miar w Poznaniu Wydział Zamiejscowy w Pile 42 24 Okręgowy Urząd Miar w Poznaniu Wydział Zamiejscowy 43 w Lesznie 25 Okręgowy Urząd Miar w Poznaniu Wydział Zamiejscowy 44 w Kaliszu 26 Okręgowy Urząd Miar w Poznaniu Wydział Zamiejscowy 45 w Gnieźnie 27 Okręgowy Urząd Miar w Poznaniu Wydział Zamiejscowy 46 w Koninie 28 Okręgowy Urząd Miar w Katowicach 5 29 Okręgowy Urząd Miar w Katowicach Wydział Zamiejscowy 52 w Bytomiu 30 Okręgowy Urząd Miar w Katowicach Wydział Zamiejscowy 53 w Bielsku-Białej 31 Okręgowy Urząd Miar w Katowicach Wydział Zamiejscowy 55 w Rybniku 32 Okręgowy Urząd Miar w Katowicach Wydział Zamiejscowy 56 w Częstochowie 33 Okręgowy Urząd Miar w Gdańsku 6 34 Okręgowy Urząd Miar w Gdańsku Wydział Zamiejscowy 62 w Tczewie 35 Okręgowy Urząd Miar w Gdańsku Wydział Zamiejscowy 63 w Gdyni 36 Okręgowy Urząd Miar w Gdańsku Wydział Zamiejscowy 64 w Elblągu 37 Okręgowy Urząd Miar w Gdańsku Wydział Zamiejscowy 65 w Olsztynie 38 Okręgowy Urząd Miar w Gdańsku Wydział Zamiejscowy 66 w Słupsku 39 Okręgowy Urząd Miar w Gdańsku Wydział Zamiejscowy 67 w Kętrzynie 40 Okręgowy Urząd Miar w Gdańsku Wydział Zamiejscowy 69 w Chojnicach 41 Okręgowy Urząd Miar w Łodzi 7 42 Okręgowy Urząd Miar w Łodzi Wydział Zamiejscowy 72 w Piotrkowie Trybunalskim 43 Okręgowy Urząd Miar w Łodzi Wydział Zamiejscowy w Łowiczu 73 44 Okręgowy Urząd Miar w Łodzi Wydział Zamiejscowy 74 w Zduńskiej Woli 45 Okręgowy Urząd Miar w Łodzi Wydział Zamiejscowy w Kielcach 75 46 Okręgowy Urząd Miar w Bydgoszczy 8 47 Okręgowy Urząd Miar w Bydgoszczy Wydział Zamiejscowy 82 w Toruniu 48 Okręgowy Urząd Miar w Bydgoszczy Wydział Zamiejscowy we 83 Włocławku 49 Okręgowy Urząd Miar w Bydgoszczy Wydział Zamiejscowy 84 w Brodnicy 50 Okręgowy Urząd Miar w Bydgoszczy Wydział Zamiejscowy 85 w Inowrocławiu 51 Okręgowy Urząd Miar w Bydgoszczy Wydział Zamiejscowy 86 w Grudziądzu 52 Okręgowy Urząd Miar w Szczecinie 9 53 Okręgowy Urząd Miar w Szczecinie Wydział Zamiejscowy 92 w Stargardzie 54 Okręgowy Urząd Miar w Szczecinie Wydział Zamiejscowy 93 w Koszalinie 55 Okręgowy Urząd Miar w Szczecinie Wydział Zamiejscowy 94 w Gorzowie Wielkopolskim 56 Okręgowy Urząd Miar w Szczecinie Wydział Zamiejscowy 95 w Zielonej Górze 57 Okręgowy Urząd Miar w Białymstoku 010 58 Okręgowy Urząd Miar w Białymstoku Wydział Zamiejscowy 011 w Ostrołęce 59 Okręgowy Urząd Miar w Białymstoku Wydział Zamiejscowy 012 w Ełku 60 Okręgowy Urząd Miar w Białymstoku Wydział Zamiejscowy 013 w Suwałkach
 
-11. Wyróżniki cyfrowe identyfikujące podmioty upoważnione określa się jako trzycyfrowe, kolejne numery rozpoczynając od numeru 100. Załącznik nr 521)
+11. Wyróżniki cyfrowe identyfikujące podmioty upoważnione określa się jako trzycyfrowe, kolejne numery rozpoczynając od numeru 100.
+
+## Załącznik nr 5. [21)]
 
 RODZAJE DOWODÓW LEGALIZACJI, OKRESY WAŻNOŚCI LEGALIZACJI DLA POSZCZEGÓLNYCH RODZAJÓW PRZYRZĄDÓW POMIAROWYCH, TERMINY ZGŁASZANIA DO LEGALIZACJI PONOWNEJ PRZYRZĄDÓW POMIAROWYCH WPROWADZONYCH DO OBROTU LUB UŻYTKOWANIA PO DOKONANIU OCENY ZGODNOŚCI ORAZ OKRESY WAŻNOŚCI LEGALIZACJI PONOWNEJ ZA POMOCĄ METODY STATYSTYCZNEJ
 
@@ -1098,9 +1106,9 @@ Tabela nr 3 Okresy ważności Lp. Przyrządy pomiarowe podlegające legalizacji 
 
 1) indukcyjne bezpośrednie o mocy nominalnej niewiększej niż 3 8 lat 30 kW
 
-2) pozostałe 4 lata 4 Wodomierze 3 lata Załącznik nr 6
+2) pozostałe 4 lata 4 Wodomierze 3 lata
 
-WZORY CECH LEGALIZACJI PIERWOTNEJ O OKREŚLONYM WZORZE
+## Załącznik nr 6. Wzory cech legalizacji pierwotnej o określonym wzorze
 
 1. Cecha legalizacji pierwotnej o określonym wzorze, zwana dalej „cechą legalizacji”, z zastrzeżeniem ust. 3 i 4, składa się z dwóch elementów:
 
@@ -1130,13 +1138,15 @@ b) w dolnej części wyróżnik cyfrowy identyfikujący właściwy urząd miar a
 
 4) wyróżnika cyfrowego identyfikującego właściwy urząd miar, o którym mowa w załączniku nr 4 do rozporządzenia.
 
-Rysunek 1. Kształt i wymiary wzoru elementu będącego częścią cechy legalizacji oraz krój liter i cyfr w nim stosowanych Rysunek 2. Kształt i wymiary wzoru drugiego elementu będącego częścią cechy legalizacji oraz krój liter i cyfr w nim stosowanych Załącznik nr 7
+Rysunek 1. Kształt i wymiary wzoru elementu będącego częścią cechy legalizacji oraz krój liter i cyfr w nim stosowanych Rysunek 2. Kształt i wymiary wzoru drugiego elementu będącego częścią cechy legalizacji oraz krój liter i cyfr w nim stosowanych
 
-LICZEBNOŚĆ PRÓBKI KONTROLNEJ PRZY LEGALIZACJI PIERWOTNEJ MANOMETRÓW DO OPON POJAZDÓW MECHANICZNYCH DOKONYWANEJ ZA POMOCĄ METODY STATYSTYCZNEJ I KRYTERIA AKCEPTACJI ALBO ODRZUCENIA PARTII TYCH MANOMETRÓW
+## Załącznik nr 7. Liczebność próbki kontrolnej przy legalizacji pierwotnej manometrów do opon pojazdów mechanicznych dokonywanej za pomocą metody statystycznej i kryteria akceptacji albo odrzucenia partii tych manometrów
 
 Tabela 1. Pojedyncza kontrola wyrywkowa manometrów do opon pojazdów mechanicznych
 
-Liczba przyrządów pomiarowych niezgodnych Liczebność z wymaganiami Nr Liczebność partii próbki Kryterium Kryterium akceptacji odrzucenia partii partii 1 0 do 90 24 0 1 2 91 do 150 26 0 1 3 151 do 280 28 0 1 4 281 do 500 32 0 1 5 501 do 1 200 50 0 1 6 1 201 do 3 200 80 1 2 7 3 201 do 10 000 125 2 3 Załącznik nr 8
+Liczba przyrządów pomiarowych niezgodnych Liczebność z wymaganiami Nr Liczebność partii próbki Kryterium Kryterium akceptacji odrzucenia partii partii 1 0 do 90 24 0 1 2 91 do 150 26 0 1 3 151 do 280 28 0 1 4 281 do 500 32 0 1 5 501 do 1 200 50 0 1 6 1 201 do 3 200 80 1 2 7 3 201 do 10 000 125 2 3
+
+## Załącznik nr 8
 
 LICZEBNOŚĆ PRÓBKI KONTROLNEJ PRZY LEGALIZACJI PONOWNEJ DOKONYWANEJ ZA POMOCĄ METODY STATYSTYCZNEJ I KRYTERIA AKCEPTACJI ALBO ODRZUCENIA PARTII PRZYRZĄDÓW POMIAROWYCH ORAZ LICZBA PRZYRZĄDÓW POMIAROWYCH ZAPASOWYCH W ZALEŻNOŚCI OD LICZEBNOŚCI PARTII
 
@@ -1150,9 +1160,9 @@ Liczba przyrządów pomiarowych Przyrządy pomiarowe Liczebność niezgodnych z 
 
 Tabela 3. Pojedyncza kontrola wyrywkowa podzespołów ciepłomierzy
 
-Liczba przyrządów pomiarowych niezgodnych z wymaganiami Liczebność Przyrządy pomiarowe Nr Liczebność partii próbki zapasowe Kryterium Kryterium akceptacji odrzucenia partii partii 3.1 0 do 90 24 0 1 5 3.2 91 do 150 26 0 1 8 3.3 151 do 280 28 0 1 10 3.4 281 do 500 32 0 1 10 3.5 501 do 1 200 50 0 1 10 3.6 1 201 do 3 200 80 1 2 16 3.7 3 201 do 10 000 125 2 3 25 Załącznik nr 923)
+Liczba przyrządów pomiarowych niezgodnych z wymaganiami Liczebność Przyrządy pomiarowe Nr Liczebność partii próbki zapasowe Kryterium Kryterium akceptacji odrzucenia partii partii 3.1 0 do 90 24 0 1 5 3.2 91 do 150 26 0 1 8 3.3 151 do 280 28 0 1 10 3.4 281 do 500 32 0 1 10 3.5 501 do 1 200 50 0 1 10 3.6 1 201 do 3 200 80 1 2 16 3.7 3 201 do 10 000 125 2 3 25
 
-WZÓR ŚWIADECTWA LEGALIZACJI PONOWNEJ DOKONANEJ ZA POMOCĄ METODY STATYSTYCZNEJ
+## Załącznik nr 9. [23)] Wzór świadectwa legalizacji ponownej dokonanej za pomocą metody statystycznej
 
 PREZES MIAR1) GŁÓWNEGO URZĘDU........................................................................................................................................ (adres, telefon, e-mail)
 

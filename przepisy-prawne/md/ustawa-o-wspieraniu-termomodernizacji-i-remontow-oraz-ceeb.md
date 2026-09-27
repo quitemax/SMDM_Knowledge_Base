@@ -1120,7 +1120,9 @@ b) kosztów realizacji porozumienia, do których pokrycia zobowiązała się gmi
 
 1b) (uchylony)
 
-1c) środki rezerwy celowej, o której mowa w art. 3 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2025 r. poz. 1402 i 1847); 2)12) odsetki od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+1c) środki rezerwy celowej, o której mowa w art. 3 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2025 r. poz. 1402 i 1847);
+
+2)[12)] odsetki od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 
 3) (uchylony)13)
 
@@ -1150,7 +1152,9 @@ b) kosztów realizacji porozumienia, do których pokrycia zobowiązała się gmi
 
 3) pokrycie kosztów obsługi Funduszu;
 
-4) pokrycie kosztów promocji Funduszu. 2.15) Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
+4) pokrycie kosztów promocji Funduszu.
+
+2.[15)] Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 ### Art. 26.
 
@@ -1166,7 +1170,9 @@ c) budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa
 
 1a) przekazuje projekt planu finansowego Funduszu na dany rok do uzgodnienia organom wymienionym w pkt 1, do dnia 15 czerwca roku poprzedniego;
 
-2) sporządza dla Funduszu odrębny bilans oraz rachunek zysków i strat, wchodzące w skład sprawozdania finansowego banku. 2.16) W planie finansowym, o którym mowa w ust. 1 pkt 1, wyszczególnia się kwotę przeznaczoną na realizację przedsięwzięć niskoemisyjnych.
+2) sporządza dla Funduszu odrębny bilans oraz rachunek zysków i strat, wchodzące w skład sprawozdania finansowego banku.
+
+2.[16)] W planie finansowym, o którym mowa w ust. 1 pkt 1, wyszczególnia się kwotę przeznaczoną na realizację przedsięwzięć niskoemisyjnych.
 
 ### Art. 27.
 
@@ -1318,9 +1324,19 @@ a) kwalifikacji w rzemiośle kominiarskim,
 
 b) uprawnień budowlanych.
 
-7. Oświadczenie, o którym mowa w ust. 6 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia. 8.17) Główny Inspektor Nadzoru Budowlanego przyznaje osobie uprawnionej dostęp do systemu teleinformatycznego obsługującego ewidencję. 9.17) W przypadku zmiany danych, o których mowa w ust. 4, osoba, o której mowa w ust. 1 pkt 4 i 9, albo organ lub podmiot w przypadku osób, o których mowa w ust. 1 pkt 5–7, składa do Głównego Inspektora Nadzoru Budowlanego wniosek o zmianę tych danych, w terminie 14 dni od dnia zaistnienia zmiany, przekazując kopię dokumentów potwierdzających zaistniałą zmianę za pomocą systemu teleinformatycznego obsługującego ewidencję.
+7. Oświadczenie, o którym mowa w ust. 6 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
 
-10. W przypadku, o którym mowa w ust. 9, przepis ust. 7 stosuje się odpowiednio. 11.17) Główny Inspektor Nadzoru Budowlanego dokonuje zmian w wykazie w przypadku powzięcia informacji o zmianie danych, o których mowa w ust. 4. 12.17) Wnioski, o których mowa w ust. 5, składa się przy użyciu formularza elektronicznego udostępnionego pod adresem elektronicznym wskazanym w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Inspektora Nadzoru Budowlanego. 13.17) Główny Inspektor Nadzoru Budowlanego określi wzory wniosków, o których mowa w ust. 5, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
+8.[17)] Główny Inspektor Nadzoru Budowlanego przyznaje osobie uprawnionej dostęp do systemu teleinformatycznego obsługującego ewidencję.
+
+9.[17)] W przypadku zmiany danych, o których mowa w ust. 4, osoba, o której mowa w ust. 1 pkt 4 i 9, albo organ lub podmiot w przypadku osób, o których mowa w ust. 1 pkt 5–7, składa do Głównego Inspektora Nadzoru Budowlanego wniosek o zmianę tych danych, w terminie 14 dni od dnia zaistnienia zmiany, przekazując kopię dokumentów potwierdzających zaistniałą zmianę za pomocą systemu teleinformatycznego obsługującego ewidencję.
+
+10. W przypadku, o którym mowa w ust. 9, przepis ust. 7 stosuje się odpowiednio.
+
+11.[17)] Główny Inspektor Nadzoru Budowlanego dokonuje zmian w wykazie w przypadku powzięcia informacji o zmianie danych, o których mowa w ust. 4.
+
+12.[17)] Wnioski, o których mowa w ust. 5, składa się przy użyciu formularza elektronicznego udostępnionego pod adresem elektronicznym wskazanym w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Inspektora Nadzoru Budowlanego.
+
+13.[17)] Główny Inspektor Nadzoru Budowlanego określi wzory wniosków, o których mowa w ust. 5, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
 
 ### Art. 27c.
 
@@ -1332,7 +1348,9 @@ b) uprawnień budowlanych.
 
 4. Osobom uprawnionym udziela się informacji niezbędnych do realizacji obowiązku, o którym mowa w ust. 1.
 
-5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób wprowadzania danych i informacji do ewidencji, uwzględniając zakres danych i informacji wprowadzanych do ewidencji oraz ich zapisywanie w systemie teleinformatycznym obsługującym ewidencję. 6.17) Główny Inspektor Nadzoru Budowlanego określi wzór formularza, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób wprowadzania danych i informacji do ewidencji, uwzględniając zakres danych i informacji wprowadzanych do ewidencji oraz ich zapisywanie w systemie teleinformatycznym obsługującym ewidencję.
+
+6.[17)] Główny Inspektor Nadzoru Budowlanego określi wzór formularza, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 ### Art. 27d.
 
@@ -1396,7 +1414,9 @@ c) innych przedsięwzięć związanych z ochroną powietrza;
 
 2. Dane i informacje zgromadzone w ewidencji udostępnia się podmiotom, o których mowa w ust. 1, w systemie teleinformatycznym obsługującym ewidencję w postaci elektronicznej za pomocą środków komunikacji elektronicznej na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-3. Dane i informacje zgromadzone w ewidencji udostępnia się podmiotom, o których mowa w ust. 1, na wniosek złożony w postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, z wykorzystaniem systemu teleinformatycznego obsługującego ewidencję. 4.17) Główny Inspektor Nadzoru Budowlanego może wyrazić zgodę, w drodze decyzji, na udostępnienie danych i informacji zgromadzonych w ewidencji podmiotom, o których mowa w ust. 1, albo ich jednostkom organizacyjnym, za pomocą urządzeń teletransmisji danych, bez konieczności składania elektronicznego wniosku, o którym mowa w ust. 3, jeżeli spełniają łącznie następujące warunki:
+3. Dane i informacje zgromadzone w ewidencji udostępnia się podmiotom, o których mowa w ust. 1, na wniosek złożony w postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, z wykorzystaniem systemu teleinformatycznego obsługującego ewidencję.
+
+4.[17)] Główny Inspektor Nadzoru Budowlanego może wyrazić zgodę, w drodze decyzji, na udostępnienie danych i informacji zgromadzonych w ewidencji podmiotom, o których mowa w ust. 1, albo ich jednostkom organizacyjnym, za pomocą urządzeń teletransmisji danych, bez konieczności składania elektronicznego wniosku, o którym mowa w ust. 3, jeżeli spełniają łącznie następujące warunki:
 
 1) posiadają urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane i informacje uzyskał;
 
@@ -1444,7 +1464,9 @@ b) pozbywania się nieczystości ciekłych – sporządza protokół, o którym 
 
 6) zakres kontroli, w tym wskazanie nieprawidłowości, jeżeli zostały stwierdzone;
 
-7) pouczenia o prawie kontrolowanego do otrzymania protokołu kontroli, wnoszenia zastrzeżeń i uwag wraz z uzasadnieniem oraz możliwości odmowy jego podpisania. 3.17) Główny Inspektor Nadzoru Budowlanego w porozumieniu z ministrem właściwym do spraw klimatu określi wzór protokołu, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+7) pouczenia o prawie kontrolowanego do otrzymania protokołu kontroli, wnoszenia zastrzeżeń i uwag wraz z uzasadnieniem oraz możliwości odmowy jego podpisania.
+
+3.[17)] Główny Inspektor Nadzoru Budowlanego w porozumieniu z ministrem właściwym do spraw klimatu określi wzór protokołu, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 ### Art. 27g.
 
@@ -1472,7 +1494,9 @@ b) pozbywania się nieczystości ciekłych – sporządza protokół, o którym 
 
 4. W przypadku zmiany danych, o których mowa w ust. 3 pkt 5, właściciel lub zarządca budynku lub lokalu jest obowiązany złożyć nową deklarację w terminie 14 dni od dnia, w którym zaistniała zmiana.
 
-5. W terminie 30 dni od dnia otrzymania deklaracji w postaci pisemnej wójt, burmistrz lub prezydent miasta wprowadza do ewidencji dane i informacje zawarte w deklaracji z wykorzystaniem systemu teleinformatycznego obsługującego ewidencję. 6.17) Główny Inspektor Nadzoru Budowlanego w porozumieniu z ministrem właściwym do spraw klimatu określi wzór formularza deklaracji w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+5. W terminie 30 dni od dnia otrzymania deklaracji w postaci pisemnej wójt, burmistrz lub prezydent miasta wprowadza do ewidencji dane i informacje zawarte w deklaracji z wykorzystaniem systemu teleinformatycznego obsługującego ewidencję.
+
+6.[17)] Główny Inspektor Nadzoru Budowlanego w porozumieniu z ministrem właściwym do spraw klimatu określi wzór formularza deklaracji w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 ### Rozdział 5b. Przepis karny
 
@@ -1549,7 +1573,6 @@ mᵢ – wyrażony liczbą miesięcy okres, w którym obowiązywały w stosunku 
 Liczbę miesięcy zaokrągla się do pełnych miesięcy w górę.
 
 Wynik obliczeń wysokości premii kompensacyjnej zaokrągla się do pełnych złotych w górę.
-
 
 
 ## Przypisy

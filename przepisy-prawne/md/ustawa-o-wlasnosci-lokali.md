@@ -16,7 +16,11 @@ Ilekroć w ustawie jest mowa o właścicielu lokalu, należy przez to rozumieć 
 
 ### Art. 2.
 
-1. Samodzielny lokal mieszkalny, a także lokal o innym przeznaczeniu, zwane dalej „lokalami”, mogą stanowić odrębne nieruchomości. 1a.1) Ustanowienie odrębnej własności samodzielnego lokalu następuje zgodnie z ustaleniami miejscowego planu zagospodarowania przestrzennego albo treścią decyzji o warunkach zabudowy i zagospodarowania terenu albo uchwały o ustaleniu lokalizacji inwestycji mieszkaniowej oraz zgodnie z pozwoleniem na budowę albo skutecznie dokonanym zgłoszeniem, i zgodnie z pozwoleniem na użytkowanie albo skutecznie dokonanym zawiadomieniem o zakończeniu budowy. 1a.2) Ustanowienie odrębnej własności samodzielnego lokalu następuje zgodnie z ustaleniami miejscowego planu zagospodarowania przestrzennego albo treścią decyzji o warunkach zabudowy i zagospodarowania terenu oraz zgodnie z pozwoleniem na budowę albo skutecznie dokonanym zgłoszeniem, i zgodnie z pozwoleniem na użytkowanie albo skutecznie dokonanym zawiadomieniem o zakończeniu budowy.
+1. Samodzielny lokal mieszkalny, a także lokal o innym przeznaczeniu, zwane dalej „lokalami”, mogą stanowić odrębne nieruchomości.
+
+1a.[1)] Ustanowienie odrębnej własności samodzielnego lokalu następuje zgodnie z ustaleniami miejscowego planu zagospodarowania przestrzennego albo treścią decyzji o warunkach zabudowy i zagospodarowania terenu albo uchwały o ustaleniu lokalizacji inwestycji mieszkaniowej oraz zgodnie z pozwoleniem na budowę albo skutecznie dokonanym zgłoszeniem, i zgodnie z pozwoleniem na użytkowanie albo skutecznie dokonanym zawiadomieniem o zakończeniu budowy.
+
+1a.[2)] Ustanowienie odrębnej własności samodzielnego lokalu następuje zgodnie z ustaleniami miejscowego planu zagospodarowania przestrzennego albo treścią decyzji o warunkach zabudowy i zagospodarowania terenu oraz zgodnie z pozwoleniem na budowę albo skutecznie dokonanym zgłoszeniem, i zgodnie z pozwoleniem na użytkowanie albo skutecznie dokonanym zawiadomieniem o zakończeniu budowy.
 
 1b. Przepisu ust. 1a nie stosuje się do budynków istniejących przed dniem 1 stycznia 1995 r. lub wybudowanych na podstawie pozwolenia na budowę wydanego przed tą datą.
 
@@ -196,7 +200,9 @@ Jeżeli liczba lokali wyodrębnionych i lokali niewyodrębnionych, należących 
 
 1. Zarząd kieruje sprawami wspólnoty mieszkaniowej i reprezentuje ją na zewnątrz oraz w stosunkach między wspólnotą a poszczególnymi właścicielami lokali.
 
-2. Gdy zarząd jest kilkuosobowy, oświadczenia woli za wspólnotę mieszkaniową składają przynajmniej dwaj jego członkowie. 3.3) Zarząd na podstawie pełnomocnictwa, o którym mowa w art. 22 ust. 2, składa oświadczenia w celu wykonania uchwał w sprawach, o których mowa w art. 22 ust. 3 pkt 5, 5a i 6 oraz w art. 32a, ze skutkiem w stosunku do właścicieli wszystkich lokali.
+2. Gdy zarząd jest kilkuosobowy, oświadczenia woli za wspólnotę mieszkaniową składają przynajmniej dwaj jego członkowie.
+
+3.[3)] Zarząd na podstawie pełnomocnictwa, o którym mowa w art. 22 ust. 2, składa oświadczenia w celu wykonania uchwał w sprawach, o których mowa w art. 22 ust. 3 pkt 5, 5a i 6 oraz w art. 32a, ze skutkiem w stosunku do właścicieli wszystkich lokali.
 
 4. (uchylony)
 
@@ -334,7 +340,9 @@ b) zwoływane są na wniosek właścicieli lokali dysponujących co najmniej 1/1
 
 Jeżeli grunt wchodzący w skład nieruchomości wspólnej nie spełnia wymogów przewidzianych dla działki budowlanej, uniemożliwiając prawidłowe i racjonalne korzystanie z budynków i urządzeń z nimi związanych, zarząd lub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, jest obowiązany przedstawić właścicielom lokali projekty uchwał w sprawie:
 
-1) wyrażenia zgody na nabycie przyległych nieruchomości gruntowych umożliwiających spełnienie wymogów przewidzianych dla działek budowlanych; 2)4) udzielenia zarządowi lub zarządcy, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, pełnomocnictwa do wykonania odpowiednich, prawem przewidzianych, czynności zmierzających do nabycia przyległych nieruchomości gruntowych na rzecz właścicieli lokali.
+1) wyrażenia zgody na nabycie przyległych nieruchomości gruntowych umożliwiających spełnienie wymogów przewidzianych dla działek budowlanych;
+
+2)[4)] udzielenia zarządowi lub zarządcy, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, pełnomocnictwa do wykonania odpowiednich, prawem przewidzianych, czynności zmierzających do nabycia przyległych nieruchomości gruntowych na rzecz właścicieli lokali.
 
 ### Art. 33.
 

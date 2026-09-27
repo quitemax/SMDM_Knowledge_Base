@@ -210,7 +210,9 @@ W sprawach nieuregulowanych w ustawie prawa i obowiązki członków spółdzieln
 
 1[1]) (uchylony)
 
-2) zawierania z członkami, którym przysługują spółdzielcze prawa do lokali, umów o przeniesienie własności lokali, 3)2) wnoszenia, ustalania i waloryzacji wkładu mieszkaniowego i budowlanego,
+2) zawierania z członkami, którym przysługują spółdzielcze prawa do lokali, umów o przeniesienie własności lokali,
+
+3)[2)] wnoszenia, ustalania i waloryzacji wkładu mieszkaniowego i budowlanego,
 
 4) rozliczeń z tytułu dodatkowego wyposażenia lokalu,
 
@@ -240,13 +242,23 @@ W sprawach nieuregulowanych w ustawie prawa i obowiązki członków spółdzieln
 
 1. Walne zgromadzenie spółdzielni mieszkaniowej nie może być zastąpione przez zebranie przedstawicieli, jednakże, jeżeli statut tak stanowi, w przypadku gdy liczba członków spółdzielni mieszkaniowej przekroczy 500, walne zgromadzenie może być podzielone na części. Rada nadzorcza ustala zasady zaliczania członków do poszczególnych części walnego zgromadzenia z tym, że nie można zaliczyć członków uprawnionych do lokali znajdujących się w obrębie jednej nieruchomości do różnych części walnego zgromadzenia.
 
-1[1]. Członek spółdzielni może uczestniczyć w walnym zgromadzeniu osobiście albo przez pełnomocnika. Pełnomocnik nie może zastępować więcej niż jednego członka. Pełnomocnictwo powinno być udzielone na piśmie pod rygorem nieważności i dołączone do protokołu walnego zgromadzenia. Lista pełnomocnictw podlega odczytaniu po rozpoczęciu walnego zgromadzenia. Przepisu art. 36 § 3 zdanie pierwsze ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze nie stosuje się. 1[2].3) Pełnomocnikiem członka spółdzielni będącego osobą fizyczną może być:
+1[1]. Członek spółdzielni może uczestniczyć w walnym zgromadzeniu osobiście albo przez pełnomocnika. Pełnomocnik nie może zastępować więcej niż jednego członka. Pełnomocnictwo powinno być udzielone na piśmie pod rygorem nieważności i dołączone do protokołu walnego zgromadzenia. Lista pełnomocnictw podlega odczytaniu po rozpoczęciu walnego zgromadzenia. Przepisu art. 36 § 3 zdanie pierwsze ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze nie stosuje się.
+
+1[2].[3)] Pełnomocnikiem członka spółdzielni będącego osobą fizyczną może być:
 
 1) osoba bliska członka z wyłączeniem osób pozostających faktycznie we wspólnym pożyciu;
 
 2) adwokat lub radca prawny;
 
-3) inny członek tej samej spółdzielni. 1[3].3) Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27[3a], że spełnia wymóg, o którym mowa w ust. 1[2] pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. 1[4].3) Pełnomocnictwo udzielone osobie bliskiej bez dołączonego oświadczenia, o którym mowa w ust. 1[3] zdanie pierwsze, jest nieważne. 1[5].3) Członek spółdzielni lub pełnomocnik jest obowiązany do doręczenia spółdzielni pełnomocnictwa, a w przypadku gdy pełnomocnikiem jest osoba bliska członka – również oświadczenia, o którym mowa w ust. 1[3] zdanie pierwsze, niepóźniej niż 3 dni przed terminem posiedzenia walnego zgromadzenia lub jego pierwszej części. 1[6].3) Pełnomocnik nie może brać udziału w głosowaniu, którego przedmiotem jest wybór i odwołanie członków rady nadzorczej lub członków zarządu spółdzielni.
+3) inny członek tej samej spółdzielni.
+
+1[3].[3)] Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27[3a], że spełnia wymóg, o którym mowa w ust. 1[2] pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
+
+1[4].[3)] Pełnomocnictwo udzielone osobie bliskiej bez dołączonego oświadczenia, o którym mowa w ust. 1[3] zdanie pierwsze, jest nieważne.
+
+1[5].[3)] Członek spółdzielni lub pełnomocnik jest obowiązany do doręczenia spółdzielni pełnomocnictwa, a w przypadku gdy pełnomocnikiem jest osoba bliska członka – również oświadczenia, o którym mowa w ust. 1[3] zdanie pierwsze, niepóźniej niż 3 dni przed terminem posiedzenia walnego zgromadzenia lub jego pierwszej części.
+
+1[6].[3)] Pełnomocnik nie może brać udziału w głosowaniu, którego przedmiotem jest wybór i odwołanie członków rady nadzorczej lub członków zarządu spółdzielni.
 
 2. Zarząd zwołuje walne zgromadzenie przynajmniej raz w roku w ciągu 6 miesięcy po upływie roku obrachunkowego.
 
@@ -354,7 +366,9 @@ Spółdzielcze lokatorskie prawo do lokalu mieszkalnego dla lokalu mieszkalnego 
 
 2[2]. Z wartości rynkowej lokalu potrąca się przypadającą na dany lokal część zobowiązań spółdzielni związanych z budową, o których mowa w art. 10 ust. 1 pkt 1, w tym w szczególności niewniesiony wkład mieszkaniowy. Jeżeli spółdzielnia skorzystała z pomocy uzyskanej ze środków publicznych lub z innych środków, potrąca się również nominalną kwotę umorzenia kredytu lub dotacji, w części przypadającej na ten lokal oraz kwoty zaległych opłat, o których mowa w art. 4 ust. 1, a także koszty określenia wartości rynkowej lokalu.
 
-2[3]. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają osobę, na rzecz której spółdzielnia dokonuje przeniesienia własności lokalu. 2[4].6) Warunkiem wypłaty, o której mowa w ust. 2[1], jest opróżnienie lokalu.
+2[3]. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają osobę, na rzecz której spółdzielnia dokonuje przeniesienia własności lokalu.
+
+2[4].[6)] Warunkiem wypłaty, o której mowa w ust. 2[1], jest opróżnienie lokalu.
 
 2[5]. Przepisów ust. 2 nie stosuje się do lokali mieszkalnych wybudowanych przy wykorzystaniu finansowania zwrotnego, o którym mowa w przepisach ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa. Dla takich lokali, w przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, spółdzielnia mieszkaniowa może ustanowić spółdzielcze lokatorskie prawo do lokalu mieszkalnego wyłącznie na rzecz osób spełniających warunki, o których mowa w art. 30 ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
 

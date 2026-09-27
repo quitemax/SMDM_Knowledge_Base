@@ -24,7 +24,7 @@ prawnej). Jedno ograniczenie znane: w
 w razie potrzeby trzeba sprawdzić PDF.
 
 Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(14 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+(15 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
 `ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
 `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`,
@@ -32,9 +32,9 @@ Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja
 `ustawa-o-spoldzielniach-mieszkaniowych`, `ustawa-o-ochronie-przeciwpozarowej`,
 `ustawa-prawo-spoldzielcze`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605`,
 `kodeks-cywilny`, `rozporzadzenie-audyt-energetyczny`,
-`rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`), przez własny skrypt
-(PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i jak skrypt sobie
-z nimi radzi:
+`rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`, `ustawa-o-rachunkowosci`),
+przez własny skrypt (PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i
+jak skrypt sobie z nimi radzi:
 - **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
   zakodowana w PDF jako inne, niepowiązane symbole (np. „ł”→„∏”, „ń”→„ƒ”, „ś”→„Ê”) —
   wykryte i skorygowane automatycznie (bezpieczne, bo te symbole nigdy nie występują w
@@ -124,8 +124,20 @@ z nimi radzi:
   „1)”) mógł się pojawić dwa razy z niemal identyczną, ale nie identyczną treścią — skrypt
   teraz zachowuje tylko ostatnie (chronologicznie późniejsze, czyli należące do
   właściwego aktu) wystąpienie danego numeru przypisu.
+- **numer przypisu zlepiony z numerem punktu/ustępu** (np. „2)2) tekst”, „5.8) tekst”):
+  gdy nowelizacja dodaje przypis do istniejącego punktu listy, numer przypisu bywa
+  wydrukowany bezpośrednio po numerze punktu bez odstępu, co czytało się jak
+  zdublowany/błędny numer punktu — skrypt rozpoznaje ten wzorzec i nawiasuje numer
+  przypisu (`2)[2)] tekst`), żeby było jasne, że to dwa różne numery.
+- **`Załącznik nr N` jako nagłówek**: skrypt teraz rozpoznaje podpis załącznika jako
+  osobny nagłówek (dopasowanie z rozróżnianiem wielkości liter, żeby nie łapać zwykłych,
+  małą literą pisanych odwołań w zdaniu typu „określa załącznik nr 5 do ustawy”) i, jeśli
+  następny akapit to krótki (<220 znaków), niebędący numerowaną pozycją tytuł, dołącza go
+  do nagłówka. Ten sam numer bywa zlepiony z numerem przypisu („Załącznik nr 119)” = nr 1
+  + przypis 19) — skrypt zakłada wtedy jednocyfrowy numer załącznika i nawiasuje przypis
+  osobno (`Załącznik nr 1[19)]`), a tytuł z kolejnego akapitu nadal poprawnie dołącza.
 
-Pozostałych 5 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
+Pozostałych 4 akty jeszcze nie sprawdzono pod kątem tych samych problemów.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
