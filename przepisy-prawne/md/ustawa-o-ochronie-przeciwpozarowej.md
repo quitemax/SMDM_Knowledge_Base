@@ -864,7 +864,11 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 ### Art. 14f.
 
-(uchylony) Art. 14fa.7) 1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
+(uchylony)
+
+### Art. 14fa. [7)]
+
+1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
 
 1) starostę (prezydenta miasta na prawach powiatu) – dla obszaru powiatu, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
 
@@ -924,7 +928,9 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 6. Kierownicy jednostek organizacyjnych Państwowej Straży Pożarnej udostępniają informację o ograniczeniach, o których mowa w ust. 2 i 3, w Biuletynie Informacji Publicznej na swoich stronach podmiotowych lub na swoich stronach internetowych oraz w widocznym miejscu w siedzibach jednostek.
 
-Art. 14ha. 1. Komendant Główny Państwowej Straży Pożarnej, komendanci wojewódzcy Państwowej Straży Pożarnej, komendanci powiatowi (miejscy) Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej i komendanci szkół Państwowej Straży Pożarnej są współadministratorami danych osobowych przetwarzanych w SWD PSP.
+### Art. 14ha.
+
+1. Komendant Główny Państwowej Straży Pożarnej, komendanci wojewódzcy Państwowej Straży Pożarnej, komendanci powiatowi (miejscy) Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej i komendanci szkół Państwowej Straży Pożarnej są współadministratorami danych osobowych przetwarzanych w SWD PSP.
 
 2. Komendant Główny Państwowej Straży Pożarnej ustala podział obowiązków współadministratorów, o których mowa w ust. 1, wynikających z przepisów rozporządzenia 2016/679.
 

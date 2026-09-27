@@ -166,7 +166,9 @@ f) adresach punktów zbierania odpadów folii, sznurka oraz opon, powstających 
 
 16) znakują obszary dotknięte lub zagrożone chorobą zakaźną zwierząt.
 
-2a. W razie wykonywania przez związek międzygminny zadań, o których mowa w ust. 2, określone w ustawie prawa i obowiązki organów gminy, w tym uchwalanie aktów prawa miejscowego, wykonują właściwe organy tego związku. 2aa. Punkty selektywnego zbierania odpadów komunalnych, o których mowa w ust. 2 pkt 6, mogą także zapewniać przyjmowanie opakowań i odpadów opakowaniowych objętych systemem kaucyjnym w rozumieniu art. 8 pkt 13a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927 i 1911) na podstawie umowy z podmiotem reprezentującym, o którym mowa w art. 40g ust. 2 tej ustawy.
+2a. W razie wykonywania przez związek międzygminny zadań, o których mowa w ust. 2, określone w ustawie prawa i obowiązki organów gminy, w tym uchwalanie aktów prawa miejscowego, wykonują właściwe organy tego związku.
+
+2aa. Punkty selektywnego zbierania odpadów komunalnych, o których mowa w ust. 2 pkt 6, mogą także zapewniać przyjmowanie opakowań i odpadów opakowaniowych objętych systemem kaucyjnym w rozumieniu art. 8 pkt 13a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927 i 1911) na podstawie umowy z podmiotem reprezentującym, o którym mowa w art. 40g ust. 2 tej ustawy.
 
 2b. Gmina jest obowiązana utworzyć co najmniej jeden stacjonarny punkt selektywnego zbierania odpadów komunalnych, samodzielnie lub wspólnie z inną gminą lub gminami, lub wspólnie ze związkiem metropolitalnym.
 
@@ -210,7 +212,11 @@ f) adresach punktów zbierania odpadów folii, sznurka oraz opon, powstających 
 
 ### Art. 3a.
 
-(uchylony) Art. 3aa. Gminy są obowiązane osiągnąć za rok 2020 poziom:
+(uchylony)
+
+### Art. 3aa.
+
+Gminy są obowiązane osiągnąć za rok 2020 poziom:
 
 1) przygotowania do ponownego użycia i recyklingu następujących frakcji odpadów komunalnych: papieru, metali, tworzyw sztucznych i szkła w wysokości co najmniej 50 % wagowo;
 
@@ -458,7 +464,11 @@ Wytwórcy odpadów komunalnych są obowiązani do selektywnego zbierania wytworz
 
 2) zgodność postanowień umów, o których mowa w ust. 1 pkt 2, z wymaganiami określonymi w regulaminie oraz ze sposobem określonym w przepisach wydanych na podstawie art. 4a ust. 1;
 
-3) dowody uiszczania opłat za usługi, o których mowa w ust. 1, lub inny sposób udokumentowania wykonania obowiązków, o których mowa w art. 5 ust. 1 pkt 3b. 5aa. Wójt, burmistrz lub prezydent miasta jest obowiązany prowadzić kontrolę, o której mowa w ust. 5a, co najmniej raz na dwa lata zgodnie z planem kontroli, określającym co najmniej wykaz podmiotów podlegających kontroli w okresie kontrolowanym. 5ab. Do kontroli, o której mowa w ust. 5a, stosuje się przepisy art. 379 i art. 380 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.3)).
+3) dowody uiszczania opłat za usługi, o których mowa w ust. 1, lub inny sposób udokumentowania wykonania obowiązków, o których mowa w art. 5 ust. 1 pkt 3b.
+
+5aa. Wójt, burmistrz lub prezydent miasta jest obowiązany prowadzić kontrolę, o której mowa w ust. 5a, co najmniej raz na dwa lata zgodnie z planem kontroli, określającym co najmniej wykaz podmiotów podlegających kontroli w okresie kontrolowanym.
+
+5ab. Do kontroli, o której mowa w ust. 5a, stosuje się przepisy art. 379 i art. 380 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.3)).
 
 5b. W przypadku gdy postanowienia umowy, o której mowa w ust. 1 pkt 2, nie spełniają wymagań, o których mowa w ust. 1c, wójt, burmistrz lub prezydent miasta wzywa strony umowy do usunięcia uchybień, w terminie określonym w tym wezwaniu.
 
@@ -636,7 +646,13 @@ Opłatę za gospodarowanie odpadami komunalnymi są obowiązani ponosić:
 
 3a. W przypadku nieruchomości, o której mowa w ust. 3, na której są świadczone usługi hotelarskie w rozumieniu art. 3 ust. 1 pkt 8 ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2023 r. poz. 1944), dopuszcza się, aby opłata za gospodarowanie odpadami komunalnymi stanowiła iloczyn ilości zużytej wody z danej nieruchomości oraz stawki opłaty za gospodarowanie odpadami komunalnymi, o której mowa w art. 6k ust. 1 pkt 3.
 
-3b. W przypadku nieruchomości, na której znajduje się domek letniskowy, lub innej nieruchomości wykorzystywanej na cele rekreacyjno-wypoczynkowe rada gminy uchwala ryczałtową stawkę opłaty za gospodarowanie odpadami komunalnymi nie wyższą niż 10 % przeciętnego miesięcznego dochodu rozporządzalnego na 1 osobę ogółem za rok od domku letniskowego na nieruchomości albo od innej nieruchomości wykorzystywanej na cele rekreacyjno-wypoczynkowe. 3ba. Rada gminy, w drodze uchwały stanowiącej akt prawa miejscowego, może nałożyć obowiązek ponoszenia przez właścicieli nieruchomości, na której znajduje się domek letniskowy, lub innej nieruchomości wykorzystywanej na cele rekreacyjno-wypoczynkowe opłaty za gospodarowanie odpadami komunalnymi w wysokości określonej zgodnie z ust. 3. 3bb. W przypadku podjęcia uchwały, o której mowa w ust. 3ba, przepisu ust. 3b nie stosuje się. 3bc. Uchwała, o której mowa w ust. 3b, może zostać podjęta lub zmieniona do końca kwietnia danego roku.
+3b. W przypadku nieruchomości, na której znajduje się domek letniskowy, lub innej nieruchomości wykorzystywanej na cele rekreacyjno-wypoczynkowe rada gminy uchwala ryczałtową stawkę opłaty za gospodarowanie odpadami komunalnymi nie wyższą niż 10 % przeciętnego miesięcznego dochodu rozporządzalnego na 1 osobę ogółem za rok od domku letniskowego na nieruchomości albo od innej nieruchomości wykorzystywanej na cele rekreacyjno-wypoczynkowe.
+
+3ba. Rada gminy, w drodze uchwały stanowiącej akt prawa miejscowego, może nałożyć obowiązek ponoszenia przez właścicieli nieruchomości, na której znajduje się domek letniskowy, lub innej nieruchomości wykorzystywanej na cele rekreacyjno-wypoczynkowe opłaty za gospodarowanie odpadami komunalnymi w wysokości określonej zgodnie z ust. 3.
+
+3bb. W przypadku podjęcia uchwały, o której mowa w ust. 3ba, przepisu ust. 3b nie stosuje się.
+
+3bc. Uchwała, o której mowa w ust. 3b, może zostać podjęta lub zmieniona do końca kwietnia danego roku.
 
 3c. (uchylony)
 
@@ -708,7 +724,11 @@ Opłatę za gospodarowanie odpadami komunalnymi są obowiązani ponosić:
 
 4c. Ponowne skorzystanie ze zwolnienia, o którym mowa w ust. 4a, może nastąpić nie wcześniej niż po upływie 6 miesięcy od dnia, w którym decyzja o utracie prawa do tego zwolnienia stała się ostateczna, i wymaga złożenia nowej deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi.
 
-5. Prezes Głównego Urzędu Statystycznego ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w pierwszym kwartale każdego roku przeciętny miesięczny dochód rozporządzalny na 1 osobę ogółem za rok poprzedni. Art. 6ka. 1. W przypadku niedopełnienia przez właściciela nieruchomości obowiązku selektywnego zbierania odpadów komunalnych, podmiot odbierający odpady komunalne przyjmuje je jako niesegregowane (zmieszane) odpady komunalne i powiadamia o tym wójta, burmistrza lub prezydenta miasta oraz właściciela nieruchomości.
+5. Prezes Głównego Urzędu Statystycznego ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w pierwszym kwartale każdego roku przeciętny miesięczny dochód rozporządzalny na 1 osobę ogółem za rok poprzedni.
+
+### Art. 6ka.
+
+1. W przypadku niedopełnienia przez właściciela nieruchomości obowiązku selektywnego zbierania odpadów komunalnych, podmiot odbierający odpady komunalne przyjmuje je jako niesegregowane (zmieszane) odpady komunalne i powiadamia o tym wójta, burmistrza lub prezydenta miasta oraz właściciela nieruchomości.
 
 2. Wójt, burmistrz lub prezydent miasta na podstawie powiadomienia, o którym mowa w ust. 1, wszczyna postępowanie w sprawie określenia wysokości opłaty za gospodarowanie odpadami komunalnymi.
 
@@ -736,7 +756,11 @@ Opłatę za gospodarowanie odpadami komunalnymi są obowiązani ponosić:
 
 2) podjęcia uchwały, o której mowa w art. 2a ust. 1, albo uchwały, o której mowa w art. 6c ust. 2.
 
-1a. Deklaracja zawiera dane niezbędne do określenia wysokości opłaty za gospodarowanie odpadami komunalnymi oraz wysokość opłaty za gospodarowanie odpadami komunalnymi. 1aa. W przypadku nieruchomości, na których nie zamieszkują mieszkańcy, rada gminy może wprowadzić możliwość wskazania w deklaracji częstotliwości odbioru odpadów komunalnych poszczególnych frakcji, z tym że w okresie od kwietnia do października częstotliwość odbierania niesegregowanych (zmieszanych) odpadów komunalnych oraz bioodpadów stanowiących odpady komunalne nie może być rzadsza niż określona w uchwale rady gminy, o której mowa w art. 6r ust. 3, a w przypadku jej nieokreślenia w uchwale – nie rzadsza niż raz na 2 tygodnie. 1ab. W przypadku nieruchomości, na której znajduje się domek letniskowy, lub innej nieruchomości wykorzystywanej na cele rekreacyjno-wypoczynkowe deklaracja może zawierać wskazanie okresów korzystania z nieruchomości.
+1a. Deklaracja zawiera dane niezbędne do określenia wysokości opłaty za gospodarowanie odpadami komunalnymi oraz wysokość opłaty za gospodarowanie odpadami komunalnymi.
+
+1aa. W przypadku nieruchomości, na których nie zamieszkują mieszkańcy, rada gminy może wprowadzić możliwość wskazania w deklaracji częstotliwości odbioru odpadów komunalnych poszczególnych frakcji, z tym że w okresie od kwietnia do października częstotliwość odbierania niesegregowanych (zmieszanych) odpadów komunalnych oraz bioodpadów stanowiących odpady komunalne nie może być rzadsza niż określona w uchwale rady gminy, o której mowa w art. 6r ust. 3, a w przypadku jej nieokreślenia w uchwale – nie rzadsza niż raz na 2 tygodnie.
+
+1ab. W przypadku nieruchomości, na której znajduje się domek letniskowy, lub innej nieruchomości wykorzystywanej na cele rekreacyjno-wypoczynkowe deklaracja może zawierać wskazanie okresów korzystania z nieruchomości.
 
 1b. Rada gminy określając wzór deklaracji może wymagać podania następujących danych:
 
@@ -754,7 +778,9 @@ Opłatę za gospodarowanie odpadami komunalnymi są obowiązani ponosić:
 
 7) informacje dotyczące posiadania kompostownika przydomowego i kompostowania w nim bioodpadów stanowiących odpady komunalne.
 
-1c. W przypadku nieruchomości zabudowanej budynkiem wielolokalowym, wspólnota mieszkaniowa lub spółdzielnia mieszkaniowa może żądać od właściciela lokalu, osoby, której służy spółdzielcze prawo do lokalu lub osoby faktycznie zamieszkującej lokal podania danych niezbędnych do ustalenia wysokości opłaty za gospodarowanie odpadami komunalnymi. 1ca. Dopuszcza się złożenie odrębnych deklaracji dla poszczególnych budynków lub ich części w przypadku nieruchomości zabudowanej budynkiem wielolokalowym lub budynkami wielolokalowymi, jeżeli poszczególne budynki lub ich części posiadają przyporządkowane im oddzielne miejsca gromadzenia odpadów komunalnych.
+1c. W przypadku nieruchomości zabudowanej budynkiem wielolokalowym, wspólnota mieszkaniowa lub spółdzielnia mieszkaniowa może żądać od właściciela lokalu, osoby, której służy spółdzielcze prawo do lokalu lub osoby faktycznie zamieszkującej lokal podania danych niezbędnych do ustalenia wysokości opłaty za gospodarowanie odpadami komunalnymi.
+
+1ca. Dopuszcza się złożenie odrębnych deklaracji dla poszczególnych budynków lub ich części w przypadku nieruchomości zabudowanej budynkiem wielolokalowym lub budynkami wielolokalowymi, jeżeli poszczególne budynki lub ich części posiadają przyporządkowane im oddzielne miejsca gromadzenia odpadów komunalnych.
 
 1d. Wysokość zobowiązania określonego w deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi obowiązuje za kolejne miesiące do czasu korekty deklaracji lub zmiany stawki opłat za gospodarowanie odpadami komunalnymi, z zastrzeżeniem art. 6o.
 
@@ -822,7 +848,11 @@ c) rodzaje podpisu elektronicznego, którym powinny być opatrzone.
 
 2. Kwota opłaty za gospodarowanie odpadami komunalnymi nie podlega zaokrągleniu.
 
-3. (uchylony) Art. 6qa. 1. Właściwy organ gminy, do której nie stosuje się art. 19 § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, może wykonywać zadania z zakresu egzekucji administracyjnej należności pieniężnych z tytułu opłaty za gospodarowanie odpadami komunalnymi na podstawie porozumienia z naczelnikiem urzędu skarbowego. Porozumienie nie może dotyczyć prowadzenia egzekucji należności pieniężnych z nieruchomości.
+3. (uchylony)
+
+### Art. 6qa.
+
+1. Właściwy organ gminy, do której nie stosuje się art. 19 § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, może wykonywać zadania z zakresu egzekucji administracyjnej należności pieniężnych z tytułu opłaty za gospodarowanie odpadami komunalnymi na podstawie porozumienia z naczelnikiem urzędu skarbowego. Porozumienie nie może dotyczyć prowadzenia egzekucji należności pieniężnych z nieruchomości.
 
 2. Przepis ust. 1 stosuje się odpowiednio do zarządu związku międzygminnego w przypadku przejęcia przez ten związek zadań gminy, o których mowa w art. 3 ust. 2, w zakresie gospodarowania odpadami komunalnymi.
 
@@ -834,7 +864,11 @@ c) rodzaje podpisu elektronicznego, którym powinny być opatrzone.
 
 1. Opłata za gospodarowanie odpadami komunalnymi stanowi dochód gminy.
 
-1a. W przypadku przejęcia przez związek międzygminny zadań gminy, o których mowa w art. 3 ust. 2 w zakresie gospodarowania odpadami komunalnymi, opłaty za gospodarowanie odpadami komunalnymi stanowią dochód związku międzygminnego w całości lub w części odpowiednio do zakresu przejętych zadań. 1aa. Środki z opłaty za gospodarowanie odpadami komunalnymi nie mogą być wykorzystane na cele niezwiązane z pokrywaniem kosztów funkcjonowania systemu gospodarowania odpadami komunalnymi. 1ab. Środki pochodzące z opłat za gospodarowanie odpadami komunalnymi odpowiednio gmina lub związek międzygminny gromadzą na wyodrębnionym rachunku bankowym.
+1a. W przypadku przejęcia przez związek międzygminny zadań gminy, o których mowa w art. 3 ust. 2 w zakresie gospodarowania odpadami komunalnymi, opłaty za gospodarowanie odpadami komunalnymi stanowią dochód związku międzygminnego w całości lub w części odpowiednio do zakresu przejętych zadań.
+
+1aa. Środki z opłaty za gospodarowanie odpadami komunalnymi nie mogą być wykorzystane na cele niezwiązane z pokrywaniem kosztów funkcjonowania systemu gospodarowania odpadami komunalnymi.
+
+1ab. Środki pochodzące z opłat za gospodarowanie odpadami komunalnymi odpowiednio gmina lub związek międzygminny gromadzą na wyodrębnionym rachunku bankowym.
 
 1b. (uchylony)
 
@@ -848,13 +882,17 @@ c) rodzaje podpisu elektronicznego, którym powinny być opatrzone.
 
 4) edukacji ekologicznej w zakresie prawidłowego postępowania z odpadami komunalnymi.
 
-2a. Z pobranych opłat za gospodarowanie odpadami komunalnymi gmina może pokryć koszty wyposażenia nieruchomości w pojemniki lub worki do zbierania odpadów komunalnych oraz koszty utrzymywania pojemników w odpowiednim stanie sanitarnym, porządkowym i technicznym. 2aa. Z pobranych opłat za gospodarowanie odpadami komunalnymi gmina może pokryć koszty utworzenia i utrzymania punktów napraw i ponownego użycia produktów lub części produktów niebędących odpadami.
+2a. Z pobranych opłat za gospodarowanie odpadami komunalnymi gmina może pokryć koszty wyposażenia nieruchomości w pojemniki lub worki do zbierania odpadów komunalnych oraz koszty utrzymywania pojemników w odpowiednim stanie sanitarnym, porządkowym i technicznym.
+
+2aa. Z pobranych opłat za gospodarowanie odpadami komunalnymi gmina może pokryć koszty utworzenia i utrzymania punktów napraw i ponownego użycia produktów lub części produktów niebędących odpadami.
 
 2b. Z pobranych opłat za gospodarowanie odpadami komunalnymi gmina może pokryć koszty usunięcia odpadów komunalnych z miejsc nieprzeznaczonych do ich składowania i magazynowania w rozumieniu ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
 2c. Środki pochodzące z opłat za gospodarowanie odpadami komunalnymi, które nie zostały wykorzystane w poprzednim roku budżetowym, gmina wykorzystuje na pokrycie kosztów funkcjonowania systemu gospodarowania odpadami komunalnymi, w tym kosztów, o których mowa w ust. 2a, 2aa i 2b, a także kosztów wyposażenia terenów przeznaczonych do użytku publicznego w pojemniki lub worki, przeznaczone do zbierania odpadów komunalnych, ich opróżnianie oraz utrzymywanie tych pojemników w odpowiednim stanie sanitarnym, porządkowym i technicznym oraz organizacji i utrzymania w odpowiednim stanie sanitarnym i porządkowym miejsc gromadzenia odpadów.
 
-2d. W zamian za pobraną opłatę za gospodarowanie odpadami komunalnymi gmina zapewnia właścicielom nieruchomości pozbywanie się wszystkich rodzajów odpadów komunalnych, przy czym rozumie się przez to odbieranie odpadów z terenu nieruchomości, o których mowa w art. 6c ust. 1 i 2, przyjmowanie odpadów, o których mowa w art. 3 ust. 2 pkt 6, przez punkty selektywnego zbierania odpadów komunalnych oraz zapewnianie przyjmowania tych odpadów przez gminę w inny sposób. 2da. Rada gminy może postanowić, w drodze uchwały, o pokryciu części kosztów gospodarowania odpadami komunalnymi z dochodów własnych niepochodzących z pobranej opłaty za gospodarowanie odpadami komunalnymi, w przypadku gdy:
+2d. W zamian za pobraną opłatę za gospodarowanie odpadami komunalnymi gmina zapewnia właścicielom nieruchomości pozbywanie się wszystkich rodzajów odpadów komunalnych, przy czym rozumie się przez to odbieranie odpadów z terenu nieruchomości, o których mowa w art. 6c ust. 1 i 2, przyjmowanie odpadów, o których mowa w art. 3 ust. 2 pkt 6, przez punkty selektywnego zbierania odpadów komunalnych oraz zapewnianie przyjmowania tych odpadów przez gminę w inny sposób.
+
+2da. Rada gminy może postanowić, w drodze uchwały, o pokryciu części kosztów gospodarowania odpadami komunalnymi z dochodów własnych niepochodzących z pobranej opłaty za gospodarowanie odpadami komunalnymi, w przypadku gdy:
 
 1) środki pozyskane z opłat za gospodarowanie odpadami komunalnymi są niewystarczające na pokrycie kosztów funkcjonowania systemu gospodarowania odpadami komunalnymi, w tym kosztów, o których mowa w ust. 2–2c, lub
 
@@ -864,7 +902,9 @@ c) rodzaje podpisu elektronicznego, którym powinny być opatrzone.
 
 3. Rada gminy określi, w drodze uchwały stanowiącej akt prawa miejscowego, szczegółowy sposób i zakres świadczenia usług w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości i zagospodarowania tych odpadów, w zamian za uiszczoną przez właściciela nieruchomości opłatę za gospodarowanie odpadami komunalnymi, w szczególności częstotliwość odbierania odpadów komunalnych od właściciela nieruchomości i sposób świadczenia usług przez punkty selektywnego zbierania odpadów komunalnych.
 
-3a. W uchwale, o której mowa w ust. 3, dopuszcza się ograniczenie ilości zużytych opon, odpadów wielkogabarytowych i odpadów stanowiących części roślin pochodzących z pielęgnacji terenów zielonych, ogrodów, parków i cmentarzy, stanowiących odpady komunalne, oraz odpadów budowlanych i rozbiórkowych z gospodarstw domowych, odbieranych lub przyjmowanych przez punkty selektywnego zbierania odpadów komunalnych od właścicieli nieruchomości w zamian za pobraną opłatę za gospodarowanie odpadami komunalnymi. 3aa. Ograniczenie może dotyczyć także ilości innych niż wymienione w ust. 3a bioodpadów stanowiących odpady komunalne odbieranych lub przyjmowanych przez punkty selektywnego zbierania odpadów komunalnych od właścicieli nieruchomości, na których nie zamieszkują mieszkańcy a na których prowadzona jest działalność w zakresie gastronomii, w tym restauracje, stołówki i zakłady zbiorowego żywienia, hurtownie, jednostki handlu detalicznego, a także podobnych odpadów z zakładów produkujących lub wprowadzających do obrotu żywność. W uchwale, o której mowa w ust. 3, gmina określi rodzaje działalności prowadzonej na nieruchomościach, na których nie zamieszkują mieszkańcy, których dotyczy to ograniczenie.
+3a. W uchwale, o której mowa w ust. 3, dopuszcza się ograniczenie ilości zużytych opon, odpadów wielkogabarytowych i odpadów stanowiących części roślin pochodzących z pielęgnacji terenów zielonych, ogrodów, parków i cmentarzy, stanowiących odpady komunalne, oraz odpadów budowlanych i rozbiórkowych z gospodarstw domowych, odbieranych lub przyjmowanych przez punkty selektywnego zbierania odpadów komunalnych od właścicieli nieruchomości w zamian za pobraną opłatę za gospodarowanie odpadami komunalnymi.
+
+3aa. Ograniczenie może dotyczyć także ilości innych niż wymienione w ust. 3a bioodpadów stanowiących odpady komunalne odbieranych lub przyjmowanych przez punkty selektywnego zbierania odpadów komunalnych od właścicieli nieruchomości, na których nie zamieszkują mieszkańcy a na których prowadzona jest działalność w zakresie gastronomii, w tym restauracje, stołówki i zakłady zbiorowego żywienia, hurtownie, jednostki handlu detalicznego, a także podobnych odpadów z zakładów produkujących lub wprowadzających do obrotu żywność. W uchwale, o której mowa w ust. 3, gmina określi rodzaje działalności prowadzonej na nieruchomościach, na których nie zamieszkują mieszkańcy, których dotyczy to ograniczenie.
 
 3b. Dopuszcza się zróżnicowanie częstotliwości odbierania odpadów, w szczególności w zależności od ilości wytwarzanych odpadów i ich rodzajów, z tym że w okresie od kwietnia do października częstotliwość odbierania niesegregowanych (zmieszanych) odpadów komunalnych oraz bioodpadów stanowiących odpady komunalne nie może być rzadsza niż raz na tydzień z budynków wielolokalowych i nie rzadsza niż raz na dwa tygodnie z budynków mieszkalnych jednorodzinnych, z wyłączeniem gmin wiejskich oraz części wiejskiej gmin miejsko-wiejskich, w przypadku których częstotliwość odbierania niesegregowanych (zmieszanych) odpadów komunalnych oraz bioodpadów stanowiących odpady komunalne może być rzadsza.
 
@@ -872,7 +912,11 @@ c) rodzaje podpisu elektronicznego, którym powinny być opatrzone.
 
 3d. Uchwała, o której mowa w ust. 3, określa także tryb i sposób zgłaszania przez właścicieli nieruchomości przypadków niewłaściwego świadczenia usług przez przedsiębiorcę odbierającego odpady komunalne od właścicieli nieruchomości lub przez prowadzącego punkt selektywnego zbierania odpadów komunalnych.
 
-4. Rada gminy może określić, w drodze uchwały stanowiącej akt prawa miejscowego, rodzaje dodatkowych usług świadczonych przez gminę w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości i zagospodarowania tych odpadów, sposób ich świadczenia oraz wysokość cen za te usługi. Art. 6ra. 1. Rada gminy może postanowić, w drodze uchwały, o odpłatnym przyjmowaniu przez punkty selektywnego zbierania odpadów komunalnych odpadów z działalności rolniczej niestanowiących odpadów komunalnych.
+4. Rada gminy może określić, w drodze uchwały stanowiącej akt prawa miejscowego, rodzaje dodatkowych usług świadczonych przez gminę w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości i zagospodarowania tych odpadów, sposób ich świadczenia oraz wysokość cen za te usługi.
+
+### Art. 6ra.
+
+1. Rada gminy może postanowić, w drodze uchwały, o odpłatnym przyjmowaniu przez punkty selektywnego zbierania odpadów komunalnych odpadów z działalności rolniczej niestanowiących odpadów komunalnych.
 
 2. W uchwale, o której mowa w ust. 1, rada gminy określa rodzaje odpadów z działalności rolniczej przyjmowanych przez punkty selektywnego zbierania odpadów komunalnych oraz może określić maksymalną masę odpadów lub ilość sztuk odpadów przyjmowanych z gospodarstwa rolnego.
 
@@ -978,7 +1022,9 @@ W przypadku gdy gmina nie realizuje obowiązku odbierania odpadów komunalnych o
 
 6) inne wymagania szczególne wynikające z odrębnych przepisów, w tym wymagania dotyczące standardu sanitarnego wykonywania usług, ochrony środowiska i obowiązku prowadzenia odpowiedniej dokumentacji działalności objętej zezwoleniem.
 
-1a. (uchylony) 1aa. Zezwolenie na opróżnianie zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transport nieczystości ciekłych powinno wskazywać stacje zlewne, do których nieczystości ciekłe będą dostarczane.
+1a. (uchylony)
+
+1aa. Zezwolenie na opróżnianie zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transport nieczystości ciekłych powinno wskazywać stacje zlewne, do których nieczystości ciekłe będą dostarczane.
 
 1b. Zezwolenie wydaje się na czas oznaczony, nie dłuższy niż 10 lat.
 
@@ -1024,7 +1070,11 @@ W przypadku gdy gmina nie realizuje obowiązku odbierania odpadów komunalnych o
 
 5) numer rejestrowy.
 
-5. Wójt, burmistrz lub prezydent miasta wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru. Art. 9ba. 1. Wójt, burmistrz lub prezydent miasta prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+5. Wójt, burmistrz lub prezydent miasta wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru.
+
+### Art. 9ba.
+
+1. Wójt, burmistrz lub prezydent miasta prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
 
 2. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych.
 
@@ -1068,9 +1118,17 @@ W przypadku gdy gmina nie realizuje obowiązku odbierania odpadów komunalnych o
 
 9. Wójt, burmistrz lub prezydent miasta przekazuje marszałkowi województwa wykaz podmiotów wpisanych w danym roku do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości oraz wykreślonych z tego rejestru, zawierający dane, o których mowa w art. 9b ust. 4.
 
-10. Wykaz, o którym mowa w ust. 9, jest przekazywany do końca stycznia następnego roku po okresie objętym wykazem. Art. 9ca. 1. Wójt, burmistrz lub prezydent miasta jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu wniosku o wpis wraz z dokumentami, o których mowa w art. 9c ust. 4.
+10. Wykaz, o którym mowa w ust. 9, jest przekazywany do końca stycznia następnego roku po okresie objętym wykazem.
 
-2. Jeżeli wójt, burmistrz lub prezydent miasta nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy organ wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis. Art. 9cb. Wójt, burmistrz lub prezydent miasta wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+### Art. 9ca.
+
+1. Wójt, burmistrz lub prezydent miasta jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu wniosku o wpis wraz z dokumentami, o których mowa w art. 9c ust. 4.
+
+2. Jeżeli wójt, burmistrz lub prezydent miasta nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy organ wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+
+### Art. 9cb.
+
+Wójt, burmistrz lub prezydent miasta wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
 
 ### Art. 9d.
 
@@ -1102,7 +1160,11 @@ W przypadku gdy gmina nie realizuje obowiązku odbierania odpadów komunalnych o
 
 1d. Dopuszcza się przekazywanie niesegregowanych (zmieszanych) odpadów komunalnych do termicznego przekształcania, jeżeli gmina, z której są odbierane te odpady, prowadzi selektywne zbieranie odpadów zgodnie z przepisami wydanymi na podstawie art. 4a.
 
-2. Zakazuje się mieszania selektywnie zebranych odpadów komunalnych z niesegregowanymi (zmieszanymi) odpadami komunalnymi odbieranymi od właścicieli nieruchomości oraz selektywnie zebranych odpadów komunalnych różnych rodzajów ze sobą. Art. 9ea. Podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych jest obowiązany do:
+2. Zakazuje się mieszania selektywnie zebranych odpadów komunalnych z niesegregowanymi (zmieszanymi) odpadami komunalnymi odbieranymi od właścicieli nieruchomości oraz selektywnie zebranych odpadów komunalnych różnych rodzajów ze sobą.
+
+### Art. 9ea.
+
+Podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych jest obowiązany do:
 
 1) przekazywania, bezpośrednio lub za pośrednictwem innego zbierającego odpady, selektywnie zebranych odpadów komunalnych do instalacji odzysku lub unieszkodliwiania odpadów, zgodnie z hierarchią sposobów postępowania z odpadami, o której mowa w art. 17 ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
@@ -1160,7 +1222,11 @@ W przypadku zakończenia działalności polegającej na odbieraniu odpadów komu
 
 6) przedsiębiorca nie złożył sprawozdania, o którym mowa w art. 9n, w terminie 365 dni od terminu wskazanego w art. 9n ust. 2.
 
-3. Wykreślenie z rejestru w przypadkach określonych w ust. 2 pkt 2 i 4 następuje w drodze decyzji. Art. 9ja. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wykreślenia z rejestru z powodów, o których mowa w art. 9j ust. 1 lub ust. 2 pkt 4.
+3. Wykreślenie z rejestru w przypadkach określonych w ust. 2 pkt 2 i 4 następuje w drodze decyzji.
+
+### Art. 9ja.
+
+Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wykreślenia z rejestru z powodów, o których mowa w art. 9j ust. 1 lub ust. 2 pkt 4.
 
 ### Art. 9k.
 
@@ -1210,7 +1276,11 @@ d) (uchylona)
 
 6. Podmiot, o którym mowa w ust. 1, który w danym roku nie odbierał na terenie danej gminy odpadów komunalnych od właścicieli nieruchomości, przekazuje wójtowi, burmistrzowi lub prezydentowi miasta, w terminie, o którym mowa w ust. 2, sprawozdanie zerowe.
 
-7. Sprawozdanie jest przekazywane wójtowi, burmistrzowi lub prezydentowi miasta za pośrednictwem Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami. Art. 9na. 1. Podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych, z wyłączeniem gminy, jest obowiązany do sporządzania rocznych sprawozdań.
+7. Sprawozdanie jest przekazywane wójtowi, burmistrzowi lub prezydentowi miasta za pośrednictwem Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami.
+
+### Art. 9na.
+
+1. Podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych, z wyłączeniem gminy, jest obowiązany do sporządzania rocznych sprawozdań.
 
 1a. W sprawozdaniu, o którym mowa w ust. 1, nie uwzględnia się masy zebranych przez podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych odpadów opakowaniowych objętych systemem kaucyjnym w rozumieniu art. 8 pkt 13a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi i odebranych w ramach tego systemu.
 
@@ -1232,7 +1302,11 @@ c) odpadów komunalnych przekazanych do przygotowania do ponownego użycia i rec
 
 d) produktów przyjętych do ponownego użycia i naprawy.
 
-4. Sprawozdanie jest przekazywane wójtowi, burmistrzowi lub prezydentowi miasta za pośrednictwem Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami. Art. 9nb. 1. Podmiot zbierający odpady komunalne, z wyłączeniem podmiotu, o którym mowa w art. 9na ust. 1, oraz podmiotu zbierającego odpady komunalne przyjmującego odpady komunalne od innego zbierającego odpady komunalne, jest obowiązany do sporządzania rocznych sprawozdań.
+4. Sprawozdanie jest przekazywane wójtowi, burmistrzowi lub prezydentowi miasta za pośrednictwem Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami.
+
+### Art. 9nb.
+
+1. Podmiot zbierający odpady komunalne, z wyłączeniem podmiotu, o którym mowa w art. 9na ust. 1, oraz podmiotu zbierającego odpady komunalne przyjmującego odpady komunalne od innego zbierającego odpady komunalne, jest obowiązany do sporządzania rocznych sprawozdań.
 
 1a. W sprawozdaniu, o którym mowa w ust. 1, nie uwzględnia się masy zebranych w jednostkach handlu detalicznego i hurtowego oraz innych punktach zbierających opakowania i odpady opakowaniowe odpadów opakowaniowych objętych systemem kaucyjnym w rozumieniu art. 8 pkt 13a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi i odebranych w ramach tego systemu.
 
@@ -1292,7 +1366,11 @@ b) spoza obszaru aglomeracji wyznaczonej na podstawie art. 87 ust. 1 ustawy z dn
 
 8) podpis prowadzącego działalność w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych lub podpis osoby upoważnionej do występowania w jego imieniu na podstawie pełnomocnictwa.
 
-4. Podmiot, o którym mowa w ust. 1, dołącza do sprawozdania wykaz właścicieli nieruchomości, z którymi w okresie objętym sprawozdaniem zawarł umowy na opróżnianie zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transport nieczystości ciekłych, oraz wykaz właścicieli nieruchomości, z którymi umowy te uległy rozwiązaniu lub wygasły. W wykazach zamieszcza się imię i nazwisko albo nazwę oraz adres właściciela nieruchomości, a także adres nieruchomości. Art. 9oa. 1. Prowadzący instalację komunalną jest obowiązany przekazać przedsiębiorcy odbierającemu odpady komunalne od właścicieli nieruchomości lub gminie, z którymi ma zawarte umowy, informację o odpadach przekazanych mu przez tego przedsiębiorcę lub gminę, które poddał procesowi przygotowania do ponownego użycia, recyklingu lub przekazał w tym celu innemu posiadaczowi odpadów.
+4. Podmiot, o którym mowa w ust. 1, dołącza do sprawozdania wykaz właścicieli nieruchomości, z którymi w okresie objętym sprawozdaniem zawarł umowy na opróżnianie zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transport nieczystości ciekłych, oraz wykaz właścicieli nieruchomości, z którymi umowy te uległy rozwiązaniu lub wygasły. W wykazach zamieszcza się imię i nazwisko albo nazwę oraz adres właściciela nieruchomości, a także adres nieruchomości.
+
+### Art. 9oa.
+
+1. Prowadzący instalację komunalną jest obowiązany przekazać przedsiębiorcy odbierającemu odpady komunalne od właścicieli nieruchomości lub gminie, z którymi ma zawarte umowy, informację o odpadach przekazanych mu przez tego przedsiębiorcę lub gminę, które poddał procesowi przygotowania do ponownego użycia, recyklingu lub przekazał w tym celu innemu posiadaczowi odpadów.
 
 2. Informacja o odpadach pochodzących z odpadów komunalnych z terenu danej gminy zawiera dane o:
 
@@ -1412,7 +1490,11 @@ d) składowania;
 
 ### Art. 9t.
 
-(uchylony) Art. 9ta. 1. Termin do złożenia deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi oraz sprawozdań, o których mowa w art. 9o ust. 1, uważa się za zachowany, jeżeli przed jego upływem deklaracja lub sprawozdanie zostało:
+(uchylony)
+
+### Art. 9ta.
+
+1. Termin do złożenia deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi oraz sprawozdań, o których mowa w art. 9o ust. 1, uważa się za zachowany, jeżeli przed jego upływem deklaracja lub sprawozdanie zostało:
 
 1) nadane w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366) lub
 
@@ -1420,7 +1502,15 @@ d) składowania;
 
 2. W przypadku awarii systemu teleinformatycznego, w którym Baza danych o produktach i opakowaniach oraz o gospodarce odpadami jest prowadzona, uniemożliwiającej złożenie sprawozdań, o których mowa w art. 9n ust. 1, art. 9na ust. 1, art. 9nb ust. 1, art. 9q ust. 1 i art. 9s ust. 1, w terminie określonym odpowiednio w art. 9n ust. 2, art. 9na ust. 2, art. 9nb ust. 2, art. 9q ust. 2 i art. 9s ust. 2, podmioty obowiązane składają sprawozdania niezwłocznie po ustaniu awarii.
 
-3. Administrator Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami zamieszcza komunikat o czasie trwania awarii na swojej stronie Biuletynu Informacji Publicznej oraz na stronie internetowej rejestru umożliwiającej dostęp do indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, o ile jest to technicznie możliwe. Art. 9taa. Nie dokonuje się korekty sprawozdań, o których mowa w art. 9n ust. 1, art. 9na ust. 1, art. 9nb ust. 1, art. 9o ust. 1, art. 9q ust. 1 i art. 9s ust. 1, po upływie 2 lat od terminu ich przekazania określonego odpowiednio w art. 9n ust. 2, art. 9na ust. 2, art. 9nb ust. 2, art. 9o ust. 2, art. 9q ust. 2 i art. 9s ust. 2. Art. 9tb. 1. Na podstawie sprawozdań złożonych przez podmioty odbierające odpady komunalne od właścicieli nieruchomości, podmioty prowadzące punkty selektywnego zbierania odpadów komunalnych, podmioty zbierające odpady komunalne, informacji przekazanych przez prowadzących instalacje komunalne oraz na podstawie rocznego sprawozdania z realizacji zadań z zakresu gospodarowania odpadami komunalnymi oraz innych dostępnych danych o czynnikach wpływających na koszty systemu gospodarowania odpadami komunalnymi wójt, burmistrz lub prezydent miasta sporządza analizę stanu gospodarki odpadami komunalnymi obejmującą w szczególności:
+3. Administrator Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami zamieszcza komunikat o czasie trwania awarii na swojej stronie Biuletynu Informacji Publicznej oraz na stronie internetowej rejestru umożliwiającej dostęp do indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, o ile jest to technicznie możliwe.
+
+### Art. 9taa.
+
+Nie dokonuje się korekty sprawozdań, o których mowa w art. 9n ust. 1, art. 9na ust. 1, art. 9nb ust. 1, art. 9o ust. 1, art. 9q ust. 1 i art. 9s ust. 1, po upływie 2 lat od terminu ich przekazania określonego odpowiednio w art. 9n ust. 2, art. 9na ust. 2, art. 9nb ust. 2, art. 9o ust. 2, art. 9q ust. 2 i art. 9s ust. 2.
+
+### Art. 9tb.
+
+1. Na podstawie sprawozdań złożonych przez podmioty odbierające odpady komunalne od właścicieli nieruchomości, podmioty prowadzące punkty selektywnego zbierania odpadów komunalnych, podmioty zbierające odpady komunalne, informacji przekazanych przez prowadzących instalacje komunalne oraz na podstawie rocznego sprawozdania z realizacji zadań z zakresu gospodarowania odpadami komunalnymi oraz innych dostępnych danych o czynnikach wpływających na koszty systemu gospodarowania odpadami komunalnymi wójt, burmistrz lub prezydent miasta sporządza analizę stanu gospodarki odpadami komunalnymi obejmującą w szczególności:
 
 1) możliwości przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych, bioodpadów stanowiących odpady komunalne oraz przeznaczonych do składowania pozostałości z sortowania odpadów komunalnych i pozostałości z procesu mechaniczno-biologicznego przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych;
 
@@ -1494,17 +1584,29 @@ d) składowania;
 
 3. Karę pieniężną, o której mowa w ust. 2 pkt 1 i 2, oblicza się jako iloczyn jednostkowej stawki opłaty za umieszczenie niesegregowanych (zmieszanych) odpadów komunalnych na składowisku, określonej w przepisach wydanych na podstawie art. 290 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, i brakującej masy odpadów komunalnych wyrażonej w Mg, wymaganej do osiągnięcia odpowiedniego poziomu przygotowania do ponownego użycia i recyklingu odpadów komunalnych lub ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania.
 
-4. Karę pieniężną, o której mowa w ust. 2 pkt 3, oblicza się jako iloczyn jednostkowej stawki opłaty za umieszczenie niesegregowanych (zmieszanych) odpadów komunalnych na składowisku, określonej w przepisach wydanych na podstawie art. 290 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, i masy składowanych odpadów komunalnych przekraczającej poziom składowania wyrażonej w Mg. Art. 9xa. Podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych, który przekazuje:
+4. Karę pieniężną, o której mowa w ust. 2 pkt 3, oblicza się jako iloczyn jednostkowej stawki opłaty za umieszczenie niesegregowanych (zmieszanych) odpadów komunalnych na składowisku, określonej w przepisach wydanych na podstawie art. 290 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, i masy składowanych odpadów komunalnych przekraczającej poziom składowania wyrażonej w Mg.
+
+### Art. 9xa.
+
+Podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych, który przekazuje:
 
 1) (uchylony)
 
 2) przekazuje nierzetelne sprawozdanie, o którym mowa w art. 9na – podlega karze pieniężnej w wysokości od 200 zł do 500 zł, jeżeli sprawozdanie zostanie uzupełnione lub poprawione w terminie 14 dni od dnia doręczenia wezwania, o którym mowa w art. 9p ust. 2, a w przypadku niezastosowania się do wezwania od 500 zł do 5000 zł;
 
-3) po terminie sprawozdanie, o którym mowa w art. 9na – podlega karze pieniężnej w wysokości 100 zł za każdy dzień opóźnienia, nie więcej jednak niż za 365 dni. Art. 9xaa. Podmiot zbierający odpady komunalne, z wyłączeniem podmiotu, o którym mowa w art. 9na ust. 1, który przekazuje:
+3) po terminie sprawozdanie, o którym mowa w art. 9na – podlega karze pieniężnej w wysokości 100 zł za każdy dzień opóźnienia, nie więcej jednak niż za 365 dni.
+
+### Art. 9xaa.
+
+Podmiot zbierający odpady komunalne, z wyłączeniem podmiotu, o którym mowa w art. 9na ust. 1, który przekazuje:
 
 1) nierzetelne sprawozdanie, o którym mowa w art. 9nb – podlega karze pieniężnej w wysokości od 200 zł do 500 zł, jeżeli sprawozdanie zostanie uzupełnione lub poprawione w terminie 14 dni od dnia doręczenia wezwania, o którym mowa w art. 9p ust. 2, a w przypadku niezastosowania się do wezwania od 500 zł do 5000 zł;
 
-2) po terminie sprawozdanie, o którym mowa w art. 9nb – podlega karze pieniężnej w wysokości 100 zł za każdy dzień opóźnienia, nie więcej jednak niż za 365 dni. Art. 9xb. 1. Podmiot prowadzący działalność w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych, który:
+2) po terminie sprawozdanie, o którym mowa w art. 9nb – podlega karze pieniężnej w wysokości 100 zł za każdy dzień opóźnienia, nie więcej jednak niż za 365 dni.
+
+### Art. 9xb.
+
+1. Podmiot prowadzący działalność w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych, który:
 
 1) przekazuje nierzetelne sprawozdanie, o którym mowa w art. 9o – podlega karze pieniężnej w wysokości od 200 zł do 500 zł, jeżeli sprawozdanie zostanie uzupełnione lub poprawione w terminie 14 dni od dnia doręczenia wezwania, o którym mowa w art. 9p ust. 2, a w przypadku niezastosowania się do wezwania – od 500 zł do 5000 zł;
 
@@ -1580,25 +1682,51 @@ d) składowania;
 
 6. W przypadku gdy wójt, burmistrz lub prezydent miasta nie wykonuje obowiązku, o którym mowa w art. 9u – gmina podlega karze pieniężnej w wysokości od 500 zł do 5000 zł.
 
-7. W przypadku gdy wójt, burmistrz lub prezydent miasta nie wykonuje obowiązku, o którym mowa w art. 6 ust. 5a – gmina podlega karze pieniężnej w wysokości od 10 000 zł do 50 000 zł. Art. 9za. Prowadzący instalację komunalną, który nie przedstawia kalkulacji, o której mowa w art. 9m – podlega karze pieniężnej w wysokości 500 zł za każdy nieprzekazany dokument. Art. 9zb. 1. Kary pieniężne, o których mowa w art. 9x ust. 1 i 2, nakłada, w drodze decyzji, wójt, burmistrz lub prezydent miasta, właściwy ze względu na miejsce wpisania przedsiębiorcy do rejestru działalności regulowanej, o którym mowa w art. 9b ust. 2.
+7. W przypadku gdy wójt, burmistrz lub prezydent miasta nie wykonuje obowiązku, o którym mowa w art. 6 ust. 5a – gmina podlega karze pieniężnej w wysokości od 10 000 zł do 50 000 zł.
 
-1a. Kary pieniężne, o których mowa w art. 9xa, nakłada, w drodze decyzji, wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce położenia punktu selektywnego zbierania odpadów komunalnych. 1aa. Kary pieniężne, o których mowa w art. 9xaa, nakłada, w drodze decyzji, wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce położenia punktu zbierania odpadów komunalnych, stanowiących frakcje odpadów komunalnych: papieru, metali, tworzyw sztucznych i szkła.
+### Art. 9za.
+
+Prowadzący instalację komunalną, który nie przedstawia kalkulacji, o której mowa w art. 9m – podlega karze pieniężnej w wysokości 500 zł za każdy nieprzekazany dokument.
+
+### Art. 9zb.
+
+1. Kary pieniężne, o których mowa w art. 9x ust. 1 i 2, nakłada, w drodze decyzji, wójt, burmistrz lub prezydent miasta, właściwy ze względu na miejsce wpisania przedsiębiorcy do rejestru działalności regulowanej, o którym mowa w art. 9b ust. 2.
+
+1a. Kary pieniężne, o których mowa w art. 9xa, nakłada, w drodze decyzji, wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce położenia punktu selektywnego zbierania odpadów komunalnych.
+
+1aa. Kary pieniężne, o których mowa w art. 9xaa, nakłada, w drodze decyzji, wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce położenia punktu zbierania odpadów komunalnych, stanowiących frakcje odpadów komunalnych: papieru, metali, tworzyw sztucznych i szkła.
 
 1b. Kary pieniężne, o których mowa w art. 9xb, nakłada, w drodze decyzji, wójt, burmistrz lub prezydent miasta, właściwy ze względu na miejsce prowadzenia działalności w zakresie opróżniania zbiorników bezodpływowych i transportu nieczystości ciekłych.
 
 2. Kary pieniężne, o których mowa w art. 9y ust. 1 i 2, art. 9z ust. 1–2a, 4, 6 i 7 oraz art. 9za, nakłada, w drodze decyzji, wojewódzki inspektor ochrony środowiska.
 
-3. Wojewódzki inspektor ochrony środowiska, w drodze decyzji, może zawiesić zapłatę kar, o których mowa w art. 9z ust. 2 i 2a, lub je umorzyć. Art. 9zc. 1. Przy ustalaniu wysokości kar pieniężnych, o których mowa w art. 9x ust. 1 pkt 2–4, art. 9xa pkt 2, art. 9xaa pkt 1, 9xb ust. 1 pkt 1, art. 9y ust. 1 pkt 2–4 i art. 9z ust. 1 pkt 2 i ust. 4, właściwy organ bierze pod uwagę stopień szkodliwości czynu, zakres naruszenia oraz dotychczasową działalność podmiotu.
+3. Wojewódzki inspektor ochrony środowiska, w drodze decyzji, może zawiesić zapłatę kar, o których mowa w art. 9z ust. 2 i 2a, lub je umorzyć.
 
-2. Administracyjna kara pieniężna na podstawie art. 9x ust. 1 pkt 4, art. 9xa pkt 2, art. 9xaa pkt 1, 9xb ust. 1 pkt 1, art. 9y ust. 1 pkt 4 albo art. 9z ust. 1 pkt 2 w przypadku niezastosowania się do wezwania, o którym odpowiednio mowa w art. 9p ust. 2 albo w art. 9r ust. 2, może być wymierzana wielokrotnie, z tym że łączna wysokość kar, za dany rok kalendarzowy, dotycząca danego sprawozdania, nie może przekroczyć 50 000 zł. Art. 9zd. 1. Podmiot, na który nałożono karę pieniężną, jest obowiązany uiścić tę karę w terminie 30 dni od dnia, w którym decyzja stała się ostateczna.
+### Art. 9zc.
+
+1. Przy ustalaniu wysokości kar pieniężnych, o których mowa w art. 9x ust. 1 pkt 2–4, art. 9xa pkt 2, art. 9xaa pkt 1, 9xb ust. 1 pkt 1, art. 9y ust. 1 pkt 2–4 i art. 9z ust. 1 pkt 2 i ust. 4, właściwy organ bierze pod uwagę stopień szkodliwości czynu, zakres naruszenia oraz dotychczasową działalność podmiotu.
+
+2. Administracyjna kara pieniężna na podstawie art. 9x ust. 1 pkt 4, art. 9xa pkt 2, art. 9xaa pkt 1, 9xb ust. 1 pkt 1, art. 9y ust. 1 pkt 4 albo art. 9z ust. 1 pkt 2 w przypadku niezastosowania się do wezwania, o którym odpowiednio mowa w art. 9p ust. 2 albo w art. 9r ust. 2, może być wymierzana wielokrotnie, z tym że łączna wysokość kar, za dany rok kalendarzowy, dotycząca danego sprawozdania, nie może przekroczyć 50 000 zł.
+
+### Art. 9zd.
+
+1. Podmiot, na który nałożono karę pieniężną, jest obowiązany uiścić tę karę w terminie 30 dni od dnia, w którym decyzja stała się ostateczna.
 
 2. Środki finansowe uzyskane z tytułu kar pieniężnych, o których mowa w art. 9x ust. 1 i 2, art. 9xa, art. 9xaa oraz art. 9xb, stanowią dochód gminy.
 
-3. Gminna jednostka organizacyjna, gmina oraz prowadzący instalację komunalną wnoszą kary pieniężne na rachunek bankowy właściwego wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej. Art. 9ze. 1. Wójt, burmistrz lub prezydent miasta może złożyć wniosek do wojewódzkiego inspektora ochrony środowiska o zawieszenie zapłaty kary pieniężnej, o której mowa w art. 9z ust. 2 i 2a, przed upływem terminu, w którym ma być ona uiszczona.
+3. Gminna jednostka organizacyjna, gmina oraz prowadzący instalację komunalną wnoszą kary pieniężne na rachunek bankowy właściwego wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej.
+
+### Art. 9ze.
+
+1. Wójt, burmistrz lub prezydent miasta może złożyć wniosek do wojewódzkiego inspektora ochrony środowiska o zawieszenie zapłaty kary pieniężnej, o której mowa w art. 9z ust. 2 i 2a, przed upływem terminu, w którym ma być ona uiszczona.
 
 2. Wojewódzki inspektor ochrony środowiska, w drodze decyzji, może zawiesić zapłatę kary pieniężnej na okres konieczny do podjęcia działań naprawczych, nie dłuższy jednak niż 5 lat, w przypadku przedstawienia przez gminę udokumentowanego wniosku dotyczącego podjętych działań naprawczych zmierzających do usunięcia przyczyny nałożenia tej kary.
 
-3. Po usunięciu przyczyn nałożenia kary pieniężnej kara ta podlega umorzeniu przez wojewódzkiego inspektora ochrony środowiska w drodze decyzji; w przypadku nieusunięcia przyczyn wojewódzki inspektor ochrony środowiska stwierdza, w drodze decyzji, obowiązek uiszczenia tej kary wraz z odsetkami za zwłokę naliczanymi za okres zawieszenia zapłaty kary. Art. 9zf. Do kar pieniężnych stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wójtowi, burmistrzowi, prezydentowi miasta oraz wojewódzkiemu inspektorowi ochrony środowiska.
+3. Po usunięciu przyczyn nałożenia kary pieniężnej kara ta podlega umorzeniu przez wojewódzkiego inspektora ochrony środowiska w drodze decyzji; w przypadku nieusunięcia przyczyn wojewódzki inspektor ochrony środowiska stwierdza, w drodze decyzji, obowiązek uiszczenia tej kary wraz z odsetkami za zwłokę naliczanymi za okres zawieszenia zapłaty kary.
+
+### Art. 9zf.
+
+Do kar pieniężnych stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wójtowi, burmistrzowi, prezydentowi miasta oraz wojewódzkiemu inspektorowi ochrony środowiska.
 
 ### Rozdział 5. Przepisy karne
 

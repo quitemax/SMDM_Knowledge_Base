@@ -24,14 +24,15 @@ prawnej). Jedno ograniczenie znane: w
 w razie potrzeby trzeba sprawdzić PDF.
 
 Pozostałe 19 aktów nie ma dostępnego HTML u źródła (sam PDF) — konwersja z PDF w toku
-(9 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
+(12 z 19 gotowe: `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `rozporzadzenie-bhp-roboty-budowlane`, `rozporzadzenie-plan-bioz`,
 `ustawa-o-wlasnosci-lokali`, `ustawa-prawo-budowlane-nowelizacja-2025-1847`,
 `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`,
 `ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb`,
-`ustawa-o-spoldzielniach-mieszkaniowych`, `ustawa-o-ochronie-przeciwpozarowej`), przez
-własny skrypt (PyMuPDF + ręczne reguły), nie model AI. Napotkane problemy źródłowe i jak
-skrypt sobie z nimi radzi:
+`ustawa-o-spoldzielniach-mieszkaniowych`, `ustawa-o-ochronie-przeciwpozarowej`,
+`ustawa-prawo-spoldzielcze`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605`,
+`kodeks-cywilny`), przez własny skrypt (PyMuPDF + ręczne reguły), nie model AI. Napotkane
+problemy źródłowe i jak skrypt sobie z nimi radzi:
 - **łamanie czcionki** (tylko stare, ~2003 r. skany): część znaków diakrytycznych była
   zakodowana w PDF jako inne, niepowiązane symbole (np. „ł”→„∏”, „ń”→„ƒ”, „ś”→„Ê”) —
   wykryte i skorygowane automatycznie (bezpieczne, bo te symbole nigdy nie występują w
@@ -72,8 +73,20 @@ skrypt sobie z nimi radzi:
   sensowny tekst (np. `ustawa-o-wspieraniu-termomodernizacji...`, wzór na premię
   kompensacyjną) — w takim wypadku strona źródłowa jest renderowana jako obraz i wzór
   przepisywany ręcznie na tej podstawie, z adnotacją w pliku wskazującą, że tak powstał.
+- **„§” jako jednostka wewnątrz artykułu, nie samodzielna jednostka**: w rozporządzeniach
+  „§ N.” jest jednostką najwyższego poziomu (jak „Art.” w ustawach), ale niektóre starsze
+  ustawy/kodeksy (Prawo spółdzielcze, Kodeks cywilny) numerują akapity wewnątrz artykułu
+  jako „§ 1.”, „§ 2.” zamiast zwykłych liczb — skrypt wykrywa ten wzorzec (obecność
+  „Art. N. § 1.” w dokumencie) i wtedy nie traktuje „§ N.” jako nagłówka.
+- **wyższe jednostki podziału**: oprócz Rozdziału/Działu skrypt obsługuje też Część, Tytuł
+  i Księgę (Kodeks cywilny: Księga > Tytuł > Dział > Rozdział), w tym zapis wielkimi
+  literami („CZĘŚĆ I”, spotykany w Prawie spółdzielczym) i numerację słowną Księgi
+  („Księga pierwsza” zamiast cyframi rzymskimi).
+- **Rozdział/Oddział numerowane cyframi rzymskimi**: większość aktów używa cyfr arabskich
+  („Rozdział 1”), ale Kodeks cywilny konsekwentnie używa rzymskich („Rozdział I”) —
+  skrypt rozpoznaje oba warianty.
 
-Pozostałych 10 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
+Pozostałych 7 aktów jeszcze nie sprawdzono pod kątem tych samych problemów.
 
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
