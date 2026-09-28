@@ -515,3 +515,35 @@ Gotowe dodatkowo: `rodo-rozporzadzenie-2016-679`, `ustawa-prawo-spoldzielcze`,
 `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605`,
 `rozporzadzenie-ogolne-przepisy-bhp`, `ustawa-o-dozorze-technicznym-nowelizacja-2026-252`,
 `rozporzadzenie-warunki-techniczne-budynkow-i-usytuowanie-2002-UCHYLONE` (30 z 36).
+
+**Batch 8** (`ustawa-o-rachunkowosci`, `ustawa-prawo-budowlane`, `kodeks-cywilny`) znalazł
+jeszcze jeden, subtelniejszy błąd w mechanizmie „tej ustawy”/„tego rozporządzenia” z
+`ustawa-prawo-budowlane`, wymagający dwóch SPRZECZNYCH zachowań w tym samym zdaniu:
+- „...ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, [...], o którym
+  mowa w art. 40 tej ustawy, albo [...] o której mowa w art. 2 pkt 7 tej ustawy” — obie
+  cytacje są przyklejone do własnego „tej ustawy” i obie naprawdę należą przez cały czas do
+  TEGO SAMEGO obcego aktu (doręczenia elektroniczne); dotychczasowy kod, traktując
+  pierwsze „tej ustawy” jako bezwarunkowe przełączenie na „własny”, błędnie linkował drugą,
+  późniejszą cytację do własnego Art. 2 tej ustawy (Prawo budowlane), mimo że chodzi o
+  zupełnie inny przepis obcego aktu.
+- „...w rozumieniu art. 2 pkt 3 tej ustawy, z uwzględnieniem art. 29a” — cytacja przyklejona
+  do „tej ustawy” poprawnie zostaje obca, ale kolejna, GOŁA cytacja („art. 29a”, bez
+  własnego „tej ustawy”) naprawdę jest artykułem tego dokumentu i musi wrócić do kontekstu
+  własnego.
+Rozwiązanie: znacznik „tej”/„tego” przyklejony bezpośrednio do cytacji (`art. N tej ustawy`)
+jest teraz niewidoczny przy ocenie INNEJ przyklejonej cytacji (obie tylko powtarzają, do
+jakiego aktu już należą — nie ogłaszają powrotu do siebie), ale nadal liczy się normalnie
+dla późniejszej GOŁEJ cytacji. Każdemu przełącznikowi kontekstu dodano znacznik
+`is_attached`, a `is_foreign_at`/`is_foreign_context` dostały parametr
+`ignore_attached_self`, ustawiany per-cytacja w zależności od tego, czy TA KONKRETNA
+cytacja ma własne przyklejone „tej ustawy” zaraz po sobie. Przy tej poprawce jeden już
+zatwierdzony plik (`ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605`) zmienił
+się o jedną linię — „art. 4f ust. 9 tej ustawy” przestało linkować do lokalnego `#art-4f`
+mimo że to ten sam numer co w tym dokumencie (ta nowelizacja cytuje SWÓJ WŁASNY, wcześniej
+nowelizowany art. 4f przez pełną datę zamiast przez „zmienianej w art. N”, więc trafiła w
+ten sam wzorzec) — zaakceptowane świadomie: kod od dawna (patrz `forward_clause`) woli
+"niedolinkowanie" (bezpieczniejsze niż fałszywy link) w niejednoznacznych przypadkach.
+Zweryfikowane pełną regresją na wszystkich 31 wcześniej zatwierdzonych plikach.
+
+Gotowe dodatkowo: `ustawa-o-rachunkowosci`, `ustawa-prawo-budowlane`, `kodeks-cywilny`
+(33 z 36).

@@ -2,12 +2,271 @@
 
 Prawo budowlane1)
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [Art. 1.](#art-1)
+  - [Art. 2.](#art-2)
+  - [Art. 3.](#art-3)
+  - [Art. 4.](#art-4)
+  - [Art. 5.](#art-5)
+  - [Art. 5[1].](#art-51)
+  - [Art. 5[2].](#art-52)
+  - [Art. 5a.](#art-5a)
+  - [Art. 6.](#art-6)
+  - [Art. 7.](#art-7)
+  - [Art. 8.](#art-8)
+  - [Art. 9.](#art-9)
+  - [Art. 10.](#art-10)
+  - [Art. 10a.](#art-10a)
+  - [Art. 10b. [11)]](#art-10b)
+  - [Art. 11.](#art-11)
+- [Rozdział 2. Samodzielne funkcje techniczne w budownictwie](#rozdzial-2)
+  - [Art. 12.](#art-12)
+  - [Art. 12a.](#art-12a)
+  - [Art. 12b.](#art-12b)
+  - [Art. 12c.](#art-12c)
+  - [Art. 13.](#art-13)
+  - [Art. 14.](#art-14)
+  - [Art. 15.](#art-15)
+  - [Art. 15a.](#art-15a)
+  - [Art. 16.](#art-16)
+- [Rozdział 3. Prawa i obowiązki uczestników procesu budowlanego](#rozdzial-3)
+  - [Art. 17.](#art-17)
+  - [Art. 18.](#art-18)
+  - [Art. 19.](#art-19)
+  - [Art. 20.](#art-20)
+  - [Art. 21.](#art-21)
+  - [Art. 21a.](#art-21a)
+  - [Art. 22.](#art-22)
+  - [Art. 23.](#art-23)
+  - [Art. 23a.](#art-23a)
+  - [Art. 24.](#art-24)
+  - [Art. 25.](#art-25)
+  - [Art. 26.](#art-26)
+  - [Art. 27.](#art-27)
+  - [Art. 27a.](#art-27a)
+- [Rozdział 4. Postępowanie poprzedzające rozpoczęcie robót budowlanych](#rozdzial-4)
+  - [Art. 28.](#art-28)
+  - [Art. 29.](#art-29)
+  - [Art. 29a.](#art-29a)
+  - [Art. 30.](#art-30)
+  - [Art. 30a.](#art-30a)
+  - [Art. 30b.](#art-30b)
+  - [Art. 31.](#art-31)
+  - [Art. 31a.](#art-31a)
+  - [Art. 32.](#art-32)
+  - [Art. 33.](#art-33)
+  - [Art. 34.](#art-34)
+  - [Art. 34a.](#art-34a)
+  - [Art. 34b.](#art-34b)
+  - [Art. 35.](#art-35)
+  - [Art. 35a.](#art-35a)
+  - [Art. 36.](#art-36)
+  - [Art. 36a.](#art-36a)
+  - [Art. 36b.](#art-36b)
+  - [Art. 37.](#art-37)
+  - [Art. 37a.](#art-37a)
+  - [Art. 37b.](#art-37b)
+  - [Art. 38.](#art-38)
+  - [Art. 39.](#art-39)
+  - [Art. 39a.](#art-39a)
+  - [Art. 40.](#art-40)
+  - [Art. 40a.](#art-40a)
+- [Rozdział 5. Rozpoczęcie i prowadzenie robót budowlanych](#rozdzial-5)
+  - [Art. 41.](#art-41)
+  - [Art. 42.](#art-42)
+  - [Art. 43.](#art-43)
+  - [Art. 44.](#art-44)
+  - [Art. 45.](#art-45)
+  - [Art. 45a.](#art-45a)
+  - [Art. 45b.](#art-45b)
+  - [Art. 45c.](#art-45c)
+  - [Art. 46.](#art-46)
+  - [Art. 47.](#art-47)
+- [Rozdział 5a. Dziennik budowy](#rozdzial-5a)
+  - [Art. 47a.](#art-47a)
+  - [Art. 47b.](#art-47b)
+  - [Art. 47c.](#art-47c)
+  - [Art. 47d.](#art-47d)
+  - [Art. 47e.](#art-47e)
+  - [Art. 47f.](#art-47f)
+  - [Art. 47g.](#art-47g)
+  - [Art. 47h.](#art-47h)
+  - [Art. 47i.](#art-47i)
+  - [Art. 47j.](#art-47j)
+  - [Art. 47k.](#art-47k)
+  - [Art. 47l.](#art-47l)
+  - [Art. 47m.](#art-47m)
+  - [Art. 47n.](#art-47n)
+  - [Art. 47o.](#art-47o)
+  - [Art. 47p.](#art-47p)
+  - [Art. 47q.](#art-47q)
+  - [Art. 47r.](#art-47r)
+  - [Art. 47s.](#art-47s)
+  - [Art. 47t.](#art-47t)
+  - [Art. 47u.](#art-47u)
+  - [Art. 47v.](#art-47v)
+- [Rozdział 5b. Postępowanie w sprawie rozpoczęcia i prowadzenia robót budowlanych z naruszeniem ustawy](#rozdzial-5b)
+  - [Art. 48.](#art-48)
+  - [Art. 48a.](#art-48a)
+  - [Art. 48b.](#art-48b)
+  - [Art. 49.](#art-49)
+  - [Art. 49a.](#art-49a)
+  - [Art. 49b.](#art-49b)
+  - [Art. 49c.](#art-49c)
+  - [Art. 49d.](#art-49d)
+  - [Art. 49e.](#art-49e)
+  - [Art. 49f.](#art-49f)
+  - [Art. 49g.](#art-49g)
+  - [Art. 49h.](#art-49h)
+  - [Art. 49i.](#art-49i)
+  - [Art. 50.](#art-50)
+  - [Art. 50a.](#art-50a)
+  - [Art. 51.](#art-51-1)
+  - [Art. 51a. [78)]](#art-51a)
+  - [Art. 52.](#art-52-1)
+  - [Art. 53.](#art-53)
+  - [Art. 53a.](#art-53a)
+- [Rozdział 5c. Zakończenie budowy](#rozdzial-5c)
+  - [Art. 54.](#art-54)
+  - [Art. 55.](#art-55)
+  - [Art. 55a.](#art-55a)
+  - [Art. 56.](#art-56)
+  - [Art. 57.](#art-57)
+  - [Art. 58.](#art-58)
+  - [Art. 59.](#art-59)
+  - [Art. 59a.](#art-59a)
+  - [Art. 59b.](#art-59b)
+  - [Art. 59c.](#art-59c)
+  - [Art. 59d.](#art-59d)
+  - [Art. 59e.](#art-59e)
+  - [Art. 59f.](#art-59f)
+  - [Art. 59g.](#art-59g)
+  - [Art. 59h.](#art-59h)
+  - [Art. 59i.](#art-59i)
+  - [Art. 60.](#art-60)
+- [Rozdział 5d. Książka obiektu budowlanego](#rozdzial-5d)
+  - [Art. 60a.](#art-60a)
+  - [Art. 60b.](#art-60b)
+  - [Art. 60c.](#art-60c)
+  - [Art. 60d.](#art-60d)
+  - [Art. 60e.](#art-60e)
+  - [Art. 60f.](#art-60f)
+  - [Art. 60g.](#art-60g)
+  - [Art. 60h.](#art-60h)
+  - [Art. 60i.](#art-60i)
+  - [Art. 60j.](#art-60j)
+  - [Art. 60k.](#art-60k)
+  - [Art. 60l.](#art-60l)
+  - [Art. 60m.](#art-60m)
+  - [Art. 60n.](#art-60n)
+  - [Art. 60o.](#art-60o)
+  - [Art. 60p.](#art-60p)
+  - [Art. 60q.](#art-60q)
+  - [Art. 60r.](#art-60r)
+- [Rozdział 6. Utrzymanie obiektów budowlanych](#rozdzial-6)
+  - [Art. 61.](#art-61)
+  - [Art. 62.](#art-62)
+  - [Art. 62a.](#art-62a)
+  - [Art. 62b.](#art-62b)
+  - [Art. 63.](#art-63)
+  - [Art. 63a.](#art-63a)
+  - [Art. 64.](#art-64)
+  - [Art. 65.](#art-65)
+  - [Art. 66.](#art-66)
+  - [Art. 67.](#art-67)
+  - [Art. 68.](#art-68)
+  - [Art. 69.](#art-69)
+  - [Art. 70.](#art-70)
+  - [Art. 71.](#art-71)
+  - [Art. 71a.](#art-71a)
+  - [Art. 72.](#art-72)
+  - [Art. 72a.](#art-72a)
+- [Rozdział 7. Katastrofa budowlana](#rozdzial-7)
+  - [Art. 73.](#art-73)
+  - [Art. 74.](#art-74)
+  - [Art. 75.](#art-75)
+  - [Art. 76.](#art-76)
+  - [Art. 76a.](#art-76a)
+  - [Art. 77.](#art-77)
+  - [Art. 78.](#art-78)
+  - [Art. 79.](#art-79)
+- [Rozdział 7a. Portal e-Budownictwo](#rozdzial-7a)
+  - [Art. 79a.](#art-79a)
+  - [Art. 79b.](#art-79b)
+  - [Art. 79c.](#art-79c)
+  - [Art. 79d.](#art-79d)
+  - [Art. 79e.](#art-79e)
+  - [Art. 79f.](#art-79f)
+  - [Art. 79g.](#art-79g)
+  - [Art. 79h.](#art-79h)
+  - [Art. 79i.](#art-79i)
+  - [Art. 79j.](#art-79j)
+  - [Art. 79k.](#art-79k)
+- [Rozdział 8. Organy administracji architektoniczno-budowlanej i nadzoru budowlanego](#rozdzial-8)
+  - [Art. 80.](#art-80)
+  - [Art. 81.](#art-81)
+  - [Art. 81a.](#art-81a)
+  - [Art. 81b.](#art-81b)
+  - [Art. 81c.](#art-81c)
+  - [Art. 82.](#art-82)
+  - [Art. 82a.](#art-82a)
+  - [Art. 82b.](#art-82b)
+  - [Art. 82c. [92)]](#art-82c)
+  - [Art. 83.](#art-83)
+  - [Art. 83a.](#art-83a)
+  - [Art. 84.](#art-84)
+  - [Art. 84a.](#art-84a)
+  - [Art. 84aa.](#art-84aa)
+  - [Art. 84ab.](#art-84ab)
+  - [Art. 84b.](#art-84b)
+  - [Art. 85.](#art-85)
+  - [Art. 85a.](#art-85a)
+  - [Art. 86.](#art-86)
+  - [Art. 87.](#art-87)
+  - [Art. 88.](#art-88)
+  - [Art. 88a.](#art-88a)
+  - [Art. 88b.](#art-88b)
+  - [Art. 89.](#art-89)
+  - [Art. 89a.](#art-89a)
+  - [Art. 89b.](#art-89b)
+  - [Art. 89c.](#art-89c)
+- [Rozdział 9. Przepisy karne](#rozdzial-9)
+  - [Art. 90.](#art-90)
+  - [Art. 91.](#art-91)
+  - [Art. 91a.](#art-91a)
+  - [Art. 92.](#art-92)
+  - [Art. 93.](#art-93)
+  - [Art. 94.](#art-94)
+- [Rozdział 10. Odpowiedzialność zawodowa w budownictwie](#rozdzial-10)
+  - [Art. 95.](#art-95)
+  - [Art. 96.](#art-96)
+  - [Art. 97.](#art-97)
+  - [Art. 98.](#art-98)
+  - [Art. 99.](#art-99)
+  - [Art. 100.](#art-100)
+  - [Art. 101.](#art-101)
+  - [Art. 102.](#art-102)
+- [Rozdział 11. Przepisy przejściowe i końcowe](#rozdzial-11)
+  - [Art. 103.](#art-103)
+  - [Art. 104.](#art-104)
+  - [Art. 105.](#art-105)
+  - [Art. 106.](#art-106)
+  - [Art. 107.](#art-107)
+  - [Art. 108.](#art-108)
+- [Załącznik. Kategorie obiektów budowlanych](#załącznik-kategorie-obiektów-budowlanych)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="art-1"></a>
 ### Art. 1.
 
 Ustawa – Prawo budowlane, zwana dalej „ustawą”, normuje działalność obejmującą sprawy projektowania, budowy, utrzymania i rozbiórki obiektów budowlanych oraz określa zasady działania organów administracji publicznej w tych dziedzinach.
 
+<a id="art-2"></a>
 ### Art. 2.
 
 1. Ustawy nie stosuje się do wyrobisk górniczych.
@@ -20,6 +279,7 @@ Ustawa – Prawo budowlane, zwana dalej „ustawą”, normuje działalność ob
 
 3) o ochronie zabytków i opiece nad zabytkami – w odniesieniu do obiektów i obszarów wpisanych do rejestru zabytków oraz obiektów i obszarów objętych ochroną konserwatorską na podstawie miejscowego planu zagospodarowania przestrzennego.
 
+<a id="art-3"></a>
 ### Art. 3.
 
 Ilekroć w ustawie jest mowa o:
@@ -114,10 +374,12 @@ c) użytkowe służące rekreacji codziennej i utrzymaniu porządku, jak: piasko
 
 27)[5)] magazynie energii elektrycznej – należy przez to rozumieć magazyn energii elektrycznej w rozumieniu art. 3 pkt 10k ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43), a także instalację umożliwiającą magazynowanie energii elektrycznej i wprowadzenie jej do instalacji elektrycznej obiektu budowlanego lub bezpośrednie zasilanie urządzeń budowlanych.
 
+<a id="art-4"></a>
 ### Art. 4.
 
 Każdy ma prawo zabudowy nieruchomości gruntowej, jeżeli wykaże prawo do dysponowania nieruchomością na cele budowlane, pod warunkiem zgodności zamierzenia budowlanego z przepisami.
 
+<a id="art-5"></a>
 ### Art. 5.
 
 1. Obiekt budowlany jako całość oraz jego poszczególne części, wraz ze związanymi z nim urządzeniami budowlanymi należy, biorąc pod uwagę przewidywany okres użytkowania, projektować i budować w sposób określony w przepisach, w tym techniczno-budowlanych, oraz zgodnie z zasadami wiedzy technicznej, zapewniając:
@@ -148,9 +410,9 @@ b) usuwania ścieków, wody opadowej i odpadów;
 
 3) możliwość utrzymania właściwego stanu technicznego;
 
-4) niezbędne warunki do korzystania z obiektów użyteczności publicznej i mieszkaniowego budownictwa wielorodzinnego przez osoby niepełnosprawne, o których mowa w art. 1 Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r. (Dz. U. z 2012 r. poz. 1169 oraz z 2018 r. poz. 1217), w tym osoby starsze;
+4) niezbędne warunki do korzystania z obiektów użyteczności publicznej i mieszkaniowego budownictwa wielorodzinnego przez osoby niepełnosprawne, o których mowa w [art. 1](#art-1) Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r. (Dz. U. z 2012 r. poz. 1169 oraz z 2018 r. poz. 1217), w tym osoby starsze;
 
-4a) minimalny udział lokali mieszkalnych dostępnych dla osób niepełnosprawnych, o których mowa w art. 1 Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r., w tym osób starszych w ogólnej liczbie lokali mieszkalnych w budynku wielorodzinnym;
+4a) minimalny udział lokali mieszkalnych dostępnych dla osób niepełnosprawnych, o których mowa w [art. 1](#art-1) Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r., w tym osób starszych w ogólnej liczbie lokali mieszkalnych w budynku wielorodzinnym;
 
 5) warunki bezpieczeństwa i higieny pracy;
 
@@ -202,14 +464,17 @@ b) usuwania ścieków, wody opadowej i odpadów;
 
 15. (uchylony)
 
+<a id="art-51"></a>
 ### Art. 5[1].
 
 (uchylony)
 
+<a id="art-52"></a>
 ### Art. 5[2].
 
 (uchylony)
 
+<a id="art-5a"></a>
 ### Art. 5a.
 
 1. W przypadku budowy obiektu liniowego, którego przebieg został ustalony w miejscowym planie zagospodarowania przestrzennego, a także wykonywania innych robót budowlanych dotyczących obiektu liniowego, gdy liczba stron w postępowaniu przekracza 20, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), zwanej dalej „Kodeksem postępowania administracyjnego”.
@@ -218,10 +483,12 @@ b) usuwania ścieków, wody opadowej i odpadów;
 
 2. Przepisu ust. 1 nie stosuje się do inwestora oraz właścicieli, użytkowników wieczystych i zarządców nieruchomości, jeżeli na tych nieruchomościach są lub będą wykonywane roboty budowlane.
 
+<a id="art-6"></a>
 ### Art. 6.
 
-Dla działek budowlanych lub terenów, na których jest przewidziana budowa obiektów budowlanych lub funkcjonalnie powiązanych zespołów obiektów budowlanych, należy zaprojektować odpowiednie zagospodarowanie, zgodnie z wymaganiami art. 5 ust. 1–2b, zrealizować je przed oddaniem tych obiektów (zespołów) do użytkowania oraz zapewnić utrzymanie tego zagospodarowania we właściwym stanie techniczno-użytkowym przez okres istnienia obiektów (zespołów) budowlanych.
+Dla działek budowlanych lub terenów, na których jest przewidziana budowa obiektów budowlanych lub funkcjonalnie powiązanych zespołów obiektów budowlanych, należy zaprojektować odpowiednie zagospodarowanie, zgodnie z wymaganiami [art. 5](#art-5) ust. 1–2b, zrealizować je przed oddaniem tych obiektów (zespołów) do użytkowania oraz zapewnić utrzymanie tego zagospodarowania we właściwym stanie techniczno-użytkowym przez okres istnienia obiektów (zespołów) budowlanych.
 
+<a id="art-7"></a>
 ### Art. 7.
 
 1. Do przepisów techniczno-budowlanych zalicza się:
@@ -246,13 +513,15 @@ Dla działek budowlanych lub terenów, na których jest przewidziana budowa obie
 
 4. Właściwi ministrowie, określając warunki techniczne, o których mowa w ust. 1, uwzględniają wymagania, o których mowa w art. 5 ust. 1–2b, oraz potrzeby osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411).
 
+<a id="art-8"></a>
 ### Art. 8.
 
-Rada Ministrów może określić, w drodze rozporządzenia, dodatkowe warunki techniczne, jakim powinny odpowiadać budynki służące bezpieczeństwu lub obronności państwa, albo których przepisów, wydanych na podstawie art. 7 ust. 2 pkt 1, nie stosuje się do tych budynków, biorąc pod uwagę funkcję tych budynków oraz potrzebę zapewnienia bezpieczeństwa lub obronności państwa.
+Rada Ministrów może określić, w drodze rozporządzenia, dodatkowe warunki techniczne, jakim powinny odpowiadać budynki służące bezpieczeństwu lub obronności państwa, albo których przepisów, wydanych na podstawie [art. 7](#art-7) ust. 2 pkt 1, nie stosuje się do tych budynków, biorąc pod uwagę funkcję tych budynków oraz potrzebę zapewnienia bezpieczeństwa lub obronności państwa.
 
+<a id="art-9"></a>
 ### Art. 9.
 
-1. W przypadkach szczególnie uzasadnionych dopuszcza się odstępstwo od przepisów techniczno-budowlanych, o których mowa w art. 7. Odstępstwo nie może powodować zagrożenia życia ludzi lub bezpieczeństwa mienia, a w stosunku do obiektów użyteczności publicznej i mieszkaniowego budownictwa wielorodzinnego – ograniczenia dostępności dla potrzeb osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, oraz nie może powodować pogorszenia warunków zdrowotno-sanitarnych i użytkowych, a także stanu środowiska, po spełnieniu określonych warunków zamiennych.
+1. W przypadkach szczególnie uzasadnionych dopuszcza się odstępstwo od przepisów techniczno-budowlanych, o których mowa w [art. 7](#art-7). Odstępstwo nie może powodować zagrożenia życia ludzi lub bezpieczeństwa mienia, a w stosunku do obiektów użyteczności publicznej i mieszkaniowego budownictwa wielorodzinnego – ograniczenia dostępności dla potrzeb osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, oraz nie może powodować pogorszenia warunków zdrowotno-sanitarnych i użytkowych, a także stanu środowiska, po spełnieniu określonych warunków zamiennych.
 
 2. Zgody na odstępstwo, po uzyskaniu upoważnienia ministra, który ustanowił przepisy techniczno-budowlane, udziela albo odmawia udzielenia, w drodze postanowienia, organ administracji architektoniczno-budowlanej, przed wydaniem decyzji o pozwoleniu na budowę albo decyzji o zmianie pozwolenia na budowę.
 
@@ -302,20 +571,24 @@ b) postanowienie wyrażające zgodę na zastosowanie rozwiązań zamiennych w st
 
 8.[10)] Rozwiązania zamienne, o których mowa w ust. 7, po spełnieniu określonych warunków zamiennych nie mogą powodować zagrożenia życia ludzi lub bezpieczeństwa mienia, a w stosunku do obiektów użyteczności publicznej i mieszkaniowego budownictwa wielorodzinnego – ograniczenia dostępności dla potrzeb osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, oraz nie mogą powodować pogorszenia warunków zdrowotno-sanitarnych i użytkowych, a także stanu środowiska.
 
+<a id="art-10"></a>
 ### Art. 10.
 
 Wyroby wytworzone w celu zastosowania w obiekcie budowlanym w sposób trwały o właściwościach użytkowych umożliwiających prawidłowo zaprojektowanym i wykonanym obiektom budowlanym spełnienie podstawowych wymagań, można stosować przy wykonywaniu robót budowlanych wyłącznie, jeżeli wyroby te zostały wprowadzone do obrotu lub udostępnione na rynku krajowym zgodnie z przepisami odrębnymi, a w przypadku wyrobów budowlanych – również zgodnie z zamierzonym zastosowaniem.
 
+<a id="art-10a"></a>
 ### Art. 10a.
 
 (uchylony)
 
+<a id="art-10b"></a>
 ### Art. 10b. [11)]
 
 1. Odwołanie od decyzji lub zażalenie na postanowienie wydane na podstawie ustawy zawiera zarzuty odnoszące się do decyzji lub postanowienia, zakres żądania będącego przedmiotem odwołania lub zażalenia oraz wskazuje dowody uzasadniające to żądanie.
 
 2. W przypadku gdy odwołanie od decyzji lub zażalenie na postanowienie nie spełnia wymogów, o których mowa w ust. 1, stosuje się przepis art. 64 § 2 Kodeksu postępowania administracyjnego, z tym że wezwanie wnoszącego do usunięcia braków nie powinno nastąpić później niż po upływie 14 dni od dnia wpływu odwołania lub zażalenia.
 
+<a id="art-11"></a>
 ### Art. 11.
 
 1. (uchylony)12)
@@ -324,8 +597,10 @@ Wyroby wytworzone w celu zastosowania w obiekcie budowlanym w sposób trwały o 
 
 3.[13)] Właściwy minister, wydając rozporządzenie, o którym mowa w ust. 2, kieruje się potrzebą zapewnienia ochrony zdrowia zwierząt.
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Samodzielne funkcje techniczne w budownictwie
 
+<a id="art-12"></a>
 ### Art. 12.
 
 1. Za samodzielną funkcję techniczną w budownictwie uważa się działalność związaną z koniecznością fachowej oceny zjawisk technicznych lub samodzielnego rozwiązania zagadnień architektonicznych i technicznych oraz techniczno-organizacyjnych, a w szczególności działalność obejmującą:
@@ -386,7 +661,7 @@ Wyroby wytworzone w celu zastosowania w obiekcie budowlanym w sposób trwały o 
 
 5. Osoba ubiegająca się o nadanie uprawnień budowlanych wnosi opłatę za postępowanie kwalifikacyjne.
 
-5a. Opłata za postępowanie kwalifikacyjne o nadanie uprawnień budowlanych, o których mowa w art. 14 ust. 3 pkt 1–4:
+5a. Opłata za postępowanie kwalifikacyjne o nadanie uprawnień budowlanych, o których mowa w [art. 14](#art-14) ust. 3 pkt 1–4:
 
 1) z tytułu kwalifikowania nie przekracza 22 % kwoty przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26) zwanego dalej „przeciętnym wynagrodzeniem”;
 
@@ -394,7 +669,7 @@ Wyroby wytworzone w celu zastosowania w obiekcie budowlanym w sposób trwały o 
 
 3) z tytułu ponownego przeprowadzenia części ustnej egzaminu nie przekracza 13 % kwoty przeciętnego wynagrodzenia.
 
-5b. Opłata za postępowanie kwalifikacyjne o nadanie uprawnień budowlanych, o których mowa w art. 14 ust. 3 pkt 5 i 6:
+5b. Opłata za postępowanie kwalifikacyjne o nadanie uprawnień budowlanych, o których mowa w [art. 14](#art-14) ust. 3 pkt 5 i 6:
 
 1) z tytułu kwalifikowania nie przekracza 33 % kwoty przeciętnego wynagrodzenia;
 
@@ -418,7 +693,7 @@ Wyroby wytworzone w celu zastosowania w obiekcie budowlanym w sposób trwały o 
 
 5g. Dane identyfikujące uprawnienia budowlane, uznane kwalifikacje zawodowe oraz dane dotyczące osoby, która nabyła te uprawnienia lub kwalifikacje, podlegają wpisowi do centralnego rejestru osób posiadających uprawnienia budowlane.
 
-5h. Niezwłocznie po dniu, w którym decyzja o nadaniu uprawnień budowlanych stała się ostateczna, właściwa okręgowa komisja kwalifikacyjna izby samorządu zawodowego przekazuje Głównemu Inspektorowi Nadzoru Budowlanego dane, o których mowa w ust. 5g, za pomocą systemu Centralny Rejestr Osób Posiadających Uprawnienia Budowlane, zwanego dalej „systemem e-CRUB”, przy użyciu elektronicznych formularzy, których wzory zostały określone w przepisach wydanych na podstawie art. 88a ust. 6.
+5h. Niezwłocznie po dniu, w którym decyzja o nadaniu uprawnień budowlanych stała się ostateczna, właściwa okręgowa komisja kwalifikacyjna izby samorządu zawodowego przekazuje Głównemu Inspektorowi Nadzoru Budowlanego dane, o których mowa w ust. 5g, za pomocą systemu Centralny Rejestr Osób Posiadających Uprawnienia Budowlane, zwanego dalej „systemem e-CRUB”, przy użyciu elektronicznych formularzy, których wzory zostały określone w przepisach wydanych na podstawie [art. 88a](#art-88a) ust. 6.
 
 5i. W przypadku stwierdzenia nieprawidłowości danych, o których mowa w ust. 5g, przekazanych za pomocą systemu e-CRUB, Główny Inspektor Nadzoru Budowlanego wzywa właściwą okręgową komisję kwalifikacyjną izby samorządu zawodowego do zweryfikowania tych danych, wskazując stwierdzone nieprawidłowości.
 
@@ -432,9 +707,9 @@ Wyroby wytworzone w celu zastosowania w obiekcie budowlanym w sposób trwały o 
 
 9. Właściwa okręgowa rada izby samorządu zawodowego przekazuje niezwłocznie, za pomocą systemu e-CRUB, informacje o wpisie na listę członków właściwej izby samorządu zawodowego oraz o wykreśleniu z tej listy lub o zawieszeniu w prawach członka, w celu ujawnienia w centralnym rejestrze osób posiadających uprawnienia budowlane.
 
-10. Niezwłocznie po dniu, w którym decyzja o uznaniu kwalifikacji zawodowych stała się ostateczna, właściwa Krajowa Rada izby samorządu zawodowego przekazuje Głównemu Inspektorowi Nadzoru Budowlanego dane, o których mowa w ust. 5g, za pomocą systemu e-CRUB i przy użyciu elektronicznych formularzy, których wzory zostały określone w przepisach wydanych na podstawie art. 88a ust. 6.
+10. Niezwłocznie po dniu, w którym decyzja o uznaniu kwalifikacji zawodowych stała się ostateczna, właściwa Krajowa Rada izby samorządu zawodowego przekazuje Głównemu Inspektorowi Nadzoru Budowlanego dane, o których mowa w ust. 5g, za pomocą systemu e-CRUB i przy użyciu elektronicznych formularzy, których wzory zostały określone w przepisach wydanych na podstawie [art. 88a](#art-88a) ust. 6.
 
-11. Osoba, która nabyła uprawnienia budowlane przed dniem 1 stycznia 1995 r. i jest członkiem izby samorządu zawodowego, może wystąpić do właściwej okręgowej komisji kwalifikacyjnej izby samorządu zawodowego z wnioskiem o przekazanie Głównemu Inspektorowi Nadzoru Budowlanego, za pomocą systemu e-CRUB, danych identyfikujących uprawnienia budowlane wraz z kopią tych uprawnień oraz danych dotyczących osoby, która nabyła te uprawnienia, w tym informacji o dotychczasowych wpisach na listę członków właściwej izby samorządu zawodowego oraz wykreśleniach z tej listy lub zawieszeniach w prawach członka, przy użyciu elektronicznych formularzy, których wzory zostały określone w przepisach wydanych na podstawie art. 88a ust. 6.
+11. Osoba, która nabyła uprawnienia budowlane przed dniem 1 stycznia 1995 r. i jest członkiem izby samorządu zawodowego, może wystąpić do właściwej okręgowej komisji kwalifikacyjnej izby samorządu zawodowego z wnioskiem o przekazanie Głównemu Inspektorowi Nadzoru Budowlanego, za pomocą systemu e-CRUB, danych identyfikujących uprawnienia budowlane wraz z kopią tych uprawnień oraz danych dotyczących osoby, która nabyła te uprawnienia, w tym informacji o dotychczasowych wpisach na listę członków właściwej izby samorządu zawodowego oraz wykreśleniach z tej listy lub zawieszeniach w prawach członka, przy użyciu elektronicznych formularzy, których wzory zostały określone w przepisach wydanych na podstawie [art. 88a](#art-88a) ust. 6.
 
 12. Wniosek, o którym mowa w ust. 11, zawiera:
 
@@ -462,28 +737,33 @@ Wyroby wytworzone w celu zastosowania w obiekcie budowlanym w sposób trwały o 
 
 17. W zakresie nieuregulowanym w ustawie do postępowania w sprawie wniosku, o którym mowa w ust. 11, stosuje się przepisy Kodeksu postępowania administracyjnego.
 
+<a id="art-12a"></a>
 ### Art. 12a.
 
-Samodzielne funkcje techniczne w budownictwie, określone w art. 12 ust. 1, mogą również wykonywać osoby, których odpowiednie kwalifikacje zawodowe zostały uznane na zasadach określonych w przepisach odrębnych.
+Samodzielne funkcje techniczne w budownictwie, określone w [art. 12](#art-12) ust. 1, mogą również wykonywać osoby, których odpowiednie kwalifikacje zawodowe zostały uznane na zasadach określonych w przepisach odrębnych.
 
+<a id="art-12b"></a>
 ### Art. 12b.
 
 (uchylony)
 
+<a id="art-12c"></a>
 ### Art. 12c.
 
 (uchylony)
 
+<a id="art-13"></a>
 ### Art. 13.
 
 1. Uprawnienia budowlane mogą być udzielane do projektowania lub kierowania robotami budowlanymi, w ograniczonym zakresie lub bez ograniczeń.
 
 2. W uprawnieniach budowlanych należy określić specjalność i ewentualną specjalizację techniczno-budowlaną oraz zakres prac projektowych lub robót budowlanych objętych danym uprawnieniem.
 
-3. Uprawnienia do kierowania robotami budowlanymi stanowią również podstawę do wykonywania samodzielnych funkcji technicznych, o których mowa w art. 12 ust. 1 pkt 3 i 4.
+3. Uprawnienia do kierowania robotami budowlanymi stanowią również podstawę do wykonywania samodzielnych funkcji technicznych, o których mowa w [art. 12](#art-12) ust. 1 pkt 3 i 4.
 
-4. Uprawnienia do projektowania lub kierowania robotami budowlanymi stanowią również podstawę do wykonywania samodzielnych funkcji technicznych, o których mowa w art. 12 ust. 1 pkt 5.
+4. Uprawnienia do projektowania lub kierowania robotami budowlanymi stanowią również podstawę do wykonywania samodzielnych funkcji technicznych, o których mowa w [art. 12](#art-12) ust. 1 pkt 5.
 
+<a id="art-14"></a>
 ### Art. 14.
 
 1. Uprawnienia budowlane są udzielane w specjalnościach:
@@ -550,7 +830,7 @@ b) odbycia odpowiednio półtorarocznej lub trzyletniej praktyki na budowie;
 
 a) ukończenia: – studiów drugiego stopnia na kierunku pokrewnym dla danej specjalności lub – studiów pierwszego stopnia na kierunku odpowiednim dla danej specjalności, lub – studiów pierwszego stopnia na kierunku pokrewnym dla danej specjalności, lub
 
-b) posiadania: – tytułu zawodowego technika lub mistrza, albo – dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe, w zawodzie nauczanym na poziomie technika – w zawodach związanych z budownictwem określonych w przepisach wydanych na podstawie art. 16, w zakresie odpowiednim dla danej specjalności,
+b) posiadania: – tytułu zawodowego technika lub mistrza, albo – dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe, w zawodzie nauczanym na poziomie technika – w zawodach związanych z budownictwem określonych w przepisach wydanych na podstawie [art. 16](#art-16), w zakresie odpowiednim dla danej specjalności,
 
 c) odbycia praktyki na budowie w wymiarze: – półtora roku w przypadku, o którym mowa w lit. a tiret pierwsze i drugie, – trzech lat w przypadku, o którym mowa w lit. a tiret trzecie, – czterech lat w przypadku, o którym mowa w lit. b;
 
@@ -578,10 +858,12 @@ c) odbycia półtorarocznej praktyki na budowie.
 
 5. Do osób ubiegających się o nadanie uprawnień budowlanych bez ograniczeń, posiadających uprawnienia budowlane w ograniczonym zakresie w tej specjalności, nie stosuje się przepisów ust. 3 pkt 1 lit. b i c, pkt 3 lit. b lub pkt 5 lit. b i c.
 
+<a id="art-15"></a>
 ### Art. 15.
 
 (uchylony)
 
+<a id="art-15a"></a>
 ### Art. 15a.
 
 1. Uprawnienia budowlane do projektowania w odpowiedniej specjalności uprawniają do sporządzania projektu zagospodarowania działki lub terenu, w zakresie tej specjalności.
@@ -658,6 +940,7 @@ c) odbycia półtorarocznej praktyki na budowie.
 
 24. Uprawnienia budowlane w odpowiedniej specjalności do kierowania robotami budowlanymi w ograniczonym zakresie, dla osób posiadających tytuł zawodowy mistrza, stanowią podstawę do wykonywania czynności wyłącznie w zakresie objętym danym rzemiosłem w odniesieniu do obiektów budowlanych o kubaturze do 1000 m3.
 
+<a id="art-16"></a>
 ### Art. 16.
 
 Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
@@ -680,8 +963,10 @@ c) dokumentowania i odbywania praktyki, a także kryteria uznawania praktyki,
 
 d) przeprowadzania egzaminu ze znajomości procesu budowlanego oraz umiejętności praktycznego zastosowania wiedzy technicznej – mając na względzie zapewnienie przejrzystego i sprawnego przeprowadzania czynności związanych z nadawaniem uprawnień budowlanych, a także uznawaniem praktyk zawodowych.
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Prawa i obowiązki uczestników procesu budowlanego
 
+<a id="art-17"></a>
 ### Art. 17.
 
 Uczestnikami procesu budowlanego, w rozumieniu ustawy, są:
@@ -694,6 +979,7 @@ Uczestnikami procesu budowlanego, w rozumieniu ustawy, są:
 
 4) kierownik budowy lub kierownik robót.
 
+<a id="art-18"></a>
 ### Art. 18.
 
 1. Do obowiązków inwestora należy zorganizowanie procesu budowy, z uwzględnieniem zawartych w przepisach zasad bezpieczeństwa i ochrony zdrowia, a w szczególności zapewnienie:
@@ -712,12 +998,14 @@ Uczestnikami procesu budowlanego, w rozumieniu ustawy, są:
 
 3. Inwestor może zobowiązać projektanta do sprawowania nadzoru autorskiego.
 
+<a id="art-19"></a>
 ### Art. 19.
 
 1. Organ administracji architektoniczno-budowlanej może w decyzji o pozwoleniu na budowę nałożyć na inwestora obowiązek ustanowienia inspektora nadzoru inwestorskiego, a także obowiązek zapewnienia nadzoru autorskiego, w przypadkach uzasadnionych wysokim stopniem skomplikowania obiektu lub robót budowlanych bądź przewidywanym wpływem na środowisko.
 
 2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, rodzaje obiektów budowlanych, przy których realizacji jest wymagane ustanowienie inspektora nadzoru inwestorskiego, oraz listę obiektów budowlanych i kryteria techniczne, jakimi powinien kierować się organ administracji architektoniczno-budowlanej podczas nakładania na inwestora obowiązku ustanowienia inspektora nadzoru inwestorskiego.
 
+<a id="art-20"></a>
 ### Art. 20.
 
 1. Do podstawowych obowiązków projektanta należy:
@@ -754,6 +1042,7 @@ b) uzgadniania możliwości wprowadzenia rozwiązań zamiennych w stosunku do pr
 
 4. (uchylony)
 
+<a id="art-21"></a>
 ### Art. 21.
 
 1. Projektant, w trakcie realizacji budowy, ma prawo:
@@ -768,9 +1057,10 @@ b) wykonywania ich niezgodnie z projektem.
 
 2. W przypadku robót budowlanych, dla których nie prowadzi się dziennika budowy, uprawnienie projektanta do żądania wstrzymania robót budowlanych, o którym mowa w ust. 1 pkt 2, jest realizowane przez zawiadomienie właściwego organu nadzoru budowlanego o wystąpieniu przesłanek określonych w ust. 1 pkt 2 lit. a lub b.
 
+<a id="art-21a"></a>
 ### Art. 21a.
 
-1. Kierownik budowy jest obowiązany, w oparciu o informację, o której mowa w art. 20 ust. 1 pkt 1b, sporządzić lub zapewnić sporządzenie, przed rozpoczęciem budowy, planu bezpieczeństwa i ochrony zdrowia, uwzględniając specyfikę obiektu budowlanego i warunki prowadzenia robót budowlanych, w tym planowane jednoczesne prowadzenie robót budowlanych i produkcji przemysłowej.
+1. Kierownik budowy jest obowiązany, w oparciu o informację, o której mowa w [art. 20](#art-20) ust. 1 pkt 1b, sporządzić lub zapewnić sporządzenie, przed rozpoczęciem budowy, planu bezpieczeństwa i ochrony zdrowia, uwzględniając specyfikę obiektu budowlanego i warunki prowadzenia robót budowlanych, w tym planowane jednoczesne prowadzenie robót budowlanych i produkcji przemysłowej.
 
 1a. Plan bezpieczeństwa i ochrony zdrowia na budowie sporządza się, jeżeli:
 
@@ -812,6 +1102,7 @@ b) planu bezpieczeństwa i ochrony zdrowia – mając na uwadze specyfikę proje
 
 2) szczegółowy zakres rodzajów robót budowlanych, o których mowa w ust. 2, mając na uwadze stopień zagrożeń, jakie stwarzają poszczególne ich rodzaje.
 
+<a id="art-22"></a>
 ### Art. 22.
 
 Do podstawowych obowiązków kierownika budowy należy:
@@ -828,13 +1119,13 @@ a) przy opracowywaniu technicznych lub organizacyjnych założeń planowanych ro
 
 b) przy planowaniu czasu wymaganego do zakończenia robót budowlanych lub ich poszczególnych etapów;
 
-3b) koordynowanie działań zapewniających przestrzeganie podczas wykonywania robót budowlanych zasad bezpieczeństwa i ochrony zdrowia zawartych w przepisach, o których mowa w art. 21a ust. 3, oraz w planie bezpieczeństwa i ochrony zdrowia;
+3b) koordynowanie działań zapewniających przestrzeganie podczas wykonywania robót budowlanych zasad bezpieczeństwa i ochrony zdrowia zawartych w przepisach, o których mowa w [art. 21a](#art-21a) ust. 3, oraz w planie bezpieczeństwa i ochrony zdrowia;
 
-3c) wprowadzanie niezbędnych zmian w informacji, o której mowa w art. 20 ust. 1 pkt 1b, oraz w planie bezpieczeństwa i ochrony zdrowia, wynikających z postępu wykonywanych robót budowlanych;
+3c) wprowadzanie niezbędnych zmian w informacji, o której mowa w [art. 20](#art-20) ust. 1 pkt 1b, oraz w planie bezpieczeństwa i ochrony zdrowia, wynikających z postępu wykonywanych robót budowlanych;
 
 3d) podejmowanie niezbędnych działań uniemożliwiających wstęp na budowę osobom nieupoważnionym;
 
-3e) zapewnienie przy wykonywaniu robót budowlanych stosowania wyrobów, zgodnie z art. 10;
+3e) zapewnienie przy wykonywaniu robót budowlanych stosowania wyrobów, zgodnie z [art. 10](#art-10);
 
 4) wstrzymanie robót budowlanych w przypadku stwierdzenia możliwości powstania zagrożenia oraz bezzwłoczne zawiadomienie o tym właściwego organu;
 
@@ -846,8 +1137,9 @@ b) przy planowaniu czasu wymaganego do zakończenia robót budowlanych lub ich p
 
 8) przygotowanie dokumentacji powykonawczej obiektu budowlanego;
 
-9) zgłoszenie obiektu budowlanego do odbioru odpowiednim wpisem do dziennika budowy oraz uczestniczenie w czynnościach odbioru i zapewnienie usunięcia stwierdzonych wad, a także przekazanie inwestorowi oświadczenia, o którym mowa w art. 57 ust. 1 pkt 2.
+9) zgłoszenie obiektu budowlanego do odbioru odpowiednim wpisem do dziennika budowy oraz uczestniczenie w czynnościach odbioru i zapewnienie usunięcia stwierdzonych wad, a także przekazanie inwestorowi oświadczenia, o którym mowa w [art. 57](#art-57) ust. 1 pkt 2.
 
+<a id="art-23"></a>
 ### Art. 23.
 
 Kierownik budowy ma prawo:
@@ -856,40 +1148,46 @@ Kierownik budowy ma prawo:
 
 2) ustosunkowania się w dzienniku budowy do zaleceń w nim zawartych.
 
+<a id="art-23a"></a>
 ### Art. 23a.
 
 (uchylony)
 
+<a id="art-24"></a>
 ### Art. 24.
 
 1. Łączenie funkcji kierownika budowy i inspektora nadzoru inwestorskiego nie jest dopuszczalne.
 
-2. Przepisy ust. 1 oraz art. 22 i art. 23 stosuje się odpowiednio do kierownika robót.
+2. Przepisy ust. 1 oraz [art. 22](#art-22) i [art. 23](#art-23) stosuje się odpowiednio do kierownika robót.
 
+<a id="art-25"></a>
 ### Art. 25.
 
 Do podstawowych obowiązków inspektora nadzoru inwestorskiego należy:
 
 1) reprezentowanie inwestora na budowie przez sprawowanie kontroli zgodności jej realizacji z projektem lub pozwoleniem na budowę, przepisami oraz zasadami wiedzy technicznej;
 
-2) sprawdzanie jakości wykonywanych robót budowlanych i stosowania przy wykonywaniu tych robót wyrobów zgodnie z art. 10;
+2) sprawdzanie jakości wykonywanych robót budowlanych i stosowania przy wykonywaniu tych robót wyrobów zgodnie z [art. 10](#art-10);
 
 3) sprawdzanie i odbiór robót budowlanych ulegających zakryciu lub zanikających, uczestniczenie w próbach i odbiorach technicznych instalacji, urządzeń technicznych i przewodów kominowych oraz przygotowanie i udział w czynnościach odbioru gotowych obiektów budowlanych i przekazywanie ich do użytkowania;
 
 4) potwierdzanie faktycznie wykonanych robót oraz usunięcia wad, a także, na żądanie inwestora, kontrolowanie rozliczeń budowy.
 
+<a id="art-26"></a>
 ### Art. 26.
 
 Inspektor nadzoru inwestorskiego ma prawo:
 
-1) wydawać kierownikowi budowy lub kierownikowi robót polecenia, potwierdzone wpisem do dziennika budowy, dotyczące: usunięcia nieprawidłowości lub zagrożeń, wykonania prób lub badań, także wymagających odkrycia robót lub elementów zakrytych, przedstawienia ekspertyz dotyczących prowadzonych robót budowlanych oraz informacji i dokumentów potwierdzających zastosowanie przy wykonywaniu robót budowlanych wyrobów, zgodnie z art. 10, a także informacji i dokumentów potwierdzających dopuszczenie do stosowania urządzeń technicznych;
+1) wydawać kierownikowi budowy lub kierownikowi robót polecenia, potwierdzone wpisem do dziennika budowy, dotyczące: usunięcia nieprawidłowości lub zagrożeń, wykonania prób lub badań, także wymagających odkrycia robót lub elementów zakrytych, przedstawienia ekspertyz dotyczących prowadzonych robót budowlanych oraz informacji i dokumentów potwierdzających zastosowanie przy wykonywaniu robót budowlanych wyrobów, zgodnie z [art. 10](#art-10), a także informacji i dokumentów potwierdzających dopuszczenie do stosowania urządzeń technicznych;
 
 2) żądać od kierownika budowy lub kierownika robót dokonania poprawek bądź ponownego wykonania wadliwie wykonanych robót, a także wstrzymania dalszych robót budowlanych w przypadku, gdyby ich kontynuacja mogła wywołać zagrożenie bądź spowodować niedopuszczalną niezgodność z projektem lub pozwoleniem na budowę.
 
+<a id="art-27"></a>
 ### Art. 27.
 
 Przy budowie obiektu budowlanego, wymagającego ustanowienia inspektorów nadzoru inwestorskiego w zakresie różnych specjalności, inwestor wyznacza jednego z nich jako koordynatora ich czynności na budowie.
 
+<a id="art-27a"></a>
 ### Art. 27a.
 
 W trakcie projektowania i budowy obiektu budowlanego wykonanie czynności geodezyjnych na potrzeby budownictwa w rozumieniu art. 2 pkt 2a ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne przez osobę posiadającą odpowiednie uprawnienia zawodowe w dziedzinie geodezji i kartografii zapewnia:
@@ -898,11 +1196,13 @@ W trakcie projektowania i budowy obiektu budowlanego wykonanie czynności geodez
 
 2) kierownik budowy, a jeżeli nie został ustanowiony – inwestor – w zakresie pozostałych czynności geodezyjnych wykonywanych w trakcie budowy obiektu budowlanego, w szczególności dotyczących wytyczenia obiektu budowlanego w terenie, wykonywania pomiarów kontrolnych oraz pomiarów przemieszczeń i odkształceń obiektu budowlanego.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Postępowanie poprzedzające rozpoczęcie robót budowlanych
 
+<a id="art-28"></a>
 ### Art. 28.
 
-1. Roboty budowlane można rozpocząć jedynie na podstawie decyzji o pozwoleniu na budowę, z zastrzeżeniem art. 29–31.
+1. Roboty budowlane można rozpocząć jedynie na podstawie decyzji o pozwoleniu na budowę, z zastrzeżeniem [art. 29](#art-29)–31.
 
 1a. Decyzję o pozwoleniu na budowę wydaje organ administracji architektoniczno-budowlanej.
 
@@ -914,9 +1214,10 @@ W trakcie projektowania i budowy obiektu budowlanego wykonanie czynności geodez
 
 4. Przepisów ust. 2 i 3 nie stosuje się w postępowaniu w sprawie pozwolenia na budowę wymagającym udziału społeczeństwa zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
+<a id="art-29"></a>
 ### Art. 29.
 
-1. Nie wymaga decyzji o pozwoleniu na budowę, natomiast wymaga zgłoszenia, o którym mowa w art. 30, budowa:
+1. Nie wymaga decyzji o pozwoleniu na budowę, natomiast wymaga zgłoszenia, o którym mowa w [art. 30](#art-30), budowa:
 
 1) wolno stojących budynków mieszkalnych jednorodzinnych, których obszar oddziaływania mieści się w całości na działce lub działkach, na których zostały zaprojektowane;
 
@@ -1018,11 +1319,11 @@ e) cieplnych,
 
 f) telekomunikacyjnych,
 
-g) wodorowych – z zastrzeżeniem art. 29a;
+g) wodorowych – z zastrzeżeniem [art. 29a](#art-29a);
 
 24) kanałów technologicznych, w rozumieniu art. 4 pkt 15a ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889), w pasie drogowym w ramach przebudowy drogi;
 
-25)[21)] stacji ładowania w rozumieniu art. 2 pkt 27 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289, 1853 i 1881), z wyłączeniem infrastruktury ładowania drogowego transportu publicznego w rozumieniu art. 2 pkt 3 tej ustawy, z uwzględnieniem art. 29a;
+25)[21)] stacji ładowania w rozumieniu art. 2 pkt 27 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289, 1853 i 1881), z wyłączeniem infrastruktury ładowania drogowego transportu publicznego w rozumieniu art. 2 pkt 3 tej ustawy, z uwzględnieniem [art. 29a](#art-29a);
 
 26) niecek dezynfekcyjnych, w tym niecek dezynfekcyjnych z zadaszeniem;
 
@@ -1064,7 +1365,7 @@ d) silosów na kiszonkę, e)22) bezodpływowych zbiorników na wody opadowe lub 
 
 40)[23)] wolno stojących magazynów energii elektrycznej o pojemności nominalnej większej niż 30 kWh i niewiększej niż 300 kWh.
 
-2. Nie wymaga decyzji o pozwoleniu na budowę oraz zgłoszenia, o którym mowa w art. 30, budowa:
+2. Nie wymaga decyzji o pozwoleniu na budowę oraz zgłoszenia, o którym mowa w [art. 30](#art-30), budowa:
 
 1) obiektów gospodarczych związanych z produkcją rolną i uzupełniających zabudowę zagrodową w ramach istniejącej działki siedliskowej:
 
@@ -1174,7 +1475,7 @@ b) bezodciągowych przeznaczonych do instalowania na nich urządzeń radiokomuni
 
 39)[31)] wolno stojących magazynów energii elektrycznej o pojemności nominalnej niewiększej niż 30 kWh.
 
-3. Nie wymaga decyzji o pozwoleniu na budowę, natomiast wymaga zgłoszenia, o którym mowa w art. 30, wykonywanie robót budowlanych polegających na:
+3. Nie wymaga decyzji o pozwoleniu na budowę, natomiast wymaga zgłoszenia, o którym mowa w [art. 30](#art-30), wykonywanie robót budowlanych polegających na:
 
 1) przebudowie:
 
@@ -1204,7 +1505,7 @@ d) wewnątrz i na zewnątrz użytkowanego budynku instalacji gazowych, e)35) ins
 
 f) urządzeń do oczyszczania wodoru o przepustowości niewiększej niż 250 kg wodoru na dobę, g)36) na obiekcie budowlanym urządzeń technicznych wraz z masztami służących do wytwarzania energii elektrycznej z energii wiatru o mocy niewiększej niż moc mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii oraz o łącznej wysokości większej niż 3 m i niewiększej niż 12 m, z wyjątkiem obiektów sytuowanych na obszarze objętym planem generalnym lotniska użytku publicznego, h)36) magazynów energii elektrycznej o pojemności nominalnej większej niż 30 kWh i niewiększej niż 300 kWh.
 
-4. Nie wymaga decyzji o pozwoleniu na budowę oraz zgłoszenia, o którym mowa w art. 30, wykonywanie robót budowlanych polegających na:
+4. Nie wymaga decyzji o pozwoleniu na budowę oraz zgłoszenia, o którym mowa w [art. 30](#art-30), wykonywanie robót budowlanych polegających na:
 
 1) przebudowie:
 
@@ -1232,7 +1533,7 @@ e) punktów dostępu bezprzewodowego o bliskim zasięgu, o których mowa w art. 
 
 5. Inwestor zamiast dokonania zgłoszenia dotyczącego budowy, o której mowa w ust. 1, lub robót budowlanych, o których mowa w ust. 3, może wystąpić z wnioskiem o wydanie decyzji o pozwoleniu na budowę.
 
-5a. Jeżeli wykonywanie robót budowlanych, o których mowa w ust. 1‒4, wymaga uzyskania zgody na odstępstwo od przepisów techniczno-budowlanych, o której mowa w art. 9, inwestor występuje z wnioskiem o wydanie decyzji o pozwoleniu na budowę.
+5a. Jeżeli wykonywanie robót budowlanych, o których mowa w ust. 1‒4, wymaga uzyskania zgody na odstępstwo od przepisów techniczno-budowlanych, o której mowa w [art. 9](#art-9), inwestor występuje z wnioskiem o wydanie decyzji o pozwoleniu na budowę.
 
 6. Decyzji o pozwoleniu na budowę wymagają przedsięwzięcia, które wymagają przeprowadzenia oceny oddziaływania na środowisko, oraz przedsięwzięcia wymagające przeprowadzenia oceny oddziaływania na obszar Natura 2000, zgodnie z art. 59 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, z wyłączeniem przedsięwzięć, o których mowa w ust. 1 pkt 17–19.
 
@@ -1244,14 +1545,16 @@ e) punktów dostępu bezprzewodowego o bliskim zasięgu, o których mowa w art. 
 
 8. Przepisów ust. 6 i 7 nie stosuje się do przedsięwzięć, o których mowa w ust. 1 pkt 7, polegających na budowie i przebudowie przenośnych wolno stojących masztów antenowych, w przypadku, gdy inwestorem jest przedsiębiorca telekomunikacyjny lub podmiot, o którym mowa w art. 2 pkt 87 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252).
 
+<a id="art-29a"></a>
 ### Art. 29a.
 
-1. Budowa przyłączy, o których mowa w art. 29 ust. 1 pkt 23, lub stacji ładowania, o których mowa w art. 29 ust. 1 pkt 25, wymaga sporządzenia planu sytuacyjnego na kopii aktualnej mapy zasadniczej lub mapy jednostkowej przyjętej do państwowego zasobu geodezyjnego i kartograficznego.
+1. Budowa przyłączy, o których mowa w [art. 29](#art-29) ust. 1 pkt 23, lub stacji ładowania, o których mowa w [art. 29](#art-29) ust. 1 pkt 25, wymaga sporządzenia planu sytuacyjnego na kopii aktualnej mapy zasadniczej lub mapy jednostkowej przyjętej do państwowego zasobu geodezyjnego i kartograficznego.
 
 2. Do budowy, o której mowa w ust. 1, stosuje się przepisy prawa energetycznego albo o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków.
 
-3. Przepisów ust. 1 i 2 nie stosuje się, jeżeli inwestor dokonał zgłoszenia, o którym mowa w art. 30.
+3. Przepisów ust. 1 i 2 nie stosuje się, jeżeli inwestor dokonał zgłoszenia, o którym mowa w [art. 30](#art-30).
 
+<a id="art-30"></a>
 ### Art. 30.
 
 1. (uchylony)
@@ -1264,7 +1567,7 @@ e) punktów dostępu bezprzewodowego o bliskim zasięgu, o których mowa w art. 
 
 2a. Do zgłoszenia należy dołączyć:
 
-1) oświadczenie, o którym mowa w art. 32 ust. 4 pkt 2;
+1) oświadczenie, o którym mowa w [art. 32](#art-32) ust. 4 pkt 2;
 
 1a)[45)] decyzję o warunkach zabudowy i zagospodarowania terenu, jeżeli jest ona wymagana zgodnie z przepisami o planowaniu i zagospodarowaniu przestrzennym;
 
@@ -1272,29 +1575,29 @@ e) punktów dostępu bezprzewodowego o bliskim zasięgu, o których mowa w art. 
 
 3)[46)] opinie, uzgodnienia, pozwolenia i inne dokumenty, których obowiązek dołączenia wynika z przepisów odrębnych ustaw, w szczególności decyzję o środowiskowych uwarunkowaniach zgodnie z art. 72 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub kopie tych opinii, uzgodnień, pozwoleń i innych dokumentów;
 
-3a) dokumentację techniczną zawierającą rozwiązania zapewniające nośność i stateczność konstrukcji, bezpieczeństwo ludzi i mienia oraz bezpieczeństwo pożarowe, której zakres i treść powinna być dostosowana do specyfiki i charakteru obiektu oraz stopnia skomplikowania robót budowlanych, wykonaną przez projektanta posiadającego odpowiednie uprawnienia budowlane – w przypadku budowy, o której mowa w art. 29 ust. 1 pkt 32 i 33;
+3a) dokumentację techniczną zawierającą rozwiązania zapewniające nośność i stateczność konstrukcji, bezpieczeństwo ludzi i mienia oraz bezpieczeństwo pożarowe, której zakres i treść powinna być dostosowana do specyfiki i charakteru obiektu oraz stopnia skomplikowania robót budowlanych, wykonaną przez projektanta posiadającego odpowiednie uprawnienia budowlane – w przypadku budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 32 i 33;
 
-3b)[47)] projekt architektoniczno-budowlany wykonany przez projektanta posiadającego odpowiednie uprawnienia budowlane – w przypadku instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. g;
+3b)[47)] projekt architektoniczno-budowlany wykonany przez projektanta posiadającego odpowiednie uprawnienia budowlane – w przypadku instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. g;
 
-3c)[47)] dokumentację techniczną, o której mowa w pkt 3a, uzgodnioną pod względem ochrony przeciwpożarowej – w przypadku instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. h;
+3c)[47)] dokumentację techniczną, o której mowa w pkt 3a, uzgodnioną pod względem ochrony przeciwpożarowej – w przypadku instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. h;
 
 4) projekt zagospodarowania działki lub terenu wraz z opisem technicznym instalacji, wykonany przez projektanta posiadającego odpowiednie uprawnienia budowlane w przypadku:
 
-a) budowy, o której mowa w art. 29 ust. 1 pkt 9, 23, 30 i 30a, oraz
+a) budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 9, 23, 30 i 30a, oraz
 
-b) instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. e;
+b) instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. e;
 
-5)[48)] projekt zagospodarowania działki lub terenu, wykonany przez projektanta posiadającego wymagane uprawnienia budowlane, w przypadku budowy, o której mowa w art. 29 ust. 1 pkt 27, 28 i 40;
+5)[48)] projekt zagospodarowania działki lub terenu, wykonany przez projektanta posiadającego wymagane uprawnienia budowlane, w przypadku budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 27, 28 i 40;
 
-6) w przypadku budowy, o której mowa w art. 29 ust. 1 pkt 1a – oświadczenie inwestora, że planowana budowa jest prowadzona w celu zaspokojenia własnych potrzeb mieszkaniowych, złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872); składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy(-ma) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+6) w przypadku budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1a – oświadczenie inwestora, że planowana budowa jest prowadzona w celu zaspokojenia własnych potrzeb mieszkaniowych, złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872); składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy(-ma) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
 
 7) oświadczenie inwestora, że:
 
 a) przyjmuje odpowiedzialność za kierowanie budową w przypadku nieustanowienia kierownika budowy,
 
-b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy, o której mowa w art. 29 ust. 1 pkt 1a.
+b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1a.
 
-3.[49)] Projekt zagospodarowania działki lub terenu, w przypadku budowy instalacji gazowej, o której mowa w art. 29 ust. 1 pkt 9, 30 i 30a, budowy magazynu energii elektrycznej, o której mowa w art. 29 ust. 1 pkt 40, oraz instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. e, uzgadnia się pod względem ochrony przeciwpożarowej. W przypadku budowy, o której mowa w art. 29 ust. 1 pkt 40, oraz instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. e i h, stosuje się ponadto obowiązek zawiadomienia organów Państwowej Straży Pożarnej o zakończeniu instalowania instalacji odnawialnego źródła energii o rocznej wydajności biogazu rolniczego do 200 000 m3 oraz mikroinstalacji do wytwarzania energii elektrycznej z biogazu rolniczego lub magazynu energii elektrycznej i rozpoczęciu ich użytkowania, wraz z zawiadomieniem przekazuje się tym organom plan przedstawiający lokalizację w obiekcie magazynu energii elektrycznej wraz z rozwiązaniami i danymi istotnymi dla bezpieczeństwa ekip ratowniczych.
+3.[49)] Projekt zagospodarowania działki lub terenu, w przypadku budowy instalacji gazowej, o której mowa w [art. 29](#art-29) ust. 1 pkt 9, 30 i 30a, budowy magazynu energii elektrycznej, o której mowa w [art. 29](#art-29) ust. 1 pkt 40, oraz instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. e, uzgadnia się pod względem ochrony przeciwpożarowej. W przypadku budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 40, oraz instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. e i h, stosuje się ponadto obowiązek zawiadomienia organów Państwowej Straży Pożarnej o zakończeniu instalowania instalacji odnawialnego źródła energii o rocznej wydajności biogazu rolniczego do 200 000 m3 oraz mikroinstalacji do wytwarzania energii elektrycznej z biogazu rolniczego lub magazynu energii elektrycznej i rozpoczęciu ich użytkowania, wraz z zawiadomieniem przekazuje się tym organom plan przedstawiający lokalizację w obiekcie magazynu energii elektrycznej wraz z rozwiązaniami i danymi istotnymi dla bezpieczeństwa ekip ratowniczych.
 
 3a. Uzgodnienie, o którym mowa w ust. 3, albo jego kopię, dołącza się do projektu zagospodarowania działki lub terenu.
 
@@ -1312,11 +1615,11 @@ b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy
 
 2) oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiegał o dofinansowanie zamierzenia budowlanego z budżetu Unii Europejskiej.
 
-4b. Do zgłoszenia budowy, o której mowa w art. 29 ust. 1 pkt 1–4, należy dołączyć dokumenty, o których mowa w art. 33 ust. 2 pkt 1–4. Organ administracji architektoniczno-budowlanej po otrzymaniu zgłoszenia dokonuje jego sprawdzenia w zakresie, o którym mowa w art. 35 ust. 1.
+4b. Do zgłoszenia budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–4, należy dołączyć dokumenty, o których mowa w [art. 33](#art-33) ust. 2 pkt 1–4. Organ administracji architektoniczno-budowlanej po otrzymaniu zgłoszenia dokonuje jego sprawdzenia w zakresie, o którym mowa w [art. 35](#art-35) ust. 1.
 
-4bb.[50)] Projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany, w przypadku budowy magazynu energii elektrycznej, o której mowa w art. 29 ust. 1 pkt 3c, uzgadnia się pod względem ochrony przeciwpożarowej. W takim przypadku stosuje się także obowiązek zawiadomienia organów Państwowej Straży Pożarnej o zakończeniu budowy magazynu energii elektrycznej i rozpoczęciu jego użytkowania, przy którym przekazuje się plan przedstawiający lokalizację magazynu energii elektrycznej wraz z rozwiązaniami i danymi istotnymi dla bezpieczeństwa ekip ratowniczych.
+4bb.[50)] Projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany, w przypadku budowy magazynu energii elektrycznej, o której mowa w [art. 29](#art-29) ust. 1 pkt 3c, uzgadnia się pod względem ochrony przeciwpożarowej. W takim przypadku stosuje się także obowiązek zawiadomienia organów Państwowej Straży Pożarnej o zakończeniu budowy magazynu energii elektrycznej i rozpoczęciu jego użytkowania, przy którym przekazuje się plan przedstawiający lokalizację magazynu energii elektrycznej wraz z rozwiązaniami i danymi istotnymi dla bezpieczeństwa ekip ratowniczych.
 
-4c. Do zgłoszenia przebudowy, o której mowa w art. 29 ust. 3 pkt 1 lit. a i aa, oraz instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. d, należy dołączyć dokumenty, o których mowa w art. 33 ust. 2 pkt 1, 2 i 4.51) Organ administracji architektoniczno-budowlanej po otrzymaniu zgłoszenia dokonuje jego sprawdzenia w zakresie, o którym mowa w art. 35 ust. 1.
+4c. Do zgłoszenia przebudowy, o której mowa w [art. 29](#art-29) ust. 3 pkt 1 lit. a i aa, oraz instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. d, należy dołączyć dokumenty, o których mowa w [art. 33](#art-33) ust. 2 pkt 1, 2 i 4.51) Organ administracji architektoniczno-budowlanej po otrzymaniu zgłoszenia dokonuje jego sprawdzenia w zakresie, o którym mowa w [art. 35](#art-35) ust. 1.
 
 4d. Zgłoszenia budowy lub wykonywania innych robót budowlanych dokonuje się w:
 
@@ -1340,19 +1643,19 @@ b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy
 
 5d. Nałożenie obowiązku, o którym mowa w ust. 5c, przerywa bieg terminu, o którym mowa w ust. 5.
 
-5e. W przypadku gdy organ administracji architektoniczno-budowlanej nie wniósł sprzeciwu, projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany dotyczący budowy, o której mowa w art. 29 ust. 1 pkt 1–4, oraz przebudowy, o której mowa w art. 29 ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. d, podlegają ostemplowaniu. Organ administracji architektoniczno-budowlanej dokonuje ostemplowania niezwłocznie po upływie terminu na wniesienie sprzeciwu.
+5e. W przypadku gdy organ administracji architektoniczno-budowlanej nie wniósł sprzeciwu, projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany dotyczący budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–4, oraz przebudowy, o której mowa w [art. 29](#art-29) ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. d, podlegają ostemplowaniu. Organ administracji architektoniczno-budowlanej dokonuje ostemplowania niezwłocznie po upływie terminu na wniesienie sprzeciwu.
 
-5f. Do wykonywania robót budowlanych polegających na budowie lub przebudowie przenośnych wolno stojących masztów antenowych w przypadku, gdy inwestorem jest podmiot, o którym mowa w art. 29 ust. 8, można przystąpić w terminie 3 dni roboczych następujących po dniu doręczenia organowi administracji architektoniczno-budowlanej zgłoszenia, o którym mowa w ust. 1b.
+5f. Do wykonywania robót budowlanych polegających na budowie lub przebudowie przenośnych wolno stojących masztów antenowych w przypadku, gdy inwestorem jest podmiot, o którym mowa w [art. 29](#art-29) ust. 8, można przystąpić w terminie 3 dni roboczych następujących po dniu doręczenia organowi administracji architektoniczno-budowlanej zgłoszenia, o którym mowa w ust. 1b.
 
 5g. Organ administracji architektoniczno-budowlanej może wnieść sprzeciw do zgłoszenia, o którym mowa w ust. 5f, w terminie 14 dni od dnia doręczenia zgłoszenia wyłącznie w przypadku, gdy wykonanie robót budowlanych lub obiektu objętego zgłoszeniem może spowodować zagrożenie bezpieczeństwa ludzi lub mienia.
 
 5h. (uchylony)
 
-5i. Przepisy ust. 5f i 5g oraz art. 29 ust. 8 stosuje się podczas stanu zagrożenia epidemicznego, stanu epidemii albo stanu klęski żywiołowej.
+5i. Przepisy ust. 5f i 5g oraz [art. 29](#art-29) ust. 8 stosuje się podczas stanu zagrożenia epidemicznego, stanu epidemii albo stanu klęski żywiołowej.
 
-5j. Do zgłoszenia budowy, o której mowa w art. 29 ust. 1 pkt 1a, przepisów ust. 4b zdanie drugie, ust. 5 zdanie drugie i trzecie, ust. 5aa, 5c, 5d i 6–7 nie stosuje się.
+5j. Do zgłoszenia budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1a, przepisów ust. 4b zdanie drugie, ust. 5 zdanie drugie i trzecie, ust. 5aa, 5c, 5d i 6–7 nie stosuje się.
 
-5k. Do budowy, o której mowa w art. 29 ust. 1 pkt 1a, można przystąpić po doręczeniu zgłoszenia organowi administracji architektoniczno-budowlanej.
+5k. Do budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1a, można przystąpić po doręczeniu zgłoszenia organowi administracji architektoniczno-budowlanej.
 
 6. Organ administracji architektoniczno-budowlanej wnosi sprzeciw, jeżeli:
 
@@ -1360,7 +1663,7 @@ b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy
 
 2) budowa lub wykonywanie robót budowlanych objętych zgłoszeniem narusza ustalenia miejscowego planu zagospodarowania przestrzennego, decyzji o warunkach zabudowy, inne akty prawa miejscowego lub inne przepisy;
 
-3) zgłoszenie dotyczy budowy tymczasowego obiektu budowlanego, o którym mowa w art. 29 ust. 1 pkt 7, w miejscu, w którym taki obiekt istnieje;
+3) zgłoszenie dotyczy budowy tymczasowego obiektu budowlanego, o którym mowa w [art. 29](#art-29) ust. 1 pkt 7, w miejscu, w którym taki obiekt istnieje;
 
 4) roboty budowlane zostały rozpoczęte z naruszeniem ust. 5.
 
@@ -1376,16 +1679,18 @@ b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy
 
 4) wprowadzenie, utrwalenie, zwiększenie ograniczeń lub uciążliwości dla terenów sąsiednich.
 
+<a id="art-30a"></a>
 ### Art. 30a.
 
-52) W przypadku zgłoszenia budowy, o której mowa w art. 29 ust. 1 pkt 1–2 i 3–3b, przebudowy, o której mowa w art. 29 ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. d, z wyłączeniem obiektów budowlanych usytuowanych na terenach zamkniętych, ustalonych decyzją Ministra Obrony Narodowej, organ administracji architektoniczno-budowlanej zamieszcza, na okres niekrótszy niż 30 dni i niedłuższy niż 60 dni, w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu w terminie 3 dni od dnia:
+52) W przypadku zgłoszenia budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–2 i 3–3b, przebudowy, o której mowa w [art. 29](#art-29) ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. d, z wyłączeniem obiektów budowlanych usytuowanych na terenach zamkniętych, ustalonych decyzją Ministra Obrony Narodowej, organ administracji architektoniczno-budowlanej zamieszcza, na okres niekrótszy niż 30 dni i niedłuższy niż 60 dni, w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu w terminie 3 dni od dnia:
 
 1) doręczenia zgłoszenia – informację o dokonaniu zgłoszenia, zawierającą imię i nazwisko albo nazwę inwestora oraz adres i opis projektowanego obiektu;
 
 2) wniesienia sprzeciwu – informację o dacie jego wniesienia;
 
-3) upływu terminu, o którym mowa w art. 30 ust. 5 – informację o braku wniesienia sprzeciwu.
+3) upływu terminu, o którym mowa w [art. 30](#art-30) ust. 5 – informację o braku wniesienia sprzeciwu.
 
+<a id="art-30b"></a>
 ### Art. 30b.
 
 1. Rozbiórkę można rozpocząć po uzyskaniu decyzji o pozwoleniu na rozbiórkę.
@@ -1416,6 +1721,7 @@ b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy
 
 6. Formularz wniosku, o którym mowa w ust. 4, w formie dokumentu elektronicznego Główny Inspektor Nadzoru Budowlanego udostępnia na portalu e-Budownictwo.
 
+<a id="art-31"></a>
 ### Art. 31.
 
 1. Nie wymaga decyzji o pozwoleniu na rozbiórkę, ale wymaga zgłoszenia:
@@ -1448,7 +1754,7 @@ b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy
 
 1f. Formularz zgłoszenia rozbiórki, o której mowa w ust. 1, w formie dokumentu elektronicznego Główny Inspektor Nadzoru Budowlanego udostępnia na portalu e-Budownictwo.
 
-2. W zgłoszeniu rozbiórki, o której mowa w ust. 1, należy określić zakres, miejsce i sposób wykonywania rozbiórki. Przepisy art. 30 ust. 5, 5aa, 5c, 5d i 6a oraz art. 30b ust. 3 pkt 1 stosuje się odpowiednio.
+2. W zgłoszeniu rozbiórki, o której mowa w ust. 1, należy określić zakres, miejsce i sposób wykonywania rozbiórki. Przepisy [art. 30](#art-30) ust. 5, 5aa, 5c, 5d i 6a oraz [art. 30b](#art-30b) ust. 3 pkt 1 stosuje się odpowiednio.
 
 2a. (uchylony)
 
@@ -1462,12 +1768,14 @@ b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy
 
 5. (uchylony)
 
+<a id="art-31a"></a>
 ### Art. 31a.
 
-1. Roboty zabezpieczające i rozbiórkowe można rozpocząć przed uzyskaniem decyzji o pozwoleniu na rozbiórkę lub przed dokonaniem zgłoszenia, o którym mowa w art. 31 ust. 1, jeżeli mają one na celu usunięcie bezpośredniego zagrożenia bezpieczeństwa ludzi lub mienia.
+1. Roboty zabezpieczające i rozbiórkowe można rozpocząć przed uzyskaniem decyzji o pozwoleniu na rozbiórkę lub przed dokonaniem zgłoszenia, o którym mowa w [art. 31](#art-31) ust. 1, jeżeli mają one na celu usunięcie bezpośredniego zagrożenia bezpieczeństwa ludzi lub mienia.
 
 2. Rozpoczęcie robót, o których mowa w ust. 1, nie zwalnia od obowiązku bezzwłocznego uzyskania decyzji o pozwoleniu na rozbiórkę lub dokonania zgłoszenia.
 
+<a id="art-32"></a>
 ### Art. 32.
 
 1. Decyzja o pozwoleniu na budowę lub rozbiórkę obiektu budowlanego może być wydana po uprzednim:
@@ -1522,11 +1830,12 @@ b) dokumentacja dołączona do zgłoszenia jest kompletna – w przypadku budowy
 
 6. Wzór oświadczenia, o którym mowa w ust. 5, obejmuje w szczególności dane osobowe lub nazwę inwestora oraz inne informacje niezbędne do podjęcia rozstrzygnięcia w prowadzonym postępowaniu.
 
+<a id="art-33"></a>
 ### Art. 33.
 
-1. Pozwolenie na budowę dotyczy całego zamierzenia budowlanego. W przypadku zamierzenia budowlanego obejmującego więcej niż jeden obiekt, pozwolenie na budowę może, na wniosek inwestora, dotyczyć wybranych obiektów lub zespołu obiektów, mogących samodzielnie funkcjonować zgodnie z przeznaczeniem. Jeżeli pozwolenie na budowę dotyczy wybranych obiektów lub zespołu obiektów, inwestor jest obowiązany przedstawić projekt zagospodarowania działki lub terenu, o którym mowa w art. 34 ust. 3 pkt 1, dla całego zamierzenia budowlanego.
+1. Pozwolenie na budowę dotyczy całego zamierzenia budowlanego. W przypadku zamierzenia budowlanego obejmującego więcej niż jeden obiekt, pozwolenie na budowę może, na wniosek inwestora, dotyczyć wybranych obiektów lub zespołu obiektów, mogących samodzielnie funkcjonować zgodnie z przeznaczeniem. Jeżeli pozwolenie na budowę dotyczy wybranych obiektów lub zespołu obiektów, inwestor jest obowiązany przedstawić projekt zagospodarowania działki lub terenu, o którym mowa w [art. 34](#art-34) ust. 3 pkt 1, dla całego zamierzenia budowlanego.
 
-1a. Pozwolenie na budowę obiektu budowlanego może nie obejmować przyłączy wymienionych w art. 29 ust. 1 pkt 23, które są wymagane dla takiego obiektu. Nie zwalnia to z obowiązków, o których mowa w art. 29 ust. 1 pkt 23, art. 29a i art. 57 ust. 1 pkt 4 lit. a.
+1a. Pozwolenie na budowę obiektu budowlanego może nie obejmować przyłączy wymienionych w [art. 29](#art-29) ust. 1 pkt 23, które są wymagane dla takiego obiektu. Nie zwalnia to z obowiązków, o których mowa w [art. 29](#art-29) ust. 1 pkt 23, [art. 29a](#art-29a) i [art. 57](#art-57) ust. 1 pkt 4 lit. a.
 
 2. Do wniosku o pozwolenie na budowę należy dołączyć:
 
@@ -1542,7 +1851,7 @@ b) elektronicznej – wraz z opiniami, uzgodnieniami, pozwoleniami i innymi doku
 
 3a) pozwolenia, o których mowa w art. 23 ust. 1 i art. 26 ust. 1, oraz decyzję, o której mowa w art. 27 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, jeżeli są one wymagane;
 
-4) w przypadku obiektów zakładów górniczych oraz obiektów usytuowanych na terenach zamkniętych i terenach, o których mowa w art. 82 ust. 3 pkt 1, postanowienie o uzgodnieniu z organem administracji architektoniczno-budowlanej, o którym mowa w art. 82 ust. 2, projektowanych rozwiązań w zakresie:
+4) w przypadku obiektów zakładów górniczych oraz obiektów usytuowanych na terenach zamkniętych i terenach, o których mowa w [art. 82](#art-82) ust. 3 pkt 1, postanowienie o uzgodnieniu z organem administracji architektoniczno-budowlanej, o którym mowa w [art. 82](#art-82) ust. 2, projektowanych rozwiązań w zakresie:
 
 a) linii zabudowy oraz elewacji obiektów budowlanych projektowanych od strony dróg, ulic, placów i innych miejsc publicznych,
 
@@ -1598,6 +1907,7 @@ b) oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiega�
 
 6. W przypadku wezwania do usunięcia braków innych niż braki, o których mowa w art. 35 ust. 1, stosuje się art. 64 § 2 Kodeksu postępowania administracyjnego, z tym że wezwanie wnoszącego do usunięcia braków nie powinno nastąpić później niż po upływie 14 dni od dnia wpływu wniosku.
 
+<a id="art-34"></a>
 ### Art. 34.
 
 1. Projekt budowlany powinien spełniać wymagania określone w decyzji o warunkach zabudowy i zagospodarowania terenu, jeżeli jest ona wymagana zgodnie z przepisami o planowaniu i zagospodarowaniu przestrzennym, lub w pozwoleniach, o których mowa w art. 23 ust. 1 i art. 26 ust. 1, oraz decyzji, o której mowa w art. 27 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, jeżeli są one wymagane.
@@ -1606,13 +1916,13 @@ b) oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiega�
 
 2a.[56)] Zakres i treść projektu budowlanego uwzględniają warunki ochrony przeciwpożarowej, a także warunki ochrony ludności – w przypadku budowli ochronnej lub obiektu budowlanego projektowanego w sposób umożliwiający zorganizowanie w nim miejsca doraźnego schronienia.
 
-2b. Uprawnienia budowlane do projektowania w odpowiedniej specjalności, o których mowa w art. 15a, uprawniają do sporządzania projektu budowlanego w zakresie tej specjalności.
+2b. Uprawnienia budowlane do projektowania w odpowiedniej specjalności, o których mowa w [art. 15a](#art-15a), uprawniają do sporządzania projektu budowlanego w zakresie tej specjalności.
 
 2c. Uprawnienia budowlane do projektowania w specjalności:
 
 1) architektonicznej lub
 
-2) konstrukcyjno-budowlanej uprawniające do sporządzania projektów w zakresie rozwiązań architektonicznych – uprawniają do sporządzania projektu zagospodarowania działki lub terenu w odniesieniu do budynków, o których mowa w art. 29 ust. 1 pkt 1a.
+2) konstrukcyjno-budowlanej uprawniające do sporządzania projektów w zakresie rozwiązań architektonicznych – uprawniają do sporządzania projektu zagospodarowania działki lub terenu w odniesieniu do budynków, o których mowa w [art. 29](#art-29) ust. 1 pkt 1a.
 
 3. Projekt budowlany zawiera:
 
@@ -1644,11 +1954,11 @@ f) charakterystykę ekologiczną,
 
 g) informację o wyposażeniu technicznym budynku, w tym projektowanym źródle lub źródłach ciepła do ogrzewania i przygotowania ciepłej wody użytkowej,
 
-h) opis dostępności dla osób niepełnosprawnych, o których mowa w art. 1 Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r., w tym osób starszych – w przypadku obiektów budowlanych, o których mowa w art. 5 ust. 1 pkt 4,
+h) opis dostępności dla osób niepełnosprawnych, o których mowa w [art. 1](#art-1) Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r., w tym osób starszych – w przypadku obiektów budowlanych, o których mowa w [art. 5](#art-5) ust. 1 pkt 4,
 
-i) informację o minimalnym udziale lokali mieszkalnych, o których mowa w art. 5 ust. 1 pkt 4a – w przypadku budynków mieszkalnych wielorodzinnych,
+i) informację o minimalnym udziale lokali mieszkalnych, o których mowa w [art. 5](#art-5) ust. 1 pkt 4a – w przypadku budynków mieszkalnych wielorodzinnych,
 
-j) postanowienie udzielające zgody na odstępstwo, o którym mowa w art. 9, jeżeli zostało wydane;
+j) postanowienie udzielające zgody na odstępstwo, o którym mowa w [art. 9](#art-9), jeżeli zostało wydane;
 
 3) projekt techniczny obejmujący:
 
@@ -1664,7 +1974,7 @@ e) inne opracowania projektowe;
 
 4) w zależności od potrzeb – w przypadku drogi krajowej lub wojewódzkiej – oświadczenie właściwego zarządcy drogi o możliwości połączenia działki z drogą, zgodnie z przepisami o drogach publicznych;
 
-5) opinie, uzgodnienia, pozwolenia i inne dokumenty, o których mowa w art. 33 ust. 2 pkt 1.
+5) opinie, uzgodnienia, pozwolenia i inne dokumenty, o których mowa w [art. 33](#art-33) ust. 2 pkt 1.
 
 3a. Przepisu ust. 3 pkt 1 nie stosuje się do projektu budowlanego przebudowy lub montażu obiektu budowlanego, jeżeli, zgodnie z przepisami o zagospodarowaniu przestrzennym, nie jest wymagane ustalenie warunków zabudowy i zagospodarowania terenu.
 
@@ -1676,7 +1986,7 @@ e) inne opracowania projektowe;
 
 1) kopię decyzji o nadaniu projektantowi lub projektantowi sprawdzającemu, jeżeli jest wymagany, uprawnień budowlanych w odpowiedniej specjalności potwierdzoną za zgodność z oryginałem przez sporządzającego projekt;
 
-2) kopię zaświadczenia, o którym mowa w art. 12 ust. 7, aktualnego na dzień:
+2) kopię zaświadczenia, o którym mowa w [art. 12](#art-12) ust. 7, aktualnego na dzień:
 
 a) opracowania projektu – w przypadku projektanta,
 
@@ -1692,7 +2002,7 @@ b) sprawdzenia projektu – w przypadku projektanta sprawdzającego;
 
 3e. W oświadczeniu, o którym mowa w ust. 3d pkt 3, wskazuje się również imiona, nazwiska, numer uprawnień budowlanych lub numer decyzji o nadaniu uprawnień budowlanych:
 
-1) osób, o których mowa w art. 20 ust. 1 pkt 1a, biorących udział w opracowaniu projektu, do którego dołączone jest oświadczenie;
+1) osób, o których mowa w [art. 20](#art-20) ust. 1 pkt 1a, biorących udział w opracowaniu projektu, do którego dołączone jest oświadczenie;
 
 2) projektantów sprawdzających, którzy dokonali sprawdzenia projektu, do którego dołączone jest oświadczenie.
 
@@ -1730,14 +2040,17 @@ b) sprawdzenia projektu – w przypadku projektanta sprawdzającego;
 
 8. Do postępowań w sprawach wydania decyzji o zatwierdzeniu projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego, poprzedzonych decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
+<a id="art-34a"></a>
 ### Art. 34a.
 
-Organ administracji architektoniczno-budowlanej zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu informację o wszczęciu postępowania w sprawie pozwolenia na budowę dotyczącego realizacji inwestycji celu publicznego z zakresu łączności publicznej oraz informuje o tym postępowaniu w sposób zwyczajowo przyjęty na obszarze właściwości tego organu. Do informacji stosuje się odpowiednio przepis art. 30a pkt 1.
+Organ administracji architektoniczno-budowlanej zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu informację o wszczęciu postępowania w sprawie pozwolenia na budowę dotyczącego realizacji inwestycji celu publicznego z zakresu łączności publicznej oraz informuje o tym postępowaniu w sposób zwyczajowo przyjęty na obszarze właściwości tego organu. Do informacji stosuje się odpowiednio przepis [art. 30a](#art-30a) pkt 1.
 
+<a id="art-34b"></a>
 ### Art. 34b.
 
 Mapy do celów projektowych wykorzystywane w procesie budowlanym powinny być opatrzone klauzulą urzędową określoną w przepisach prawa geodezyjnego i kartograficznego stanowiącą potwierdzenie przyjęcia materiałów lub zbiorów danych, w oparciu o które mapy te zostały sporządzone, do państwowego zasobu geodezyjnego i kartograficznego albo oświadczeniem wykonawcy prac geodezyjnych o uzyskaniu pozytywnego wyniku weryfikacji.
 
+<a id="art-35"></a>
 ### Art. 35.
 
 1. Przed wydaniem decyzji o pozwoleniu na budowę lub odrębnej decyzji o zatwierdzeniu projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego organ administracji architektoniczno-budowlanej sprawdza:
@@ -1758,23 +2071,23 @@ a) (uchylona)
 
 b) (uchylona)
 
-c) kopii zaświadczenia, o którym mowa w art. 12 ust. 7, dotyczącego projektanta i projektanta sprawdzającego;
+c) kopii zaświadczenia, o którym mowa w [art. 12](#art-12) ust. 7, dotyczącego projektanta i projektanta sprawdzającego;
 
 d) (uchylona)
 
 3a) dołączenie:
 
-a) wymaganych opinii, uzgodnień, pozwoleń i sprawdzeń, b)59) oświadczeń, o których mowa w art. 33 ust. 2 pkt 10 i 13;
+a) wymaganych opinii, uzgodnień, pozwoleń i sprawdzeń, b)59) oświadczeń, o których mowa w [art. 33](#art-33) ust. 2 pkt 10 i 13;
 
 4) posiadanie przez projektanta i projektanta sprawdzającego odpowiednich uprawnień budowlanych na podstawie:
 
-a) kopii dokumentów, o których mowa w art. 34 ust. 3d pkt 1 – w przypadku uprawnień niewpisanych do centralnego rejestru osób posiadających uprawnienia budowlane,
+a) kopii dokumentów, o których mowa w [art. 34](#art-34) ust. 3d pkt 1 – w przypadku uprawnień niewpisanych do centralnego rejestru osób posiadających uprawnienia budowlane,
 
 b) danych w centralnym rejestrze osób posiadających uprawnienia budowlane – w przypadku uprawnień wpisanych do tego rejestru;
 
 4a) przynależność projektanta i projektanta sprawdzającego do właściwej izby samorządu zawodowego na podstawie:
 
-a) zaświadczenia, o którym mowa w art. 12 ust. 7 – w przypadku osób niewpisanych do centralnego rejestru osób posiadających uprawnienia budowlane,
+a) zaświadczenia, o którym mowa w [art. 12](#art-12) ust. 7 – w przypadku osób niewpisanych do centralnego rejestru osób posiadających uprawnienia budowlane,
 
 b) danych w centralnym rejestrze osób posiadających uprawnienia budowlane – w przypadku osób wpisanych do tego rejestru.
 
@@ -1786,7 +2099,7 @@ b) danych w centralnym rejestrze osób posiadających uprawnienia budowlane – 
 
 3a. Do postępowania w sprawie wydania decyzji o pozwoleniu na budowę, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepis art. 86f ust. 6 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
-4. W razie spełnienia wymagań określonych w ust. 1 oraz w art. 32 ust. 4, organ administracji architektoniczno-budowlanej nie może odmówić wydania decyzji o pozwoleniu na budowę.
+4. W razie spełnienia wymagań określonych w ust. 1 oraz w [art. 32](#art-32) ust. 4, organ administracji architektoniczno-budowlanej nie może odmówić wydania decyzji o pozwoleniu na budowę.
 
 5. Organ administracji architektoniczno-budowlanej wydaje decyzję o odmowie zatwierdzenia projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego i wydania decyzji o pozwoleniu na budowę:
 
@@ -1820,6 +2133,7 @@ c) nadbudowy, rozbudowy, przebudowy lub remontu: – instalacji odnawialnego źr
 
 9. Do decyzji o pozwoleniu na budowę, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
+<a id="art-35a"></a>
 ### Art. 35a.
 
 1. W przypadku wniesienia skargi do sądu administracyjnego na decyzję o pozwoleniu na budowę wstrzymanie wykonania tej decyzji na wniosek skarżącego sąd może uzależnić od złożenia przez skarżącego kaucji na zabezpieczenie roszczeń inwestora z powodu wstrzymania wykonania decyzji.
@@ -1830,6 +2144,7 @@ c) nadbudowy, rozbudowy, przebudowy lub remontu: – instalacji odnawialnego źr
 
 4. W sprawach kaucji stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o zabezpieczeniu roszczeń.
 
+<a id="art-36"></a>
 ### Art. 36.
 
 1. W decyzji o pozwoleniu na budowę organ administracji architektoniczno-budowlanej, w razie potrzeby:
@@ -1846,17 +2161,18 @@ b) tymczasowych obiektów budowlanych;
 
 4) określa szczegółowe wymagania dotyczące nadzoru na budowie;
 
-5) zamieszcza informację o obowiązkach i warunkach, wynikających z art. 54 lub art. 55.
+5) zamieszcza informację o obowiązkach i warunkach, wynikających z [art. 54](#art-54) lub [art. 55](#art-55).
 
 6) (uchylony)
 
 2. (uchylony)
 
+<a id="art-36a"></a>
 ### Art. 36a.
 
 1. Istotne odstąpienie od zatwierdzonego projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego lub innych warunków decyzji o pozwoleniu na budowę jest dopuszczalne jedynie po uzyskaniu decyzji o zmianie pozwolenia na budowę wydanej przez organ administracji architektoniczno-budowlanej.
 
-1a. Istotne odstąpienie od projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego złożonego wraz ze zgłoszeniem budowy, o której mowa w art. 29 ust. 1 pkt 1–4, lub przebudowy, o której mowa w art. 29 ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. d, wobec którego organ administracji architektoniczno-budowlanej nie wniósł sprzeciwu, jest dopuszczalne jedynie po uzyskaniu decyzji o pozwoleniu na budowę dla całego zamierzenia budowlanego albo dokonaniu ponownego zgłoszenia.
+1a. Istotne odstąpienie od projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego złożonego wraz ze zgłoszeniem budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–4, lub przebudowy, o której mowa w [art. 29](#art-29) ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. d, wobec którego organ administracji architektoniczno-budowlanej nie wniósł sprzeciwu, jest dopuszczalne jedynie po uzyskaniu decyzji o pozwoleniu na budowę dla całego zamierzenia budowlanego albo dokonaniu ponownego zgłoszenia.
 
 1b. Wniosek o zmianę pozwolenia na budowę składa się w:
 
@@ -1868,11 +2184,11 @@ b) tymczasowych obiektów budowlanych;
 
 1d. Formularz wniosku, o którym mowa w ust. 1b, w formie dokumentu elektronicznego Główny Inspektor Nadzoru Budowlanego udostępnia na portalu e-Budownictwo.
 
-2. Organ administracji architektoniczno-budowlanej uchyla decyzje o pozwoleniu na budowę, w przypadku wydania decyzji, o której mowa w art. 51 ust. 1 pkt 3.
+2. Organ administracji architektoniczno-budowlanej uchyla decyzje o pozwoleniu na budowę, w przypadku wydania decyzji, o której mowa w [art. 51](#art-51) ust. 1 pkt 3.
 
-3. W postępowaniu w sprawie zmiany decyzji o pozwoleniu na budowę, przepisy art. 32–35 stosuje się odpowiednio do zakresu tej zmiany.
+3. W postępowaniu w sprawie zmiany decyzji o pozwoleniu na budowę, przepisy [art. 32](#art-32)–35 stosuje się odpowiednio do zakresu tej zmiany.
 
-3a. W przypadku ponownego zgłoszenia, o którym mowa w ust. 1a, przepisy art. 30 stosuje się odpowiednio do zakresu zmiany wynikającej z odstąpienia.
+3a. W przypadku ponownego zgłoszenia, o którym mowa w ust. 1a, przepisy [art. 30](#art-30) stosuje się odpowiednio do zakresu zmiany wynikającej z odstąpienia.
 
 4. (uchylony)
 
@@ -1888,7 +2204,7 @@ b) wysokości, długości lub szerokości w zakresie przekraczającym 2 %,
 
 c) liczby kondygnacji;
 
-3) warunków niezbędnych do korzystania z obiektu budowlanego przez osoby niepełnosprawne, o których mowa w art. 1 Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r., w tym osoby starsze;
+3) warunków niezbędnych do korzystania z obiektu budowlanego przez osoby niepełnosprawne, o których mowa w [art. 1](#art-1) Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r., w tym osoby starsze;
 
 4) zmiany zamierzonego sposobu użytkowania obiektu budowlanego lub jego części;
 
@@ -1896,9 +2212,9 @@ c) liczby kondygnacji;
 
 6) wymagającym uzyskania lub zmiany decyzji, pozwoleń lub uzgodnień, które są wymagane do uzyskania decyzji o pozwoleniu na budowę lub do dokonania zgłoszenia:61) wymagającym uzyskania lub zmiany decyzji, pozwoleń, uzgodnień lub zgłoszeń, które są wymagane do uzyskania decyzji o pozwoleniu na budowę lub do dokonania zgłoszenia:62)
 
-a) budowy, o której mowa w art. 29 ust. 1 pkt 1–4, lub
+a) budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–4, lub
 
-b) przebudowy, o której mowa w art. 29 ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. d;
+b) przebudowy, o której mowa w [art. 29](#art-29) ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. d;
 
 7) zmiany źródła ciepła do ogrzewania lub przygotowania ciepłej wody użytkowej, ze źródła zasilanego paliwem ciekłym, gazowym, odnawialnym źródłem energii lub z sieci ciepłowniczej, na źródło opalane paliwem stałym.
 
@@ -1916,6 +2232,7 @@ c) (uchylona)
 
 6. Projektant dokonuje kwalifikacji zamierzonego odstąpienia od projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego lub innych warunków decyzji o pozwoleniu na budowę, a w przypadku uznania, że jest ono nieistotne, dołącza do dokumentacji budowy odpowiednie informacje (rysunek i opis) dotyczące tego odstąpienia. Nieistotne odstąpienie od zatwierdzonego projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego, lub innych warunków decyzji o pozwoleniu na budowę nie wymaga uzyskania decyzji o zmianie pozwolenia na budowę oraz ponownego zgłoszenia.
 
+<a id="art-36b"></a>
 ### Art. 36b.
 
 1. Wprowadzanie zmian w projekcie technicznym dotyczących rozwiązań, które podlegały uzgodnieniom, wymaga ponownego uzyskania tych uzgodnień.
@@ -1924,6 +2241,7 @@ c) (uchylona)
 
 3. Kierownik budowy okazuje aktualny projekt budowlany na każde żądanie organu nadzoru budowlanego.
 
+<a id="art-37"></a>
 ### Art. 37.
 
 1. Decyzja o pozwoleniu na budowę wygasa, jeżeli budowa nie została rozpoczęta przed upływem 3 lat od dnia, w którym decyzja ta stała się ostateczna lub budowa została przerwana na czas dłuższy niż 3 lata.
@@ -1932,13 +2250,14 @@ c) (uchylona)
 
 1) określonym w ust. 1 albo
 
-2) stwierdzenia nieważności albo uchylenia decyzji o pozwoleniu na budowę – rozpoczęcie albo wznowienie budowy może nastąpić po wydaniu decyzji o pozwoleniu na budowę, o której mowa w art. 28 ust. 1. Decyzję o pozwoleniu na budowę wydaje się również w przypadku zakończenia robót budowlanych.
+2) stwierdzenia nieważności albo uchylenia decyzji o pozwoleniu na budowę – rozpoczęcie albo wznowienie budowy może nastąpić po wydaniu decyzji o pozwoleniu na budowę, o której mowa w [art. 28](#art-28) ust. 1. Decyzję o pozwoleniu na budowę wydaje się również w przypadku zakończenia robót budowlanych.
 
-3. W przypadku, o którym mowa w art. 36a ust. 2, wznowienie budowy może nastąpić po wydaniu decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4.
+3. W przypadku, o którym mowa w [art. 36a](#art-36a) ust. 2, wznowienie budowy może nastąpić po wydaniu decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w [art. 51](#art-51) ust. 4.
 
+<a id="art-37a"></a>
 ### Art. 37a.
 
-1. Inwestor może, przed upływem 180 dni od dnia rozpoczęcia budowy określonego w zgłoszeniu, złożyć wniosek o wydanie decyzji o pozwoleniu na budowę tymczasowego obiektu budowlanego, o którym mowa w art. 29 ust. 1 pkt 7, lub przed upływem 2 lat, w przypadku, o którym mowa w art. 29 ust. 1 pkt 30a. Przepisy art. 32–36 stosuje się.
+1. Inwestor może, przed upływem 180 dni od dnia rozpoczęcia budowy określonego w zgłoszeniu, złożyć wniosek o wydanie decyzji o pozwoleniu na budowę tymczasowego obiektu budowlanego, o którym mowa w [art. 29](#art-29) ust. 1 pkt 7, lub przed upływem 2 lat, w przypadku, o którym mowa w [art. 29](#art-29) ust. 1 pkt 30a. Przepisy [art. 32](#art-32)–36 stosuje się.
 
 1a. Wniosek o wydanie pozwolenia na budowę tymczasowego obiektu budowlanego składa się w:
 
@@ -1950,17 +2269,19 @@ c) (uchylona)
 
 1c. Formularz wniosku, o którym mowa w ust. 1a, w formie dokumentu elektronicznego Główny Inspektor Nadzoru Budowlanego udostępnia na portalu e-Budownictwo.
 
-2. W przypadku złożenia wniosku, o którym mowa w ust. 1, inwestor może powstrzymać się od rozbiórki lub przeniesienia w inne miejsce tymczasowego obiektu budowlanego, o którym mowa w art. 29 ust. 1 pkt 7 oraz w art. 29 ust. 1 pkt 30a, do czasu zakończenia postępowania w przedmiocie pozwolenia na budowę.
+2. W przypadku złożenia wniosku, o którym mowa w ust. 1, inwestor może powstrzymać się od rozbiórki lub przeniesienia w inne miejsce tymczasowego obiektu budowlanego, o którym mowa w [art. 29](#art-29) ust. 1 pkt 7 oraz w [art. 29](#art-29) ust. 1 pkt 30a, do czasu zakończenia postępowania w przedmiocie pozwolenia na budowę.
 
+<a id="art-37b"></a>
 ### Art. 37b.
 
 1. Nie stwierdza się nieważności decyzji o pozwoleniu na budowę, jeżeli od dnia jej doręczenia lub ogłoszenia upłynęło 5 lat.
 
 2. W przypadku, o którym mowa w ust. 1, przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
+<a id="art-38"></a>
 ### Art. 38.
 
-1. Decyzję o pozwoleniu na budowę lub kopię zgłoszenia budowy, o której mowa w art. 29 ust. 1 pkt 1–4, lub kopię zgłoszenia przebudowy, o której mowa w art. 29 ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. d, wraz z adnotacją o niewniesieniu sprzeciwu organ administracji architektoniczno-budowlanej przesyła niezwłocznie wójtowi, burmistrzowi, prezydentowi miasta albo organowi, który wydał decyzję o warunkach zabudowy i zagospodarowania terenu, decyzję o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub pozwolenie, o którym mowa w art. 23, art. 26 i art. 27 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
+1. Decyzję o pozwoleniu na budowę lub kopię zgłoszenia budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–4, lub kopię zgłoszenia przebudowy, o której mowa w [art. 29](#art-29) ust. 3 pkt 1 lit. a, oraz instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. d, wraz z adnotacją o niewniesieniu sprzeciwu organ administracji architektoniczno-budowlanej przesyła niezwłocznie wójtowi, burmistrzowi, prezydentowi miasta albo organowi, który wydał decyzję o warunkach zabudowy i zagospodarowania terenu, decyzję o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub pozwolenie, o którym mowa w art. 23, art. 26 i art. 27 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 
 2. Organ administracji architektoniczno-budowlanej przechowuje zatwierdzone projekty budowlane, projekty budowlane załączone do zgłoszenia, w stosunku do którego organ nie wniósł sprzeciwu, a także inne dokumenty objęte pozwoleniem na budowę lub tym zgłoszeniem, co najmniej przez okres istnienia obiektu budowlanego.
 
@@ -1968,6 +2289,7 @@ c) (uchylona)
 
 4. Przepisy ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko wskazują przypadki, gdy informacje o wydanych decyzjach o pozwoleniu na budowę podaje się do publicznej wiadomości oraz gdy dane o tych decyzjach zamieszcza się w publicznie dostępnych wykazach.
 
+<a id="art-39"></a>
 ### Art. 39.
 
 1.65) Prowadzenie robót budowlanych przy obiekcie budowlanym wpisanym do rejestru zabytków lub na obszarze wpisanym do rejestru zabytków wymaga, przed wydaniem decyzji o pozwoleniu na budowę, uzyskania pozwolenia na prowadzenie tych robót, wydanego przez właściwego wojewódzkiego konserwatora zabytków.
@@ -1980,10 +2302,12 @@ c) (uchylona)
 
 4. Wojewódzki konserwator zabytków jest obowiązany zająć stanowisko w sprawie wniosku o pozwolenie na budowę lub rozbiórkę obiektów budowlanych, o których mowa w ust. 3, w terminie 30 dni od dnia jego doręczenia. Niezajęcie stanowiska w tym terminie uznaje się jako brak zastrzeżeń do przedstawionych we wniosku rozwiązań projektowych.
 
+<a id="art-39a"></a>
 ### Art. 39a.
 
 Budowa obiektu budowlanego, tymczasowego obiektu budowlanego i urządzenia budowlanego na obszarze Pomnika Zagłady lub jego strefy ochronnej w rozumieniu ustawy z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady (Dz. U. z 2015 r. poz. 2120) wymaga, przed wydaniem decyzji o pozwoleniu na budowę, uzyskania zgody właściwego wojewody.
 
+<a id="art-40"></a>
 ### Art. 40.
 
 1. Organ, który wydał decyzję o pozwoleniu na budowę, jest obowiązany, w drodze decyzji, przenieść to pozwolenie na wniosek nowego inwestora, jeżeli do wniosku inwestor dołączy:
@@ -1992,15 +2316,15 @@ Budowa obiektu budowlanego, tymczasowego obiektu budowlanego i urządzenia budow
 
 a) o przejęciu warunków zawartych w decyzji o pozwoleniu na budowę,
 
-b) o którym mowa w art. 32 ust. 4 pkt 2;
+b) o którym mowa w [art. 32](#art-32) ust. 4 pkt 2;
 
 2) zgodę dotychczasowego inwestora, na rzecz którego decyzja została wydana, lub kopię tej zgody.
 
 1a. Zgoda, o której mowa w ust. 1 pkt 2, nie jest wymagana, jeżeli własność nieruchomości lub uprawnienia wynikające z użytkowania wieczystego dotyczącego nieruchomości, objęte decyzją o pozwoleniu na budowę po wydaniu tego pozwolenia przeszły z dotychczasowego inwestora na nowego inwestora wnioskującego o przeniesienie pozwolenia na budowę.
 
-2. Przepisy ust. 1 i 1a stosuje się odpowiednio do decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4.
+2. Przepisy ust. 1 i 1a stosuje się odpowiednio do decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w [art. 51](#art-51) ust. 4.
 
-2a. W przypadku wydania pozwolenia na budowę dla obiektu liniowego, o którym mowa w art. 32 ust. 4 pkt 3, przepisów ust. 1–2 nie stosuje się.
+2a. W przypadku wydania pozwolenia na budowę dla obiektu liniowego, o którym mowa w [art. 32](#art-32) ust. 4 pkt 3, przepisów ust. 1–2 nie stosuje się.
 
 3. Stronami w postępowaniu o przeniesienie pozwolenia na budowę są wyłącznie dotychczasowy i nowy inwestor.
 
@@ -2010,7 +2334,7 @@ b) o którym mowa w art. 32 ust. 4 pkt 2;
 
 1) decyzji o pozwoleniu na budowę,
 
-2) decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4,
+2) decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w [art. 51](#art-51) ust. 4,
 
 3) praw i obowiązków wynikających ze zgłoszenia, wobec którego organ nie wniósł sprzeciwu – składa się w postaci papierowej albo w formie dokumentu elektronicznego za pośrednictwem portalu e-Budownictwo.
 
@@ -2018,12 +2342,15 @@ b) o którym mowa w art. 32 ust. 4 pkt 2;
 
 7. Formularze wniosków, o których mowa w ust. 5, w formie dokumentu elektronicznego Główny Inspektor Nadzoru Budowlanego udostępnia na portalu e-Budownictwo.
 
+<a id="art-40a"></a>
 ### Art. 40a.
 
 67) Ilekroć w przepisach niniejszego rozdziału jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji linii kolejowej w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Rozpoczęcie i prowadzenie robót budowlanych
 
+<a id="art-41"></a>
 ### Art. 41.
 
 1. Rozpoczęcie budowy następuje z chwilą podjęcia prac przygotowawczych na terenie budowy.
@@ -2040,7 +2367,7 @@ b) o którym mowa w art. 32 ust. 4 pkt 2;
 
 3. Prace przygotowawcze mogą być wykonywane tylko na terenie objętym pozwoleniem na budowę lub zgłoszeniem.
 
-4. Inwestor jest obowiązany zawiadomić organ nadzoru budowlanego oraz projektanta sprawującego nadzór nad zgodnością realizacji budowy z projektem o zamierzonym terminie rozpoczęcia robót budowlanych, dla których wymagane jest uzyskanie decyzji o pozwoleniu na budowę, dokonanie zgłoszenia budowy, o której mowa w art. 29 ust. 1 pkt 1–4, lub dokonanie zgłoszenia instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. d.
+4. Inwestor jest obowiązany zawiadomić organ nadzoru budowlanego oraz projektanta sprawującego nadzór nad zgodnością realizacji budowy z projektem o zamierzonym terminie rozpoczęcia robót budowlanych, dla których wymagane jest uzyskanie decyzji o pozwoleniu na budowę, dokonanie zgłoszenia budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–4, lub dokonanie zgłoszenia instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. d.
 
 4a. Do zawiadomienia organu nadzoru budowlanego o zamierzonym terminie rozpoczęcia robót budowlanych inwestor dołącza:
 
@@ -2048,7 +2375,7 @@ b) o którym mowa w art. 32 ust. 4 pkt 2;
 
 a) kierownika budowy – w przypadku robót budowlanych wymagających ustanowienia kierownika budowy,
 
-b) inspektora nadzoru inwestorskiego – jeżeli został on ustanowiony – oraz w odniesieniu do tych osób dołącza kopie zaświadczeń, o których mowa w art. 12 ust. 7, wraz z kopiami decyzji o nadaniu uprawnień budowlanych w odpowiedniej specjalności;
+b) inspektora nadzoru inwestorskiego – jeżeli został on ustanowiony – oraz w odniesieniu do tych osób dołącza kopie zaświadczeń, o których mowa w [art. 12](#art-12) ust. 7, wraz z kopiami decyzji o nadaniu uprawnień budowlanych w odpowiedniej specjalności;
 
 2) oświadczenie lub kopię oświadczenia projektanta i projektanta sprawdzającego o sporządzeniu projektu technicznego, dotyczącego zamierzenia budowlanego zgodnie z obowiązującymi przepisami, zasadami wiedzy technicznej, projektem zagospodarowania działki lub terenu oraz projektem architektoniczno-budowlanym oraz rozstrzygnięciami dotyczącymi zamierzenia budowlanego.
 
@@ -2070,35 +2397,36 @@ b) inspektora nadzoru inwestorskiego – jeżeli został on ustanowiony – oraz
 
 5. Rozpoczęcie dostaw energii, wody, ciepła lub gazu na potrzeby budowy może nastąpić jedynie po okazaniu wymaganego pozwolenia na budowę lub zgłoszenia.
 
+<a id="art-42"></a>
 ### Art. 42.
 
 1. Przed rozpoczęciem robót budowlanych inwestor jest obowiązany:
 
-1) zapewnić sporządzenie projektu technicznego, z zastrzeżeniem art. 34 ust. 3b, w przypadku:
+1) zapewnić sporządzenie projektu technicznego, z zastrzeżeniem [art. 34](#art-34) ust. 3b, w przypadku:
 
 a) robót budowlanych objętych decyzją o pozwoleniu na budowę,
 
-b) budowy, o której mowa w art. 29 ust. 1 pkt 1–4,
+b) budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–4,
 
-c) przebudowy, o której mowa w art. 29 ust. 3 pkt 1 lit. a, d)68) instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. d i g;
+c) przebudowy, o której mowa w [art. 29](#art-29) ust. 3 pkt 1 lit. a, d)68) instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. d i g;
 
 2) ustanowić kierownika budowy w przypadku:
 
-a) robót budowlanych objętych decyzją o pozwoleniu na budowę, b)69) budowy, o której mowa w art. 29 ust. 1 pkt 1, 1b, 2–4, 9, 27 i 30, oraz instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. d, e i g, c)69) przebudowy, o której mowa w art. 29 ust. 3 pkt 1 lit. a i aa, ca) rozbiórki objętej decyzją o pozwoleniu na rozbiórkę,
+a) robót budowlanych objętych decyzją o pozwoleniu na budowę, b)69) budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1, 1b, 2–4, 9, 27 i 30, oraz instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. d, e i g, c)69) przebudowy, o której mowa w [art. 29](#art-29) ust. 3 pkt 1 lit. a i aa, ca) rozbiórki objętej decyzją o pozwoleniu na rozbiórkę,
 
-d) robót budowlanych objętych decyzją o legalizacji budowy, o której mowa w art. 49 ust. 4, w której nałożono obowiązek uzyskania pozwolenia na użytkowanie,
+d) robót budowlanych objętych decyzją o legalizacji budowy, o której mowa w [art. 49](#art-49) ust. 4, w której nałożono obowiązek uzyskania pozwolenia na użytkowanie,
 
-e) robót budowlanych objętych decyzją o pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4;
+e) robót budowlanych objętych decyzją o pozwoleniu na wznowienie robót budowlanych, o której mowa w [art. 51](#art-51) ust. 4;
 
 3) ustanowić inspektora nadzoru inwestorskiego w przypadku:
 
 a) gdy taki obowiązek wynika z decyzji o pozwoleniu na budowę,
 
-b) robót budowlanych objętych decyzją o legalizacji budowy, o której mowa w art. 49 ust. 4, w której nałożono obowiązek uzyskania pozwolenia na użytkowanie,
+b) robót budowlanych objętych decyzją o legalizacji budowy, o której mowa w [art. 49](#art-49) ust. 4, w której nałożono obowiązek uzyskania pozwolenia na użytkowanie,
 
-c) robót budowlanych objętych decyzją, o której mowa w art. 51 ust. 4,
+c) robót budowlanych objętych decyzją, o której mowa w [art. 51](#art-51) ust. 4,
 
-d) obiektów budowlanych, określonych w przepisach wydanych na podstawie art. 19 ust. 2;
+d) obiektów budowlanych, określonych w przepisach wydanych na podstawie [art. 19](#art-19) ust. 2;
 
 4) przekazać kierownikowi budowy projekt budowlany, w tym projekt techniczny, o ile jest wymagany.
 
@@ -2110,25 +2438,26 @@ d) obiektów budowlanych, określonych w przepisach wydanych na podstawie art. 1
 
 4. Przy prowadzeniu robót budowlanych, do kierowania którymi jest wymagane przygotowanie zawodowe w specjalności techniczno-budowlanej innej niż posiada kierownik budowy, inwestor jest obowiązany zapewnić ustanowienie kierownika robót w danej specjalności.
 
+<a id="art-43"></a>
 ### Art. 43.
 
 1. Geodezyjnemu wyznaczeniu w terenie, a po wybudowaniu – geodezyjnej inwentaryzacji powykonawczej, podlegają:
 
 1) obiekty budowlane wymagające decyzji o pozwoleniu na budowę;
 
-2) obiekty, o których mowa w art. 29 ust. 1 pkt 1–4, 10 i 23 oraz w ust. 2 pkt 17 i 26.
+2) obiekty, o których mowa w [art. 29](#art-29) ust. 1 pkt 1–4, 10 i 23 oraz w ust. 2 pkt 17 i 26.
 
-1a. Obowiązkowi geodezyjnego wyznaczenia, o którym mowa w ust. 1, nie podlegają przyłącza, o których mowa w art. 29 ust. 1 pkt 23, jeżeli ich połączenie z siecią znajduje się na tej samej działce co przyłącza lub na działce do niej przyległej.
+1a. Obowiązkowi geodezyjnego wyznaczenia, o którym mowa w ust. 1, nie podlegają przyłącza, o których mowa w [art. 29](#art-29) ust. 1 pkt 23, jeżeli ich połączenie z siecią znajduje się na tej samej działce co przyłącza lub na działce do niej przyległej.
 
 1aa.[70)] Obowiązkowi geodezyjnej inwentaryzacji powykonawczej, o której mowa w ust. 1, podlegają:
 
-1) budynki, o których mowa w art. 29 ust. 1 pkt 16 lit. b;
+1) budynki, o których mowa w [art. 29](#art-29) ust. 1 pkt 16 lit. b;
 
-2) stacje ładowania, o których mowa w art. 29 ust. 1 pkt 25;
+2) stacje ładowania, o których mowa w [art. 29](#art-29) ust. 1 pkt 25;
 
-3) obiekty budowlane, o których mowa w art. 29 ust. 1 pkt 29 lit. c i e, pkt 32–34, 36, 38 i 39 oraz ust. 2 pkt 33 i 36;
+3) obiekty budowlane, o których mowa w [art. 29](#art-29) ust. 1 pkt 29 lit. c i e, pkt 32–34, 36, 38 i 39 oraz ust. 2 pkt 33 i 36;
 
-4) hangary, garaże, magazyny i hale oraz instalacje, przyłącza i związane z nimi sieci, o których mowa w art. 29 ust. 2 pkt 29.
+4) hangary, garaże, magazyny i hale oraz instalacje, przyłącza i związane z nimi sieci, o których mowa w [art. 29](#art-29) ust. 2 pkt 29.
 
 1b. Zapewnienie wykonania obowiązków, o których mowa w ust. 1, należy do kierownika budowy, a w przypadku gdy kierownik budowy nie zostanie ustanowiony – do inwestora.
 
@@ -2138,6 +2467,7 @@ d) obiektów budowlanych, określonych w przepisach wydanych na podstawie art. 1
 
 4. (uchylony)
 
+<a id="art-44"></a>
 ### Art. 44.
 
 W przypadku zmiany:
@@ -2148,10 +2478,12 @@ W przypadku zmiany:
 
 3) projektanta sprawującego nadzór autorski – inwestor dołącza do dokumentacji budowy oświadczenia o przejęciu obowiązków przez osoby wymienione w pkt 1–3.
 
+<a id="art-45"></a>
 ### Art. 45.
 
-W przypadku robót budowlanych wymagających ustanowienia kierownika budowy prowadzi się dziennik budowy zgodnie z przepisami rozdziału 5a.
+W przypadku robót budowlanych wymagających ustanowienia kierownika budowy prowadzi się dziennik budowy zgodnie z przepisami [rozdziału 5](#rozdzial-5)a.
 
+<a id="art-45a"></a>
 ### Art. 45a.
 
 1. Przed rozpoczęciem budowy lub rozbiórki kierownik budowy jest obowiązany:
@@ -2178,7 +2510,7 @@ b) ogłoszenie zawierające dane dotyczące bezpieczeństwa pracy i ochrony zdro
 
 3a. Przepisu ust. 1 pkt 3 nie stosuje się do:
 
-1) budowy, dla której nie ma obowiązku ustanowienia kierownika budowy, z wyłączeniem budowy, o której mowa w art. 29 ust. 1 pkt 1a, w przypadku której spełnienie obowiązku, o którym mowa w ust. 1 pkt 3, należy do inwestora;
+1) budowy, dla której nie ma obowiązku ustanowienia kierownika budowy, z wyłączeniem budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1a, w przypadku której spełnienie obowiązku, o którym mowa w ust. 1 pkt 3, należy do inwestora;
 
 2) obiektów służących obronności i bezpieczeństwu państwa;
 
@@ -2196,6 +2528,7 @@ b) ogłoszenie zawierające dane dotyczące bezpieczeństwa pracy i ochrony zdro
 
 7. Formularz wniosku, o którym mowa w ust. 5, w formie dokumentu elektronicznego Główny Inspektor Nadzoru Budowlanego udostępnia na portalu e-Budownictwo.
 
+<a id="art-45b"></a>
 ### Art. 45b.
 
 1. Na tablicy informacyjnej określa się:
@@ -2224,6 +2557,7 @@ b) ogłoszenie zawierające dane dotyczące bezpieczeństwa pracy i ochrony zdro
 
 3) zakończenia robót – w przypadku robót budowlanych innych niż wymienione w pkt 1 i 2.
 
+<a id="art-45c"></a>
 ### Art. 45c.
 
 1. Ogłoszenie zawierające dane dotyczące bezpieczeństwa pracy i ochrony zdrowia zawiera:
@@ -2238,6 +2572,7 @@ b) ogłoszenie zawierające dane dotyczące bezpieczeństwa pracy i ochrony zdro
 
 3. Ogłoszenie umieszcza się w widocznym miejscu obok tablicy informacyjnej, na wysokości umożliwiającej jego odczytanie.
 
+<a id="art-46"></a>
 ### Art. 46.
 
 Kierownik budowy, a jeżeli jego ustanowienie nie jest wymagane – inwestor, przez okres wykonywania robót budowlanych:
@@ -2250,6 +2585,7 @@ b) oświadczenia dotyczące wyrobów budowlanych jednostkowo zastosowanych w obi
 
 2) udostępnia dokumenty, o których mowa w pkt 1, upoważnionym pracownikom organów nadzoru budowlanego i innych organów uprawnionych do kontroli przestrzegania przepisów na terenie budowy.
 
+<a id="art-47"></a>
 ### Art. 47.
 
 1. Jeżeli do wykonania prac przygotowawczych lub robót budowlanych jest niezbędne wejście do sąsiedniego budynku, lokalu lub na teren sąsiedniej nieruchomości, inwestor jest obowiązany przed rozpoczęciem robót uzyskać zgodę właściciela sąsiedniej nieruchomości, budynku lub lokalu (najemcy) na wejście oraz uzgodnić z nim przewidywany sposób, zakres i terminy korzystania z tych obiektów, a także ewentualną rekompensatę z tego tytułu.
@@ -2270,8 +2606,10 @@ b) oświadczenia dotyczące wyrobów budowlanych jednostkowo zastosowanych w obi
 
 4. Zajęcie, na potrzeby budowy, pasa drogowego lub jego części może nastąpić po spełnieniu wymagań określonych w odrębnych przepisach.
 
+<a id="rozdzial-5a"></a>
 ### Rozdział 5a. Dziennik budowy
 
+<a id="art-47a"></a>
 ### Art. 47a.
 
 1. Dziennik budowy stanowi urzędowy dokument przeznaczony do rejestrowania:
@@ -2282,17 +2620,19 @@ b) oświadczenia dotyczące wyrobów budowlanych jednostkowo zastosowanych w obi
 
 2. Rejestrowanie, o którym mowa w ust. 1, odbywa się w formie wpisów.
 
+<a id="art-47b"></a>
 ### Art. 47b.
 
 1. Dziennik budowy prowadzi się odrębnie dla każdego obiektu budowlanego wymagającego pozwolenia na budowę, pozwolenia na rozbiórkę albo zgłoszenia.
 
 2. Dla obiektów liniowych dziennik budowy można prowadzić odrębnie dla każdego wydzielonego odcinka robót.
 
+<a id="art-47c"></a>
 ### Art. 47c.
 
 1. Dziennik budowy prowadzi się w postaci:
 
-1) papierowej, z uwzględnieniem art. 47v, albo
+1) papierowej, z uwzględnieniem [art. 47v](#art-47v), albo
 
 2) elektronicznej.
 
@@ -2300,10 +2640,12 @@ b) oświadczenia dotyczące wyrobów budowlanych jednostkowo zastosowanych w obi
 
 3. Dziennik budowy w postaci elektronicznej prowadzi się w systemie Elektroniczny Dziennik Budowy, zwanym dalej „systemem EDB”.
 
+<a id="art-47d"></a>
 ### Art. 47d.
 
 Za prowadzenie dziennika budowy zgodnie z przepisami ustawy odpowiada kierownik budowy.
 
+<a id="art-47e"></a>
 ### Art. 47e.
 
 1. Uprawnionymi do dokonania wpisu w dzienniku budowy są:
@@ -2316,6 +2658,7 @@ Za prowadzenie dziennika budowy zgodnie z przepisami ustawy odpowiada kierownik 
 
 2. Pracownik organu nadzoru budowlanego, o którym mowa w ust. 1 pkt 3, potwierdza swoją obecność na terenie budowy wpisem w dzienniku budowy.
 
+<a id="art-47f"></a>
 ### Art. 47f.
 
 1. Inwestor zapewnia dołączenie do dziennika budowy kopii uprawnień budowlanych osób pełniących funkcje:
@@ -2326,10 +2669,11 @@ Za prowadzenie dziennika budowy zgodnie z przepisami ustawy odpowiada kierownik 
 
 3) inspektora nadzoru inwestorskiego;
 
-4) projektanta sprawującego nadzór autorski – w przypadku, o którym mowa w art. 44 pkt 3.
+4) projektanta sprawującego nadzór autorski – w przypadku, o którym mowa w [art. 44](#art-44) pkt 3.
 
 2. Wymogu dołączenia kopii uprawnień budowlanych nie stosuje się do uprawnień budowlanych wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane.
 
+<a id="art-47g"></a>
 ### Art. 47g.
 
 1. O wydanie dziennika budowy występuje inwestor.
@@ -2340,9 +2684,9 @@ Za prowadzenie dziennika budowy zgodnie z przepisami ustawy odpowiada kierownik 
 
 2) organ nadzoru budowlanego – w przypadku robót budowlanych objętych decyzją o:
 
-a) legalizacji budowy, o której mowa w art. 49 ust. 4,
+a) legalizacji budowy, o której mowa w [art. 49](#art-49) ust. 4,
 
-b) pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4.
+b) pozwoleniu na wznowienie robót budowlanych, o której mowa w [art. 51](#art-51) ust. 4.
 
 3. Wystąpienie o wydanie dziennika budowy prowadzonego w postaci elektronicznej następuje w systemie EDB.
 
@@ -2366,12 +2710,13 @@ c) numer decyzji lub znak sprawy – w przypadku decyzji uprawniającej do wykon
 
 a) pozwoleniu na budowę lub rozbiórkę,
 
-b) legalizacji budowy, o której mowa w art. 49 ust. 4,
+b) legalizacji budowy, o której mowa w [art. 49](#art-49) ust. 4,
 
-c) pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4;
+c) pozwoleniu na wznowienie robót budowlanych, o której mowa w [art. 51](#art-51) ust. 4;
 
 2) inwestor nabył prawo do wykonywania robót budowlanych na podstawie zgłoszenia.
 
+<a id="art-47h"></a>
 ### Art. 47h.
 
 1. Wydanie dziennika budowy następuje przez:
@@ -2382,26 +2727,29 @@ c) pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4;
 
 2. Każdemu wydawanemu dziennikowi budowy prowadzonemu w postaci elektronicznej nadaje się w systemie EDB indywidualny numer.
 
+<a id="art-47i"></a>
 ### Art. 47i.
 
 Jeżeli dziennik budowy jest prowadzony w postaci elektronicznej, w przypadku wydania decyzji o przeniesieniu:
 
 1) decyzji o pozwoleniu na budowę,
 
-2) decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4,
+2) decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w [art. 51](#art-51) ust. 4,
 
 3) praw i obowiązków wynikających ze zgłoszenia, wobec którego organ nie wniósł sprzeciwu – organ właściwy do wydania dziennika budowy zapewnia nowemu inwestorowi dostęp do tego dziennika w systemie EDB oraz pozbawia dotychczasowego inwestora tego dostępu w terminie 3 dni roboczych od dnia, w którym decyzja o przeniesieniu stała się wykonalna.
 
+<a id="art-47j"></a>
 ### Art. 47j.
 
 1. Dziennik budowy prowadzony w postaci papierowej może się składać z tomów.
 
 2. W przypadku zapełnienia dziennika budowy prowadzonego w postaci papierowej inwestor występuje do organu właściwego do wydania dziennika budowy o wydanie kolejnego tomu tego dziennika.
 
-3. Do wydania kolejnych tomów dziennika budowy prowadzonego w postaci papierowej stosuje się przepis art. 47h ust. 1 pkt 1.
+3. Do wydania kolejnych tomów dziennika budowy prowadzonego w postaci papierowej stosuje się przepis [art. 47h](#art-47h) ust. 1 pkt 1.
 
 4. Organ właściwy do wydania dziennika budowy wydaje kolejny tom dziennika budowy prowadzonego w postaci papierowej w terminie 3 dni roboczych od dnia wystąpienia inwestora o wydanie tego tomu.
 
+<a id="art-47k"></a>
 ### Art. 47k.
 
 1. Dziennik budowy prowadzony w postaci papierowej można kontynuować w postaci elektronicznej.
@@ -2410,6 +2758,7 @@ Jeżeli dziennik budowy jest prowadzony w postaci elektronicznej, w przypadku wy
 
 3. Dziennik budowy prowadzony w postaci elektronicznej może być kontynuowany tylko w postaci elektronicznej.
 
+<a id="art-47l"></a>
 ### Art. 47l.
 
 1. W przypadku zakończenia robót budowlanych kierownik budowy zamyka wpisem dziennik budowy.
@@ -2422,8 +2771,9 @@ Jeżeli dziennik budowy jest prowadzony w postaci elektronicznej, w przypadku wy
 
 5. W przypadku przyjęcia zawiadomienia o zakończeniu budowy bez sprzeciwu albo wydania pozwolenia na użytkowanie właściwy organ nadzoru budowlanego w systemie EDB nadaje dziennikowi budowy status „oddany do użytkowania”.
 
-6. Przepisów ust. 1, 2 i 5 nie stosuje się w przypadku, o którym mowa w art. 55 ust. 1 pkt 3.
+6. Przepisów ust. 1, 2 i 5 nie stosuje się w przypadku, o którym mowa w [art. 55](#art-55) ust. 1 pkt 3.
 
+<a id="art-47m"></a>
 ### Art. 47m.
 
 1. System EDB służy do wydawania oraz prowadzenia dzienników budowy w postaci elektronicznej.
@@ -2438,6 +2788,7 @@ Jeżeli dziennik budowy jest prowadzony w postaci elektronicznej, w przypadku wy
 
 6. System EDB w zakresie postępowania z dokumentacją w postaci elektronicznej spełnia warunki określone w przepisach ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173).
 
+<a id="art-47n"></a>
 ### Art. 47n.
 
 1. W celu wystąpienia o wydanie dziennika budowy prowadzonego w postaci elektronicznej oraz dokonywania wpisów w tym dzienniku, inwestor oraz osoby uprawnione do dokonywania wpisów są obowiązane posiadać konto w systemie EDB.
@@ -2452,6 +2803,7 @@ Jeżeli dziennik budowy jest prowadzony w postaci elektronicznej, w przypadku wy
 
 3. Osoba, która założyła konto w systemie EDB, staje się wyłącznym użytkownikiem tego konta. System EDB zabezpiecza konto przed dostępem osób trzecich.
 
+<a id="art-47o"></a>
 ### Art. 47o.
 
 1. W przypadku prowadzenia dziennika budowy w postaci elektronicznej:
@@ -2468,14 +2820,17 @@ b) upoważnionym pracownikom organów nadzoru budowlanego i innych organów upra
 
 3. Pozbawienie dostępu, o którym mowa w ust. 2, nie może utrudniać lub uniemożliwiać uczestnikom procesu budowlanego wykonywania praw lub obowiązków wynikających z przepisów.
 
+<a id="art-47p"></a>
 ### Art. 47p.
 
 Dostęp do systemu EDB następuje przez uwierzytelnienie i autoryzację osoby w tym systemie za pośrednictwem konta.
 
+<a id="art-47q"></a>
 ### Art. 47q.
 
 Główny Inspektor Nadzoru Budowlanego jest administratorem danych przetwarzanych w systemie EDB oraz odpowiada za jego utrzymanie i rozwój.
 
+<a id="art-47r"></a>
 ### Art. 47r.
 
 W systemie EDB są przechowywane dane osobowe:
@@ -2500,6 +2855,7 @@ b) w dokumentach załączonych do dzienników budowy,
 
 c) w dokumentach zapisanych na kontach użytkowników.
 
+<a id="art-47s"></a>
 ### Art. 47s.
 
 1. System EDB zapewnia dostęp do dziennika budowy prowadzonego w postaci elektronicznej przez okres prowadzenia robót budowlanych.
@@ -2510,6 +2866,7 @@ c) w dokumentach zapisanych na kontach użytkowników.
 
 2) „zamknięty” – w przypadku robót budowlanych innych niż budowa – dane zgromadzone w systemie EDB dotyczące indywidualnego dziennika budowy są usuwane, z uwzględnieniem przepisów ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
 
+<a id="art-47t"></a>
 ### Art. 47t.
 
 1. Organom administracji architektoniczno-budowlanej, organom nadzoru budowlanego oraz innym organom uprawnionym do kontroli przestrzegania przepisów na terenie budowy zapewnia się dostęp do systemu EDB o charakterze:
@@ -2540,6 +2897,7 @@ c) w dokumentach zapisanych na kontach użytkowników.
 
 6. W przypadkach, o których mowa w ust. 3 pkt 3, przydzielenie dostępu do systemu EDB następuje na żądanie organu, o którym mowa w ust. 1.
 
+<a id="art-47u"></a>
 ### Art. 47u.
 
 Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia:
@@ -2550,12 +2908,15 @@ Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrz
 
 3) szczegółowy sposób uwierzytelniania i autoryzacji w systemie EDB – mając na celu zapewnienie przejrzystości i chronologii prowadzenia wpisów w dziennikach budowy oraz zapewnienie bezpieczeństwa gromadzonych danych i możliwości dokonywania wpisów przez osoby do tego uprawnione.
 
+<a id="art-47v"></a>
 ### Art. 47v.
 
 71) Dziennik budowy w postaci papierowej wydaje się do dnia 31 grudnia 2031 r., z wyjątkiem dziennika budowy dotyczącego robót budowlanych na terenach zamkniętych ustalonych decyzją Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu.
 
+<a id="rozdzial-5b"></a>
 ### Rozdział 5b. Postępowanie w sprawie rozpoczęcia i prowadzenia robót budowlanych z naruszeniem ustawy
 
+<a id="art-48"></a>
 ### Art. 48.
 
 1. Organ nadzoru budowlanego wydaje postanowienie o wstrzymaniu budowy w przypadku obiektu budowlanego lub jego części będącego w budowie albo wybudowanego:
@@ -2576,6 +2937,7 @@ Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrz
 
 5. Postanowienie o wstrzymaniu budowy wydaje się również w przypadku zakończenia budowy.
 
+<a id="art-48a"></a>
 ### Art. 48a.
 
 1. W terminie 30 dni od dnia doręczenia postanowienia o wstrzymaniu budowy inwestor, właściciel lub zarządca obiektu budowlanego może złożyć wniosek o legalizację.
@@ -2584,30 +2946,32 @@ Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrz
 
 3. Jeżeli zostało wniesione zażalenie na postanowienie o wstrzymaniu budowy, termin, o którym mowa w ust. 1, biegnie od dnia, w którym to postanowienie stało się ostateczne.
 
+<a id="art-48b"></a>
 ### Art. 48b.
 
 1. W przypadku złożenia wniosku o legalizację organ nadzoru budowlanego nakłada, w drodze postanowienia, obowiązek przedłożenia dokumentów legalizacyjnych w terminie niekrótszym niż 60 dni od dnia doręczenia tego postanowienia.
 
-2. W przypadku budowy wymagającej decyzji o pozwoleniu na budowę lub w przypadku budowy, o której mowa w art. 29 ust. 1 pkt 1–3, do dokumentów legalizacyjnych należą:
+2. W przypadku budowy wymagającej decyzji o pozwoleniu na budowę lub w przypadku budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–3, do dokumentów legalizacyjnych należą:
 
 1)[72)] zaświadczenie wójta, burmistrza albo prezydenta miasta o zgodności budowy z ustaleniami: obowiązującego miejscowego planu zagospodarowania przestrzennego i innymi aktami prawa miejscowego albo decyzji o warunkach zabudowy i zagospodarowania terenu, w przypadku braku obowiązującego planu zagospodarowania przestrzennego lub uchwał w sprawie ustalenia lokalizacji inwestycji mieszkaniowej lub towarzyszącej;
 
 1)[73)] zaświadczenie wójta, burmistrza albo prezydenta miasta o zgodności budowy z ustaleniami: obowiązującego miejscowego planu zagospodarowania przestrzennego i innymi aktami prawa miejscowego albo decyzji o warunkach zabudowy i zagospodarowania terenu, w przypadku braku obowiązującego planu zagospodarowania przestrzennego;
 
-2) dokumenty, o których mowa w art. 33 ust. 2 pkt 1, 2 i 4, oraz dwa egzemplarze projektu technicznego.
+2) dokumenty, o których mowa w [art. 33](#art-33) ust. 2 pkt 1, 2 i 4, oraz dwa egzemplarze projektu technicznego.
 
-3. W przypadku budowy innej niż budowa wymagająca decyzji o pozwoleniu na budowę lub budowy innej niż budowa, o której mowa w art. 29 ust. 1 pkt 1–3, do dokumentów legalizacyjnych należą:
+3. W przypadku budowy innej niż budowa wymagająca decyzji o pozwoleniu na budowę lub budowy innej niż budowa, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–3, do dokumentów legalizacyjnych należą:
 
 1)[74)] zaświadczenie wójta, burmistrza albo prezydenta miasta o zgodności budowy z ustaleniami obowiązującego miejscowego planu zagospodarowania przestrzennego i innymi aktami prawa miejscowego albo decyzji o warunkach zabudowy i zagospodarowania terenu, w przypadku braku obowiązującego planu zagospodarowania przestrzennego lub uchwał w sprawie ustalenia lokalizacji inwestycji mieszkaniowej lub towarzyszącej;
 
 1)[75)] zaświadczenie wójta, burmistrza albo prezydenta miasta o zgodności budowy z ustaleniami obowiązującego miejscowego planu zagospodarowania przestrzennego i innymi aktami prawa miejscowego albo decyzji o warunkach zabudowy i zagospodarowania terenu, w przypadku braku obowiązującego planu zagospodarowania przestrzennego;
 
-2) oświadczenie, o którym mowa w art. 32 ust. 4 pkt 2;
+2) oświadczenie, o którym mowa w [art. 32](#art-32) ust. 4 pkt 2;
 
 3) projekt zagospodarowania działki lub terenu.
 
-4. W przypadku złożenia wniosku o legalizację w stosunku do obiektu budowlanego, o którym mowa w art. 48 ust. 1, poprzedzonego decyzją o środowiskowych uwarunkowaniach wydaną w postępowaniu wymagającym udziału społeczeństwa, oraz w przypadku, o którym mowa w art. 49 ust. 4a, organowi nadzoru budowlanego należy przedłożyć również załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile przedłożenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+4. W przypadku złożenia wniosku o legalizację w stosunku do obiektu budowlanego, o którym mowa w [art. 48](#art-48) ust. 1, poprzedzonego decyzją o środowiskowych uwarunkowaniach wydaną w postępowaniu wymagającym udziału społeczeństwa, oraz w przypadku, o którym mowa w [art. 49](#art-49) ust. 4a, organowi nadzoru budowlanego należy przedłożyć również załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile przedłożenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
+<a id="art-49"></a>
 ### Art. 49.
 
 1. W przypadku przedłożenia dokumentów legalizacyjnych organ nadzoru budowlanego sprawdza:
@@ -2644,40 +3008,45 @@ Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrz
 
 1) wymagającej decyzji o pozwoleniu na budowę lub
 
-2) o której mowa w art. 29 ust. 1 pkt 1–3 – w decyzji, o której mowa w ust. 4, nakłada się obowiązek uzyskania decyzji o pozwoleniu na użytkowanie.
+2) o której mowa w [art. 29](#art-29) ust. 1 pkt 1–3 – w decyzji, o której mowa w ust. 4, nakłada się obowiązek uzyskania decyzji o pozwoleniu na użytkowanie.
 
+<a id="art-49a"></a>
 ### Art. 49a.
 
-1. W przypadku uchylenia w postępowaniu odwoławczym decyzji, o której mowa w art. 49 ust. 4, i wydania decyzji, o której mowa w art. 49e, opłata legalizacyjna podlega zwrotowi w terminie 30 dni od dnia stwierdzenia wykonania rozbiórki.
+1. W przypadku uchylenia w postępowaniu odwoławczym decyzji, o której mowa w [art. 49](#art-49) ust. 4, i wydania decyzji, o której mowa w [art. 49e](#art-49e), opłata legalizacyjna podlega zwrotowi w terminie 30 dni od dnia stwierdzenia wykonania rozbiórki.
 
 2. Jeżeli wykonanie decyzji o nakazie rozbiórki obiektu budowlanego odbywa się w trybie wykonania zastępczego, o którym mowa w przepisach o postępowaniu egzekucyjnym w administracji, opłatę legalizacyjną zalicza się w poczet kosztów wykonania zastępczego.
 
+<a id="art-49b"></a>
 ### Art. 49b.
 
 (uchylony)
 
+<a id="art-49c"></a>
 ### Art. 49c.
 
 1. Do opłat legalizacyjnych w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm.76)), z tym że uprawnienia organu podatkowego przysługują wojewodzie.
 
 2. Złożenie wniosku, o którym mowa w art. 67a § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, powoduje zawieszenie postępowania administracyjnego prowadzonego na podstawie art. 48 do dnia rozstrzygnięcia wniosku, a w przypadku rozłożenia opłaty legalizacyjnej na raty lub odroczenia płatności – do dnia upływu terminu wniesienia całej opłaty.
 
+<a id="art-49d"></a>
 ### Art. 49d.
 
 1. Wysokość opłaty legalizacyjnej w przypadku:
 
-1) budowy wymagającej decyzji o pozwoleniu na budowę lub budowy, o której mowa w art. 29 ust. 1 pkt 1–3 – oblicza się zgodnie z przepisem art. 59f, z tym że stawka opłaty podlega pięćdziesięciokrotnemu podwyższeniu;
+1) budowy wymagającej decyzji o pozwoleniu na budowę lub budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–3 – oblicza się zgodnie z przepisem [art. 59f](#art-59f), z tym że stawka opłaty podlega pięćdziesięciokrotnemu podwyższeniu;
 
-2) budowy, o której mowa w art. 29 ust. 1:
+2) budowy, o której mowa w [art. 29](#art-29) ust. 1:
 
 a) pkt 4–10, 12 oraz 14–18 i 29 – wynosi 5000 zł,
 
 b) pkt 11, 13, 19–21 i 28 – wynosi 2500 zł;
 
-3) instalowania, o którym mowa w art. 29 ust. 3 pkt 3 lit. a i b – wynosi 2500 zł.
+3) instalowania, o którym mowa w [art. 29](#art-29) ust. 3 pkt 3 lit. a i b – wynosi 2500 zł.
 
-2. Do opłaty legalizacyjnej stosuje się odpowiednio przepisy art. 59g.
+2. Do opłaty legalizacyjnej stosuje się odpowiednio przepisy [art. 59g](#art-59g).
 
+<a id="art-49e"></a>
 ### Art. 49e.
 
 Organ nadzoru budowlanego wydaje decyzję o rozbiórce obiektu budowlanego lub jego części w przypadku:
@@ -2694,6 +3063,7 @@ Organ nadzoru budowlanego wydaje decyzję o rozbiórce obiektu budowlanego lub j
 
 6) kontynuowania budowy pomimo postanowienia o wstrzymaniu budowy.
 
+<a id="art-49f"></a>
 ### Art. 49f.
 
 1. W przypadku stwierdzenia budowy obiektu budowlanego lub jego części:
@@ -2702,7 +3072,7 @@ Organ nadzoru budowlanego wydaje decyzję o rozbiórce obiektu budowlanego lub j
 
 2) bez wymaganego zgłoszenia albo pomimo wniesienia sprzeciwu do tego zgłoszenia – jeżeli od zakończenia budowy upłynęło co najmniej 20 lat, organ nadzoru budowlanego wszczyna uproszczone postępowanie legalizacyjne.
 
-2. W przypadku obiektów budowlanych, o których mowa w art. 103 ust. 2, uproszczone postępowanie legalizacyjne, o którym mowa w ust. 1, prowadzi się na żądanie właściciela lub zarządcy tego obiektu budowlanego.
+2. W przypadku obiektów budowlanych, o których mowa w [art. 103](#art-103) ust. 2, uproszczone postępowanie legalizacyjne, o którym mowa w ust. 1, prowadzi się na żądanie właściciela lub zarządcy tego obiektu budowlanego.
 
 3. W przypadku stwierdzenia stanu zagrożenia życia lub zdrowia ludzi organ nadzoru budowlanego nakazuje, w drodze postanowienia, bezzwłoczne:
 
@@ -2712,15 +3082,16 @@ Organ nadzoru budowlanego wydaje decyzję o rozbiórce obiektu budowlanego lub j
 
 4. Na postanowienie, o którym mowa w ust. 3, przysługuje zażalenie.
 
-5. Nie można wszcząć uproszczonego postępowania legalizacyjnego, o którym mowa w ust. 1, jeżeli termin, o którym mowa w ust. 1, upłynął po dniu wydania postanowienia o wstrzymaniu budowy, o którym mowa w art. 48 ust. 1.
+5. Nie można wszcząć uproszczonego postępowania legalizacyjnego, o którym mowa w ust. 1, jeżeli termin, o którym mowa w ust. 1, upłynął po dniu wydania postanowienia o wstrzymaniu budowy, o którym mowa w [art. 48](#art-48) ust. 1.
 
+<a id="art-49g"></a>
 ### Art. 49g.
 
 1. W ramach uproszczonego postępowania legalizacyjnego organ nadzoru budowlanego nakłada, w drodze postanowienia, obowiązek przedłożenia dokumentów legalizacyjnych w terminie niekrótszym niż 60 dni od dnia jego doręczenia.
 
 2. Do dokumentów legalizacyjnych, o których mowa w ust. 1, należą:
 
-1) oświadczenie, o którym mowa w art. 32 ust. 4 pkt 2;
+1) oświadczenie, o którym mowa w [art. 32](#art-32) ust. 4 pkt 2;
 
 2) geodezyjna inwentaryzacja powykonawcza obiektu budowlanego;
 
@@ -2732,45 +3103,48 @@ b) pozwala na bezpieczne użytkowanie obiektu budowlanego zgodne z dotychczasowy
 
 3. Na postanowienie, o którym mowa w ust. 1, przysługuje zażalenie.
 
+<a id="art-49h"></a>
 ### Art. 49h.
 
 1. W trakcie uproszczonego postępowania legalizacyjnego organ nadzoru budowlanego sprawdza:
 
 1) kompletność dokumentów legalizacyjnych oraz
 
-2) czy z ekspertyzy technicznej, o której mowa w art. 49g ust. 2 pkt 3, wynika, że stan techniczny obiektu budowlanego nie stwarza zagrożenia dla życia lub zdrowia ludzi oraz pozwala na bezpieczne użytkowanie obiektu budowlanego zgodne z dotychczasowym lub zamierzonym sposobem użytkowania.
+2) czy z ekspertyzy technicznej, o której mowa w [art. 49g](#art-49g) ust. 2 pkt 3, wynika, że stan techniczny obiektu budowlanego nie stwarza zagrożenia dla życia lub zdrowia ludzi oraz pozwala na bezpieczne użytkowanie obiektu budowlanego zgodne z dotychczasowym lub zamierzonym sposobem użytkowania.
 
 2. W przypadku stwierdzenia niekompletności dokumentów legalizacyjnych organ nadzoru budowlanego wydaje postanowienie o obowiązku usunięcia niekompletności w wyznaczonym terminie.
 
+<a id="art-49i"></a>
 ### Art. 49i.
 
 1. Organ nadzoru budowlanego, w uproszczonym postępowaniu legalizacyjnym, wydaje:
 
 1) decyzję o legalizacji, w przypadku gdy:
 
-a) dokumenty legalizacyjne są kompletne lub ich niekompletność została usunięta zgodnie z postanowieniem, o którym mowa w art. 49h ust. 2, oraz
+a) dokumenty legalizacyjne są kompletne lub ich niekompletność została usunięta zgodnie z postanowieniem, o którym mowa w [art. 49h](#art-49h) ust. 2, oraz
 
-b) z ekspertyzy technicznej, o której mowa w art. 49g ust. 2 pkt 3, wynika, że stan techniczny obiektu budowlanego nie stwarza zagrożenia dla życia lub zdrowia ludzi oraz pozwala na bezpieczne użytkowanie obiektu budowlanego zgodne z dotychczasowym lub zamierzonym sposobem użytkowania;
+b) z ekspertyzy technicznej, o której mowa w [art. 49g](#art-49g) ust. 2 pkt 3, wynika, że stan techniczny obiektu budowlanego nie stwarza zagrożenia dla życia lub zdrowia ludzi oraz pozwala na bezpieczne użytkowanie obiektu budowlanego zgodne z dotychczasowym lub zamierzonym sposobem użytkowania;
 
 2) decyzję o nakazie rozbiórki, w przypadku:
 
-a) nieprzedłożenia dokumentów legalizacyjnych w wyznaczonym terminie wskazanym w postanowieniu, o którym mowa w art. 49g ust. 1,
+a) nieprzedłożenia dokumentów legalizacyjnych w wyznaczonym terminie wskazanym w postanowieniu, o którym mowa w [art. 49g](#art-49g) ust. 1,
 
-b) niewykonania, w wyznaczonym terminie, postanowienia, o którym mowa w art. 49h ust. 2,
+b) niewykonania, w wyznaczonym terminie, postanowienia, o którym mowa w [art. 49h](#art-49h) ust. 2,
 
-c) gdy z ekspertyzy technicznej, o której mowa w art. 49g ust. 2 pkt 3, wynika, że stan techniczny obiektu budowlanego stwarza zagrożenie dla życia lub zdrowia ludzi lub nie pozwala na bezpieczne użytkowanie obiektu budowlanego zgodne z dotychczasowym lub zamierzonym sposobem użytkowania.
+c) gdy z ekspertyzy technicznej, o której mowa w [art. 49g](#art-49g) ust. 2 pkt 3, wynika, że stan techniczny obiektu budowlanego stwarza zagrożenie dla życia lub zdrowia ludzi lub nie pozwala na bezpieczne użytkowanie obiektu budowlanego zgodne z dotychczasowym lub zamierzonym sposobem użytkowania.
 
 2. Decyzja o legalizacji stanowi podstawę użytkowania obiektu budowlanego.
 
+<a id="art-50"></a>
 ### Art. 50.
 
-1. W przypadkach innych niż określone w art. 48 ust. 1 lub w art. 49f organ nadzoru budowlanego wstrzymuje postanowieniem prowadzenie robót budowlanych wykonywanych:
+1. W przypadkach innych niż określone w [art. 48](#art-48) ust. 1 lub w [art. 49f](#art-49f) organ nadzoru budowlanego wstrzymuje postanowieniem prowadzenie robót budowlanych wykonywanych:
 
 1) bez wymaganej decyzji o pozwoleniu na budowę albo zgłoszenia lub
 
 2) w sposób mogący spowodować zagrożenie bezpieczeństwa ludzi lub mienia lub zagrożenia środowiska, lub
 
-3) na podstawie zgłoszenia z naruszeniem art. 29 ust. 1 i 3, lub
+3) na podstawie zgłoszenia z naruszeniem [art. 29](#art-29) ust. 1 i 3, lub
 
 4) w sposób istotnie odbiegający od ustaleń i warunków określonych w decyzji o pozwoleniu na budowę, projekcie zagospodarowania działki lub terenu, projekcie architektoniczno-budowlanym lub w przepisach.
 
@@ -2782,27 +3156,29 @@ c) gdy z ekspertyzy technicznej, o której mowa w art. 49g ust. 2 pkt 3, wynika,
 
 3. W postanowieniu o wstrzymaniu robót budowlanych można nałożyć obowiązek przedstawienia, w terminie 30 dni od dnia doręczenia postanowienia, inwentaryzacji wykonanych robót budowlanych lub odpowiednich ocen technicznych bądź ekspertyz.
 
-4. Postanowienie o wstrzymaniu robót budowlanych traci ważność po upływie 2 miesięcy od dnia doręczenia, chyba że w tym terminie zostanie wydana decyzja, o której mowa w art. 50a pkt 2 albo w art. 51 ust. 1.
+4. Postanowienie o wstrzymaniu robót budowlanych traci ważność po upływie 2 miesięcy od dnia doręczenia, chyba że w tym terminie zostanie wydana decyzja, o której mowa w [art. 50a](#art-50a) pkt 2 albo w [art. 51](#art-51) ust. 1.
 
 5. Na postanowienie o wstrzymaniu robót budowlanych służy zażalenie.
 
 6.[77)] Jeżeli od zakończenia prowadzenia robót budowlanych upłynęło co najmniej 10 lat:
 
-1) w przypadkach, o których mowa w ust. 1 pkt 1–3, oraz w przypadku robót budowlanych wykonanych w sposób istotnie odbiegający od ustaleń i warunków określonych w przepisach, organ nadzoru budowlanego sprawdza, czy roboty budowlane powodują zagrożenie dla życia lub zdrowia ludzi i stosuje odpowiednio przepisy art. 51 ust. 1 pkt 1 lub 2;
+1) w przypadkach, o których mowa w ust. 1 pkt 1–3, oraz w przypadku robót budowlanych wykonanych w sposób istotnie odbiegający od ustaleń i warunków określonych w przepisach, organ nadzoru budowlanego sprawdza, czy roboty budowlane powodują zagrożenie dla życia lub zdrowia ludzi i stosuje odpowiednio przepisy [art. 51](#art-51) ust. 1 pkt 1 lub 2;
 
-2) w przypadku robót budowlanych wykonanych w sposób istotnie odbiegający od ustaleń i warunków określonych w decyzji o pozwoleniu na budowę, projekcie zagospodarowania działki lub terenu lub projekcie architektoniczno-budowlanym, stosuje się odpowiednio przepisy art. 49f–49i.
+2) w przypadku robót budowlanych wykonanych w sposób istotnie odbiegający od ustaleń i warunków określonych w decyzji o pozwoleniu na budowę, projekcie zagospodarowania działki lub terenu lub projekcie architektoniczno-budowlanym, stosuje się odpowiednio przepisy [art. 49f](#art-49f)–49i.
 
+<a id="art-50a"></a>
 ### Art. 50a.
 
 Organ nadzoru budowlanego w przypadku wykonywania robót budowlanych – pomimo wstrzymania ich wykonywania postanowieniem:
 
 1) (uchylony)
 
-2) o którym mowa w art. 50 ust. 1 – nakazuje, w drodze decyzji, rozbiórkę części obiektu budowlanego wykonanego po doręczeniu postanowienia albo doprowadzenie obiektu budowlanego do stanu poprzedniego.
+2) o którym mowa w [art. 50](#art-50) ust. 1 – nakazuje, w drodze decyzji, rozbiórkę części obiektu budowlanego wykonanego po doręczeniu postanowienia albo doprowadzenie obiektu budowlanego do stanu poprzedniego.
 
+<a id="art-51-1"></a>
 ### Art. 51.
 
-1. Przed upływem 2 miesięcy od dnia wydania postanowienia, o którym mowa w art. 50 ust. 1, organ nadzoru budowlanego w drodze decyzji:
+1. Przed upływem 2 miesięcy od dnia wydania postanowienia, o którym mowa w [art. 50](#art-50) ust. 1, organ nadzoru budowlanego w drodze decyzji:
 
 1) nakazuje zaniechanie dalszych robót budowlanych bądź rozbiórkę obiektu budowlanego lub jego części, bądź doprowadzenie obiektu do stanu poprzedniego albo
 
@@ -2810,11 +3186,11 @@ Organ nadzoru budowlanego w przypadku wykonywania robót budowlanych – pomimo 
 
 3) w przypadku istotnego odstąpienia od zatwierdzonego projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego lub innych warunków decyzji o pozwoleniu na budowę – nakłada, określając termin wykonania, obowiązek sporządzenia i przedstawienia projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego zamiennego uwzględniającego zmiany wynikające z dotychczas wykonanych robót budowlanych oraz – w razie potrzeby – wykonania określonych czynności lub robót budowlanych w celu doprowadzenia wykonywanych robót budowlanych do stanu zgodnego z prawem; przepisy dotyczące projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego stosuje się odpowiednio do zakresu tych zmian.
 
-1a. W przypadku istotnego odstąpienia od projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego z naruszeniem art. 36a ust. 1a, przepisy ust. 1 pkt 3 oraz ust. 4 i 5 stosuje się odpowiednio.
+1a. W przypadku istotnego odstąpienia od projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego z naruszeniem [art. 36a](#art-36a) ust. 1a, przepisy ust. 1 pkt 3 oraz ust. 4 i 5 stosuje się odpowiednio.
 
 1b. W przypadku budowy lub robót budowlanych, poprzedzonych decyzją o środowiskowych uwarunkowaniach wydaną w postępowaniu wymagającym udziału społeczeństwa, do dokumentów, o których mowa w ust. 1 pkt 3, dołącza się również załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
-2. W przypadku wydania nakazu, o którym mowa w art. 50a pkt 2, decyzje, o których mowa w ust. 1 pkt 2 lub 3, wydaje się po wykonaniu obowiązku określonego w tym nakazie.
+2. W przypadku wydania nakazu, o którym mowa w [art. 50a](#art-50a) pkt 2, decyzje, o których mowa w ust. 1 pkt 2 lub 3, wydaje się po wykonaniu obowiązku określonego w tym nakazie.
 
 3. Po upływie terminu lub na wniosek inwestora, organ nadzoru budowlanego sprawdza wykonanie obowiązku, o którym mowa w ust. 1 pkt 2, i wydaje decyzję:
 
@@ -2838,11 +3214,12 @@ Organ nadzoru budowlanego w przypadku wykonywania robót budowlanych – pomimo 
 
 6. Przepisu ust. 4c dotyczącego pozwolenia na użytkowanie nie stosuje się do robót budowlanych innych niż budowa obiektu budowlanego lub jego części.
 
-7. Przepisy ust. 1 pkt 1 i 2 oraz ust. 3 stosuje się odpowiednio, jeżeli roboty budowlane, w przypadkach innych niż określone w art. 48, zostały wykonane w sposób, o którym mowa w art. 50 ust. 1.
+7. Przepisy ust. 1 pkt 1 i 2 oraz ust. 3 stosuje się odpowiednio, jeżeli roboty budowlane, w przypadkach innych niż określone w [art. 48](#art-48), zostały wykonane w sposób, o którym mowa w [art. 50](#art-50) ust. 1.
 
+<a id="art-51a"></a>
 ### Art. 51a. [78)]
 
-1. W przypadku stwierdzenia, że roboty budowlane są prowadzone w sposób, o którym mowa w art. 50 ust. 1 pkt 4, organ nadzoru budowlanego może pouczyć inwestora o konieczności doprowadzenia robót budowlanych do stanu zgodnego z ustaleniami i warunkami określonymi w decyzji o pozwoleniu na budowę, projekcie zagospodarowania działki lub terenu, projekcie architektoniczno-budowlanym lub w przepisach.
+1. W przypadku stwierdzenia, że roboty budowlane są prowadzone w sposób, o którym mowa w [art. 50](#art-50) ust. 1 pkt 4, organ nadzoru budowlanego może pouczyć inwestora o konieczności doprowadzenia robót budowlanych do stanu zgodnego z ustaleniami i warunkami określonymi w decyzji o pozwoleniu na budowę, projekcie zagospodarowania działki lub terenu, projekcie architektoniczno-budowlanym lub w przepisach.
 
 2. Organ nadzoru budowlanego potwierdza pouczenie wpisem w protokole kontroli i wpisem w dzienniku budowy.
 
@@ -2852,18 +3229,21 @@ Organ nadzoru budowlanego w przypadku wykonywania robót budowlanych – pomimo 
 
 2) przed upływem 60 dni od dnia pouczenia, jeżeli wystąpi o to inwestor – sprawdza, czy roboty budowlane zostały doprowadzone do stanu zgodnego z ustaleniami i warunkami określonymi w decyzji o pozwoleniu na budowę, projekcie zagospodarowania działki lub terenu, projekcie architektoniczno-budowlanym lub w przepisach.
 
-4. W przypadku gdy roboty budowlane nie zostały doprowadzone do stanu zgodnego z ustaleniami i warunkami określonymi w decyzji o pozwoleniu na budowę, projekcie zagospodarowania działki lub terenu, projekcie architektoniczno-budowlanym lub w przepisach, organ nadzoru budowlanego stosuje przepisy art. 50–51.
+4. W przypadku gdy roboty budowlane nie zostały doprowadzone do stanu zgodnego z ustaleniami i warunkami określonymi w decyzji o pozwoleniu na budowę, projekcie zagospodarowania działki lub terenu, projekcie architektoniczno-budowlanym lub w przepisach, organ nadzoru budowlanego stosuje przepisy [art. 50](#art-50)–51.
 
+<a id="art-52-1"></a>
 ### Art. 52.
 
 1. Obowiązki, w formie nakazów i zakazów, określone w postanowieniach i decyzjach, o których mowa w niniejszym rozdziale, nakłada się na inwestora. Jeżeli roboty budowlane zostały zakończone lub wykonanie postanowienia albo decyzji przez inwestora jest niemożliwe, obowiązki te nakłada się na właściciela lub zarządcę obiektu budowlanego.
 
 2. Koszty związane z wykonaniem obowiązków, o których mowa w ust. 1, ponosi inwestor, właściciel lub zarządca obiektu budowlanego.
 
+<a id="art-53"></a>
 ### Art. 53.
 
-Przepis art. 52 stosuje się również do obiektów budowlanych, podlegających rozbiórce w terminach, o których mowa w art. 36 ust. 1 pkt 3.
+Przepis [art. 52](#art-52) stosuje się również do obiektów budowlanych, podlegających rozbiórce w terminach, o których mowa w [art. 36](#art-36) ust. 1 pkt 3.
 
+<a id="art-53a"></a>
 ### Art. 53a.
 
 1. Postępowania uregulowane w niniejszym rozdziale wszczyna się z urzędu.
@@ -2880,14 +3260,17 @@ Przepis art. 52 stosuje się również do obiektów budowlanych, podlegających 
 
 5. Formularz wniosku, o którym mowa w ust. 3, w formie dokumentu elektronicznego Główny Inspektor Nadzoru Budowlanego udostępnia na portalu e-Budownictwo.
 
+<a id="rozdzial-5c"></a>
 ### Rozdział 5c. Zakończenie budowy
 
+<a id="art-54"></a>
 ### Art. 54.
 
-1. Do użytkowania obiektu budowlanego, na budowę którego jest wymagana decyzja o pozwoleniu na budowę albo zgłoszenie budowy, o której mowa w art. 29 ust. 1 pkt 1–2a, 3a i 3b, można przystąpić, z uwzględnieniem art. 55 i art. 57, po zawiadomieniu organu nadzoru budowlanego o zakończeniu budowy, jeżeli organ ten, w terminie 14 dni od dnia doręczenia zawiadomienia, nie zgłosi sprzeciwu w drodze decyzji.79) Przepis art. 30 ust. 6a stosuje się.
+1. Do użytkowania obiektu budowlanego, na budowę którego jest wymagana decyzja o pozwoleniu na budowę albo zgłoszenie budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–2a, 3a i 3b, można przystąpić, z uwzględnieniem [art. 55](#art-55) i [art. 57](#art-57), po zawiadomieniu organu nadzoru budowlanego o zakończeniu budowy, jeżeli organ ten, w terminie 14 dni od dnia doręczenia zawiadomienia, nie zgłosi sprzeciwu w drodze decyzji.79) Przepis [art. 30](#art-30) ust. 6a stosuje się.
 
 2. Organ nadzoru budowlanego może z urzędu przed upływem terminu, o którym mowa w ust. 1, wydać zaświadczenie o braku podstaw do wniesienia sprzeciwu. Wydanie zaświadczenia wyłącza możliwość wniesienia sprzeciwu, o którym mowa w ust. 1, oraz uprawnia inwestora do rozpoczęcia użytkowania obiektu, o którym mowa w ust. 1.
 
+<a id="art-55"></a>
 ### Art. 55.
 
 1. Przed przystąpieniem do użytkowania obiektu budowlanego należy uzyskać decyzję o pozwoleniu na użytkowanie, jeżeli:
@@ -2910,7 +3293,7 @@ g) XXVII – z wyjątkiem jazów, wałów przeciwpowodziowych, opasek i ostróg 
 
 h) XXVIII–XXX – o których mowa w załączniku do ustawy;
 
-2) zachodzą okoliczności, o których mowa w art. 49 ust. 5 albo art. 51 ust. 4;
+2) zachodzą okoliczności, o których mowa w [art. 49](#art-49) ust. 5 albo [art. 51](#art-51) ust. 4;
 
 3) przystąpienie do użytkowania obiektu budowlanego ma nastąpić przed wykonaniem wszystkich robót budowlanych.
 
@@ -2918,16 +3301,18 @@ h) XXVIII–XXX – o których mowa w załączniku do ustawy;
 
 1) obiekt budowlany lub jego część;
 
-2) niektóre z obiektów budowlanych objętych jedną decyzją o pozwoleniu na budowę lub zgłoszeniem budowy, o którym mowa w art. 29 ust. 1 pkt 1 i 2.
+2) niektóre z obiektów budowlanych objętych jedną decyzją o pozwoleniu na budowę lub zgłoszeniem budowy, o którym mowa w [art. 29](#art-29) ust. 1 pkt 1 i 2.
 
 1b. Decyzja, o której mowa w ust. 1 pkt 3, może być wydana, jeżeli oddawane do użytkowania obiekty budowlane lub ich części mogą samodzielnie funkcjonować zgodnie z przeznaczeniem.
 
 2. Inwestor zamiast dokonania zawiadomienia o zakończeniu budowy może wystąpić z wnioskiem o wydanie decyzji o pozwoleniu na użytkowanie.
 
+<a id="art-55a"></a>
 ### Art. 55a.
 
 (uchylony)
 
+<a id="art-56"></a>
 ### Art. 56.
 
 1.80) Inwestor jest obowiązany zawiadomić, zgodnie z właściwością wynikającą z przepisów szczególnych, organy:
@@ -2940,13 +3325,14 @@ h) XXVIII–XXX – o których mowa w załączniku do ustawy;
 
 2. Niezajęcie stanowiska przez organy, wymienione w ust. 1, w terminie 14 dni od dnia otrzymania zawiadomienia, traktuje się jak niezgłoszenie sprzeciwu lub uwag.
 
+<a id="art-57"></a>
 ### Art. 57.
 
 1. Do zawiadomienia o zakończeniu budowy obiektu budowlanego lub wniosku o udzielenie pozwolenia na użytkowanie inwestor jest obowiązany dołączyć:
 
-1) oryginał dziennika budowy prowadzonego w postaci papierowej, a w przypadku prowadzenia dziennika budowy w postaci elektronicznej numer tego dziennika, o którym mowa w art. 47h ust. 2;
+1) oryginał dziennika budowy prowadzonego w postaci papierowej, a w przypadku prowadzenia dziennika budowy w postaci elektronicznej numer tego dziennika, o którym mowa w [art. 47h](#art-47h) ust. 2;
 
-1a) projekt techniczny, z uwzględnieniem zmian, o których mowa w art. 36b ust. 2;
+1a) projekt techniczny, z uwzględnieniem zmian, o których mowa w [art. 36b](#art-36b) ust. 2;
 
 2) oświadczenie kierownika budowy:
 
@@ -2958,7 +3344,7 @@ b) o doprowadzeniu do należytego stanu i porządku terenu budowy, a także – 
 
 4) protokoły badań i sprawdzeń:
 
-a) przyłączy i instalacji, zapewniających użytkowanie obiektu budowlanego zgodnie z przeznaczeniem, sporządzone przez osoby posiadające uprawnienia budowlane w odpowiedniej specjalności lub osoby, o których mowa w art. 62 ust. 6,
+a) przyłączy i instalacji, zapewniających użytkowanie obiektu budowlanego zgodnie z przeznaczeniem, sporządzone przez osoby posiadające uprawnienia budowlane w odpowiedniej specjalności lub osoby, o których mowa w [art. 62](#art-62) ust. 6,
 
 b) o których mowa w art. 14 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194 oraz z 2026 r. poz. 252), o ile dotyczy;
 
@@ -2986,23 +3372,23 @@ a) wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24l ust. 
 
 b) oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiegał o dofinansowanie zamierzenia budowlanego z budżetu Unii Europejskiej.
 
-1a. W przypadku zawiadomienia o zakończeniu budowy lub złożenia wniosku o udzielenie pozwolenia na użytkowanie budynku mieszkalnego lub budynku z częścią mieszkalną, w oświadczeniu, o którym mowa w ust. 1 pkt 2 lit. a, zamieszcza się informację o dokonaniu pomiarów powierzchni użytkowej budynku i poszczególnych lokali mieszkalnych, w sposób zgodny z przepisami rozporządzenia, o którym mowa w art. 34 ust. 6 pkt 1.
+1a. W przypadku zawiadomienia o zakończeniu budowy lub złożenia wniosku o udzielenie pozwolenia na użytkowanie budynku mieszkalnego lub budynku z częścią mieszkalną, w oświadczeniu, o którym mowa w ust. 1 pkt 2 lit. a, zamieszcza się informację o dokonaniu pomiarów powierzchni użytkowej budynku i poszczególnych lokali mieszkalnych, w sposób zgodny z przepisami rozporządzenia, o którym mowa w [art. 34](#art-34) ust. 6 pkt 1.
 
 1b. W przypadku zawiadomienia o zakończeniu budowy budynku mieszkalnego jednorodzinnego obowiązku, o którym mowa w ust. 1 pkt 1, 4 i 6, nie stosuje się, z wyjątkiem obowiązku dołączenia protokołu badania szczelności instalacji gazowej.
 
-1ba. W przypadku zawiadomienia o zakończeniu budowy, o której mowa w art. 29 ust. 1 pkt 1a, dla której nie ustanowiono kierownika budowy, obowiązku, o którym mowa w ust. 1 pkt 2 i ust. 1a, nie stosuje się, z tym że inwestor jest obowiązany dołączyć do takiego zawiadomienia oświadczenie o:
+1ba. W przypadku zawiadomienia o zakończeniu budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1a, dla której nie ustanowiono kierownika budowy, obowiązku, o którym mowa w ust. 1 pkt 2 i ust. 1a, nie stosuje się, z tym że inwestor jest obowiązany dołączyć do takiego zawiadomienia oświadczenie o:
 
-1) dokonaniu pomiarów powierzchni użytkowej budynku i poszczególnych lokali mieszkalnych, w sposób zgodny z przepisami rozporządzenia, o którym mowa w art. 34 ust. 6 pkt 1;
+1) dokonaniu pomiarów powierzchni użytkowej budynku i poszczególnych lokali mieszkalnych, w sposób zgodny z przepisami rozporządzenia, o którym mowa w [art. 34](#art-34) ust. 6 pkt 1;
 
 2) zgodności wykonania budynku z projektem budowlanym oraz przepisami techniczno-budowlanymi.
 
-1bb. W przypadku zawiadomienia o zakończeniu budowy, o której mowa w art. 29 ust. 1 pkt 1a, obowiązku, o którym mowa w ust. 1 pkt 6a, nie stosuje się.
+1bb. W przypadku zawiadomienia o zakończeniu budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1a, obowiązku, o którym mowa w ust. 1 pkt 6a, nie stosuje się.
 
 1c. Do zawiadomienia o zakończeniu budowy obiektu budowlanego lub do wniosku o udzielenie pozwolenia na użytkowanie, zamiast oryginałów, można dołączyć kopie dokumentów, o których mowa w ust. 1 pkt 2–6, 7a i 8.
 
 2. W razie zmian nieodstępujących w sposób istotny od zatwierdzonego projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego, lub warunków decyzji o pozwoleniu na budowę, dokonanych podczas wykonywania robót, do zawiadomienia, o którym mowa w ust. 1, inwestor dołącza kopie rysunków wchodzących w skład zatwierdzonego projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego, z naniesionymi zmianami, a w razie potrzeby – uzupełniający opis tych zmian. W takim przypadku oświadczenie, o którym mowa w ust. 1 pkt 2 lit. a, powinno być potwierdzone przez projektanta i inspektora nadzoru inwestorskiego, jeżeli został ustanowiony.
 
-3.[82)] Inwestor jest obowiązany dołączyć do zawiadomienia o zakończeniu budowy lub wniosku o pozwolenie na użytkowanie oświadczenie o braku sprzeciwu lub uwag ze strony organów, o których mowa w art. 56 ust. 1.
+3.[82)] Inwestor jest obowiązany dołączyć do zawiadomienia o zakończeniu budowy lub wniosku o pozwolenie na użytkowanie oświadczenie o braku sprzeciwu lub uwag ze strony organów, o których mowa w [art. 56](#art-56) ust. 1.
 
 3a. Zawiadomienia o zakończeniu budowy dokonuje się oraz wniosek o pozwolenie na użytkowanie składa się w:
 
@@ -3014,23 +3400,25 @@ b) oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiega�
 
 3c. Formularz zawiadomienia oraz formularz wniosku, o których mowa w ust. 3a, w formie dokumentu elektronicznego Główny Inspektor Nadzoru Budowlanego udostępnia na portalu e-Budownictwo.
 
-4. Inwestor jest obowiązany uzupełnić dokumenty wymienione w ust. 1–3, jeżeli, w wyniku ich sprawdzenia przez organ nadzoru budowlanego, okaże się, że są one niekompletne lub posiadają braki i nieścisłości. Sprawdzenie przez organ nadzoru budowlanego projektu technicznego obejmuje wyłącznie spełnienie obowiązku dołączenia oświadczenia i kopii dokumentów, o których mowa w art. 34 ust. 3d.83)
+4. Inwestor jest obowiązany uzupełnić dokumenty wymienione w ust. 1–3, jeżeli, w wyniku ich sprawdzenia przez organ nadzoru budowlanego, okaże się, że są one niekompletne lub posiadają braki i nieścisłości. Sprawdzenie przez organ nadzoru budowlanego projektu technicznego obejmuje wyłącznie spełnienie obowiązku dołączenia oświadczenia i kopii dokumentów, o których mowa w [art. 34](#art-34) ust. 3d.83)
 
 5. (uchylony)
 
-6. Wniosek o udzielenie pozwolenia na użytkowanie stanowi wezwanie organu nadzoru budowlanego do przeprowadzenia obowiązkowej kontroli, o której mowa w art. 59a.
+6. Wniosek o udzielenie pozwolenia na użytkowanie stanowi wezwanie organu nadzoru budowlanego do przeprowadzenia obowiązkowej kontroli, o której mowa w [art. 59a](#art-59a).
 
 7. (uchylony)
 
 8.[84)] Po zakończeniu postępowania w sprawie zawiadomienia o zakończeniu budowy albo udzieleniu pozwolenia na użytkowanie, organ nadzoru budowlanego zwraca bezzwłocznie inwestorowi dokumenty, o których mowa w ust. 1 pkt 1a, 4 i 5, oraz dziennik budowy prowadzony w postaci papierowej, jeżeli dokumenty te były dołączone w oryginale do zawiadomienia o zakończeniu budowy albo wniosku o udzielenie pozwolenia na użytkowanie.
 
+<a id="art-58"></a>
 ### Art. 58.
 
 (uchylony)
 
+<a id="art-59"></a>
 ### Art. 59.
 
-1. Organ nadzoru budowlanego wydaje decyzję w sprawie pozwolenia na użytkowanie obiektu budowlanego po przeprowadzeniu obowiązkowej kontroli, o której mowa w art. 59a.
+1. Organ nadzoru budowlanego wydaje decyzję w sprawie pozwolenia na użytkowanie obiektu budowlanego po przeprowadzeniu obowiązkowej kontroli, o której mowa w [art. 59a](#art-59a).
 
 2. Organ nadzoru budowlanego może w pozwoleniu na użytkowanie obiektu budowlanego określić warunki użytkowania tego obiektu albo uzależnić jego użytkowanie od wykonania, w oznaczonym terminie, określonych robót budowlanych.
 
@@ -3040,7 +3428,7 @@ b) oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiega�
 
 4a. Inwestor jest obowiązany zawiadomić organ nadzoru budowlanego o zakończeniu robót budowlanych prowadzonych, po przystąpieniu do użytkowania obiektu budowlanego, na podstawie pozwolenia na użytkowanie.
 
-5. Organ nadzoru budowlanego, z zastrzeżeniem ust. 2 i 3, odmawia wydania pozwolenia na użytkowanie obiektu budowlanego w przypadku niespełnienia wymagań określonych w ust. 1 i w art. 57 ust. 1–4. Przepisy art. 51 stosuje się odpowiednio.
+5. Organ nadzoru budowlanego, z zastrzeżeniem ust. 2 i 3, odmawia wydania pozwolenia na użytkowanie obiektu budowlanego w przypadku niespełnienia wymagań określonych w ust. 1 i w [art. 57](#art-57) ust. 1–4. Przepisy [art. 51](#art-51) stosuje się odpowiednio.
 
 6. Decyzję o pozwoleniu na użytkowanie obiektu budowlanego organ nadzoru budowlanego przesyła niezwłocznie organowi, który wydał decyzję o warunkach zabudowy i zagospodarowania terenu lub pozwolenia, o których mowa w art. 23 ust. 1 i art. 26 ust. 1, oraz decyzji, o której mowa w art. 27 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 
@@ -3048,6 +3436,7 @@ b) oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiega�
 
 7.[86)] Stroną w postępowaniu w sprawie pozwolenia na użytkowanie jest wyłącznie inwestor.
 
+<a id="art-59a"></a>
 ### Art. 59a.
 
 1. Organ nadzoru budowlanego przeprowadza, na wezwanie inwestora, obowiązkową kontrolę budowy w zakresie jej zgodności z ustaleniami i warunkami określonymi w decyzji o pozwoleniu na budowę oraz z projektem budowlanym.
@@ -3068,9 +3457,9 @@ d) wykonania urządzeń budowlanych,
 
 e) wykonania instalacji zapewniających użytkowanie obiektu budowlanego zgodnie z przeznaczeniem,
 
-f) zapewnienia warunków niezbędnych do korzystania z tego obiektu przez osoby niepełnosprawne, o których mowa w art. 1 Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r., w tym osoby starsze – w stosunku do obiektu użyteczności publicznej i budynku mieszkalnego wielorodzinnego;
+f) zapewnienia warunków niezbędnych do korzystania z tego obiektu przez osoby niepełnosprawne, o których mowa w [art. 1](#art-1) Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r., w tym osoby starsze – w stosunku do obiektu użyteczności publicznej i budynku mieszkalnego wielorodzinnego;
 
-2a) spełnienia warunków wskazanych w art. 55 ust. 1b, jeżeli przystąpienie do użytkowania obiektu budowlanego ma nastąpić przed wykonaniem wszystkich robót budowlanych;
+2a) spełnienia warunków wskazanych w [art. 55](#art-55) ust. 1b, jeżeli przystąpienie do użytkowania obiektu budowlanego ma nastąpić przed wykonaniem wszystkich robót budowlanych;
 
 3) wyrobów budowlanych szczególnie istotnych dla bezpieczeństwa konstrukcji i bezpieczeństwa pożarowego;
 
@@ -3078,16 +3467,19 @@ f) zapewnienia warunków niezbędnych do korzystania z tego obiektu przez osoby 
 
 5) uporządkowania terenu budowy.
 
+<a id="art-59b"></a>
 ### Art. 59b.
 
 (uchylony)
 
+<a id="art-59c"></a>
 ### Art. 59c.
 
 1. Organ nadzoru budowlanego przeprowadza obowiązkową kontrolę przed upływem 21 dni od dnia doręczenia wezwania albo uzupełnionego wezwania. O terminie obowiązkowej kontroli organ zawiadamia inwestora w terminie 7 dni od dnia doręczenia wezwania albo uzupełnionego wezwania.
 
 2. Inwestor jest obowiązany uczestniczyć w obowiązkowej kontroli w wyznaczonym terminie.
 
+<a id="art-59d"></a>
 ### Art. 59d.
 
 1. Organ nadzoru budowlanego, po przeprowadzeniu obowiązkowej kontroli, sporządza protokół w trzech egzemplarzach. Jeden egzemplarz protokołu doręcza się inwestorowi niezwłocznie po przeprowadzeniu kontroli, drugi egzemplarz przekazuje się organowi wyższego stopnia, a trzeci pozostaje w organie nadzoru budowlanego.
@@ -3110,13 +3502,15 @@ f) zapewnienia warunków niezbędnych do korzystania z tego obiektu przez osoby 
 
 4. (uchylony)
 
+<a id="art-59e"></a>
 ### Art. 59e.
 
 Obowiązkową kontrolę budowy lub obiektu budowlanego może przeprowadzać, z upoważnienia właściwego organu nadzoru budowlanego, wyłącznie osoba zatrudniona w tym organie i posiadająca uprawnienia budowlane.
 
+<a id="art-59f"></a>
 ### Art. 59f.
 
-1. W przypadku stwierdzenia w trakcie obowiązkowej kontroli nieprawidłowości w zakresie, o którym mowa w art. 59a ust. 2, wymierza się karę stanowiącą iloczyn stawki opłaty (s), współczynnika kategorii obiektu budowlanego (k) i współczynnika wielkości obiektu budowlanego (w).
+1. W przypadku stwierdzenia w trakcie obowiązkowej kontroli nieprawidłowości w zakresie, o którym mowa w [art. 59a](#art-59a) ust. 2, wymierza się karę stanowiącą iloczyn stawki opłaty (s), współczynnika kategorii obiektu budowlanego (k) i współczynnika wielkości obiektu budowlanego (w).
 
 2. Stawka opłaty (s) wynosi 500 zł.
 
@@ -3124,13 +3518,14 @@ Obowiązkową kontrolę budowy lub obiektu budowlanego może przeprowadzać, z u
 
 4. W przypadku gdy w skład obiektu budowlanego, z wyjątkiem budynku mieszkalnego jednorodzinnego, wchodzą części odpowiadające różnym kategoriom, karę stanowi suma kar obliczonych dla różnych kategorii.
 
-5. W przypadku stwierdzenia nieprawidłowości w zakresie, o którym mowa w art. 59a ust. 2, karę oblicza się odrębnie za każdą stwierdzoną nieprawidłowość. Karę stanowi suma tak obliczonych kar.
+5. W przypadku stwierdzenia nieprawidłowości w zakresie, o którym mowa w [art. 59a](#art-59a) ust. 2, karę oblicza się odrębnie za każdą stwierdzoną nieprawidłowość. Karę stanowi suma tak obliczonych kar.
 
-6. W przypadku wymierzenia kary organ nadzoru budowlanego, w drodze decyzji, odmawia wydania pozwolenia na użytkowanie i przeprowadza, w odpowiednim zakresie, postępowanie, o którym mowa w art. 51.
+6. W przypadku wymierzenia kary organ nadzoru budowlanego, w drodze decyzji, odmawia wydania pozwolenia na użytkowanie i przeprowadza, w odpowiednim zakresie, postępowanie, o którym mowa w [art. 51](#art-51).
 
+<a id="art-59g"></a>
 ### Art. 59g.
 
-1. Karę, o której mowa w art. 59f ust. 1, organ nadzoru budowlanego wymierza w drodze postanowienia, na które przysługuje zażalenie. Wpływy z kar stanowią dochód budżetu państwa.
+1. Karę, o której mowa w [art. 59f](#art-59f) ust. 1, organ nadzoru budowlanego wymierza w drodze postanowienia, na które przysługuje zażalenie. Wpływy z kar stanowią dochód budżetu państwa.
 
 2. Wymierzoną karę wnosi się w terminie 7 dni od dnia doręczenia postanowienia, o którym mowa w ust. 1, w kasie właściwego urzędu wojewódzkiego lub na rachunek bankowy tego urzędu.
 
@@ -3142,23 +3537,25 @@ Obowiązkową kontrolę budowy lub obiektu budowlanego może przeprowadzać, z u
 
 6. Organ właściwy do wydania, zmiany, uchylenia lub stwierdzenia nieważności postanowienia niezwłocznie przesyła kopię wydanego postanowienia właściwemu wojewodzie.
 
+<a id="art-59h"></a>
 ### Art. 59h.
 
 Nie stwierdza się nieważności decyzji o pozwoleniu na użytkowanie, jeżeli upłynęło 5 lat od dnia, w którym decyzja o pozwoleniu na użytkowanie stała się ostateczna. Przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
+<a id="art-59i"></a>
 ### Art. 59i.
 
-1. W przypadku stwierdzenia użytkowania obiektu budowlanego lub jego części z naruszeniem przepisów art. 54 i art. 55 organ nadzoru budowlanego poucza inwestora lub właściciela, że obiekt budowlany nie może być użytkowany bez uzyskania decyzji o pozwoleniu na użytkowanie lub dokonania skutecznego zawiadomienia o zakończeniu budowy.
+1. W przypadku stwierdzenia użytkowania obiektu budowlanego lub jego części z naruszeniem przepisów [art. 54](#art-54) i [art. 55](#art-55) organ nadzoru budowlanego poucza inwestora lub właściciela, że obiekt budowlany nie może być użytkowany bez uzyskania decyzji o pozwoleniu na użytkowanie lub dokonania skutecznego zawiadomienia o zakończeniu budowy.
 
 2. Organ nadzoru budowlanego potwierdza pouczenie wpisem w protokole kontroli, a w przypadku nieobecności inwestora lub właściciela doręcza pouczenie na piśmie.
 
-3. Organ nadzoru budowlanego po upływie 60 dni od dnia doręczenia pouczenia sprawdza, czy obiekt budowlany lub jego część jest nadal użytkowany z naruszeniem art. 54 i art. 55.
+3. Organ nadzoru budowlanego po upływie 60 dni od dnia doręczenia pouczenia sprawdza, czy obiekt budowlany lub jego część jest nadal użytkowany z naruszeniem [art. 54](#art-54) i [art. 55](#art-55).
 
-4. W przypadku niezaprzestania użytkowania, o którym mowa w ust. 1, organ nadzoru budowlanego, w drodze postanowienia, wymierza karę z tytułu nielegalnego użytkowania obiektu budowlanego. Do kary stosuje się odpowiednio przepisy art. 59f, z tym że stawka opłaty podlega dziesięciokrotnemu podwyższeniu.
+4. W przypadku niezaprzestania użytkowania, o którym mowa w ust. 1, organ nadzoru budowlanego, w drodze postanowienia, wymierza karę z tytułu nielegalnego użytkowania obiektu budowlanego. Do kary stosuje się odpowiednio przepisy [art. 59f](#art-59f), z tym że stawka opłaty podlega dziesięciokrotnemu podwyższeniu.
 
-5. Po upływie 30 dni od dnia doręczenia postanowienia, o którym mowa w ust. 4, organ nadzoru budowlanego sprawdza, czy obiekt budowlany lub jego część jest nadal użytkowany z naruszeniem przepisów art. 54 i art. 55.
+5. Po upływie 30 dni od dnia doręczenia postanowienia, o którym mowa w ust. 4, organ nadzoru budowlanego sprawdza, czy obiekt budowlany lub jego część jest nadal użytkowany z naruszeniem przepisów [art. 54](#art-54) i [art. 55](#art-55).
 
-6. Jeżeli organ nadzoru budowlanego stwierdzi dalsze użytkowanie obiektu budowlanego lub jego części z naruszeniem przepisów art. 54 i art. 55, pomimo wydania postanowienia, o którym mowa w ust. 4, ponownie wymierza karę z tytułu nielegalnego użytkowania obiektu budowlanego w drodze postanowienia. Do kary stosuje się odpowiednio przepisy art. 59f, z tym że stawka opłaty podlega pięciokrotnemu podwyższeniu.
+6. Jeżeli organ nadzoru budowlanego stwierdzi dalsze użytkowanie obiektu budowlanego lub jego części z naruszeniem przepisów [art. 54](#art-54) i [art. 55](#art-55), pomimo wydania postanowienia, o którym mowa w ust. 4, ponownie wymierza karę z tytułu nielegalnego użytkowania obiektu budowlanego w drodze postanowienia. Do kary stosuje się odpowiednio przepisy [art. 59f](#art-59f), z tym że stawka opłaty podlega pięciokrotnemu podwyższeniu.
 
 7. Postanowienie, o którym mowa w ust. 6, może być wydawane wielokrotnie, jednak kolejne postanowienie nie może być wydane wcześniej niż po upływie 30 dni od dnia wydania poprzedniego postanowienia.
 
@@ -3168,8 +3565,9 @@ Nie stwierdza się nieważności decyzji o pozwoleniu na użytkowanie, jeżeli u
 
 10. Do kar, o których mowa w ust. 4 i 6, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organu podatkowego, z wyjątkiem określonych w ust. 4 i 6, przysługują wojewodzie.
 
-11. Do kar, o których mowa w ust. 4 i 6, stosuje się przepisy art. 59g ust. 3, 4 i 6.
+11. Do kar, o których mowa w ust. 4 i 6, stosuje się przepisy [art. 59g](#art-59g) ust. 3, 4 i 6.
 
+<a id="art-60"></a>
 ### Art. 60.
 
 1. Inwestor, oddając do użytkowania obiekt budowlany, przekazuje właścicielowi albo zarządcy obiektu dokumentację budowy i dokumentację powykonawczą. Przekazaniu podlegają również inne dokumenty i decyzje dotyczące obiektu, a także, w razie potrzeby, instrukcje obsługi i eksploatacji: obiektu, instalacji i urządzeń związanych z tym obiektem.
@@ -3180,8 +3578,10 @@ Nie stwierdza się nieważności decyzji o pozwoleniu na użytkowanie, jeżeli u
 
 2) nośnik danych zawierający dziennik budowy pobrany z systemu EDB.
 
+<a id="rozdzial-5d"></a>
 ### Rozdział 5d. Książka obiektu budowlanego
 
+<a id="art-60a"></a>
 ### Art. 60a.
 
 Książka obiektu budowlanego jest dokumentem przeznaczonym do dokonywania wpisów w zakresie:
@@ -3190,7 +3590,7 @@ Książka obiektu budowlanego jest dokumentem przeznaczonym do dokonywania wpis�
 
 2) imienia i nazwiska albo nazwy, adresu zamieszkania lub siedziby oraz e-maila właściciela lub zarządcy;
 
-3) kontroli, o których mowa w art. 62 ust. 1;
+3) kontroli, o których mowa w [art. 62](#art-62) ust. 1;
 
 4) ekspertyz i opinii technicznych dotyczących obiektu budowlanego oraz imion i nazwisk osób, przez które zostały sporządzone;
 
@@ -3202,13 +3602,14 @@ Książka obiektu budowlanego jest dokumentem przeznaczonym do dokonywania wpis�
 
 8) decyzji, postanowień, zaświadczeń i innych dokumentów wydanych przez organy administracji publicznej, dotyczących obiektu budowlanego.
 
+<a id="art-60b"></a>
 ### Art. 60b.
 
 1. Książkę obiektu budowlanego prowadzi się na bieżąco dla każdego:
 
 1) budynku oraz
 
-2) obiektu budowlanego niebędącego budynkiem, którego projekt jest objęty obowiązkiem sprawdzenia, o którym mowa w art. 20 ust. 2.
+2) obiektu budowlanego niebędącego budynkiem, którego projekt jest objęty obowiązkiem sprawdzenia, o którym mowa w [art. 20](#art-20) ust. 2.
 
 2. Obowiązek prowadzenia książki obiektu budowlanego nie obejmuje:
 
@@ -3220,10 +3621,11 @@ b) garażowych i gospodarczych w zabudowie jednorodzinnej;
 
 2) obiektów budowlanych:
 
-a) budownictwa zagrodowego i letniskowego, b)87) wymienionych w art. 29 ust. 1 i 2, z wyłączeniem sieci gazowych oraz budynków, o których mowa w art. 29 ust. 1 pkt 1b;
+a) budownictwa zagrodowego i letniskowego, b)87) wymienionych w [art. 29](#art-29) ust. 1 i 2, z wyłączeniem sieci gazowych oraz budynków, o których mowa w [art. 29](#art-29) ust. 1 pkt 1b;
 
 3) dróg lub obiektów mostowych, dla których jest prowadzona książka drogi lub książka obiektu mostowego na podstawie przepisów o drogach publicznych.
 
+<a id="art-60c"></a>
 ### Art. 60c.
 
 Książkę obiektu budowlanego zakłada właściciel lub zarządca obiektu budowlanego w terminie 30 dni od dnia:
@@ -3234,10 +3636,12 @@ Książkę obiektu budowlanego zakłada właściciel lub zarządca obiektu budow
 
 3) dokonania zmiany sposobu użytkowania obiektu budowlanego lub jego części – jeżeli w wyniku tej zmiany obiekt budowlany niewymagający wcześniej założenia książki obiektu budowlanego stał się obiektem budowlanym, dla którego należy prowadzić książkę obiektu budowlanego.
 
+<a id="art-60d"></a>
 ### Art. 60d.
 
 Właściciel lub zarządca obiektu budowlanego wskazuje w książce obiektu budowlanego osobę fizyczną do prowadzenia tej książki. Za prowadzenie książki obiektu budowlanego odpowiada wskazana w tej książce osoba fizyczna.
 
+<a id="art-60e"></a>
 ### Art. 60e.
 
 1. Uprawnionymi do dokonywania wpisów w książce obiektu budowlanego są:
@@ -3246,22 +3650,25 @@ Właściciel lub zarządca obiektu budowlanego wskazuje w książce obiektu budo
 
 2) osoba wskazana w książce obiektu budowlanego do jej prowadzenia;
 
-3) osoby przeprowadzające kontrole, o których mowa w art. 62 ust. 1.
+3) osoby przeprowadzające kontrole, o których mowa w [art. 62](#art-62) ust. 1.
 
-2. Osoby, o których mowa w ust. 1 pkt 1 i 2, dokonują wpisów w zakresie, o którym mowa w art. 60a pkt 1, 2 oraz 4–8.
+2. Osoby, o których mowa w ust. 1 pkt 1 i 2, dokonują wpisów w zakresie, o którym mowa w [art. 60a](#art-60a) pkt 1, 2 oraz 4–8.
 
-3. Osoby przeprowadzające kontrole, o których mowa w art. 62 ust. 1, dokonują wpisów w zakresie, o którym mowa w art. 60a pkt 3.
+3. Osoby przeprowadzające kontrole, o których mowa w [art. 62](#art-62) ust. 1, dokonują wpisów w zakresie, o którym mowa w [art. 60a](#art-60a) pkt 3.
 
+<a id="art-60f"></a>
 ### Art. 60f.
 
 1. Wpisu w książce obiektu budowlanego dokonuje się niezwłocznie, jednak niepóźniej niż w terminie 7 dni od dnia zaistnienia okoliczności, której wpis dotyczy.
 
 2. W przypadku awarii lub przerwy w działaniu systemu Cyfrowa Książka Obiektu Budowlanego, zwanego dalej „systemem c-KOB”, uniemożliwiającej dokonanie wpisu, o którym mowa w ust. 1, w książce obiektu budowlanego prowadzonej w postaci elektronicznej, wpisu dokonuje się niezwłocznie po ustaniu tej awarii lub tej przerwy.
 
+<a id="art-60g"></a>
 ### Art. 60g.
 
 W terminie miesiąca od dnia zakończenia rozbiórki obiektu budowlanego jego właściciel lub zarządca zamyka prowadzoną w systemie c-KOB książkę obiektu budowlanego.
 
+<a id="art-60h"></a>
 ### Art. 60h.
 
 1. Książkę obiektu budowlanego zakłada się i prowadzi w postaci elektronicznej w systemie c-KOB.
@@ -3276,7 +3683,7 @@ W terminie miesiąca od dnia zakończenia rozbiórki obiektu budowlanego jego w�
 
 6. System c-KOB zawiera zabezpieczenia uniemożliwiające usunięcie oraz zmianę wprowadzonych danych.
 
-7. Aktualizacji danych lub korekt wprowadzonych wpisów mogą dokonywać podmioty wymienione w art. 60e ust. 1 w zakresie dokonanych przez siebie wpisów.
+7. Aktualizacji danych lub korekt wprowadzonych wpisów mogą dokonywać podmioty wymienione w [art. 60e](#art-60e) ust. 1 w zakresie dokonanych przez siebie wpisów.
 
 8. System c-KOB zapewnia rozliczalność wprowadzonych danych i dokonanych wpisów oraz dostępność tych danych i wpisów.
 
@@ -3284,6 +3691,7 @@ W terminie miesiąca od dnia zakończenia rozbiórki obiektu budowlanego jego w�
 
 10. System c-KOB w zakresie postępowania z dokumentacją w postaci elektronicznej spełnia warunki określone w przepisach ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
 
+<a id="art-60i"></a>
 ### Art. 60i.
 
 1. W przypadku zmiany właściciela lub zarządcy obiektu budowlanego dotychczasowy właściciel lub zarządca obiektu budowlanego przekazuje nowemu właścicielowi lub zarządcy tego obiektu książkę obiektu budowlanego.
@@ -3292,9 +3700,10 @@ W terminie miesiąca od dnia zakończenia rozbiórki obiektu budowlanego jego w�
 
 3. W przypadku nieprzekazania książki obiektu budowlanego prowadzonej w postaci elektronicznej przez dotychczasowego właściciela lub zarządcę obiektu budowlanego Główny Inspektor Nadzoru Budowlanego na wniosek nowego właściciela lub zarządcy przekazuje im do dalszego prowadzenia tę książkę w systemie c-KOB. Przekazanie, o którym mowa w zdaniu pierwszym, następuje po przedstawieniu przez nowego właściciela lub zarządcę dokumentów potwierdzających prawo właściciela lub zarządcy do obiektu budowlanego.
 
+<a id="art-60j"></a>
 ### Art. 60j.
 
-1. W celu założenia książki obiektu budowlanego w postaci elektronicznej oraz dokonywania w niej wpisów osoby, o których mowa w art. 60e ust. 1, są obowiązane posiadać konto w systemie c-KOB.
+1. W celu założenia książki obiektu budowlanego w postaci elektronicznej oraz dokonywania w niej wpisów osoby, o których mowa w [art. 60e](#art-60e) ust. 1, są obowiązane posiadać konto w systemie c-KOB.
 
 2. Przy zakładaniu konta w systemie c-KOB wprowadza się w tym systemie:
 
@@ -3306,7 +3715,7 @@ W terminie miesiąca od dnia zakończenia rozbiórki obiektu budowlanego jego w�
 
 4) tytuł prawny, z którego wynika uprawnienie do reprezentowania właściciela lub zarządcy obiektu budowlanego – w przypadku osoby fizycznej działającej w imieniu właściciela lub zarządcy;
 
-5) rodzaj i zakres posiadanych uprawnień budowlanych albo innych uprawnień dających podstawę do dokonywania kontroli – w przypadku osoby przeprowadzającej kontrolę, o której mowa w art. 62 ust. 1.
+5) rodzaj i zakres posiadanych uprawnień budowlanych albo innych uprawnień dających podstawę do dokonywania kontroli – w przypadku osoby przeprowadzającej kontrolę, o której mowa w [art. 62](#art-62) ust. 1.
 
 3. Przy zakładaniu książki obiektu budowlanego w postaci elektronicznej wprowadza się do systemu c-KOB:
 
@@ -3332,6 +3741,7 @@ d) tytuł prawny, z którego wynika uprawnienie do reprezentowania właściciela
 
 4) dokument, z którego wynika tytuł prawny właściciela lub zarządcy do obiektu budowlanego.
 
+<a id="art-60k"></a>
 ### Art. 60k.
 
 1. Osoba wskazana w książce obiektu budowlanego do jej prowadzenia zapewnia dołączenie do książki obiektu budowlanego planu sytuacyjnego.
@@ -3350,6 +3760,7 @@ d) tytuł prawny, z którego wynika uprawnienie do reprezentowania właściciela
 
 3. W przypadku usytuowania urządzeń przeznaczonych do odcinania instalacji od przyłączy wewnątrz obiektu budowlanego do książki obiektu budowlanego dołącza się opis pozwalający na zlokalizowanie tych urządzeń.
 
+<a id="art-60l"></a>
 ### Art. 60l.
 
 1. Organom nadzoru budowlanego oraz innym organom lub służbom uprawnionym do kontroli przestrzegania przepisów w zakresie utrzymania obiektów budowlanych lub do prowadzenia działań ratowniczych zapewnia się dostęp do systemu c-KOB o charakterze:
@@ -3380,20 +3791,23 @@ d) tytuł prawny, z którego wynika uprawnienie do reprezentowania właściciela
 
 6. W przypadku, o którym mowa w ust. 3 pkt 3, przydzielenie dostępu do systemu c-KOB następuje na żądanie organu, o którym mowa w ust. 1.
 
+<a id="art-60m"></a>
 ### Art. 60m.
 
-Osoby, o których mowa w art. 60e ust. 1 pkt 1 i 2, w związku z kontrolą, o której mowa w art. 62 ust. 1, zapewniają osobie przeprowadzającej tę kontrolę dostęp do książki obiektu budowlanego w systemie c-KOB, w tym do dokonania wpisów.
+Osoby, o których mowa w [art. 60e](#art-60e) ust. 1 pkt 1 i 2, w związku z kontrolą, o której mowa w [art. 62](#art-62) ust. 1, zapewniają osobie przeprowadzającej tę kontrolę dostęp do książki obiektu budowlanego w systemie c-KOB, w tym do dokonania wpisów.
 
+<a id="art-60n"></a>
 ### Art. 60n.
 
 1. System c-KOB zapewnia:
 
-1) osobom, o których mowa w art. 60e ust. 1 pkt 1 i 2, możliwość pozbawienia dostępu do książki obiektu budowlanego w stosunku do osób przeprowadzających kontrole, o których mowa w art. 62 ust. 1;
+1) osobom, o których mowa w [art. 60e](#art-60e) ust. 1 pkt 1 i 2, możliwość pozbawienia dostępu do książki obiektu budowlanego w stosunku do osób przeprowadzających kontrole, o których mowa w [art. 62](#art-62) ust. 1;
 
-2) właścicielowi lub zarządcy obiektu budowlanego możliwość pozbawienia dostępu do książki obiektu budowlanego w stosunku do osoby, o której mowa w art. 60e ust. 1 pkt 2.
+2) właścicielowi lub zarządcy obiektu budowlanego możliwość pozbawienia dostępu do książki obiektu budowlanego w stosunku do osoby, o której mowa w [art. 60e](#art-60e) ust. 1 pkt 2.
 
-2. Pozbawienie dostępu, o którym mowa w ust. 1 pkt 1, nie może utrudniać lub uniemożliwiać osobom przeprowadzającym kontrole, o których mowa w art. 62 ust. 1, wykonywania praw lub obowiązków wynikających z ustawy.
+2. Pozbawienie dostępu, o którym mowa w ust. 1 pkt 1, nie może utrudniać lub uniemożliwiać osobom przeprowadzającym kontrole, o których mowa w [art. 62](#art-62) ust. 1, wykonywania praw lub obowiązków wynikających z ustawy.
 
+<a id="art-60o"></a>
 ### Art. 60o.
 
 1. Główny Inspektor Nadzoru Budowlanego jest administratorem danych przetwarzanych w systemie c-KOB oraz odpowiada za jego utrzymanie i rozwój.
@@ -3414,7 +3828,7 @@ e) numer telefonu – jeżeli został wskazany przez użytkownika konta,
 
 f) numer PESEL – jeżeli został wskazany w ramach uwierzytelnienia,
 
-g) numer uprawnień budowlanych lub decyzji o nadaniu uprawnień albo innych dokumentów dających podstawę do dokonywania kontroli – w przypadku osób przeprowadzających kontrole, o których mowa w art. 62 ust. 1,
+g) numer uprawnień budowlanych lub decyzji o nadaniu uprawnień albo innych dokumentów dających podstawę do dokonywania kontroli – w przypadku osób przeprowadzających kontrole, o których mowa w [art. 62](#art-62) ust. 1,
 
 h) tytuł prawny, z którego wynika uprawnienie do reprezentowania właściciela lub zarządcy obiektu budowlanego – w przypadku osoby fizycznej działającej w imieniu właściciela lub zarządcy;
 
@@ -3426,16 +3840,19 @@ b) w dokumentach załączonych do książki obiektu budowlanego,
 
 c) w dokumentach zapisanych na kontach użytkowników.
 
+<a id="art-60p"></a>
 ### Art. 60p.
 
 Dostęp do systemu c-KOB następuje przez uwierzytelnienie i autoryzację osoby w tym systemie za pośrednictwem konta.
 
+<a id="art-60q"></a>
 ### Art. 60q.
 
 1. System c-KOB zapewnia przechowywanie książki obiektu budowlanego przez okres istnienia obiektu budowlanego.
 
 2. Po upływie 10 lat od dnia zamknięcia książki obiektu budowlanego dane zgromadzone w systemie c-KOB dotyczące tej książki są automatycznie usuwane, z uwzględnieniem przepisów ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
 
+<a id="art-60r"></a>
 ### Art. 60r.
 
 Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia:
@@ -3444,16 +3861,19 @@ Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrz
 
 2) szczegółowy sposób uwierzytelniania i autoryzacji w systemie c-KOB – mając na względzie zapewnienie nieusuwalności, przejrzystości i chronologii wpisów w książce obiektu budowlanego oraz zapewnienie bezpieczeństwa gromadzonych danych.
 
+<a id="rozdzial-6"></a>
 ### Rozdział 6. Utrzymanie obiektów budowlanych
 
+<a id="art-61"></a>
 ### Art. 61.
 
 Właściciel lub zarządca obiektu budowlanego jest obowiązany:
 
-1) utrzymywać i użytkować obiekt zgodnie z zasadami, o których mowa w art. 5 ust. 2;
+1) utrzymywać i użytkować obiekt zgodnie z zasadami, o których mowa w [art. 5](#art-5) ust. 2;
 
 2) zapewnić, dochowując należytej staranności, bezpieczne użytkowanie obiektu w razie wystąpienia czynników zewnętrznych odziaływujących na obiekt, związanych z działaniem człowieka lub sił natury, takich jak: wyładowania atmosferyczne, wstrząsy sejsmiczne, silne wiatry, intensywne opady atmosferyczne, osuwiska ziemi, zjawiska lodowe na rzekach i morzu oraz jeziorach i zbiornikach wodnych, pożary lub powodzie, w wyniku których następuje uszkodzenie obiektu budowlanego lub bezpośrednie zagrożenie takim uszkodzeniem, mogące spowodować zagrożenie życia lub zdrowia ludzi, bezpieczeństwa mienia lub środowiska.
 
+<a id="art-62"></a>
 ### Art. 62.
 
 1. Obiekty budowlane powinny być w czasie ich użytkowania poddawane przez właściciela lub zarządcę kontroli:
@@ -3470,9 +3890,9 @@ c) instalacji gazowych oraz przewodów kominowych (dymowych, spalinowych i wenty
 
 3) okresowej w zakresie, o którym mowa w pkt 1, co najmniej dwa razy w roku, w terminach do 31 maja oraz do 30 listopada, w przypadku budynków o powierzchni zabudowy przekraczającej 2000 m2 oraz innych obiektów budowlanych o powierzchni dachu przekraczającej 1000 m2;
 
-4) bezpiecznego użytkowania obiektu każdorazowo w przypadku wystąpienia okoliczności, o których mowa w art. 61 pkt 2;
+4) bezpiecznego użytkowania obiektu każdorazowo w przypadku wystąpienia okoliczności, o których mowa w [art. 61](#art-61) pkt 2;
 
-4a) w przypadku zgłoszenia przez osoby zamieszkujące lokal mieszkalny znajdujący się w obiekcie budowlanym o dokonaniu nieuzasadnionych względami technicznymi lub użytkowymi ingerencji lub naruszeń, powodujących, że nie są spełnione warunki określone w art. 5 ust. 2.
+4a) w przypadku zgłoszenia przez osoby zamieszkujące lokal mieszkalny znajdujący się w obiekcie budowlanym o dokonaniu nieuzasadnionych względami technicznymi lub użytkowymi ingerencji lub naruszeń, powodujących, że nie są spełnione warunki określone w [art. 5](#art-5) ust. 2.
 
 5) (uchylony)
 
@@ -3488,7 +3908,7 @@ c) instalacji gazowych oraz przewodów kominowych (dymowych, spalinowych i wenty
 
 2) obiektów budowlanych:
 
-a) budownictwa zagrodowego i letniskowego, b)88) wymienionych w art. 29 ust. 1 i 2, z wyłączeniem sieci gazowych oraz budynków, o których mowa w art. 29 ust. 1 pkt 1b.
+a) budownictwa zagrodowego i letniskowego, b)88) wymienionych w [art. 29](#art-29) ust. 1 i 2, z wyłączeniem sieci gazowych oraz budynków, o których mowa w [art. 29](#art-29) ust. 1 pkt 1b.
 
 2a. Kontrolę, o której mowa w ust. 1 pkt 4a, właściciel lub zarządca jest zobowiązany przeprowadzić w terminie 3 dni od otrzymania zgłoszenia.
 
@@ -3506,11 +3926,12 @@ a) budownictwa zagrodowego i letniskowego, b)88) wymienionych w art. 29 ust. 1 i
 
 6a. Kontrolę stanu technicznego i stanu bezpieczeństwa budowli piętrzących mogą przeprowadzać także upoważnieni pracownicy państwowej służby do spraw bezpieczeństwa budowli piętrzących.
 
-7. Szczegółowy zakres kontroli niektórych budowli oraz obowiązek przeprowadzania ich częściej, niż zostało to ustalone w ust. 1, może być określony w rozporządzeniu, o którym mowa w art. 7 ust. 3 pkt 2.
+7. Szczegółowy zakres kontroli niektórych budowli oraz obowiązek przeprowadzania ich częściej, niż zostało to ustalone w ust. 1, może być określony w rozporządzeniu, o którym mowa w [art. 7](#art-7) ust. 3 pkt 2.
 
+<a id="art-62a"></a>
 ### Art. 62a.
 
-1. Z kontroli, o których mowa w art. 62 ust. 1, osoba przeprowadzająca kontrolę sporządza protokół.
+1. Z kontroli, o których mowa w [art. 62](#art-62) ust. 1, osoba przeprowadzająca kontrolę sporządza protokół.
 
 2. Protokół, o którym mowa w ust. 1, zawiera co najmniej:
 
@@ -3538,15 +3959,15 @@ a) budownictwa zagrodowego i letniskowego, b)88) wymienionych w art. 29 ust. 1 i
 
 2) termin wykonania czynności, o których mowa w pkt 1.
 
-4. Do protokołu, o którym mowa w ust. 1, dołącza się kopie zaświadczeń, o których mowa w art. 12 ust. 7, oraz kopie decyzji o nadaniu uprawnień budowlanych w odpowiedniej specjalności lub innych uprawnień lub kwalifikacji, o których mowa w art. 62 ust. 5.
+4. Do protokołu, o którym mowa w ust. 1, dołącza się kopie zaświadczeń, o których mowa w [art. 12](#art-12) ust. 7, oraz kopie decyzji o nadaniu uprawnień budowlanych w odpowiedniej specjalności lub innych uprawnień lub kwalifikacji, o których mowa w [art. 62](#art-62) ust. 5.
 
 4a. Wymogu dołączenia kopii:
 
-1) zaświadczeń, o których mowa w art. 12 ust. 7 – nie stosuje się do osób wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane;
+1) zaświadczeń, o których mowa w [art. 12](#art-12) ust. 7 – nie stosuje się do osób wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane;
 
 2) uprawnień budowlanych w odpowiedniej specjalności – nie stosuje się do uprawnień budowlanych wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane.
 
-5. Protokół, o którym mowa w ust. 1, w zakresie kontroli przewodów kominowych (dymowych, spalinowych i wentylacyjnych) przeprowadzanej na podstawie art. 62 ust. 1 pkt 1 lit. c, jest sporządzany w formie dokumentu elektronicznego, z wykorzystaniem systemu teleinformatycznego obsługującego centralną ewidencję emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2025 r. poz. 1419 i 1847).
+5. Protokół, o którym mowa w ust. 1, w zakresie kontroli przewodów kominowych (dymowych, spalinowych i wentylacyjnych) przeprowadzanej na podstawie [art. 62](#art-62) ust. 1 pkt 1 lit. c, jest sporządzany w formie dokumentu elektronicznego, z wykorzystaniem systemu teleinformatycznego obsługującego centralną ewidencję emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2025 r. poz. 1419 i 1847).
 
 5a.[89)] Przepisu ust. 5 nie stosuje się w przypadku kontroli przeprowadzanej w obiektach budowlanych:
 
@@ -3556,34 +3977,38 @@ a) budownictwa zagrodowego i letniskowego, b)88) wymienionych w art. 29 ust. 1 i
 
 6.[90)] Główny Inspektor Nadzoru Budowlanego określi wzór protokołu, o którym mowa w ust. 5, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
+<a id="art-62b"></a>
 ### Art. 62b.
 
-1. W terminie 7 dni od dnia zakończenia kontroli obiektu budowlanego, dla którego istnieje obowiązek prowadzenia książki obiektu budowlanego, osoba przeprowadzająca kontrolę, o której mowa w art. 62 ust. 1, dokonuje wpisu o kontroli w książce obiektu budowlanego prowadzonej w postaci:
+1. W terminie 7 dni od dnia zakończenia kontroli obiektu budowlanego, dla którego istnieje obowiązek prowadzenia książki obiektu budowlanego, osoba przeprowadzająca kontrolę, o której mowa w [art. 62](#art-62) ust. 1, dokonuje wpisu o kontroli w książce obiektu budowlanego prowadzonej w postaci:
 
 1) elektronicznej w systemie c-KOB albo
 
 2) papierowej.
 
-2. W terminie 7 dni od dnia zakończenia kontroli obiektu budowlanego osoba przeprowadzająca kontrolę, o której mowa w art. 62 ust. 1 pkt 3, zawiadamia o kontroli organ nadzoru budowlanego:
+2. W terminie 7 dni od dnia zakończenia kontroli obiektu budowlanego osoba przeprowadzająca kontrolę, o której mowa w [art. 62](#art-62) ust. 1 pkt 3, zawiadamia o kontroli organ nadzoru budowlanego:
 
 1) za pomocą systemu c-KOB albo
 
 2) na piśmie – jeżeli kontrola dotyczyła obiektu budowlanego, dla którego nie prowadzi się książki obiektu budowlanego w postaci elektronicznej.
 
-3. W przypadku awarii lub przerwy w działaniu systemu c-KOB uniemożliwiającej dokonanie zawiadomienia, o którym mowa w ust. 2 pkt 1, przepis art. 60f ust. 2 stosuje się odpowiednio.
+3. W przypadku awarii lub przerwy w działaniu systemu c-KOB uniemożliwiającej dokonanie zawiadomienia, o którym mowa w ust. 2 pkt 1, przepis [art. 60f](#art-60f) ust. 2 stosuje się odpowiednio.
 
+<a id="art-63"></a>
 ### Art. 63.
 
-1. Właściciel lub zarządca obiektu budowlanego jest obowiązany przechowywać przez okres istnienia obiektu dokumenty, o których mowa w art. 60, oraz opracowania projektowe i dokumenty techniczne robót budowlanych wykonywanych w obiekcie w toku jego użytkowania.
+1. Właściciel lub zarządca obiektu budowlanego jest obowiązany przechowywać przez okres istnienia obiektu dokumenty, o których mowa w [art. 60](#art-60), oraz opracowania projektowe i dokumenty techniczne robót budowlanych wykonywanych w obiekcie w toku jego użytkowania.
 
 2. (uchylony)
 
 3. (uchylony)
 
+<a id="art-63a"></a>
 ### Art. 63a.
 
 (uchylony)
 
+<a id="art-64"></a>
 ### Art. 64.
 
 1. (uchylony)
@@ -3594,10 +4019,12 @@ a) budownictwa zagrodowego i letniskowego, b)88) wymienionych w art. 29 ust. 1 i
 
 4. (uchylony)
 
+<a id="art-65"></a>
 ### Art. 65.
 
-Właściciel lub zarządca obiektu budowlanego jest obowiązany udostępniać dokumenty, o których mowa w art. 64 ust. 3, przedstawicielom organu nadzoru budowlanego oraz innych jednostek organizacyjnych i organów upoważnionych do kontroli utrzymania obiektów budowlanych we właściwym stanie technicznym oraz do kontroli przestrzegania przepisów obowiązujących w budownictwie.
+Właściciel lub zarządca obiektu budowlanego jest obowiązany udostępniać dokumenty, o których mowa w [art. 64](#art-64) ust. 3, przedstawicielom organu nadzoru budowlanego oraz innych jednostek organizacyjnych i organów upoważnionych do kontroli utrzymania obiektów budowlanych we właściwym stanie technicznym oraz do kontroli przestrzegania przepisów obowiązujących w budownictwie.
 
+<a id="art-66"></a>
 ### Art. 66.
 
 1. W przypadku stwierdzenia, że obiekt budowlany:
@@ -3614,6 +4041,7 @@ Właściciel lub zarządca obiektu budowlanego jest obowiązany udostępniać do
 
 2. W decyzji, o której mowa w ust. 1 pkt 1–3, organ nadzoru budowlanego może zakazać użytkowania obiektu budowlanego lub jego części do czasu usunięcia stwierdzonych nieprawidłowości. Decyzja o zakazie użytkowania obiektu, jeżeli występują okoliczności, o których mowa w ust. 1 pkt 1 i 2, podlega natychmiastowemu wykonaniu i może być ogłoszona ustnie.
 
+<a id="art-67"></a>
 ### Art. 67.
 
 1. Jeżeli nieużytkowany lub niewykończony obiekt budowlany nie nadaje się do remontu, odbudowy lub wykończenia, organ nadzoru budowlanego wydaje decyzję nakazującą właścicielowi lub zarządcy rozbiórkę tego obiektu i uporządkowanie terenu oraz określającą terminy przystąpienia do tych robót i ich zakończenia.
@@ -3630,6 +4058,7 @@ Właściciel lub zarządca obiektu budowlanego jest obowiązany udostępniać do
 
 4. Wojewódzki konserwator zabytków jest obowiązany zająć stanowisko w terminie 30 dni. Niezajęcie stanowiska w tym terminie uznaje się za uzgodnienie.
 
+<a id="art-68"></a>
 ### Art. 68.
 
 W razie stwierdzenia potrzeby opróżnienia w całości lub w części budynku przeznaczonego na pobyt ludzi, bezpośrednio grożącego zawaleniem, organ nadzoru budowlanego jest obowiązany:
@@ -3644,20 +4073,23 @@ a) umieszczenie na budynku zawiadomienia o stanie zagrożenia bezpieczeństwa lu
 
 b) wykonanie doraźnych zabezpieczeń i usunięcie zagrożenia bezpieczeństwa ludzi lub mienia, z określeniem, technicznie uzasadnionych, terminów ich wykonania.
 
+<a id="art-69"></a>
 ### Art. 69.
 
-1. W razie konieczności niezwłocznego podjęcia działań mających na celu usunięcie niebezpieczeństwa dla ludzi lub mienia, lub ingerencji lub naruszeń, o których mowa w art. 66 ust. 1a, organ nadzoru budowlanego zapewni, na koszt właściciela lub zarządcy obiektu budowlanego, zastosowanie niezbędnych środków zabezpieczających.
+1. W razie konieczności niezwłocznego podjęcia działań mających na celu usunięcie niebezpieczeństwa dla ludzi lub mienia, lub ingerencji lub naruszeń, o których mowa w [art. 66](#art-66) ust. 1a, organ nadzoru budowlanego zapewni, na koszt właściciela lub zarządcy obiektu budowlanego, zastosowanie niezbędnych środków zabezpieczających.
 
 2. Do zastosowania, na koszt właściciela lub zarządcy, środków przewidzianych w ust. 1 są upoważnione również organy Policji i Państwowej Straży Pożarnej. O podjętych działaniach organy te powinny niezwłocznie zawiadomić organ nadzoru budowlanego.
 
+<a id="art-70"></a>
 ### Art. 70.
 
-1. Właściciel, zarządca lub użytkownik obiektu budowlanego, na których spoczywają obowiązki w zakresie napraw, określone w przepisach odrębnych bądź umowach, są obowiązani w czasie lub bezpośrednio po przeprowadzonej kontroli, o której mowa w art. 62 ust. 1 pkt 1–4a, usunąć stwierdzone uszkodzenia oraz uzupełnić braki, które mogłyby spowodować zagrożenie życia lub zdrowia ludzi, bezpieczeństwa mienia bądź środowiska, a w szczególności katastrofę budowlaną, pożar, wybuch, porażenie prądem elektrycznym albo zatrucie gazem.
+1. Właściciel, zarządca lub użytkownik obiektu budowlanego, na których spoczywają obowiązki w zakresie napraw, określone w przepisach odrębnych bądź umowach, są obowiązani w czasie lub bezpośrednio po przeprowadzonej kontroli, o której mowa w [art. 62](#art-62) ust. 1 pkt 1–4a, usunąć stwierdzone uszkodzenia oraz uzupełnić braki, które mogłyby spowodować zagrożenie życia lub zdrowia ludzi, bezpieczeństwa mienia bądź środowiska, a w szczególności katastrofę budowlaną, pożar, wybuch, porażenie prądem elektrycznym albo zatrucie gazem.
 
 2. Obowiązek, o którym mowa w ust. 1, powinien być potwierdzony w protokole z kontroli obiektu budowlanego. Osoba dokonująca kontroli jest obowiązana bezzwłocznie przesłać kopię tego protokołu do organu nadzoru budowlanego. Organ nadzoru budowlanego, po otrzymaniu kopii protokołu, przeprowadza bezzwłocznie kontrolę obiektu budowlanego w celu potwierdzenia usunięcia stwierdzonych uszkodzeń oraz uzupełnienia braków, o których mowa w ust. 1.
 
 3. Protokół, o którym mowa w ust. 2, dotyczący obiektu budowlanego, dla którego jest prowadzona książka obiektu budowlanego w postaci elektronicznej, przekazuje się za pomocą systemu c-KOB.
 
+<a id="art-71"></a>
 ### Art. 71.
 
 1. Przez zmianę sposobu użytkowania obiektu budowlanego lub jego części rozumie się w szczególności:
@@ -3674,7 +4106,7 @@ b) wykonanie doraźnych zabezpieczeń i usunięcie zagrożenia bezpieczeństwa l
 
 2) zwięzły opis techniczny, określający rodzaj i charakterystykę obiektu budowlanego oraz jego konstrukcję, wraz z danymi techniczno-użytkowymi, w tym wielkościami i rozkładem obciążeń, a w razie potrzeby, również danymi technologicznymi;
 
-3) oświadczenie, o którym mowa w art. 32 ust. 4 pkt 2;
+3) oświadczenie, o którym mowa w [art. 32](#art-32) ust. 4 pkt 2;
 
 4) zaświadczenie lub kopię zaświadczenia wójta, burmistrza albo prezydenta miasta o zgodności zamierzonego sposobu użytkowania obiektu budowlanego z ustaleniami obowiązującego miejscowego planu zagospodarowania przestrzennego albo decyzję o warunkach zabudowy i zagospodarowania terenu lub kopię tej decyzji, w przypadku braku obowiązującego miejscowego planu zagospodarowania przestrzennego;
 
@@ -3700,7 +4132,7 @@ b) wykonanie doraźnych zabezpieczeń i usunięcie zagrożenia bezpieczeństwa l
 
 4a. (uchylony)
 
-4b. Do sprzeciwu, o którym mowa w ust. 4, przepis art. 30 ust. 6a stosuje się.
+4b. Do sprzeciwu, o którym mowa w ust. 4, przepis [art. 30](#art-30) ust. 6a stosuje się.
 
 4c. Organ administracji architektoniczno-budowlanej może z urzędu przed upływem terminu, o którym mowa w ust. 4, wydać zaświadczenie o braku podstaw do wniesienia sprzeciwu. Wydanie zaświadczenia wyłącza możliwość wniesienia sprzeciwu, o którym mowa w ust. 4, oraz uprawnia inwestora do zmiany sposobu użytkowania obiektu budowlanego lub jego części.
 
@@ -3724,7 +4156,7 @@ d) wprowadzenie, utrwalenie bądź zwiększenie ograniczeń lub uciążliwości 
 
 1) objętych obowiązkiem uzyskania pozwolenia na budowę – rozstrzygnięcie w sprawie zmiany sposobu użytkowania następuje w decyzji o pozwoleniu na budowę;
 
-2) objętych obowiązkiem zgłoszenia – do zgłoszenia, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 30 ust. 2–3.
+2) objętych obowiązkiem zgłoszenia – do zgłoszenia, o którym mowa w ust. 2, stosuje się odpowiednio przepisy [art. 30](#art-30) ust. 2–3.
 
 7. Dokonanie zgłoszenia, o którym mowa w ust. 2, po zmianie sposobu użytkowania obiektu budowlanego lub jego części nie wywołuje skutków prawnych.
 
@@ -3732,34 +4164,39 @@ d) wprowadzenie, utrwalenie bądź zwiększenie ograniczeń lub uciążliwości 
 
 9. Przepisów ust. 2–7 nie stosuje się do obiektów budowlanych zlokalizowanych na terenach zamkniętych ustalonych decyzją Ministra Obrony Narodowej.
 
+<a id="art-71a"></a>
 ### Art. 71a.
 
 1. W razie zmiany sposobu użytkowania obiektu budowlanego lub jego części bez wymaganego zgłoszenia, organ nadzoru budowlanego, w drodze postanowienia:
 
 1) wstrzymuje użytkowanie obiektu budowlanego lub jego części;
 
-2) nakłada obowiązek przedstawienia w wyznaczonym terminie dokumentów, o których mowa w art. 71 ust. 2.
+2) nakłada obowiązek przedstawienia w wyznaczonym terminie dokumentów, o których mowa w [art. 71](#art-71) ust. 2.
 
 2. Po upływie terminu lub na wniosek zobowiązanego, organ nadzoru budowlanego sprawdza wykonanie obowiązku, o którym mowa w ust. 1 pkt 2, i – w przypadku stwierdzenia jego wykonania – w drodze postanowienia ustala wysokość opłaty legalizacyjnej. Na postanowienie przysługuje zażalenie.
 
-3. Do opłaty legalizacyjnej stosuje się odpowiednio przepisy dotyczące kar, o których mowa w art. 59f ust. 1, z tym że stawka opłaty podlega dziesięciokrotnemu podwyższeniu.
+3. Do opłaty legalizacyjnej stosuje się odpowiednio przepisy dotyczące kar, o których mowa w [art. 59f](#art-59f) ust. 1, z tym że stawka opłaty podlega dziesięciokrotnemu podwyższeniu.
 
-4. W przypadku niewykonania w terminie obowiązku, o którym mowa w ust. 1, albo dalszego użytkowania obiektu budowlanego lub jego części, pomimo jego wstrzymania, albo zmiany sposobu użytkowania obiektu budowlanego lub jego części, pomimo wniesienia sprzeciwu, o którym mowa w art. 71 ust. 3–5, organ nadzoru budowlanego, w drodze decyzji, nakazuje przywrócenie poprzedniego sposobu użytkowania obiektu budowlanego lub jego części.
+4. W przypadku niewykonania w terminie obowiązku, o którym mowa w ust. 1, albo dalszego użytkowania obiektu budowlanego lub jego części, pomimo jego wstrzymania, albo zmiany sposobu użytkowania obiektu budowlanego lub jego części, pomimo wniesienia sprzeciwu, o którym mowa w [art. 71](#art-71) ust. 3–5, organ nadzoru budowlanego, w drodze decyzji, nakazuje przywrócenie poprzedniego sposobu użytkowania obiektu budowlanego lub jego części.
 
+<a id="art-72"></a>
 ### Art. 72.
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, warunki i tryb postępowania w sprawach rozbiórek, o których mowa w art. 67.
+1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, warunki i tryb postępowania w sprawach rozbiórek, o których mowa w [art. 67](#art-67).
 
 2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób i warunki przeprowadzania oraz tryb postępowania w sprawach rozbiórek obiektów budowlanych, wykonywanych metodą wybuchową.
 
 3. W rozporządzeniu, o którym mowa w ust. 1, należy określić czynności organu nadzoru budowlanego prowadzącego postępowanie w sprawie rozbiórki oraz obowiązki nakładane na właściciela lub zarządcę obiektu budowlanego oraz warunki ich wykonania, mając na uwadze, że obowiązki te powinny być technicznie uzasadnione i nie powodować nadmiernego obciążenia właściciela lub zarządcy.
 
+<a id="art-72a"></a>
 ### Art. 72a.
 
-Postępowania w sprawie wydania decyzji, o których mowa w art. 62 ust. 3, art. 66 ust. 1, art. 67 ust. 1, art. 68 oraz art. 71a ust. 4, wszczyna się z urzędu.
+Postępowania w sprawie wydania decyzji, o których mowa w [art. 62](#art-62) ust. 3, [art. 66](#art-66) ust. 1, [art. 67](#art-67) ust. 1, [art. 68](#art-68) oraz [art. 71a](#art-71a) ust. 4, wszczyna się z urzędu.
 
+<a id="rozdzial-7"></a>
 ### Rozdział 7. Katastrofa budowlana
 
+<a id="art-73"></a>
 ### Art. 73.
 
 1. Katastrofą budowlaną jest niezamierzone, gwałtowne zniszczenie obiektu budowlanego lub jego części, a także konstrukcyjnych elementów rusztowań, elementów urządzeń formujących, ścianek szczelnych i obudowy wykopów.
@@ -3772,17 +4209,19 @@ Postępowania w sprawie wydania decyzji, o których mowa w art. 62 ust. 3, art. 
 
 3) awaria instalacji.
 
+<a id="art-74"></a>
 ### Art. 74.
 
 Postępowanie wyjaśniające w sprawie przyczyn katastrofy budowlanej prowadzi właściwy organ nadzoru budowlanego.
 
+<a id="art-75"></a>
 ### Art. 75.
 
 1. W razie katastrofy budowlanej w budowanym, rozbieranym lub użytkowanym obiekcie budowlanym, kierownik budowy (robót), właściciel, zarządca lub użytkownik jest obowiązany:
 
 1) zorganizować doraźną pomoc poszkodowanym i przeciwdziałać rozszerzaniu się skutków katastrofy;
 
-2) zabezpieczyć miejsce katastrofy przed zmianami uniemożliwiającymi prowadzenie postępowania, o którym mowa w art. 74;
+2) zabezpieczyć miejsce katastrofy przed zmianami uniemożliwiającymi prowadzenie postępowania, o którym mowa w [art. 74](#art-74);
 
 3) niezwłocznie zawiadomić o katastrofie:
 
@@ -3796,9 +4235,10 @@ d) inne organy lub jednostki organizacyjne zainteresowane przyczynami lub skutka
 
 2. Przepisu ust. 1 pkt 2 nie stosuje się do czynności mających na celu ratowanie życia lub zabezpieczenie przed rozszerzaniem się skutków katastrofy. W tych przypadkach należy szczegółowo opisać stan po katastrofie oraz zmiany w nim wprowadzone, z oznaczeniem miejsc ich wprowadzenia na szkicach i, w miarę możliwości, na fotografiach.
 
+<a id="art-76"></a>
 ### Art. 76.
 
-1. Organ, o którym mowa w art. 74, po otrzymaniu zawiadomienia o katastrofie budowlanej jest obowiązany:
+1. Organ, o którym mowa w [art. 74](#art-74), po otrzymaniu zawiadomienia o katastrofie budowlanej jest obowiązany:
 
 1) niezwłocznie powołać komisję w celu ustalenia przyczyn i okoliczności katastrofy oraz zakresu czynności niezbędnych do likwidacji zagrożenia bezpieczeństwa ludzi lub mienia;
 
@@ -3814,28 +4254,34 @@ d) inne organy lub jednostki organizacyjne zainteresowane przyczynami lub skutka
 
 3) osoby odpowiedzialne za nadzór nad wykonywanymi robotami budowlanymi.
 
-4. Organ, o którym mowa w art. 74, może nakazać właścicielowi lub zarządcy, w drodze decyzji, zabezpieczenie miejsca katastrofy oraz obiektu budowlanego, który uległ katastrofie, uporządkowanie terenu lub wykonanie innych niezbędnych czynności i robót budowlanych. Decyzja podlega natychmiastowemu wykonaniu i może być ogłoszona ustnie. W razie niewykonania lub nadmiernej zwłoki w wykonaniu decyzji przez właściciela lub zarządcę obiektu budowlanego, organ zapewni jej wykonanie na koszt i ryzyko zobowiązanego.
+4. Organ, o którym mowa w [art. 74](#art-74), może nakazać właścicielowi lub zarządcy, w drodze decyzji, zabezpieczenie miejsca katastrofy oraz obiektu budowlanego, który uległ katastrofie, uporządkowanie terenu lub wykonanie innych niezbędnych czynności i robót budowlanych. Decyzja podlega natychmiastowemu wykonaniu i może być ogłoszona ustnie. W razie niewykonania lub nadmiernej zwłoki w wykonaniu decyzji przez właściciela lub zarządcę obiektu budowlanego, organ zapewni jej wykonanie na koszt i ryzyko zobowiązanego.
 
+<a id="art-76a"></a>
 ### Art. 76a.
 
 W przypadku, kiedy okoliczności wskazują na duże prawdopodobieństwo wspólnej przyczyny katastrofy budowlanej obejmującej kilka obiektów budowlanych, organ nadzoru budowlanego może prowadzić jedno postępowanie wyjaśniające dla wszystkich obiektów uszkodzonych w wyniku katastrofy.
 
+<a id="art-77"></a>
 ### Art. 77.
 
-Organy, o których mowa w art. 76 ust. 1 pkt 2, mogą przejąć prowadzenie postępowania wyjaśniającego przyczyny i okoliczności powstania katastrofy budowlanej.
+Organy, o których mowa w [art. 76](#art-76) ust. 1 pkt 2, mogą przejąć prowadzenie postępowania wyjaśniającego przyczyny i okoliczności powstania katastrofy budowlanej.
 
+<a id="art-78"></a>
 ### Art. 78.
 
 1. Po zakończeniu prac komisji organ nadzoru budowlanego niezwłocznie wydaje decyzję określającą zakres i termin wykonania niezbędnych robót w celu uporządkowania terenu katastrofy i zabezpieczenia obiektu budowlanego do czasu wykonania robót doprowadzających obiekt do stanu właściwego.
 
 2. Organ, o którym mowa w ust. 1, może zlecić na koszt inwestora, właściciela lub zarządcy obiektu budowlanego sporządzenie ekspertyzy, jeżeli jest to niezbędne do wydania decyzji lub do ustalenia przyczyn katastrofy.
 
+<a id="art-79"></a>
 ### Art. 79.
 
-Inwestor, właściciel lub zarządca obiektu budowlanego po zakończeniu postępowania, o którym mowa w art. 78, jest obowiązany podjąć niezwłocznie działania niezbędne do usunięcia skutków katastrofy budowlanej.
+Inwestor, właściciel lub zarządca obiektu budowlanego po zakończeniu postępowania, o którym mowa w [art. 78](#art-78), jest obowiązany podjąć niezwłocznie działania niezbędne do usunięcia skutków katastrofy budowlanej.
 
+<a id="rozdzial-7a"></a>
 ### Rozdział 7a. Portal e-Budownictwo
 
+<a id="art-79a"></a>
 ### Art. 79a.
 
 1. Portal e-Budownictwo zapewnia możliwość wygenerowania:
@@ -3858,13 +4304,13 @@ Inwestor, właściciel lub zarządca obiektu budowlanego po zakończeniu postęp
 
 9) wniosku o przeniesienie decyzji o pozwoleniu na budowę;
 
-10) wniosku o przeniesienie decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w art. 51 ust. 4;
+10) wniosku o przeniesienie decyzji o pozwoleniu na wznowienie robót budowlanych, o której mowa w [art. 51](#art-51) ust. 4;
 
 11) wniosku o przeniesienie praw i obowiązków wynikających ze zgłoszenia, wobec którego organ nie wniósł sprzeciwu;
 
 12) zawiadomienia o zamierzonym terminie rozpoczęcia robót budowlanych;
 
-13) wniosku o wydanie decyzji o wyłączeniu stosowania przepisów art. 45a ust. 1;
+13) wniosku o wydanie decyzji o wyłączeniu stosowania przepisów [art. 45a](#art-45a) ust. 1;
 
 14) wniosku o wydanie decyzji o niezbędności wejścia do sąsiedniego budynku, lokalu lub na teren sąsiedniej nieruchomości;
 
@@ -3884,10 +4330,12 @@ Inwestor, właściciel lub zarządca obiektu budowlanego po zakończeniu postęp
 
 2) zapisaniu wypełnionego formularza w postaci pliku komputerowego poza portalem e-Budownictwo albo jego wydrukowaniu.
 
+<a id="art-79b"></a>
 ### Art. 79b.
 
-Wygenerowanie dokumentu, o którym mowa w art. 79a ust. 1 lub 2, wymaga posiadania konta w portalu e-Budownictwo.
+Wygenerowanie dokumentu, o którym mowa w [art. 79a](#art-79a) ust. 1 lub 2, wymaga posiadania konta w portalu e-Budownictwo.
 
+<a id="art-79c"></a>
 ### Art. 79c.
 
 Założenie konta w portalu e-Budownictwo odbywa się przez:
@@ -3896,6 +4344,7 @@ Założenie konta w portalu e-Budownictwo odbywa się przez:
 
 2) uwierzytelnienie.
 
+<a id="art-79d"></a>
 ### Art. 79d.
 
 1. Rejestrując się w portalu e-Budownictwo, należy wskazać e-mail.
@@ -3904,12 +4353,14 @@ Założenie konta w portalu e-Budownictwo odbywa się przez:
 
 3. Rejestrując się w portalu e-Budownictwo, osoba zakładająca konto ustala hasło.
 
+<a id="art-79e"></a>
 ### Art. 79e.
 
 1. Osoba, która założyła konto w portalu e-Budownictwo, zwana dalej „użytkownikiem konta”, staje się wyłącznym użytkownikiem tego konta.
 
 2. Portal e-Budownictwo zabezpiecza konto należące do użytkownika konta przed dostępem osób trzecich.
 
+<a id="art-79f"></a>
 ### Art. 79f.
 
 Dostęp do konta w portalu e-Budownictwo następuje przez:
@@ -3918,20 +4369,24 @@ Dostęp do konta w portalu e-Budownictwo następuje przez:
 
 2) uwierzytelnienie.
 
+<a id="art-79g"></a>
 ### Art. 79g.
 
-Uwierzytelnienie, o którym mowa w art. 79c pkt 2 i art. 79f pkt 2, wymaga użycia środka identyfikacji elektronicznej, wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725 oraz z 2026 r. poz. 252).
+Uwierzytelnienie, o którym mowa w [art. 79c](#art-79c) pkt 2 i [art. 79f](#art-79f) pkt 2, wymaga użycia środka identyfikacji elektronicznej, wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725 oraz z 2026 r. poz. 252).
 
+<a id="art-79h"></a>
 ### Art. 79h.
 
 1. Użytkownik konta może w każdym momencie usunąć konto w portalu e-Budownictwo.
 
 2. Konto w portalu e-Budownictwo podlega automatycznemu usunięciu przez portal e-Budownictwo po upływie 2 lat od dnia ostatniego logowania do tego konta.
 
+<a id="art-79i"></a>
 ### Art. 79i.
 
-Na koncie w portalu e-Budownictwo są gromadzone dokumenty, o których mowa w art. 79a ust. 1 i 2, których formularze zostały wypełnione i zapisane na koncie w portalu e-Budownictwo przez użytkownika konta.
+Na koncie w portalu e-Budownictwo są gromadzone dokumenty, o których mowa w [art. 79a](#art-79a) ust. 1 i 2, których formularze zostały wypełnione i zapisane na koncie w portalu e-Budownictwo przez użytkownika konta.
 
+<a id="art-79j"></a>
 ### Art. 79j.
 
 1. W portalu e-Budownictwo są przechowywane dane osobowe:
@@ -3950,18 +4405,21 @@ d) numer PESEL – jeżeli założenie konta nastąpiło przez uwierzytelnienie;
 
 2. Z chwilą usunięcia konta w portalu e-Budownictwo wszystkie dane dotyczące tego konta, w tym dotyczące użytkownika konta, oraz dokumenty zapisane na koncie są usuwane automatycznie.
 
+<a id="art-79k"></a>
 ### Art. 79k.
 
 1. Główny Inspektor Nadzoru Budowlanego:
 
 1) zapewnia funkcjonowanie portalu e-Budownictwo, w tym ochronę przed nieuprawnionym dostępem osób trzecich, zniszczeniem oraz utratą danych;
 
-2) jest administratorem danych osobowych, o których mowa w art. 79j ust. 1.
+2) jest administratorem danych osobowych, o których mowa w [art. 79j](#art-79j) ust. 1.
 
 2. Główny Inspektor Nadzoru Budowlanego udostępnia adres elektroniczny portalu e-Budownictwo w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu.
 
+<a id="rozdzial-8"></a>
 ### Rozdział 8. Organy administracji architektoniczno-budowlanej i nadzoru budowlanego
 
+<a id="art-80"></a>
 ### Art. 80.
 
 1. Zadania administracji architektoniczno-budowlanej wykonują, z zastrzeżeniem ust. 4, następujące organy:
@@ -3984,6 +4442,7 @@ d) numer PESEL – jeżeli założenie konta nastąpiło przez uwierzytelnienie;
 
 4. Administrację architektoniczno-budowlaną i nadzór budowlany w dziedzinie górnictwa sprawują organy określone w odrębnych przepisach.
 
+<a id="art-81"></a>
 ### Art. 81.
 
 1. Do podstawowych obowiązków organów administracji architektoniczno-budowlanej i nadzoru budowlanego należy:
@@ -3998,7 +4457,7 @@ c) zgodności rozwiązań architektoniczno-budowlanych z przepisami techniczno-b
 
 d) właściwego wykonywania samodzielnych funkcji technicznych w budownictwie,
 
-e) stosowania przy wykonywaniu robót budowlanych wyrobów zgodnie z art. 10;
+e) stosowania przy wykonywaniu robót budowlanych wyrobów zgodnie z [art. 10](#art-10);
 
 2) wydawanie decyzji administracyjnych w sprawach określonych ustawą;
 
@@ -4014,14 +4473,15 @@ e) stosowania przy wykonywaniu robót budowlanych wyrobów zgodnie z art. 10;
 
 1) posiadanie przez osoby wykonujące samodzielne funkcje techniczne w budownictwie uprawnień do pełnienia tych funkcji;
 
-2) spełnienie wymogu, o którym mowa w art. 12 ust. 7, w przypadku osób wykonujących samodzielne funkcje techniczne w budownictwie.
+2) spełnienie wymogu, o którym mowa w [art. 12](#art-12) ust. 7, w przypadku osób wykonujących samodzielne funkcje techniczne w budownictwie.
 
 3a. W stosunku do osób lub uprawnień budowlanych wpisanych do centralnego rejestru osób posiadających uprawnienia budowlane kontroli, o której mowa w ust. 3, dokonuje się na podstawie danych zawartych w systemie e-CRUB.
 
-3b. W przypadku awarii lub przerwy w działaniu systemu e-CRUB uniemożliwiającej przeprowadzenie kontroli, o której mowa w ust. 3, organy administracji architektoniczno-budowlanej oraz organy nadzoru budowlanego mogą żądać od osób wykonujących samodzielne funkcje techniczne w budownictwie przedłożenia kopii uprawnień budowlanych lub kopii zaświadczenia, o którym mowa w art. 12 ust. 7.
+3b. W przypadku awarii lub przerwy w działaniu systemu e-CRUB uniemożliwiającej przeprowadzenie kontroli, o której mowa w ust. 3, organy administracji architektoniczno-budowlanej oraz organy nadzoru budowlanego mogą żądać od osób wykonujących samodzielne funkcje techniczne w budownictwie przedłożenia kopii uprawnień budowlanych lub kopii zaświadczenia, o którym mowa w [art. 12](#art-12) ust. 7.
 
 4. Organy administracji architektoniczno-budowlanej i nadzoru budowlanego przy wykonywaniu obowiązków określonych przepisami prawa budowlanego mogą dokonywać czynności kontrolnych. Protokolarne ustalenia dokonane w toku tych czynności stanowią podstawę do wydania decyzji oraz podejmowania innych środków przewidzianych w przepisach prawa budowlanego.
 
+<a id="art-81a"></a>
 ### Art. 81a.
 
 1. Organy nadzoru budowlanego lub osoby działające z ich upoważnienia mają prawo wstępu:
@@ -4042,10 +4502,12 @@ c) (uchylona)
 
 4. Czynności kontrolne dotyczące obiektów budowlanych, które są w zarządzie państw obcych albo są użytkowane przez przedstawicieli dyplomatycznych i konsularnych tych państw lub przez inne osoby zrównane z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, mogą być wykonywane za zgodą tych przedstawicieli lub osób.
 
+<a id="art-81b"></a>
 ### Art. 81b.
 
 (uchylony)
 
+<a id="art-81c"></a>
 ### Art. 81c.
 
 1. Organy administracji architektoniczno-budowlanej i nadzoru budowlanego przy wykonywaniu zadań określonych przepisami prawa budowlanego mogą żądać od uczestników procesu budowlanego, właściciela lub zarządcy obiektu budowlanego, informacji lub udostępnienia dokumentów:
@@ -4060,6 +4522,7 @@ c) (uchylona)
 
 4. W razie niedostarczenia w wyznaczonym terminie żądanych ocen lub ekspertyz albo w razie dostarczenia ocen lub ekspertyz, które niedostatecznie wyjaśniają sprawę będącą ich przedmiotem, organ administracji architektoniczno-budowlanej lub nadzoru budowlanego może zlecić wykonanie tych ocen lub ekspertyz albo wykonanie dodatkowych ocen lub ekspertyz na koszt osoby zobowiązanej do ich dostarczenia.
 
+<a id="art-82"></a>
 ### Art. 82.
 
 1. Do właściwości organów administracji architektoniczno-budowlanej należą sprawy określone w ustawie i niezastrzeżone do właściwości innych organów.
@@ -4092,17 +4555,19 @@ c) (uchylona)
 
 4. Rada Ministrów może określić, w drodze rozporządzenia, także inne niż wymienione w ust. 3 obiekty i roboty budowlane, w sprawach których organem pierwszej instancji jest wojewoda.
 
+<a id="art-82a"></a>
 ### Art. 82a.
 
 Starosta nie może powierzyć gminom, w drodze porozumienia, sprawy z zakresu swojej właściwości jako organu administracji architektoniczno-budowlanej. Przepisu art. 5 ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2025 r. poz. 1684 oraz z 2026 r. poz. 252) nie stosuje się.
 
+<a id="art-82b"></a>
 ### Art. 82b.
 
 1. Organy administracji architektoniczno-budowlanej:
 
-1) prowadzą rejestr wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę oraz rejestr zgłoszeń budowy, o której mowa w art. 29 ust. 1 pkt 1–3, a także przekazują do organu wyższego stopnia oraz Głównego Inspektora Nadzoru Budowlanego wprowadzone do nich dane;
+1) prowadzą rejestr wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę oraz rejestr zgłoszeń budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–3, a także przekazują do organu wyższego stopnia oraz Głównego Inspektora Nadzoru Budowlanego wprowadzone do nich dane;
 
-1a) prowadzą odrębny rejestr wniosków o pozwolenie na budowę, decyzji o pozwoleniu na budowę oraz rejestr zgłoszeń budowy, o której mowa w art. 29 ust. 1 pkt 1–3, dotyczący terenów zamkniętych;
+1a) prowadzą odrębny rejestr wniosków o pozwolenie na budowę, decyzji o pozwoleniu na budowę oraz rejestr zgłoszeń budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–3, dotyczący terenów zamkniętych;
 
 2) przekazują bezzwłocznie organom nadzoru budowlanego:
 
@@ -4158,13 +4623,13 @@ g) informacje o rozstrzygnięciu zawartym w decyzji,
 
 h) informacje dotyczące zawieszenia postępowania w sprawie wydania pozwolenia na budowę w zakresie: daty zawieszenia postępowania, daty podjęcia postępowania oraz liczby dni trwania zawieszenia postępowania,
 
-i) informacje o: – uzgodnieniach z wojewódzkim konserwatorem zabytków w zakresie: daty wysłania dokumentów do konserwatora, daty otrzymania uzgodnień oraz liczby dni trwania uzgodnienia, – innych przyczynach wydłużenia terminu wydania decyzji w zakresie: przyczyn wydłużenia terminu oraz liczby dni trwania wydłużenia, – przekroczeniu ustawowego terminu wydania decyzji w zakresie kalendarzowej liczby dni prowadzenia postępowania, liczby dni wskazującej czas prowadzenia postępowania po odjęciu okoliczności wskazanych w art. 35 ust. 8 i liczby dni wskazującej przekroczenie terminu, o którym mowa w art. 35 ust. 6,
+i) informacje o: – uzgodnieniach z wojewódzkim konserwatorem zabytków w zakresie: daty wysłania dokumentów do konserwatora, daty otrzymania uzgodnień oraz liczby dni trwania uzgodnienia, – innych przyczynach wydłużenia terminu wydania decyzji w zakresie: przyczyn wydłużenia terminu oraz liczby dni trwania wydłużenia, – przekroczeniu ustawowego terminu wydania decyzji w zakresie kalendarzowej liczby dni prowadzenia postępowania, liczby dni wskazującej czas prowadzenia postępowania po odjęciu okoliczności wskazanych w [art. 35](#art-35) ust. 8 i liczby dni wskazującej przekroczenie terminu, o którym mowa w [art. 35](#art-35) ust. 6,
 
 j) inne uwagi.
 
 4. (uchylony)
 
-4a. W rejestrze zgłoszeń dotyczących budowy, o której mowa w art. 29 ust. 1 pkt 1–3, zamieszcza się następujące dane:
+4a. W rejestrze zgłoszeń dotyczących budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–3, zamieszcza się następujące dane:
 
 1) nazwę i adres organu administracji architektoniczno-budowlanej;
 
@@ -4182,7 +4647,7 @@ j) inne uwagi.
 
 8) informacje o:
 
-a) wezwaniu inwestora do uzupełnienia braków na podstawie art. 30 ust. 5c w zakresie: daty wysłania postanowienia i daty uzupełnienia braków,
+a) wezwaniu inwestora do uzupełnienia braków na podstawie [art. 30](#art-30) ust. 5c w zakresie: daty wysłania postanowienia i daty uzupełnienia braków,
 
 b) wycofaniu zgłoszenia przez inwestora oraz datę jego wycofania,
 
@@ -4198,7 +4663,7 @@ a) numer lub numery ewidencyjne decyzji,
 
 b) data wydania decyzji,
 
-c) data nadania decyzji albo wprowadzenia do systemu, zgodnie z art. 30 ust. 6a;
+c) data nadania decyzji albo wprowadzenia do systemu, zgodnie z [art. 30](#art-30) ust. 6a;
 
 11) informację o niewniesieniu sprzeciwu;
 
@@ -4206,15 +4671,16 @@ c) data nadania decyzji albo wprowadzenia do systemu, zgodnie z art. 30 ust. 6a;
 
 5. (uchylony)
 
-6. Rejestry wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę oraz rejestr zgłoszeń dotyczących budowy, o której mowa w art. 29 ust. 1 pkt 1–3, są prowadzone w sposób uniemożliwiający zmianę dokonanych wpisów.
+6. Rejestry wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę oraz rejestr zgłoszeń dotyczących budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–3, są prowadzone w sposób uniemożliwiający zmianę dokonanych wpisów.
 
 7. Dane, o których mowa w ust. 3a i 4a, są jawne i publikowane na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego Głównego Inspektora Nadzoru Budowlanego, z wyjątkiem danych, o których mowa w ust. 3a pkt 1 lit. e i lit. i oraz w pkt 2 lit. i tiret trzecie i lit. j oraz w ust. 4a pkt 5 i 12, oraz danych zawartych w rejestrach, o których mowa w ust. 1 pkt 1a.
 
-8. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób prowadzenia rejestru wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę oraz rejestru zgłoszeń dotyczących budowy, o której mowa w art. 29 ust. 1 pkt 1–3, uwzględniając konieczność zapewnienia spójności i kompletności danych i informacji podlegających wpisowi do rejestru.
+8. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób prowadzenia rejestru wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę oraz rejestru zgłoszeń dotyczących budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1–3, uwzględniając konieczność zapewnienia spójności i kompletności danych i informacji podlegających wpisowi do rejestru.
 
+<a id="art-82c"></a>
 ### Art. 82c. [92)]
 
-1. W sprawach, o których mowa w art. 82 ust. 3 pkt 1, organem właściwym jest:
+1. W sprawach, o których mowa w [art. 82](#art-82) ust. 3 pkt 1, organem właściwym jest:
 
 1) Wojewoda Zachodniopomorski oraz Zachodniopomorski Wojewódzki Inspektor Nadzoru Budowlanego – w odniesieniu do morskich wód wewnętrznych, morza terytorialnego, strefy przyległej, wyłącznej strefy ekonomicznej, morskich portów i przystani oraz pasa technicznego od linii wyznaczonej na obszarach morskich przebiegiem południka 16°41’56,70'' długości geograficznej wschodniej, a następnie na obszarze województwa zachodniopomorskiego;
 
@@ -4224,18 +4690,21 @@ c) data nadania decyzji albo wprowadzenia do systemu, zgodnie z art. 30 ust. 6a;
 
 2. W odniesieniu do obiektów i robót budowlanych realizowanych na obszarach, o których mowa w ust. 1, właściwy jest wojewoda oraz wojewódzki inspektor nadzoru budowlanego, na którego obszarze właściwości znajduje się obszarowo większa część tego zamierzenia.
 
+<a id="art-83"></a>
 ### Art. 83.
 
-1. Do właściwości powiatowego inspektora nadzoru budowlanego, jako organu pierwszej instancji, należą zadania i kompetencje, o których mowa w art. 37 ust. 3, art. 40 ust. 2, art. 41 ust. 4, art. 48–51, art. 54, art. 55, art. 57 ust. 4 i 8, art. 59, art. 59a, art. 59c ust. 1, art. 59d ust. 1, art. 59g ust. 1, art. 59i, art. 62 ust. 1 pkt 3 i ust. 3, art. 65, art. 66, art. 67 ust. 1 i 3, art. 68, art. 69, art. 70 ust. 2, art. 71a, art. 74, art. 75 ust. 1 pkt 3 lit. a, art. 76, art. 78 oraz art. 97 ust. 1.
+1. Do właściwości powiatowego inspektora nadzoru budowlanego, jako organu pierwszej instancji, należą zadania i kompetencje, o których mowa w [art. 37](#art-37) ust. 3, [art. 40](#art-40) ust. 2, [art. 41](#art-41) ust. 4, [art. 48](#art-48)–51, [art. 54](#art-54), [art. 55](#art-55), [art. 57](#art-57) ust. 4 i 8, [art. 59](#art-59), [art. 59a](#art-59a), [art. 59c](#art-59c) ust. 1, [art. 59d](#art-59d) ust. 1, [art. 59g](#art-59g) ust. 1, [art. 59i](#art-59i), [art. 62](#art-62) ust. 1 pkt 3 i ust. 3, [art. 65](#art-65), [art. 66](#art-66), [art. 67](#art-67) ust. 1 i 3, [art. 68](#art-68), [art. 69](#art-69), [art. 70](#art-70) ust. 2, [art. 71a](#art-71a), [art. 74](#art-74), [art. 75](#art-75) ust. 1 pkt 3 lit. a, [art. 76](#art-76), [art. 78](#art-78) oraz [art. 97](#art-97) ust. 1.
 
 2. Organem wyższego stopnia w stosunku do powiatowego inspektora nadzoru budowlanego jest wojewódzki inspektor nadzoru budowlanego.
 
 3. Do właściwości wojewódzkiego inspektora nadzoru budowlanego, jako organu pierwszej instancji, należą zadania i kompetencje określone w ust. 1, w sprawach, o których mowa w art. 82 ust. 3 i 4, oraz zadania i kompetencje określone w art. 7b ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych.
 
+<a id="art-83a"></a>
 ### Art. 83a.
 
 (uchylony)
 
+<a id="art-84"></a>
 ### Art. 84.
 
 1. Do zadań organów nadzoru budowlanego należy:
@@ -4252,11 +4721,11 @@ c) data nadania decyzji albo wprowadzenia do systemu, zgodnie z art. 30 ust. 6a;
 
 1) bezzwłocznego przesyłania organom administracji architektoniczno-budowlanej kopii decyzji i postanowień wynikających z przepisów prawa budowlanego;
 
-2) prowadzenia ewidencji decyzji, postanowień i zgłoszeń, o których mowa w art. 82b ust. 1 pkt 2;
+2) prowadzenia ewidencji decyzji, postanowień i zgłoszeń, o których mowa w [art. 82b](#art-82b) ust. 1 pkt 2;
 
 3) prowadzenia ewidencji rozpoczynanych i oddawanych do użytkowania obiektów budowlanych;
 
-4) prowadzenia ewidencji zawiadomień o kontrolach, o których mowa w art. 62 ust. 1 pkt 3.
+4) prowadzenia ewidencji zawiadomień o kontrolach, o których mowa w [art. 62](#art-62) ust. 1 pkt 3.
 
 3. (uchylony)
 
@@ -4266,6 +4735,7 @@ c) data nadania decyzji albo wprowadzenia do systemu, zgodnie z art. 30 ust. 6a;
 
 6. Ewidencja rozpoczynanych i oddawanych do użytkowania obiektów budowlanych powinna zawierać w szczególności: określenie organu prowadzącego ewidencję, dane osobowe lub nazwę inwestora oraz inne niezbędne dane pochodzące ze składanych zawiadomień i decyzji.
 
+<a id="art-84a"></a>
 ### Art. 84a.
 
 1. Kontrola przestrzegania i stosowania przepisów prawa budowlanego obejmuje:
@@ -4274,7 +4744,7 @@ c) data nadania decyzji albo wprowadzenia do systemu, zgodnie z art. 30 ust. 6a;
 
 2) sprawdzanie posiadania przez osoby pełniące samodzielne funkcje techniczne w budownictwie właściwych uprawnień do pełnienia tych funkcji;
 
-3) sprawdzanie wyrobów stosowanych przy wykonywaniu robót budowlanych w zakresie zgodności z art. 10, w szczególności wyrobów budowlanych.
+3) sprawdzanie wyrobów stosowanych przy wykonywaniu robót budowlanych w zakresie zgodności z [art. 10](#art-10), w szczególności wyrobów budowlanych.
 
 2. Organy nadzoru budowlanego, kontrolując stosowanie przepisów prawa budowlanego:
 
@@ -4284,6 +4754,7 @@ c) data nadania decyzji albo wprowadzenia do systemu, zgodnie z art. 30 ust. 6a;
 
 3. Wykonując kontrolę, o której mowa w art. 84 ust. 1 pkt 1, organ nadzoru budowlanego kontroluje również spełnianie przez podmiot kontrolowany obowiązków, o których mowa w art. 23r ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz może kontrolować spełnianie przez podmiot kontrolowany obowiązku, o którym mowa w art. 23r ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
+<a id="art-84aa"></a>
 ### Art. 84aa.
 
 1. W związku z przetwarzaniem przez organy administracji architektoniczno-budowlanej i organy nadzoru budowlanego danych osobowych w toku realizacji zadań określonych w ustawie prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.93)), przysługuje w zakresie, w jakim nie ma wpływu na ochronę praw i wolności osoby, od której dane pozyskano.
@@ -4300,16 +4771,18 @@ c) data nadania decyzji albo wprowadzenia do systemu, zgodnie z art. 30 ust. 6a;
 
 2) pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy.
 
+<a id="art-84ab"></a>
 ### Art. 84ab.
 
 Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), nie wpływa na:
 
-1) prowadzenie rejestrów i ewidencji, o których mowa w art. 82b ust. 1 i 1a, art. 84 ust. 2 pkt 2–4 i art. 88a ust. 1 pkt 3;
+1) prowadzenie rejestrów i ewidencji, o których mowa w [art. 82b](#art-82b) ust. 1 i 1a, [art. 84](#art-84) ust. 2 pkt 2–4 i [art. 88a](#art-88a) ust. 1 pkt 3;
 
-2) przebieg i wynik postępowań, o których mowa w art. 97 ust. 1;
+2) przebieg i wynik postępowań, o których mowa w [art. 97](#art-97) ust. 1;
 
 3) czynności związane z kontrolą przestrzegania i stosowania przepisów prawa budowlanego.
 
+<a id="art-84b"></a>
 ### Art. 84b.
 
 1. Kontrolę działalności organów administracji architektoniczno-budowlanej wykonują Główny Inspektor Nadzoru Budowlanego oraz wojewódzki inspektor nadzoru budowlanego, który wykonuje tę kontrolę w stosunku do starosty.
@@ -4320,6 +4793,7 @@ Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parla
 
 4. Kontrolę działalności organów administracji architektoniczno-budowlanej i organów nadzoru budowlanego przeprowadza się na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej.
 
+<a id="art-85"></a>
 ### Art. 85.
 
 Współdziałanie organów nadzoru budowlanego z organami administracji architektoniczno-budowlanej i organami kontroli państwowej obejmuje w szczególności:
@@ -4328,10 +4802,12 @@ Współdziałanie organów nadzoru budowlanego z organami administracji architek
 
 2) przekazywanie i wymianę informacji o wynikach kontroli.
 
+<a id="art-85a"></a>
 ### Art. 85a.
 
 Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826).
 
+<a id="art-86"></a>
 ### Art. 86.
 
 1. Powiatowy inspektor nadzoru budowlanego jest powoływany przez starostę spośród co najmniej dwóch kandydatów wskazanych przez wojewódzkiego inspektora nadzoru budowlanego.94) Jeżeli starosta nie powoła powiatowego inspektora nadzoru budowlanego w terminie 30 dni od dnia przedstawienia kandydatów, wojewódzki inspektor nadzoru budowlanego wskazuje spośród nich kandydata, którego starosta powołuje na stanowisko powiatowego inspektora nadzoru budowlanego.
@@ -4350,6 +4826,7 @@ Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy ro
 
 4. Organizację wewnętrzną i szczegółowy zakres zadań powiatowego inspektoratu nadzoru budowlanego określa powiatowy inspektor nadzoru budowlanego w regulaminie organizacyjnym.
 
+<a id="art-87"></a>
 ### Art. 87.
 
 1. Wojewódzkiego inspektora nadzoru budowlanego powołuje i odwołuje wojewoda, za zgodą Głównego Inspektora Nadzoru Budowlanego.
@@ -4360,6 +4837,7 @@ Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy ro
 
 4. Organizację wojewódzkiego inspektoratu nadzoru budowlanego określa regulamin ustalony przez wojewódzkiego inspektora nadzoru budowlanego i zatwierdzony przez wojewodę.
 
+<a id="art-88"></a>
 ### Art. 88.
 
 1. Główny Inspektor Nadzoru Budowlanego jest centralnym organem administracji rządowej w sprawach administracji architektoniczno-budowlanej i nadzoru budowlanego.
@@ -4450,6 +4928,7 @@ Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy ro
 
 11. Do sposobu przeprowadzania naboru na stanowiska, o których mowa w ust. 9, stosuje się odpowiednio ust. 3a–3j.
 
+<a id="art-88a"></a>
 ### Art. 88a.
 
 1. Główny Inspektor Nadzoru Budowlanego wykonuje zadania określone przepisami prawa budowlanego, a w szczególności:
@@ -4562,6 +5041,7 @@ c) ukaranych z tytułu odpowiedzialności zawodowej w budownictwie.
 
 3) wzory formularzy do przekazywania danych identyfikujących decyzję o ukaraniu z tytułu odpowiedzialności zawodowej w budownictwie oraz danych dotyczących osoby ukaranej – mając na względzie dane i informacje podlegające wpisowi do rejestrów oraz publikacji na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego Głównego Inspektora Nadzoru Budowlanego, a także konieczność zapewnienia bezpieczeństwa i przejrzystości gromadzonych danych.
 
+<a id="art-88b"></a>
 ### Art. 88b.
 
 1. Główny Inspektor Nadzoru Budowlanego wykonuje swoje zadania przy pomocy Głównego Urzędu Nadzoru Budowlanego.
@@ -4570,18 +5050,22 @@ c) ukaranych z tytułu odpowiedzialności zawodowej w budownictwie.
 
 3. Organizację wewnętrzną i szczegółowy zakres zadań Głównego Urzędu Nadzoru Budowlanego określa Główny Inspektor Nadzoru Budowlanego w regulaminie organizacyjnym.
 
+<a id="art-89"></a>
 ### Art. 89.
 
 (uchylony)
 
+<a id="art-89a"></a>
 ### Art. 89a.
 
 Do właściwości organów administracji architektoniczno-budowlanej i nadzoru budowlanego w dziedzinie górnictwa należą sprawy i związane z nimi środki działania określone w ustawie, dotyczące obiektów i robót budowlanych zakładów górniczych.
 
+<a id="art-89b"></a>
 ### Art. 89b.
 
-Wojewoda w sprawach, o których mowa w art. 82 ust. 3 pkt 1 i 5, oraz właściwe organy administracji architektoniczno-budowlanej w dziedzinie górnictwa przy wydawaniu pozwolenia na budowę są obowiązani do sprawdzenia posiadania przez inwestora postanowienia o uzgodnieniu, o którym mowa w art. 33 ust. 2 pkt 4.
+Wojewoda w sprawach, o których mowa w [art. 82](#art-82) ust. 3 pkt 1 i 5, oraz właściwe organy administracji architektoniczno-budowlanej w dziedzinie górnictwa przy wydawaniu pozwolenia na budowę są obowiązani do sprawdzenia posiadania przez inwestora postanowienia o uzgodnieniu, o którym mowa w [art. 33](#art-33) ust. 2 pkt 4.
 
+<a id="art-89c"></a>
 ### Art. 89c.
 
 1. W przypadkach bezpośredniego zagrożenia życia lub zdrowia ludzi związanych z budową, utrzymaniem lub rozbiórką obiektów budowlanych starosta, wójt, burmistrz i prezydent miasta mogą wydać właściwemu powiatowemu inspektorowi nadzoru budowlanego polecenie podjęcia działań zmierzających do usunięcia tego zagrożenia. Przepisy art. 10 ust. 2 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2025 r. poz. 112) stosuje się odpowiednio.
@@ -4594,12 +5078,15 @@ Wojewoda w sprawach, o których mowa w art. 82 ust. 3 pkt 1 i 5, oraz właściwe
 
 5. Polecenie naruszające prawo jest nieważne. O nieważności polecenia rozstrzyga wojewoda.
 
+<a id="rozdzial-9"></a>
 ### Rozdział 9. Przepisy karne
 
+<a id="art-90"></a>
 ### Art. 90.
 
 (uchylony)
 
+<a id="art-91"></a>
 ### Art. 91.
 
 1. Kto:
@@ -4610,9 +5097,10 @@ Wojewoda w sprawach, o których mowa w art. 82 ust. 3 pkt 1 i 5, oraz właściwe
 
 2. (uchylony)
 
+<a id="art-91a"></a>
 ### Art. 91a.
 
-95) Kto wbrew przepisowi art. 61 nie spełnia obowiązków:
+95) Kto wbrew przepisowi [art. 61](#art-61) nie spełnia obowiązków:
 
 1) utrzymania obiektu budowlanego w należytym stanie technicznym,
 
@@ -4620,13 +5108,14 @@ Wojewoda w sprawach, o których mowa w art. 82 ust. 3 pkt 1 i 5, oraz właściwe
 
 3) zapewnienia bezpiecznego użytkowania obiektu budowlanego – podlega grzywnie niemniejszej niż 100 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
+<a id="art-92"></a>
 ### Art. 92.
 
 1. Kto:
 
-1) w razie katastrofy budowlanej nie dopełnia obowiązków określonych w art. 75 lub art. 79,
+1) w razie katastrofy budowlanej nie dopełnia obowiązków określonych w [art. 75](#art-75) lub [art. 79](#art-79),
 
-2) nie spełnia, określonego w art. 70 ust. 1, obowiązku usunięcia stwierdzonych uszkodzeń lub uzupełnienia braków, mogących spowodować niebezpieczeństwo dla ludzi lub mienia bądź zagrożenie środowiska,
+2) nie spełnia, określonego w [art. 70](#art-70) ust. 1, obowiązku usunięcia stwierdzonych uszkodzeń lub uzupełnienia braków, mogących spowodować niebezpieczeństwo dla ludzi lub mienia bądź zagrożenie środowiska,
 
 3) utrudnia, określone ustawą, czynności organów administracji architektoniczno-budowlanej lub nadzoru budowlanego, podlega karze aresztu albo karze ograniczenia wolności, albo karze grzywny.
 
@@ -4636,52 +5125,56 @@ Wojewoda w sprawach, o których mowa w art. 82 ust. 3 pkt 1 i 5, oraz właściwe
 
 2) (uchylony)
 
+<a id="art-93"></a>
 ### Art. 93.
 
 Kto:
 
-1) przy projektowaniu lub wykonywaniu robót budowlanych w sposób rażący nie przestrzega przepisów art. 5 ust. 1–2b,
+1) przy projektowaniu lub wykonywaniu robót budowlanych w sposób rażący nie przestrzega przepisów [art. 5](#art-5) ust. 1–2b,
 
-1a) przy wykonywaniu robót budowlanych stosuje wyroby, naruszając przepis art. 10,
+1a) przy wykonywaniu robót budowlanych stosuje wyroby, naruszając przepis [art. 10](#art-10),
 
 2) (uchylony)
 
-2a) wykonuje roboty budowlane, naruszając przepisy art. 28 ust. 1 lub art. 29 ust. 1, 3, 6 i 7,
+2a) wykonuje roboty budowlane, naruszając przepisy [art. 28](#art-28) ust. 1 lub [art. 29](#art-29) ust. 1, 3, 6 i 7,
 
-3) dokonuje rozbiórki obiektu budowlanego lub jego części, naruszając przepisy art. 30b ust. 1 lub art. 31 ust. 1,
+3) dokonuje rozbiórki obiektu budowlanego lub jego części, naruszając przepisy [art. 30b](#art-30b) ust. 1 lub [art. 31](#art-31) ust. 1,
 
-4) przystępuje do budowy lub prowadzi roboty budowlane bez dopełnienia wymagań określonych w art. 41 ust. 4, art. 42, art. 44, art. 45 i art. 45a,
+4) przystępuje do budowy lub prowadzi roboty budowlane bez dopełnienia wymagań określonych w [art. 41](#art-41) ust. 4, [art. 42](#art-42), [art. 44](#art-44), [art. 45](#art-45) i [art. 45a](#art-45a),
 
-5) dostarcza lub umożliwia dostarczenie energii, wody, ciepła lub gazu, naruszając przepis art. 41 ust. 5,
+5) dostarcza lub umożliwia dostarczenie energii, wody, ciepła lub gazu, naruszając przepis [art. 41](#art-41) ust. 5,
 
 6) wykonuje roboty budowlane w sposób odbiegający od ustaleń i warunków określonych w przepisach, pozwoleniu na budowę lub rozbiórkę bądź w zgłoszeniu budowy lub rozbiórki, bądź istotnie odbiegający od zatwierdzonego projektu,
 
 7) (uchylony)
 
-8) nie spełnia obowiązku, o którym mowa w art. 62 ust. 1 pkt 1–4a lub art. 62b,
+8) nie spełnia obowiązku, o którym mowa w [art. 62](#art-62) ust. 1 pkt 1–4a lub [art. 62b](#art-62b),
 
-9) nie spełnia, określonych w art. 60c, art. 60d, art. 60f ust. 1, art. 60g, art. 60i ust. 1, art. 60m, art. 63 ust. 1 lub art. 64 ust. 3, obowiązków założenia, wyznaczenia do prowadzenia, prowadzenia, dokonywania wpisów w terminie, zamknięcia, przekazywania lub udostępniania książki obiektu budowlanego lub przechowywania dokumentów związanych z obiektem budowlanym,
+9) nie spełnia, określonych w [art. 60c](#art-60c), [art. 60d](#art-60d), [art. 60f](#art-60f) ust. 1, [art. 60g](#art-60g), [art. 60i](#art-60i) ust. 1, [art. 60m](#art-60m), [art. 63](#art-63) ust. 1 lub [art. 64](#art-64) ust. 3, obowiązków założenia, wyznaczenia do prowadzenia, prowadzenia, dokonywania wpisów w terminie, zamknięcia, przekazywania lub udostępniania książki obiektu budowlanego lub przechowywania dokumentów związanych z obiektem budowlanym,
 
-9a) nie spełnia obowiązku przesłania protokołu, o którym mowa w art. 70 ust. 2,
+9a) nie spełnia obowiązku przesłania protokołu, o którym mowa w [art. 70](#art-70) ust. 2,
 
-9b) zmienia sposób użytkowania obiektu budowlanego lub jego części bez wymaganego zgłoszenia, o którym mowa w art. 71 ust. 2, albo pomimo wniesienia sprzeciwu, o którym mowa w art. 71 ust. 3–5,
+9b) zmienia sposób użytkowania obiektu budowlanego lub jego części bez wymaganego zgłoszenia, o którym mowa w [art. 71](#art-71) ust. 2, albo pomimo wniesienia sprzeciwu, o którym mowa w [art. 71](#art-71) ust. 3–5,
 
-10) nie udziela informacji lub nie udostępnia dokumentów, o których mowa w art. 81c ust. 1, żądanych przez organ nadzoru budowlanego, związanych z prowadzeniem robót budowlanych, przekazaniem obiektu budowlanego do użytkowania lub jego utrzymaniem,
+10) nie udziela informacji lub nie udostępnia dokumentów, o których mowa w [art. 81c](#art-81c) ust. 1, żądanych przez organ nadzoru budowlanego, związanych z prowadzeniem robót budowlanych, przekazaniem obiektu budowlanego do użytkowania lub jego utrzymaniem,
 
 11) (uchylony)
 
-12) nie stosuje się do decyzji, o której mowa w art. 66 ust. 1a, w terminie w niej określonym,
+12) nie stosuje się do decyzji, o której mowa w [art. 66](#art-66) ust. 1a, w terminie w niej określonym,
 
-13) w przypadkach określonych w art. 48 ust. 1, art. 50 ust. 1 pkt 1 lub 2 wykonuje roboty budowlane,
+13) w przypadkach określonych w [art. 48](#art-48) ust. 1, [art. 50](#art-50) ust. 1 pkt 1 lub 2 wykonuje roboty budowlane,
 
-14) do zawiadomienia o zakończeniu budowy, o której mowa w art. 29 ust. 1 pkt 1a, składa oświadczenie, o którym mowa w art. 57 ust. 1ba, niezgodne ze stanem faktycznym, podlega karze grzywny.
+14) do zawiadomienia o zakończeniu budowy, o której mowa w [art. 29](#art-29) ust. 1 pkt 1a, składa oświadczenie, o którym mowa w [art. 57](#art-57) ust. 1ba, niezgodne ze stanem faktycznym, podlega karze grzywny.
 
+<a id="art-94"></a>
 ### Art. 94.
 
 Orzekanie w sprawach o czyny, określone w art. 92 i art. 93, następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
+<a id="rozdzial-10"></a>
 ### Rozdział 10. Odpowiedzialność zawodowa w budownictwie
 
+<a id="art-95"></a>
 ### Art. 95.
 
 Odpowiedzialności zawodowej w budownictwie podlegają osoby wykonujące samodzielne funkcje techniczne w budownictwie, które:
@@ -4696,15 +5189,16 @@ Odpowiedzialności zawodowej w budownictwie podlegają osoby wykonujące samodzi
 
 5) uchylają się od podjęcia nadzoru autorskiego lub wykonują niedbale obowiązki wynikające z pełnienia tego nadzoru.
 
+<a id="art-96"></a>
 ### Art. 96.
 
 1. Popełnienie czynów powodujących odpowiedzialność zawodową w budownictwie jest zagrożone następującymi karami:
 
 1) upomnieniem;
 
-2) upomnieniem z jednoczesnym nałożeniem obowiązku złożenia, w wyznaczonym terminie, egzaminu, o którym mowa w art. 12 ust. 3;
+2) upomnieniem z jednoczesnym nałożeniem obowiązku złożenia, w wyznaczonym terminie, egzaminu, o którym mowa w [art. 12](#art-12) ust. 3;
 
-3) zakazem wykonywania samodzielnej funkcji technicznej w budownictwie, na okres od roku do 5 lat, połączonym z obowiązkiem złożenia, w wyznaczonym terminie, egzaminu, o którym mowa w art. 12 ust. 3.
+3) zakazem wykonywania samodzielnej funkcji technicznej w budownictwie, na okres od roku do 5 lat, połączonym z obowiązkiem złożenia, w wyznaczonym terminie, egzaminu, o którym mowa w [art. 12](#art-12) ust. 3.
 
 2. Przy nakładaniu kary należy uwzględnić dotychczasową karalność z tytułu odpowiedzialności zawodowej w budownictwie.
 
@@ -4720,6 +5214,7 @@ Odpowiedzialności zawodowej w budownictwie podlegają osoby wykonujące samodzi
 
 6. Osobie ukaranej z jednoczesnym nałożeniem obowiązku złożenia egzaminu, która w wyznaczonym terminie egzaminu nie zdała, wyznacza się termin dodatkowy, niekrótszy niż 3 miesiące i niedłuższy niż 6 miesięcy. W przypadku nieuzyskania oceny pozytywnej w terminie dodatkowym, stwierdza się utratę uprawnień do pełnienia samodzielnej funkcji technicznej w budownictwie.
 
+<a id="art-97"></a>
 ### Art. 97.
 
 1. Postępowanie w sprawie odpowiedzialności zawodowej w budownictwie wszczyna się na wniosek organu nadzoru budowlanego, właściwego dla miejsca popełnienia czynu lub stwierdzającego popełnienie czynu, złożony po przeprowadzeniu postępowania wyjaśniającego.
@@ -4728,12 +5223,14 @@ Odpowiedzialności zawodowej w budownictwie podlegają osoby wykonujące samodzi
 
 3. Wniosek, o którym mowa w ust. 1, może złożyć w zakresie swojej właściwości organ samorządu zawodowego.
 
+<a id="art-98"></a>
 ### Art. 98.
 
 1. W sprawach odpowiedzialności zawodowej w budownictwie orzekają organy samorządu zawodowego.
 
 2. Właściwość organów samorządu zawodowego w sprawach odpowiedzialności zawodowej w budownictwie regulują odrębne przepisy.
 
+<a id="art-99"></a>
 ### Art. 99.
 
 1. Ostateczną decyzję o ukaraniu z tytułu odpowiedzialności zawodowej w budownictwie przesyła się do wiadomości:
@@ -4750,31 +5247,33 @@ Odpowiedzialności zawodowej w budownictwie podlegają osoby wykonujące samodzi
 
 3. Dane, o których mowa w ust. 2, wraz z kopią decyzji o ukaraniu z tytułu odpowiedzialności zawodowej w budownictwie, organy samorządu zawodowego przekazują Głównemu Inspektorowi Nadzoru Budowlanego, za pomocą systemu e-CRUB, w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna.
 
-4. Dane, o których mowa w ust. 2, przekazuje się za pomocą formularzy, których wzory zostały określone w przepisach wydanych na podstawie art. 88a ust. 6.
+4. Dane, o których mowa w ust. 2, przekazuje się za pomocą formularzy, których wzory zostały określone w przepisach wydanych na podstawie [art. 88a](#art-88a) ust. 6.
 
 5. W przypadku stwierdzenia nieprawidłowości w zakresie danych, o których mowa w ust. 2, przekazanych za pomocą systemu e-CRUB, Główny Inspektor Nadzoru Budowlanego występuje do organów, o których mowa w ust. 3, o weryfikację tych danych, wskazując stwierdzone nieprawidłowości, które wymagają wyjaśnienia.
 
+<a id="art-100"></a>
 ### Art. 100.
 
 Nie można wszcząć postępowania z tytułu odpowiedzialności zawodowej w budownictwie po upływie 6 miesięcy od dnia powzięcia przez organy nadzoru budowlanego wiadomości o popełnieniu czynu, powodującego tę odpowiedzialność i niepóźniej niż po upływie 3 lat od dnia zakończenia robót budowlanych albo zawiadomienia o zakończeniu budowy lub wydania decyzji o pozwoleniu na użytkowanie obiektu budowlanego.
 
+<a id="art-101"></a>
 ### Art. 101.
 
 1. Organ, który orzekał w I instancji o odpowiedzialności zawodowej w budownictwie, na wniosek ukaranego, orzeka o zatarciu kary, jeżeli ukarany:
 
 1) wykonywał samodzielną funkcję techniczną w budownictwie przez okres:
 
-a) 2 lat – w przypadku kary określonej w art. 96 ust. 1 pkt 1,
+a) 2 lat – w przypadku kary określonej w [art. 96](#art-96) ust. 1 pkt 1,
 
-b) 3 lat – od złożenia egzaminu – w przypadku kary określonej w art. 96 ust. 1 pkt 2,
+b) 3 lat – od złożenia egzaminu – w przypadku kary określonej w [art. 96](#art-96) ust. 1 pkt 2,
 
-c) 5 lat – po przywróceniu prawa wykonywania samodzielnej funkcji technicznej w budownictwie – w przypadku kary określonej w art. 96 ust. 1 pkt 3;
+c) 5 lat – po przywróceniu prawa wykonywania samodzielnej funkcji technicznej w budownictwie – w przypadku kary określonej w [art. 96](#art-96) ust. 1 pkt 3;
 
-2) w okresach, o których mowa w pkt 1, nie był ponownie ukarany jedną z kar określonych w art. 96 ust. 1.
+2) w okresach, o których mowa w pkt 1, nie był ponownie ukarany jedną z kar określonych w [art. 96](#art-96) ust. 1.
 
 2. Informację o zatarciu kary organ, o którym mowa w ust. 1, przesyła do wiadomości:
 
-1) zainteresowanemu oraz podmiotom, o których mowa w art. 99 ust. 1;
+1) zainteresowanemu oraz podmiotom, o których mowa w [art. 99](#art-99) ust. 1;
 
 2) Głównemu Inspektorowi Nadzoru Budowlanego – niezwłocznie za pomocą systemu e-CRUB.
 
@@ -4782,44 +5281,53 @@ c) 5 lat – po przywróceniu prawa wykonywania samodzielnej funkcji technicznej
 
 4. W przypadku stwierdzenia nieprawidłowości w zakresie informacji o zatarciu kary przekazanej za pomocą systemu e-CRUB, Główny Inspektor Nadzoru Budowlanego występuje do organu, o którym mowa w ust. 1, o weryfikację informacji, wskazując stwierdzone nieprawidłowości, które wymagają wyjaśnienia.
 
+<a id="art-102"></a>
 ### Art. 102.
 
 (uchylony)
 
+<a id="rozdzial-11"></a>
 ### Rozdział 11. Przepisy przejściowe i końcowe
 
+<a id="art-103"></a>
 ### Art. 103.
 
 1. Do spraw wszczętych przed dniem wejścia w życie ustawy, a niezakończonych decyzją ostateczną, stosuje się przepisy ustawy, z zastrzeżeniem ust. 2.
 
-2. Przepisu art. 48 nie stosuje się do obiektów, których budowa została zakończona przed dniem wejścia w życie ustawy lub w stosunku do których przed tym dniem zostało wszczęte postępowanie administracyjne. Do takich obiektów stosuje się przepisy dotychczasowe.
+2. Przepisu [art. 48](#art-48) nie stosuje się do obiektów, których budowa została zakończona przed dniem wejścia w życie ustawy lub w stosunku do których przed tym dniem zostało wszczęte postępowanie administracyjne. Do takich obiektów stosuje się przepisy dotychczasowe.
 
 3. Właściwość organów do załatwiania spraw, o których mowa w ust. 1, określa się na podstawie przepisów ustawy.
 
+<a id="art-104"></a>
 ### Art. 104.
 
 Osoby, które, przed dniem wejścia w życie ustawy, uzyskały uprawnienia budowlane lub stwierdzenie posiadania przygotowania zawodowego do pełnienia samodzielnych funkcji technicznych w budownictwie, zachowują uprawnienia do pełnienia tych funkcji w dotychczasowym zakresie.
 
+<a id="art-105"></a>
 ### Art. 105.
 
 1. Decyzje o dopuszczeniu do powszechnego stosowania w budownictwie nowych materiałów budowlanych, wydane przed dniem wejścia w życie ustawy, pozostają w mocy w dotychczasowym zakresie.
 
 2. (pominięty)
 
+<a id="art-106"></a>
 ### Art. 106.
 
 (pominięty)
 
+<a id="art-107"></a>
 ### Art. 107.
 
 1. Traci moc ustawa z dnia 24 października 1974 r. – Prawo budowlane (Dz. U. poz. 229, z późn. zm.96)), z zastrzeżeniem art. 103 ust. 2.
 
 2. (pominięty)
 
+<a id="art-108"></a>
 ### Art. 108.
 
 Ustawa wchodzi w życie z dniem 1 stycznia 1995 r.
 
+<a id="załącznik-kategorie-obiektów-budowlanych"></a>
 ## Załącznik. Kategorie obiektów budowlanych
 
 Załącznik do ustawy z dnia 7 lipca 1994 r. (Dz. U. z 2026 r. poz. 524)

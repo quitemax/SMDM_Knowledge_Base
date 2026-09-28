@@ -1984,7 +1984,7 @@ a) w ust. 2 po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) tworzy zbiór dan
 
 b) w ust. 3 po pkt 27 dodaje się pkt 27a i 27b w brzmieniu: „27a) podejmują działania zapobiegające ryzku lub służące jego kontroli, o których mowa w art. 4f ust. 6 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków;
 
-27b) po konsultacji z dostawcą wody w rozumieniu art. 2 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków identyfikują podmioty odpowiedzialne za zanieczyszczenie wody, które stwarza ryzyko, o którym mowa w art. 4f ust. 6 tej ustawy, zgodnie z [art. 4f](#art-4f) ust. 9 tej ustawy;”;
+27b) po konsultacji z dostawcą wody w rozumieniu art. 2 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków identyfikują podmioty odpowiedzialne za zanieczyszczenie wody, które stwarza ryzyko, o którym mowa w art. 4f ust. 6 tej ustawy, zgodnie z art. 4f ust. 9 tej ustawy;”;
 
 5) w art. 333 w ust. 6 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) dostawcom wody w rozumieniu art. 2 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków – w celu dokonywania oceny ryzyka w obszarze zasilania ujęcia wody wykorzystywanego do poboru wody przeznaczonej do spożycia przez ludzi, o której mowa w art. 4e ust. 1 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, lub jej przeglądu lub aktualizacji, o których mowa w art. 4e ust. 2 tej ustawy.”;
 

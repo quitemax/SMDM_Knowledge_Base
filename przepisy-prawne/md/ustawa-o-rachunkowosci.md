@@ -2,12 +2,195 @@
 
 o rachunkowości1)
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [Art. 1.](#art-1)
+  - [Art. 2.](#art-2)
+  - [Art. 3.](#art-3)
+  - [Art. 4.](#art-4)
+  - [Art. 4a.](#art-4a)
+  - [Art. 5.](#art-5)
+  - [Art. 6.](#art-6)
+  - [Art. 7.](#art-7)
+  - [Art. 8.](#art-8)
+- [Rozdział 2. Prowadzenie ksiąg rachunkowych](#rozdzial-2)
+  - [Art. 9.](#art-9)
+  - [Art. 10.](#art-10)
+  - [Art. 11.](#art-11)
+  - [Art. 11a.](#art-11a)
+  - [Art. 12.](#art-12)
+  - [Art. 13.](#art-13)
+  - [Art. 14.](#art-14)
+  - [Art. 15.](#art-15)
+  - [Art. 16.](#art-16)
+  - [Art. 17.](#art-17)
+  - [Art. 18.](#art-18)
+  - [Art. 19.](#art-19)
+  - [Art. 20.](#art-20)
+  - [Art. 21.](#art-21)
+  - [Art. 22.](#art-22)
+  - [Art. 23.](#art-23)
+  - [Art. 24.](#art-24)
+  - [Art. 25.](#art-25)
+- [Rozdział 3. Inwentaryzacja](#rozdzial-3)
+  - [Art. 26.](#art-26)
+  - [Art. 27.](#art-27)
+- [Rozdział 4. Wycena aktywów i pasywów oraz ustalenie wyniku finansowego](#rozdzial-4)
+  - [Art. 28.](#art-28)
+  - [Art. 28a.](#art-28a)
+  - [Art. 28b.](#art-28b)
+  - [Art. 29.](#art-29)
+  - [Art. 30.](#art-30)
+  - [Art. 31.](#art-31)
+  - [Art. 32.](#art-32)
+  - [Art. 33.](#art-33)
+  - [Art. 34.](#art-34)
+  - [Art. 34a.](#art-34a)
+  - [Art. 34b.](#art-34b)
+  - [Art. 34c.](#art-34c)
+  - [Art. 34d.](#art-34d)
+  - [Art. 35.](#art-35)
+  - [Art. 35a.](#art-35a)
+  - [Art. 35b.](#art-35b)
+  - [Art. 35c.](#art-35c)
+  - [Art. 35d.](#art-35d)
+  - [Art. 36.](#art-36)
+  - [Art. 36a.](#art-36a)
+  - [Art. 37.](#art-37)
+  - [Art. 38.](#art-38)
+  - [Art. 39.](#art-39)
+  - [Art. 40.](#art-40)
+  - [Art. 41.](#art-41)
+  - [Art. 42.](#art-42)
+  - [Art. 43.](#art-43)
+  - [Art. 44.](#art-44)
+- [Rozdział 4a. Łączenie się spółek](#rozdzial-4a)
+  - [Art. 44a.](#art-44a)
+  - [Art. 44b.](#art-44b)
+  - [Art. 44c.](#art-44c)
+  - [Art. 44d.](#art-44d)
+- [Rozdział 5. Sprawozdania finansowe jednostki](#rozdzial-5)
+  - [Art. 45.](#art-45)
+  - [Art. 46.](#art-46)
+  - [Art. 47.](#art-47)
+  - [Art. 48.](#art-48)
+  - [Art. 48a.](#art-48a)
+  - [Art. 48b.](#art-48b)
+  - [Art. 49.](#art-49)
+  - [Art. 49a.](#art-49a)
+  - [Art. 49b.](#art-49b)
+  - [Art. 49c. [36)]](#art-49c)
+  - [Art. 50.](#art-50)
+  - [Art. 51.](#art-51)
+  - [Art. 52.](#art-52)
+  - [Art. 53.](#art-53)
+  - [Art. 54.](#art-54)
+- [Rozdział 6. Skonsolidowane sprawozdania finansowe grupy kapitałowej](#rozdzial-6)
+  - [Art. 55.](#art-55)
+  - [Art. 56.](#art-56)
+  - [Art. 57.](#art-57)
+  - [Art. 58.](#art-58)
+  - [Art. 59.](#art-59)
+  - [Art. 60.](#art-60)
+  - [Art. 61.](#art-61)
+  - [Art. 62.](#art-62)
+  - [Art. 63.](#art-63)
+  - [Art. 63a.](#art-63a)
+  - [Art. 63b.](#art-63b)
+  - [Art. 63c.](#art-63c)
+  - [Art. 63d.](#art-63d)
+- [Rozdział 6a. Sprawozdanie z płatności na rzecz administracji publicznej](#rozdzial-6a)
+  - [Art. 63e.](#art-63e)
+  - [Art. 63f.](#art-63f)
+  - [Art. 63g.](#art-63g)
+  - [Art. 63h.](#art-63h)
+  - [Art. 63i.](#art-63i)
+  - [Art. 63j.](#art-63j)
+  - [Art. 63k.](#art-63k)
+- [Rozdział 6b [46)]. Sprawozdanie o podatku dochodowym](#rozdzial-6b)
+  - [Art. 63l.](#art-63l)
+  - [Art. 63m.](#art-63m)
+  - [Art. 63n.](#art-63n)
+  - [Art. 63o.](#art-63o)
+- [Rozdział 6c [56)]. Sprawozdawczość zrównoważonego rozwoju](#rozdzial-6c)
+  - [Art. 63p.](#art-63p)
+  - [Art. 63q.](#art-63q)
+  - [Art. 63r.](#art-63r)
+  - [Art. 63s.](#art-63s)
+  - [Art. 63t.](#art-63t)
+  - [Art. 63u.](#art-63u)
+  - [Art. 63v.](#art-63v)
+  - [Art. 63w.](#art-63w)
+  - [Art. 63x.](#art-63x)
+  - [Art. 63y.](#art-63y)
+  - [Art. 63z.](#art-63z)
+  - [Art. 63za.](#art-63za)
+  - [Art. 63zb.](#art-63zb)
+  - [Art. 63zc.](#art-63zc)
+  - [Art. 63zd.](#art-63zd)
+- [Rozdział 7. Badanie sprawozdań finansowych, atestacja sprawozdawczości zrównoważonego rozwoju, składanie do właściwego rejestru sądowego, udostępnianie i ogłaszanie sprawozdań62)](#rozdzial-7)
+  - [Art. 64.](#art-64)
+  - [Art. 64a.](#art-64a)
+  - [Art. 64b.](#art-64b)
+  - [Art. 65.](#art-65)
+  - [Art. 66.](#art-66)
+  - [Art. 67.](#art-67)
+  - [Art. 67a.](#art-67a)
+  - [Art. 68. [73)]](#art-68)
+  - [Art. 69.](#art-69)
+  - [Art. 70.](#art-70)
+  - [Art. 70a.](#art-70a)
+- [Rozdział 8. Ochrona danych](#rozdzial-8)
+  - [Art. 71.](#art-71)
+  - [Art. 72.](#art-72)
+  - [Art. 73.](#art-73)
+  - [Art. 73a. [79)]](#art-73a)
+  - [Art. 74.](#art-74)
+  - [Art. 75.](#art-75)
+  - [Art. 76.](#art-76)
+- [Rozdział 8a. Usługowe prowadzenie ksiąg rachunkowych](#rozdzial-8a)
+  - [Art. 76a.](#art-76a)
+  - [Art. 76b.](#art-76b)
+  - [Art. 76c.](#art-76c)
+  - [Art. 76d.](#art-76d)
+  - [Art. 76e.](#art-76e)
+  - [Art. 76f.](#art-76f)
+  - [Art. 76g.](#art-76g)
+  - [Art. 76h.](#art-76h)
+  - [Art. 76i.](#art-76i)
+- [Rozdział 9. Odpowiedzialność karna](#rozdzial-9)
+  - [Art. 77.](#art-77)
+  - [Art. 78.](#art-78)
+  - [Art. 79.](#art-79)
+- [Rozdział 10. Przepisy szczególne i przejściowe](#rozdzial-10)
+  - [Art. 80.](#art-80)
+  - [Art. 80a.](#art-80a)
+  - [Art. 81.](#art-81)
+  - [Art. 82.](#art-82)
+  - [Art. 83.](#art-83)
+- [Rozdział 11. Zmiany w przepisach, przepisy epizodyczne i przepisy końcowe90)](#rozdzial-11)
+  - [Art. 84.](#art-84)
+  - [Art. 84a. [91)]](#art-84a)
+  - [Art. 85.](#art-85)
+  - [Art. 86.](#art-86)
+- [Załącznik nr 1](#zalacznik-1)
+- [Załącznik nr 2. Zakres informacji wykazywanych w sprawozdaniu finansowym, o którym mowa w art. 45 ustawy, dla banków](#zalacznik-2)
+- [Załącznik nr 3. Zakres informacji wykazywanych w sprawozdaniu finansowym, o którym mowa w art. 45 ustawy, dla zakładów ubezpieczeń i zakładów reasekuracji](#zalacznik-3)
+- [Załącznik nr 4](#zalacznik-4)
+- [Załącznik nr 5. Zakres informacji wykazywanych w sprawozdaniu finansowym, o którym mowa w art. 45 ustawy, dla jednostek małych korzystających z uproszczeń odnoszących się do sprawozdania finansowego](#zalacznik-5)
+- [Załącznik nr 6](#zalacznik-6)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="art-1"></a>
 ### Art. 1.
 
 Ustawa określa zasady rachunkowości oraz zasady wykonywania działalności w zakresie usługowego prowadzenia ksiąg rachunkowych.
 
+<a id="art-2"></a>
 ### Art. 2.
 
 1. Przepisy ustawy o rachunkowości, zwanej dalej „ustawą”, stosuje się, z zastrzeżeniem ust. 3, do mających siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej:
@@ -36,7 +219,7 @@ c) (uchylona)
 
 2. Osoby fizyczne, spółki cywilne osób fizycznych, spółki cywilne osób fizycznych i przedsiębiorstwa w spadku, spółki jawne osób fizycznych, spółki partnerskie oraz przedsiębiorstwa w spadku działające zgodnie z ustawą z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw mogą stosować zasady rachunkowości określone ustawą również od początku następnego roku obrotowego, jeżeli ich przychody netto ze sprzedaży towarów i produktów za poprzedni rok obrotowy są niższe niż równowartość w walucie polskiej 2 500 000 euro.3) W tym przypadku osoby te lub wspólnicy przed rozpoczęciem roku obrotowego są obowiązani, o ile odrębne przepisy nie stanowią inaczej, do zawiadomienia o tym urzędu skarbowego, właściwego w sprawach opodatkowania podatkiem dochodowym. Osoby fizyczne lub wspólnicy spółek cywilnych osób fizycznych mogą złożyć zawiadomienie na podstawie ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30).
 
-2a.[4)] Do spółek jawnych osób fizycznych oraz spółek partnerskich, których przychody netto ze sprzedaży towarów i produktów za poprzedni rok obrotowy wyniosły mniej niż równowartość w walucie polskiej 2 500 000 euro i które nie stosują zasad rachunkowości określonych ustawą na podstawie ust. 2, stosuje się przepis art. 70a.
+2a.[4)] Do spółek jawnych osób fizycznych oraz spółek partnerskich, których przychody netto ze sprzedaży towarów i produktów za poprzedni rok obrotowy wyniosły mniej niż równowartość w walucie polskiej 2 500 000 euro i które nie stosują zasad rachunkowości określonych ustawą na podstawie ust. 2, stosuje się przepis [art. 70a](#art-70a).
 
 2b. Przepisy ustawy stosuje się również, bez względu na wielkość przychodów, do alternatywnych spółek inwestycyjnych w rozumieniu przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, w tym uprawnionych do posługiwania się nazwą „EuVECA” albo „EuSEF”.
 
@@ -48,11 +231,12 @@ c) (uchylona)
 
 6. Koła gospodyń wiejskich działające na podstawie ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2025 r. poz. 310) mogą prowadzić uproszczoną ewidencję przychodów i kosztów na zasadach i warunkach określonych w tej ustawie.
 
+<a id="art-3"></a>
 ### Art. 3.
 
 1. Ilekroć w ustawie jest mowa o:
 
-1) jednostce – rozumie się przez to podmioty i osoby określone w art. 2 ust. 1;
+1) jednostce – rozumie się przez to podmioty i osoby określone w [art. 2](#art-2) ust. 1;
 
 1a)[5)] jednostce mikro – rozumie się przez to jednostkę, która w roku obrotowym, za który sporządza sprawozdanie finansowe, oraz w roku poprzedzającym ten rok obrotowy, a w przypadku jednostki rozpoczynającej działalność albo prowadzenie ksiąg rachunkowych w sposób określony ustawą – w roku obrotowym, w którym rozpoczęła działalność albo prowadzenie ksiąg rachunkowych w sposób określony ustawą, nie przekroczyła co najmniej dwóch z następujących trzech wielkości:
 
@@ -88,9 +272,9 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 1e)[5)] dużej grupie – rozumie się przez to grupę kapitałową, która w roku obrotowym, za który jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe, oraz w roku poprzedzającym ten rok obrotowy przekroczyła:
 
-a) po dokonaniu wyłączeń konsolidacyjnych, o których mowa w art. 60 ust. 2 i 6, co najmniej dwie z następujących trzech wielkości: – 110 000 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, – 220 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy, – 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty, oraz
+a) po dokonaniu wyłączeń konsolidacyjnych, o których mowa w [art. 60](#art-60) ust. 2 i 6, co najmniej dwie z następujących trzech wielkości: – 110 000 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, – 220 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy, – 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty, oraz
 
-b) przed dokonaniem wyłączeń konsolidacyjnych, o których mowa w art. 60 ust. 2 i 6, co najmniej dwie z następujących trzech wielkości: – 132 000 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, – 264 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy, – 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty – przy czym grupa kapitałowa traci status dużej grupy, jeżeli w roku obrotowym, za który jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe, oraz w roku poprzedzającym ten rok obrotowy nie przekroczyła co najmniej dwóch z trzech wielkości określonych w lit. a lub b;
+b) przed dokonaniem wyłączeń konsolidacyjnych, o których mowa w [art. 60](#art-60) ust. 2 i 6, co najmniej dwie z następujących trzech wielkości: – 132 000 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, – 264 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy, – 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty – przy czym grupa kapitałowa traci status dużej grupy, jeżeli w roku obrotowym, za który jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe, oraz w roku poprzedzającym ten rok obrotowy nie przekroczyła co najmniej dwóch z trzech wielkości określonych w lit. a lub b;
 
 2) banku – rozumie się przez to jednostkę działającą na podstawie przepisów Prawa bankowego;
 
@@ -178,7 +362,7 @@ c) umów o przeniesienie praw z papierów wartościowych w okresie pomiędzy ter
 
 d) aktywów i zobowiązań z tytułu programów, z których wynikają udziały pracowników oraz innych osób związanych z jednostką w jej kapitałach lub w kapitałach innej jednostki z grupy kapitałowej, do której należy jednostka,
 
-e) umów połączenia spółek, z których wynikają obowiązki określone w art. 44b ust. 9;
+e) umów połączenia spółek, z których wynikają obowiązki określone w [art. 44b](#art-44b) ust. 9;
 
 24) aktywach finansowych – rozumie się przez to aktywa pieniężne, instrumenty kapitałowe wyemitowane przez inne jednostki, a także wynikające z kontraktu prawo do otrzymania aktywów pieniężnych lub prawo do wymiany instrumentów finansowych z inną jednostką na korzystnych warunkach;
 
@@ -204,7 +388,7 @@ c) składkę przypisaną brutto – w przypadku zakładów ubezpieczeń i zakła
 
 d) sumę pozycji I, IV, VII, VIII i XI w rachunku zysków i strat określonych w załączniku nr 2 do ustawy – w przypadku banków krajowych, oddziałów instytucji kredytowych i oddziałów banków zagranicznych,
 
-e) przychody w rozumieniu ram sprawozdawczości finansowej stosowanych przez jednostkę, na podstawie których są sporządzane sprawozdania finansowe jednostki – w przypadku jednostek mających siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, o których mowa w art. 63zd ust. 1 pkt 1 lit. b oraz pkt 2 lit. a oraz b;
+e) przychody w rozumieniu ram sprawozdawczości finansowej stosowanych przez jednostkę, na podstawie których są sporządzane sprawozdania finansowe jednostki – w przypadku jednostek mających siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, o których mowa w [art. 63zd](#art-63zd) ust. 1 pkt 1 lit. b oraz pkt 2 lit. a oraz b;
 
 31) kosztach i stratach – rozumie się przez to uprawdopodobnione zmniejszenia w okresie sprawozdawczym korzyści ekonomicznych, o wiarygodnie określonej wartości, w formie zmniejszenia wartości aktywów, albo zwiększenia wartości zobowiązań i rezerw, które doprowadzą do zmniejszenia kapitału własnego lub zwiększenia jego niedoboru w inny sposób niż wycofanie środków przez udziałowców lub właścicieli;
 
@@ -308,11 +492,11 @@ e) będącą udziałowcem jednostki zależnej i uprawnioną do kierowania polity
 
 1g. Na potrzeby ust. 1 pkt 36 lit. f oraz pkt 37 lit. a, b i d łączne prawa głosu udziałowców w jednostce zależnej są pomniejszane o prawa głosu związane z udziałami posiadanymi przez tę jednostkę zależną, jej jednostkę zależną lub osobę działającą w imieniu własnym, ale na rzecz tych jednostek.
 
-1h.[10)] Dla celów ust. 6, art. 7 ust. 2b, art. 28 ust. 4a, art. 28a, art. 28b, art. 32 ust. 7, art. 37 ust. 10, art. 39 ust. 6, art. 46 ust. 5 pkt 4 i 5, art. 47 ust. 4 pkt 4 i 5, art. 48 ust. 3 i 4, art. 49 ust. 4 i 5 oraz art. 56 ust. 1 następujące jednostki traktuje się jak jednostki duże bez względu na ich sumę aktywów bilansu, przychody netto ze sprzedaży towarów i produktów oraz średnioroczne zatrudnienie w roku obrotowym:
+1h.[10)] Dla celów ust. 6, [art. 7](#art-7) ust. 2b, [art. 28](#art-28) ust. 4a, [art. 28a](#art-28a), [art. 28b](#art-28b), [art. 32](#art-32) ust. 7, [art. 37](#art-37) ust. 10, [art. 39](#art-39) ust. 6, [art. 46](#art-46) ust. 5 pkt 4 i 5, [art. 47](#art-47) ust. 4 pkt 4 i 5, [art. 48](#art-48) ust. 3 i 4, [art. 49](#art-49) ust. 4 i 5 oraz [art. 56](#art-56) ust. 1 następujące jednostki traktuje się jak jednostki duże bez względu na ich sumę aktywów bilansu, przychody netto ze sprzedaży towarów i produktów oraz średnioroczne zatrudnienie w roku obrotowym:
 
-1) jednostki, o których mowa w art. 2 ust. 1 pkt 3;
+1) jednostki, o których mowa w [art. 2](#art-2) ust. 1 pkt 3;
 
-2) jednostki zamierzające ubiegać się albo ubiegające się o zezwolenie na wykonywanie działalności na podstawie przepisów, o których mowa w art. 2 ust. 1 pkt 3, lub wpis do rejestru zarządzających ASI na podstawie przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
+2) jednostki zamierzające ubiegać się albo ubiegające się o zezwolenie na wykonywanie działalności na podstawie przepisów, o których mowa w [art. 2](#art-2) ust. 1 pkt 3, lub wpis do rejestru zarządzających ASI na podstawie przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
 
 3) alternatywne spółki inwestycyjne w rozumieniu przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, w tym uprawnione do posługiwania się nazwą „EuVECA” albo „EuSEF”;
 
@@ -324,11 +508,11 @@ e) będącą udziałowcem jednostki zależnej i uprawnioną do kierowania polity
 
 7) instytucje pieniądza elektronicznego.
 
-1i.[10)] Jednostki, o których mowa w art. 2 ust. 1 pkt 2a, bez względu na ich sumę aktywów bilansu, przychody netto ze sprzedaży towarów i produktów oraz średnioroczne zatrudnienie w roku obrotowym, korzystają z uproszczeń, o których mowa w ust. 6, art. 7 ust. 2b, art. 28 ust. 4a, art. 28a, art. 28b, art. 32 ust. 7, art. 37 ust. 10, art. 39 ust. 6, art. 46 ust. 5 pkt 4 albo 5, art. 47 ust. 4 pkt 4 albo 5 lub art. 48 ust. 3 albo 4, do dnia bilansowego kończącego rok obrotowy, w którym nastąpiło wygaśnięcie uprawnienia do powołania zarządcy sukcesyjnego albo wygaśnięcie zarządu sukcesyjnego, jeżeli na dzień poprzedzający dzień otwarcia spadku przedsiębiorca korzystał z tych uproszczeń.
+1i.[10)] Jednostki, o których mowa w [art. 2](#art-2) ust. 1 pkt 2a, bez względu na ich sumę aktywów bilansu, przychody netto ze sprzedaży towarów i produktów oraz średnioroczne zatrudnienie w roku obrotowym, korzystają z uproszczeń, o których mowa w ust. 6, [art. 7](#art-7) ust. 2b, [art. 28](#art-28) ust. 4a, [art. 28a](#art-28a), [art. 28b](#art-28b), [art. 32](#art-32) ust. 7, [art. 37](#art-37) ust. 10, [art. 39](#art-39) ust. 6, [art. 46](#art-46) ust. 5 pkt 4 albo 5, [art. 47](#art-47) ust. 4 pkt 4 albo 5 lub [art. 48](#art-48) ust. 3 albo 4, do dnia bilansowego kończącego rok obrotowy, w którym nastąpiło wygaśnięcie uprawnienia do powołania zarządcy sukcesyjnego albo wygaśnięcie zarządu sukcesyjnego, jeżeli na dzień poprzedzający dzień otwarcia spadku przedsiębiorca korzystał z tych uproszczeń.
 
 2. Wyrażone w euro wielkości przelicza się na walutę polską po średnim kursie, ogłoszonym przez Narodowy Bank Polski, na dzień bilansowy, z zastrzeżeniem ust. 3.
 
-3.[11)] Wyrażone w euro wielkości, o których mowa w art. 2 ust. 1 pkt 2 i ust. 2, przelicza się na walutę polską po średnim kursie ogłoszonym przez Narodowy Bank Polski, na pierwszy dzień roboczy października roku poprzedzającego rok obrotowy.
+3.[11)] Wyrażone w euro wielkości, o których mowa w [art. 2](#art-2) ust. 1 pkt 2 i ust. 2, przelicza się na walutę polską po średnim kursie ogłoszonym przez Narodowy Bank Polski, na pierwszy dzień roboczy października roku poprzedzającego rok obrotowy.
 
 4. Jeżeli jednostka przyjęła do używania obce środki trwałe lub wartości niematerialne i prawne na mocy umowy, zgodnie z którą jedna ze stron, zwana dalej „finansującym”, oddaje drugiej stronie, zwanej dalej „korzystającym”, środki trwałe lub wartości niematerialne i prawne do odpłatnego używania lub również pobierania pożytków na czas oznaczony, środki te i wartości zalicza się do aktywów trwałych korzystającego, jeżeli umowa spełnia co najmniej jeden z następujących warunków:
 
@@ -350,6 +534,7 @@ e) będącą udziałowcem jednostki zależnej i uprawnioną do kierowania polity
 
 6.[12)] Jednostka mikro i jednostka mała mogą dokonywać kwalifikacji umów, o których mowa w ust. 4, według zasad określonych w przepisach podatkowych i nie stosować przepisów ust. 4 i 5.
 
+<a id="art-4"></a>
 ### Art. 4.
 
 1. Jednostki obowiązane są stosować przyjęte zasady (politykę) rachunkowości, rzetelnie i jasno przedstawiając sytuację majątkową i finansową oraz wynik finansowy.
@@ -380,26 +565,30 @@ e) będącą udziałowcem jednostki zależnej i uprawnioną do kierowania polity
 
 4a. Stosując przepisy ustawy, jednostka kieruje się zasadą istotności. Informacje wykazywane w sprawozdaniu finansowym oraz skonsolidowanym sprawozdaniu finansowym należy uznać za istotne, gdy ich pominięcie lub zniekształcenie może wpływać na decyzje podejmowane na ich podstawie przez użytkowników tych sprawozdań. Nie można uznać poszczególnych pozycji za nieistotne, jeżeli wszystkie nieistotne pozycje o podobnym charakterze łącznie uznaje się za istotne.
 
-5. Kierownik jednostki, o ile odrębne przepisy nie stanowią inaczej, ponosi odpowiedzialność za wykonywanie obowiązków w zakresie rachunkowości określonych ustawą, w tym z tytułu nadzoru, również w przypadku, gdy określone obowiązki w zakresie rachunkowości – z wyłączeniem odpowiedzialności za przeprowadzenie inwentaryzacji w formie spisu z natury – zostaną powierzone innej osobie lub przedsiębiorcy, o którym mowa w art. 11 ust. 2, za ich zgodą. Przyjęcie odpowiedzialności przez inną osobę lub przedsiębiorcę powinno być stwierdzone w formie pisemnej. W przypadku gdy kierownikiem jednostki jest organ wieloosobowy, a nie została wskazana osoba odpowiedzialna, odpowiedzialność ponoszą wszyscy członkowie tego organu.
+5. Kierownik jednostki, o ile odrębne przepisy nie stanowią inaczej, ponosi odpowiedzialność za wykonywanie obowiązków w zakresie rachunkowości określonych ustawą, w tym z tytułu nadzoru, również w przypadku, gdy określone obowiązki w zakresie rachunkowości – z wyłączeniem odpowiedzialności za przeprowadzenie inwentaryzacji w formie spisu z natury – zostaną powierzone innej osobie lub przedsiębiorcy, o którym mowa w [art. 11](#art-11) ust. 2, za ich zgodą. Przyjęcie odpowiedzialności przez inną osobę lub przedsiębiorcę powinno być stwierdzone w formie pisemnej. W przypadku gdy kierownikiem jednostki jest organ wieloosobowy, a nie została wskazana osoba odpowiedzialna, odpowiedzialność ponoszą wszyscy członkowie tego organu.
 
+<a id="art-4a"></a>
 ### Art. 4a.
 
 1.13) Kierownik jednostki oraz członkowie rady nadzorczej lub innego organu nadzorującego jednostki są zobowiązani do zapewnienia, aby sprawozdanie finansowe, skonsolidowane sprawozdanie finansowe, sprawozdanie z działalności, sprawozdanie z działalności grupy kapitałowej, sprawozdanie z płatności na rzecz administracji publicznej, skonsolidowane sprawozdanie z płatności na rzecz administracji publicznej, sprawozdanie o podatku dochodowym oraz sprawozdawczość zrównoważonego rozwoju dotycząca grupy kapitałowej jednostki dominującej najwyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub dotycząca jednostki samodzielnej z państwa spoza Europejskiego Obszaru Gospodarczego, spełniały wymagania przewidziane w ustawie.
 
 2. Kierownik jednostki oraz członkowie rady nadzorczej lub innego organu nadzorującego jednostki odpowiadają solidarnie wobec spółki za szkodę wyrządzoną działaniem lub zaniechaniem stanowiącym naruszenie obowiązku wynikającego z ust. 1.
 
+<a id="art-5"></a>
 ### Art. 5.
 
 1. Przyjęte zasady (politykę) rachunkowości należy stosować w sposób ciągły, dokonując w kolejnych latach obrotowych jednakowego grupowania operacji gospodarczych, wyceny aktywów i pasywów, w tym także dokonywania odpisów amortyzacyjnych lub umorzeniowych, ustalania wyniku finansowego i sporządzania sprawozdań finansowych tak, aby za kolejne lata informacje z nich wynikające były porównywalne. Wykazane w księgach rachunkowych na dzień ich zamknięcia stany aktywów i pasywów należy ująć w tej samej wysokości, w otwartych na następny rok obrotowy księgach rachunkowych.
 
 2. Przy stosowaniu przyjętych zasad (polityki) rachunkowości przyjmuje się założenie, że jednostka będzie kontynuowała w dającej się przewidzieć przyszłości działalność w niezmniejszonym istotnie zakresie, bez postawienia jej w stan likwidacji lub upadłości, chyba że jest to niezgodne ze stanem faktycznym lub prawnym. Ustalając zdolność jednostki do kontynuowania działalności, kierownik jednostki uwzględnia wszystkie informacje dostępne na dzień sporządzenia sprawozdania finansowego, dotyczące dającej się przewidzieć przyszłości, obejmującej okres niekrótszy niż jeden rok od dnia bilansowego.
 
+<a id="art-6"></a>
 ### Art. 6.
 
 1. W księgach rachunkowych jednostki należy ująć wszystkie osiągnięte, przypadające na jej rzecz przychody i obciążające ją koszty związane z tymi przychodami dotyczące danego roku obrotowego, niezależnie od terminu ich zapłaty.
 
 2. Dla zapewnienia współmierności przychodów i związanych z nimi kosztów do aktywów lub pasywów danego okresu sprawozdawczego zaliczane będą koszty lub przychody dotyczące przyszłych okresów oraz przypadające na ten okres sprawozdawczy koszty, które jeszcze nie zostały poniesione.
 
+<a id="art-7"></a>
 ### Art. 7.
 
 1. Poszczególne składniki aktywów i pasywów wycenia się stosując rzeczywiście poniesione na ich nabycie (wytworzenie) ceny (koszty), z zachowaniem zasady ostrożności. W szczególności należy w tym celu w wyniku finansowym, bez względu na jego wysokość, uwzględnić:
@@ -432,20 +621,24 @@ e) będącą udziałowcem jednostki zależnej i uprawnioną do kierowania polity
 
 3. Wartość poszczególnych składników aktywów i pasywów, przychodów i związanych z nimi kosztów, jak też zysków i strat nadzwyczajnych ustala się oddzielnie. Nie można kompensować ze sobą wartości różnych co do rodzaju aktywów i pasywów, przychodów i kosztów związanych z nimi oraz zysków i strat nadzwyczajnych.
 
+<a id="art-8"></a>
 ### Art. 8.
 
-1. Określając zasady (politykę) rachunkowości należy zapewnić wyodrębnienie w rachunkowości wszystkich zdarzeń istotnych do oceny sytuacji majątkowej i finansowej oraz wyniku finansowego jednostki, przy zachowaniu zasady ostrożności, o której mowa w art. 7.
+1. Określając zasady (politykę) rachunkowości należy zapewnić wyodrębnienie w rachunkowości wszystkich zdarzeń istotnych do oceny sytuacji majątkowej i finansowej oraz wyniku finansowego jednostki, przy zachowaniu zasady ostrożności, o której mowa w [art. 7](#art-7).
 
 2. W celu rzetelnego i jasnego przedstawienia sytuacji jednostka może, ze skutkiem od pierwszego dnia roku obrotowego, bez względu na datę podjęcia decyzji, zmienić dotychczas stosowane rozwiązania na inne, przewidziane ustawą. Zmiana dotychczas stosowanych rozwiązań wymaga również określenia w informacji dodatkowej wpływu tych zmian na sprawozdania finansowe wymagane innymi przepisami prawa, jeżeli zostały one sporządzone za okres, w którym powyższe rozwiązania uległy zmianie. W przypadku takim należy w sprawozdaniu finansowym jednostki za rok obrotowy, w którym zmiany te nastąpiły, podać przyczyny tych zmian, określić liczbowo ich wpływ na wynik finansowy oraz zapewnić porównywalność danych sprawozdania finansowego dotyczących roku poprzedzającego rok obrotowy, w którym dokonano zmian. Skutki zmiany przyjętych zasad (polityki) rachunkowości odnosi się na kapitał (fundusz) własny i wykazuje jako zysk (stratę) z lat ubiegłych.
 
-3. W przypadku zmian zasad (polityki) rachunkowości, spowodowanych zaprzestaniem stosowania MSR przy sporządzaniu sprawozdań finansowych przez jednostki, o których mowa w art. 45 ust. 1a i 1b, skutki finansowe przejścia na zasady (politykę) rachunkowości określone w ustawie odnosi się na kapitał (fundusz) własny i wykazuje jako zysk (strata) z lat ubiegłych, a jeżeli skutki przeszacowania aktywów dokonanego zgodnie z MSR rozliczono z kapitałem (funduszem) z aktualizacji wyceny – jako zmianę stanu tego kapitału (funduszu). Do zmian zasad (polityki) rachunkowości polegających na zaprzestaniu stosowania MSR przy sporządzaniu sprawozdań finansowych stosuje się odpowiednio przepisy ust. 1 i 2.
+3. W przypadku zmian zasad (polityki) rachunkowości, spowodowanych zaprzestaniem stosowania MSR przy sporządzaniu sprawozdań finansowych przez jednostki, o których mowa w [art. 45](#art-45) ust. 1a i 1b, skutki finansowe przejścia na zasady (politykę) rachunkowości określone w ustawie odnosi się na kapitał (fundusz) własny i wykazuje jako zysk (strata) z lat ubiegłych, a jeżeli skutki przeszacowania aktywów dokonanego zgodnie z MSR rozliczono z kapitałem (funduszem) z aktualizacji wyceny – jako zmianę stanu tego kapitału (funduszu). Do zmian zasad (polityki) rachunkowości polegających na zaprzestaniu stosowania MSR przy sporządzaniu sprawozdań finansowych stosuje się odpowiednio przepisy ust. 1 i 2.
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Prowadzenie ksiąg rachunkowych
 
+<a id="art-9"></a>
 ### Art. 9.
 
 Księgi rachunkowe prowadzi się w języku polskim i w walucie polskiej.
 
+<a id="art-10"></a>
 ### Art. 10.
 
 1. Jednostka powinna posiadać dokumentację opisującą w języku polskim przyjęte przez nią zasady (politykę) rachunkowości, a w szczególności dotyczące:
@@ -466,8 +659,9 @@ c) opisu systemu przetwarzania danych, a przy prowadzeniu ksiąg rachunkowych pr
 
 2. Kierownik jednostki ustala w formie pisemnej i aktualizuje dokumentację, o której mowa w ust. 1.
 
-3. W sprawach nieuregulowanych przepisami ustawy, przyjmując zasady (politykę) rachunkowości, jednostki mogą stosować krajowe standardy rachunkowości wydane przez Komitet Standardów Rachunkowości. W przypadku braku odpowiedniego standardu krajowego, jednostki, inne niż wymienione w art. 2 ust. 3, mogą stosować MSR.
+3. W sprawach nieuregulowanych przepisami ustawy, przyjmując zasady (politykę) rachunkowości, jednostki mogą stosować krajowe standardy rachunkowości wydane przez Komitet Standardów Rachunkowości. W przypadku braku odpowiedniego standardu krajowego, jednostki, inne niż wymienione w [art. 2](#art-2) ust. 3, mogą stosować MSR.
 
+<a id="art-11"></a>
 ### Art. 11.
 
 1. Księgi rachunkowe są prowadzone przez jednostkę.
@@ -478,6 +672,7 @@ c) opisu systemu przetwarzania danych, a przy prowadzeniu ksiąg rachunkowych pr
 
 2) w przypadku jednostek sektora finansów publicznych – innej jednostce sektora finansów publicznych, na zasadach określonych w przepisach odrębnych.
 
+<a id="art-11a"></a>
 ### Art. 11a.
 
 W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub miejscem sprawowania zarządu, kierownik jednostki jest obowiązany:
@@ -486,6 +681,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 2) zapewnić dostępność ksiąg rachunkowych wraz z dowodami księgowymi uprawnionym organom zewnętrznej kontroli lub nadzoru w siedzibie jednostki lub w miejscu sprawowania zarządu albo w innym miejscu za zgodą organu kontroli lub nadzoru.
 
+<a id="art-12"></a>
 ### Art. 12.
 
 1. Księgi rachunkowe otwiera się, z zastrzeżeniem ust. 3:
@@ -534,8 +730,9 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 4. Ostateczne zamknięcie i otwarcie ksiąg rachunkowych jednostki kontynuującej działalność powinno nastąpić najpóźniej w ciągu 15 dni od dnia zatwierdzenia sprawozdania finansowego za rok obrotowy.
 
-5. Zamknięcie ksiąg rachunkowych polega na nieodwracalnym wyłączeniu możliwości dokonywania zapisów księgowych w zbiorach tworzących zamknięte księgi rachunkowe, z uwzględnieniem art. 13 ust. 2 i 3.
+5. Zamknięcie ksiąg rachunkowych polega na nieodwracalnym wyłączeniu możliwości dokonywania zapisów księgowych w zbiorach tworzących zamknięte księgi rachunkowe, z uwzględnieniem [art. 13](#art-13) ust. 2 i 3.
 
+<a id="art-13"></a>
 ### Art. 13.
 
 1. Księgi rachunkowe obejmują zbiory zapisów księgowych, obrotów (sum zapisów) i sald, które tworzą:
@@ -566,6 +763,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 6. Księgi rachunkowe należy wydrukować niepóźniej niż na koniec roku obrotowego. Za równoważne z wydrukiem uznaje się przeniesienie treści ksiąg rachunkowych na informatyczny nośnik danych, zapewniający trwałość zapisu informacji, przez czas niekrótszy od wymaganego dla przechowywania ksiąg rachunkowych.
 
+<a id="art-14"></a>
 ### Art. 14.
 
 1. Dziennik zawiera chronologiczne ujęcie zdarzeń, jakie nastąpiły w danym okresie sprawozdawczym. Bez względu na technikę prowadzenia ksiąg rachunkowych dziennik powinien umożliwiać uzgodnienie jego obrotów z obrotami zestawienia obrotów i sald kont księgi głównej.
@@ -576,12 +774,14 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 4. Przy prowadzeniu ksiąg rachunkowych przy użyciu komputera zapis księgowy powinien posiadać automatycznie nadany numer pozycji, pod którą został wprowadzony do dziennika, a także dane pozwalające na ustalenie osoby odpowiedzialnej za treść zapisu.
 
+<a id="art-15"></a>
 ### Art. 15.
 
 1. Konta księgi głównej zawierają zapisy o zdarzeniach w ujęciu systematycznym. Na kontach księgi głównej obowiązuje ujęcie zarejestrowanych uprzednio lub równocześnie w dzienniku zdarzeń, zgodnie z zasadą podwójnego zapisu.
 
 2. Zapisów na określonym koncie księgi głównej dokonuje się w kolejności chronologicznej.
 
+<a id="art-16"></a>
 ### Art. 16.
 
 1. Konta ksiąg pomocniczych zawierają zapisy będące uszczegółowieniem i uzupełnieniem zapisów kont księgi głównej. Prowadzi się je w ujęciu systematycznym jako wyodrębniony system ksiąg, kartotek (zbiorów kont), komputerowych zbiorów danych, uzgodniony z saldami i zapisami na kontach księgi głównej.
@@ -590,6 +790,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 3. (uchylony)
 
+<a id="art-17"></a>
 ### Art. 17.
 
 1. Konta ksiąg pomocniczych prowadzi się w szczególności dla:
@@ -618,6 +819,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 4) odpisywania w koszty wartości materiałów i towarów na dzień ich zakupu lub produktów gotowych w momencie ich wytworzenia, połączone z ustalaniem stanu tych składników aktywów i jego wyceny oraz korekty kosztów o wartość tego stanu, niepóźniej niż na dzień bilansowy.
 
+<a id="art-18"></a>
 ### Art. 18.
 
 1. Na podstawie zapisów na kontach księgi głównej sporządza się na koniec każdego okresu sprawozdawczego, nierzadziej niż na koniec miesiąca, zestawienie obrotów i sald, zawierające:
@@ -630,12 +832,14 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 2. Co najmniej na dzień zamknięcia ksiąg rachunkowych sporządza się zestawienia sald wszystkich kont ksiąg pomocniczych, a na dzień inwentaryzacji – zestawienia sald inwentaryzowanej grupy składników aktywów.
 
+<a id="art-19"></a>
 ### Art. 19.
 
 1. Wykaz składników aktywów i pasywów (inwentarz), potwierdzony ich inwentaryzacją, sporządzają jednostki, które uprzednio nie prowadziły ksiąg rachunkowych w sposób określony ustawą. W pozostałych jednostkach rolę inwentarza spełnia zestawienie obrotów i sald kont księgi głównej oraz zestawienia sald kont ksiąg pomocniczych sporządzone na dzień zamknięcia ksiąg rachunkowych.
 
 2. Pozycje inwentarza sporządzonego przez jednostki, które nie prowadziły uprzednio ksiąg rachunkowych, powinny stanowić odpowiedniki lub rozwinięcia poszczególnych pozycji bilansu otwarcia. Składniki aktywów i pasywów wycenia się w inwentarzu według zasad określonych w rozdziale 4.
 
+<a id="art-20"></a>
 ### Art. 20.
 
 1. Do ksiąg rachunkowych okresu sprawozdawczego należy wprowadzić, w postaci zapisu, każde zdarzenie, które nastąpiło w tym okresie sprawozdawczym.
@@ -670,6 +874,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 4) dane źródłowe w miejscu ich powstania są odpowiednio chronione, w sposób zapewniający ich niezmienność, przez okres wymagany do przechowywania danego rodzaju dowodów księgowych.
 
+<a id="art-21"></a>
 ### Art. 21.
 
 1. Dowód księgowy powinien zawierać co najmniej:
@@ -702,9 +907,10 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 5. Na żądanie organów kontroli lub biegłego rewidenta należy zapewnić wiarygodne przetłumaczenie na język polski treści wskazanych przez nich dowodów, sporządzonych w języku obcym.
 
+<a id="art-22"></a>
 ### Art. 22.
 
-1. Dowody księgowe powinny być rzetelne, to jest zgodne z rzeczywistym przebiegiem operacji gospodarczej, którą dokumentują, kompletne, zawierające co najmniej dane określone w art. 21, oraz wolne od błędów rachunkowych. Niedopuszczalne jest dokonywanie w dowodach księgowych wymazywania i przeróbek.
+1. Dowody księgowe powinny być rzetelne, to jest zgodne z rzeczywistym przebiegiem operacji gospodarczej, którą dokumentują, kompletne, zawierające co najmniej dane określone w [art. 21](#art-21), oraz wolne od błędów rachunkowych. Niedopuszczalne jest dokonywanie w dowodach księgowych wymazywania i przeróbek.
 
 2. Błędy w dowodach źródłowych zewnętrznych obcych i własnych można korygować jedynie przez wysłanie kontrahentowi odpowiedniego dokumentu zawierającego sprostowanie, wraz ze stosownym uzasadnieniem, chyba że inne przepisy stanowią inaczej.
 
@@ -712,6 +918,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 4. Jeżeli jedną operację dokumentuje więcej niż jeden dowód lub więcej niż jeden egzemplarz dowodu, kierownik jednostki ustala sposób postępowania z każdym z nich i wskazuje, który dowód lub jego egzemplarz będzie podstawą do dokonania zapisu.
 
+<a id="art-23"></a>
 ### Art. 23.
 
 1. Zapisów w księgach rachunkowych dokonuje się w sposób trwały, bez pozostawiania miejsc pozwalających na późniejsze dopiski lub zmiany. Przy prowadzeniu ksiąg rachunkowych przy użyciu komputera należy stosować właściwe procedury i środki chroniące przed zniszczeniem, modyfikacją lub ukryciem zapisu.
@@ -734,6 +941,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 5. Zapisy w księgach rachunkowych powinny być dokonane w sposób zapewniający ich trwałość, przez czas niekrótszy od wymaganego do przechowywania ksiąg rachunkowych.
 
+<a id="art-24"></a>
 ### Art. 24.
 
 1. Księgi rachunkowe powinny być prowadzone rzetelnie, bezbłędnie, sprawdzalnie i bieżąco.
@@ -760,6 +968,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 3) ujęcie wpłat i wypłat gotówką, czekami i wekslami obcymi oraz obrotu detalicznego i gastronomii następuje w tym samym dniu, w którym zostały dokonane.
 
+<a id="art-25"></a>
 ### Art. 25.
 
 1. Stwierdzone błędy w zapisach poprawia się:
@@ -770,8 +979,10 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 2. W razie ujawnienia błędów po zamknięciu miesiąca lub prowadzenia ksiąg rachunkowych przy użyciu komputera, dozwolone są tylko korekty dokonane w sposób określony w ust. 1 pkt 2.
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Inwentaryzacja
 
+<a id="art-26"></a>
 ### Art. 26.
 
 1. Jednostki przeprowadzają na ostatni dzień każdego roku obrotowego inwentaryzację:
@@ -786,7 +997,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 3. Termin i częstotliwość inwentaryzacji, określone w ust. 1, uważa się za dotrzymane, jeżeli inwentaryzację:
 
-1) składników aktywów – z wyłączeniem aktywów pieniężnych, papierów wartościowych, produktów w toku produkcji oraz materiałów, towarów i produktów gotowych, określonych w art. 17 ust. 2 pkt 4 – rozpoczęto niewcześniej niż 3 miesiące przed końcem roku obrotowego, a zakończono do 15 dnia następnego roku, ustalenie zaś stanu nastąpiło przez dopisanie lub odpisanie od stanu stwierdzonego drogą spisu z natury lub potwierdzenia salda – przychodów i rozchodów (zwiększeń i zmniejszeń), jakie nastąpiły między datą spisu lub potwierdzenia a dniem ustalenia stanu wynikającego z ksiąg rachunkowych, przy czym stan wynikający z ksiąg rachunkowych nie może być ustalony po dniu bilansowym;
+1) składników aktywów – z wyłączeniem aktywów pieniężnych, papierów wartościowych, produktów w toku produkcji oraz materiałów, towarów i produktów gotowych, określonych w [art. 17](#art-17) ust. 2 pkt 4 – rozpoczęto niewcześniej niż 3 miesiące przed końcem roku obrotowego, a zakończono do 15 dnia następnego roku, ustalenie zaś stanu nastąpiło przez dopisanie lub odpisanie od stanu stwierdzonego drogą spisu z natury lub potwierdzenia salda – przychodów i rozchodów (zwiększeń i zmniejszeń), jakie nastąpiły między datą spisu lub potwierdzenia a dniem ustalenia stanu wynikającego z ksiąg rachunkowych, przy czym stan wynikający z ksiąg rachunkowych nie może być ustalony po dniu bilansowym;
 
 2) zapasów materiałów, towarów, produktów gotowych i półproduktów znajdujących się w strzeżonych składowiskach i objętych ewidencją ilościowo-wartościową – przeprowadzono raz w ciągu 2 lat;
 
@@ -806,27 +1017,30 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 2) w przypadku połączenia lub podziału jednostek, z wyjątkiem spółek kapitałowych, jeżeli strony w drodze umowy pisemnej odstąpią od przeprowadzenia inwentaryzacji;
 
-3) w przypadku zawieszenia działalności, jeżeli zgodnie z art. 12 ust. 3b jednostka nie zamyka ksiąg rachunkowych.
+3) w przypadku zawieszenia działalności, jeżeli zgodnie z [art. 12](#art-12) ust. 3b jednostka nie zamyka ksiąg rachunkowych.
 
+<a id="art-27"></a>
 ### Art. 27.
 
 1. Przeprowadzenie i wyniki inwentaryzacji należy odpowiednio udokumentować i powiązać z zapisami ksiąg rachunkowych.
 
 2. Ujawnione w toku inwentaryzacji różnice między stanem rzeczywistym a stanem wykazanym w księgach rachunkowych należy wyjaśnić i rozliczyć w księgach rachunkowych tego roku obrotowego, na który przypadał termin inwentaryzacji.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Wycena aktywów i pasywów oraz ustalenie wyniku finansowego
 
+<a id="art-28"></a>
 ### Art. 28.
 
 1. Aktywa i pasywa wycenia się nierzadziej niż na dzień bilansowy w sposób następujący:
 
 1) środki trwałe oraz wartości niematerialne i prawne – według cen nabycia lub kosztów wytworzenia, lub wartości przeszacowanej (po aktualizacji wyceny środków trwałych), pomniejszonych o odpisy amortyzacyjne lub umorzeniowe, a także o odpisy z tytułu trwałej utraty wartości;
 
-1a) nieruchomości oraz wartości niematerialne i prawne zaliczane do inwestycji – według zasad, stosowanych do środków trwałych oraz wartości niematerialnych i prawnych, określonych w pkt 1 oraz w art. 31, art. 32 ust. 1–5 i art. 33 ust. 1 lub według ceny rynkowej bądź inaczej określonej wartości godziwej;
+1a) nieruchomości oraz wartości niematerialne i prawne zaliczane do inwestycji – według zasad, stosowanych do środków trwałych oraz wartości niematerialnych i prawnych, określonych w pkt 1 oraz w [art. 31](#art-31), [art. 32](#art-32) ust. 1–5 i [art. 33](#art-33) ust. 1 lub według ceny rynkowej bądź inaczej określonej wartości godziwej;
 
 2) środki trwałe w budowie – w wysokości ogółu kosztów pozostających w bezpośrednim związku z ich nabyciem lub wytworzeniem, pomniejszonych o odpisy z tytułu trwałej utraty wartości;
 
-3) udziały w innych jednostkach oraz inne niż wymienione w pkt 1a inwestycje zaliczone do aktywów trwałych – według ceny nabycia pomniejszonej o odpisy z tytułu trwałej utraty wartości lub według wartości godziwej albo skorygowanej ceny nabycia – jeżeli dla danego składnika aktywów został określony termin wymagalności; wartość w cenie nabycia można przeszacować do wartości w cenie rynkowej, a różnicę z przeszacowania rozliczyć zgodnie z art. 35 ust. 4;
+3) udziały w innych jednostkach oraz inne niż wymienione w pkt 1a inwestycje zaliczone do aktywów trwałych – według ceny nabycia pomniejszonej o odpisy z tytułu trwałej utraty wartości lub według wartości godziwej albo skorygowanej ceny nabycia – jeżeli dla danego składnika aktywów został określony termin wymagalności; wartość w cenie nabycia można przeszacować do wartości w cenie rynkowej, a różnicę z przeszacowania rozliczyć zgodnie z [art. 35](#art-35) ust. 4;
 
 4) udziały w jednostkach podporządkowanych zaliczone do aktywów trwałych – według zasad określonych w pkt 3 lub metodą praw własności, pod warunkiem, że będzie ona stosowana jednolicie wobec wszystkich jednostek podporządkowanych;
 
@@ -894,17 +1108,20 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 12. Przepis ust. 11 pkt 2 nie dotyczy banków.
 
+<a id="art-28a"></a>
 ### Art. 28a.
 
-18) Jednostka mikro sporządzająca sprawozdanie finansowe z zastosowaniem uproszczeń, o których mowa w art. 46 ust. 5 pkt 4, art. 47 ust. 4 pkt 4 lub art. 48 ust. 3, lub korzystająca ze zwolnienia ze sporządzenia sprawozdania z działalności zgodnie z art. 49 ust. 4, nie wycenia aktywów i pasywów według wartości godziwej i skorygowanej ceny nabycia. W takim przypadku jednostka ta nie stosuje przepisów wydanych na podstawie art. 81 ust. 2 pkt 4.
+18) Jednostka mikro sporządzająca sprawozdanie finansowe z zastosowaniem uproszczeń, o których mowa w [art. 46](#art-46) ust. 5 pkt 4, [art. 47](#art-47) ust. 4 pkt 4 lub [art. 48](#art-48) ust. 3, lub korzystająca ze zwolnienia ze sporządzenia sprawozdania z działalności zgodnie z [art. 49](#art-49) ust. 4, nie wycenia aktywów i pasywów według wartości godziwej i skorygowanej ceny nabycia. W takim przypadku jednostka ta nie stosuje przepisów wydanych na podstawie [art. 81](#art-81) ust. 2 pkt 4.
 
+<a id="art-28b"></a>
 ### Art. 28b.
 
-18) Jednostka mikro, inna niż określona w art. 28a, oraz jednostka mała mogą nie stosować przepisów wydanych na podstawie art. 81 ust. 2 pkt 4.
+18) Jednostka mikro, inna niż określona w [art. 28a](#art-28a), oraz jednostka mała mogą nie stosować przepisów wydanych na podstawie [art. 81](#art-81) ust. 2 pkt 4.
 
+<a id="art-29"></a>
 ### Art. 29.
 
-1. Jeżeli założenie kontynuacji działalności, o którym mowa w art. 5 ust. 2, nie jest zasadne, to wycena aktywów jednostki następuje po cenach sprzedaży netto możliwych do uzyskania, niewyższych od cen ich nabycia albo kosztów wytworzenia, pomniejszonych o dotychczasowe odpisy amortyzacyjne lub umorzeniowe, a także odpisy z tytułu trwałej utraty wartości. W takim przypadku jednostka jest również obowiązana utworzyć rezerwę na przewidywane dodatkowe koszty i straty spowodowane zaniechaniem lub utratą zdolności do kontynuowania działalności.
+1. Jeżeli założenie kontynuacji działalności, o którym mowa w [art. 5](#art-5) ust. 2, nie jest zasadne, to wycena aktywów jednostki następuje po cenach sprzedaży netto możliwych do uzyskania, niewyższych od cen ich nabycia albo kosztów wytworzenia, pomniejszonych o dotychczasowe odpisy amortyzacyjne lub umorzeniowe, a także odpisy z tytułu trwałej utraty wartości. W takim przypadku jednostka jest również obowiązana utworzyć rezerwę na przewidywane dodatkowe koszty i straty spowodowane zaniechaniem lub utratą zdolności do kontynuowania działalności.
 
 2. Wycena po cenach sprzedaży netto i utworzenie rezerwy następują w szczególności w przeddzień postawienia jednostki w stan likwidacji lub ogłoszenia upadłości, na koniec roku obrotowego, jeżeli na dzień zatwierdzenia sprawozdania finansowego za dany rok obrotowy jednostka nie będzie kontynuowała działalności, na koniec roku obrotowego przypadającego w czasie trwania postępowania likwidacyjnego lub upadłościowego, a także w przeddzień przekazania, podziału lub sprzedaży jednostki, jeżeli odpowiednia umowa nie przewiduje przyjęcia za podstawę rozliczeń wartości majątku ustalonej przy założeniu, że działalność gospodarcza będzie przez jednostkę kontynuowana.
 
@@ -912,6 +1129,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 3. Otwarcie postępowania restrukturyzacyjnego lub zmiana formy prawnej jednostki nie stanowią przeszkody do uznania, że działalność będzie kontynuowana.
 
+<a id="art-30"></a>
 ### Art. 30.
 
 1. Nierzadziej niż na dzień bilansowy wycenia się wyrażone w walutach obcych:
@@ -928,7 +1146,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 3. Jeżeli aktywa i pasywa są wyrażone w walutach, dla których Narodowy Bank Polski nie ogłasza kursu, to kurs tych walut określa się w relacji do wskazanej przez jednostkę waluty odniesienia, której kurs jest ogłaszany przez Narodowy Bank Polski.
 
-4. Różnice kursowe dotyczące inwestycji długoterminowych wyrażonych w walutach obcych, powstałe na dzień ich wyceny, rozlicza się w sposób określony w art. 35 ust. 2 i 4. Różnice kursowe, z zastrzeżeniem ust. 5–7, dotyczące pozostałych aktywów i pasywów wyrażonych w walutach obcych, powstałe na dzień ich wyceny oraz przy zapłacie należności i zobowiązań w walutach obcych, jak również sprzedaży walut, zalicza się odpowiednio do przychodów lub kosztów finansowych, a w uzasadnionych przypadkach – do kosztu wytworzenia produktów lub ceny nabycia towarów, a także ceny nabycia lub kosztu wytworzenia środków trwałych, środków trwałych w budowie lub wartości niematerialnych i prawnych.
+4. Różnice kursowe dotyczące inwestycji długoterminowych wyrażonych w walutach obcych, powstałe na dzień ich wyceny, rozlicza się w sposób określony w [art. 35](#art-35) ust. 2 i 4. Różnice kursowe, z zastrzeżeniem ust. 5–7, dotyczące pozostałych aktywów i pasywów wyrażonych w walutach obcych, powstałe na dzień ich wyceny oraz przy zapłacie należności i zobowiązań w walutach obcych, jak również sprzedaży walut, zalicza się odpowiednio do przychodów lub kosztów finansowych, a w uzasadnionych przypadkach – do kosztu wytworzenia produktów lub ceny nabycia towarów, a także ceny nabycia lub kosztu wytworzenia środków trwałych, środków trwałych w budowie lub wartości niematerialnych i prawnych.
 
 5. Powstałe na dzień wyceny różnice kursowe od inwestycji stanowiących pokrycie rezerw techniczno-ubezpieczeniowych, zakłady ubezpieczeń na życie oraz zakłady reasekuracji prowadzące działalność reasekuracyjną w zakresie reasekuracji ubezpieczeń na życie zaliczają do przychodów lub kosztów działalności lokacyjnej i wykazują w technicznym rachunku ubezpieczeń na życie.
 
@@ -936,6 +1154,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 7. Powstałe na dzień wyceny różnice kursowe od należności i zobowiązań z tytułu ubezpieczeń i reasekuracji zalicza się do pozostałych przychodów lub kosztów technicznych na udziale własnym.
 
+<a id="art-31"></a>
 ### Art. 31.
 
 1. Wartość początkową stanowiącą cenę nabycia lub koszt wytworzenia środka trwałego powiększają koszty jego ulepszenia, polegającego na przebudowie, rozbudowie, modernizacji lub rekonstrukcji i powodującego, że wartość użytkowa tego środka po zakończeniu ulepszenia przewyższa posiadaną przy przyjęciu do używania wartość użytkową, mierzoną okresem używania, zdolnością wytwórczą, jakością produktów uzyskiwanych przy pomocy ulepszonego środka trwałego, kosztami eksploatacji lub innymi miarami.
@@ -944,8 +1163,9 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 3. Wartość początkowa i dotychczas dokonane od środków trwałych odpisy amortyzacyjne lub umorzeniowe mogą, na podstawie odrębnych przepisów, ulegać aktualizacji wyceny. Ustalona w wyniku aktualizacji wyceny wartość księgowa netto środka trwałego nie powinna być wyższa od jego wartości godziwej, której odpisanie w przewidywanym okresie jego dalszego używania jest ekonomicznie uzasadnione.
 
-4. Powstałą na skutek aktualizacji wyceny różnicę wartości netto środków trwałych, o której mowa w ust. 3, odnosi się na kapitał (fundusz) z aktualizacji wyceny i nie może ona być przeznaczona do podziału. Kapitał (fundusz) z aktualizacji wyceny podlega, z zastrzeżeniem art. 32 ust. 5, zmniejszeniu o różnicę z aktualizacji wyceny uprzednio zaktualizowanych zbywanych lub zlikwidowanych środków trwałych. Różnica ta wpływa na kapitał (fundusz) zapasowy lub inny o podobnym charakterze, o ile odrębne przepisy nie stanowią inaczej.
+4. Powstałą na skutek aktualizacji wyceny różnicę wartości netto środków trwałych, o której mowa w ust. 3, odnosi się na kapitał (fundusz) z aktualizacji wyceny i nie może ona być przeznaczona do podziału. Kapitał (fundusz) z aktualizacji wyceny podlega, z zastrzeżeniem [art. 32](#art-32) ust. 5, zmniejszeniu o różnicę z aktualizacji wyceny uprzednio zaktualizowanych zbywanych lub zlikwidowanych środków trwałych. Różnica ta wpływa na kapitał (fundusz) zapasowy lub inny o podobnym charakterze, o ile odrębne przepisy nie stanowią inaczej.
 
+<a id="art-32"></a>
 ### Art. 32.
 
 1. Odpisów amortyzacyjnych lub umorzeniowych od środka trwałego dokonuje się drogą systematycznego, planowego rozłożenia jego wartości początkowej na ustalony okres amortyzacji. Rozpoczęcie amortyzacji następuje niewcześniej niż po przyjęciu środka trwałego do używania, a jej zakończenie – niepóźniej niż z chwilą zrównania wartości odpisów amortyzacyjnych lub umorzeniowych z wartością początkową środka trwałego lub przeznaczenia go do likwidacji, sprzedaży lub stwierdzenia jego niedoboru, z ewentualnym uwzględnieniem przewidywanej przy likwidacji ceny sprzedaży netto pozostałości środka trwałego.
@@ -982,9 +1202,10 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 4) spółek jawnych i spółek komandytowych, których wszystkimi wspólnikami ponoszącymi nieograniczoną odpowiedzialność są spółki kapitałowe, spółki komandytowo-akcyjne lub spółki z innych państw o podobnej do tych spółek formie prawnej.
 
+<a id="art-33"></a>
 ### Art. 33.
 
-1. Do wyceny wartości niematerialnych i prawnych oraz sposobów dokonywania od nich odpisów amortyzacyjnych lub umorzeniowych stosuje się odpowiednio przepisy art. 31 ust. 2 i art. 32 ust. 1–4 i 6–8.
+1. Do wyceny wartości niematerialnych i prawnych oraz sposobów dokonywania od nich odpisów amortyzacyjnych lub umorzeniowych stosuje się odpowiednio przepisy [art. 31](#art-31) ust. 2 i [art. 32](#art-32) ust. 1–4 i 6–8.
 
 2. Koszty zakończonych prac rozwojowych prowadzonych przez jednostkę na własne potrzeby, poniesione przed podjęciem produkcji lub zastosowaniem technologii, zalicza się do wartości niematerialnych i prawnych, jeżeli:
 
@@ -996,8 +1217,9 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 3. Koszty, o których mowa w ust. 2, odpisuje się przez okres ekonomicznej użyteczności rezultatów prac rozwojowych. Jeżeli w wyjątkowych przypadkach nie można wiarygodnie oszacować okresu ekonomicznej użyteczności rezultatów zakończonych prac rozwojowych, to okres dokonywania odpisów nie może przekraczać 5 lat.
 
-4. Wartość firmy stanowi różnicę między ceną nabycia określonej jednostki lub zorganizowanej jej części a niższą od niej wartością godziwą przejętych aktywów netto. Jeżeli cena nabycia jednostki lub zorganizowanej jej części jest niższa od wartości godziwej przejętych aktywów netto, to różnica stanowi ujemną wartość firmy. Zasady rozliczania i odpisywania wartości firmy lub ujemnej wartości firmy określa art. 44b ust. 10–12.
+4. Wartość firmy stanowi różnicę między ceną nabycia określonej jednostki lub zorganizowanej jej części a niższą od niej wartością godziwą przejętych aktywów netto. Jeżeli cena nabycia jednostki lub zorganizowanej jej części jest niższa od wartości godziwej przejętych aktywów netto, to różnica stanowi ujemną wartość firmy. Zasady rozliczania i odpisywania wartości firmy lub ujemnej wartości firmy określa [art. 44b](#art-44b) ust. 10–12.
 
+<a id="art-34"></a>
 ### Art. 34.
 
 1. Jednostki mogą wyceniać:
@@ -1006,7 +1228,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 2) produkty w toku produkcji – w wysokości bezpośrednich kosztów wytworzenia lub tylko materiałów bezpośrednich bądź nie wyceniać ich w ogóle – jeżeli nie zniekształca to stanu aktywów oraz wyniku finansowego jednostki. Zasady, o których mowa w pkt 2, nie mogą być stosowane do produkcji o przewidywanym czasie wykonania dłuższym niż 3 miesiące, przeznaczonej do sprzedaży lub na rzecz środków trwałych w budowie jednostki. Nie dotyczy to jednak produkcji rolnej.
 
-2. Składniki rzeczowych aktywów obrotowych mogą być na dzień nabycia lub wytworzenia ujmowane w księgach rachunkowych w cenach przyjętych do ewidencji, z uwzględnieniem różnic między tymi cenami a rzeczywistymi cenami ich nabycia albo zakupu, albo kosztami wytworzenia. Na dzień bilansowy wartość składników rzeczowych aktywów obrotowych, wyrażoną w cenach ewidencyjnych, doprowadza się do poziomu określonego w ust. 1 lub w art. 28 ust. 1 pkt 6. Nie dotyczy to produktów gotowych, produktów w toku i półproduktów, jeżeli do ich ewidencji stosuje się koszty planowane, w tym normatywne, różnice zaś między planowanymi a rzeczywistymi kosztami wytworzenia są nieznaczne. Stosowane do wyceny na dzień bilansowy ceny nabycia albo zakupu, albo planowane koszty wytworzenia nie mogą być wyższe od cen sprzedaży netto tych składników.
+2. Składniki rzeczowych aktywów obrotowych mogą być na dzień nabycia lub wytworzenia ujmowane w księgach rachunkowych w cenach przyjętych do ewidencji, z uwzględnieniem różnic między tymi cenami a rzeczywistymi cenami ich nabycia albo zakupu, albo kosztami wytworzenia. Na dzień bilansowy wartość składników rzeczowych aktywów obrotowych, wyrażoną w cenach ewidencyjnych, doprowadza się do poziomu określonego w ust. 1 lub w [art. 28](#art-28) ust. 1 pkt 6. Nie dotyczy to produktów gotowych, produktów w toku i półproduktów, jeżeli do ich ewidencji stosuje się koszty planowane, w tym normatywne, różnice zaś między planowanymi a rzeczywistymi kosztami wytworzenia są nieznaczne. Stosowane do wyceny na dzień bilansowy ceny nabycia albo zakupu, albo planowane koszty wytworzenia nie mogą być wyższe od cen sprzedaży netto tych składników.
 
 3. Wytworzone przez jednostkę filmy, oprogramowanie komputerów, projekty typowe i inne produkty o podobnym charakterze, przeznaczone do sprzedaży, wycenia się w okresie przynoszenia przez nie korzyści ekonomicznych, niedłuższym niż 5 lat, w wysokości nadwyżki kosztów ich wytworzenia nad przychodami według cen sprzedaży netto, uzyskanymi ze sprzedaży tych produktów w ciągu tego okresu. Nieodpisane po upływie tego okresu koszty wytworzenia zwiększają pozostałe koszty operacyjne.
 
@@ -1022,6 +1244,7 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 5. Odpisy aktualizujące wartość rzeczowych składników aktywów obrotowych dokonane w związku z utratą ich wartości oraz wynikające z wyceny według cen sprzedaży netto zamiast według cen nabycia, albo zakupu, albo kosztów wytworzenia – zalicza się do pozostałych kosztów operacyjnych.
 
+<a id="art-34a"></a>
 ### Art. 34a.
 
 1. Przychody z wykonania niezakończonej usługi, w tym budowlanej, objętej umową, w okresie realizacji dłuższym niż 6 miesięcy, wykonanej na dzień bilansowy w istotnym stopniu, ustala się, na dzień bilansowy proporcjonalnie do stopnia zaawansowania usługi, jeżeli stopień ten, jak również przewidywane całkowite koszty wykonania usługi za cały czas jej realizacji, można ustalić w sposób wiarygodny.
@@ -1046,33 +1269,37 @@ W przypadku gdy księgi rachunkowe są prowadzone poza siedzibą jednostki lub m
 
 5. Bez względu na zastosowany sposób ustalania przychodów na wynik finansowy jednostki wpływają przewidywane straty związane z wykonaniem usługi objętej umową.
 
+<a id="art-34b"></a>
 ### Art. 34b.
 
 1. Koszty wytworzenia, które można bezpośrednio przyporządkować przychodom osiągniętym przez jednostkę, wpływają na wynik finansowy jednostki za ten okres sprawozdawczy, w którym przychody te wystąpiły.
 
 2. Koszty wytworzenia, które można jedynie w sposób pośredni przyporządkować przychodom lub innym korzyściom osiąganym przez jednostkę, wpływają na wynik finansowy jednostki w części, w której dotyczą danego okresu sprawozdawczego, zapewniając ich współmierność do przychodów lub innych korzyści ekonomicznych.
 
+<a id="art-34c"></a>
 ### Art. 34c.
 
 1. Koszty wytworzenia niezakończonej usługi, w tym budowlanej, obejmują koszty poniesione od dnia zawarcia odpowiedniej umowy do dnia bilansowego. Koszty poniesione przed zawarciem umowy, związane z realizacją jej przedmiotu, zaliczane są do aktywów, jeżeli pokrycie w przyszłości tych kosztów przychodami uzyskanymi od zamawiającego jest prawdopodobne.
 
-2. Jeżeli przychody są ustalane odpowiednio do stopnia zaawansowania niezakończonej usługi w inny sposób niż określony w art. 34a ust. 2 pkt 1, to koszty wpływające na wynik finansowy jednostki ustala się w takiej części całkowitych kosztów umowy, jaka odpowiada stopniowi zaawansowania usługi, po odliczeniu kosztów, które wpłynęły na wynik finansowy w ubiegłych okresach sprawozdawczych, po uwzględnieniu straty, o której mowa w art. 34a ust. 5. Różnicę pomiędzy kosztami faktycznie poniesionymi a kosztami wpływającymi na wynik finansowy jednostki zalicza się do rozliczeń międzyokresowych.
+2. Jeżeli przychody są ustalane odpowiednio do stopnia zaawansowania niezakończonej usługi w inny sposób niż określony w [art. 34a](#art-34a) ust. 2 pkt 1, to koszty wpływające na wynik finansowy jednostki ustala się w takiej części całkowitych kosztów umowy, jaka odpowiada stopniowi zaawansowania usługi, po odliczeniu kosztów, które wpłynęły na wynik finansowy w ubiegłych okresach sprawozdawczych, po uwzględnieniu straty, o której mowa w [art. 34a](#art-34a) ust. 5. Różnicę pomiędzy kosztami faktycznie poniesionymi a kosztami wpływającymi na wynik finansowy jednostki zalicza się do rozliczeń międzyokresowych.
 
 3. Poprawność przyjętych metod ustalania stopnia zaawansowania usługi, a także przewidywanych całkowitych kosztów i przychodów z wykonania usługi, powinna być przez jednostkę, niepóźniej niż na dzień bilansowy, zweryfikowana. Spowodowane weryfikacją korekty wpływają na wynik finansowy jednostki tego okresu sprawozdawczego, w którym przeprowadzono weryfikację.
 
+<a id="art-34d"></a>
 ### Art. 34d.
 
-Przepisów art. 34a i 34c można nie stosować, jeżeli udział przychodów z niezakończonych usług na dzień bilansowy nie jest istotny w całości przychodów operacyjnych okresu sprawozdawczego.
+Przepisów [art. 34a](#art-34a) i 34c można nie stosować, jeżeli udział przychodów z niezakończonych usług na dzień bilansowy nie jest istotny w całości przychodów operacyjnych okresu sprawozdawczego.
 
+<a id="art-35"></a>
 ### Art. 35.
 
 1. Nabyte lub powstałe aktywa finansowe oraz inne inwestycje ujmuje się w księgach rachunkowych na dzień ich nabycia albo powstania, według ceny nabycia albo ceny zakupu, jeżeli koszty przeprowadzenia i rozliczenia transakcji nie są istotne.
 
 2. Odpisu wyrażającego trwałą utratę wartości inwestycji zaliczonych do aktywów trwałych dokonuje się niepóźniej niż na koniec okresu sprawozdawczego.
 
-3. Skutki wzrostu lub obniżenia wartości inwestycji krótkoterminowych wycenionych według cen (wartości) rynkowych zalicza się odpowiednio do przychodów lub kosztów finansowych. W przypadku stosowania innych, niż określone w art. 28 ust. 1 pkt 5 zasad wyceny krótkoterminowych inwestycji, skutki obniżenia ich wartości zalicza się do kosztów finansowych w pełnej wysokości, natomiast skutki wzrostu ich wartości zalicza się do przychodów finansowych w wysokości niewyższej niż kwota różnic uprzednio odpisanych w koszty finansowe.
+3. Skutki wzrostu lub obniżenia wartości inwestycji krótkoterminowych wycenionych według cen (wartości) rynkowych zalicza się odpowiednio do przychodów lub kosztów finansowych. W przypadku stosowania innych, niż określone w [art. 28](#art-28) ust. 1 pkt 5 zasad wyceny krótkoterminowych inwestycji, skutki obniżenia ich wartości zalicza się do kosztów finansowych w pełnej wysokości, natomiast skutki wzrostu ich wartości zalicza się do przychodów finansowych w wysokości niewyższej niż kwota różnic uprzednio odpisanych w koszty finansowe.
 
-4. Skutki przeszacowania inwestycji zaliczonych do aktywów trwałych innych niż wymienione w art. 28 ust. 1 pkt 1a, powodujące wzrost ich wartości do poziomu cen rynkowych, zwiększają kapitał (fundusz) z aktualizacji wyceny. Obniżenie wartości inwestycji uprzednio przeszacowanej do wysokości kwoty, o którą podwyższono z tego tytułu kapitał (fundusz) z aktualizacji wyceny, jeżeli kwota różnicy z przeszacowania nie była do dnia wyceny rozliczona, zmniejsza ten kapitał (fundusz). W pozostałych przypadkach skutki obniżenia wartości inwestycji zalicza się do kosztów finansowych. Wzrost wartości danej inwestycji bezpośrednio wiążący się z uprzednim obniżeniem jej wartości, zaliczonym do kosztów finansowych, ujmuje się do wysokości tych kosztów jako przychody finansowe.
+4. Skutki przeszacowania inwestycji zaliczonych do aktywów trwałych innych niż wymienione w [art. 28](#art-28) ust. 1 pkt 1a, powodujące wzrost ich wartości do poziomu cen rynkowych, zwiększają kapitał (fundusz) z aktualizacji wyceny. Obniżenie wartości inwestycji uprzednio przeszacowanej do wysokości kwoty, o którą podwyższono z tego tytułu kapitał (fundusz) z aktualizacji wyceny, jeżeli kwota różnicy z przeszacowania nie była do dnia wyceny rozliczona, zmniejsza ten kapitał (fundusz). W pozostałych przypadkach skutki obniżenia wartości inwestycji zalicza się do kosztów finansowych. Wzrost wartości danej inwestycji bezpośrednio wiążący się z uprzednim obniżeniem jej wartości, zaliczonym do kosztów finansowych, ujmuje się do wysokości tych kosztów jako przychody finansowe.
 
 5. Jeżeli wartość zbytej inwestycji zaliczonej do aktywów trwałych była uprzednio przeszacowana albo wyceniana w cenie (wartości) rynkowej, lub w cenie nabycia, w zależności od tego, która z nich była niższa, zaś skutki takiej wyceny ujęto w sposób określony w ust. 4, to nadwyżkę z tytułu przeszacowania ustala się i rozlicza z kapitałem (funduszem) z aktualizacji wyceny.
 
@@ -1084,8 +1311,9 @@ Przepisów art. 34a i 34c można nie stosować, jeżeli udział przychodów z ni
 
 7. Inwestycje krótkoterminowe na dzień ich przekwalifikowania do inwestycji długoterminowych wycenia się według zasad określonych w ust. 6, z tym że jeżeli inwestycja krótkoterminowa była wyceniona w wartości rynkowej, to pomimo jej przekwalifikowania wycena pozostaje bez zmiany.
 
-8. Jeżeli ceny nabycia jednakowych albo uznanych za jednakowe, ze względu na podobieństwo rodzaju i przeznaczenie, składników inwestycji są różne, to ich rozchód wycenia się według metody wybranej przez jednostkę spośród metod, o których mowa w art. 34 ust. 4 pkt 1–3.
+8. Jeżeli ceny nabycia jednakowych albo uznanych za jednakowe, ze względu na podobieństwo rodzaju i przeznaczenie, składników inwestycji są różne, to ich rozchód wycenia się według metody wybranej przez jednostkę spośród metod, o których mowa w [art. 34](#art-34) ust. 4 pkt 1–3.
 
+<a id="art-35a"></a>
 ### Art. 35a.
 
 1. Na dzień zawarcia kontraktu emitent lub wystawca instrumentu finansowego wprowadza do ksiąg rachunkowych wyemitowany lub wystawiony przez siebie instrument, a także składniki tego instrumentu, odpowiednio zakwalifikowane do kapitałów (funduszy) własnych jako instrumenty kapitałowe bądź do zobowiązań krótkoterminowych lub długoterminowych również wtedy, gdy składnik mający charakter zobowiązania nie jest zobowiązaniem finansowym.
@@ -1102,6 +1330,7 @@ Przepisów art. 34a i 34c można nie stosować, jeżeli udział przychodów z ni
 
 4. Jeżeli warunki, o których mowa w ust. 3, zostały spełnione, to przy wycenie zabezpieczanych aktywów lub pasywów uwzględnia się wartość nabytych dla ich zabezpieczenia instrumentów finansowych oraz zmiany ich wartości.
 
+<a id="art-35b"></a>
 ### Art. 35b.
 
 1. Wartość należności aktualizuje się uwzględniając stopień prawdopodobieństwa ich zapłaty poprzez dokonanie odpisu aktualizującego, w odniesieniu do:
@@ -1122,10 +1351,12 @@ Przepisów art. 34a i 34c można nie stosować, jeżeli udział przychodów z ni
 
 4. Należności, o których mowa w ust. 3, od których nie dokonano odpisów aktualizujących ich wartość lub dokonano odpisów w niepełnej wysokości, zalicza się odpowiednio do pozostałych kosztów operacyjnych lub kosztów finansowych.
 
+<a id="art-35c"></a>
 ### Art. 35c.
 
 W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wartość aktywów, w tym również odpisu z tytułu trwałej utraty wartości, równowartość całości lub odpowiedniej części uprzednio dokonanego odpisu aktualizującego zwiększa wartość danego składnika aktywów i podlega zaliczeniu odpowiednio do pozostałych przychodów operacyjnych lub przychodów finansowych.
 
+<a id="art-35d"></a>
 ### Art. 35d.
 
 1. Rezerwy tworzy się na:
@@ -1140,6 +1371,7 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 4. Niewykorzystane rezerwy, wobec zmniejszenia lub ustania ryzyka uzasadniającego ich utworzenie, zwiększają na dzień, na który okazały się zbędne, odpowiednio pozostałe przychody operacyjne, przychody finansowe lub zyski nadzwyczajne.
 
+<a id="art-36"></a>
 ### Art. 36.
 
 1. Kapitały (fundusze) własne ujmuje się w księgach rachunkowych z podziałem na ich rodzaje i według zasad określonych przepisami prawa, postanowieniami statutu lub umowy o utworzeniu jednostki.
@@ -1152,7 +1384,7 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 2b. Koszty emisji akcji poniesione przy powstaniu spółki akcyjnej lub podwyższeniu kapitału zakładowego zmniejszają kapitał zapasowy spółki do wysokości nadwyżki wartości emisji nad wartością nominalną akcji, a pozostałą ich część zalicza się do kosztów finansowych.
 
-2c. Kapitały (fundusze) własne powstałe z zamiany dłużnych papierów wartościowych, zobowiązań i pożyczek na udziały wykazuje się w wartości nominalnej tych papierów wartościowych, zobowiązań i pożyczek, po uwzględnieniu niezamortyzowanego dyskonta lub premii, odsetek naliczonych i niezapłaconych do dnia zamiany, które nie będą wypłacone, niezrealizowanych różnic kursowych oraz skapitalizowanych kosztów emisji. Jeżeli dłużne papiery wartościowe, zobowiązania i pożyczki są wyrażone w walucie obcej, to na dzień zamiany stosuje się do nich przepisy art. 30.
+2c. Kapitały (fundusze) własne powstałe z zamiany dłużnych papierów wartościowych, zobowiązań i pożyczek na udziały wykazuje się w wartości nominalnej tych papierów wartościowych, zobowiązań i pożyczek, po uwzględnieniu niezamortyzowanego dyskonta lub premii, odsetek naliczonych i niezapłaconych do dnia zamiany, które nie będą wypłacone, niezrealizowanych różnic kursowych oraz skapitalizowanych kosztów emisji. Jeżeli dłużne papiery wartościowe, zobowiązania i pożyczki są wyrażone w walucie obcej, to na dzień zamiany stosuje się do nich przepisy [art. 30](#art-30).
 
 2d. Do zobowiązań bezwarunkowo umorzonych w wyniku postępowania restrukturyzacyjnego przepis ust. 2c stosuje się odpowiednio.
 
@@ -1168,6 +1400,7 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 4. Przepis ust. 3 może być odpowiednio stosowany przez jednostki objęte postępowaniem restrukturyzacyjnym.
 
+<a id="art-36a"></a>
 ### Art. 36a.
 
 1. W razie zbycia akcji własnych, dodatnią różnicę między ceną sprzedaży, pomniejszoną o koszty sprzedaży, a ich ceną nabycia, należy odnieść na kapitał zapasowy. Ujemną różnicę należy ująć jako zmniejszenie kapitału zapasowego, a pozostałą część ujemnej różnicy, przewyższającą kapitał zapasowy, jako stratę z lat ubiegłych i opisać w informacji dodatkowej w sprawozdaniu finansowym za rok, w którym nastąpiła sprzedaż.
@@ -1178,6 +1411,7 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 3. Przepisy ust. 1 i 2 stosuje się do udziałów własnych spółki z ograniczoną odpowiedzialnością, z wyjątkiem umorzenia udziałów bez obniżenia kapitału zakładowego. W przypadku umorzenia udziałów własnych nabytych w drodze egzekucji, bez obniżenia kapitału zakładowego, wartość udziałów własnych według ceny nabycia należy ująć jako zmniejszenie kapitału rezerwowego utworzonego w celu ich umorzenia.
 
+<a id="art-37"></a>
 ### Art. 37.
 
 1. W związku z przejściowymi różnicami między wykazywaną w księgach rachunkowych wartością aktywów i pasywów a ich wartością podatkową oraz stratą podatkową możliwą do odliczenia w przyszłości, jednostka tworzy rezerwę i ustala aktywa z tytułu odroczonego podatku dochodowego, którego jest podatnikiem.
@@ -1208,6 +1442,7 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 12.[22)] Jednostka nie tworzy rezerw i nie ustala aktywów z tytułu odroczonego podatku dochodowego związanych z globalnym podatkiem wyrównawczym, krajowym podatkiem wyrównawczym i podatkiem wyrównawczym od niedostatecznie opodatkowanych zysków, o których mowa w ustawie z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (Dz. U. poz. 1685 oraz z 2026 r. poz. 347).
 
+<a id="art-38"></a>
 ### Art. 38.
 
 1. Zakłady ubezpieczeń zaliczają do kosztów operacyjnych zmiany stanu rezerw techniczno-ubezpieczeniowych, które powinny zapewnić pełne pokrycie bieżących i przyszłych zobowiązań, jakie mogą wynikać z umów ubezpieczenia i umów reasekuracji.
@@ -1216,6 +1451,7 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 2. Rezerwy techniczno-ubezpieczeniowe, z wyjątkiem rezerw na wyrównanie szkodowości, ustala się niepóźniej niż na dzień bilansowy. Rezerwę na wyrównanie szkodowości ustala się niepóźniej niż na dzień kończący rok obrotowy.
 
+<a id="art-39"></a>
 ### Art. 39.
 
 1. Jednostki dokonują czynnych rozliczeń międzyokresowych kosztów, jeżeli dotyczą one przyszłych okresów sprawozdawczych.
@@ -1246,10 +1482,12 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 4) spółek jawnych i spółek komandytowych, których wszystkimi wspólnikami ponoszącymi nieograniczoną odpowiedzialność są spółki kapitałowe, spółki komandytowo-akcyjne lub spółki z innych państw o podobnej do tych spółek formie prawnej.
 
+<a id="art-40"></a>
 ### Art. 40.
 
 (uchylony)
 
+<a id="art-41"></a>
 ### Art. 41.
 
 1. Rozliczenia międzyokresowe przychodów, dokonywane z zachowaniem zasady ostrożności, obejmują w szczególności:
@@ -1258,12 +1496,13 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 2) środki pieniężne otrzymane na sfinansowanie nabycia lub wytworzenia środków trwałych, w tym także środków trwałych w budowie oraz prac rozwojowych, jeżeli stosownie do innych ustaw nie zwiększają one kapitałów (funduszy) własnych. Zaliczone do rozliczeń międzyokresowych przychodów kwoty zwiększają stopniowo pozostałe przychody operacyjne, równolegle do odpisów amortyzacyjnych lub umorzeniowych od środków trwałych lub kosztów prac rozwojowych sfinansowanych z tych źródeł;
 
-3) ujemną wartość firmy, o której mowa w art. 33 ust. 4 i art. 44b ust. 11.
+3) ujemną wartość firmy, o której mowa w [art. 33](#art-33) ust. 4 i [art. 44b](#art-44b) ust. 11.
 
 2. Przepis ust. 1 pkt 2 stosuje się odpowiednio do przyjętych nieodpłatnie, w tym także w drodze darowizny, środków trwałych w budowie, środków trwałych oraz wartości niematerialnych i prawnych.
 
 3. (uchylony)
 
+<a id="art-42"></a>
 ### Art. 42.
 
 1. W jednostkach innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji na wynik finansowy netto składają się:
@@ -1278,10 +1517,11 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 2.[24)] Wynik działalności operacyjnej stanowi różnicę między przychodami netto ze sprzedaży produktów i towarów oraz pozostałymi przychodami operacyjnymi a wartością sprzedanych produktów i towarów wycenionych w kosztach wytworzenia albo cenach nabycia, albo zakupu, powiększoną o całość poniesionych od początku roku obrotowego kosztów ogólnych zarządu, sprzedaży produktów i towarów oraz pozostałych kosztów operacyjnych.
 
-3. Wynik operacji finansowych stanowi różnicę między przychodami finansowymi, w szczególności z tytułu dywidend (udziałów w zyskach), odsetek, zysków ze zbycia oraz aktualizacji wartości inwestycji innych niż wymienione w art. 28 ust. 1 pkt 1a, nadwyżki dodatnich różnic kursowych nad ujemnymi, a kosztami finansowymi, w szczególności z tytułu odsetek, strat ze zbycia oraz aktualizacji wartości inwestycji innych niż wymienione w art. 28 ust. 1 pkt 1a, nadwyżki ujemnych różnic kursowych nad dodatnimi, z wyjątkiem odsetek, prowizji, dodatnich i ujemnych różnic kursowych, o których mowa w art. 28 ust. 4 i ust. 8 pkt 2.
+3. Wynik operacji finansowych stanowi różnicę między przychodami finansowymi, w szczególności z tytułu dywidend (udziałów w zyskach), odsetek, zysków ze zbycia oraz aktualizacji wartości inwestycji innych niż wymienione w [art. 28](#art-28) ust. 1 pkt 1a, nadwyżki dodatnich różnic kursowych nad ujemnymi, a kosztami finansowymi, w szczególności z tytułu odsetek, strat ze zbycia oraz aktualizacji wartości inwestycji innych niż wymienione w [art. 28](#art-28) ust. 1 pkt 1a, nadwyżki ujemnych różnic kursowych nad dodatnimi, z wyjątkiem odsetek, prowizji, dodatnich i ujemnych różnic kursowych, o których mowa w [art. 28](#art-28) ust. 4 i ust. 8 pkt 2.
 
 4. (uchylony)
 
+<a id="art-43"></a>
 ### Art. 43.
 
 1. W bankach na wynik finansowy netto składają się:
@@ -1298,6 +1538,7 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 4. Wynik operacji nadzwyczajnych stanowi różnicę między zyskami nadzwyczajnymi a stratami nadzwyczajnymi.
 
+<a id="art-44"></a>
 ### Art. 44.
 
 1. W zakładach ubezpieczeń i zakładach reasekuracji na wynik finansowy netto składają się:
@@ -1326,18 +1567,21 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 3) przychodami a kosztami z tytułu pełnienia czynności komisarza awaryjnego.
 
-4. Do wyniku operacji nadzwyczajnych stosuje się przepis art. 43 ust. 4.
+4. Do wyniku operacji nadzwyczajnych stosuje się przepis [art. 43](#art-43) ust. 4.
 
+<a id="rozdzial-4a"></a>
 ### Rozdział 4a. Łączenie się spółek
 
+<a id="art-44a"></a>
 ### Art. 44a.
 
-1. Łączenie się spółek handlowych, zwanych dalej „spółkami”, rozlicza się i ujmuje na dzień połączenia w księgach rachunkowych spółki, na którą przechodzi majątek łączących się spółek (spółki przejmującej) albo nowej spółki powstałej w wyniku połączenia (spółki nowo zawiązanej) – metodą nabycia, o której mowa w art. 44b, z zastrzeżeniem ust. 2.
+1. Łączenie się spółek handlowych, zwanych dalej „spółkami”, rozlicza się i ujmuje na dzień połączenia w księgach rachunkowych spółki, na którą przechodzi majątek łączących się spółek (spółki przejmującej) albo nowej spółki powstałej w wyniku połączenia (spółki nowo zawiązanej) – metodą nabycia, o której mowa w [art. 44b](#art-44b), z zastrzeżeniem ust. 2.
 
-2. W razie łączenia się spółek, na skutek którego nie następuje utrata kontroli nad nimi przez ich dotychczasowych udziałowców, można zastosować metodę łączenia udziałów, o której mowa w art. 44c; w szczególności dotyczy to łączenia się spółek zależnych w sposób bezpośredni lub pośredni od tej samej jednostki dominującej, jak również w razie połączenia jednostki dominującej niższego szczebla z jej jednostką zależną.
+2. W razie łączenia się spółek, na skutek którego nie następuje utrata kontroli nad nimi przez ich dotychczasowych udziałowców, można zastosować metodę łączenia udziałów, o której mowa w [art. 44c](#art-44c); w szczególności dotyczy to łączenia się spółek zależnych w sposób bezpośredni lub pośredni od tej samej jednostki dominującej, jak również w razie połączenia jednostki dominującej niższego szczebla z jej jednostką zależną.
 
 3. Za dzień połączenia spółek przyjmuje się dzień wpisania połączenia do rejestru właściwego dla siedziby odpowiednio spółki przejmującej albo spółki nowo zawiązanej.
 
+<a id="art-44b"></a>
 ### Art. 44b.
 
 1. Rozliczenie połączenia metodą nabycia polega na sumowaniu poszczególnych pozycji aktywów i pasywów spółki przejmującej, według ich wartości księgowej, z odpowiednimi pozycjami aktywów i pasywów spółki przejętej, według ich wartości godziwej ustalonej na dzień ich połączenia.
@@ -1402,6 +1646,7 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 16. Sprawozdanie finansowe sporządzone na koniec okresu sprawozdawczego, w ciągu którego nastąpiło połączenie, powinno zawierać dane porównawcze za poprzedni rok obrotowy. Dane porównawcze za poprzedni rok obrotowy stanowią dane ze sprawozdania finansowego spółki przejmującej.
 
+<a id="art-44c"></a>
 ### Art. 44c.
 
 1. Łączenie metodą łączenia udziałów polega na sumowaniu poszczególnych pozycji odpowiednich aktywów i pasywów oraz przychodów i kosztów połączonych spółek, według stanu na dzień połączenia, po uprzednim doprowadzeniu ich wartości do jednolitych metod wyceny i dokonaniu wyłączeń, o których mowa w ust. 2 i 3.
@@ -1424,15 +1669,18 @@ W przypadku ustania przyczyny, dla której dokonano odpisu aktualizującego wart
 
 6. Sprawozdanie finansowe spółki, na którą przechodzi majątek połączonych spółek lub nowo powstałej spółki, sporządzone na koniec okresu sprawozdawczego, w ciągu którego nastąpiło połączenie, zawiera dane porównawcze za poprzedni rok obrotowy, określone w taki sposób, jakby połączenie miało miejsce na początek poprzedniego roku obrotowego, z tym że poszczególne składniki kapitałów własnych na koniec poprzedniego roku powinny zostać wykazane jako suma poszczególnych składników kapitałów własnych.
 
+<a id="art-44d"></a>
 ### Art. 44d.
 
-Przepisy art. 44a–44c stosuje się odpowiednio w przypadku nabycia przez jednostkę zorganizowanej części innej jednostki, w tym również w razie podziału spółek.
+Przepisy [art. 44a](#art-44a)–44c stosuje się odpowiednio w przypadku nabycia przez jednostkę zorganizowanej części innej jednostki, w tym również w razie podziału spółek.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Sprawozdania finansowe jednostki
 
+<a id="art-45"></a>
 ### Art. 45.
 
-1.25) Sprawozdanie finansowe sporządza się na dzień zamknięcia ksiąg rachunkowych, o którym mowa w art. 12 ust. 2, oraz na inny dzień bilansowy, stosując odpowiednio, z zastrzeżeniem ust. 1a–1ba, zasady wyceny aktywów i pasywów oraz ustalania wyniku finansowego, określone w rozdziale 4.
+1.25) Sprawozdanie finansowe sporządza się na dzień zamknięcia ksiąg rachunkowych, o którym mowa w [art. 12](#art-12) ust. 2, oraz na inny dzień bilansowy, stosując odpowiednio, z zastrzeżeniem ust. 1a–1ba, zasady wyceny aktywów i pasywów oraz ustalania wyniku finansowego, określone w rozdziale 4.
 
 1a. Sprawozdania finansowe emitentów papierów wartościowych dopuszczonych, emitentów zamierzających ubiegać się lub ubiegających się o ich dopuszczenie do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego mogą być sporządzane zgodnie z MSR.
 
@@ -1464,9 +1712,9 @@ Przepisy art. 44a–44c stosuje się odpowiednio w przypadku nabycia przez jedno
 
 3.[28)] Sprawozdanie finansowe:
 
-1) jednostki innej niż jednostka mikro i jednostka mała oraz jednostka, o której mowa w art. 80 ust. 4,
+1) jednostki innej niż jednostka mikro i jednostka mała oraz jednostka, o której mowa w [art. 80](#art-80) ust. 4,
 
-2) jednostki sektora finansów publicznych, która w poprzedzającym roku obrotowym, za który sporządzono sprawozdania finansowe, spełniła co najmniej dwa warunki, o których mowa w art. 64 ust. 1 pkt 4,
+2) jednostki sektora finansów publicznych, która w poprzedzającym roku obrotowym, za który sporządzono sprawozdania finansowe, spełniła co najmniej dwa warunki, o których mowa w [art. 64](#art-64) ust. 1 pkt 4,
 
 3) alternatywnej spółki inwestycyjnej – obejmuje ponadto zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych.
 
@@ -1482,6 +1730,7 @@ Przepisy art. 44a–44c stosuje się odpowiednio w przypadku nabycia przez jedno
 
 6. Sprawozdania finansowe oraz sprawozdania z działalności emitentów papierów wartościowych dopuszczonych, emitentów zamierzających ubiegać się lub ubiegających się o ich dopuszczenie do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego sporządza się na podstawie przepisów ustawy, z uwzględnieniem przepisów o obrocie papierami wartościowymi.
 
+<a id="art-46"></a>
 ### Art. 46.
 
 1. W bilansie wykazuje się stany aktywów i pasywów na dzień kończący bieżący i poprzedni rok obrotowy.
@@ -1504,20 +1753,21 @@ Przepisy art. 44a–44c stosuje się odpowiednio w przypadku nabycia przez jedno
 
 5. Bilans powinien zawierać informacje w zakresie ustalonym:
 
-1) dla jednostek innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji – w załączniku nr 1 do ustawy;
+1) dla jednostek innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji – w załączniku nr [1](#zalacznik-1) do ustawy;
 
-2) dla banków – w załączniku nr 2 do ustawy;
+2) dla banków – w załączniku nr [2](#zalacznik-2) do ustawy;
 
-3) dla zakładów ubezpieczeń i zakładów reasekuracji – w załączniku nr 3 do ustawy;
+3) dla zakładów ubezpieczeń i zakładów reasekuracji – w załączniku nr [3](#zalacznik-3) do ustawy;
 
-4) dla jednostek mikro sporządzających uproszczony bilans – w załączniku nr 4 do ustawy;
+4) dla jednostek mikro sporządzających uproszczony bilans – w załączniku nr [4](#zalacznik-4) do ustawy;
 
-5) dla jednostek małych sporządzających uproszczony bilans – w załączniku nr 5 do ustawy;
+5) dla jednostek małych sporządzających uproszczony bilans – w załączniku nr [5](#zalacznik-5) do ustawy;
 
-6) dla jednostek, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostek, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy – w załączniku nr 6 do ustawy.
+6) dla jednostek, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostek, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy – w załączniku nr [6](#zalacznik-6) do ustawy.
 
-6. Jednostki, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostki, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy, mogą sporządzać bilans zawierający informacje w zakresie ustalonym w załączniku nr 1 do ustawy.
+6. Jednostki, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostki, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy, mogą sporządzać bilans zawierający informacje w zakresie ustalonym w załączniku nr [1](#zalacznik-1) do ustawy.
 
+<a id="art-47"></a>
 ### Art. 47.
 
 1. W rachunku zysków i strat wykazuje się oddzielnie przychody, koszty, zyski i straty oraz obowiązkowe obciążenia wyniku finansowego za bieżący i poprzedni rok obrotowy.
@@ -1530,23 +1780,24 @@ Przepisy art. 44a–44c stosuje się odpowiednio w przypadku nabycia przez jedno
 
 4. Rachunek zysków i strat powinien zawierać informacje w zakresie ustalonym:
 
-1) dla jednostek innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji – w załączniku nr 1 do ustawy, w wariancie kalkulacyjnym albo porównawczym, zależnie od wyboru dokonanego przez kierownika jednostki;
+1) dla jednostek innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji – w załączniku nr [1](#zalacznik-1) do ustawy, w wariancie kalkulacyjnym albo porównawczym, zależnie od wyboru dokonanego przez kierownika jednostki;
 
-2) dla banków – w załączniku nr 2 do ustawy;
+2) dla banków – w załączniku nr [2](#zalacznik-2) do ustawy;
 
-3) dla zakładów ubezpieczeń i zakładów reasekuracji – w załączniku nr 3 do ustawy;
+3) dla zakładów ubezpieczeń i zakładów reasekuracji – w załączniku nr [3](#zalacznik-3) do ustawy;
 
-4) dla jednostek mikro sporządzających uproszczony rachunek zysków i strat – w załączniku nr 4 do ustawy;
+4) dla jednostek mikro sporządzających uproszczony rachunek zysków i strat – w załączniku nr [4](#zalacznik-4) do ustawy;
 
-5) dla jednostek małych sporządzających uproszczony rachunek zysków i strat – w załączniku nr 5 do ustawy, w wariancie kalkulacyjnym albo porównawczym, zależnie od wyboru dokonanego przez kierownika jednostki;
+5) dla jednostek małych sporządzających uproszczony rachunek zysków i strat – w załączniku nr [5](#zalacznik-5) do ustawy, w wariancie kalkulacyjnym albo porównawczym, zależnie od wyboru dokonanego przez kierownika jednostki;
 
-6) dla jednostek, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostek, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy – w załączniku nr 6 do ustawy.
+6) dla jednostek, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostek, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy – w załączniku nr [6](#zalacznik-6) do ustawy.
 
-5. Jednostki, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostki, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy, mogą sporządzać rachunek zysków i strat zawierający informacje w zakresie ustalonym w załączniku nr 1 do ustawy.
+5. Jednostki, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostki, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy, mogą sporządzać rachunek zysków i strat zawierający informacje w zakresie ustalonym w załączniku nr [1](#zalacznik-1) do ustawy.
 
+<a id="art-48"></a>
 ### Art. 48.
 
-1. Informacja dodatkowa powinna zawierać istotne dane i objaśnienia niezbędne do tego, aby sprawozdanie finansowe odpowiadało warunkom określonym w art. 4 ust. 1, a w szczególności obejmować:
+1. Informacja dodatkowa powinna zawierać istotne dane i objaśnienia niezbędne do tego, aby sprawozdanie finansowe odpowiadało warunkom określonym w [art. 4](#art-4) ust. 1, a w szczególności obejmować:
 
 1) wprowadzenie do sprawozdania finansowego, zawierające opis przyjętych zasad (polityki) rachunkowości, w tym metod wyceny i sporządzenia sprawozdania finansowego w zakresie, w jakim ustawa pozostawia jednostce prawo wyboru, oraz przedstawienie przyczyn i skutków ich ewentualnych zmian w stosunku do roku poprzedzającego;
 
@@ -1560,25 +1811,26 @@ c) podstawowe informacje dotyczące pracowników i organów jednostki,
 
 d) inne istotne informacje dla zrozumienia sprawozdania finansowego.
 
-2. Zakres informacji dodatkowej, sporządzanej przez jednostki inne niż banki, zakłady ubezpieczeń i zakłady reasekuracji, określa załącznik nr 1 do ustawy.
+2. Zakres informacji dodatkowej, sporządzanej przez jednostki inne niż banki, zakłady ubezpieczeń i zakłady reasekuracji, określa załącznik nr [1](#zalacznik-1) do ustawy.
 
-3. Jednostka mikro może nie sporządzać informacji dodatkowej, o której mowa w ust. 1, pod warunkiem że przedstawi informacje uzupełniające do bilansu określone w załączniku nr 4 do ustawy.
+3. Jednostka mikro może nie sporządzać informacji dodatkowej, o której mowa w ust. 1, pod warunkiem że przedstawi informacje uzupełniające do bilansu określone w załączniku nr [4](#zalacznik-4) do ustawy.
 
-4. Zakres informacji dodatkowej dla jednostek małych sporządzających uproszczoną informację dodatkową określa załącznik nr 5 do ustawy. Jednostka mała, która nie sporządza uproszczonej informacji dodatkowej, sporządza informację dodatkową w zakresie niemniejszym niż określony w załączniku nr 5 do ustawy.
+4. Zakres informacji dodatkowej dla jednostek małych sporządzających uproszczoną informację dodatkową określa załącznik nr [5](#zalacznik-5) do ustawy. Jednostka mała, która nie sporządza uproszczonej informacji dodatkowej, sporządza informację dodatkową w zakresie niemniejszym niż określony w załączniku nr [5](#zalacznik-5) do ustawy.
 
-5. Zakres informacji dodatkowej dla jednostek, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostek, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy, określa załącznik nr 6 do ustawy.
+5. Zakres informacji dodatkowej dla jednostek, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostek, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy, określa załącznik nr [6](#zalacznik-6) do ustawy.
 
-6. Jednostki, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostki, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy, mogą sporządzać informację dodatkową w zakresie ustalonym w załączniku nr 1 do ustawy.
+6. Jednostki, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spółek kapitałowych, oraz jednostki, o których mowa w art. 3 ust. 3 pkt 1 i 2 tej ustawy, mogą sporządzać informację dodatkową w zakresie ustalonym w załączniku nr [1](#zalacznik-1) do ustawy.
 
+<a id="art-48a"></a>
 ### Art. 48a.
 
 1. Zestawienie zmian w kapitale (funduszu) własnym obejmuje informacje o zmianach poszczególnych składników kapitału (funduszu) własnego za bieżący i poprzedni rok obrotowy określone:
 
-1) dla jednostek innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji – w załączniku nr 1 do ustawy;
+1) dla jednostek innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji – w załączniku nr [1](#zalacznik-1) do ustawy;
 
-2) dla banków – w załączniku nr 2 do ustawy;
+2) dla banków – w załączniku nr [2](#zalacznik-2) do ustawy;
 
-3) dla zakładów ubezpieczeń i zakładów reasekuracji – w załączniku nr 3 do ustawy.
+3) dla zakładów ubezpieczeń i zakładów reasekuracji – w załączniku nr [3](#zalacznik-3) do ustawy.
 
 2. W przypadku sporządzania zestawienia zmian w kapitale (funduszu) własnym za inny okres sprawozdawczy niż określony w ust. 1, w zestawieniu zmian w kapitale (funduszu) własnym wykazuje się zmiany poszczególnych pozycji kapitału (funduszu) własnego za bieżący okres sprawozdawczy i poprzedni rok obrotowy.
 
@@ -1586,15 +1838,16 @@ d) inne istotne informacje dla zrozumienia sprawozdania finansowego.
 
 4. (uchylony)30)
 
+<a id="art-48b"></a>
 ### Art. 48b.
 
 1. Rachunek przepływów pieniężnych sporządzony metodą bezpośrednią albo pośrednią, zależnie od wyboru dokonanego przez kierownika jednostki, wykazuje dane za bieżący i poprzedni rok obrotowy, obejmując informacje w zakresie ustalonym:
 
-1) dla jednostek innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji – w załączniku nr 1 do ustawy;
+1) dla jednostek innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji – w załączniku nr [1](#zalacznik-1) do ustawy;
 
-2) dla banków – w załączniku nr 2 do ustawy;
+2) dla banków – w załączniku nr [2](#zalacznik-2) do ustawy;
 
-3) dla zakładów ubezpieczeń i zakładów reasekuracji – w załączniku nr 3 do ustawy.
+3) dla zakładów ubezpieczeń i zakładów reasekuracji – w załączniku nr [3](#zalacznik-3) do ustawy.
 
 2. W przypadku sporządzania rachunku przepływów pieniężnych za inny okres sprawozdawczy niż określony w ust. 1, rachunek przepływów pieniężnych sporządza się za bieżący okres sprawozdawczy i analogiczny okres sprawozdawczy poprzedniego roku obrotowego.
 
@@ -1610,6 +1863,7 @@ d) inne istotne informacje dla zrozumienia sprawozdania finansowego.
 
 5. (uchylony)31)
 
+<a id="art-49"></a>
 ### Art. 49.
 
 1. W przypadku spółek kapitałowych, spółek komandytowo-akcyjnych, towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej, spółdzielni, przedsiębiorstw państwowych, a także tych spółek jawnych i komandytowych, których wszystkimi wspólnikami ponoszącymi nieograniczoną odpowiedzialność są spółki kapitałowe, spółki komandytowo-akcyjne lub spółki z innych państw o podobnej do tych spółek formie prawnej, oraz w przypadku specjalistycznych funduszy inwestycyjnych otwartych, funduszy inwestycyjnych zamkniętych oraz alternatywnych spółek inwestycyjnych, kierownik jednostki sporządza, wraz z rocznym sprawozdaniem finansowym, sprawozdanie z działalności jednostki.
@@ -1662,7 +1916,7 @@ b) przyjętych przez jednostkę celach i metodach zarządzania ryzykiem finansow
 
 2) wyjaśnienie, w jaki sposób model biznesowy jednostki zależy od tych kluczowych zasobów niematerialnych oraz w jaki sposób zasoby te stanowią źródło tworzenia wartości dla jednostki – przy czym przez kluczowe zasoby niematerialne rozumie się niemające postaci fizycznej zasoby, od których zależy model biznesowy jednostki i które stanowią źródło tworzenia wartości dla jednostki.
 
-4.[33)] Jednostka mikro, która ma obowiązek sporządzania sprawozdania z działalności jednostki zgodnie z ust. 1, może nie sporządzać tego sprawozdania, pod warunkiem że w informacji dodatkowej, a w przypadku, o którym mowa w art. 48 ust. 3, jako informacje uzupełniające do bilansu, przedstawi informacje dotyczące nabycia udziałów (akcji) własnych określone w załączniku nr 4 do ustawy.
+4.[33)] Jednostka mikro, która ma obowiązek sporządzania sprawozdania z działalności jednostki zgodnie z ust. 1, może nie sporządzać tego sprawozdania, pod warunkiem że w informacji dodatkowej, a w przypadku, o którym mowa w [art. 48](#art-48) ust. 3, jako informacje uzupełniające do bilansu, przedstawi informacje dotyczące nabycia udziałów (akcji) własnych określone w załączniku nr [4](#zalacznik-4) do ustawy.
 
 5. Jednostka mała, która ma obowiązek sporządzania sprawozdania z działalności zgodnie z ust. 1, może nie sporządzać tego sprawozdania, pod warunkiem że w informacji dodatkowej przedstawi informacje dotyczące nabycia udziałów własnych, o których mowa w ust. 2 pkt 5.
 
@@ -1674,23 +1928,26 @@ b) przyjętych przez jednostkę celach i metodach zarządzania ryzykiem finansow
 
 9. Sprawozdanie z działalności jednostek niebędących emitentami papierów wartościowych dopuszczonych do obrotu na rynku regulowanym, sporządzających sprawozdania finansowe zgodnie z MSR, sporządza się w formacie, o którym mowa w rozporządzeniu Komisji (UE) 2019/815, lub innym formacie przeszukiwalnym.
 
+<a id="art-49a"></a>
 ### Art. 49a.
 
-34) Przyjmuje się, że sprawozdanie finansowe sporządzone przez jednostkę mikro z zastosowaniem art. 46 ust. 5 pkt 4, art. 47 ust. 4 pkt 4, art. 48 ust. 3 lub art. 49 ust. 4 przedstawia rzetelnie i jasno sytuację majątkową i finansową oraz wynik finansowy tej jednostki.
+34) Przyjmuje się, że sprawozdanie finansowe sporządzone przez jednostkę mikro z zastosowaniem [art. 46](#art-46) ust. 5 pkt 4, [art. 47](#art-47) ust. 4 pkt 4, [art. 48](#art-48) ust. 3 lub [art. 49](#art-49) ust. 4 przedstawia rzetelnie i jasno sytuację majątkową i finansową oraz wynik finansowy tej jednostki.
 
+<a id="art-49b"></a>
 ### Art. 49b.
 
 (uchylony)35)
 
+<a id="art-49c"></a>
 ### Art. 49c. [36)]
 
 1. Decyzję o sporządzeniu sprawozdania finansowego z zastosowaniem uproszczeń, o których mowa w:
 
-1) art. 46 ust. 5 pkt 4, art. 47 ust. 4 pkt 4 lub art. 48 ust. 3 lub o skorzystaniu ze zwolnienia ze sporządzenia sprawozdania z działalności zgodnie z art. 49 ust. 4 – w przypadku jednostki mikro,
+1) [art. 46](#art-46) ust. 5 pkt 4, [art. 47](#art-47) ust. 4 pkt 4 lub [art. 48](#art-48) ust. 3 lub o skorzystaniu ze zwolnienia ze sporządzenia sprawozdania z działalności zgodnie z [art. 49](#art-49) ust. 4 – w przypadku jednostki mikro,
 
-2) art. 46 ust. 5 pkt 5, art. 47 ust. 4 pkt 5 lub art. 48 ust. 4 lub o skorzystaniu ze zwolnienia ze sporządzenia sprawozdania z działalności zgodnie z art. 49 ust. 5 – w przypadku jednostki małej – podejmuje organ zatwierdzający.
+2) [art. 46](#art-46) ust. 5 pkt 5, [art. 47](#art-47) ust. 4 pkt 5 lub [art. 48](#art-48) ust. 4 lub o skorzystaniu ze zwolnienia ze sporządzenia sprawozdania z działalności zgodnie z [art. 49](#art-49) ust. 5 – w przypadku jednostki małej – podejmuje organ zatwierdzający.
 
-2. Jednostka mikro może sporządzać sprawozdanie finansowe z zastosowaniem uproszczeń dla jednostki małej, przy czym przepisy art. 46 ust. 5 pkt 5, art. 47 ust. 4 pkt 5 lub art. 48 ust. 4 stosuje się odpowiednio. Decyzję o zastosowaniu tych uproszczeń podejmuje organ zatwierdzający.
+2. Jednostka mikro może sporządzać sprawozdanie finansowe z zastosowaniem uproszczeń dla jednostki małej, przy czym przepisy [art. 46](#art-46) ust. 5 pkt 5, [art. 47](#art-47) ust. 4 pkt 5 lub [art. 48](#art-48) ust. 4 stosuje się odpowiednio. Decyzję o zastosowaniu tych uproszczeń podejmuje organ zatwierdzający.
 
 3. Przepisów ust. 1 i 2 nie stosuje się do:
 
@@ -1700,8 +1957,9 @@ b) przyjętych przez jednostkę celach i metodach zarządzania ryzykiem finansow
 
 3) jednostek, o których mowa w art. 3 ust. 3 pkt 1 i 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
-4. W przypadku jednostek określonych w art. 2 ust. 1 pkt 2a decyzję, o której mowa w ust. 1, podejmuje kierownik jednostki.
+4. W przypadku jednostek określonych w [art. 2](#art-2) ust. 1 pkt 2a decyzję, o której mowa w ust. 1, podejmuje kierownik jednostki.
 
+<a id="art-50"></a>
 ### Art. 50.
 
 1. Informacje zawarte w sprawozdaniu finansowym mogą być wykazywane ze szczegółowością większą niż określona w załącznikach do ustawy, jeżeli wynika to z potrzeb lub specyfiki jednostki.
@@ -1712,6 +1970,7 @@ b) przyjętych przez jednostkę celach i metodach zarządzania ryzykiem finansow
 
 4. (uchylony)
 
+<a id="art-51"></a>
 ### Art. 51.
 
 1. Jednostka, w skład której wchodzą jednostki organizacyjne sporządzające samodzielne sprawozdania finansowe, sporządza łączne sprawozdanie finansowe, będące sumą sprawozdania finansowego jednostki i wszystkich jej oddziałów (zakładów), wyłączając odpowiednio:
@@ -1722,10 +1981,11 @@ b) przyjętych przez jednostkę celach i metodach zarządzania ryzykiem finansow
 
 3) przychody i koszty z tytułu operacji dokonywanych między jednostką a jej oddziałami (zakładami) lub między jej oddziałami (zakładami);
 
-4) wynik finansowy operacji gospodarczych dokonywanych wewnątrz jednostki, zawarty w aktywach jednostki lub jej oddziałów (zakładów). Można nie dokonywać wyłączeń, o których mowa w pkt 2–4, jeżeli nie wpływa to ujemnie na spełnienie obowiązków określonych w art. 4 ust. 1.
+4) wynik finansowy operacji gospodarczych dokonywanych wewnątrz jednostki, zawarty w aktywach jednostki lub jej oddziałów (zakładów). Można nie dokonywać wyłączeń, o których mowa w pkt 2–4, jeżeli nie wpływa to ujemnie na spełnienie obowiązków określonych w [art. 4](#art-4) ust. 1.
 
 2. Do sprawozdania finansowego jednostki, w której skład wchodzą oddziały (zakłady) znajdujące się poza terytorium Rzeczypospolitej Polskiej i tam sporządzające sprawozdania finansowe, włącza się odpowiednie dane wynikające z bilansów tych oddziałów (zakładów), wyrażone w walutach obcych, przeliczone na walutę polską po obowiązującym na dzień bilansowy średnim kursie ogłoszonym dla danej waluty przez Narodowy Bank Polski, natomiast z rachunku zysków i strat – po kursie stanowiącym średnią arytmetyczną średnich kursów na dzień kończący każdy miesiąc roku obrotowego, a w uzasadnionych przypadkach – po kursie będącym średnią arytmetyczną średnich kursów na dzień kończący poprzedni rok obrotowy i dzień kończący bieżący rok obrotowy, ogłoszonych dla danej waluty przez Narodowy Bank Polski. Powstałe na skutek tych przeliczeń różnice wykazuje się w łącznym sprawozdaniu finansowym jednostki, w pozycji „Różnice kursowe z przeliczenia”, jako składnik kapitału (funduszu) z aktualizacji wyceny.
 
+<a id="art-52"></a>
 ### Art. 52.
 
 1. Kierownik jednostki zapewnia sporządzenie rocznego sprawozdania finansowego niepóźniej niż w ciągu 3 miesięcy od dnia bilansowego i przedstawia je właściwym organom, zgodnie z obowiązującymi jednostkę przepisami prawa, postanowieniami statutu lub umowy.
@@ -1744,17 +2004,18 @@ b) przyjętych przez jednostkę celach i metodach zarządzania ryzykiem finansow
 
 3. Przepisy ust. 1–2e stosuje się odpowiednio również do:
 
-1) sprawozdania finansowego sporządzonego na dzień określony w art. 12 ust. 2 lub na inny dzień bilansowy;
+1) sprawozdania finansowego sporządzonego na dzień określony w [art. 12](#art-12) ust. 2 lub na inny dzień bilansowy;
 
-2) sprawozdania z działalności jednostki określonego w art. 49, z tym że nie podpisuje go osoba, której powierzono prowadzenie ksiąg rachunkowych.
+2) sprawozdania z działalności jednostki określonego w [art. 49](#art-49), z tym że nie podpisuje go osoba, której powierzono prowadzenie ksiąg rachunkowych.
 
+<a id="art-53"></a>
 ### Art. 53.
 
 1. Roczne sprawozdanie finansowe jednostki, z zastrzeżeniem ust. 2b, podlega zatwierdzeniu przez organ zatwierdzający, niepóźniej niż 6 miesięcy od dnia bilansowego.
 
-1a. Przed zatwierdzeniem roczne sprawozdanie finansowe jednostek, o których mowa w art. 64, podlega badaniu zgodnie z wymogami przeprowadzania badań określonymi w:
+1a. Przed zatwierdzeniem roczne sprawozdanie finansowe jednostek, o których mowa w [art. 64](#art-64), podlega badaniu zgodnie z wymogami przeprowadzania badań określonymi w:
 
-1) art. 66–68 oraz
+1) [art. 66](#art-66)–68 oraz
 
 2) ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891), zwanej dalej „ustawą o biegłych rewidentach”, oraz
 
@@ -1768,22 +2029,25 @@ b) przyjętych przez jednostkę celach i metodach zarządzania ryzykiem finansow
 
 2b. Roczne sprawozdanie finansowe oddziału przedsiębiorcy zagranicznego uważa się za zatwierdzone, jeżeli zostało zatwierdzone sprawozdanie finansowe przedsiębiorcy zagranicznego, obejmujące dane sprawozdania finansowego tego oddziału.
 
-3. Podział lub pokrycie wyniku finansowego netto jednostek zobowiązanych, zgodnie z art. 64 ust. 1, do poddania badaniu rocznego sprawozdania finansowego może nastąpić po zatwierdzeniu sprawozdania finansowego przez organ zatwierdzający, poprzedzonego wyrażeniem przez biegłego rewidenta opinii o tym sprawozdaniu bez zastrzeżeń lub z zastrzeżeniami. Podział lub pokrycie wyniku finansowego netto, dokonany bez spełnienia tego warunku, jest nieważny z mocy prawa.
+3. Podział lub pokrycie wyniku finansowego netto jednostek zobowiązanych, zgodnie z [art. 64](#art-64) ust. 1, do poddania badaniu rocznego sprawozdania finansowego może nastąpić po zatwierdzeniu sprawozdania finansowego przez organ zatwierdzający, poprzedzonego wyrażeniem przez biegłego rewidenta opinii o tym sprawozdaniu bez zastrzeżeń lub z zastrzeżeniami. Podział lub pokrycie wyniku finansowego netto, dokonany bez spełnienia tego warunku, jest nieważny z mocy prawa.
 
 4. Podział lub pokrycie wyniku finansowego netto jednostek niezobowiązanych do poddania badaniu rocznego sprawozdania finansowego może nastąpić po zatwierdzeniu sprawozdania finansowego przez organ zatwierdzający.
 
 5. Odpisy z wyniku finansowego bieżącego roku obrotowego, w tym także wpłaty z zysku, dokonywane na podstawie odrębnych przepisów uznaje się za podział wyniku finansowego netto jednostek w ciągu roku obrotowego.
 
+<a id="art-54"></a>
 ### Art. 54.
 
 1. Jeżeli po sporządzeniu rocznego sprawozdania finansowego, a przed jego zatwierdzeniem, jednostka otrzymała informacje o zdarzeniach, które mają istotny wpływ na to sprawozdanie finansowe, lub powodujących, że założenie kontynuowania działalności przez jednostkę nie jest uzasadnione, powinna ona odpowiednio zmienić to sprawozdanie, dokonując jednocześnie odpowiednich zapisów w księgach rachunkowych roku obrotowego, którego sprawozdanie finansowe dotyczy, oraz powiadomić biegłego rewidenta, który sprawozdanie to bada lub zbadał. Jeżeli zdarzenia, które nastąpiły po dniu bilansowym, nie powodują zmiany stanu istniejącego na dzień bilansowy, to odpowiednie wyjaśnienia zamieszcza się w informacji dodatkowej.
 
 2. Jeżeli jednostka otrzymała informacje o zdarzeniach, o których mowa w ust. 1, po zatwierdzeniu rocznego sprawozdania finansowego, to ich skutki ujmuje w księgach rachunkowych roku obrotowego, w którym informacje te otrzymała.
 
-3. Jeżeli w danym roku obrotowym lub przed zatwierdzeniem sprawozdania finansowego za ten rok obrotowy jednostka stwierdziła popełnienie w poprzednich latach obrotowych błędu, w następstwie którego nie można uznać sprawozdania finansowego za rok lub lata poprzednie za spełniające wymagania określone w art. 4 ust. 1, to kwotę korekty spowodowanej usunięciem tego błędu odnosi się na kapitał (fundusz) własny i wykazuje jako „zysk (strata) z lat ubiegłych”.
+3. Jeżeli w danym roku obrotowym lub przed zatwierdzeniem sprawozdania finansowego za ten rok obrotowy jednostka stwierdziła popełnienie w poprzednich latach obrotowych błędu, w następstwie którego nie można uznać sprawozdania finansowego za rok lub lata poprzednie za spełniające wymagania określone w [art. 4](#art-4) ust. 1, to kwotę korekty spowodowanej usunięciem tego błędu odnosi się na kapitał (fundusz) własny i wykazuje jako „zysk (strata) z lat ubiegłych”.
 
+<a id="rozdzial-6"></a>
 ### Rozdział 6. Skonsolidowane sprawozdania finansowe grupy kapitałowej
 
+<a id="art-55"></a>
 ### Art. 55.
 
 1. Jednostka dominująca, mająca siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej, sporządza roczne skonsolidowane sprawozdanie finansowe grupy kapitałowej, obejmujące dane jednostki dominującej i jednostek od niej zależnych wszystkich szczebli, bez względu na ich siedzibę, zestawione w taki sposób, jakby grupa kapitałowa stanowiła jedną jednostkę; sprawozdaniem tym obejmuje się również dane pozostałych jednostek podporządkowanych, zgodnie z zasadami określonymi w niniejszym rozdziale.
@@ -1800,7 +2064,7 @@ b) przyjętych przez jednostkę celach i metodach zarządzania ryzykiem finansow
 
 5) informacji dodatkowej, obejmującej wprowadzenie do skonsolidowanego sprawozdania finansowego oraz dodatkowe informacje i objaśnienia.
 
-2a. Do rocznego skonsolidowanego sprawozdania finansowego dołącza się sprawozdanie z działalności grupy kapitałowej, sporządzone odpowiednio według wymogów, o których mowa w art. 49 ust. 2–3b i 7–9, z tym że w przypadku informacji określonych w art. 49 ust. 2 pkt 5 należy podać informacje o udziałach własnych posiadanych przez jednostkę dominującą, jednostki wchodzące w skład grupy kapitałowej oraz osoby działające w ich imieniu.37) Sprawozdanie z działalności grupy kapitałowej można sporządzić łącznie ze sprawozdaniem z działalności jednostki dominującej jako jedno sprawozdanie.
+2a. Do rocznego skonsolidowanego sprawozdania finansowego dołącza się sprawozdanie z działalności grupy kapitałowej, sporządzone odpowiednio według wymogów, o których mowa w [art. 49](#art-49) ust. 2–3b i 7–9, z tym że w przypadku informacji określonych w [art. 49](#art-49) ust. 2 pkt 5 należy podać informacje o udziałach własnych posiadanych przez jednostkę dominującą, jednostki wchodzące w skład grupy kapitałowej oraz osoby działające w ich imieniu.37) Sprawozdanie z działalności grupy kapitałowej można sporządzić łącznie ze sprawozdaniem z działalności jednostki dominującej jako jedno sprawozdanie.
 
 2b. (uchylony)38)
 
@@ -1826,13 +2090,14 @@ b) przyjętych przez jednostkę celach i metodach zarządzania ryzykiem finansow
 
 10. Przepisy ust. 9 stosuje się odpowiednio do jednostek niebędących bankami, o których mowa w ust. 5.
 
+<a id="art-56"></a>
 ### Art. 56.
 
 1. Jednostka dominująca może nie sporządzać skonsolidowanego sprawozdania finansowego, jeżeli na dzień bilansowy roku obrotowego oraz na dzień bilansowy roku poprzedzającego rok obrotowy łączne dane jednostki dominującej oraz wszystkich jednostek zależnych każdego szczebla:
 
-1) przed dokonaniem wyłączeń konsolidacyjnych, o których mowa w art. 60 ust. 2 i 6, nie przekroczyły co najmniej dwóch z następujących trzech wielkości: a)39) 48 000 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, b)39) 96 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy, c)39) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty lub
+1) przed dokonaniem wyłączeń konsolidacyjnych, o których mowa w [art. 60](#art-60) ust. 2 i 6, nie przekroczyły co najmniej dwóch z następujących trzech wielkości: a)39) 48 000 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, b)39) 96 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy, c)39) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty lub
 
-2) po dokonaniu wyłączeń konsolidacyjnych, o których mowa w art. 60 ust. 2 i 6, nie przekroczyły co najmniej dwóch z następujących trzech wielkości: a)40) 40 000 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, b)40) 80 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy,
+2) po dokonaniu wyłączeń konsolidacyjnych, o których mowa w [art. 60](#art-60) ust. 2 i 6, nie przekroczyły co najmniej dwóch z następujących trzech wielkości: a)40) 40 000 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego, b)40) 80 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy,
 
 c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty.
 
@@ -1848,22 +2113,23 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 2a. Przepis ust. 2 stosuje się, jeżeli spełnione zostały łącznie następujące warunki:
 
-1) jednostka dominująca wyższego szczebla obejmie konsolidacją zarówno zależną od niej jednostkę dominującą niesporządzającą skonsolidowanego sprawozdania finansowego, jak i wszystkie jej jednostki zależne, które podlegałyby konsolidacji przez jednostkę dominującą z uwzględnieniem przepisów art. 57 i art. 58;
+1) jednostka dominująca wyższego szczebla obejmie konsolidacją zarówno zależną od niej jednostkę dominującą niesporządzającą skonsolidowanego sprawozdania finansowego, jak i wszystkie jej jednostki zależne, które podlegałyby konsolidacji przez jednostkę dominującą z uwzględnieniem przepisów [art. 57](#art-57) i [art. 58](#art-58);
 
-2) kierownik jednostki dominującej niesporządzającej skonsolidowanego sprawozdania finansowego wypełni obowiązek określony w art. 69 ust. 4;
+2) kierownik jednostki dominującej niesporządzającej skonsolidowanego sprawozdania finansowego wypełni obowiązek określony w [art. 69](#art-69) ust. 4;
 
-3) jednostka dominująca niesporządzająca skonsolidowanego sprawozdania finansowego ujawni w informacji dodatkowej informacje wymienione w załączniku nr 1 do ustawy w części „Dodatkowe informacje i objaśnienia” w ust. 7 pkt 4.
+3) jednostka dominująca niesporządzająca skonsolidowanego sprawozdania finansowego ujawni w informacji dodatkowej informacje wymienione w załączniku nr [1](#zalacznik-1) do ustawy w części „Dodatkowe informacje i objaśnienia” w ust. 7 pkt 4.
 
 2b. W przypadku, o którym mowa w ust. 2a pkt 1, skonsolidowane sprawozdanie finansowe jednostki dominującej wyższego szczebla sporządzane jest zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego, któremu podlega, lub MSR.
 
-2c.[43)] W przypadku, o którym mowa w ust. 2, jednostka dominująca korzystająca ze zwolnienia ze sporządzenia skonsolidowanego sprawozdania finansowego jest również zwolniona ze sporządzenia sprawozdania z działalności grupy kapitałowej pod warunkiem, że sprawozdanie z działalności grupy kapitałowej jednostki dominującej wyższego szczebla jest sporządzane zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego, któremu podlega. W przypadku jednostek, o których mowa w art. 63x ust. 1, zwolnienie ze sporządzenia sprawozdania z działalności grupy kapitałowej, o którym mowa w zdaniu pierwszym, stosuje się, jeżeli są spełnione warunki określone w art. 63z.
+2c.[43)] W przypadku, o którym mowa w ust. 2, jednostka dominująca korzystająca ze zwolnienia ze sporządzenia skonsolidowanego sprawozdania finansowego jest również zwolniona ze sporządzenia sprawozdania z działalności grupy kapitałowej pod warunkiem, że sprawozdanie z działalności grupy kapitałowej jednostki dominującej wyższego szczebla jest sporządzane zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego, któremu podlega. W przypadku jednostek, o których mowa w [art. 63x](#art-63x) ust. 1, zwolnienie ze sporządzenia sprawozdania z działalności grupy kapitałowej, o którym mowa w zdaniu pierwszym, stosuje się, jeżeli są spełnione warunki określone w [art. 63z](#art-63z).
 
-3. Jednostka dominująca może nie sporządzać skonsolidowanego sprawozdania finansowego także wtedy, gdy wszystkie jednostki od niej zależne wyłącza się z obowiązku objęcia ich konsolidacją na podstawie art. 57 lub art. 58.
+3. Jednostka dominująca może nie sporządzać skonsolidowanego sprawozdania finansowego także wtedy, gdy wszystkie jednostki od niej zależne wyłącza się z obowiązku objęcia ich konsolidacją na podstawie [art. 57](#art-57) lub [art. 58](#art-58).
 
 4. (uchylony)44)
 
 5. Przepisu ust. 2 nie stosuje się, jeżeli jednostka dominująca jest emitentem papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego.
 
+<a id="art-57"></a>
 ### Art. 57.
 
 1. Konsolidacją można nie obejmować jednostki zależnej, jeżeli:
@@ -1876,19 +2142,21 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 2. Termin, o którym mowa w ust. 1 pkt 1, nie dotyczy alternatywnych spółek inwestycyjnych w rozumieniu przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, w tym uprawnionych do posługiwania się nazwą „EuVECA” albo „EuSEF”.
 
+<a id="art-58"></a>
 ### Art. 58.
 
-1. Konsolidacją można nie obejmować jednostki zależnej, jeżeli dane finansowe tej jednostki są nieistotne dla realizacji obowiązku określonego w art. 4 ust. 1.
+1. Konsolidacją można nie obejmować jednostki zależnej, jeżeli dane finansowe tej jednostki są nieistotne dla realizacji obowiązku określonego w [art. 4](#art-4) ust. 1.
 
-2. Jeżeli dwie lub więcej jednostek zależnych spełnia kryterium, o którym mowa w ust. 1, ale ich łączne dane są istotne z punktu widzenia realizacji obowiązku, o którym mowa w art. 4 ust. 1, to jednostki te należy objąć konsolidacją.
+2. Jeżeli dwie lub więcej jednostek zależnych spełnia kryterium, o którym mowa w ust. 1, ale ich łączne dane są istotne z punktu widzenia realizacji obowiązku, o którym mowa w [art. 4](#art-4) ust. 1, to jednostki te należy objąć konsolidacją.
 
+<a id="art-59"></a>
 ### Art. 59.
 
-1. Dane jednostki zależnej konsoliduje się metodą konsolidacji pełnej, o której mowa w art. 60.
+1. Dane jednostki zależnej konsoliduje się metodą konsolidacji pełnej, o której mowa w [art. 60](#art-60).
 
-2. Dane jednostek współzależnych wykazuje się w skonsolidowanym sprawozdaniu finansowym przy zastosowaniu metody proporcjonalnej, o której mowa w art. 61, lub metody praw własności, o której mowa w art. 63.
+2. Dane jednostek współzależnych wykazuje się w skonsolidowanym sprawozdaniu finansowym przy zastosowaniu metody proporcjonalnej, o której mowa w [art. 61](#art-61), lub metody praw własności, o której mowa w [art. 63](#art-63).
 
-2a. Jeżeli wspólnik jednostki współzależnej będący jednostką dominującą sporządzającą skonsolidowane sprawozdanie finansowe wykazuje jednostki współzależne przy zastosowaniu metody proporcjonalnej, to przepisy art. 56 ust. 3, art. 57 i art. 58 stosuje się odpowiednio.
+2a. Jeżeli wspólnik jednostki współzależnej będący jednostką dominującą sporządzającą skonsolidowane sprawozdanie finansowe wykazuje jednostki współzależne przy zastosowaniu metody proporcjonalnej, to przepisy [art. 56](#art-56) ust. 3, [art. 57](#art-57) i [art. 58](#art-58) stosuje się odpowiednio.
 
 3. Udziały w jednostce stowarzyszonej wykazuje się w skonsolidowanym sprawozdaniu finansowym metodą praw własności.
 
@@ -1896,8 +2164,9 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 5. Jeżeli jednostki grupy kapitałowej, objęte konsolidacją, posiadają udziały w jednostkach stowarzyszonych, to dane tych jednostek wykazuje się w skonsolidowanym sprawozdaniu finansowym metodą praw własności. W przypadku gdy te jednostki stowarzyszone sporządzają skonsolidowane sprawozdania finansowe, to metodę praw własności stosuje się do aktywów netto wykazanych w ich skonsolidowanych sprawozdaniach finansowych.
 
-6. Jeżeli zostały spełnione warunki, o których mowa w art. 57 ust. 1 pkt 2, a jednostka zależna była wcześniej objęta konsolidacją lub jednostka dominująca wstąpiła w prawa znaczącego inwestora lub wspólnika jednostki współzależnej, to dane tych jednostek wykazuje się w skonsolidowanym sprawozdaniu finansowym odpowiednio metodą proporcjonalną lub metodą praw własności.
+6. Jeżeli zostały spełnione warunki, o których mowa w [art. 57](#art-57) ust. 1 pkt 2, a jednostka zależna była wcześniej objęta konsolidacją lub jednostka dominująca wstąpiła w prawa znaczącego inwestora lub wspólnika jednostki współzależnej, to dane tych jednostek wykazuje się w skonsolidowanym sprawozdaniu finansowym odpowiednio metodą proporcjonalną lub metodą praw własności.
 
+<a id="art-60"></a>
 ### Art. 60.
 
 1. Metoda konsolidacji pełnej polega na sumowaniu, w pełnej wartości, poszczególnych pozycji odpowiednich sprawozdań finansowych jednostki dominującej i jednostek zależnych, dokonaniu wyłączeń, o których mowa w ust. 2 i 6, oraz innych korekt, o których mowa w ust. 8–9.
@@ -1912,7 +2181,7 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 4. W przypadku zmian procentowego udziału jednostki dominującej lub grupy kapitałowej w aktywach netto jednostki zależnej w wyniku wydania (emisji) udziałów, powstałą z tego tytułu różnicę, o której mowa w ust. 2, zalicza się w całości do przychodów lub kosztów finansowych.
 
-5. Dla ustalania podstaw wyceny aktywów netto w wartościach godziwych oraz rozliczania wartości firmy lub ujemnej wartości firmy stosuje się odpowiednio zasady określone w art. 28 ust. 5 i w art. 44b ust. 4, 11 i 12.
+5. Dla ustalania podstaw wyceny aktywów netto w wartościach godziwych oraz rozliczania wartości firmy lub ujemnej wartości firmy stosuje się odpowiednio zasady określone w [art. 28](#art-28) ust. 5 i w [art. 44b](#art-44b) ust. 4, 11 i 12.
 
 6. Wyłączeniu podlegają również w całości:
 
@@ -1924,7 +2193,7 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 4) dywidendy naliczone lub wypłacone przez jednostki zależne jednostce dominującej i innym jednostkom, objętym konsolidacją.
 
-7. Można nie dokonywać wyłączeń, o których mowa w ust. 6, jeżeli nie są one istotne dla realizacji obowiązku określonego w art. 4 ust. 1.
+7. Można nie dokonywać wyłączeń, o których mowa w ust. 6, jeżeli nie są one istotne dla realizacji obowiązku określonego w [art. 4](#art-4) ust. 1.
 
 8. Jeżeli w ciągu roku obrotowego zbyto udziały w jednostce zależnej, to w skonsolidowanym rachunku zysków i strat wykazuje się:
 
@@ -1934,6 +2203,7 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 9. Udziały w kapitale własnym jednostek zależnych, należące do osób lub jednostek innych niż objęte konsolidacją, wykazuje się w odrębnej pozycji pasywów skonsolidowanego bilansu, po kapitałach własnych jako „Kapitały mniejszości”. Wartość początkową tych kapitałów ustala się w wysokości odpowiadającej im wartości godziwej aktywów netto, ustalonej na dzień rozpoczęcia sprawowania kontroli. Wartość tę zwiększa się lub zmniejsza odpowiednio o zmiany w aktywach netto jednostek zależnych. Przypadające na inne osoby lub jednostki nieobjęte konsolidacją zyski lub straty wykazuje się w skonsolidowanym rachunku zysków i strat po pozycji „Wynik finansowy netto” jako „Zyski (straty) mniejszości”, z uwzględnieniem korekty wyniku z tytułu określonego w ust. 6 pkt 4. Jeżeli straty jednostek zależnych przypadające na kapitały mniejszości przekraczają kwoty gwarantujące ich pokrycie, to ich nadwyżka podlega rozliczeniu z kapitałem własnym grupy kapitałowej.
 
+<a id="art-61"></a>
 ### Art. 61.
 
 1. Zastosowanie metody proporcjonalnej w skonsolidowanym sprawozdaniu finansowym polega na sumowaniu poszczególnych pozycji sprawozdań finansowych wspólnika jednostki współzależnej, w pełnej wartości, z częścią wartości poszczególnych pozycji sprawozdań finansowych jednostek współzależnych, proporcjonalną do posiadanych przez jednostki grupy kapitałowej objęte konsolidacją udziałów, dokonaniu wyłączeń, o których mowa w ust. 2 i 6 oraz innych korekt, o których mowa w ust. 8.
@@ -1948,7 +2218,7 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 4. W przypadku zmian procentowego udziału jednostki dominującej lub grupy kapitałowej w aktywach netto jednostki współzależnej, w wyniku wydania (emisji) udziałów, powstałą z tego tytułu różnicę, o której mowa w ust. 2, zalicza się w całości do przychodów lub kosztów finansowych.
 
-5. Dla ustalania podstaw wyceny aktywów netto w wartościach godziwych oraz rozliczania wartości firmy lub ujemnej wartości firmy stosuje się odpowiednio zasady określone w art. 28 ust. 5 i w art. 44b ust. 4, 11 i 12.
+5. Dla ustalania podstaw wyceny aktywów netto w wartościach godziwych oraz rozliczania wartości firmy lub ujemnej wartości firmy stosuje się odpowiednio zasady określone w [art. 28](#art-28) ust. 5 i w [art. 44b](#art-44b) ust. 4, 11 i 12.
 
 6. Wyłączeniu podlegają również odpowiednio w pełnych kwotach lub proporcjonalnie do posiadanych przez wspólnika jednostki współzależnej udziałów:
 
@@ -1960,7 +2230,7 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 4) dywidendy naliczone lub wypłacone przez jednostki współzależne ich wspólnikom i innym jednostkom objętym skonsolidowanym sprawozdaniem finansowym.
 
-7. Można nie dokonywać wyłączeń, o których mowa w ust. 6, jeżeli nie są one istotne dla realizacji obowiązku określonego w art. 4 ust. 1.
+7. Można nie dokonywać wyłączeń, o których mowa w ust. 6, jeżeli nie są one istotne dla realizacji obowiązku określonego w [art. 4](#art-4) ust. 1.
 
 8. Jeżeli w ciągu roku obrotowego zbyto udziały w jednostce współzależnej, to w skonsolidowanym rachunku zysków i strat wykazuje się:
 
@@ -1970,33 +2240,38 @@ c) 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pe�
 
 9. Nie wykazuje się udziałów w kapitale własnym jednostek współzależnych, w tym zysków (strat) netto, należących do osób lub jednostek innych niż wspólnik jednostki współzależnej i jednostek jego grupy kapitałowej.
 
+<a id="art-62"></a>
 ### Art. 62.
 
 (uchylony)
 
+<a id="art-63"></a>
 ### Art. 63.
 
-1. Metoda praw własności polega na wykazaniu w aktywach trwałych bilansu pozycji „Udziały w jednostkach podporządkowanych wyceniane metodą praw własności”, w cenie ich nabycia powiększonej lub pomniejszonej o, przypadające na rzecz jednostki dominującej, wspólnika jednostki współzależnej lub znaczącego inwestora zwiększenia lub zmniejszenia kapitału własnego jednostki podporządkowanej, jakie nastąpiły od dnia objęcia kontroli, uzyskania współkontroli lub znaczącego wpływu do dnia bilansowego, w tym zmniejszenia z tytułu rozliczeń z właścicielami, z tym, że udział w zysku (stracie) netto jednostki podporządkowanej koryguje się o odpis wartości firmy lub ujemnej wartości firmy, z zachowaniem zasad, o których mowa w art. 44b ust. 10, 11 i 12, oraz odpis różnicy w wycenie aktywów netto według ich wartości godziwych i wartości księgowych, przypadających na dany okres sprawozdawczy.
+1. Metoda praw własności polega na wykazaniu w aktywach trwałych bilansu pozycji „Udziały w jednostkach podporządkowanych wyceniane metodą praw własności”, w cenie ich nabycia powiększonej lub pomniejszonej o, przypadające na rzecz jednostki dominującej, wspólnika jednostki współzależnej lub znaczącego inwestora zwiększenia lub zmniejszenia kapitału własnego jednostki podporządkowanej, jakie nastąpiły od dnia objęcia kontroli, uzyskania współkontroli lub znaczącego wpływu do dnia bilansowego, w tym zmniejszenia z tytułu rozliczeń z właścicielami, z tym, że udział w zysku (stracie) netto jednostki podporządkowanej koryguje się o odpis wartości firmy lub ujemnej wartości firmy, z zachowaniem zasad, o których mowa w [art. 44b](#art-44b) ust. 10, 11 i 12, oraz odpis różnicy w wycenie aktywów netto według ich wartości godziwych i wartości księgowych, przypadających na dany okres sprawozdawczy.
 
 2. Przy stosowaniu metody praw własności w rachunku zysków i strat wykazuje się, w oddzielnej pozycji udział w zysku (stracie) netto jednostki podporządkowanej. Z zysku (straty) netto jednostki podporządkowanej wyłącza się zawarte w aktywach zyski lub straty z tytułu transakcji dokonanych między jednostkami objętymi sprawozdaniem finansowym a daną jednostką podporządkowaną, proporcjonalnie do posiadanych udziałów.
 
-3. Metody praw własności nie stosuje się w przypadkach określonych w art. 57 oraz można nie stosować w przypadkach określonych w art. 58.
+3. Metody praw własności nie stosuje się w przypadkach określonych w [art. 57](#art-57) oraz można nie stosować w przypadkach określonych w [art. 58](#art-58).
 
+<a id="art-63a"></a>
 ### Art. 63a.
 
 W przypadku trwałej utraty wartości udziałów w jednostkach podporządkowanych, ustalona na dzień nabycia udziałów wartość firmy lub ujemna wartość firmy podlega odpisaniu na wynik finansowy odpowiednio w kwocie równej różnicy pomiędzy dotychczasową wartością udziałów a ich wartością ustaloną po uwzględnieniu trwałej utraty wartości.
 
+<a id="art-63b"></a>
 ### Art. 63b.
 
 1. Jednostki, których dane objęte są skonsolidowanym sprawozdaniem finansowym, a w szczególności jednostki zależne i współzależne, powinny stosować jednakowe metody wyceny aktywów i pasywów oraz sporządzania sprawozdań finansowych, zgodne z przyjętymi zasadami (polityką) rachunkowości jednostki dominującej, z zastrzeżeniem ust. 2.
 
-2. Jeżeli nie jest możliwe z ważnych przyczyn stosowanie jednakowych metod wyceny i sporządzania sprawozdań finansowych lub jeżeli jednostka dominująca sporządza sprawozdania finansowe zgodnie z MSR, a jednostki, których dane objęte są skonsolidowanym sprawozdaniem finansowym, nie sporządzają sprawozdań finansowych oraz skonsolidowanych sprawozdań finansowych zgodnie z MSR, to należy dokonać odpowiednich przekształceń sprawozdań finansowych tych jednostek, których dane finansowe są istotne dla realizacji obowiązku określonego w art. 4 ust. 1.
+2. Jeżeli nie jest możliwe z ważnych przyczyn stosowanie jednakowych metod wyceny i sporządzania sprawozdań finansowych lub jeżeli jednostka dominująca sporządza sprawozdania finansowe zgodnie z MSR, a jednostki, których dane objęte są skonsolidowanym sprawozdaniem finansowym, nie sporządzają sprawozdań finansowych oraz skonsolidowanych sprawozdań finansowych zgodnie z MSR, to należy dokonać odpowiednich przekształceń sprawozdań finansowych tych jednostek, których dane finansowe są istotne dla realizacji obowiązku określonego w [art. 4](#art-4) ust. 1.
 
 3. (uchylony)
 
+<a id="art-63c"></a>
 ### Art. 63c.
 
-1. Sprawozdanie finansowe, o którym mowa w art. 55 ust. 1, sporządza się na ten sam dzień bilansowy i za ten sam rok obrotowy co sprawozdanie finansowe jednostki dominującej. Jeżeli ten sam dzień bilansowy nie może być przyjęty przez poszczególne jednostki grupy kapitałowej to konsolidacją można objąć sprawozdanie finansowe sporządzone za inny okres roczny niż rok obrotowy, pod warunkiem, że dzień bilansowy tych sprawozdań finansowych przypada niewcześniej niż na 3 miesiące przed dniem bilansowym przyjętym dla grupy kapitałowej. Dotyczy to również sprawozdań finansowych jednostek, dla których stosuje się metodę praw własności.
+1. Sprawozdanie finansowe, o którym mowa w [art. 55](#art-55) ust. 1, sporządza się na ten sam dzień bilansowy i za ten sam rok obrotowy co sprawozdanie finansowe jednostki dominującej. Jeżeli ten sam dzień bilansowy nie może być przyjęty przez poszczególne jednostki grupy kapitałowej to konsolidacją można objąć sprawozdanie finansowe sporządzone za inny okres roczny niż rok obrotowy, pod warunkiem, że dzień bilansowy tych sprawozdań finansowych przypada niewcześniej niż na 3 miesiące przed dniem bilansowym przyjętym dla grupy kapitałowej. Dotyczy to również sprawozdań finansowych jednostek, dla których stosuje się metodę praw własności.
 
 2. Jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe, niepóźniej niż w ciągu 3 miesięcy od dnia bilansowego, na który jednostka dominująca sporządza roczne sprawozdanie finansowe.
 
@@ -2016,16 +2291,19 @@ W przypadku trwałej utraty wartości udziałów w jednostkach podporządkowanyc
 
 2) może być znakowane zgodnie z wymogami rozporządzenia Komisji (UE) 2019/815.
 
-3. Skonsolidowane sprawozdanie finansowe podpisuje kierownik jednostki dominującej oraz inne osoby odpowiedzialne za sporządzenie tego sprawozdania. Przepisy art. 52 ust. 2–2e stosuje się odpowiednio.
+3. Skonsolidowane sprawozdanie finansowe podpisuje kierownik jednostki dominującej oraz inne osoby odpowiedzialne za sporządzenie tego sprawozdania. Przepisy [art. 52](#art-52) ust. 2–2e stosuje się odpowiednio.
 
 4. Roczne skonsolidowane sprawozdanie finansowe podlega zatwierdzeniu przez organ zatwierdzający jednostki dominującej, niepóźniej niż w ciągu 6 miesięcy od dnia bilansowego, na który należy sporządzić roczne sprawozdanie finansowe jednostki dominującej.
 
+<a id="art-63d"></a>
 ### Art. 63d.
 
 Skonsolidowane sprawozdania finansowe oraz sprawozdania z działalności grup kapitałowych, w przypadku gdy jednostkami dominującymi są emitenci papierów wartościowych dopuszczonych, emitenci zamierzający ubiegać się lub ubiegający się o ich dopuszczenie do obrotu na rynku regulowanym jednego z krajów Europejskiego Obszaru Gospodarczego, sporządza się na podstawie przepisów ustawy, z uwzględnieniem przepisów o obrocie papierami wartościowymi.
 
+<a id="rozdzial-6a"></a>
 ### Rozdział 6a. Sprawozdanie z płatności na rzecz administracji publicznej
 
+<a id="art-63e"></a>
 ### Art. 63e.
 
 Ilekroć w rozdziale jest mowa o:
@@ -2060,11 +2338,12 @@ g) płatności za ulepszenia w zakresie infrastruktury;
 
 8) sprawozdaniu z płatności – rozumie się przez to sprawozdanie z płatności na rzecz administracji publicznej.
 
+<a id="art-63f"></a>
 ### Art. 63f.
 
 1. Jednostka działająca w przemyśle wydobywczym lub jednostka zajmująca się wyrębem lasów pierwotnych sporządza na dzień bilansowy, wraz z rocznym sprawozdaniem finansowym, sprawozdanie z płatności, jeżeli jest:
 
-1)[45)] jednostką, o której mowa w art. 3 ust. 1h, będącą spółką kapitałową, spółką komandytowo-akcyjną albo taką spółką jawną albo spółką komandytową, której wszystkimi wspólnikami ponoszącymi nieograniczoną odpowiedzialność są spółki kapitałowe, spółki komandytowo-akcyjne lub spółki z innych państw o podobnej do tych spółek formie prawnej, lub
+1)[45)] jednostką, o której mowa w [art. 3](#art-3) ust. 1h, będącą spółką kapitałową, spółką komandytowo-akcyjną albo taką spółką jawną albo spółką komandytową, której wszystkimi wspólnikami ponoszącymi nieograniczoną odpowiedzialność są spółki kapitałowe, spółki komandytowo-akcyjne lub spółki z innych państw o podobnej do tych spółek formie prawnej, lub
 
 2)[45)] jednostką dużą będącą spółką kapitałową, spółką komandytowo-akcyjną albo taką spółką jawną albo spółką komandytową, której wszystkimi wspólnikami ponoszącymi nieograniczoną odpowiedzialność są spółki kapitałowe, spółki komandytowo-akcyjne lub spółki z innych państw o podobnej do tych spółek formie prawnej – oraz jeżeli pojedyncza płatność lub suma płatności powiązanych dokonanych przez tę jednostkę stanowiła w roku obrotowym co najmniej równowartość kwoty 424 700 zł.
 
@@ -2072,9 +2351,9 @@ g) płatności za ulepszenia w zakresie infrastruktury;
 
 1) łączną kwotę płatności dokonanych na rzecz administracji publicznej danego państwa, z podziałem na płatności na rzecz odpowiednich szczebli administracji publicznej;
 
-2) łączną kwotę płatności z podziałem na tytuły wskazane w art. 63e pkt 6 dokonanych na rzecz odpowiedniego szczebla administracji publicznej danego państwa;
+2) łączną kwotę płatności z podziałem na tytuły wskazane w [art. 63e](#art-63e) pkt 6 dokonanych na rzecz odpowiedniego szczebla administracji publicznej danego państwa;
 
-3) w przypadku gdy płatności zostały przypisane przez jednostkę do określonego projektu – łączną kwotę dokonanych płatności z tytułu poszczególnych projektów wraz z podziałem na tytuły płatności wskazane w art. 63e pkt 6.
+3) w przypadku gdy płatności zostały przypisane przez jednostkę do określonego projektu – łączną kwotę dokonanych płatności z tytułu poszczególnych projektów wraz z podziałem na tytuły płatności wskazane w [art. 63e](#art-63e) pkt 6.
 
 3. Przepis ust. 2 pkt 3 nie dotyczy płatności dokonywanych przez jednostkę w związku z wymogami nałożonymi na poziomie tej jednostki. W tym przypadku płatności te mogą być prezentowane na poziomie jednostki, a nie na poziomie projektu.
 
@@ -2082,38 +2361,45 @@ g) płatności za ulepszenia w zakresie infrastruktury;
 
 5. W przypadku dokonywania płatności w naturze, w sprawozdaniu z płatności wykazuje się ich wartość, jeżeli to możliwe – także w jednostkach naturalnych, wraz z podaniem sposobu jej ustalenia.
 
+<a id="art-63g"></a>
 ### Art. 63g.
 
-1. Jednostka, o której mowa w art. 63f ust. 1, będąca jednostką dominującą określoną w art. 55 ust. 1 sporządza skonsolidowane sprawozdanie z płatności zgodnie z art. 63f ust. 2–5.
+1. Jednostka, o której mowa w [art. 63f](#art-63f) ust. 1, będąca jednostką dominującą określoną w [art. 55](#art-55) ust. 1 sporządza skonsolidowane sprawozdanie z płatności zgodnie z [art. 63f](#art-63f) ust. 2–5.
 
-2. Przepis ust. 1 stosuje się odpowiednio do jednostki dominującej określonej w art. 55 ust. 1, jeżeli spełnia ona przesłanki z art. 63f ust. 1 pkt 1 lub 2 i którakolwiek z jej jednostek zależnych jest jednostką działającą w przemyśle wydobywczym lub jednostką zajmującą się wyrębem lasów pierwotnych, a pojedyncza płatność lub suma płatności powiązanych dokonanych przez jej jednostkę zależną stanowiła w roku obrotowym co najmniej równowartość kwoty 424 700 zł.
+2. Przepis ust. 1 stosuje się odpowiednio do jednostki dominującej określonej w [art. 55](#art-55) ust. 1, jeżeli spełnia ona przesłanki z [art. 63f](#art-63f) ust. 1 pkt 1 lub 2 i którakolwiek z jej jednostek zależnych jest jednostką działającą w przemyśle wydobywczym lub jednostką zajmującą się wyrębem lasów pierwotnych, a pojedyncza płatność lub suma płatności powiązanych dokonanych przez jej jednostkę zależną stanowiła w roku obrotowym co najmniej równowartość kwoty 424 700 zł.
 
-3. Skonsolidowane sprawozdanie z płatności obejmuje dane jednostki dominującej i jednostek wszystkich szczebli zależnych od niej. Skonsolidowane sprawozdanie z płatności może nie obejmować danych jednostki, która nie została objęta konsolidacją na podstawie art. 57.
+3. Skonsolidowane sprawozdanie z płatności obejmuje dane jednostki dominującej i jednostek wszystkich szczebli zależnych od niej. Skonsolidowane sprawozdanie z płatności może nie obejmować danych jednostki, która nie została objęta konsolidacją na podstawie [art. 57](#art-57).
 
-4. Do skonsolidowanego sprawozdania z płatności stosuje się odpowiednio przepisy art. 63c ust. 2 i 3.
+4. Do skonsolidowanego sprawozdania z płatności stosuje się odpowiednio przepisy [art. 63c](#art-63c) ust. 2 i 3.
 
+<a id="art-63h"></a>
 ### Art. 63h.
 
-1. Jednostka, o której mowa w art. 63f ust. 1, będąca jednostką zależną, może nie sporządzać sprawozdania z płatności, jeżeli jej jednostka dominująca mająca siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego sporządza skonsolidowane sprawozdanie z płatności zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego, któremu podlega, a płatności dokonane przez tę jednostkę zależną na rzecz administracji publicznej są uwzględnione w tym skonsolidowanym sprawozdaniu z płatności.
+1. Jednostka, o której mowa w [art. 63f](#art-63f) ust. 1, będąca jednostką zależną, może nie sporządzać sprawozdania z płatności, jeżeli jej jednostka dominująca mająca siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego sporządza skonsolidowane sprawozdanie z płatności zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego, któremu podlega, a płatności dokonane przez tę jednostkę zależną na rzecz administracji publicznej są uwzględnione w tym skonsolidowanym sprawozdaniu z płatności.
 
-2. Jednostka dominująca może nie sporządzać sprawozdania z płatności, jeżeli sporządza ona skonsolidowane sprawozdanie z płatności zgodnie z zasadami określonymi w art. 63g, a płatności dokonane przez tę jednostkę dominującą na rzecz administracji publicznej są uwzględnione w tym skonsolidowanym sprawozdaniu z płatności.
+2. Jednostka dominująca może nie sporządzać sprawozdania z płatności, jeżeli sporządza ona skonsolidowane sprawozdanie z płatności zgodnie z zasadami określonymi w [art. 63g](#art-63g), a płatności dokonane przez tę jednostkę dominującą na rzecz administracji publicznej są uwzględnione w tym skonsolidowanym sprawozdaniu z płatności.
 
-3. Jednostka, o której mowa w art. 63g ust. 1, będąca jednostką dominującą niższego szczebla, może nie sporządzać skonsolidowanego sprawozdania z płatności, jeżeli jej jednostka dominująca wyższego szczebla mająca siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego sporządza skonsolidowane sprawozdanie z płatności zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego, któremu podlega, a płatności dokonane przez tę jednostkę dominującą niższego szczebla na rzecz administracji publicznej są uwzględnione w tym skonsolidowanym sprawozdaniu z płatności.
+3. Jednostka, o której mowa w [art. 63g](#art-63g) ust. 1, będąca jednostką dominującą niższego szczebla, może nie sporządzać skonsolidowanego sprawozdania z płatności, jeżeli jej jednostka dominująca wyższego szczebla mająca siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego sporządza skonsolidowane sprawozdanie z płatności zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego, któremu podlega, a płatności dokonane przez tę jednostkę dominującą niższego szczebla na rzecz administracji publicznej są uwzględnione w tym skonsolidowanym sprawozdaniu z płatności.
 
+<a id="art-63i"></a>
 ### Art. 63i.
 
-Jednostki określone w art. 63f ust. 1 lub art. 63g ust. 1, które sporządzają i ogłaszają sprawozdanie z płatności lub skonsolidowane sprawozdanie z płatności zgodnie z przepisami prawa państwa spoza Europejskiego Obszaru Gospodarczego uznanych przez Komisję Europejską za równoważne z przepisami unijnymi, mogą nie stosować przepisów ustawy w zakresie sporządzania tych sprawozdań, pod warunkiem złożenia sprawozdania z płatności lub skonsolidowanego sprawozdania z płatności we właściwym rejestrze sądowym.
+Jednostki określone w [art. 63f](#art-63f) ust. 1 lub [art. 63g](#art-63g) ust. 1, które sporządzają i ogłaszają sprawozdanie z płatności lub skonsolidowane sprawozdanie z płatności zgodnie z przepisami prawa państwa spoza Europejskiego Obszaru Gospodarczego uznanych przez Komisję Europejską za równoważne z przepisami unijnymi, mogą nie stosować przepisów ustawy w zakresie sporządzania tych sprawozdań, pod warunkiem złożenia sprawozdania z płatności lub skonsolidowanego sprawozdania z płatności we właściwym rejestrze sądowym.
 
+<a id="art-63j"></a>
 ### Art. 63j.
 
-Do sprawozdania z płatności i skonsolidowanego sprawozdania z płatności stosuje się odpowiednio przepisy art. 52 ust. 1–2e, z tym że nie podpisuje ich osoba, której powierzono prowadzenie ksiąg rachunkowych.
+Do sprawozdania z płatności i skonsolidowanego sprawozdania z płatności stosuje się odpowiednio przepisy [art. 52](#art-52) ust. 1–2e, z tym że nie podpisuje ich osoba, której powierzono prowadzenie ksiąg rachunkowych.
 
+<a id="art-63k"></a>
 ### Art. 63k.
 
 Sprawozdanie z płatności i skonsolidowane sprawozdanie z płatności sporządza się w postaci elektronicznej oraz opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
+<a id="rozdzial-6b"></a>
 ### Rozdział 6b [46)]. Sprawozdanie o podatku dochodowym
 
+<a id="art-63l"></a>
 ### Art. 63l.
 
 1. Ilekroć w rozdziale jest mowa o:
@@ -2126,12 +2412,13 @@ Sprawozdanie z płatności i skonsolidowane sprawozdanie z płatności sporządz
 
 4) konkluzjach Rady – rozumie się przez to konkluzje Rady w sprawie unijnego wykazu jurysdykcji niechętnych współpracy do celów podatkowych (Dz. Urz. UE C 438 z 19.12.2017, str. 5, z późn. zm.47)).
 
-2. Dla celów art. 63m i art. 63n przez przychody rozumie się:
+2. Dla celów [art. 63m](#art-63m) i [art. 63n](#art-63n) przez przychody rozumie się:
 
 1) przychody netto ze sprzedaży produktów i towarów – w przypadku jednostek mających siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej, które nie stosują MSR;
 
 2) przychody w rozumieniu ram sprawozdawczości finansowej stosowanych przez jednostkę, na podstawie których są sporządzane sprawozdania finansowe – w przypadku jednostek innych niż określone w pkt 1.
 
+<a id="art-63m"></a>
 ### Art. 63m.
 
 1. Sprawozdanie o podatku dochodowym za rok obrotowy sporządza, publikuje i udostępnia:
@@ -2160,7 +2447,7 @@ Sprawozdanie z płatności i skonsolidowane sprawozdanie z płatności sporządz
 
 2) zamieszcza sprawozdanie o podatku dochodowym na stronie internetowej jednostki, przy czym sprawozdanie to jest udostępniane na tej stronie przez okres co najmniej 5 lat.
 
-5.[48)] Kierownik jednostki określonej w ust. 1 wraz ze sprawozdaniem o podatku dochodowym składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie art. 52 ust. 2, oraz oświadczenie albo odmowę złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b, jeżeli zostały sporządzone.
+5.[48)] Kierownik jednostki określonej w ust. 1 wraz ze sprawozdaniem o podatku dochodowym składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie [art. 52](#art-52) ust. 2, oraz oświadczenie albo odmowę złożenia oświadczenia, do których ma zastosowanie [art. 52](#art-52) ust. 2b, jeżeli zostały sporządzone.
 
 6. Jednostki, o których mowa w ust. 1, przestają podlegać obowiązkom określonym w tym przepisie, jeżeli dla każdego z 2 ostatnich lat obrotowych:
 
@@ -2168,11 +2455,12 @@ Sprawozdanie z płatności i skonsolidowane sprawozdanie z płatności sporządz
 
 2) przychody ujęte w rocznym sprawozdaniu finansowym jednostki samodzielnej są niższe niż 3 500 000 000 zł – w przypadku, o którym mowa w ust. 1 pkt 2.
 
+<a id="art-63n"></a>
 ### Art. 63n.
 
 1. Sprawozdanie o podatku dochodowym za rok obrotowy, dotyczące odpowiednio jednostki dominującej najwyższego szczebla albo jednostki samodzielnej, publikuje i udostępnia:
 
-1) jednostka zależna, pod warunkiem że: a)49) w 2 ostatnich latach obrotowych jednostka ta przekracza co najmniej dwie z trzech wielkości, o których mowa w art. 3 ust. 1 pkt 1b, oraz
+1) jednostka zależna, pod warunkiem że: a)49) w 2 ostatnich latach obrotowych jednostka ta przekracza co najmniej dwie z trzech wielkości, o których mowa w [art. 3](#art-3) ust. 1 pkt 1b, oraz
 
 b) jednostka ta jest kontrolowana przez jednostkę dominującą najwyższego szczebla mającą siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, jeżeli przychody ujęte w rocznym skonsolidowanym sprawozdaniu finansowym tej jednostki dominującej najwyższego szczebla dla każdego z 2 ostatnich lat obrotowych przekraczają kwotę 750 000 000 euro;
 
@@ -2180,7 +2468,7 @@ b) jednostka ta jest kontrolowana przez jednostkę dominującą najwyższego szc
 
 a) jednostką samodzielną mającą siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, jeżeli przychody ujęte w rocznym sprawozdaniu finansowym tej jednostki przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 750 000 000 euro, albo
 
-b) jednostką powiązaną grupy kapitałowej mającą siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, jeżeli: – przychody ujęte w rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla tej grupy kapitałowej przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 750 000 000 euro, oraz –51) jednostka dominująca najwyższego szczebla tej grupy kapitałowej ma siedzibę poza terytorium Europejskiego Obszaru Gospodarczego i nie posiada ona na terytorium Europejskiego Obszaru Gospodarczego jednostki zależnej przekraczającej co najmniej dwie z trzech wielkości, o których mowa w art. 3 ust. 1 pkt 1b.
+b) jednostką powiązaną grupy kapitałowej mającą siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, jeżeli: – przychody ujęte w rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla tej grupy kapitałowej przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 750 000 000 euro, oraz –51) jednostka dominująca najwyższego szczebla tej grupy kapitałowej ma siedzibę poza terytorium Europejskiego Obszaru Gospodarczego i nie posiada ona na terytorium Europejskiego Obszaru Gospodarczego jednostki zależnej przekraczającej co najmniej dwie z trzech wielkości, o których mowa w [art. 3](#art-3) ust. 1 pkt 1b.
 
 2. Przepis ust. 1 pkt 1 stosuje się wyłącznie do jednostki zależnej będącej:
 
@@ -2212,11 +2500,11 @@ b) sprawozdanie o podatku dochodowym sporządzone odpowiednio przez jednostkę d
 
 2) zamieszcza sprawozdanie o podatku dochodowym, a w przypadku sprawozdania o podatku dochodowym, o którym mowa w ust. 4 pkt 1, również oświadczenie, o którym mowa w ust. 4 pkt 2, odpowiednio na stronie internetowej jednostki zależnej albo oddziału, przy czym sprawozdanie i oświadczenie są udostępniane na tej stronie przez okres co najmniej 5 lat.
 
-6.[48)] Kierownik jednostki zależnej albo oddziału wraz ze sprawozdaniem o podatku dochodowym, o którym mowa w ust. 4 pkt 1, oraz oświadczeniem, o którym mowa w ust. 4 pkt 2, składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie art. 52 ust. 2, oraz oświadczenie albo odmowę złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b, jeżeli zostały sporządzone.
+6.[48)] Kierownik jednostki zależnej albo oddziału wraz ze sprawozdaniem o podatku dochodowym, o którym mowa w ust. 4 pkt 1, oraz oświadczeniem, o którym mowa w ust. 4 pkt 2, składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie [art. 52](#art-52) ust. 2, oraz oświadczenie albo odmowę złożenia oświadczenia, do których ma zastosowanie [art. 52](#art-52) ust. 2b, jeżeli zostały sporządzone.
 
 7. Obowiązków określonych w ust. 1–4, ust. 5 pkt 1 lit. a i pkt 2 oraz ust. 6 nie stosuje się, jeżeli sprawozdanie o podatku dochodowym jednostki dominującej najwyższego szczebla albo jednostki samodzielnej spełnia łącznie następujące warunki:
 
-1) jest sporządzone odpowiednio przez jednostkę dominującą najwyższego szczebla albo jednostkę samodzielną zgodnie z art. 63o;
+1) jest sporządzone odpowiednio przez jednostkę dominującą najwyższego szczebla albo jednostkę samodzielną zgodnie z [art. 63o](#art-63o);
 
 2) jest nieodpłatnie udostępnione, w terminie 12 miesięcy po dniu bilansowym, w postaci elektronicznej w formacie nadającym się do odczytu maszynowego, na stronie internetowej odpowiednio jednostki dominującej najwyższego szczebla albo jednostki samodzielnej w co najmniej jednym języku urzędowym państwa należącego do Europejskiego Obszaru Gospodarczego, przez okres co najmniej 5 lat;
 
@@ -2224,11 +2512,11 @@ b) sprawozdanie o podatku dochodowym sporządzone odpowiednio przez jednostkę d
 
 8. Jednostka zależna i oddział przestają podlegać obowiązkom określonym w ust. 1, jeżeli dla każdego z 2 ostatnich lat obrotowych:
 
-1)[53)] jednostka zależna nie przekracza dwóch z trzech wielkości, o których mowa w art. 3 ust. 1 pkt 1b, lub
+1)[53)] jednostka zależna nie przekracza dwóch z trzech wielkości, o których mowa w [art. 3](#art-3) ust. 1 pkt 1b, lub
 
 2) przychody ujęte w rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla, o której mowa w ust. 1 pkt 1 lit. b albo ust. 1 pkt 2 lit. b, są niższe niż 750 000 000 euro, lub
 
-3)[54)] przychody oddziału są niższe niż kwota, o której mowa w art. 3 ust. 1 pkt 1b lit. b, lub
+3)[54)] przychody oddziału są niższe niż kwota, o której mowa w [art. 3](#art-3) ust. 1 pkt 1b lit. b, lub
 
 4) przychody ujęte w rocznym sprawozdaniu finansowym jednostki samodzielnej, o której mowa w ust. 1 pkt 2 lit. a, są niższe niż 750 000 000 euro.
 
@@ -2236,6 +2524,7 @@ b) sprawozdanie o podatku dochodowym sporządzone odpowiednio przez jednostkę d
 
 10. Do jednostek zależnych i oddziałów, które nie spełniają kryteriów określonych odpowiednio w ust. 1 pkt 1 lit. a albo pkt 2, a które zostały utworzone wyłącznie w celu obejścia wymogów sprawozdawczych określonych w niniejszym rozdziale, przepisy ust. 1–9 stosuje się odpowiednio.
 
+<a id="art-63o"></a>
 ### Art. 63o.
 
 1. Sprawozdanie o podatku dochodowym jest sporządzane na dzień bilansowy i obejmuje informacje dotyczące całej działalności jednostki samodzielnej albo jednostki dominującej najwyższego szczebla, w tym działalności wszystkich jednostek zależnych ujętych w skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla, za dany rok obrotowy.
@@ -2298,12 +2587,14 @@ b) przychody w rozumieniu ram sprawozdawczości finansowej, na podstawie któryc
 
 14. Sprawozdanie o podatku dochodowym jest sporządzane w języku polskim i walucie polskiej.
 
-15. Sprawozdanie o podatku dochodowym oraz oświadczenie, o którym mowa w art. 63n ust. 4 pkt 2, sporządza się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+15. Sprawozdanie o podatku dochodowym oraz oświadczenie, o którym mowa w [art. 63n](#art-63n) ust. 4 pkt 2, sporządza się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-16. Do sprawozdania o podatku dochodowym oraz oświadczenia, o którym mowa w art. 63n ust. 4 pkt 2, stosuje się odpowiednio przepisy art. 52 ust. 1, w zakresie przedstawiania tego sprawozdania właściwym organom, oraz art. 52 ust. 2–2e, z tym że tego sprawozdania ani tego oświadczenia nie podpisuje osoba, której powierzono prowadzenie ksiąg rachunkowych.
+16. Do sprawozdania o podatku dochodowym oraz oświadczenia, o którym mowa w [art. 63n](#art-63n) ust. 4 pkt 2, stosuje się odpowiednio przepisy [art. 52](#art-52) ust. 1, w zakresie przedstawiania tego sprawozdania właściwym organom, oraz [art. 52](#art-52) ust. 2–2e, z tym że tego sprawozdania ani tego oświadczenia nie podpisuje osoba, której powierzono prowadzenie ksiąg rachunkowych.
 
+<a id="rozdzial-6c"></a>
 ### Rozdział 6c [56)]. Sprawozdawczość zrównoważonego rozwoju
 
+<a id="art-63p"></a>
 ### Art. 63p.
 
 Ilekroć w rozdziale jest mowa o:
@@ -2314,6 +2605,7 @@ Ilekroć w rozdziale jest mowa o:
 
 3) standardach sprawozdawczości zrównoważonego rozwoju dla małych i średnich jednostek – rozumie się przez to standardy określone przez Komisję Europejską w drodze aktów delegowanych wydanych na podstawie art. 29c ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. w sprawie rocznych sprawozdań finansowych, skonsolidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniającej dyrektywę Parlamentu Europejskiego i Rady 2006/43/WE oraz uchylającej dyrektywy Rady 78/660/EWG i 83/349/EWG.
 
+<a id="art-63q"></a>
 ### Art. 63q.
 
 1. Przepisy niniejszego rozdziału stosuje się do jednostek będących:
@@ -2332,6 +2624,7 @@ Ilekroć w rozdziale jest mowa o:
 
 2. Przepisów niniejszego rozdziału nie stosuje się do funduszy inwestycyjnych otwartych, funduszy inwestycyjnych zamkniętych, specjalistycznych funduszy inwestycyjnych otwartych oraz alternatywnych spółek inwestycyjnych, o których mowa w przepisach o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
 
+<a id="art-63r"></a>
 ### Art. 63r.
 
 1. Jednostka mała i jednostka średnia będące emitentami papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego oraz jednostka duża są obowiązane do przedstawienia w wyodrębnionej części sprawozdania z działalności informacji niezbędnych do zrozumienia wpływu jednostki na kwestie zrównoważonego rozwoju oraz do zrozumienia, w jaki sposób kwestie zrównoważonego rozwoju wpływają na rozwój, wyniki i sytuację jednostki, zwanych dalej „sprawozdawczością zrównoważonego rozwoju”.
@@ -2386,6 +2679,7 @@ c) wszelkich działań podjętych przez jednostkę w ramach procesu należytej s
 
 8. Kierownik jednostki konsultuje z przedstawicielami pracowników istotne dla pracowników jednostki informacje na temat zrównoważonego rozwoju oraz sposoby ich uzyskiwania i weryfikacji. Kierownik jednostki przekazuje opinię przedstawicieli pracowników członkom rady nadzorczej lub innego organu nadzorującego jednostkę, o ile jednostka taki organ posiada.
 
+<a id="art-63s"></a>
 ### Art. 63s.
 
 1. Jednostki będące:
@@ -2424,56 +2718,61 @@ c) wszelkich działań podjętych przez jednostkę w ramach procesu należytej s
 
 6. Jednostka przedstawia w uproszczonej sprawozdawczości zrównoważonego rozwoju proces oceny istotności, jaki przeprowadziła w celu zidentyfikowania informacji ujętych w tej sprawozdawczości wymaganych przepisami niniejszego artykułu oraz standardami sprawozdawczości zrównoważonego rozwoju dla małych i średnich jednostek.
 
-7. W przypadku sporządzania uproszczonej sprawozdawczości zrównoważonego rozwoju przepisy art. 63r ust. 7 i 8 stosuje się.
+7. W przypadku sporządzania uproszczonej sprawozdawczości zrównoważonego rozwoju przepisy [art. 63r](#art-63r) ust. 7 i 8 stosuje się.
 
+<a id="art-63t"></a>
 ### Art. 63t.
 
-Jednostka sporządzająca sprawozdawczość zrównoważonego rozwoju jest zwolniona z obowiązków, o których mowa w art. 49 ust. 3 i 3a.
+Jednostka sporządzająca sprawozdawczość zrównoważonego rozwoju jest zwolniona z obowiązków, o których mowa w [art. 49](#art-49) ust. 3 i 3a.
 
+<a id="art-63u"></a>
 ### Art. 63u.
 
 1. Jednostka zależna od jednostki dominującej mającej siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego, w tym jednostka dominująca niższego szczebla, jest zwolniona z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju, jeżeli są spełnione łącznie następujące warunki:
 
-1) informacje dotyczące tej jednostki zależnej i jej jednostek zależnych zostaną zawarte w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, w sprawozdaniu z działalności grupy kapitałowej tej jednostki dominującej, sporządzonym zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego;
+1) informacje dotyczące tej jednostki zależnej i jej jednostek zależnych zostaną zawarte w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, o której mowa w [art. 63x](#art-63x) ust. 1, w sprawozdaniu z działalności grupy kapitałowej tej jednostki dominującej, sporządzonym zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego;
 
 2) ta jednostka zależna ujawnia w swoim sprawozdaniu z działalności:
 
 a) informację, że skorzystała ze zwolnienia ze sporządzenia sprawozdawczości zrównoważonego rozwoju,
 
-b) nazwę i siedzibę jednostki dominującej, która sporządzi sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1,
+b) nazwę i siedzibę jednostki dominującej, która sporządzi sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w [art. 63x](#art-63x) ust. 1,
 
-c) adres strony internetowej, na której zostanie udostępnione w terminie 12 miesięcy od dnia bilansowego jednostki zależnej sprawozdanie z działalności grupy kapitałowej jednostki dominującej wraz ze sprawozdaniem z atestacji sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, przy czym dokumenty te są udostępniane na stronie internetowej przez okres co najmniej 5 lat.
+c) adres strony internetowej, na której zostanie udostępnione w terminie 12 miesięcy od dnia bilansowego jednostki zależnej sprawozdanie z działalności grupy kapitałowej jednostki dominującej wraz ze sprawozdaniem z atestacji sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, o której mowa w [art. 63x](#art-63x) ust. 1, przy czym dokumenty te są udostępniane na stronie internetowej przez okres co najmniej 5 lat.
 
 2. W przypadku gdy jednostka dominująca ma siedzibę lub miejsce sprawowania zarządu w państwie innym niż Rzeczpospolita Polska, ujawnienie, o którym mowa w ust. 1 pkt 2 lit. c, obejmuje również ujawnienie przez jednostkę zależną w jej sprawozdaniu z działalności adresu strony internetowej, na której zostaną udostępnione tłumaczenia dokumentów, o których mowa w ust. 1 pkt 2 lit. c, na język polski.
 
+<a id="art-63v"></a>
 ### Art. 63v.
 
 Jednostka zależna od jednostki dominującej mającej siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, w tym jednostka dominująca niższego szczebla, jest zwolniona z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju, jeżeli są spełnione łącznie następujące warunki:
 
-1) informacje dotyczące tej jednostki zależnej i jej jednostek zależnych zostaną zawarte w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, tej jednostki dominującej, sporządzonej zgodnie ze standardami sprawozdawczości zrównoważonego rozwoju lub standardami uznanymi za równoważne zgodnie z aktem wykonawczym w sprawie równoważności standardów sprawozdawczości w zakresie zrównoważonego rozwoju przyjętym zgodnie z art. 23 ust. 4 akapit trzeci dyrektywy 2004/109/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie harmonizacji wymogów dotyczących przejrzystości informacji o emitentach, których papiery wartościowe dopuszczane są do obrotu na rynku regulowanym oraz zmieniającej dyrektywę 2001/34/WE (Dz. Urz. UE L 390 z 31.12.2004, str. 38–57, z późn. zm.60)), zwanej dalej „dyrektywą 2004/109/WE”;
+1) informacje dotyczące tej jednostki zależnej i jej jednostek zależnych zostaną zawarte w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, o której mowa w [art. 63x](#art-63x) ust. 1, tej jednostki dominującej, sporządzonej zgodnie ze standardami sprawozdawczości zrównoważonego rozwoju lub standardami uznanymi za równoważne zgodnie z aktem wykonawczym w sprawie równoważności standardów sprawozdawczości w zakresie zrównoważonego rozwoju przyjętym zgodnie z art. 23 ust. 4 akapit trzeci dyrektywy 2004/109/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie harmonizacji wymogów dotyczących przejrzystości informacji o emitentach, których papiery wartościowe dopuszczane są do obrotu na rynku regulowanym oraz zmieniającej dyrektywę 2001/34/WE (Dz. Urz. UE L 390 z 31.12.2004, str. 38–57, z późn. zm.60)), zwanej dalej „dyrektywą 2004/109/WE”;
 
 2) ta jednostka zależna ujawnia w swoim sprawozdaniu z działalności:
 
 a) informację, że skorzystała ze zwolnienia ze sporządzenia sprawozdawczości zrównoważonego rozwoju,
 
-b) nazwę i siedzibę jednostki dominującej, która sporządzi sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1,
+b) nazwę i siedzibę jednostki dominującej, która sporządzi sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w [art. 63x](#art-63x) ust. 1,
 
-c) adres strony internetowej, na której zostanie udostępniona w terminie 12 miesięcy od dnia bilansowego jednostki zależnej sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, wraz ze sprawozdaniem z atestacji tej sprawozdawczości oraz tłumaczenia tych dokumentów na język polski, przy czym dokumenty te są udostępniane na stronie internetowej przez okres co najmniej 5 lat;
+c) adres strony internetowej, na której zostanie udostępniona w terminie 12 miesięcy od dnia bilansowego jednostki zależnej sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w [art. 63x](#art-63x) ust. 1, wraz ze sprawozdaniem z atestacji tej sprawozdawczości oraz tłumaczenia tych dokumentów na język polski, przy czym dokumenty te są udostępniane na stronie internetowej przez okres co najmniej 5 lat;
 
-3) kierownik tej jednostki zależnej złoży we właściwym rejestrze sądowym, w terminie 12 miesięcy od dnia bilansowego, sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, jednostki dominującej wraz ze sprawozdaniem z atestacji tej sprawozdawczości wydanym przez podmiot upoważniony do wydawania opinii z atestacji sprawozdawczości zrównoważonego rozwoju na podstawie prawa krajowego, któremu podlega jednostka dominująca, oraz tłumaczenia tych dokumentów na język polski;
+3) kierownik tej jednostki zależnej złoży we właściwym rejestrze sądowym, w terminie 12 miesięcy od dnia bilansowego, sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w [art. 63x](#art-63x) ust. 1, jednostki dominującej wraz ze sprawozdaniem z atestacji tej sprawozdawczości wydanym przez podmiot upoważniony do wydawania opinii z atestacji sprawozdawczości zrównoważonego rozwoju na podstawie prawa krajowego, któremu podlega jednostka dominująca, oraz tłumaczenia tych dokumentów na język polski;
 
 4) informacje określone w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13, z późn. zm.61)), dotyczące działalności prowadzonej przez korzystającą ze zwolnienia jednostkę zależną i jej jednostki zależne, zostaną zawarte w sprawozdaniu z działalności tej jednostki zależnej lub w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63x ust. 1, sporządzonej przez jednostkę dominującą.
 
+<a id="art-63w"></a>
 ### Art. 63w.
 
-1. Przepisów art. 63u i art. 63v nie stosuje się do jednostki dużej będącej emitentem papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego.
+1. Przepisów [art. 63u](#art-63u) i [art. 63v](#art-63v) nie stosuje się do jednostki dużej będącej emitentem papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego.
 
-2. W przypadku gdy sprawozdanie z działalności grupy kapitałowej, o którym mowa w art. 63u ust. 1 pkt 1, lub sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w art. 63v pkt 1, zostały sporządzone w innym języku niż język polski, sporządzane jest tłumaczenie tych dokumentów na język polski. Tłumaczenie, które nie zostało wykonane przez tłumacza przysięgłego, zawiera o tym informację.
+2. W przypadku gdy sprawozdanie z działalności grupy kapitałowej, o którym mowa w [art. 63u](#art-63u) ust. 1 pkt 1, lub sprawozdawczość zrównoważonego rozwoju grupy kapitałowej, o której mowa w [art. 63v](#art-63v) pkt 1, zostały sporządzone w innym języku niż język polski, sporządzane jest tłumaczenie tych dokumentów na język polski. Tłumaczenie, które nie zostało wykonane przez tłumacza przysięgłego, zawiera o tym informację.
 
 3. Do celów stosowania przepisów art. 63u i art. 63v, w przypadku gdy zastosowanie ma art. 10 rozporządzenia (UE) nr 575/2013, instytucja kredytowa, o której mowa w art. 4 ust. 1 pkt 1 tego rozporządzenia, która jest trwale powiązana z organem centralnym sprawującym nad nią nadzór na warunkach określonych w art. 10 rozporządzenia (UE) nr 575/2013, jest traktowana jako jednostka zależna tego organu centralnego.
 
 4. Do celów stosowania przepisów art. 63u i art. 63v zakład ubezpieczeń i zakład reasekuracji wchodzące w skład grupy, o której mowa w art. 3 ust. 1 pkt 12 lit. b ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, nieuznane za jednostkę dominującą i podlegające nadzorowi nad grupą zgodnie z art. 374 ust. 1 pkt 1–3 tej ustawy, są traktowane jako jednostki zależne jednostki dominującej tej grupy.
 
+<a id="art-63x"></a>
 ### Art. 63x.
 
 1. Jednostka dominująca dużej grupy jest obowiązana do przedstawienia w wyodrębnionej części sprawozdania z działalności grupy kapitałowej informacji niezbędnych do zrozumienia wpływu grupy kapitałowej na kwestie zrównoważonego rozwoju oraz do zrozumienia, w jaki sposób kwestie zrównoważonego rozwoju wpływają na rozwój, wyniki i sytuację grupy kapitałowej, zwanych dalej „sprawozdawczością zrównoważonego rozwoju grupy kapitałowej”.
@@ -2530,14 +2829,16 @@ c) wszelkich działań podjętych przez grupę kapitałową w ramach procesu nal
 
 9. Jednostka dominująca wskazuje w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, które jej jednostki zależne objęte tą sprawozdawczością skorzystały ze zwolnienia z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju lub sprawozdawczości zrównoważonego rozwoju grupy kapitałowej.
 
-10. Jednostka dominująca dużej grupy, która w związku z art. 58 ust. 1 nie sporządza skonsolidowanego sprawozdania finansowego na podstawie art. 56 ust. 3, przedstawia sprawozdawczość zrównoważonego rozwoju grupy kapitałowej w sprawozdaniu z działalności tej jednostki.
+10. Jednostka dominująca dużej grupy, która w związku z [art. 58](#art-58) ust. 1 nie sporządza skonsolidowanego sprawozdania finansowego na podstawie [art. 56](#art-56) ust. 3, przedstawia sprawozdawczość zrównoważonego rozwoju grupy kapitałowej w sprawozdaniu z działalności tej jednostki.
 
 11. Kierownik jednostki dominującej konsultuje z przedstawicielami pracowników istotne dla pracowników informacje na temat zrównoważonego rozwoju grupy kapitałowej oraz sposoby ich uzyskiwania i weryfikacji. Kierownik jednostki dominującej przekazuje opinię przedstawicieli pracowników członkom rady nadzorczej lub innego organu nadzorującego jednostkę dominującą, o ile jednostka dominująca taki organ posiada.
 
+<a id="art-63y"></a>
 ### Art. 63y.
 
-Jednostka dominująca sporządzająca sprawozdawczość zrównoważonego rozwoju grupy kapitałowej jest zwolniona z obowiązków, o których mowa w art. 49 ust. 3 i 3a, na poziomie grupy kapitałowej oraz ze sporządzania sprawozdawczości zrównoważonego rozwoju.
+Jednostka dominująca sporządzająca sprawozdawczość zrównoważonego rozwoju grupy kapitałowej jest zwolniona z obowiązków, o których mowa w [art. 49](#art-49) ust. 3 i 3a, na poziomie grupy kapitałowej oraz ze sporządzania sprawozdawczości zrównoważonego rozwoju.
 
+<a id="art-63z"></a>
 ### Art. 63z.
 
 1. Jednostka dominująca będąca jednostką zależną od jednostki dominującej wyższego szczebla mającej siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego jest zwolniona z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, jeżeli są spełnione łącznie następujące warunki:
@@ -2554,6 +2855,7 @@ c) adres strony internetowej, na której zostanie udostępnione w terminie 12 mi
 
 2. W przypadku gdy jednostka dominująca wyższego szczebla ma siedzibę lub miejsce sprawowania zarządu w państwie innym niż Rzeczpospolita Polska, ujawnienie, o którym mowa w ust. 1 pkt 2 lit. c, obejmuje również ujawnienie przez jednostkę dominującą w jej sprawozdaniu z działalności adresu strony internetowej, na której zostaną udostępnione tłumaczenia dokumentów, o których mowa w ust. 1 pkt 2 lit. c, na język polski.
 
+<a id="art-63za"></a>
 ### Art. 63za.
 
 Jednostka dominująca będąca jednostką zależną od jednostki dominującej wyższego szczebla mającej siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego jest zwolniona z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, jeżeli są spełnione łącznie następujące warunki:
@@ -2572,23 +2874,26 @@ c) adres strony internetowej, na której zostanie udostępniona w terminie 12 mi
 
 4) informacje określone w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088, dotyczące działalności prowadzonej przez jednostki zależne mające siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego i korzystające ze zwolnienia na podstawie art. 63u, art. 63v lub odpowiadających im przepisów prawa innego państwa Europejskiego Obszaru Gospodarczego, zostaną zawarte w sprawozdaniu z działalności jednostki dominującej korzystającej ze zwolnienia lub w sprawozdawczości zrównoważonego rozwoju grupy kapitałowej sporządzonej przez jednostkę dominującą wyższego szczebla.
 
+<a id="art-63zb"></a>
 ### Art. 63zb.
 
-1. Przepisów art. 63z i art. 63za nie stosuje się do jednostki dużej będącej emitentem papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego.
+1. Przepisów [art. 63z](#art-63z) i [art. 63za](#art-63za) nie stosuje się do jednostki dużej będącej emitentem papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego.
 
-2. W przypadku gdy sprawozdanie z działalności grupy kapitałowej, o którym mowa w art. 63z ust. 1 pkt 1, lub sprawozdawczość zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wyższego szczebla, o której mowa w art. 63za pkt 1, zostały sporządzone w innym języku niż język polski, sporządzane jest tłumaczenie tych dokumentów na język polski. Tłumaczenie, które nie zostało wykonane przez tłumacza przysięgłego, zawiera o tym informację.
+2. W przypadku gdy sprawozdanie z działalności grupy kapitałowej, o którym mowa w [art. 63z](#art-63z) ust. 1 pkt 1, lub sprawozdawczość zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wyższego szczebla, o której mowa w [art. 63za](#art-63za) pkt 1, zostały sporządzone w innym języku niż język polski, sporządzane jest tłumaczenie tych dokumentów na język polski. Tłumaczenie, które nie zostało wykonane przez tłumacza przysięgłego, zawiera o tym informację.
 
 3. Do celów stosowania przepisów art. 63z i art. 63za, w przypadku gdy zastosowanie ma art. 10 rozporządzenia (UE) nr 575/2013, instytucja kredytowa, o której mowa w art. 4 ust. 1 pkt 1 tego rozporządzenia, która jest trwale powiązana z organem centralnym sprawującym nad nią nadzór na warunkach określonych w art. 10 rozporządzenia (UE) nr 575/2013, jest traktowana jako jednostka zależna tego organu centralnego.
 
 4. Do celów stosowania przepisów art. 63z i art. 63za zakład ubezpieczeń i zakład reasekuracji wchodzące w skład grupy, o której mowa w art. 3 ust. 1 pkt 12 lit. b ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, nieuznane za jednostkę dominującą i podlegające nadzorowi nad grupą zgodnie z art. 374 ust. 1 pkt 1–3 tej ustawy, są traktowane jako jednostki zależne jednostki dominującej tej grupy.
 
+<a id="art-63zc"></a>
 ### Art. 63zc.
 
-Jednostka, o której mowa w art. 63r ust. 1, oraz jednostka dominująca, o której mowa w art. 63x ust. 1, sporządzają odpowiednio sprawozdanie z działalności albo sprawozdanie z działalności grupy kapitałowej w formacie, o którym mowa w rozporządzeniu Komisji (UE) 2019/815, oraz znakują sprawozdawczość zrównoważonego rozwoju, w tym informacje podlegające ujawnieniu, o których mowa w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088, zgodnie z tym formatem.
+Jednostka, o której mowa w [art. 63r](#art-63r) ust. 1, oraz jednostka dominująca, o której mowa w [art. 63x](#art-63x) ust. 1, sporządzają odpowiednio sprawozdanie z działalności albo sprawozdanie z działalności grupy kapitałowej w formacie, o którym mowa w rozporządzeniu Komisji (UE) 2019/815, oraz znakują sprawozdawczość zrównoważonego rozwoju, w tym informacje podlegające ujawnieniu, o których mowa w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088, zgodnie z tym formatem.
 
+<a id="art-63zd"></a>
 ### Art. 63zd.
 
-1. Sprawozdawczość zrównoważonego rozwoju jednostek z państw spoza Europejskiego Obszaru Gospodarczego, dotyczącą odpowiednio grupy kapitałowej jednostki dominującej najwyższego szczebla w rozumieniu art. 63l ust. 1 pkt 1 albo jednostki samodzielnej w rozumieniu art. 63l ust. 1 pkt 2, publikuje:
+1. Sprawozdawczość zrównoważonego rozwoju jednostek z państw spoza Europejskiego Obszaru Gospodarczego, dotyczącą odpowiednio grupy kapitałowej jednostki dominującej najwyższego szczebla w rozumieniu [art. 63l](#art-63l) ust. 1 pkt 1 albo jednostki samodzielnej w rozumieniu [art. 63l](#art-63l) ust. 1 pkt 2, publikuje:
 
 1) jednostka zależna, której jednostka dominująca najwyższego szczebla ma siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, pod warunkiem że:
 
@@ -2604,9 +2909,9 @@ b) jednostką powiązaną grupy kapitałowej mającą siedzibę lub miejsce spra
 
 2. Sprawozdawczość zrównoważonego rozwoju jednostek z państw spoza Europejskiego Obszaru Gospodarczego zawiera informacje – odpowiednio na poziomie grupy kapitałowej jednostki dominującej najwyższego szczebla albo jednostki samodzielnej z państwa spoza Europejskiego Obszaru Gospodarczego – określone w:
 
-1) art. 63r ust. 2 pkt 1 lit. c–e, pkt 2–6 oraz
+1) [art. 63r](#art-63r) ust. 2 pkt 1 lit. c–e, pkt 2–6 oraz
 
-2) art. 63r ust. 2 pkt 8 – w przypadkach określonych w standardach, o których mowa w ust. 3.
+2) [art. 63r](#art-63r) ust. 2 pkt 8 – w przypadkach określonych w standardach, o których mowa w ust. 3.
 
 3. Sprawozdawczość zrównoważonego rozwoju jednostek z państw spoza Europejskiego Obszaru Gospodarczego jest sporządzana zgodnie ze:
 
@@ -2638,8 +2943,10 @@ b) jednostką powiązaną grupy kapitałowej mającą siedzibę lub miejsce spra
 
 9. Sprawozdawczość zrównoważonego rozwoju, o której mowa w ust. 5 pkt 1, oświadczenie, o którym mowa w ust. 5 pkt 2, oraz oświadczenie, o którym mowa w ust. 7, sporządza się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
+<a id="rozdzial-7"></a>
 ### Rozdział 7. Badanie sprawozdań finansowych, atestacja sprawozdawczości zrównoważonego rozwoju, składanie do właściwego rejestru sądowego, udostępnianie i ogłaszanie sprawozdań62)
 
+<a id="art-64"></a>
 ### Art. 64.
 
 1. Badaniu podlegają roczne skonsolidowane sprawozdania finansowe grup kapitałowych oraz roczne sprawozdania finansowe – kontynuujących działalność:
@@ -2648,7 +2955,7 @@ b) jednostką powiązaną grupy kapitałowej mającą siedzibę lub miejsce spra
 
 1a) spółdzielczych kas oszczędnościowo-kredytowych;
 
-2) jednostek działających na podstawie przepisów o obrocie papierami wartościowymi, przepisów o świadczeniu usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz jednostek, o których mowa w art. 2 ust. 2b;
+2) jednostek działających na podstawie przepisów o obrocie papierami wartościowymi, przepisów o świadczeniu usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz jednostek, o których mowa w [art. 2](#art-2) ust. 2b;
 
 2a) jednostek działających na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych;
 
@@ -2660,7 +2967,7 @@ b) jednostką powiązaną grupy kapitałowej mającą siedzibę lub miejsce spra
 
 a) średnioroczne zatrudnienie w przeliczeniu na pełne etaty wyniosło co najmniej 50 osób, b)63) suma aktywów bilansu na koniec roku obrotowego stanowiła równowartość w walucie polskiej co najmniej 3 125 000 euro, c)63) przychody netto ze sprzedaży towarów i produktów za rok obrotowy stanowiły równowartość w walucie polskiej co najmniej 6 250 000 euro.
 
-2. W jednostkach sporządzających łączne sprawozdania finansowe, o których mowa w art. 51 ust. 1, warunki określone w ust. 1 stosuje się do łącznego rocznego sprawozdania finansowego.
+2. W jednostkach sporządzających łączne sprawozdania finansowe, o których mowa w [art. 51](#art-51) ust. 1, warunki określone w ust. 1 stosuje się do łącznego rocznego sprawozdania finansowego.
 
 3. Badaniu podlegają sprawozdania finansowe spółek przejmujących i spółek nowo zawiązanych, sporządzone za rok obrotowy, w którym nastąpiło połączenie, a także roczne sprawozdania finansowe jednostek sporządzone zgodnie z MSR.
 
@@ -2672,18 +2979,22 @@ a) średnioroczne zatrudnienie w przeliczeniu na pełne etaty wyniosło co najmn
 
 7.[64)] Sprawozdawczość zrównoważonego rozwoju oraz sprawozdawczość zrównoważonego rozwoju grupy kapitałowej podlegają atestacji sprawozdawczości zrównoważonego rozwoju przez biegłego rewidenta uprawnionego do atestacji sprawozdawczości zrównoważonego rozwoju.
 
+<a id="art-64a"></a>
 ### Art. 64a.
 
 (uchylony)
 
+<a id="art-64b"></a>
 ### Art. 64b.
 
 (uchylony)
 
+<a id="art-65"></a>
 ### Art. 65.
 
 (uchylony)
 
+<a id="art-66"></a>
 ### Art. 66.
 
 1. (uchylony)
@@ -2738,6 +3049,7 @@ d) krajowych standardach wykonywania zawodu;
 
 11.[71)] Wspólnicy lub udziałowcy jednostek dużych podlegających obowiązkowi sporządzania sprawozdawczości zrównoważonego rozwoju lub sprawozdawczości zrównoważonego rozwoju grupy kapitałowej, z wyjątkiem jednostek będących emitentami papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych Europejskiego Obszaru Gospodarczego, którzy posiadają co najmniej 5 % praw głosów lub co najmniej 5 % kapitału zakładowego lub co najmniej 5 % kapitału akcyjnego w jednostce, mogą – działając pojedynczo albo grupowo – złożyć projekt uchwały albo postanowienia organu zatwierdzającego o sporządzeniu sprawozdania dotyczącego określonych elementów sprawozdawczości zrównoważonego rozwoju lub sprawozdawczości zrównoważonego rozwoju grupy kapitałowej przez podmiot akredytowany inny niż firma audytorska przeprowadzająca badanie ustawowe w rozumieniu art. 2 pkt 1 ustawy o biegłych rewidentach lub podmiot należący do jej sieci oraz o udostępnieniu takiego sprawozdania organowi zatwierdzającemu.
 
+<a id="art-67"></a>
 ### Art. 67.
 
 1. Kierownik badanej jednostki zapewnia biegłemu rewidentowi, przeprowadzającemu badanie sprawozdania finansowego, dostęp do ksiąg rachunkowych oraz dokumentów stanowiących podstawę dokonanych w nich zapisów oraz wszelkich innych dokumentów, jak również udziela wyczerpujących informacji, wyjaśnień i oświadczeń – niezbędnych do sporządzenia sprawozdania z badania.
@@ -2758,10 +3070,12 @@ d) krajowych standardach wykonywania zawodu;
 
 8.[72)] W przypadku atestacji sprawozdawczości zrównoważonego rozwoju sporządzonej przez jednostkę niebędącą jednostką dominującą, która posiada udziały w jednostkach stowarzyszonych, uprawnienia biegłego rewidenta, o których mowa w ust. 5 i 6, przysługują także wobec tych jednostek.
 
+<a id="art-67a"></a>
 ### Art. 67a.
 
 (uchylony)
 
+<a id="art-68"></a>
 ### Art. 68. [73)]
 
 1. Spółki z ograniczoną odpowiedzialnością, towarzystwa ubezpieczeń wzajemnych, towarzystwa reasekuracji wzajemnej, spółki akcyjne, proste spółki akcyjne oraz spółdzielnie są obowiązane do udostępnienia udziałowcom lub członkom:
@@ -2774,6 +3088,7 @@ d) krajowych standardach wykonywania zawodu;
 
 2. Spółka akcyjna oraz prosta spółka akcyjna udostępnia ponadto akcjonariuszom sprawozdanie rady nadzorczej lub komisji rewizyjnej albo organu administrującego.
 
+<a id="art-69"></a>
 ### Art. 69.
 
 1.74) Kierownik jednostki składa we właściwym rejestrze sądowym:
@@ -2784,9 +3099,9 @@ d) krajowych standardach wykonywania zawodu;
 
 3) odpis uchwały bądź postanowienia organu zatwierdzającego o zatwierdzeniu rocznego sprawozdania finansowego i podziale zysku lub pokryciu straty,
 
-4) sprawozdanie z działalności – w przypadku jednostek, o których mowa w art. 49 ust. 1,
+4) sprawozdanie z działalności – w przypadku jednostek, o których mowa w [art. 49](#art-49) ust. 1,
 
-5) sprawozdanie z atestacji sprawozdawczości zrównoważonego rozwoju – w przypadku jednostek, o których mowa w art. 63r ust. 1 – w terminie 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego.
+5) sprawozdanie z atestacji sprawozdawczości zrównoważonego rozwoju – w przypadku jednostek, o których mowa w [art. 63r](#art-63r) ust. 1 – w terminie 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego.
 
 1a. (uchylony)
 
@@ -2804,31 +3119,32 @@ d) krajowych standardach wykonywania zawodu;
 
 2) w państwie siedziby tej instytucji kredytowej lub finansowej nie jest spełniony warunek wzajemności w odniesieniu do instytucji kredytowych lub finansowych mających siedzibę w państwie z Europejskiego Obszaru Gospodarczego.
 
-1g. Kierownik jednostki, o której mowa odpowiednio w art. 63f ust. 1 lub art. 63g ust. 1, składa we właściwym rejestrze sądowym odpowiednio sprawozdanie z płatności na rzecz administracji publicznej lub skonsolidowane sprawo-zdanie z płatności na rzecz administracji publicznej, wraz z rocznym sprawozdaniem finansowym, w terminie określonym w ust. 1.
+1g. Kierownik jednostki, o której mowa odpowiednio w [art. 63f](#art-63f) ust. 1 lub [art. 63g](#art-63g) ust. 1, składa we właściwym rejestrze sądowym odpowiednio sprawozdanie z płatności na rzecz administracji publicznej lub skonsolidowane sprawo-zdanie z płatności na rzecz administracji publicznej, wraz z rocznym sprawozdaniem finansowym, w terminie określonym w ust. 1.
 
-2. Jeżeli sprawozdanie finansowe nie zostało zatwierdzone w terminie określonym w art. 53 ust. 1, to należy je złożyć w rejestrze sądowym w ciągu 15 dni po tym terminie, a także 15 dni po jego zatwierdzeniu wraz z dokumentami, o których mowa w ust. 1.
+2. Jeżeli sprawozdanie finansowe nie zostało zatwierdzone w terminie określonym w [art. 53](#art-53) ust. 1, to należy je złożyć w rejestrze sądowym w ciągu 15 dni po tym terminie, a także 15 dni po jego zatwierdzeniu wraz z dokumentami, o których mowa w ust. 1.
 
 3.[75)] Przepisy ust. 1 i 2 stosuje się odpowiednio do jednostki dominującej sporządzającej roczne skonsolidowane sprawozdanie finansowe grupy kapitałowej oraz jednostki dominującej sporządzającej sprawozdawczość zrównoważonego rozwoju grupy kapitałowej.
 
-3a. Kierownik jednostki wraz ze sprawozdaniem finansowym, sprawozdaniem z działalności, skonsolidowanym sprawozdaniem finansowym, sprawozdaniem z działalności grupy kapitałowej, sprawozdaniem z płatności na rzecz administracji publicznej oraz skonsolidowanym sprawozdaniem z płatności na rzecz administracji publicznej składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie art. 52 ust. 2, oraz oświadczenie lub odmowę złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b, jeżeli zostały sporządzone.
+3a. Kierownik jednostki wraz ze sprawozdaniem finansowym, sprawozdaniem z działalności, skonsolidowanym sprawozdaniem finansowym, sprawozdaniem z działalności grupy kapitałowej, sprawozdaniem z płatności na rzecz administracji publicznej oraz skonsolidowanym sprawozdaniem z płatności na rzecz administracji publicznej składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie [art. 52](#art-52) ust. 2, oraz oświadczenie lub odmowę złożenia oświadczenia, do których ma zastosowanie [art. 52](#art-52) ust. 2b, jeżeli zostały sporządzone.
 
-4. Kierownik jednostki dominującej niesporządzającej skonsolidowanego sprawozdania finansowego zgodnie z art. 56 ust. 2, składa we właściwym rejestrze sądowym przetłumaczone na język polski przez tłumacza przysięgłego:
+4. Kierownik jednostki dominującej niesporządzającej skonsolidowanego sprawozdania finansowego zgodnie z [art. 56](#art-56) ust. 2, składa we właściwym rejestrze sądowym przetłumaczone na język polski przez tłumacza przysięgłego:
 
 1) skonsolidowane sprawozdanie finansowe jednostki dominującej wyższego szczebla wraz ze sprawozdaniem z badania,
 
 2) skonsolidowane sprawozdanie z działalności jednostki dominującej wyższego szczebla – w ciągu 30 dni od dnia zatwierdzenia sprawozdania, o którym mowa w pkt 1, niepóźniej niż w ciągu 12 miesięcy od dnia bilansowego jednostki dominującej niesporządzającej skonsolidowanego sprawozdania finansowego.
 
-5.[76)] Kierownik jednostki, o której mowa w art. 63r ust. 1, zamieszcza na stronie internetowej tej jednostki sprawozdanie z działalności w terminie 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego.
+5.[76)] Kierownik jednostki, o której mowa w [art. 63r](#art-63r) ust. 1, zamieszcza na stronie internetowej tej jednostki sprawozdanie z działalności w terminie 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego.
 
-6.[77)] Jeżeli sprawozdanie finansowe nie zostało zatwierdzone w terminie określonym w art. 53 ust. 1, sprawozdanie z działalności jest zamieszczane na stronie internetowej jednostki w terminie 15 dni po tym terminie, a także 15 dni po jego zatwierdzeniu.
+6.[77)] Jeżeli sprawozdanie finansowe nie zostało zatwierdzone w terminie określonym w [art. 53](#art-53) ust. 1, sprawozdanie z działalności jest zamieszczane na stronie internetowej jednostki w terminie 15 dni po tym terminie, a także 15 dni po jego zatwierdzeniu.
 
-7.[77)] Przepisy ust. 5 i 6 stosuje się odpowiednio do jednostki dominującej, o której mowa w art. 63x ust. 1.
+7.[77)] Przepisy ust. 5 i 6 stosuje się odpowiednio do jednostki dominującej, o której mowa w [art. 63x](#art-63x) ust. 1.
 
 8.[77)] W przypadku gdy przepisy prawa Unii Europejskiej wymagają od jednostki poddania elementów jej sprawozdawczości zrównoważonego rozwoju weryfikacji przez akredytowaną niezależną stronę trzecią, sprawozdanie z tej weryfikacji stanowi załącznik do sprawozdania z działalności składanego do właściwego rejestru sądowego i umieszczanego na stronie internetowej jednostki.
 
+<a id="art-70"></a>
 ### Art. 70.
 
-1. Kierownik jednostki, o której mowa w art. 64, do której nie ma zastosowania art. 69, jest obowiązany złożyć wprowadzenie do sprawozdania finansowego stanowiące część informacji dodatkowej, bilans, rachunek zysków i strat, zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych za rok obrotowy, do ogłoszenia w ciągu 15 dni od dnia ich zatwierdzenia, wraz ze sprawozdaniem z badania oraz odpisem uchwały bądź postanowienia organu zatwierdzającego o zatwierdzeniu sprawozdania finansowego i podziale zysku lub pokryciu straty.
+1. Kierownik jednostki, o której mowa w [art. 64](#art-64), do której nie ma zastosowania [art. 69](#art-69), jest obowiązany złożyć wprowadzenie do sprawozdania finansowego stanowiące część informacji dodatkowej, bilans, rachunek zysków i strat, zestawienie zmian w kapitale (funduszu) własnym oraz rachunek przepływów pieniężnych za rok obrotowy, do ogłoszenia w ciągu 15 dni od dnia ich zatwierdzenia, wraz ze sprawozdaniem z badania oraz odpisem uchwały bądź postanowienia organu zatwierdzającego o zatwierdzeniu sprawozdania finansowego i podziale zysku lub pokryciu straty.
 
 1a. (uchylony)
 
@@ -2842,26 +3158,31 @@ d) krajowych standardach wykonywania zawodu;
 
 3. (uchylony)
 
+<a id="art-70a"></a>
 ### Art. 70a.
 
-78) Kierownik jednostki będącej spółką jawną osób fizycznych albo spółką partnerską, której przychody netto ze sprzedaży towarów i produktów za poprzedni rok obrotowy wyniosły mniej niż równowartość w walucie polskiej 2 500 000 euro i która nie stosuje zasad rachunkowości określonych ustawą na podstawie art. 2 ust. 2, składa we właściwym rejestrze sądowym, w terminie 6 miesięcy od dnia kończącego rok obrotowy, oświadczenie o braku obowiązku sporządzenia i złożenia rocznego sprawozdania finansowego.
+78) Kierownik jednostki będącej spółką jawną osób fizycznych albo spółką partnerską, której przychody netto ze sprzedaży towarów i produktów za poprzedni rok obrotowy wyniosły mniej niż równowartość w walucie polskiej 2 500 000 euro i która nie stosuje zasad rachunkowości określonych ustawą na podstawie [art. 2](#art-2) ust. 2, składa we właściwym rejestrze sądowym, w terminie 6 miesięcy od dnia kończącego rok obrotowy, oświadczenie o braku obowiązku sporządzenia i złożenia rocznego sprawozdania finansowego.
 
+<a id="rozdzial-8"></a>
 ### Rozdział 8. Ochrona danych
 
+<a id="art-71"></a>
 ### Art. 71.
 
-1. Dokumentację, o której mowa w art. 10 ust. 1, księgi rachunkowe, dowody księgowe, dokumenty inwentaryzacyjne i sprawozdania finansowe, zwane dalej także „zbiorami”, należy przechowywać w należyty sposób i chronić przed niedozwolonymi zmianami, nieupoważnionym rozpowszechnianiem, uszkodzeniem lub zniszczeniem.
+1. Dokumentację, o której mowa w [art. 10](#art-10) ust. 1, księgi rachunkowe, dowody księgowe, dokumenty inwentaryzacyjne i sprawozdania finansowe, zwane dalej także „zbiorami”, należy przechowywać w należyty sposób i chronić przed niedozwolonymi zmianami, nieupoważnionym rozpowszechnianiem, uszkodzeniem lub zniszczeniem.
 
 2. Przy prowadzeniu ksiąg rachunkowych przy użyciu komputera ochrona danych powinna polegać na stosowaniu odpornych na zagrożenia nośników danych, na doborze stosownych środków ochrony zewnętrznej, na systematycznym tworzeniu rezerwowych kopii zbiorów danych zapisanych na informatycznych nośnikach danych, pod warunkiem zapewnienia trwałości zapisu informacji systemu rachunkowości, przez czas niekrótszy od wymaganego do przechowywania ksiąg rachunkowych, oraz na zapewnieniu ochrony programów komputerowych i danych systemu informatycznego rachunkowości, poprzez stosowanie odpowiednich rozwiązań programowych i organizacyjnych, chroniących przed nieupoważnionym dostępem lub zniszczeniem.
 
+<a id="art-72"></a>
 ### Art. 72.
 
-1. Księgi rachunkowe mogą mieć formę, z zastrzeżeniem art. 13 ust. 2 i 3, zbiorów utrwalonych na informatycznych nośnikach danych, pod warunkiem stosowania rozwiązań wymienionych w art. 71 ust. 2.
+1. Księgi rachunkowe mogą mieć formę, z zastrzeżeniem [art. 13](#art-13) ust. 2 i 3, zbiorów utrwalonych na informatycznych nośnikach danych, pod warunkiem stosowania rozwiązań wymienionych w [art. 71](#art-71) ust. 2.
 
-2. Jeżeli system ochrony zbiorów danych rachunkowości, utrwalonych na informatycznych nośnikach danych, nie spełnia wymagań określonych w art. 71 ust. 2, zapisy te powinny być wydrukowane w terminach przewidzianych w art. 13 ust. 6.
+2. Jeżeli system ochrony zbiorów danych rachunkowości, utrwalonych na informatycznych nośnikach danych, nie spełnia wymagań określonych w [art. 71](#art-71) ust. 2, zapisy te powinny być wydrukowane w terminach przewidzianych w [art. 13](#art-13) ust. 6.
 
 3. Przechowywanie ksiąg rachunkowych na innym nośniku niż wymieniony w ust. 2 jest dopuszczalne pod warunkiem zapewnienia odtworzenia ksiąg w formie wydruków.
 
+<a id="art-73"></a>
 ### Art. 73.
 
 1. Dowody księgowe i dokumenty inwentaryzacyjne przechowuje się w jednostce, z zastrzeżeniem ust. 4, w oryginalnej postaci, w ustalonym porządku dostosowanym do sposobu prowadzenia ksiąg rachunkowych, w podziale na okresy sprawozdawcze, w sposób pozwalający na ich łatwe odszukanie. Roczne zbiory dowodów księgowych i dokumentów inwentaryzacyjnych oznacza się określeniem nazwy ich rodzaju oraz symbolem końcowych lat i końcowych numerów w zbiorze.
@@ -2870,17 +3191,19 @@ d) krajowych standardach wykonywania zawodu;
 
 3. Po zatwierdzeniu sprawozdania finansowego za dany rok obrotowy, dokumentację przyjętych zasad rachunkowości, księgi rachunkowe oraz sprawozdania finansowe, w tym również sprawozdanie z działalności jednostki, przechowuje się odpowiednio w sposób określony w ust. 1.
 
-4. Zbiory, o których mowa w art. 71 ust. 1, mogą być przechowywane, w sposób określony w ust. 1–3, poza jednostką, w przypadku gdy zostaną przekazane do przechowania innej jednostce, świadczącej usługi w zakresie przechowywania dokumentów. Przepis art. 11a stosuje się odpowiednio.
+4. Zbiory, o których mowa w [art. 71](#art-71) ust. 1, mogą być przechowywane, w sposób określony w ust. 1–3, poza jednostką, w przypadku gdy zostaną przekazane do przechowania innej jednostce, świadczącej usługi w zakresie przechowywania dokumentów. Przepis [art. 11a](#art-11a) stosuje się odpowiednio.
 
+<a id="art-73a"></a>
 ### Art. 73a. [79)]
 
 1. Przepisów art. 71 ust. 1 oraz art. 73 ust. 1, 2 i 4 nie stosuje się do dowodów księgowych przechowywanych w Krajowym Systemie e-Faktur, o którym mowa w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811).
 
 2. Jeżeli okres przechowywania dowodów księgowych w Krajowym Systemie e-Faktur, o którym mowa w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług, upłynie przed upływem terminów określonych w art. 74 ust. 2 pkt 3, 4, 6 lub 8, dowody księgowe są przechowywane w jednostce do czasu upływu tych terminów. Przepisy art. 71 ust. 1 oraz art. 73 ust. 1, 2 i 4 stosuje się odpowiednio.
 
+<a id="art-74"></a>
 ### Art. 74.
 
-1. Zatwierdzone roczne sprawozdania finansowe, odmowa podpisu, o której mowa w art. 52 ust. 2, oraz oświadczenie lub odmowa złożenia oświadczenia, o których mowa w art. 52 ust. 2b, jeżeli zostały sporządzone, podlegają przechowywaniu przez okres co najmniej 5 lat, licząc od początku roku następującego po roku obrotowym, w którym zatwierdzono sprawozdanie finansowe.
+1. Zatwierdzone roczne sprawozdania finansowe, odmowa podpisu, o której mowa w [art. 52](#art-52) ust. 2, oraz oświadczenie lub odmowa złożenia oświadczenia, o których mowa w [art. 52](#art-52) ust. 2b, jeżeli zostały sporządzone, podlegają przechowywaniu przez okres co najmniej 5 lat, licząc od początku roku następującego po roku obrotowym, w którym zatwierdzono sprawozdanie finansowe.
 
 2. Pozostałe zbiory przechowuje się co najmniej przez okres:
 
@@ -2904,6 +3227,7 @@ d) krajowych standardach wykonywania zawodu;
 
 4.[80)] W przypadku jednostek podlegających opodatkowaniu na podstawie przepisów ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych okresy przechowywania, o których mowa w ust. 1 i 2, wynoszą co najmniej 5 lat, licząc od końca roku kalendarzowego, w którym upłynął termin płatności podatku określony w przepisach tej ustawy.
 
+<a id="art-75"></a>
 ### Art. 75.
 
 Udostępnienie osobie trzeciej zbiorów lub ich części:
@@ -2912,6 +3236,7 @@ Udostępnienie osobie trzeciej zbiorów lub ich części:
 
 2) poza siedzibą zarządu (oddziału) jednostki – wymaga pisemnej zgody kierownika jednostki oraz pozostawienia w jednostce potwierdzonego spisu przejętych dokumentów, chyba że odrębne przepisy stanowią inaczej.
 
+<a id="art-76"></a>
 ### Art. 76.
 
 1. Zbiory jednostek, które:
@@ -2920,10 +3245,12 @@ Udostępnienie osobie trzeciej zbiorów lub ich części:
 
 2) zostały zlikwidowane – przechowuje wyznaczona osoba lub jednostka; o miejscu przechowywania kierownik, likwidator jednostki lub syndyk masy upadłościowej informuje właściwy sąd lub inny organ prowadzący rejestr lub ewidencję działalności gospodarczej oraz urząd skarbowy.
 
-2. W sprawach, o których mowa w ust. 1, przepisy art. 72–74 stosuje się odpowiednio.
+2. W sprawach, o których mowa w ust. 1, przepisy [art. 72](#art-72)–74 stosuje się odpowiednio.
 
+<a id="rozdzial-8a"></a>
 ### Rozdział 8a. Usługowe prowadzenie ksiąg rachunkowych
 
+<a id="art-76a"></a>
 ### Art. 76a.
 
 1. Usługowe prowadzenie ksiąg rachunkowych jest działalnością gospodarczą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826), polegającą na świadczeniu usług w zakresie czynności, o których mowa w art. 4 ust. 3 pkt 2–6.
@@ -2942,44 +3269,54 @@ Udostępnienie osobie trzeciej zbiorów lub ich części:
 
 6. (uchylony)
 
+<a id="art-76b"></a>
 ### Art. 76b.
 
 (uchylony)
 
+<a id="art-76c"></a>
 ### Art. 76c.
 
 (uchylony)
 
+<a id="art-76d"></a>
 ### Art. 76d.
 
 (uchylony)
 
+<a id="art-76e"></a>
 ### Art. 76e.
 
 (uchylony)
 
+<a id="art-76f"></a>
 ### Art. 76f.
 
 (uchylony)
 
+<a id="art-76g"></a>
 ### Art. 76g.
 
 (uchylony)
 
+<a id="art-76h"></a>
 ### Art. 76h.
 
-1. Przedsiębiorcy, o których mowa w art. 76a ust. 3, są obowiązani do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z prowadzoną działalnością, o której mowa w art. 76a ust. 1.
+1. Przedsiębiorcy, o których mowa w [art. 76a](#art-76a) ust. 3, są obowiązani do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z prowadzoną działalnością, o której mowa w [art. 76a](#art-76a) ust. 1.
 
 2. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanych czynności oraz zakres realizowanych zadań.
 
 3. Przepisów ust. 1 nie stosuje się do, będących przedsiębiorcami, biegłych rewidentów oraz doradców podatkowych, jeżeli ubezpieczyli się od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu tych zawodów w zakresie, o którym mowa w ust. 1.
 
+<a id="art-76i"></a>
 ### Art. 76i.
 
 (uchylony)
 
+<a id="rozdzial-9"></a>
 ### Rozdział 9. Odpowiedzialność karna
 
+<a id="art-77"></a>
 ### Art. 77.
 
 81) Kto wbrew przepisom ustawy dopuszcza do:
@@ -2988,6 +3325,7 @@ Udostępnienie osobie trzeciej zbiorów lub ich części:
 
 2) niesporządzenia sprawozdania finansowego, skonsolidowanego sprawozdania finansowego, sprawozdania z działalności, sprawozdania z działalności grupy kapitałowej, sprawozdania z płatności na rzecz administracji publicznej, skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej, sprawozdania o podatku dochodowym, sporządzenia ich niezgodnie z przepisami ustawy lub zawarcia w tych sprawozdaniach nierzetelnych danych – podlega grzywnie albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
 
+<a id="art-78"></a>
 ### Art. 78.
 
 1.82) Biegły rewident, który sporządza niezgodną ze stanem faktycznym opinię o:
@@ -3002,6 +3340,7 @@ Udostępnienie osobie trzeciej zbiorów lub ich części:
 
 2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
 
+<a id="art-79"></a>
 ### Art. 79.
 
 Kto wbrew przepisom ustawy:
@@ -3024,25 +3363,25 @@ c) sprawozdania z płatności na rzecz administracji publicznej lub skonsolidowa
 
 d) sprawozdania o podatku dochodowym,
 
-e) sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wraz ze sprawozdaniem z atestacji tej sprawozdawczości zgodnie z art. 63v pkt 3 lub sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wyższego szczebla wraz ze sprawozdaniem z atestacji tej sprawozdawczości zgodnie z art. 63za pkt 3,
+e) sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wraz ze sprawozdaniem z atestacji tej sprawozdawczości zgodnie z [art. 63v](#art-63v) pkt 3 lub sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej wyższego szczebla wraz ze sprawozdaniem z atestacji tej sprawozdawczości zgodnie z [art. 63za](#art-63za) pkt 3,
 
-f) sprawozdawczości zrównoważonego rozwoju dotyczącej grupy kapitałowej jednostki dominującej najwyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub dotyczącej jednostki samodzielnej z państwa spoza Europejskiego Obszaru Gospodarczego, o których mowa w art. 63zd, oświadczenia, o którym mowa w art. 63zd ust. 5 pkt 2, sprawozdania z atestacji, o którym mowa w art. 63zd ust. 6, lub oświadczenia, o którym mowa w art. 63zd ust. 7,
+f) sprawozdawczości zrównoważonego rozwoju dotyczącej grupy kapitałowej jednostki dominującej najwyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub dotyczącej jednostki samodzielnej z państwa spoza Europejskiego Obszaru Gospodarczego, o których mowa w [art. 63zd](#art-63zd), oświadczenia, o którym mowa w [art. 63zd](#art-63zd) ust. 5 pkt 2, sprawozdania z atestacji, o którym mowa w [art. 63zd](#art-63zd) ust. 6, lub oświadczenia, o którym mowa w [art. 63zd](#art-63zd) ust. 7,
 
 g) sprawozdania z badania sprawozdania finansowego, jeżeli podlegało ono badaniu, lub sprawozdania z badania skonsolidowanego sprawozdania finansowego,
 
-h) sprawozdania z atestacji sprawozdawczości zrównoważonego rozwoju – w przypadku jednostki, o której mowa w art. 63r ust. 1, i jednostki, o której mowa w art. 63x ust. 1,
+h) sprawozdania z atestacji sprawozdawczości zrównoważonego rozwoju – w przypadku jednostki, o której mowa w [art. 63r](#art-63r) ust. 1, i jednostki, o której mowa w [art. 63x](#art-63x) ust. 1,
 
 4a)[85)] nie zamieszcza na stronie internetowej jednostki:
 
-a) sprawozdania o podatku dochodowym lub oświadczenia, o którym mowa w art. 63n ust. 4 pkt 2,
+a) sprawozdania o podatku dochodowym lub oświadczenia, o którym mowa w [art. 63n](#art-63n) ust. 4 pkt 2,
 
-b) sprawozdania z działalności lub sprawozdania z działalności grupy kapitałowej – w przypadku jednostki, o której mowa w art. 63r ust. 1, i jednostki, o której mowa w art. 63x ust. 1,
+b) sprawozdania z działalności lub sprawozdania z działalności grupy kapitałowej – w przypadku jednostki, o której mowa w [art. 63r](#art-63r) ust. 1, i jednostki, o której mowa w [art. 63x](#art-63x) ust. 1,
 
-5) nie udostępnia sprawozdania finansowego i innych dokumentów, o których mowa w art. 68,
+5) nie udostępnia sprawozdania finansowego i innych dokumentów, o których mowa w [art. 68](#art-68),
 
-6) prowadzi działalność gospodarczą w zakresie usługowego prowadzenia ksiąg rachunkowych bez spełnienia warunków, o których mowa w art. 76a ust. 3,
+6) prowadzi działalność gospodarczą w zakresie usługowego prowadzenia ksiąg rachunkowych bez spełnienia warunków, o których mowa w [art. 76a](#art-76a) ust. 3,
 
-7) prowadzi działalność gospodarczą w zakresie usługowego prowadzenia ksiąg rachunkowych bez spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 76h ust. 1,
+7) prowadzi działalność gospodarczą w zakresie usługowego prowadzenia ksiąg rachunkowych bez spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w [art. 76h](#art-76h) ust. 1,
 
 8)[86)] rozwiązuje umowę o badanie sprawozdania finansowego lub skonsolidowanego sprawozdania finansowego, bez uzasadnionej podstawy, lub nie informuje Polskiej Agencji Nadzoru Audytowego lub Komisji Nadzoru Finansowego o rozwiązaniu tej umowy,
 
@@ -3050,15 +3389,17 @@ b) sprawozdania z działalności lub sprawozdania z działalności grupy kapita�
 
 9) zawiera z firmą audytorską umowę o badanie ustawowe w rozumieniu art. 2 pkt 1 ustawy o biegłych rewidentach, na okres krótszy niż dwa lata,
 
-10)[88)] stosuje klauzule umowne, o których mowa w art. 66 ust. 5a lub 5c – podlega grzywnie albo karze ograniczenia wolności.
+10)[88)] stosuje klauzule umowne, o których mowa w [art. 66](#art-66) ust. 5a lub 5c – podlega grzywnie albo karze ograniczenia wolności.
 
+<a id="rozdzial-10"></a>
 ### Rozdział 10. Przepisy szczególne i przejściowe
 
+<a id="art-80"></a>
 ### Art. 80.
 
-1. Do jednostek, o których mowa w art. 2 ust. 1 pkt 4, nie stosuje się przepisów rozdziałów 5, 6 i 7 ustawy.
+1. Do jednostek, o których mowa w [art. 2](#art-2) ust. 1 pkt 4, nie stosuje się przepisów rozdziałów 5, 6 i 7 ustawy.
 
-2. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wprowadzić obowiązek badania sprawozdań finansowych jednostek, o których mowa w art. 2 ust. 1 pkt 4.
+2. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wprowadzić obowiązek badania sprawozdań finansowych jednostek, o których mowa w [art. 2](#art-2) ust. 1 pkt 4.
 
 3. Do stowarzyszeń, związków zawodowych, organizacji pracodawców, izb gospodarczych, fundacji, przedstawicielstw przedsiębiorców zagranicznych w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, społeczno-zawodowych organizacji rolników, organizacji samorządu zawodowego, organizacji samorządu gospodarczego rzemiosła i Polskiego Biura Ubezpieczycieli Komunikacyjnych, jeżeli nie prowadzą działalności gospodarczej, nie stosuje się przepisów rozdziałów 6 i 7 ustawy.
 
@@ -3066,10 +3407,12 @@ b) sprawozdania z działalności lub sprawozdania z działalności grupy kapita�
 
 5.[89)] Do związków zawodowych, organizacji pracodawców, izb gospodarczych, przedstawicielstw przedsiębiorców zagranicznych w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, społeczno-zawodowych organizacji rolników, organizacji samorządu zawodowego, organizacji samorządu gospodarczego rzemiosła i Polskiego Biura Ubezpieczycieli Komunikacyjnych, które nie są jednostkami mikro, jeżeli nie prowadzą działalności gospodarczej, stosuje się art. 7 ust. 2b.
 
+<a id="art-80a"></a>
 ### Art. 80a.
 
 (uchylony)
 
+<a id="art-81"></a>
 ### Art. 81.
 
 1. (uchylony)
@@ -3122,10 +3465,11 @@ a) zakres informacji wykazywanych w sprawozdaniu finansowym,
 
 b) zasady wyceny aktywów i pasywów, w tym tworzenia odpisów aktualizujących – uwzględniając specyfikę działalności spółdzielczych kas oszczędnościowo-kredytowych, w tym małych kas;
 
-9) zakres działania, liczbę członków i podmioty uprawnione do ich zgłoszenia oraz sposób organizacji Komitetu Standardów Rachunkowości, o którym mowa w art. 10 ust. 3.
+9) zakres działania, liczbę członków i podmioty uprawnione do ich zgłoszenia oraz sposób organizacji Komitetu Standardów Rachunkowości, o którym mowa w [art. 10](#art-10) ust. 3.
 
 10) (uchylony)
 
+<a id="art-82"></a>
 ### Art. 82.
 
 Minister właściwy do spraw finansów publicznych może w drodze rozporządzenia:
@@ -3140,6 +3484,7 @@ Minister właściwy do spraw finansów publicznych może w drodze rozporządzeni
 
 5) po zasięgnięciu opinii Przewodniczącego Komisji Nadzoru Finansowego, określić szczególne zasady rachunkowości krajowych instytucji płatniczych, w tym zakres informacji wykazywanych w sprawozdaniu finansowym, odpowiednio w skonsolidowanym sprawozdaniu finansowym grupy kapitałowej oraz sprawozdaniach z działalności.
 
+<a id="art-83"></a>
 ### Art. 83.
 
 1. W celu ujednolicenia zasad grupowania operacji gospodarczych i ograniczenia nakładu pracy związanego z ustaleniem zakładowych planów kont mogą być stosowane wzorcowe plany kont.
@@ -3160,28 +3505,32 @@ Minister właściwy do spraw finansów publicznych może w drodze rozporządzeni
 
 7) po zasięgnięciu opinii Komisji Nadzoru Finansowego – dla spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej.
 
+<a id="rozdzial-11"></a>
 ### Rozdział 11. Zmiany w przepisach, przepisy epizodyczne i przepisy końcowe90)
 
+<a id="art-84"></a>
 ### Art. 84.
 
 (pominięty)
 
+<a id="art-84a"></a>
 ### Art. 84a. [91)]
 
-1. W roku obrotowym rozpoczynającym się w okresie od dnia 1 stycznia 2025 r. do dnia 31 grudnia 2026 r. jednostki obowiązane do stosowania przepisów art. 49 ust. 3b oraz rozdziału 6c mogą nie wykonywać obowiązków wynikających z tych przepisów, jeżeli w tym roku obrotowym i w roku poprzedzającym ten rok obrotowy nie przekroczyły następujących wielkości:
+1. W roku obrotowym rozpoczynającym się w okresie od dnia 1 stycznia 2025 r. do dnia 31 grudnia 2026 r. jednostki obowiązane do stosowania przepisów [art. 49](#art-49) ust. 3b oraz [rozdziału 6](#rozdzial-6)c mogą nie wykonywać obowiązków wynikających z tych przepisów, jeżeli w tym roku obrotowym i w roku poprzedzającym ten rok obrotowy nie przekroczyły następujących wielkości:
 
 1) 1000 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty, lub
 
 2) 1 900 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy.
 
-2. W roku obrotowym rozpoczynającym się w okresie od dnia 1 stycznia 2025 r. do dnia 31 grudnia 2026 r. jednostki dominujące grup kapitałowych obowiązane do stosowania przepisu art. 55 ust. 2a zdanie pierwsze, w zakresie sporządzania sprawozdania z działalności grupy kapitałowej według wymogów określonych w art. 49 ust. 3b, oraz przepisów rozdziału 6c mogą nie wykonywać obowiązków wynikających z tych przepisów, jeżeli w tym roku obrotowym i w roku poprzedzającym ten rok obrotowy nie przekroczyły na poziomie grupy kapitałowej następujących wielkości:
+2. W roku obrotowym rozpoczynającym się w okresie od dnia 1 stycznia 2025 r. do dnia 31 grudnia 2026 r. jednostki dominujące grup kapitałowych obowiązane do stosowania przepisu [art. 55](#art-55) ust. 2a zdanie pierwsze, w zakresie sporządzania sprawozdania z działalności grupy kapitałowej według wymogów określonych w [art. 49](#art-49) ust. 3b, oraz przepisów [rozdziału 6](#rozdzial-6)c mogą nie wykonywać obowiązków wynikających z tych przepisów, jeżeli w tym roku obrotowym i w roku poprzedzającym ten rok obrotowy nie przekroczyły na poziomie grupy kapitałowej następujących wielkości:
 
 1) 1000 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty, lub
 
-2) 1 900 000 000 zł po dokonaniu wyłączeń konsolidacyjnych, o których mowa w art. 60 ust. 2 i 6, albo 2 280 000 000 zł przed dokonaniem tych wyłączeń – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy.
+2) 1 900 000 000 zł po dokonaniu wyłączeń konsolidacyjnych, o których mowa w [art. 60](#art-60) ust. 2 i 6, albo 2 280 000 000 zł przed dokonaniem tych wyłączeń – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy.
 
 3. Decyzję o niewykonywaniu obowiązków zgodnie z ust. 1 i 2 podejmuje odpowiednio kierownik jednostki albo kierownik jednostki dominującej.
 
+<a id="art-85"></a>
 ### Art. 85.
 
 1. Tracą moc, z zastrzeżeniem ust. 2:
@@ -3210,12 +3559,14 @@ Minister właściwy do spraw finansów publicznych może w drodze rozporządzeni
 
 2. (pominięty)
 
+<a id="art-86"></a>
 ### Art. 86.
 
 Ustawa wchodzi w życie z dniem 1 stycznia 1995 r. i ma zastosowanie po raz pierwszy do sprawozdań finansowych za rok obrotowy rozpoczynający się w 1995 r.
 
 Załączniki do ustawy z dnia 29 września 1994 r. (Dz. U. z 2026 r. poz. 522)
 
+<a id="zalacznik-1"></a>
 ## Załącznik nr 1
 
 ZAKRES INFORMACJI WYKAZYWANYCH W SPRAWOZDANIU FINANSOWYM, O KTÓRYM MOWA W ART. 45 USTAWY, DLA JEDNOSTEK INNYCH NIŻ BANKI, ZAKŁADY UBEZPIECZEŃ I ZAKŁADY REASEKURACJI Wprowadzenie do sprawozdania finansowego obejmuje w szczególności:
@@ -3588,7 +3939,7 @@ C. Przepływy środków pieniężnych z działalności finansowej I. Wpływy
 
 2) kwotę dokonanych w trakcie roku obrotowego odpisów aktualizujących wartość aktywów trwałych odrębnie dla długoterminowych aktywów niefinansowych oraz długoterminowych aktywów finansowych;
 
-3) kwotę kosztów zakończonych prac rozwojowych oraz kwotę wartości firmy, a także wyjaśnienie okresu ich odpisywania, określonego odpowiednio w art. 33 ust. 3 oraz art. 44b ust. 10;
+3) kwotę kosztów zakończonych prac rozwojowych oraz kwotę wartości firmy, a także wyjaśnienie okresu ich odpisywania, określonego odpowiednio w [art. 33](#art-33) ust. 3 oraz [art. 44b](#art-44b) ust. 10;
 
 4) wartość gruntów użytkowanych wieczyście;
 
@@ -3642,7 +3993,7 @@ b) art. 3b ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach os
 
 19) liczbę akcji obejmowanych przez akcjonariuszy w prostej spółce akcyjnej w zamian za wkłady niepieniężne, których przedmiotem jest prawo niezbywalne lub świadczenie pracy lub usług;
 
-20)[95)] informację, że do jednostki ma zastosowanie art. 37 ust. 12, na mocy którego jednostka nie tworzy rezerw i nie ustala aktywów z tytułu odroczonego podatku dochodowego związanych z globalnym podatkiem wyrównawczym, krajowym podatkiem wyrównawczym i podatkiem wyrównawczym od niedostatecznie opodatkowanych zysków, o których mowa w ustawie z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych. 2.
+20)[95)] informację, że do jednostki ma zastosowanie [art. 37](#art-37) ust. 12, na mocy którego jednostka nie tworzy rezerw i nie ustala aktywów z tytułu odroczonego podatku dochodowego związanych z globalnym podatkiem wyrównawczym, krajowym podatkiem wyrównawczym i podatkiem wyrównawczym od niedostatecznie opodatkowanych zysków, o których mowa w ustawie z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych. 2.
 
 1) strukturę rzeczową (rodzaje działalności) i terytorialną (rynki geograficzne) przychodów netto ze sprzedaży towarów i produktów, w zakresie, w jakim te rodzaje i rynki istotnie różnią się od siebie, z uwzględnieniem zasad organizacji sprzedaży produktów i świadczenia usług;
 
@@ -3678,7 +4029,7 @@ g) pozostałych kosztach rodzajowych;
 
 10) kwotę i charakter poszczególnych pozycji przychodów lub kosztów o nadzwyczajnej wartości lub które wystąpiły incydentalnie;
 
-11) informacje o kosztach związanych z pracami badawczymi i pracami rozwojowymi, które nie zostały zakwalifikowane zgodnie z art. 33 ust. 2 do wartości niematerialnych i prawnych;
+11) informacje o kosztach związanych z pracami badawczymi i pracami rozwojowymi, które nie zostały zakwalifikowane zgodnie z [art. 33](#art-33) ust. 2 do wartości niematerialnych i prawnych;
 
 12) wartość żywności przekazanej organizacjom pozarządowym, z przeznaczeniem na wykonywanie przez te organizacje zadań w zakresie określonym w art. 2 pkt 2 ustawy z dnia 19 lipca 2019 r. o przeciwdziałaniu marnowaniu żywności (Dz. U. z 2020 r. poz. 1645), lub kwotę opłaty za marnowanie żywności, o której mowa w art. 5 tej ustawy;
 
@@ -3778,11 +4129,12 @@ c) przychody i koszty, zyski i straty oraz zmiany w kapitałach własnych połą
 
 10. Inne informacje niż wymienione powyżej, jeżeli mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej i finansowej oraz wynik finansowy jednostki.
 
+<a id="zalacznik-2"></a>
 ## Załącznik nr 2. Zakres informacji wykazywanych w sprawozdaniu finansowym, o którym mowa w art. 45 ustawy, dla banków
 
 Wprowadzenie do sprawozdania finansowego
 
-obejmuje zakres informacji określony w przepisach wydanych na podstawie art. 81 ust. 2 pkt 8 lit. a ustawy
+obejmuje zakres informacji określony w przepisach wydanych na podstawie [art. 81](#art-81) ust. 2 pkt 8 lit. a ustawy
 
 Bilans
 
@@ -4156,13 +4508,14 @@ C. Przepływy środków pieniężnych z działalności finansowej I. Wpływy
 
 10. Inne wydatki finansowe III. Przepływy pieniężne netto z działalności finansowej (I–II) D. Przepływy pieniężne netto, razem (A.III±B.III±C.III) E. Bilansowa zmiana stanu środków pieniężnych, w tym – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F±D), w tym – o ograniczonej możliwości dysponowania
 
-Dodatkowe informacje i objaśnienia obejmują zakres informacji określony w przepisach wydanych na podstawie art. 81 ust. 2 pkt 8 lit. a ustawy.
+Dodatkowe informacje i objaśnienia obejmują zakres informacji określony w przepisach wydanych na podstawie [art. 81](#art-81) ust. 2 pkt 8 lit. a ustawy.
 
+<a id="zalacznik-3"></a>
 ## Załącznik nr 3. Zakres informacji wykazywanych w sprawozdaniu finansowym, o którym mowa w art. 45 ustawy, dla zakładów ubezpieczeń i zakładów reasekuracji
 
 Wstęp
 
-obejmuje zakres informacji określony w przepisach wydanych na podstawie art. 81 ust. 2 pkt 6 ustawy
+obejmuje zakres informacji określony w przepisach wydanych na podstawie [art. 81](#art-81) ust. 2 pkt 6 ustawy
 
 Bilans
 
@@ -4460,8 +4813,9 @@ Rachunek przepływów pieniężnych (metoda bezpośrednia) A. Przepływy środk�
 
 6. Pozostałe wydatki finansowe III. Przepływy pieniężne netto z działalności finansowej (I–II) D. Przepływy pieniężne netto, razem (A.III±B.III±C.III) E. Bilansowa zmiana środków pieniężnych, w tym: – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F±D), w tym: – o ograniczonej możliwości dysponowania
 
-Dodatkowe informacje i objaśnienia obejmują zakres informacji określony w przepisach wydanych na podstawie art. 81 ust. 2 pkt 6 ustawy.
+Dodatkowe informacje i objaśnienia obejmują zakres informacji określony w przepisach wydanych na podstawie [art. 81](#art-81) ust. 2 pkt 6 ustawy.
 
+<a id="zalacznik-4"></a>
 ## Załącznik nr 4
 
 ZAKRES INFORMACJI WYKAZYWANYCH W SPRAWOZDANIU FINANSOWYM, O KTÓRYM MOWA W ART. 45 USTAWY, DLA JEDNOSTEK MIKRO ORAZ JEDNOSTEK, O KTÓRYCH MOWA W ART. 80 UST. 4 USTAWY, KORZYSTAJĄCYCH Z UPROSZCZEŃ ODNOSZĄCYCH SIĘ DO SPRAWOZDANIA FINANSOWEGO [97)]
@@ -4506,6 +4860,7 @@ d) liczba i wartość nominalna lub, w razie braku wartości nominalnej, wartoś
 
 Rachunek zysków i strat A. Przychody podstawowej działalności operacyjnej i zrównane z nimi, w tym zmiana stanu produktów (zwiększenie – wartość dodatnia, zmniejszenie – wartość ujemna) B. Koszty podstawowej działalności operacyjnej: I. Amortyzacja II. Zużycie materiałów i energii III. Wynagrodzenia, ubezpieczenia społeczne i inne świadczenia IV. Pozostałe koszty C. Pozostałe przychody i zyski, w tym aktualizacja wartości aktywów D. Pozostałe koszty i straty, w tym aktualizacja wartości aktywów E. Podatek dochodowy F.98) Zysk/strata netto (A–B+C–D–E) G. (uchylona)99)
 
+<a id="zalacznik-5"></a>
 ## Załącznik nr 5. Zakres informacji wykazywanych w sprawozdaniu finansowym, o którym mowa w art. 45 ustawy, dla jednostek małych korzystających z uproszczeń odnoszących się do sprawozdania finansowego
 
 Wprowadzenie do sprawozdania finansowego obejmuje w szczególności:
@@ -4542,7 +4897,7 @@ Rachunek zysków i strat (wariant kalkulacyjny) A. 100) Przychody netto ze sprze
 
 2) kwotę dokonanych w trakcie roku obrotowego odpisów aktualizujących wartość aktywów trwałych odrębnie dla długoterminowych aktywów niefinansowych oraz długoterminowych aktywów finansowych;
 
-3) kwotę wartości firmy i wyjaśnienie okresu jej odpisywania, określonych w art. 44b ust. 10;
+3) kwotę wartości firmy i wyjaśnienie okresu jej odpisywania, określonych w [art. 44b](#art-44b) ust. 10;
 
 4) w przypadku gdy instrumenty finansowe lub składniki aktywów niebędące instrumentami finansowymi są wyceniane według wartości godziwej:
 
@@ -4580,7 +4935,7 @@ d) tabelę zmian w kapitale (funduszu) z aktualizacji wyceny obejmującą stan k
 
 17) informacje o nazwie i siedzibie jednostki sporządzającej skonsolidowane sprawozdanie finansowe na najniższym szczeblu grupy kapitałowej, w skład której wchodzi spółka jako jednostka zależna;
 
-18) w przypadku gdy jednostka mała nie sporządza sprawozdania z działalności zgodnie z art. 49 ust. 5 ustawy dodatkowo przedstawia informacje o udziałach (akcjach) własnych:
+18) w przypadku gdy jednostka mała nie sporządza sprawozdania z działalności zgodnie z [art. 49](#art-49) ust. 5 ustawy dodatkowo przedstawia informacje o udziałach (akcjach) własnych:
 
 a) przyczynę nabycia udziałów (akcji) własnych dokonanego w roku obrotowym,
 
@@ -4590,6 +4945,7 @@ c) w przypadku nabycia lub zbycia odpłatnego, równowartość tych udziałów (
 
 d) liczbę i wartość nominalną lub, w razie braku wartości nominalnej, wartość księgową wszystkich udziałów (akcji) nabytych i zatrzymanych, jak również część kapitału podstawowego, którą te udziały (akcje) reprezentują.
 
+<a id="zalacznik-6"></a>
 ## Załącznik nr 6
 
 ZAKRES INFORMACJI WYKAZYWANYCH W SPRAWOZDANIU FINANSOWYM, O KTÓRYM MOWA W ART. 45 USTAWY, DLA JEDNOSTEK, O KTÓRYCH MOWA W ART. 3 UST. 2 USTAWY Z DNIA 24 KWIETNIA 2003 R. O DZIAŁALNOŚCI POŻYTKU PUBLICZNEGO I O WOLONTARIACIE, Z WYJĄTKIEM SPÓŁEK KAPITAŁOWYCH, ORAZ JEDNOSTEK, O KTÓRYCH MOWA W ART. 3 UST. 3 PKT 1 I 2 TEJ USTAWY
@@ -4628,7 +4984,7 @@ Rachunek zysków i strat A. Przychody z działalności statutowej I. Przychody z
 
 7)[102)] jeżeli jednostka posiada status organizacji pożytku publicznego, zamieszcza w informacji dodatkowej dane na temat uzyskanych przychodów i poniesionych kosztów z tytułu 1,5 % podatku dochodowego od osób fizycznych oraz sposobu wydatkowania środków pochodzących z 1,5 % podatku dochodowego od osób fizycznych;
 
-8) inne informacje niż wymienione w pkt 1–7, jeżeli mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej i finansowej oraz wynik finansowy jednostki, w tym dodatkowe informacje i objaśnienia wymienione w załączniku nr 1 do ustawy, o ile mają zastosowanie do jednostki.
+8) inne informacje niż wymienione w pkt 1–7, jeżeli mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej i finansowej oraz wynik finansowy jednostki, w tym dodatkowe informacje i objaśnienia wymienione w załączniku nr [1](#zalacznik-1) do ustawy, o ile mają zastosowanie do jednostki.
 
 
 
