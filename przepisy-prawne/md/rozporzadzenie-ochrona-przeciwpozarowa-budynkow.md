@@ -1,5 +1,70 @@
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Załącznik - Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej - sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).](#zalacznik-rozporzadzenie-ministra-spraw-wewnetrznych-i-administracji-z-dnia-7-czerwca-2010-r-w-sprawie-ochrony-przeciwpozarowej-budynkow-innych-obiektow-budowlanych-i-terenow-1-minister-spraw-wewnetrznych-i-administracji-kieruje-dzialem-administracji-rzadowej-sprawy-wewnetrzne-na-podstawie-1-ust-2-pkt-2-rozporzadzenia-prezesa-rady-ministrow-z-dnia-18-listopada-2019-r-w-sprawie-szczegolowego-zakresu-dzialania-ministra-spraw-wewnetrznych-i-administracji-dz-u-poz-2264)
+  - [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+    - [§ 1.](#par-1)
+    - [§ 2.](#par-2)
+    - [§ 3.](#par-3)
+  - [Rozdział 2. Czynności zabronione i obowiązki w zakresie ochrony przeciwpożarowej](#rozdzial-2)
+    - [§ 4.](#par-4)
+    - [§ 5.](#par-5)
+    - [§ 6.](#par-6)
+  - [Rozdział 3. Materiały niebezpieczne pożarowo](#rozdzial-3)
+    - [§ 7.](#par-7)
+    - [§ 8.](#par-8)
+    - [§ 9.](#par-9)
+    - [§ 10.](#par-10)
+    - [§ 11.](#par-11)
+    - [§ 12.](#par-12)
+    - [§ 13.](#par-13)
+    - [§ 14.](#par-14)
+  - [Rozdział 4. Ewakuacja](#rozdzial-4)
+    - [§ 15.](#par-15)
+    - [§ 16.](#par-16)
+    - [§ 17.](#par-17)
+    - [§ 17a [4)].](#par-17a)
+  - [Rozdział 5. Instalacja wodociągowa przeciwpożarowa](#rozdzial-5)
+    - [§ 18.](#par-18)
+    - [§ 19.](#par-19)
+    - [§ 20.](#par-20)
+    - [§ 21.](#par-21)
+    - [§ 22.](#par-22)
+    - [§ 23.](#par-23)
+    - [§ 24.](#par-24)
+    - [§ 25.](#par-25)
+    - [§ 26.](#par-26)
+  - [Rozdział 6. Stosowanie stałych urządzeń gaśniczych, systemów sygnalizacji pożarowej, dźwiękowych systemów ostrzegawczych i gaśnic](#rozdzial-6)
+    - [§ 27.](#par-27)
+    - [§ 28.](#par-28)
+    - [§ 29.](#par-29)
+    - [§ 30.](#par-30)
+    - [§ 31.](#par-31)
+    - [§ 32.](#par-32)
+    - [§ 33.](#par-33)
+  - [Rozdział 7. Instalacje i urządzenia techniczne](#rozdzial-7)
+    - [§ 34.](#par-34)
+    - [§ 35.](#par-35)
+  - [Rozdział 8. Prace niebezpieczne pod względem pożarowym oraz ocena zagrożenia wybuchem](#rozdzial-8)
+    - [§ 36.](#par-36)
+    - [§ 37.](#par-37)
+  - [Rozdział 9. Zabezpieczenie przeciwpożarowe lasów](#rozdzial-9)
+    - [§ 38.](#par-38)
+    - [§ 39.](#par-39)
+    - [§ 40.](#par-40)
+  - [Rozdział 10. Zabezpieczenie przeciwpożarowe zbioru, transportu i składowania palnych płodów rolnych](#rozdzial-10)
+    - [§ 41.](#par-41)
+    - [§ 42.](#par-42)
+    - [§ 43.](#par-43)
+  - [Rozdział 11. Przepisy przejściowe i końcowe](#rozdzial-11)
+    - [§ 44.](#par-44)
+    - [§ 45.](#par-45)
+    - [§ 46.](#par-46)
+    - [§ 47.](#par-47)
+- [Załącznik - Wytyczne w zakresie określania przyrostu ciśnienia w pomieszczeniu, jaki mógłby zostać spowodowany przez wybuch](#zalacznik-wytyczne-w-zakresie-okreslania-przyrostu-cisnienia-w-pomieszczeniu-jaki-moglby-zostac-spowodowany-przez-wybuch)
+
 <a id="zalacznik-rozporzadzenie-ministra-spraw-wewnetrznych-i-administracji-z-dnia-7-czerwca-2010-r-w-sprawie-ochrony-przeciwpozarowej-budynkow-innych-obiektow-budowlanych-i-terenow-1-minister-spraw-wewnetrznych-i-administracji-kieruje-dzialem-administracji-rzadowej-sprawy-wewnetrzne-na-podstawie-1-ust-2-pkt-2-rozporzadzenia-prezesa-rady-ministrow-z-dnia-18-listopada-2019-r-w-sprawie-szczegolowego-zakresu-dzialania-ministra-spraw-wewnetrznych-i-administracji-dz-u-poz-2264"></a>
 ## Załącznik - Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów 1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej - sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
@@ -13,7 +78,7 @@ Na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie prz
 
 1. Rozporządzenie określa sposoby i warunki ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, zwanych dalej „obiektami”.
 
-2. W przypadkach szczególnie uzasadnionych uwarunkowaniami lokalnymi, wskazanymi w ekspertyzie technicznej rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych, dopuszcza się, w uzgodnieniu z właściwym miejscowo komendantem wojewódzkim Państwowej Straży Pożarnej, stosowanie rozwiązań zamiennych w stosunku do wymienionych w § 19, § 23, § 24 i § 25 ust. 1, 2, 5 i 6 oraz w § 27 ust. 1 i 2, § 28 ust. 1, § 29 ust. 1 i § 38 ust. 1, zapewniających niepogorszenie warunków ochrony przeciwpożarowej obiektu.
+2. W przypadkach szczególnie uzasadnionych uwarunkowaniami lokalnymi, wskazanymi w ekspertyzie technicznej rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych, dopuszcza się, w uzgodnieniu z właściwym miejscowo komendantem wojewódzkim Państwowej Straży Pożarnej, stosowanie rozwiązań zamiennych w stosunku do wymienionych w [§ 19](#par-19), [§ 23](#par-23), [§ 24](#par-24) i [§ 25](#par-25) ust. 1, 2, 5 i 6 oraz w [§ 27](#par-27) ust. 1 i 2, [§ 28](#par-28) ust. 1, [§ 29](#par-29) ust. 1 i [§ 38](#par-38) ust. 1, zapewniających niepogorszenie warunków ochrony przeciwpożarowej obiektu.
 
 <a id="par-2"></a>
 ### § 2.
@@ -60,17 +125,17 @@ h) materiały inne niż wymienione w lit. a-g, jeśli sposób ich składowania, 
 
 2. Ilekroć w rozporządzeniu użyto określeń dotyczących:
 
-1) budynków - należy rozumieć przez to określenia zawarte w § 3 pkt 4-6 i 8 oraz § 209 ust. 1,
+1) budynków - należy rozumieć przez to określenia zawarte w [§ 3](#par-3) pkt 4-6 i 8 oraz § 209 ust. 1,
 
 2) budynków produkcyjnych i magazynowych - należy rozumieć przez to określenie zawarte w § 209 ust. 1 pkt 2,
 
 3) budynków inwentarskich - należy rozumieć przez to określenie zawarte w § 209 ust. 1 pkt 3,
 
-4) grup wysokości - należy rozumieć przez to określenia zawarte w § 8,
+4) grup wysokości - należy rozumieć przez to określenia zawarte w [§ 8](#par-8),
 
 5) kategorii zagrożenia ludzi - należy rozumieć przez to określenia zawarte w § 209 ust. 2,
 
-6) kondygnacji - należy rozumieć przez to określenia zawarte w § 3 pkt 16-18,
+6) kondygnacji - należy rozumieć przez to określenia zawarte w [§ 3](#par-3) pkt 16-18,
 
 7) stref pożarowych - należy rozumieć przez to określenie zawarte w § 226 ust. 1 i 2
 
@@ -259,7 +324,7 @@ l) dróg pożarowych i innych dróg dojazdowych, z zaznaczeniem wjazdów na tere
 
 9) wskazanie osób lub podmiotów opracowujących instrukcję.
 
-2. Warunki ochrony przeciwpożarowej, o których mowa w ust. 1 pkt 1, oraz plany, o których mowa w ust. 1 pkt 8, w stosunku do obiektów i terenów wymienionych w § 28 ust. 1, są przekazywane do właściwego miejscowo komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej w celu ich wykorzystania na potrzeby planowania, organizacji i prowadzenia działań ratowniczych.
+2. Warunki ochrony przeciwpożarowej, o których mowa w ust. 1 pkt 1, oraz plany, o których mowa w ust. 1 pkt 8, w stosunku do obiektów i terenów wymienionych w [§ 28](#par-28) ust. 1, są przekazywane do właściwego miejscowo komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej w celu ich wykorzystania na potrzeby planowania, organizacji i prowadzenia działań ratowniczych.
 
 3. Sposób przechowywania dokumentów, o których mowa w ust. 2, powinien zapewnić możliwość ich natychmiastowego wykorzystania na potrzeby prowadzenia działań ratowniczych.
 
@@ -289,7 +354,7 @@ l) dróg pożarowych i innych dróg dojazdowych, z zaznaczeniem wjazdów na tere
 
 1. Przy używaniu lub przechowywaniu materiałów niebezpiecznych pożarowo należy:
 
-1) wykonywać wszystkie czynności związane z wytwarzaniem, przetwarzaniem, obróbką, transportem lub składowaniem materiałów niebezpiecznych zgodnie z warunkami ochrony przeciwpożarowej określonymi w instrukcji bezpieczeństwa pożarowego, o której mowa w § 6, lub zgodnie z warunkami określonymi przez producenta;
+1) wykonywać wszystkie czynności związane z wytwarzaniem, przetwarzaniem, obróbką, transportem lub składowaniem materiałów niebezpiecznych zgodnie z warunkami ochrony przeciwpożarowej określonymi w instrukcji bezpieczeństwa pożarowego, o której mowa w [§ 6](#par-6), lub zgodnie z warunkami określonymi przez producenta;
 
 2) utrzymywać na stanowisku pracy ilość materiału niebezpiecznego pożarowo nie większą niż dobowe zapotrzebowanie lub dobowa produkcja, jeżeli przepisy szczególne nie stanowią inaczej;
 
@@ -433,7 +498,7 @@ oraz przepisy rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej 
 
 1. Użytkowany budynek istniejący uznaje się za zagrażający życiu ludzi, gdy występujące w nim warunki techniczne nie zapewniają możliwości ewakuacji ludzi.
 
-2. Podstawą do stwierdzenia, że w budynku występują warunki techniczne, o których mowa w ust. 1, z zastrzeżeniem § 45, może być:
+2. Podstawą do stwierdzenia, że w budynku występują warunki techniczne, o których mowa w ust. 1, z zastrzeżeniem [§ 45](#par-45), może być:
 
 1) szerokość przejścia, dojścia lub wyjścia ewakuacyjnego albo biegu bądź spocznika klatki schodowej służącej ewakuacji, mniejsza o ponad jedną trzecią od określonej w przepisach techniczno-budowlanych;
 
@@ -547,7 +612,7 @@ b) w strefie pożarowej zakwalifikowanej do kategorii zagrożenia ludzi ZL III:
 
 3. Zasięg hydrantów wewnętrznych w poziomie obejmuje całą powierzchnię chronionego budynku, strefy pożarowej lub pomieszczenia, z uwzględnieniem:
 
-1) długości odcinka węża hydrantu wewnętrznego określonej w normach, o których mowa w § 18 ust. 2;
+1) długości odcinka węża hydrantu wewnętrznego określonej w normach, o których mowa w [§ 18](#par-18) ust. 2;
 
 2) efektywnego zasięgu rzutu prądów gaśniczych:
 
@@ -605,7 +670,7 @@ b) w strefie pożarowej produkcyjnej i magazynowej o gęstości obciążenia ogn
 <a id="par-24"></a>
 ### § 24.
 
-1. Instalacja wodociągowa przeciwpożarowa musi być zasilana z zewnętrznej sieci wodociągowej przeciwpożarowej lub ze zbiorników o odpowiednim zapasie wody do celów przeciwpożarowych, bezpośrednio albo za pomocą pompowni przeciwpożarowej, w sposób zapewniający spełnienie wymagań określonych w § 22 i 23.
+1. Instalacja wodociągowa przeciwpożarowa musi być zasilana z zewnętrznej sieci wodociągowej przeciwpożarowej lub ze zbiorników o odpowiednim zapasie wody do celów przeciwpożarowych, bezpośrednio albo za pomocą pompowni przeciwpożarowej, w sposób zapewniający spełnienie wymagań określonych w [§ 22](#par-22) i 23.
 
 2. Do zasilania w wodę instalacji wodociągowej przeciwpożarowej w budynkach wysokich i wysokościowych powinien być zapewniony zapas wody zgromadzony o łącznej pojemności nie mniejszej niż 100 m 3 w jednym lub kilku zbiornikach przeznaczony wyłącznie do tego celu.
 
@@ -1149,24 +1214,24 @@ Wypalanie słomy i pozostałości roślinnych napolach jest zabronione.
 
 W stosunku do obiektów wzniesionych przed dniem wejścia w życie rozporządzenia:
 
-1) wymagań określonych w § 27 ust. 1 i 2 nie stosuje się do obiektów wzniesionych przed dniem 17 stycznia 1993 r.;
+1) wymagań określonych w [§ 27](#par-27) ust. 1 i 2 nie stosuje się do obiektów wzniesionych przed dniem 17 stycznia 1993 r.;
 
-2) wymagania określone w § 18 ust. 2 oraz w § 19 ust. 1 w przypadku budynków wyposażonych w hydranty 52 obowiązują przy przebudowie i rozbudowie instalacji wodociągowej przeciwpożarowej, a także przy nadbudowie, rozbudowie, przebudowie i zmianie sposobu użytkowania obiektu;
+2) wymagania określone w [§ 18](#par-18) ust. 2 oraz w [§ 19](#par-19) ust. 1 w przypadku budynków wyposażonych w hydranty 52 obowiązują przy przebudowie i rozbudowie instalacji wodociągowej przeciwpożarowej, a także przy nadbudowie, rozbudowie, przebudowie i zmianie sposobu użytkowania obiektu;
 
 3) wymagań określonych w § 19 ust. 2 nie stosuje się, jeżeli zostały one wyposażone w hydranty 52 zgodnie z przepisami rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 kwietnia 2006 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. poz. 563);
 
-4) wymagań określonych w § 27 ust. 2 pkt 1 i § 29 ust. 1 pkt 1 nie stosuje się do budynków handlowych i wystawowych:
+4) wymagań określonych w [§ 27](#par-27) ust. 2 pkt 1 i [§ 29](#par-29) ust. 1 pkt 1 nie stosuje się do budynków handlowych i wystawowych:
 
 a) jednokondygnacyjnych, zawierających strefę pożarową zakwalifikowaną do kategorii zagrożenia ludzi ZL I o powierzchni powyżej 8000 m 2, lecz nie większej niż 10 000 m 2,
 
 b) wielokondygnacyjnych, zawierających strefę pożarową zakwalifikowaną do kategorii zagrożenia ludzi ZL I o powierzchni powyżej 5000 m 2, lecz nie większej niż 8000 m 2;
 
-5) wymagania określone w § 6 ust. 1 pkt 7 i 8 oraz ust. 2 i 3 powinny zostać spełnione podczas okresowej aktualizacji instrukcji bezpieczeństwa pożarowego, o której mowa w § 6 ust. 7.
+5) wymagania określone w [§ 6](#par-6) ust. 1 pkt 7 i 8 oraz ust. 2 i 3 powinny zostać spełnione podczas okresowej aktualizacji instrukcji bezpieczeństwa pożarowego, o której mowa w [§ 6](#par-6) ust. 7.
 
 <a id="par-45"></a>
 ### § 45.
 
-W stosunku do budynków wzniesionych zgodnie z ustawą z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2006 r. poz. 1118, z późn. zm. [9)]) oraz aktami wykonawczymi wydanymi na podstawie tej ustawy nie stosuje się kryteriów określonych w § 16 ust. 2.
+W stosunku do budynków wzniesionych zgodnie z ustawą z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2006 r. poz. 1118, z późn. zm. [9)]) oraz aktami wykonawczymi wydanymi na podstawie tej ustawy nie stosuje się kryteriów określonych w [§ 16](#par-16) ust. 2.
 
 <a id="par-46"></a>
 ### § 46.

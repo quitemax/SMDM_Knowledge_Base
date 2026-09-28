@@ -1,5 +1,104 @@
 # Ustawa z dnia 11 maja 2001 r. – Prawo o miarach
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [Art. 1.](#art-1)
+  - [Art. 2.](#art-2)
+  - [Art. 2a.](#art-2a)
+  - [Art. 3.](#art-3)
+  - [Art. 4.](#art-4)
+- [Rozdział 2. Legalne jednostki miar i państwowe wzorce jednostek miar](#rozdzial-2)
+  - [Art. 5.](#art-5)
+  - [Art. 6.](#art-6)
+  - [Art. 6a.](#art-6a)
+  - [Art. 7.](#art-7)
+- [Rozdział 3. Prawna kontrola metrologiczna](#rozdzial-3)
+  - [Art. 8.](#art-8)
+  - [Art. 8a.](#art-8a)
+  - [Art. 8b.](#art-8b)
+  - [Art. 8c.](#art-8c)
+  - [Art. 8ca.](#art-8ca)
+  - [Art. 8d.](#art-8d)
+  - [Art. 8e.](#art-8e)
+  - [Art. 8f.](#art-8f)
+  - [Art. 8g.](#art-8g)
+  - [Art. 8h.](#art-8h)
+  - [Art. 8i.](#art-8i)
+  - [Art. 8j.](#art-8j)
+  - [Art. 8k.](#art-8k)
+  - [Art. 8l.](#art-8l)
+  - [Art. 8m.](#art-8m)
+  - [Art. 8n.](#art-8n)
+  - [Art. 9.](#art-9)
+  - [Art. 9a.](#art-9a)
+  - [Art. 9b.](#art-9b)
+- [Rozdział 4. Kompetencje i zadania organów administracji miar](#rozdzial-4)
+  - [Art. 10.](#art-10)
+  - [Art. 10a.](#art-10a)
+  - [Art. 10b.](#art-10b)
+  - [Art. 10c.](#art-10c)
+  - [Art. 10d.](#art-10d)
+  - [Art. 11.](#art-11)
+  - [Art. 12.](#art-12)
+  - [Art. 13.](#art-13)
+  - [Art. 14.](#art-14)
+  - [Art. 15.](#art-15)
+  - [Art. 15a.](#art-15a)
+  - [Art. 16.](#art-16)
+  - [Art. 16a.](#art-16a)
+  - [Art. 16b.](#art-16b)
+  - [Art. 16c.](#art-16c)
+  - [Art. 16d.](#art-16d)
+  - [Art. 16e.](#art-16e)
+  - [Art. 16f.](#art-16f)
+  - [Art. 16g.](#art-16g)
+  - [Art. 17.](#art-17)
+  - [Art. 18.](#art-18)
+  - [Art. 19.](#art-19)
+  - [Art. 20.](#art-20)
+- [Rozdział 5. Nadzór nad wykonywaniem przepisów ustawy](#rozdzial-5)
+  - [Art. 21.](#art-21)
+  - [Art. 21a.](#art-21a)
+  - [Art. 22.](#art-22)
+  - [Art. 22a.](#art-22a)
+  - [Art. 22b.](#art-22b)
+  - [Art. 22c.](#art-22c)
+  - [Art. 22d.](#art-22d)
+  - [Art. 22e.](#art-22e)
+  - [Art. 22f.](#art-22f)
+  - [Art. 22g.](#art-22g)
+  - [Art. 22h.](#art-22h)
+  - [Art. 22i.](#art-22i)
+  - [Art. 22j.](#art-22j)
+  - [Art. 22k.](#art-22k)
+  - [Art. 22l.](#art-22l)
+  - [Art. 22m.](#art-22m)
+  - [Art. 22n.](#art-22n)
+  - [Art. 22o.](#art-22o)
+  - [Art. 23.](#art-23)
+- [Rozdział 6. Opłaty za czynności organów administracji miar i podległych im urzędów](#rozdzial-6)
+  - [Art. 24.](#art-24)
+  - [Art. 24a.](#art-24a)
+  - [Art. 25.](#art-25)
+- [Rozdział 7. Sankcje za naruszenie przepisów ustawy](#rozdzial-7)
+  - [Art. 26.](#art-26)
+  - [Art. 26a.](#art-26a)
+  - [Art. 26b.](#art-26b)
+- [Rozdział 7a. Przepisy epizodyczne](#rozdzial-7a)
+  - [Art. 26c.](#art-26c)
+- [Rozdział 8. Przepisy dostosowujące, przejściowe i końcowe](#rozdzial-8)
+  - [Art. 27.](#art-27)
+  - [Art. 28.](#art-28)
+  - [Art. 29.](#art-29)
+  - [Art. 29a.](#art-29a)
+  - [Art. 30.](#art-30)
+  - [Art. 31.](#art-31)
+  - [Art. 32.](#art-32)
+  - [Art. 33.](#art-33)
+  - [Art. 34.](#art-34)
+
 <a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
@@ -215,7 +314,7 @@ Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, waru
 
 1) Prezes - w zakresie legalizacji jednostkowej;
 
-2) Prezes i organy administracji miar, o których mowa w art. 10 pkt 2 - w zakresie legalizacji pierwotnej przyrządów pomiarowych, które są legalizowane bez zatwierdzenia typu;
+2) Prezes i organy administracji miar, o których mowa w [art. 10](#art-10) pkt 2 - w zakresie legalizacji pierwotnej przyrządów pomiarowych, które są legalizowane bez zatwierdzenia typu;
 
 3) organy administracji miar oraz podmioty upoważnione do przeprowadzania legalizacji pierwotnej określonych rodzajów przyrządów pomiarowych - w zakresie legalizacji pierwotnej przyrządów pomiarowych, których typ jest zatwierdzony;
 
@@ -347,9 +446,9 @@ Producent na wszystkich przyrządach pomiarowych podlegających:
 
 2. Przyrząd pomiarowy powinien być zgłoszony do legalizacji ponownej:
 
-1) przed upływem okresu ważności legalizacji pierwotnej, jednostkowej albo poprzedniej legalizacji ponownej, określonego w przepisach wydanych na podstawie art. 9 pkt 4;
+1) przed upływem okresu ważności legalizacji pierwotnej, jednostkowej albo poprzedniej legalizacji ponownej, określonego w przepisach wydanych na podstawie [art. 9](#art-9) pkt 4;
 
-2) przed upływem, określonego w przepisach wydanych na podstawie art. 9 pkt 4, terminu od dokonania oceny zgodności;
+2) przed upływem, określonego w przepisach wydanych na podstawie [art. 9](#art-9) pkt 4, terminu od dokonania oceny zgodności;
 
 3) po zainstalowaniu w miejscu użytkowania, przed upływem okresu ważności legalizacji pierwotnej, jeżeli sprawdzenie zgodności z wymaganiami jest wykonywane przed lub po jego zainstalowaniu w tym miejscu;
 
@@ -372,7 +471,7 @@ Organ administracji miar oraz podmiot upoważniony odmawiają, w drodze decyzji,
 
 2) przyrząd pomiarowy jest uszkodzony, niekompletny lub nieprzygotowany do sprawdzenia;
 
-3) czynności związane z legalizacją mają być wykonywane w miejscu, o którym mowa w art. 8c pkt 3, a wnioskodawca nie zapewnił warunków, o których mowa w art. 8ca.
+3) czynności związane z legalizacją mają być wykonywane w miejscu, o którym mowa w [art. 8c](#art-8c) pkt 3, a wnioskodawca nie zapewnił warunków, o których mowa w [art. 8ca](#art-8ca).
 
 <a id="art-8m"></a>
 ### Art. 8m.
@@ -467,7 +566,7 @@ Minister właściwy do spraw gospodarki określi, w drodze rozporządzeń, dla p
 
 1. Organy administracji miar, na wniosek zainteresowanych podmiotów, wykonują wzorcowanie zbiorników statków żeglugi śródlądowej i przybrzeżnej.
 
-2. Wykonanie wzorcowania organ administracji miar poświadcza przez wydanie świadectwa wzorcowania i nałożenie cech zabezpieczających, o których mowa w art. 8n ust. 1, na określone elementy zbiornika.
+2. Wykonanie wzorcowania organ administracji miar poświadcza przez wydanie świadectwa wzorcowania i nałożenie cech zabezpieczających, o których mowa w [art. 8n](#art-8n) ust. 1, na określone elementy zbiornika.
 
 3. Okres ważności świadectwa wzorcowania i cech zabezpieczających wynosi 12 lat.
 
@@ -505,9 +604,9 @@ Nadzór nad Prezesem sprawuje minister właściwy do spraw gospodarki.
 
 2) działalności merytorycznej administracji miar;
 
-3) strategicznego planu, o którym mowa w art. 16 ust. 2;
+3) strategicznego planu, o którym mowa w [art. 16](#art-16) ust. 2;
 
-4) rocznych planów i sprawozdań, o których mowa w art. 16 ust. 3.
+4) rocznych planów i sprawozdań, o których mowa w [art. 16](#art-16) ust. 3.
 
 3. Prezes oraz minister właściwy do spraw gospodarki mogą zlecać Radzie opracowywanie i przedstawianie analiz lub opinii w zakresie innym niż określony w ust. 2.
 
@@ -716,7 +815,7 @@ b) informowanie, w drodze obwieszczenia, o spełnieniu przez wzorce jednostek mi
 
 c) zapewnienie, w drodze porównań, powiązania państwowych wzorców jednostek miar z międzynarodowymi wzorcami jednostek miar lub wzorcami jednostek miar w innych krajach, a także potwierdzania kompetencji w zakresie realizowanych wzorcowań i pomiarów,
 
-d) zapewnienie przekazywania wartości legalnych jednostek miar od państwowych wzorców jednostek miar do przyrządów pomiarowych, w tym na rzecz podmiotów wykonujących działalność w celu zapewnienia jednolitości miar i dokładności pomiarów związanych z obronnością i bezpieczeństwem państwa, której organizację określa rozporządzenie wydane na podstawie art. 3,
+d) zapewnienie przekazywania wartości legalnych jednostek miar od państwowych wzorców jednostek miar do przyrządów pomiarowych, w tym na rzecz podmiotów wykonujących działalność w celu zapewnienia jednolitości miar i dokładności pomiarów związanych z obronnością i bezpieczeństwem państwa, której organizację określa rozporządzenie wydane na podstawie [art. 3](#art-3),
 
 e) sprawowanie nadzoru nad działalnością jednostek organizacyjnych i laboratoriów spoza administracji miar będących właścicielami państwowych wzorców jednostek miar, utrzymujących i udostępniających te wzorce,
 
@@ -853,7 +952,7 @@ Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 <a id="art-16g"></a>
 ### Art. 16g.
 
-Organy administracji miar są uprawnione do przeprowadzania kontroli podmiotów, o których mowa w art. 16a, w zakresie spełniania warunków niezbędnych do wykonywania udzielonych upoważnień oraz przestrzegania przepisów ustawy.
+Organy administracji miar są uprawnione do przeprowadzania kontroli podmiotów, o których mowa w [art. 16a](#art-16a), w zakresie spełniania warunków niezbędnych do wykonywania udzielonych upoważnień oraz przestrzegania przepisów ustawy.
 
 <a id="art-17"></a>
 ### Art. 17.
@@ -869,7 +968,7 @@ Organy administracji miar są uprawnione do przeprowadzania kontroli podmiotów,
 <a id="art-18"></a>
 ### Art. 18.
 
-1. Obwieszczenia Prezesa, o których mowa w art. 16 ust. 1 pkt 1 lit. b, są ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+1. Obwieszczenia Prezesa, o których mowa w [art. 16](#art-16) ust. 1 pkt 1 lit. b, są ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 2. W Dzienniku Urzędowym Głównego Urzędu Miar podlegają ogłoszeniu w szczególności:
 
@@ -879,7 +978,7 @@ Organy administracji miar są uprawnione do przeprowadzania kontroli podmiotów,
 
 3) informacje o zatwierdzonych przez właściwe organy i instytucje innych państw typach przyrządów pomiarowych, stosownie do wiążących Rzeczpospolitą Polską umów międzynarodowych;
 
-4) zarządzenia Prezesa w sprawach, o których mowa w art. 14 ust. 2.
+4) zarządzenia Prezesa w sprawach, o których mowa w [art. 14](#art-14) ust. 2.
 
 3. Informacje w sprawach wydanych decyzji zatwierdzenia typu, zmian decyzji i odmowy zatwierdzenia typu, cofnięcia zatwierdzenia typu, stosownie do wiążących Rzeczpospolitą Polską umów międzynarodowych, Prezes przekazuje właściwym instytucjom i organizacjom zagranicznym.
 
@@ -893,7 +992,7 @@ Organy administracji miar są uprawnione do przeprowadzania kontroli podmiotów,
 
 1. Do zakresu działania dyrektorów należy:
 
-1) badanie przyrządów pomiarowych w celu zapewnienia wykonania zadań, o których mowa w art. 2 ust. 1 pkt 2, a w szczególności legalizacja przyrządów pomiarowych;
+1) badanie przyrządów pomiarowych w celu zapewnienia wykonania zadań, o których mowa w [art. 2](#art-2) ust. 1 pkt 2, a w szczególności legalizacja przyrządów pomiarowych;
 
 1a) realizowanie zadań, o których mowa w art. 4 ust. 1 ustawy z dnia 7 maja 2009 r. o towarach paczkowanych (Dz. U. z 2020 r. poz. 1442 oraz z 2022 r. poz. 974);
 
@@ -925,7 +1024,7 @@ Organy administracji miar są uprawnione do przeprowadzania kontroli podmiotów,
 
 4) kierowanie do właściwego organu zawiadomień o popełnieniu przestępstwa w przypadku uzasadnionych podejrzeń o fałszowanie dowodów przeprowadzenia prawnej kontroli metrologicznej;
 
-4a) czasowe wycofanie z użytkowania, w drodze decyzji, przyrządów pomiarowych, których legalizacja utraciła ważność zgodnie z art. 8n ust. 4;
+4a) czasowe wycofanie z użytkowania, w drodze decyzji, przyrządów pomiarowych, których legalizacja utraciła ważność zgodnie z [art. 8n](#art-8n) ust. 4;
 
 5) wycofanie, w drodze decyzji:
 
@@ -945,7 +1044,7 @@ b) z użytkowania - przyrządów pomiarowych w przypadku, gdy w okresie, na któ
 
 5) nakładania grzywien w drodze mandatu karnego.
 
-3. Kontroli, o której mowa w ust. 2, w zakresie stosowania legalnych jednostek miar lub przyrządów pomiarowych, o których mowa w art. 6 i art. 8 ust. 1, podlegają osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej, zwane dalej „kontrolowanymi”.
+3. Kontroli, o której mowa w ust. 2, w zakresie stosowania legalnych jednostek miar lub przyrządów pomiarowych, o których mowa w [art. 6](#art-6) i [art. 8](#art-8) ust. 1, podlegają osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej, zwane dalej „kontrolowanymi”.
 
 4. Kontrolowani są uprawnieni do:
 
@@ -957,7 +1056,7 @@ b) z użytkowania - przyrządów pomiarowych w przypadku, gdy w okresie, na któ
 
 5. Decyzja, o której mowa w ust. 1 pkt 4a, jest wydawana na okres 3 miesięcy i podlega natychmiastowemu wykonaniu. Na uzasadniony wniosek strony okres ten może być przedłużany na kolejne okresy 3 miesięczne.
 
-6. Wydając decyzję, o której mowa w ust. 1 pkt 4a, organ administracji miar przedłuża stosowanie zabezpieczeń, o których mowa w art. 22j ust. 3, na czas obowiązywania tej decyzji.
+6. Wydając decyzję, o której mowa w ust. 1 pkt 4a, organ administracji miar przedłuża stosowanie zabezpieczeń, o których mowa w [art. 22j](#art-22j) ust. 3, na czas obowiązywania tej decyzji.
 
 7. Decyzja, o której mowa w ust. 1 pkt 4a, wygasa przed upływem okresu, na który została wydana, z dniem poświadczenia dowodem legalizacji, że przyrząd pomiarowy spełnia wymagania.
 
@@ -994,7 +1093,7 @@ b) z użytkowania - przyrządów pomiarowych w przypadku, gdy w okresie, na któ
 
 1) przestrzeganie obowiązku stosowania legalnych jednostek miar podczas użytkowania przyrządów pomiarowych, wykonywania pomiarów i wyrażania wartości wielkości fizycznych;
 
-2) sprawdzanie spełniania wymagań przez przyrządy pomiarowe podlegające prawnej kontroli metrologicznej wprowadzone do obrotu lub użytkowania, stosowane albo przechowywane w stanie gotowości do użycia, w dziedzinach, o których mowa w art. 8 ust. 1;
+2) sprawdzanie spełniania wymagań przez przyrządy pomiarowe podlegające prawnej kontroli metrologicznej wprowadzone do obrotu lub użytkowania, stosowane albo przechowywane w stanie gotowości do użycia, w dziedzinach, o których mowa w [art. 8](#art-8) ust. 1;
 
 3) sprawdzanie posiadania przez podmioty wprowadzające przyrządy pomiarowe do obrotu lub użytkowania oraz przez użytkowników przyrządów pomiarowych podlegających prawnej kontroli metrologicznej ważnych dowodów tej kontroli;
 
@@ -1030,7 +1129,7 @@ Przeprowadzenie kontroli ma na celu ustalenie stanu faktycznego w zakresie przed
 
 1. Kontrola przedsiębiorców wprowadzających do obrotu przyrządy pomiarowe lub posiadających upoważnienia albo wykonujących działalność bez takich upoważnień oraz paczkujących i producentów butelek miarowych jest przeprowadzana po okazaniu legitymacji służbowej kontrolującego oraz dostarczeniu upoważnienia do przeprowadzenia kontroli działalności gospodarczej przedsiębiorcy.
 
-2. Kontrola użytkowników przyrządów pomiarowych, będących osobami fizycznymi, prawnymi lub jednostkami organizacyjnymi nieposiadającymi osobowości prawnej w zakresie, o którym mowa w art. 22a ust. 1 pkt 1-4, przeprowadzana jest na podstawie pisemnego, imiennego upoważnienia.
+2. Kontrola użytkowników przyrządów pomiarowych, będących osobami fizycznymi, prawnymi lub jednostkami organizacyjnymi nieposiadającymi osobowości prawnej w zakresie, o którym mowa w [art. 22a](#art-22a) ust. 1 pkt 1-4, przeprowadzana jest na podstawie pisemnego, imiennego upoważnienia.
 
 <a id="art-22d"></a>
 ### Art. 22d.
@@ -1077,13 +1176,13 @@ W trakcie wykonywania czynności kontrolnych kontrolujący podlegają przepisom 
 
 1) udzielania wszelkich niezbędnych wyjaśnień;
 
-2) udostępniania na żądanie kontrolujących innych niż określone w art. 22a ust. 2 pkt 2 dokumentów oraz materiałów przewidzianych zakresem kontroli;
+2) udostępniania na żądanie kontrolujących innych niż określone w [art. 22a](#art-22a) ust. 2 pkt 2 dokumentów oraz materiałów przewidzianych zakresem kontroli;
 
 3) sporządzania uwierzytelnionych odpisów lub wyciągów z udostępnianych dokumentów;
 
 4) zapewnienia nienaruszalności zabezpieczonych przez kontrolujących przyrządów pomiarowych pozostawionych na przechowanie u kontrolowanego.
 
-2. Kontrolujący są uprawnieni do wstępu na teren nieruchomości lub pomieszczeń, o których mowa w art. 22f ust. 1, bez potrzeby uzyskiwania przepustki oraz nie podlegają rewizji osobistej.
+2. Kontrolujący są uprawnieni do wstępu na teren nieruchomości lub pomieszczeń, o których mowa w [art. 22f](#art-22f) ust. 1, bez potrzeby uzyskiwania przepustki oraz nie podlegają rewizji osobistej.
 
 <a id="art-22i"></a>
 ### Art. 22i.
@@ -1101,7 +1200,7 @@ Kontrolujący dokonują ustaleń na podstawie zebranych w trakcie kontroli infor
 
 3) dowody legalizacji poświadczające dokonanie legalizacji pierwotnej lub legalizacji ponownej zostały wydane przez podmioty nieposiadające upoważnień, zostały zniszczone lub uszkodzone albo brak jest dowodów legalizacji przyrządu pomiarowego,
 
-4) legalizacja utraciła ważność zgodnie z art. 8n ust. 4
+4) legalizacja utraciła ważność zgodnie z [art. 8n](#art-8n) ust. 4
 
 - kontrolujący mogą zastosować zabezpieczenie przyrządu pomiarowego w celu zachowania go w niezmienionym stanie.
 
@@ -1119,9 +1218,9 @@ Kontrolujący dokonują ustaleń na podstawie zebranych w trakcie kontroli infor
 
 1) przeprowadzenia czynności mających na celu ustalenie i wyjaśnienie okoliczności sprawy będącej przedmiotem kontroli albo usunięcia nieprawidłowości stwierdzonych podczas kontroli, nie dłużej niż na okres 2 miesięcy, lub
 
-2) wydania decyzji, o której mowa w art. 21 ust. 1 pkt 4a.
+2) wydania decyzji, o której mowa w [art. 21](#art-21) ust. 1 pkt 4a.
 
-5. W przypadku zastosowania przez kontrolujących zabezpieczeń, o których mowa w ust. 3, kontrolujący sporządzają notatkę z dokładnym opisem zastosowanych zabezpieczeń, która stanowi załącznik do protokołu kontroli, o którym mowa w art. 22k ust. 1.
+5. W przypadku zastosowania przez kontrolujących zabezpieczeń, o których mowa w ust. 3, kontrolujący sporządzają notatkę z dokładnym opisem zastosowanych zabezpieczeń, która stanowi załącznik do protokołu kontroli, o którym mowa w [art. 22k](#art-22k) ust. 1.
 
 <a id="art-22k"></a>
 ### Art. 22k.
@@ -1157,7 +1256,7 @@ Kontrolujący dokonują ustaleń na podstawie zebranych w trakcie kontroli infor
 
 1. Kontrolowany jest obowiązany, w terminie wyznaczonym w zaleceniach pokontrolnych, do poinformowania organu administracji miar zarządzającego kontrolę o sposobie wykorzystania uwag i wykonania wniosków pokontrolnych oraz podjętych działaniach lub przyczynach niepodjęcia działań mających na celu usunięcie stwierdzonych nieprawidłowości.
 
-2. W przypadku złożenia przez kontrolowanego zastrzeżeń, bieg terminu, o którym mowa w ust. 1, ulega zawieszeniu do czasu doręczenia stanowiska, o którym mowa w art. 22m ust. 3.
+2. W przypadku złożenia przez kontrolowanego zastrzeżeń, bieg terminu, o którym mowa w ust. 1, ulega zawieszeniu do czasu doręczenia stanowiska, o którym mowa w [art. 22m](#art-22m) ust. 3.
 
 <a id="art-22o"></a>
 ### Art. 22o.
@@ -1195,7 +1294,7 @@ Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzor
 
 7) wzorcowanie zbiorników statków;
 
-8) wykonane podczas przeprowadzania kontroli, o której mowa w art. 16g;
+8) wykonane podczas przeprowadzania kontroli, o której mowa w [art. 16g](#art-16g);
 
 9) związane z uznawaniem wzorców jednostek miar za państwowe wzorce jednostek miar;
 
@@ -1226,21 +1325,21 @@ Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzor
 <a id="art-24a"></a>
 ### Art. 24a.
 
-1. Wysokość należnych opłat, o których mowa w art. 24 ust. 2 pkt 1, 3 i 8-11, ustala organ administracji miar w drodze decyzji, biorąc pod uwagę charakter, zakres i czas trwania wykonanych czynności oraz obowiązujące stawki godzinowe za czas pracy pracowników administracji miar.
+1. Wysokość należnych opłat, o których mowa w [art. 24](#art-24) ust. 2 pkt 1, 3 i 8-11, ustala organ administracji miar w drodze decyzji, biorąc pod uwagę charakter, zakres i czas trwania wykonanych czynności oraz obowiązujące stawki godzinowe za czas pracy pracowników administracji miar.
 
 1a. Wysokość stawek godzinowych za czas pracy pracowników administracji miar nie może być wyższa niż 350 zł.
 
-2. Wysokość należnych opłat, o których mowa w art. 24 ust. 2 pkt 2, 4, 6 i 7, ustala we własnym zakresie wnioskodawca na podstawie obowiązujących stawek.
+2. Wysokość należnych opłat, o których mowa w [art. 24](#art-24) ust. 2 pkt 2, 4, 6 i 7, ustala we własnym zakresie wnioskodawca na podstawie obowiązujących stawek.
 
 3. Wnioskodawca uiszcza opłaty, o których mowa w:
 
-1) art. 24 ust. 2 pkt 2 i 7 - w terminie 7 dni od dnia złożenia wniosku;
+1) [art. 24](#art-24) ust. 2 pkt 2 i 7 - w terminie 7 dni od dnia złożenia wniosku;
 
-2) art. 24 ust. 2 pkt 4, 6 i 12 - w terminie 14 dni od dnia doręczenia decyzji.
+2) [art. 24](#art-24) ust. 2 pkt 4, 6 i 12 - w terminie 14 dni od dnia doręczenia decyzji.
 
-3a. Nieuiszczenie w terminie opłat, o których mowa w art. 24 ust. 2 pkt 2 i 7, skutkuje pozostawieniem wniosku bez rozpoznania.
+3a. Nieuiszczenie w terminie opłat, o których mowa w [art. 24](#art-24) ust. 2 pkt 2 i 7, skutkuje pozostawieniem wniosku bez rozpoznania.
 
-4. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, wysokość i tryb pobierania opłat, o których mowa w art. 24, uwzględniając rodzaje przyrządów pomiarowych, charakter wykonywanych czynności, stopień skomplikowania i czas trwania przeprowadzanych badań i sprawdzeń oraz ich uzasadnione koszty, a także wskaźniki wzrostu cen towarów i usług konsumpcyjnych oraz dodatkowo, mając na uwadze w przypadku opłat, o których mowa w art. 24 ust. 2 pkt 4, zakres udzielanych upoważnień.
+4. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, wysokość i tryb pobierania opłat, o których mowa w [art. 24](#art-24), uwzględniając rodzaje przyrządów pomiarowych, charakter wykonywanych czynności, stopień skomplikowania i czas trwania przeprowadzanych badań i sprawdzeń oraz ich uzasadnione koszty, a także wskaźniki wzrostu cen towarów i usług konsumpcyjnych oraz dodatkowo, mając na uwadze w przypadku opłat, o których mowa w [art. 24](#art-24) ust. 2 pkt 4, zakres udzielanych upoważnień.
 
 <a id="art-25"></a>
 ### Art. 25.
@@ -1271,7 +1370,7 @@ Za inne czynności wykonywane przez organy administracji miar i podległe im urz
 
 2) wprowadza do obrotu lub użytkowania, stosuje bądź przechowuje w stanie gotowości do użycia przyrządy pomiarowe, podlegające prawnej kontroli metrologicznej, bez wymaganych dowodów tej kontroli lub niespełniające wymagań,
 
-3) użytkuje przyrządy pomiarowe w dziedzinach, o których mowa w art. 8 ust. 1, niezgodnie z warunkami właściwego ich stosowania,
+3) użytkuje przyrządy pomiarowe w dziedzinach, o których mowa w [art. 8](#art-8) ust. 1, niezgodnie z warunkami właściwego ich stosowania,
 
 4) dokonuje legalizacji pierwotnej lub legalizacji ponownej przyrządów pomiarowych bez wymaganego upoważnienia,
 
@@ -1281,7 +1380,7 @@ Za inne czynności wykonywane przez organy administracji miar i podległe im urz
 
 - podlega karze grzywny.
 
-1a. Kto umyślnie użytkuje lub przechowuje w stanie gotowości do użycia przyrządy pomiarowe wycofane z użytkowania na podstawie decyzji, o której mowa w art. 21 ust. 1 pkt 4a lub 5, lub umyślnie niszczy zabezpieczenia, o których mowa w art. 22j ust. 3 pkt 1
+1a. Kto umyślnie użytkuje lub przechowuje w stanie gotowości do użycia przyrządy pomiarowe wycofane z użytkowania na podstawie decyzji, o której mowa w [art. 21](#art-21) ust. 1 pkt 4a lub 5, lub umyślnie niszczy zabezpieczenia, o których mowa w [art. 22j](#art-22j) ust. 3 pkt 1
 
 2. Postępowanie w sprawach, o których mowa w ust. 1 i 1a, prowadzi się na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
@@ -1301,7 +1400,7 @@ Grzywny, o których mowa w art. 26, pobierane przez organy Inspekcji Transportu 
 <a id="art-26c"></a>
 ### Art. 26c.
 
-1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo występowania niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, właściwy organ administracji miar może, na wniosek podmiotu uprawnionego do złożenia wniosku o dokonanie legalizacji ponownej, odroczyć termin dokonania legalizacji ponownej i zezwolić na dalsze użytkowanie danego egzemplarza przyrządu pomiarowego, przez okres nie dłuższy niż 6 miesięcy, jeżeli okres ważności legalizacji ponownej przyrządu pomiarowego, określony w przepisach wydanych na podstawie art. 9, jest wyrażony w miesiącach, albo przez okres nie dłuższy niż 12 miesięcy, jeżeli okres ważności legalizacji ponownej przyrządu pomiarowego, określony w przepisach wydanych na podstawie art. 9, jest wyrażony w latach, pod warunkiem że wnioskodawca dołączy do wniosku oświadczenie, że od dnia dokonania ostatniej legalizacji albo przeprowadzenia oceny zgodności nie wprowadzono zmian dotyczących konstrukcji, wykonania i warunków właściwego stosowania przyrządu pomiarowego i że spełnia on wymagania, w szczególności w zakresie charakterystyk metrologicznych, oraz że jego dalsze użytkowanie, w ocenie wnioskodawcy, nie stwarza zagrożenia dla wymaganej dokładności pomiarów, a także dla życia lub zdrowia ludzkiego oraz mienia i środowiska.
+1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo występowania niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, właściwy organ administracji miar może, na wniosek podmiotu uprawnionego do złożenia wniosku o dokonanie legalizacji ponownej, odroczyć termin dokonania legalizacji ponownej i zezwolić na dalsze użytkowanie danego egzemplarza przyrządu pomiarowego, przez okres nie dłuższy niż 6 miesięcy, jeżeli okres ważności legalizacji ponownej przyrządu pomiarowego, określony w przepisach wydanych na podstawie [art. 9](#art-9), jest wyrażony w miesiącach, albo przez okres nie dłuższy niż 12 miesięcy, jeżeli okres ważności legalizacji ponownej przyrządu pomiarowego, określony w przepisach wydanych na podstawie [art. 9](#art-9), jest wyrażony w latach, pod warunkiem że wnioskodawca dołączy do wniosku oświadczenie, że od dnia dokonania ostatniej legalizacji albo przeprowadzenia oceny zgodności nie wprowadzono zmian dotyczących konstrukcji, wykonania i warunków właściwego stosowania przyrządu pomiarowego i że spełnia on wymagania, w szczególności w zakresie charakterystyk metrologicznych, oraz że jego dalsze użytkowanie, w ocenie wnioskodawcy, nie stwarza zagrożenia dla wymaganej dokładności pomiarów, a także dla życia lub zdrowia ludzkiego oraz mienia i środowiska.
 
 2. Odroczenie i zezwolenie na dalsze użytkowanie, o których mowa w ust. 1, stosuje się do przyrządów pomiarowych, których ważność legalizacji albo obowiązek zgłoszenia do legalizacji ponownej po dokonaniu oceny zgodności upływa w roku, w którym obowiązuje stan zagrożenia epidemicznego albo stan epidemii albo występuje niebezpieczeństwo szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego.
 
@@ -1359,7 +1458,7 @@ Traci moc ustawa z dnia 3 kwietnia 1993 r. - Prawo o miarach (Dz. U. poz. 248, z
 <a id="art-34"></a>
 ### Art. 34.
 
-Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem przepisów art. 9 pkt 8, art. 16 pkt 10, art. 24 ust. 1 pkt 5, art. 26 ust. 1 pkt 5 i art. 31, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia [6)].
+Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem przepisów [art. 9](#art-9) pkt 8, [art. 16](#art-16) pkt 10, [art. 24](#art-24) ust. 1 pkt 5, [art. 26](#art-26) ust. 1 pkt 5 i [art. 31](#art-31), które wchodzą w życie po upływie 14 dni od dnia ogłoszenia [6)].
 
 
 ## Przypisy

@@ -422,5 +422,15 @@ Gotowe: `rozporzadzenie-audyt-energetyczny-nowelizacja-2022-2816`,
 `ustawa-prawo-budowlane-nowelizacja-2025-1847`, `ustawa-o-wlasnosci-lokali`,
 `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE`,
 `ustawa-o-charakterystyce-energetycznej-budynkow`, `ustawa-o-spoldzielniach-mieszkaniowych`,
-`ustawa-o-ochronie-praw-lokatorow`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-i-odprowadzaniu-sciekow`
-(14 z 36).
+`ustawa-o-ochronie-praw-lokatorow`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-i-odprowadzaniu-sciekow`,
+`rozporzadzenie-ochrona-przeciwpozarowa-budynkow`,
+`rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`,
+`ustawa-o-dozorze-technicznym`, `ustawa-o-ochronie-przeciwpozarowej`, `ustawa-prawo-o-miarach`
+(19 z 36).
+
+Ta paczka (batch 5) dodała jeszcze jeden wzorzec obcego aktu do `toc_and_links.py`: akty UE
+bywają cytowane numerem rok/pozycja zamiast polskiej daty — „rozporządzenia 2016/679”
+(RODO), „rozporządzenia (UE) 2016/679” — znaleziony na `art. 15`/`art. 30 rozporządzenia
+2016/679` w `ustawa-o-ochronie-przeciwpozarowej`, które bez tej reguły linkowały błędnie do
+własnych Art. 15/30. Sprawdzone na wszystkich 14 wcześniej zatwierdzonych plikach — wzorzec
+nigdzie indziej nie występuje.

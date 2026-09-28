@@ -4,8 +4,77 @@ w sprawie prawnej kontroli metrologicznej przyrządów pomiarowych2), 3)
 
 Na podstawie art. 9 pkt 1–5 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063) zarządza się, co następuje:
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [§ 1.](#par-1)
+  - [§ 2.](#par-2)
+  - [§ 3.](#par-3)
+- [Rozdział 2. Zatwierdzenie typu przyrządu pomiarowego](#rozdzial-2)
+  - [§ 4.](#par-4)
+  - [§ 5.](#par-5)
+  - [§ 6.](#par-6)
+  - [§ 7.](#par-7)
+  - [§ 8.](#par-8)
+  - [§ 9.](#par-9)
+  - [§ 10.](#par-10)
+  - [§ 11.](#par-11)
+  - [§ 12.](#par-12)
+  - [§ 13.](#par-13)
+  - [§ 14.](#par-14)
+- [Rozdział 3. Przepisy wspólne dla legalizacji pierwotnej i legalizacji ponownej](#rozdzial-3)
+  - [§ 15.](#par-15)
+  - [§ 16.](#par-16)
+  - [§ 17.](#par-17)
+  - [§ 18.](#par-18)
+  - [§ 19.](#par-19)
+  - [§ 20.](#par-20)
+  - [§ 21.](#par-21)
+  - [§ 22.](#par-22)
+  - [§ 23.](#par-23)
+  - [§ 24.](#par-24)
+  - [§ 25.](#par-25)
+  - [§ 26.](#par-26)
+  - [§ 27.](#par-27)
+- [Rozdział 4. Przepisy szczególne dla legalizacji pierwotnej](#rozdzial-4)
+  - [§ 28.](#par-28)
+  - [§ 29.](#par-29)
+  - [§ 30.](#par-30)
+  - [§ 31.](#par-31)
+  - [§ 32.](#par-32)
+  - [§ 33.](#par-33)
+- [Rozdział 5. Przepisy szczególne dla legalizacji ponownej](#rozdzial-5)
+  - [§ 34.](#par-34)
+  - [§ 35.](#par-35)
+  - [§ 36.](#par-36)
+  - [§ 37.](#par-37)
+  - [§ 38.](#par-38)
+  - [§ 39.](#par-39)
+  - [§ 40.](#par-40)
+  - [§ 41.](#par-41)
+  - [§ 42.](#par-42)
+- [Rozdział 6. Przepisy przejściowe i przepis końcowy](#rozdzial-6)
+  - [§ 43.](#par-43)
+  - [§ 44.](#par-44)
+  - [§ 45.](#par-45)
+  - [§ 46.](#par-46)
+  - [§ 47.](#par-47)
+  - [§ 48.](#par-48)
+- [Załączniki](#załączniki)
+- [Załącznik nr 1. [19)] Wzory decyzji zatwierdzenia typu oraz decyzji zatwierdzenia typu z ograniczeniami](#zalacznik-1)
+- [Załącznik nr 2. Wzór znaku zatwierdzenia typu o określonym wzorze](#zalacznik-2)
+- [Załącznik nr 3. [20)]](#zalacznik-3)
+- [Załącznik nr 5. [21)]](#zalacznik-5)
+- [Załącznik nr 6. Wzory cech legalizacji pierwotnej o określonym wzorze](#zalacznik-6)
+- [Załącznik nr 7. Liczebność próbki kontrolnej przy legalizacji pierwotnej manometrów do opon pojazdów mechanicznych dokonywanej za pomocą metody statystycznej i kryteria akceptacji albo odrzucenia partii tych manometrów](#zalacznik-7)
+- [Załącznik nr 8](#zalacznik-8)
+- [Załącznik nr 9. [23)] Wzór świadectwa legalizacji ponownej dokonanej za pomocą metody statystycznej](#zalacznik-9)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="par-1"></a>
 ### § 1.
 
 Rozporządzenie określa:
@@ -22,6 +91,7 @@ Rozporządzenie określa:
 
 6) wzory znaków zatwierdzenia typu, cech legalizacji i cech zabezpieczających.
 
+<a id="par-2"></a>
 ### § 2.
 
 Ilekroć w rozporządzeniu jest mowa o:
@@ -34,14 +104,17 @@ Ilekroć w rozporządzeniu jest mowa o:
 
 4) Prezesie – należy przez to rozumieć Prezesa Głównego Urzędu Miar.
 
+<a id="par-3"></a>
 ### § 3.
 
 1. Wnioski o przeprowadzenie prawnej kontroli metrologicznej w sprawach określonych w rozporządzeniu i dokumenty dołączane do tych wniosków sporządza się w języku polskim.
 
 2. W przypadku gdy wnioski i dokumenty, o których mowa w ust. 1, są sporządzone w języku innym niż język polski, do tych wniosków i dokumentów dołącza się ich tłumaczenie na język polski sporządzone przez tłumacza przysięgłego.
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Zatwierdzenie typu przyrządu pomiarowego
 
+<a id="par-4"></a>
 ### § 4.
 
 Wniosek o zatwierdzenie typu przyrządu pomiarowego zawiera:
@@ -68,9 +141,10 @@ Wniosek o zatwierdzenie typu przyrządu pomiarowego zawiera:
 
 11) podpis wnioskodawcy albo jego upoważnionego przedstawiciela.
 
+<a id="par-5"></a>
 ### § 5.
 
-1. Do wniosku, o którym mowa w § 4, dołącza się:
+1. Do wniosku, o którym mowa w [§ 4](#par-4), dołącza się:
 
 1) określenie warunków właściwego stosowania przyrządu pomiarowego;
 
@@ -80,7 +154,7 @@ Wniosek o zatwierdzenie typu przyrządu pomiarowego zawiera:
 
 4) dokumentację techniczno-konstrukcyjną typu przyrządu pomiarowego;
 
-5) egzemplarz przyrządu pomiarowego reprezentujący typ, który ma zostać zatwierdzony, zawierający wszystkie elementy określone w wykazie, o którym mowa w pkt 2, oraz urządzenia dodatkowe określone w wykazie, o którym mowa w pkt 3, z zastrzeżeniem § 4 pkt 6;
+5) egzemplarz przyrządu pomiarowego reprezentujący typ, który ma zostać zatwierdzony, zawierający wszystkie elementy określone w wykazie, o którym mowa w pkt 2, oraz urządzenia dodatkowe określone w wykazie, o którym mowa w pkt 3, z zastrzeżeniem [§ 4](#par-4) pkt 6;
 
 6) instrukcję obsługi przyrządu pomiarowego;
 
@@ -130,6 +204,7 @@ Wniosek o zatwierdzenie typu przyrządu pomiarowego zawiera:
 
 6.[8)] W przypadku gdy okoliczności, o których mowa w ust. 5, zostaną ujawnione po złożeniu wniosku, wnioskodawca może do czasu zakończenia postępowania w sprawie zatwierdzenia typu przyrządu pomiarowego złożyć do akt oświadczenie, o którym mowa w ust. 5.
 
+<a id="par-6"></a>
 ### § 6.
 
 Jeżeli jest to niezbędne dla prawidłowego przeprowadzenia badania typu, w szczególności gdy przyrząd występuje w wielu wariantach konstrukcyjnych, konstrukcja przyrządu uniemożliwia wykonanie wszystkich badań na jednym egzemplarzu tego przyrządu lub w przypadku wystąpienia awarii w zgłoszonym egzemplarzu, Prezes może wezwać wnioskodawcę do:
@@ -138,10 +213,12 @@ Jeżeli jest to niezbędne dla prawidłowego przeprowadzenia badania typu, w szc
 
 2) udostępnienia specjalistycznego sprzętu, w szczególności wzorców miary wraz z dowodami spójności pomiarowej i odpowiednich środków technicznych, oraz zapewnienia pomocy personelu pomocniczego.
 
+<a id="par-7"></a>
 ### § 7.
 
-Wnioskodawca może dołączyć do wniosku, o którym mowa w § 4, protokoły z wynikami badań, przeprowadzonych przez kompetentne instytucje metrologiczne lub laboratoria, wykazującymi, że typ przyrządu pomiarowego spełnia wymagania.
+Wnioskodawca może dołączyć do wniosku, o którym mowa w [§ 4](#par-4), protokoły z wynikami badań, przeprowadzonych przez kompetentne instytucje metrologiczne lub laboratoria, wykazującymi, że typ przyrządu pomiarowego spełnia wymagania.
 
+<a id="par-8"></a>
 ### § 8.
 
 1. W przypadku gdy sposoby i metody przeprowadzania badań wykonywanych podczas prawnej kontroli metrologicznej nie zostały określone w przepisach wydanych na podstawie art. 9a pkt 2 ustawy, badanie przyrządu pomiarowego jest przeprowadzane z uwzględnieniem właściwych dla danego przyrządu pomiarowego Polskich Norm, dokumentów Międzynarodowej Organizacji Metrologii Prawnej lub innych dokumentów technicznych.
@@ -150,6 +227,7 @@ Wnioskodawca może dołączyć do wniosku, o którym mowa w § 4, protokoły z w
 
 3. Badanie charakterystyk metrologicznych podczas badania typu przyrządu pomiarowego przeprowadza się zgodnie ze sposobami i metodami przeprowadzania badań określonymi w przepisach wydanych na podstawie art. 9a pkt 2 ustawy albo z uwzględnieniem dokumentów, o których mowa w ust. 1.
 
+<a id="par-9"></a>
 ### § 9.
 
 1. Z przeprowadzonego badania typu sporządza się protokół.
@@ -162,7 +240,7 @@ a) przyrząd pomiarowy reprezentujący typ, który ma zostać zatwierdzony,
 
 b) wersję i sumy kontrolne oprogramowania przyrządu pomiarowego, o ile ma to zastosowanie,
 
-c) producenta przyrządu pomiarowego, a także jego upoważnionego przedstawiciela, jeżeli wniosek, o którym mowa w § 4, został złożony przez upoważnionego przedstawiciela,
+c) producenta przyrządu pomiarowego, a także jego upoważnionego przedstawiciela, jeżeli wniosek, o którym mowa w [§ 4](#par-4), został złożony przez upoważnionego przedstawiciela,
 
 d) wykonawcę badania,
 
@@ -180,12 +258,14 @@ e) miejsce zainstalowania badanego egzemplarza przyrządu pomiarowego, jeżeli b
 
 3. Do protokołu, o którym mowa w ust. 1, mogą być załączone dokumenty umożliwiające identyfikację przyrządu pomiarowego przy sprawdzaniu zgodności przyrządu pomiarowego z zatwierdzonym typem, w tym sporządzone w wyniku skaningu laserowego przyrządu pomiarowego, o ile ma to zastosowanie.
 
+<a id="par-10"></a>
 ### § 10.
 
-1. Wzory decyzji zatwierdzenia typu oraz decyzji zatwierdzenia typu z ograniczeniami określa załącznik nr 1 do rozporządzenia.
+1. Wzory decyzji zatwierdzenia typu oraz decyzji zatwierdzenia typu z ograniczeniami określa załącznik nr [1](#zalacznik-1) do rozporządzenia.
 
-2. Wzorów, o których mowa w załączniku nr 1 do rozporządzenia, nie stosuje się przy zatwierdzaniu typu tachografów i ich elementów składowych.
+2. Wzorów, o których mowa w załączniku nr [1](#zalacznik-1) do rozporządzenia, nie stosuje się przy zatwierdzaniu typu tachografów i ich elementów składowych.
 
+<a id="par-11"></a>
 ### § 11.
 
 1. W przypadku nadania przez Prezesa znaku zatwierdzenia typu znak zatwierdzenia typu składa się z dużych liter „PL” i „T”, dwóch ostatnich cyfr roku, w którym jest wydana decyzja zatwierdzenia typu, oraz kolejnego numeru tego znaku nadanego w danym roku.
@@ -194,8 +274,9 @@ e) miejsce zainstalowania badanego egzemplarza przyrządu pomiarowego, jeżeli b
 
 3. Jeżeli przedmiotem wniosku o zatwierdzenie typu są przyrządy pomiarowe, do których odnoszą się odrębne dyrektywy Unii Europejskiej, Prezes nadaje zatwierdzonemu typowi przyrządu pomiarowego znak zatwierdzenia typu o określonym wzorze, na wniosek producenta lub jego upoważnionego przedstawiciela.
 
-4. Wzór znaku zatwierdzenia typu o określonym wzorze określa załącznik nr 2 do rozporządzenia.
+4. Wzór znaku zatwierdzenia typu o określonym wzorze określa załącznik nr [2](#zalacznik-2) do rozporządzenia.
 
+<a id="par-12"></a>
 ### § 12.
 
 1. Po zakończeniu prawomocną decyzją postępowania w sprawie zatwierdzenia typu przyrządu pomiarowego Prezes wzywa wnioskodawcę do odbioru badanych egzemplarzy przyrządu pomiarowego łącznie z tymi, które uległy zniszczeniu podczas badania. W przypadku nieodebrania przez wnioskodawcę przyrządów pomiarowych w terminie 30 dni od dnia doręczenia wezwania, stosuje się przepisy o postępowaniu egzekucyjnym w administracji dotyczące egzekucji obowiązku o charakterze niepieniężnym.
@@ -204,15 +285,17 @@ e) miejsce zainstalowania badanego egzemplarza przyrządu pomiarowego, jeżeli b
 
 3. Prezes wzywa wnioskodawcę do odbioru wzoru zatwierdzonego typu, o którym mowa w ust. 2, po upływie okresu ważności decyzji zatwierdzenia typu. Przepis ust. 1 stosuje się odpowiednio.
 
+<a id="par-13"></a>
 ### § 13.
 
 1. Do postępowania w sprawie zmiany decyzji zatwierdzenia typu stosuje się odpowiednio przepisy niniejszego rozdziału.
 
 2. W przypadku postępowań w sprawie zmiany decyzji zatwierdzenia typu dokumentacja techniczno-konstrukcyjna typu przyrządu pomiarowego jest sporządzana w zakresie wprowadzanych zmian typu przyrządu pomiarowego.
 
+<a id="par-14"></a>
 ### § 14.
 
-1.9) Do wniosku o uznanie za równoważne zatwierdzeniu typu lub legalizacji pierwotnej odpowiednich dokumentów potwierdzających dokonanie prawnej kontroli metrologicznej przyrządu pomiarowego przez właściwe zagraniczne instytucje metrologiczne w państwach członkowskich Unii Europejskiej, Republice Turcji oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA), będących stronami umowy o Europejskim Obszarze Gospodarczym, stosuje się przepisy § 3, § 4 i § 5 ust. 1 pkt 4 i 6–9, ust. 2 oraz ust. 4–6.
+1.9) Do wniosku o uznanie za równoważne zatwierdzeniu typu lub legalizacji pierwotnej odpowiednich dokumentów potwierdzających dokonanie prawnej kontroli metrologicznej przyrządu pomiarowego przez właściwe zagraniczne instytucje metrologiczne w państwach członkowskich Unii Europejskiej, Republice Turcji oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA), będących stronami umowy o Europejskim Obszarze Gospodarczym, stosuje się przepisy [§ 3](#par-3), [§ 4](#par-4) i [§ 5](#par-5) ust. 1 pkt 4 i 6–9, ust. 2 oraz ust. 4–6.
 
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
@@ -224,12 +307,15 @@ e) miejsce zainstalowania badanego egzemplarza przyrządu pomiarowego, jeżeli b
 
 3. Dokumenty, o których mowa w ust. 1, Prezes uznaje za równoważne zatwierdzeniu typu lub legalizacji pierwotnej, pod warunkiem że prawna kontrola metrologiczna wykonywana w państwach, o których mowa w ust. 1, zapewnia jednolitość miar i dokładność pomiarów w stopniu co najmniej odpowiadającym przepisom określającym wymagania, którym powinny odpowiadać poszczególne rodzaje przyrządów pomiarowych podlegających prawnej kontroli metrologicznej, wydanym na podstawie art. 9a pkt 1 ustawy, oraz że sposoby i metody badań przeprowadzonych w celu wykazania spełniania przez przyrząd pomiarowy wymagań mogą być uznane za równoważne sposobom i metodom badań przeprowadzanych przez Prezesa w celu wykazania spełniania przez przyrząd pomiarowy tych wymagań.
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Przepisy wspólne dla legalizacji pierwotnej i legalizacji ponownej
 
+<a id="par-15"></a>
 ### § 15.
 
 Ilekroć w niniejszym rozdziale jest mowa o „legalizacji” bez bliższego określania, należy przez to rozumieć legalizację pierwotną, w tym legalizację jednostkową, i legalizację ponowną.
 
+<a id="par-16"></a>
 ### § 16.
 
 1.10) Wniosek o dokonanie legalizacji może być składany na piśmie, ustnie, za pomocą środków komunikacji elektronicznej przez elektroniczną skrzynkę podawczą organu administracji publicznej utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160), a także za pomocą systemu informatycznego, jeżeli rejestr wniosków jest prowadzony przy użyciu takiego systemu. W przypadku wniosku składanego ustnie za datę otrzymania wniosku uznaje się datę zgłoszenia wniosku do rejestru wniosków.
@@ -238,6 +324,7 @@ Ilekroć w niniejszym rozdziale jest mowa o „legalizacji” bez bliższego okr
 
 3. W przypadku zgłaszania do legalizacji dużej liczby przyrządów pomiarowych wniosek o dokonanie legalizacji może nie zawierać numerów fabrycznych przyrządów pomiarowych pod warunkiem, że wnioskodawca określi numer fabryczny przyrządu pomiarowego przed podjęciem czynności sprawdzenia tego przyrządu.
 
+<a id="par-17"></a>
 ### § 17.
 
 1. Organy administracji miar oraz podmioty upoważnione prowadzą rejestry wniosków o dokonanie legalizacji.
@@ -246,6 +333,7 @@ Ilekroć w niniejszym rozdziale jest mowa o „legalizacji” bez bliższego okr
 
 3.[11)] Jeżeli rejestr wniosków jest prowadzony przy użyciu systemu informatycznego, to w przypadku wniosków złożonych na piśmie, ustnie, przez elektroniczną skrzynkę podawczą albo za pomocą systemu informatycznego potwierdzeniem ich przyjęcia jest wydruk potwierdzenia przyjęcia wniosku. Wydanie potwierdzenia przyjęcia wniosku następuje zgodnie z formą złożenia wniosku albo w formie wskazanej przez wnioskodawcę, w miarę możliwości technicznych, którymi dysponuje organ wydający przedmiotowe potwierdzenie.
 
+<a id="par-18"></a>
 ### § 18.
 
 1. Wnioskodawca wraz z wnioskiem o dokonanie legalizacji przedkłada egzemplarz albo egzemplarze przyrządów pomiarowych, które mają być poddane legalizacji, albo wskazuje we wniosku miejsce przeprowadzenia legalizacji, jeżeli, zgodnie z przepisami wydanymi na podstawie art. 9a ustawy, legalizację przyrządu pomiarowego przeprowadza się w miejscu jego zainstalowania lub miejscu użytkowania.
@@ -254,12 +342,14 @@ Ilekroć w niniejszym rozdziale jest mowa o „legalizacji” bez bliższego okr
 
 3. W przypadku niedostarczenia przyrządów pomiarowych do miejsca przeprowadzenia legalizacji w terminie ustalonym przez organ administracji miar albo podmiot upoważniony, wnioskodawca jest obowiązany ponownie złożyć wniosek o dokonanie legalizacji tych przyrządów pomiarowych.
 
+<a id="par-19"></a>
 ### § 19.
 
 1. W przypadku gdy sposoby i metody przeprowadzania sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej nie zostały określone w przepisach wydanych na podstawie art. 9a pkt 2 ustawy, sprawdzenie przyrządu pomiarowego jest przeprowadzane z uwzględnieniem właściwych dla danego przyrządu pomiarowego Polskich Norm, dokumentów Międzynarodowej Organizacji Metrologii Prawnej lub innych dokumentów technicznych.
 
 2. Prezes może wezwać wnioskodawcę do udostępnienia specjalistycznego sprzętu, w szczególności wzorców miary wraz z dowodami spójności pomiarowej i odpowiednich środków technicznych, oraz zapewnienia pomocy personelu pomocniczego.
 
+<a id="par-20"></a>
 ### § 20.
 
 1. Z przeprowadzonych czynności sprawdzenia sporządza się protokół.
@@ -294,6 +384,7 @@ g) miejsce zainstalowania lub miejsce użytkowania przyrządu pomiarowego, o ile
 
 7) podpis osoby przeprowadzającej sprawdzenie.
 
+<a id="par-21"></a>
 ### § 21.
 
 1. Organ administracji miar albo podmiot upoważniony na podstawie przeprowadzonego sprawdzenia przyrządu pomiarowego i stwierdzenia zgodności z wymaganiami poświadcza dokonanie legalizacji przez:
@@ -310,10 +401,12 @@ b) rok i miesiąc ważności legalizacji.
 
 3. Cechy legalizacji i cechy zabezpieczające są nanoszone na przyrządy pomiarowe za pomocą nośników zapewniających ich czytelność, w sposób zapewniający ich trwałość, nieusuwalność albo gwarantujący ich uszkodzenie albo zniszczenie przy usuwaniu.
 
+<a id="par-22"></a>
 ### § 22.
 
-Wzór świadectwa legalizacji oraz wzór załącznika do świadectwa legalizacji ponownej taksometru albo taksometru elektronicznego określa załącznik nr 3 do rozporządzenia.
+Wzór świadectwa legalizacji oraz wzór załącznika do świadectwa legalizacji ponownej taksometru albo taksometru elektronicznego określa załącznik nr [3](#zalacznik-3) do rozporządzenia.
 
+<a id="par-23"></a>
 ### § 23.
 
 Świadectwo legalizacji przyrządu pomiarowego:
@@ -324,6 +417,7 @@ Wzór świadectwa legalizacji oraz wzór załącznika do świadectwa legalizacji
 
 3) jest udostępniane właściwym organom podczas przeprowadzanych kontroli.
 
+<a id="par-24"></a>
 ### § 24.
 
 Cecha identyfikująca organ administracji miar albo podmiot upoważniony jest umieszczana na przyrządach pomiarowych jako cecha zabezpieczająca przed dostępem osób nieuprawnionych we wszystkich przypadkach i miejscach wskazanych:
@@ -334,24 +428,30 @@ Cecha identyfikująca organ administracji miar albo podmiot upoważniony jest um
 
 3) przez producenta przyrządu pomiarowego, w przypadku przyrządów pomiarowych wprowadzonych do obrotu lub użytkowania po dokonaniu oceny zgodności.
 
+<a id="par-25"></a>
 ### § 25.
 
 Wzory cech legalizacji oraz wyróżniki cyfrowe identyfikujące urzędy podległe organom administracji miar oraz ich wydziały zamiejscowe oraz podmioty upoważnione stosowane w cechach identyfikujących organ administracji miar albo podmiot upoważniony określa załącznik nr 4 do rozporządzenia.
 
+<a id="par-26"></a>
 ### § 26.
 
-Rodzaje dowodów legalizacji, okresy ważności legalizacji dla poszczególnych rodzajów przyrządów pomiarowych, terminy zgłaszania do legalizacji ponownej przyrządów pomiarowych wprowadzonych do obrotu lub użytkowania po dokonaniu oceny zgodności oraz okresy ważności legalizacji ponownej za pomocą metody statystycznej określa załącznik nr 5 do rozporządzenia.
+Rodzaje dowodów legalizacji, okresy ważności legalizacji dla poszczególnych rodzajów przyrządów pomiarowych, terminy zgłaszania do legalizacji ponownej przyrządów pomiarowych wprowadzonych do obrotu lub użytkowania po dokonaniu oceny zgodności oraz okresy ważności legalizacji ponownej za pomocą metody statystycznej określa załącznik nr [5](#zalacznik-5) do rozporządzenia.
 
+<a id="par-27"></a>
 ### § 27.
 
 Przyrząd pomiarowy zgłoszony do legalizacji jest zwracany wnioskodawcy niezwłocznie po zakończeniu czynności legalizacji, a w przypadku partii przyrządów pomiarowych są one zwracane niezwłocznie po wykonaniu czynności w stosunku do wszystkich przyrządów.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Przepisy szczególne dla legalizacji pierwotnej
 
+<a id="par-28"></a>
 ### § 28.
 
 Ilekroć w niniejszym rozdziale jest mowa o „legalizacji” bez bliższego określania, należy przez to rozumieć legalizację pierwotną i legalizację jednostkową.
 
+<a id="par-29"></a>
 ### § 29.
 
 1. Wniosek o dokonanie legalizacji zawiera:
@@ -378,16 +478,19 @@ g) nadany znak zatwierdzenia typu lub numer decyzji zatwierdzenia typu albo decy
 
 2. Jeżeli wniosek o dokonanie legalizacji jest składany przez upoważnionego przedstawiciela producenta, do wniosku należy dołączyć upoważnienie do działania w imieniu producenta w sprawach związanych z legalizacją.
 
+<a id="par-30"></a>
 ### § 30.
 
-Do wniosku o dokonanie legalizacji pierwotnej przyrządu pomiarowego niepodlegającego zatwierdzeniu typu oraz do wniosku o dokonanie legalizacji jednostkowej dołącza się dokumentację techniczno-konstrukcyjną przyrządu pomiarowego, zawierającą dane określone w § 5 ust. 2, oraz instrukcję obsługi.
+Do wniosku o dokonanie legalizacji pierwotnej przyrządu pomiarowego niepodlegającego zatwierdzeniu typu oraz do wniosku o dokonanie legalizacji jednostkowej dołącza się dokumentację techniczno-konstrukcyjną przyrządu pomiarowego, zawierającą dane określone w [§ 5](#par-5) ust. 2, oraz instrukcję obsługi.
 
+<a id="par-31"></a>
 ### § 31.
 
 1. Na przyrządach pomiarowych, do których odnoszą się odrębne dyrektywy Unii Europejskiej, na wniosek wnioskodawcy składającego wniosek o dokonanie legalizacji, umieszcza się cechy legalizacji pierwotnej o określonym wzorze.
 
-2. Wzory cech legalizacji pierwotnej o określonym wzorze określa załącznik nr 6 do rozporządzenia.
+2. Wzory cech legalizacji pierwotnej o określonym wzorze określa załącznik nr [6](#zalacznik-6) do rozporządzenia.
 
+<a id="par-32"></a>
 ### § 32.
 
 1. Legalizacja pierwotna jednorodnej partii manometrów do opon pojazdów mechanicznych, zwanych dalej „manometrami”, może być dokonana za pomocą metody statystycznej.
@@ -406,6 +509,7 @@ Do wniosku o dokonanie legalizacji pierwotnej przyrządu pomiarowego niepodlegaj
 
 4) manometry zostały wyprodukowane w okresie kolejnych 12 miesięcy.
 
+<a id="par-33"></a>
 ### § 33.
 
 1. Wyboru manometrów do próbki kontrolnej dokonuje organ administracji miar lub podmiot upoważniony spośród manometrów z partii zgłoszonej do legalizacji.
@@ -414,11 +518,11 @@ Do wniosku o dokonanie legalizacji pierwotnej przyrządu pomiarowego niepodlegaj
 
 3. Wybór należy przeprowadzić w taki sposób, aby prawdopodobieństwo wyboru danego manometru jako manometru w próbce kontrolnej było identyczne dla każdego manometru w partii.
 
-4. Liczebność próbki kontrolnej przy legalizacji pierwotnej manometrów dokonywanej za pomocą metody statystycznej i kryteria akceptacji albo odrzucenia partii manometrów określa załącznik nr 7 do rozporządzenia.
+4. Liczebność próbki kontrolnej przy legalizacji pierwotnej manometrów dokonywanej za pomocą metody statystycznej i kryteria akceptacji albo odrzucenia partii manometrów określa załącznik nr [7](#zalacznik-7) do rozporządzenia.
 
 5. Organ administracji miar albo podmiot upoważniony przeprowadza indywidualne sprawdzenia wszystkich manometrów z próbki kontrolnej.
 
-6. Na podstawie wyników sprawdzeń oraz zgodnie z kryteriami akceptacji lub odrzucenia partii manometrów określonymi w załączniku nr 7 do rozporządzenia organ administracji miar lub podmiot upoważniony:
+6. Na podstawie wyników sprawdzeń oraz zgodnie z kryteriami akceptacji lub odrzucenia partii manometrów określonymi w załączniku nr [7](#zalacznik-7) do rozporządzenia organ administracji miar lub podmiot upoważniony:
 
 1) dokonuje legalizacji partii manometrów lub
 
@@ -430,8 +534,10 @@ Do wniosku o dokonanie legalizacji pierwotnej przyrządu pomiarowego niepodlegaj
 
 9. W przypadku stwierdzenia spełniania wymagań przez manometry w liczbie równej lub wyższej od manometrów w próbce, które muszą spełniać wymagania, aby manometry w partii mogły być zalegalizowane, dokonanie legalizacji poświadcza się dowodami legalizacji w stosunku do wszystkich manometrów w partii, z wyjątkiem tych manometrów z próbki, w stosunku do których stwierdzono niespełnienie wymagań i wydano decyzję, o której mowa w art. 8n ust. 1a ustawy.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Przepisy szczególne dla legalizacji ponownej
 
+<a id="par-34"></a>
 ### § 34.
 
 1. Wniosek o dokonanie legalizacji ponownej zawiera:
@@ -460,21 +566,24 @@ f) numer certyfikatu badania typu UE albo WE lub certyfikatu badania projektu UE
 
 3.[13)] Jeżeli w wyniku wezwania, o którym mowa w ust. 2, do wniosku o dokonanie legalizacji ponownej dołączono kopię świadectwa legalizacji pierwotnej albo poprzedniej legalizacji ponownej, to wnioskodawca jest zobowiązany do okazania oryginałów tych dokumentów przed podjęciem czynności sprawdzenia tego przyrządu.
 
+<a id="par-35"></a>
 ### § 35.
 
 Jeżeli w wyniku przeprowadzonego sprawdzenia przyrządu pomiarowego organ administracji miar albo podmiot upoważniony stwierdzą, że przyrząd pomiarowy nie spełnia wymagań, cecha legalizacji umieszczona na przyrządzie pomiarowym podczas legalizacji uprzedniej jest kasowana za pomocą znaku, którego wzór określa załącznik nr 4 do rozporządzenia.
 
+<a id="par-36"></a>
 ### § 36.
 
 Jeżeli czynności legalizacji ponownej są wykonywane przed zainstalowaniem i po zainstalowaniu przyrządu pomiarowego w miejscu jego użytkowania, cecha zabezpieczająca jest umieszczana na przyrządzie pomiarowym po przeprowadzeniu jego sprawdzenia przed zainstalowaniem tego przyrządu w miejscu jego użytkowania.
 
+<a id="par-37"></a>
 ### § 37.
 
 1. Legalizacja ponowna jednorodnej partii ciepłomierzy, podzespołów do ciepłomierzy, gazomierzy, liczników energii elektrycznej czynnej prądu przemiennego oraz wodomierzy może być dokonana za pomocą metody statystycznej.
 
 2. Legalizacja ponowna za pomocą metody statystycznej dokonywana jest na wniosek.
 
-3. Wniosek o dokonanie legalizacji ponownej za pomocą metody statystycznej, poza danymi określonymi w § 34, zawiera:
+3. Wniosek o dokonanie legalizacji ponownej za pomocą metody statystycznej, poza danymi określonymi w [§ 34](#par-34), zawiera:
 
 1) dane identyfikujące zgłaszane do legalizacji ponownej przyrządy pomiarowe obejmujące:
 
@@ -578,6 +687,7 @@ b) średnicy nominalnej;
 
 4) wodomierze są używane do wody o takim samym lub porównywalnym poziomie jej jakości.
 
+<a id="par-38"></a>
 ### § 38.
 
 1. Wyboru przyrządów pomiarowych do próbki kontrolnej oraz przyrządów pomiarowych zapasowych dokonuje organ administracji miar lub podmiot upoważniony spośród przyrządów pomiarowych z partii zgłoszonej do legalizacji.
@@ -586,7 +696,7 @@ b) średnicy nominalnej;
 
 3. Wybór należy przeprowadzić w taki sposób, aby prawdopodobieństwo wyboru danego przyrządu pomiarowego jako przyrządu pomiarowego w próbce kontrolnej oraz przyrządu pomiarowego zapasowego było identyczne dla każdego przyrządu pomiarowego w partii.
 
-4. Liczebność próbki kontrolnej przy legalizacji ponownej dokonywanej za pomocą metody statystycznej i kryteria akceptacji albo odrzucenia partii przyrządów pomiarowych oraz liczbę przyrządów pomiarowych zapasowych w zależności od liczebności partii określa załącznik nr 8 do rozporządzenia.
+4. Liczebność próbki kontrolnej przy legalizacji ponownej dokonywanej za pomocą metody statystycznej i kryteria akceptacji albo odrzucenia partii przyrządów pomiarowych oraz liczbę przyrządów pomiarowych zapasowych w zależności od liczebności partii określa załącznik nr [8](#zalacznik-8) do rozporządzenia.
 
 5. Termin dostarczenia przyrządów pomiarowych do miejsca ich sprawdzenia ustalany jest w porozumieniu z wnioskodawcą.
 
@@ -594,6 +704,7 @@ b) średnicy nominalnej;
 
 7. Okres między demontażem przyrządu pomiarowego a sprawdzeniem próbki kontrolnej powinien być jak najkrótszy, przy czym nie może przekroczyć jednego miesiąca.
 
+<a id="par-39"></a>
 ### § 39.
 
 1. Przed rozpoczęciem sprawdzenia przyrządy pomiarowe z próbki kontrolnej mogą być wymienione na przyrządy pomiarowe zapasowe, jeżeli dany przyrząd pomiarowy z próbki kontrolnej spełnia co najmniej jedno z poniższych kryteriów:
@@ -616,9 +727,10 @@ b) średnicy nominalnej;
 
 4. Jeżeli utworzenie próbki kontrolnej nie jest możliwe, organ administracji miar lub podmiot upoważniony nie dokonuje legalizacji ponownej za pomocą metody statystycznej.
 
+<a id="par-40"></a>
 ### § 40.
 
-1. Na podstawie wyników sprawdzeń oraz zgodnie z kryteriami akceptacji lub odrzucenia partii przyrządów pomiarowych określonymi w załączniku nr 8 do rozporządzenia organ administracji miar lub podmiot upoważniony:
+1. Na podstawie wyników sprawdzeń oraz zgodnie z kryteriami akceptacji lub odrzucenia partii przyrządów pomiarowych określonymi w załączniku nr [8](#zalacznik-8) do rozporządzenia organ administracji miar lub podmiot upoważniony:
 
 1) dokonuje legalizacji partii przyrządów pomiarowych lub
 
@@ -638,10 +750,12 @@ b) średnicy nominalnej;
 
 3) dokonuje się legalizacji ponownej przyrządów pomiarowych należących do odrzuconej partii, w stosunku do których podczas badania próbki kontrolnej stwierdzono spełnienie wymagań.
 
+<a id="par-41"></a>
 ### § 41.
 
-Wzór świadectwa legalizacji ponownej dokonanej za pomocą metody statystycznej określa załącznik nr 9 do rozporządzenia.
+Wzór świadectwa legalizacji ponownej dokonanej za pomocą metody statystycznej określa załącznik nr [9](#zalacznik-9) do rozporządzenia.
 
+<a id="par-42"></a>
 ### § 42.
 
 Główny Urząd Miar prowadzi powszechnie dostępny rejestr przyrządów pomiarowych zalegalizowanych ponownie za pomocą metody statystycznej, który zawiera:
@@ -658,34 +772,42 @@ Główny Urząd Miar prowadzi powszechnie dostępny rejestr przyrządów pomiaro
 
 6) datę ważności legalizacji.
 
+<a id="rozdzial-6"></a>
 ### Rozdział 6. Przepisy przejściowe i przepis końcowy
 
+<a id="par-43"></a>
 ### § 43.
 
-Do wniosków o dokonanie legalizacji ponownej przyrządów pomiarowych, które zostały wprowadzone do obrotu lub użytkowania i zalegalizowane przed dniem 29 stycznia 2008 r., składanych po raz pierwszy po dniu wejścia w życie rozporządzenia, nie stosuje się § 34 ust. 2.
+Do wniosków o dokonanie legalizacji ponownej przyrządów pomiarowych, które zostały wprowadzone do obrotu lub użytkowania i zalegalizowane przed dniem 29 stycznia 2008 r., składanych po raz pierwszy po dniu wejścia w życie rozporządzenia, nie stosuje się [§ 34](#par-34) ust. 2.
 
+<a id="par-44"></a>
 ### § 44.
 
 Dowody legalizacji pierwotnej, legalizacji jednostkowej i legalizacji ponownej wydane przed dniem wejścia w życie rozporządzenia są ważne do czasu upływu ich okresów ważności określonych w przepisach dotychczasowych.
 
+<a id="par-45"></a>
 ### § 45.
 
 Podmioty upoważnione mogą posługiwać się dotychczasowymi wyróżnikami identyfikującymi ustalonymi w upoważnieniach do dokonywania legalizacji pierwotnej lub legalizacji ponownej wydanych przed dniem wejścia w życie rozporządzenia do czasu upływu okresów ważności tych upoważnień.
 
+<a id="par-46"></a>
 ### § 46.
 
 Do prawnej kontroli metrologicznej przyrządów pomiarowych w sprawach wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 
+<a id="par-47"></a>
 ### § 47.
 
 1. Przeliczniki do gazomierzy podlegające prawnej kontroli metrologicznej wprowadzone do obrotu lub użytkowania po dokonaniu oceny zgodności przed dniem 18 maja 2017 r. zgłasza się po raz pierwszy do legalizacji ponownej do dnia 31 grudnia 2021 r.
 
 2. Okres ważności legalizacji pierwotnej przeliczników do gazomierzy dokonanej na podstawie rozporządzenia Ministra Gospodarki z dnia 7 stycznia 2008 r. w sprawie prawnej kontroli metrologicznej przyrządów pomiarowych (Dz. U. poz. 29 oraz z 2010 r. poz. 728) upływa z dniem 31 grudnia 2026 r.
 
+<a id="par-48"></a>
 ### § 48.
 
 Na odważnikach klas dokładności E1, E2, F1, F2 i M1 od 1 mg do 50 kg oraz M2 prostopadłościennych od 5 kg do 50 kg i walcowych od 1 g do 10 kg cechy legalizacji pierwotnej o określonym wzorze umieszcza się w przypadku wniosku o dokonanie legalizacji pierwotnej złożonego w terminie do dnia 30 listopada 2025 r.
 
+<a id="załączniki"></a>
 ## Załączniki
 
 > **Uwaga:** poniższe załączniki w oryginalnym rozporządzeniu mają formę tabel i wzorów
@@ -696,6 +818,7 @@ Na odważnikach klas dokładności E1, E2, F1, F2 i M1 od 1 mg do 50 kg oraz M2 
 
 Załączniki do rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 22 marca 2019 r. (Dz. U. z 2026 r. poz. 551)
 
+<a id="zalacznik-1"></a>
 ## Załącznik nr 1. [19)] Wzory decyzji zatwierdzenia typu oraz decyzji zatwierdzenia typu z ograniczeniami
 
 1. Wzór decyzji zatwierdzenia typu
@@ -820,6 +943,7 @@ Od decyzji stronie nie przysługuje odwołanie. Jednakże strona niezadowolona z
 
 ——————— * Wpisać, jeżeli dzień sporządzenia wniosku jest inny niż dzień wpływu wniosku do Głównego Urzędu Miar. ** Niepotrzebne skreślić. *** Do decyzji mogą być dołączone załączniki zawierające opisy, schematy lub fotografie przyrządu pomiarowego w celu jego identyfikacji albo może być określony dokument, na podstawie którego będzie dokonywana identyfikacja przyrządu pomiarowego. **** Wpisać, o ile ma to zastosowanie. ***** Pieczęć należy umieścić tylko w przypadku, gdy decyzja jest sporządzona w postaci papierowej. ****** W przypadku gdy decyzja jest wydawana w postaci elektronicznej, wskazuje się imię i nazwisko osoby wydającej decyzję oraz opatruje się ją kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Prezesa Głównego Urzędu Miar ze wskazaniem w treści decyzji osoby opatrującej decyzję pieczęcią.
 
+<a id="zalacznik-2"></a>
 ## Załącznik nr 2. Wzór znaku zatwierdzenia typu o określonym wzorze
 
 1. Wzór znaku zatwierdzenia typu o określonym wzorze stanowi stylizowana litera „ε” zawierająca:
@@ -834,6 +958,7 @@ Rys. 1. Wzór znaku zatwierdzenia typu o określonym wzorze
 
 Rys. 2. Wzór znaku zatwierdzenia typu o określonym wzorze z ograniczeniami
 
+<a id="zalacznik-3"></a>
 ## Załącznik nr 3. [20)]
 
 1. WZÓR ŚWIADECTWA LEGALIZACJI
@@ -1018,6 +1143,7 @@ Lp. Nazwa i siedziba urzędu Wyróżnik 1 2 3 1 Okręgowy Urząd Miar w Warszawi
 
 11. Wyróżniki cyfrowe identyfikujące podmioty upoważnione określa się jako trzycyfrowe, kolejne numery rozpoczynając od numeru 100.
 
+<a id="zalacznik-5"></a>
 ## Załącznik nr 5. [21)]
 
 RODZAJE DOWODÓW LEGALIZACJI, OKRESY WAŻNOŚCI LEGALIZACJI DLA POSZCZEGÓLNYCH RODZAJÓW PRZYRZĄDÓW POMIAROWYCH, TERMINY ZGŁASZANIA DO LEGALIZACJI PONOWNEJ PRZYRZĄDÓW POMIAROWYCH WPROWADZONYCH DO OBROTU LUB UŻYTKOWANIA PO DOKONANIU OCENY ZGODNOŚCI ORAZ OKRESY WAŻNOŚCI LEGALIZACJI PONOWNEJ ZA POMOCĄ METODY STATYSTYCZNEJ
@@ -1108,6 +1234,7 @@ Tabela nr 3 Okresy ważności Lp. Przyrządy pomiarowe podlegające legalizacji 
 
 2) pozostałe 4 lata 4 Wodomierze 3 lata
 
+<a id="zalacznik-6"></a>
 ## Załącznik nr 6. Wzory cech legalizacji pierwotnej o określonym wzorze
 
 1. Cecha legalizacji pierwotnej o określonym wzorze, zwana dalej „cechą legalizacji”, z zastrzeżeniem ust. 3 i 4, składa się z dwóch elementów:
@@ -1126,7 +1253,7 @@ b) w dolnej części wyróżnik cyfrowy identyfikujący właściwy urząd miar a
 
 2) średnice okręgów opisanych na elementach stanowiących cechę legalizacji wynoszą: 1,6 mm, 3,2 mm, 6,3 mm, 12,5 mm.
 
-3. Element cechy legalizacji, o którym mowa w ust. 1 pkt 1, jest stosowany dodatkowo w przypadkach, o których mowa w § 24 rozporządzenia.
+3. Element cechy legalizacji, o którym mowa w ust. 1 pkt 1, jest stosowany dodatkowo w przypadkach, o których mowa w [§ 24](#par-24) rozporządzenia.
 
 4. Cecha legalizacji zamieszczana na alkoholomierzach i densymetrach do alkoholu, klasy dokładności I, II i III, składa się kolejno z:
 
@@ -1140,12 +1267,14 @@ b) w dolnej części wyróżnik cyfrowy identyfikujący właściwy urząd miar a
 
 Rysunek 1. Kształt i wymiary wzoru elementu będącego częścią cechy legalizacji oraz krój liter i cyfr w nim stosowanych Rysunek 2. Kształt i wymiary wzoru drugiego elementu będącego częścią cechy legalizacji oraz krój liter i cyfr w nim stosowanych
 
+<a id="zalacznik-7"></a>
 ## Załącznik nr 7. Liczebność próbki kontrolnej przy legalizacji pierwotnej manometrów do opon pojazdów mechanicznych dokonywanej za pomocą metody statystycznej i kryteria akceptacji albo odrzucenia partii tych manometrów
 
 Tabela 1. Pojedyncza kontrola wyrywkowa manometrów do opon pojazdów mechanicznych
 
 Liczba przyrządów pomiarowych niezgodnych Liczebność z wymaganiami Nr Liczebność partii próbki Kryterium Kryterium akceptacji odrzucenia partii partii 1 0 do 90 24 0 1 2 91 do 150 26 0 1 3 151 do 280 28 0 1 4 281 do 500 32 0 1 5 501 do 1 200 50 0 1 6 1 201 do 3 200 80 1 2 7 3 201 do 10 000 125 2 3
 
+<a id="zalacznik-8"></a>
 ## Załącznik nr 8
 
 LICZEBNOŚĆ PRÓBKI KONTROLNEJ PRZY LEGALIZACJI PONOWNEJ DOKONYWANEJ ZA POMOCĄ METODY STATYSTYCZNEJ I KRYTERIA AKCEPTACJI ALBO ODRZUCENIA PARTII PRZYRZĄDÓW POMIAROWYCH ORAZ LICZBA PRZYRZĄDÓW POMIAROWYCH ZAPASOWYCH W ZALEŻNOŚCI OD LICZEBNOŚCI PARTII
@@ -1162,6 +1291,7 @@ Tabela 3. Pojedyncza kontrola wyrywkowa podzespołów ciepłomierzy
 
 Liczba przyrządów pomiarowych niezgodnych z wymaganiami Liczebność Przyrządy pomiarowe Nr Liczebność partii próbki zapasowe Kryterium Kryterium akceptacji odrzucenia partii partii 3.1 0 do 90 24 0 1 5 3.2 91 do 150 26 0 1 8 3.3 151 do 280 28 0 1 10 3.4 281 do 500 32 0 1 10 3.5 501 do 1 200 50 0 1 10 3.6 1 201 do 3 200 80 1 2 16 3.7 3 201 do 10 000 125 2 3 25
 
+<a id="zalacznik-9"></a>
 ## Załącznik nr 9. [23)] Wzór świadectwa legalizacji ponownej dokonanej za pomocą metody statystycznej
 
 PREZES MIAR1) GŁÓWNEGO URZĘDU........................................................................................................................................ (adres, telefon, e-mail)

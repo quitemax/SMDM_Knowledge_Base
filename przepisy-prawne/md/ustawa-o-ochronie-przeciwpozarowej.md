@@ -2,8 +2,117 @@
 
 o ochronie przeciwpożarowej
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [Art. 1.](#art-1)
+  - [Art. 2.](#art-2)
+- [Rozdział 2. Zapobieganie pożarowi, klęsce żywiołowej lub innemu miejscowemu zagrożeniu](#rozdzial-2)
+  - [Art. 3.](#art-3)
+  - [Art. 4.](#art-4)
+  - [Art. 4a.](#art-4a)
+  - [Art. 5.](#art-5)
+  - [Art. 6.](#art-6)
+  - [Art. 6a.](#art-6a)
+  - [Art. 6b.](#art-6b)
+  - [Art. 6c.](#art-6c)
+  - [Art. 6d.](#art-6d)
+  - [Art. 6e.](#art-6e)
+  - [Art. 6f.](#art-6f)
+  - [Art. 6g.](#art-6g)
+  - [Art. 7.](#art-7)
+  - [Art. 7a.](#art-7a)
+  - [Art. 7b.](#art-7b)
+  - [Art. 8.](#art-8)
+  - [Art. 9.](#art-9)
+  - [Art. 10.](#art-10)
+  - [Art. 11.](#art-11)
+  - [Art. 11a.](#art-11a)
+- [Rozdział 2a. Rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych](#rozdzial-2a)
+  - [Art. 11b.](#art-11b)
+  - [Art. 11c.](#art-11c)
+  - [Art. 11d.](#art-11d)
+  - [Art. 11e.](#art-11e)
+  - [Art. 11f.](#art-11f)
+  - [Art. 11g.](#art-11g)
+  - [Art. 11h.](#art-11h)
+  - [Art. 11i.](#art-11i)
+  - [Art. 11j.](#art-11j)
+  - [Art. 11k.](#art-11k)
+  - [Art. 11l.](#art-11l)
+  - [Art. 11m.](#art-11m)
+  - [Art. 11n.](#art-11n)
+  - [Art. 11o.](#art-11o)
+  - [Art. 11p.](#art-11p)
+  - [Art. 11r.](#art-11r)
+  - [Art. 11s.](#art-11s)
+  - [Art. 11t.](#art-11t)
+- [Rozdział 3. Organizacja ochrony przeciwpożarowej](#rozdzial-3)
+  - [Art. 12.](#art-12)
+  - [Art. 13.](#art-13)
+  - [Art. 14.](#art-14)
+  - [Art. 14a.](#art-14a)
+  - [Art. 14b.](#art-14b)
+  - [Art. 14c.](#art-14c)
+  - [Art. 14d.](#art-14d)
+  - [Art. 14e.](#art-14e)
+  - [Art. 14f.](#art-14f)
+  - [Art. 14fa. [7)]](#art-14fa)
+  - [Art. 14g.](#art-14g)
+  - [Art. 14h.](#art-14h)
+  - [Art. 14ha.](#art-14ha)
+  - [Art. 14i.](#art-14i)
+  - [Art. 15.](#art-15)
+  - [Art. 16.](#art-16)
+  - [Art. 16a.](#art-16a)
+  - [Art. 17.](#art-17)
+  - [Art. 18.](#art-18)
+  - [Art. 19.](#art-19)
+  - [Art. 19a.](#art-19a)
+  - [Art. 20.](#art-20)
+  - [Art. 21.](#art-21)
+  - [Art. 21a.](#art-21a)
+  - [Art. 21b.](#art-21b)
+- [Rozdział 4. Działanie ratownicze](#rozdzial-4)
+  - [Art. 22.](#art-22)
+  - [Art. 23.](#art-23)
+  - [Art. 24.](#art-24)
+  - [Art. 25.](#art-25)
+- [Rozdział 5. Uprawnienia strażaków jednostek ochrony przeciwpożarowej](#rozdzial-5)
+  - [Art. 26.](#art-26)
+  - [Art. 26a.](#art-26a)
+  - [Art. 27.](#art-27)
+  - [Art. 27a.](#art-27a)
+  - [Art. 28.](#art-28)
+- [Rozdział 6. Świadczenia rzeczowe i finansowe](#rozdzial-6)
+  - [Art. 29.](#art-29)
+  - [Art. 30.](#art-30)
+  - [Art. 31.](#art-31)
+  - [Art. 32.](#art-32)
+  - [Art. 33.](#art-33)
+  - [Art. 33a.](#art-33a)
+  - [Art. 34.](#art-34)
+  - [Art. 35.](#art-35)
+  - [Art. 36.](#art-36)
+  - [Art. 37.](#art-37)
+  - [Art. 38. [11)]](#art-38)
+  - [Art. 39. [11)]](#art-39)
+- [Rozdział 7. Przepisy przejściowe i końcowe](#rozdzial-7)
+  - [Art. 40.](#art-40)
+  - [Art. 41.](#art-41)
+  - [Art. 42.](#art-42)
+  - [Art. 43.](#art-43)
+  - [Art. 44.](#art-44)
+  - [Art. 44a.](#art-44a)
+  - [Art. 45.](#art-45)
+  - [Art. 46.](#art-46)
+  - [Art. 47.](#art-47)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="art-1"></a>
 ### Art. 1.
 
 Ochrona przeciwpożarowa polega na realizacji przedsięwzięć mających na celu ochronę życia, zdrowia, mienia lub środowiska przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem poprzez:
@@ -14,6 +123,7 @@ Ochrona przeciwpożarowa polega na realizacji przedsięwzięć mających na celu
 
 3) prowadzenie działań ratowniczych przez jednostki ochrony przeciwpożarowej.
 
+<a id="art-2"></a>
 ### Art. 2.
 
 Ilekroć w ustawie jest mowa o:
@@ -32,16 +142,19 @@ b) tworzenie warunków organizacyjnych i formalnoprawnych zapewniających ochron
 
 4) krajowym systemie ratowniczo-gaśniczym – rozumie się przez to integralną część organizacji bezpieczeństwa wewnętrznego państwa, obejmującą, w celu ratowania życia, zdrowia, mienia lub środowiska, prognozowanie, rozpoznawanie i zwalczanie pożarów, klęsk żywiołowych lub innych miejscowych zagrożeń; system ten skupia jednostki ochrony przeciwpożarowej, inne służby, inspekcje, straże, instytucje oraz podmioty, które dobrowolnie w drodze umowy cywilnoprawnej zgodziły się współdziałać w akcjach ratowniczych.
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Zapobieganie pożarowi, klęsce żywiołowej lub innemu miejscowemu zagrożeniu
 
+<a id="art-3"></a>
 ### Art. 3.
 
 1. Osoba fizyczna, osoba prawna, organizacja lub instytucja korzystające ze środowiska, budynku, obiektu lub terenu są obowiązane zabezpieczyć je przed zagrożeniem pożarowym lub innym miejscowym zagrożeniem.
 
 2. Właściciel, zarządca lub użytkownik budynku, obiektu lub terenu, a także podmioty, o których mowa w ust. 1, ponoszą odpowiedzialność za naruszenie przepisów przeciwpożarowych, w trybie i na zasadach określonych w innych przepisach.
 
-3. Obowiązki zawarte w ust. 1 i 2 dotyczą również gmin w zakresie sprawowania nadzoru nad zadaniami określonymi w art. 1 pkt 1.
+3. Obowiązki zawarte w ust. 1 i 2 dotyczą również gmin w zakresie sprawowania nadzoru nad zadaniami określonymi w [art. 1](#art-1) pkt 1.
 
+<a id="art-4"></a>
 ### Art. 4.
 
 1. Właściciel budynku, obiektu budowlanego lub terenu, zapewniając ich ochronę przeciwpożarową, jest obowiązany:
@@ -64,12 +177,13 @@ b) tworzenie warunków organizacyjnych i formalnoprawnych zapewniających ochron
 
 2. Czynności z zakresu ochrony przeciwpożarowej mogą wykonywać osoby posiadające odpowiednie kwalifikacje.
 
-2a. Osoby wykonujące czynności z zakresu ochrony przeciwpożarowej, w tym czynności, o których mowa w ust. 1, polegające na zapobieganiu powstawaniu i rozprzestrzenianiu się pożaru, niezatrudnione w jednostkach ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–5 i 8, są obowiązane posiadać tytuł zawodowy inżynier pożarnictwa, magister inżynier pożarnictwa albo tytuł zawodowy inżynier i dyplom ukończenia w Szkole Głównej Służby Pożarniczej studiów w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego wydany do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie inżynieria bezpieczeństwa pożarowego wydany po dniu 30 września 2019 r. lub dyplom ukończenia w Akademii Pożarniczej studiów na kierunku inżynieria bezpieczeństwa w zakresie inżynieria bezpieczeństwa pożarowego.
+2a. Osoby wykonujące czynności z zakresu ochrony przeciwpożarowej, w tym czynności, o których mowa w ust. 1, polegające na zapobieganiu powstawaniu i rozprzestrzenianiu się pożaru, niezatrudnione w jednostkach ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1a–5 i 8, są obowiązane posiadać tytuł zawodowy inżynier pożarnictwa, magister inżynier pożarnictwa albo tytuł zawodowy inżynier i dyplom ukończenia w Szkole Głównej Służby Pożarniczej studiów w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego wydany do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie inżynieria bezpieczeństwa pożarowego wydany po dniu 30 września 2019 r. lub dyplom ukończenia w Akademii Pożarniczej studiów na kierunku inżynieria bezpieczeństwa w zakresie inżynieria bezpieczeństwa pożarowego.
 
-2b. Osoby niezatrudnione w jednostkach ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–5 i 8, wykonujące czynności wyłącznie w zakresie wynikającym z ust. 1, powinny posiadać co najmniej wykształcenie średnie lub średnie branżowe i uprawnienia inspektora ochrony przeciwpożarowej lub kwalifikacje do wykonywania zawodu technik pożarnictwa.
+2b. Osoby niezatrudnione w jednostkach ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1a–5 i 8, wykonujące czynności wyłącznie w zakresie wynikającym z ust. 1, powinny posiadać co najmniej wykształcenie średnie lub średnie branżowe i uprawnienia inspektora ochrony przeciwpożarowej lub kwalifikacje do wykonywania zawodu technik pożarnictwa.
 
 3. (uchylony)
 
+<a id="art-4a"></a>
 ### Art. 4a.
 
 1. Uprawnienia inspektora ochrony przeciwpożarowej nabywa na okres 5 lat osoba, która ukończyła:
@@ -120,12 +234,14 @@ a) zaświadczenia o ukończeniu szkolenia inspektorów ochrony przeciwpożarowej
 
 b) zaświadczenia o ukończeniu szkolenia aktualizującego inspektorów ochrony przeciwpożarowej,
 
-4) sposób i tryb wnoszenia opłaty za szkolenie – kierując się rodzajem zadań przewidzianych dla osób wykonujących czynności z zakresu ochrony przeciwpożarowej, o których mowa w art. 4 ust. 1, potrzebą zachowania standardów merytorycznych i dydaktycznych szkoleń oraz zapewnienia jednolitości programów szkoleń w zakresie ochrony przeciwpożarowej oraz wydawanych zaświadczeń, a także sprawności organizacji rekrutacji na szkolenia.
+4) sposób i tryb wnoszenia opłaty za szkolenie – kierując się rodzajem zadań przewidzianych dla osób wykonujących czynności z zakresu ochrony przeciwpożarowej, o których mowa w [art. 4](#art-4) ust. 1, potrzebą zachowania standardów merytorycznych i dydaktycznych szkoleń oraz zapewnienia jednolitości programów szkoleń w zakresie ochrony przeciwpożarowej oraz wydawanych zaświadczeń, a także sprawności organizacji rekrutacji na szkolenia.
 
+<a id="art-5"></a>
 ### Art. 5.
 
 Właściciel, zarządca lub użytkownik budynku, obiektu budowlanego lub terenu, objętych obligatoryjnym stosowaniem systemów sygnalizacji pożarowej wyposażonych w urządzenia sygnalizacyjno-alarmowe, w przypadku gdy w tym budynku, obiekcie budowlanym lub na terenie nie działa jego własna jednostka ratownicza, jest obowiązany połączyć te urządzenia z obiektem komendy Państwowej Straży Pożarnej lub obiektem, wskazanym przez właściwego miejscowo komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej.
 
+<a id="art-6"></a>
 ### Art. 6.
 
 1. Właściwe urzędy, instytucje, organizacje, przedsiębiorcy lub osoby fizyczne są obowiązane uwzględnić wymagania w zakresie ochrony przeciwpożarowej przy zagospodarowaniu i uzbrajaniu terenu.
@@ -148,6 +264,7 @@ Właściciel, zarządca lub użytkownik budynku, obiektu budowlanego lub terenu,
 
 7. Komendant powiatowy (miejski) Państwowej Straży Pożarnej przy zajmowaniu stanowiska niezwłocznie zawiadamia właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej i właściwy organ administracji architektoniczno-budowlanej oraz organ nadzoru budowlanego o zastrzeżeniach do rozwiązań zawartych w projekcie zagospodarowania działki lub terenu, projekcie architektoniczno-budowlanym lub projekcie technicznym uzgodnionym pod względem zgodności z wymaganiami ochrony przeciwpożarowej przez rzeczoznawcę do spraw zabezpieczeń przeciwpożarowych, zwanego dalej „rzeczoznawcą”.
 
+<a id="art-6a"></a>
 ### Art. 6a.
 
 1. Wymagania ochrony przeciwpożarowej dotyczące obiektów budowlanych lub terenów mogą być w przypadkach określonych w przepisach dotyczących ochrony przeciwpożarowej spełnione w sposób inny niż określony w tych przepisach, jeżeli proponowane rozwiązania zamienne w stosunku do wymagań ochrony przeciwpożarowej ograniczają możliwość powstania pożaru, a w razie jego wystąpienia:
@@ -172,10 +289,12 @@ Właściciel, zarządca lub użytkownik budynku, obiektu budowlanego lub terenu,
 
 3. Przepisy ust. 1 i 2 stosuje się również przy stosowaniu rozwiązań zamiennych w stosunku do wymagań ochrony przeciwpożarowej w przypadkach określonych w art. 9 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
+<a id="art-6b"></a>
 ### Art. 6b.
 
 Projekt zagospodarowania działki lub terenu, projekt architektoniczno-budowlany oraz projekt techniczny, o których mowa w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, obiektu budowlanego istotnego ze względu na konieczność zapewnienia ochrony życia, zdrowia, mienia lub środowiska przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem oraz projekt urządzenia przeciwpożarowego wymagają uzgodnienia z rzeczoznawcą pod względem zgodności z wymaganiami ochrony przeciwpożarowej, zwanego dalej „uzgodnieniem”.
 
+<a id="art-6c"></a>
 ### Art. 6c.
 
 W przypadku gdy projekt zagospodarowania działki lub terenu, projekt architektoniczno-budowlany lub projekt techniczny obiektu budowlanego zawiera rozwiązania inne niż wynikające z przepisów dotyczących ochrony przeciwpożarowej, rzeczoznawca może uzgodnić te projekty, jeżeli dołączono do nich:
@@ -184,6 +303,7 @@ W przypadku gdy projekt zagospodarowania działki lub terenu, projekt architekto
 
 2) zgodę na zastosowanie rozwiązań zamiennych albo zgodę na zastosowanie rozwiązań zamiennych wyrażoną pod warunkiem spełnienia dodatkowych wymagań.
 
+<a id="art-6d"></a>
 ### Art. 6d.
 
 1. Rzeczoznawca może uzgodnić projekt zagospodarowania działki lub terenu, projekt architektoniczno-budowlany, projekt techniczny oraz projekt urządzenia przeciwpożarowego bez uwag lub z uwagami. Uzgodnienie projektu w przypadku jego sporządzenia w postaci:
@@ -210,6 +330,7 @@ W przypadku gdy projekt zagospodarowania działki lub terenu, projekt architekto
 
 4. W przypadku projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego lub projektu technicznego obiektu budowlanego, któremu na podstawie przepisów o ochronie informacji niejawnych nadano klauzulę „tajne” albo „ściśle tajne”, nie sporządza się zawiadomienia o jego uzgodnieniu.
 
+<a id="art-6e"></a>
 ### Art. 6e.
 
 1. Komendant wojewódzki Państwowej Straży Pożarnej właściwy dla miejsca lokalizacji obiektu do dnia uzyskania pozwolenia na jego użytkowanie unieważnia uzgodnienie projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego lub projektu technicznego, który zawiera rozwiązania niezgodne z wymaganiami ochrony przeciwpożarowej mające istotny wpływ na stan bezpieczeństwa pożarowego obiektu budowlanego.
@@ -220,7 +341,7 @@ W przypadku gdy projekt zagospodarowania działki lub terenu, projekt architekto
 
 4. W przypadku unieważnienia uzgodnienia komendant wojewódzki Państwowej Straży Pożarnej właściwy dla miejsca lokalizacji obiektu budowlanego może na wniosek inwestora:
 
-1) w przypadkach szczególnie uzasadnionych dopuścić możliwość spełnienia wymagań ochrony przeciwpożarowej w sposób inny niż określony w przepisach dotyczących ochrony przeciwpożarowej, jeśli we wniosku wykazano spełnienie warunków, o których mowa w art. 6a ust. 1; przepis art. 6a ust. 2 stosuje się odpowiednio;
+1) w przypadkach szczególnie uzasadnionych dopuścić możliwość spełnienia wymagań ochrony przeciwpożarowej w sposób inny niż określony w przepisach dotyczących ochrony przeciwpożarowej, jeśli we wniosku wykazano spełnienie warunków, o których mowa w [art. 6a](#art-6a) ust. 1; przepis [art. 6a](#art-6a) ust. 2 stosuje się odpowiednio;
 
 2) w drodze postanowienia uzgodnić poprawiony lub opracowany na nowo projekt zagospodarowania działki lub terenu, projekt architektoniczno-budowlany lub projekt techniczny.
 
@@ -230,6 +351,7 @@ W przypadku gdy projekt zagospodarowania działki lub terenu, projekt architekto
 
 2) elektronicznej.
 
+<a id="art-6f"></a>
 ### Art. 6f.
 
 1. Projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany uzgodnione przez komendanta wojewódzkiego Państwowej Straży Pożarnej opatruje się:
@@ -244,6 +366,7 @@ W przypadku gdy projekt zagospodarowania działki lub terenu, projekt architekto
 
 4. Do uzgodnienia projektu technicznego stosuje się przepisy ust. 1–3.
 
+<a id="art-6g"></a>
 ### Art. 6g.
 
 Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
@@ -258,6 +381,7 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 5) sposób i zakres zawiadomienia o uzgodnieniu projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego lub projektu technicznego, oraz wzór tego zawiadomienia – biorąc pod uwagę przeznaczenie i parametry techniczne obiektów budowlanych, w tym dotyczące warunków ochrony przeciwpożarowej, efektywność procesu uzgadniania projektów zagospodarowania działki lub terenu, projektów architektoniczno-budowlanych oraz projektów technicznych i zawiadamiania o tym uzgodnieniu oraz że pieczęć musi identyfikować rzeczoznawcę dokonującego uzgodnienia.
 
+<a id="art-7"></a>
 ### Art. 7.
 
 1. Wyroby służące zapewnieniu bezpieczeństwa publicznego lub ochronie zdrowia i życia oraz mienia, wprowadzane do użytkowania w jednostkach ochrony przeciwpożarowej oraz wykorzystywane przez te jednostki do alarmowania o pożarze lub innym zagrożeniu oraz do prowadzenia działań ratowniczych, a także wyroby stanowiące podręczny sprzęt gaśniczy, mogą być stosowane wyłącznie po uprzednim uzyskaniu dopuszczenia do użytkowania.
@@ -316,9 +440,10 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 5) sposób znakowania wyrobów.
 
+<a id="art-7a"></a>
 ### Art. 7a.
 
-1. Do użytkowania w jednostkach ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–6 i 8, mogą być wprowadzone używane pojazdy pożarnicze nie starsze niż 30-letnie i używane przez co najmniej 5 lat na terenie innego państwa członkowskiego Unii Europejskiej albo w Republice Turcji lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) będących stroną umowy o Europejskim Obszarze Gospodarczym, licząc od daty pierwszej rejestracji poza granicami Rzeczypospolitej Polskiej, służące zapewnieniu bezpieczeństwa publicznego lub ochronie zdrowia i życia oraz mienia albo wykorzystywane do prowadzenia działań ratowniczych, jeżeli spełniają wymagania techniczno-użytkowe potwierdzone uzyskaniem pozytywnej opinii technicznej wydawanej przez instytuty badawcze Państwowej Straży Pożarnej.
+1. Do użytkowania w jednostkach ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1a–6 i 8, mogą być wprowadzone używane pojazdy pożarnicze nie starsze niż 30-letnie i używane przez co najmniej 5 lat na terenie innego państwa członkowskiego Unii Europejskiej albo w Republice Turcji lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) będących stroną umowy o Europejskim Obszarze Gospodarczym, licząc od daty pierwszej rejestracji poza granicami Rzeczypospolitej Polskiej, służące zapewnieniu bezpieczeństwa publicznego lub ochronie zdrowia i życia oraz mienia albo wykorzystywane do prowadzenia działań ratowniczych, jeżeli spełniają wymagania techniczno-użytkowe potwierdzone uzyskaniem pozytywnej opinii technicznej wydawanej przez instytuty badawcze Państwowej Straży Pożarnej.
 
 2. Opinia wydawana jest bezterminowo i jednostkowo dla każdego z pojazdów, w ramach indywidualnego postępowania.
 
@@ -332,38 +457,46 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 3) cofa wydaną opinię.
 
-5. Do procedury wydania opinii oraz przeprowadzania kontroli w odniesieniu do pojazdów, o których mowa w ust. 1, nie stosuje się przepisu art. 7.
+5. Do procedury wydania opinii oraz przeprowadzania kontroli w odniesieniu do pojazdów, o których mowa w ust. 1, nie stosuje się przepisu [art. 7](#art-7).
 
 6. Za czynności wykonane w celu wydania opinii lub przeprowadzania kontroli pobierane są opłaty. Opłaty pobiera instytut badawczy Państwowej Straży Pożarnej, który wydał opinię lub przeprowadził kontrolę. Wysokość opłaty nie może przekraczać dwukrotności kwoty przeciętnego miesięcznego wynagrodzenia w poprzednim kwartale, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o waloryzacji oraz zasadach ustalania emerytur i rent.
 
 7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb wydawania opinii oraz przeprowadzania kontroli dla pojazdów, o których mowa w ust. 1, wymagania techniczno-użytkowe tych pojazdów, dokumenty wymagane do uzyskania opinii oraz szczegółowe czynności przy wydawaniu, kontroli albo cofaniu opinii, a także sposób ustalania wysokości opłaty, o której mowa w ust. 6, biorąc pod uwagę konieczność zapewnienia bezpiecznego korzystania z pojazdów, konieczność zapewnienia możliwie najmniejszego negatywnego wpływu pojazdów na środowisko, przeznaczenie pojazdów oraz sposób ich wykorzystania, rzeczywiste koszty poszczególnych czynności oraz konieczność zapewnienia sprawnego ich wykonywania.
 
+<a id="art-7b"></a>
 ### Art. 7b.
 
 Do dopuszczeń oraz opinii nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
+<a id="art-8"></a>
 ### Art. 8.
 
 Korzystanie przez właściciela, zarządcę lub użytkownika budynku, obiektu lub terenu z usług z zakresu ochrony przeciwpożarowej jest dobrowolne.
 
+<a id="art-9"></a>
 ### Art. 9.
 
 Kto zauważy pożar, klęskę żywiołową lub inne miejscowe zagrożenie, jest obowiązany niezwłocznie zawiadomić osoby znajdujące się w strefie zagrożenia oraz: centrum powiadamiania ratunkowego lub jednostkę ochrony przeciwpożarowej albo Policję bądź wójta albo sołtysa.
 
+<a id="art-10"></a>
 ### Art. 10.
 
 (uchylony)
 
+<a id="art-11"></a>
 ### Art. 11.
 
 (uchylony)
 
+<a id="art-11a"></a>
 ### Art. 11a.
 
 Członkowie ochotniczych straży pożarnych mogą uczestniczyć w przeglądach przeprowadzanych przez gminy w ramach realizacji zadań z zakresu ochrony przeciwpożarowej.
 
+<a id="rozdzial-2a"></a>
 ### Rozdział 2a. Rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych
 
+<a id="art-11b"></a>
 ### Art. 11b.
 
 1. Rzeczoznawcą może być osoba, która posiada:
@@ -374,6 +507,7 @@ Członkowie ochotniczych straży pożarnych mogą uczestniczyć w przeglądach p
 
 2. Egzamin potwierdzający przygotowanie zawodowe obejmuje znajomość przepisów prawa i zasad wiedzy technicznej dotyczących ochrony przeciwpożarowej oraz umiejętność stosowania zawartych w nich wymagań i doboru zabezpieczeń przeciwpożarowych stosownie do tych wymagań.
 
+<a id="art-11c"></a>
 ### Art. 11c.
 
 1. Egzamin przeprowadza komisja egzaminacyjna co najmniej raz w roku.
@@ -398,12 +532,13 @@ Członkowie ochotniczych straży pożarnych mogą uczestniczyć w przeglądach p
 
 3) w wykonywaniu zawodu inżyniera pożarnictwa lub projektanta w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane oraz ukończyła w Akademii Pożarniczej studia podyplomowe dla osób ubiegających się o wykonywanie zawodu rzeczoznawcy;
 
-4) w wykonywaniu czynności z zakresu ochrony przeciwpożarowej, o których mowa w art. 4 ust. 2a lub 2b, posiadała w okresie ich wykonywania tytuł zawodowy inżynier i dyplom ukończenia studiów w Szkole Głównej Służby Pożarniczej w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego wydany do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego wydany po dniu 30 września 2019 r. lub dyplom ukończenia w Akademii Pożarniczej studiów na kierunku inżynieria bezpieczeństwa w zakresie inżynieria bezpieczeństwa pożarowego oraz ukończyła studia podyplomowe, o których mowa w pkt 3.
+4) w wykonywaniu czynności z zakresu ochrony przeciwpożarowej, o których mowa w [art. 4](#art-4) ust. 2a lub 2b, posiadała w okresie ich wykonywania tytuł zawodowy inżynier i dyplom ukończenia studiów w Szkole Głównej Służby Pożarniczej w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego wydany do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego wydany po dniu 30 września 2019 r. lub dyplom ukończenia w Akademii Pożarniczej studiów na kierunku inżynieria bezpieczeństwa w zakresie inżynieria bezpieczeństwa pożarowego oraz ukończyła studia podyplomowe, o których mowa w pkt 3.
 
 7. Przepisu ust. 6 nie stosuje się do osób, które już raz uzyskały wynik negatywny z egzaminu.
 
 8. O wyniku egzaminu rozstrzyga komisja egzaminacyjna zwykłą większością głosów. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego komisji egzaminacyjnej, a w przypadku jego nieobecności – głos jego zastępcy.
 
+<a id="art-11d"></a>
 ### Art. 11d.
 
 1. Osoba ubiegająca się o przyznanie prawa do wykonywania zawodu rzeczoznawcy za przeprowadzenie egzaminu wnosi opłatę w wysokości 15 % kwoty przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym egzamin, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. Opłata stanowi przychód funduszu centralnego, o którym mowa w art. 19g pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej.
@@ -418,23 +553,25 @@ Członkowie ochotniczych straży pożarnych mogą uczestniczyć w przeglądach p
 
 3) nie przystąpiła do egzaminu w wyznaczonym terminie z przyczyn losowych i złożyła udokumentowany wniosek o zwrot opłaty w terminie 7 dni od wyznaczonej daty egzaminu.
 
+<a id="art-11e"></a>
 ### Art. 11e.
 
 Informację o terminie i miejscu egzaminu oraz o wysokości opłaty wskazanej kwotowo za przeprowadzenie egzaminu udostępnia się w Biuletynie Informacji Publicznej Komendy Głównej Państwowej Straży Pożarnej co najmniej na 60 dni przed terminem jego przeprowadzenia.
 
+<a id="art-11f"></a>
 ### Art. 11f.
 
 1. Osoba ubiegająca się o przyznanie prawa do wykonywania zawodu rzeczoznawcy składa do Komendanta Głównego Państwowej Straży Pożarnej wniosek o przyznanie prawa do wykonywania zawodu rzeczoznawcy co najmniej na 30 dni przed wyznaczonym terminem egzaminu.
 
 2. Do wniosku dołącza się:
 
-1) dokument potwierdzający spełnienie wymagań, o których mowa w art. 11b ust. 1 pkt 1;
+1) dokument potwierdzający spełnienie wymagań, o których mowa w [art. 11b](#art-11b) ust. 1 pkt 1;
 
 2) kwestionariusz osobowy;
 
 3) potwierdzenie wniesienia opłaty za przeprowadzenie egzaminu;
 
-4) dokumenty potwierdzające spełnienie wymagań, o których mowa w art. 11c ust. 6.
+4) dokumenty potwierdzające spełnienie wymagań, o których mowa w [art. 11c](#art-11c) ust. 6.
 
 3. Kwestionariusz osobowy zawiera:
 
@@ -466,10 +603,12 @@ Informację o terminie i miejscu egzaminu oraz o wysokości opłaty wskazanej kw
 
 5. Nie później niż na 7 dni przed terminem egzaminu w Biuletynie Informacji Publicznej Komendy Głównej Państwowej Straży Pożarnej udostępnia się listę osób dopuszczonych do egzaminu, zawierającą imię lub imiona i nazwisko oraz imię ojca każdej z tych osób.
 
+<a id="art-11g"></a>
 ### Art. 11g.
 
-Komendant Główny Państwowej Straży Pożarnej przyznaje, w drodze powołania, prawo do wykonywania zawodu rzeczoznawcy osobie, która spełnia wymagania określone w art. 11b ust. 1.
+Komendant Główny Państwowej Straży Pożarnej przyznaje, w drodze powołania, prawo do wykonywania zawodu rzeczoznawcy osobie, która spełnia wymagania określone w [art. 11b](#art-11b) ust. 1.
 
+<a id="art-11h"></a>
 ### Art. 11h.
 
 1. Komendant Główny Państwowej Straży Pożarnej prowadzi i aktualizuje wykaz rzeczoznawców, który zawiera:
@@ -510,17 +649,18 @@ Komendant Główny Państwowej Straży Pożarnej przyznaje, w drodze powołania,
 
 3. W Biuletynie Informacji Publicznej Komendy Głównej Państwowej Straży Pożarnej udostępnia się informacje, o których mowa w ust. 1 pkt 1, 2, 6, 7, 10 i 14, a w przypadku wyrażenia zgody przez rzeczoznawcę – również adres do korespondencji, adres poczty elektronicznej lub numer telefonu.
 
+<a id="art-11i"></a>
 ### Art. 11i.
 
 1. Rzeczoznawca jest uprawniony do:
 
-1) uzgadniania projektów zagospodarowania działki lub terenu, projektów architektoniczno-budowlanych, projektów technicznych i projektów urządzeń przeciwpożarowych, o których mowa w art. 6b;
+1) uzgadniania projektów zagospodarowania działki lub terenu, projektów architektoniczno-budowlanych, projektów technicznych i projektów urządzeń przeciwpożarowych, o których mowa w [art. 6b](#art-6b);
 
-2) uzgadniania projektów innych niż określone w art. 6b;
+2) uzgadniania projektów innych niż określone w [art. 6b](#art-6b);
 
 3) sporządzania ekspertyz technicznych i innych opracowań technicznych z zakresu ochrony przeciwpożarowej;
 
-4) wykonywania czynności, o których mowa w art. 4 ust. 2a.
+4) wykonywania czynności, o których mowa w [art. 4](#art-4) ust. 2a.
 
 2. Rzeczoznawca jest obowiązany do:
 
@@ -550,6 +690,7 @@ Komendant Główny Państwowej Straży Pożarnej przyznaje, w drodze powołania,
 
 5. W ewidencji uzgodnionych projektów nie zamieszcza się informacji o projekcie, któremu na podstawie przepisów o ochronie informacji niejawnych nadano klauzulę „tajne” albo „ściśle tajne”.
 
+<a id="art-11j"></a>
 ### Art. 11j.
 
 1. Samodzielne podnoszenie kwalifikacji zawodowych obejmuje w szczególności:
@@ -616,10 +757,12 @@ Komendant Główny Państwowej Straży Pożarnej przyznaje, w drodze powołania,
 
 3) sposób i tryb wnoszenia opłaty za szkolenie dla rzeczoznawców – kierując się zapewnieniem właściwego sposobu dokumentowania odbycia szkolenia przez rzeczoznawcę, a także sprawności organizacji rekrutacji na szkolenia.
 
+<a id="art-11k"></a>
 ### Art. 11k.
 
 Rzeczoznawcy, który nie przystąpił do sprawdzianu w wymaganym terminie albo uzyskał negatywny wynik ze sprawdzianu, Komendant Główny Państwowej Straży Pożarnej zawiesza prawo do wykonywania zawodu rzeczoznawcy, w drodze postanowienia. Na postanowienie o zawieszeniu prawa do wykonywania zawodu rzeczoznawcy nie przysługuje wniosek o ponowne rozpatrzenie sprawy.
 
+<a id="art-11l"></a>
 ### Art. 11l.
 
 Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
@@ -634,6 +777,7 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 5) wzór aktu powołania do wykonywania zawodu rzeczoznawcy – mając na względzie zapewnienie przejrzystego procesu oceny przygotowania zawodowego kandydata na rzeczoznawcę oraz uwzględniając konieczność zapewnienia sprawnego przebiegu egzaminu i sprawdzianu.
 
+<a id="art-11m"></a>
 ### Art. 11m.
 
 1. Rzeczoznawca podlega obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone w związku z:
@@ -646,6 +790,7 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 3. Minister właściwy do spraw instytucji finansowych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę specyfikę wykonywanego zawodu oraz charakter czynności, których dotyczy ubezpieczenie.
 
+<a id="art-11n"></a>
 ### Art. 11n.
 
 1. Nadzór nad działalnością rzeczoznawców sprawuje Komendant Główny Państwowej Straży Pożarnej przy pomocy komendantów wojewódzkich Państwowej Straży Pożarnej.
@@ -656,9 +801,9 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 2) wykonywania przez nich ekspertyz technicznych lub opinii, o których mowa w przepisach dotyczących ochrony przeciwpożarowej;
 
-3) wywiązywania się przez nich z obowiązków, o których mowa w art. 6d ust. 2 oraz art. 11i ust. 2 pkt 1 i 3.
+3) wywiązywania się przez nich z obowiązków, o których mowa w [art. 6d](#art-6d) ust. 2 oraz [art. 11i](#art-11i) ust. 2 pkt 1 i 3.
 
-3. Nadzór komendantów wojewódzkich Państwowej Straży Pożarnej nad działalnością rzeczoznawców jest sprawowany w stosunku do obiektów budowlanych zlokalizowanych na terenie województwa – w zakresie, o którym mowa w ust. 2 pkt 1 i 2, oraz do rzeczoznawców zamieszkałych na terenie województwa – w zakresie wywiązywania się przez nich z obowiązków, o których mowa w art. 6d ust. 2 oraz art. 11i ust. 2 pkt 1 i 3.
+3. Nadzór komendantów wojewódzkich Państwowej Straży Pożarnej nad działalnością rzeczoznawców jest sprawowany w stosunku do obiektów budowlanych zlokalizowanych na terenie województwa – w zakresie, o którym mowa w ust. 2 pkt 1 i 2, oraz do rzeczoznawców zamieszkałych na terenie województwa – w zakresie wywiązywania się przez nich z obowiązków, o których mowa w [art. 6d](#art-6d) ust. 2 oraz [art. 11i](#art-11i) ust. 2 pkt 1 i 3.
 
 4. Nadzór nad działalnością rzeczoznawców, którzy zajmują stanowisko komendanta wojewódzkiego Państwowej Straży Pożarnej, są zatrudnieni w Komendzie Głównej Państwowej Straży Pożarnej lub zamieszkują poza terytorium Rzeczypospolitej Polskiej, sprawuje Komendant Główny Państwowej Straży Pożarnej.
 
@@ -698,6 +843,7 @@ Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 9) datę sporządzenia oraz podpis osoby sporządzającej protokół.
 
+<a id="art-11o"></a>
 ### Art. 11o.
 
 W przypadku stwierdzenia nieprawidłowości w działalności rzeczoznawcy w ramach postępowania wyjaśniającego komendant wojewódzki Państwowej Straży Pożarnej właściwy dla miejsca lokalizacji obiektu budowlanego lub terenu, którego dotyczą wykonywane przez rzeczoznawcę czynności, lub dla jego miejsca zamieszkania może:
@@ -706,19 +852,21 @@ W przypadku stwierdzenia nieprawidłowości w działalności rzeczoznawcy w rama
 
 2) zawiadomić Komendanta Głównego Państwowej Straży Pożarnej o stwierdzeniu nieprawidłowości w działalności rzeczoznawcy i przekazać mu zebrany materiał dowodowy wraz z protokołem, gdy z okoliczności sprawy wynika potrzeba skierowania rzeczoznawcy na powtórny egzamin lub cofnięcia mu prawa do wykonywania zawodu.
 
+<a id="art-11p"></a>
 ### Art. 11p.
 
 1. Komendant Główny Państwowej Straży Pożarnej, po otrzymaniu zawiadomienia o stwierdzeniu nieprawidłowości w działalności rzeczoznawcy, prowadzi postępowanie wyjaśniające.
 
 2. Komendant Główny Państwowej Straży Pożarnej może prowadzić postępowanie wyjaśniające również w przypadku uzyskania w inny sposób informacji o nieprawidłowościach w działalności rzeczoznawcy lub w przypadku wykonywania zawodu przez rzeczoznawcę, któremu zawieszono prawo do wykonywania tego zawodu.
 
+<a id="art-11r"></a>
 ### Art. 11r.
 
 1. W przypadku stwierdzenia nieprawidłowości w działalności rzeczoznawcy Komendant Główny Państwowej Straży Pożarnej może:
 
 1) udzielić rzeczoznawcy upomnienia na piśmie;
 
-2) skierować rzeczoznawcę na egzamin, o którym mowa w art. 11b ust. 2, w celu powtórnej oceny przygotowania zawodowego do wykonywania zawodu rzeczoznawcy;
+2) skierować rzeczoznawcę na egzamin, o którym mowa w [art. 11b](#art-11b) ust. 2, w celu powtórnej oceny przygotowania zawodowego do wykonywania zawodu rzeczoznawcy;
 
 3) cofnąć rzeczoznawcy prawo do wykonywania zawodu.
 
@@ -728,6 +876,7 @@ W przypadku stwierdzenia nieprawidłowości w działalności rzeczoznawcy w rama
 
 4. Komendant Główny Państwowej Straży Pożarnej cofa prawo do wykonywania zawodu rzeczoznawcy w drodze decyzji administracyjnej. Decyzja podlega natychmiastowemu wykonaniu.
 
+<a id="art-11s"></a>
 ### Art. 11s.
 
 Komendant Główny Państwowej Straży Pożarnej cofa prawo do wykonywania zawodu rzeczoznawcy:
@@ -738,18 +887,22 @@ Komendant Główny Państwowej Straży Pożarnej cofa prawo do wykonywania zawod
 
 3) na wniosek rzeczoznawcy.
 
+<a id="art-11t"></a>
 ### Art. 11t.
 
 Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub wykonywania zawodu rzeczoznawcy mimo zawieszenia prawa do jego wykonywania cofnięto prawo do wykonywania zawodu rzeczoznawcy, nie może przystąpić do egzaminu przed upływem 3 lat od dnia cofnięcia jej prawa do wykonywania zawodu rzeczoznawcy.
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Organizacja ochrony przeciwpożarowej
 
+<a id="art-12"></a>
 ### Art. 12.
 
 1. Minister właściwy do spraw wewnętrznych pełni nadzór nad funkcjonowaniem krajowego systemu ratowniczo-gaśniczego.
 
 2. (uchylony)
 
+<a id="art-13"></a>
 ### Art. 13.
 
 1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposoby i warunki ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów.
@@ -794,6 +947,7 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 7) wymagania, jakie powinna spełniać droga pożarowa.
 
+<a id="art-14"></a>
 ### Art. 14.
 
 1. Krajowy system ratowniczo-gaśniczy ma na celu ochronę życia, zdrowia, mienia lub środowiska poprzez:
@@ -832,7 +986,7 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 6a) likwidacji zagrożenia, w tym działań ratowniczych, w przypadku wystąpienia zdarzenia radiacyjnego;
 
-7) prowadzenia dokumentacji zdarzeń określonych w art. 2 pkt 2 oraz dokumentacji funkcjonowania krajowego systemu ratowniczo-gaśniczego,
+7) prowadzenia dokumentacji zdarzeń określonych w [art. 2](#art-2) pkt 2 oraz dokumentacji funkcjonowania krajowego systemu ratowniczo-gaśniczego,
 
 8) organizacji odwodów operacyjnych,
 
@@ -852,30 +1006,37 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 9. (uchylony)
 
+<a id="art-14a"></a>
 ### Art. 14a.
 
 (uchylony)
 
+<a id="art-14b"></a>
 ### Art. 14b.
 
 (uchylony)
 
+<a id="art-14c"></a>
 ### Art. 14c.
 
 (uchylony)
 
+<a id="art-14d"></a>
 ### Art. 14d.
 
 (uchylony)
 
+<a id="art-14e"></a>
 ### Art. 14e.
 
 (uchylony)
 
+<a id="art-14f"></a>
 ### Art. 14f.
 
 (uchylony)
 
+<a id="art-14fa"></a>
 ### Art. 14fa. [7)]
 
 1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
@@ -904,6 +1065,7 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 3. Plany ratownicze w zakresie zdarzeń z dużą liczbą poszkodowanych oraz działań ratowniczych i działań pomocowych podczas katastrof, klęsk żywiołowych i zdarzeń nadzwyczajnych są skorelowane z planami zarządzania kryzysowego, o których mowa w art. 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, oraz z planami postępowania awaryjnego, o których mowa w art. 84 ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907).
 
+<a id="art-14g"></a>
 ### Art. 14g.
 
 1. Komendant Główny Państwowej Straży Pożarnej zapewnia funkcjonowanie Systemu Wspomagania Decyzji Państwowej Straży Pożarnej, zwanego dalej „SWD PSP”, stanowiącego system teleinformatyczny wspierający:
@@ -920,6 +1082,7 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 2) sposób przydzielania, zawieszania oraz uchylania dostępu do tego systemu użytkownikom Państwowej Straży Pożarnej oraz jednostkom ochrony przeciwpożarowej – uwzględniając potrzebę zapewnienia optymalnego poziomu współpracy między tym systemem a systemem teleinformatycznym systemu powiadamiania ratunkowego.
 
+<a id="art-14h"></a>
 ### Art. 14h.
 
 1. Państwowa Straż Pożarna przetwarza w celu ochrony życia, zdrowia, mienia lub środowiska przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem, w szczególności w SWD PSP, w zakresie niezbędnym do realizacji zadań wynikających z ustawy, dane osobowe uzyskane w związku z prowadzeniem działań ratowniczych oraz obsługą zgłoszeń alarmowych, o których mowa w art. 2 pkt 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego, w tym dane osobowe osoby zgłaszającej oraz osób, których zgłoszenie dotyczy.
@@ -938,6 +1101,7 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 6. Kierownicy jednostek organizacyjnych Państwowej Straży Pożarnej udostępniają informację o ograniczeniach, o których mowa w ust. 2 i 3, w Biuletynie Informacji Publicznej na swoich stronach podmiotowych lub na swoich stronach internetowych oraz w widocznym miejscu w siedzibach jednostek.
 
+<a id="art-14ha"></a>
 ### Art. 14ha.
 
 1. Komendant Główny Państwowej Straży Pożarnej, komendanci wojewódzcy Państwowej Straży Pożarnej, komendanci powiatowi (miejscy) Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej i komendanci szkół Państwowej Straży Pożarnej są współadministratorami danych osobowych przetwarzanych w SWD PSP.
@@ -968,14 +1132,16 @@ Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub
 
 5. Współadministratorzy tworzą i aktualizują ewidencję osób upoważnionych do przetwarzania danych osobowych w SWD PSP, upoważniają do przetwarzania tych danych oraz prowadzą rejestr czynności przetwarzania danych osobowych, o którym mowa w art. 30 rozporządzenia 2016/679.
 
-6. Przepisy art. 14h oraz art. 14ha stosuje się odpowiednio do przetwarzania danych osobowych przez jednostki ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–8.
+6. Przepisy [art. 14h](#art-14h) oraz [art. 14ha](#art-14ha) stosuje się odpowiednio do przetwarzania danych osobowych przez jednostki ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1a–8.
 
+<a id="art-14i"></a>
 ### Art. 14i.
 
 1.8) SWD PSP uzyskuje nieodpłatnie, za pośrednictwem centralnego punktu systemu powiadamiania ratunkowego, o którym mowa w art. 337 ust. 4 pkt 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221), informacje dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego 112 albo innego numeru alarmowego, oraz dane dotyczące abonenta, o których mowa w art. 337 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
 
 2. SWD PSP uzyskuje nieodpłatnie dostęp do danych przestrzennych i związanych z nimi usług, udostępnianych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824).
 
+<a id="art-15"></a>
 ### Art. 15.
 
 Jednostkami ochrony przeciwpożarowej są:
@@ -1000,17 +1166,19 @@ Jednostkami ochrony przeciwpożarowej są:
 
 8) inne jednostki ratownicze.
 
+<a id="art-16"></a>
 ### Art. 16.
 
 1. Zadania i organizację Państwowej Straży Pożarnej określa odrębna ustawa.
 
 2. Organizację i zadania ochotniczych straży pożarnych określa odrębna ustawa.
 
+<a id="art-16a"></a>
 ### Art. 16a.
 
-1. Jednostki ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–5 i 8, tworzy się jako jednostki umundurowane i wyposażone w specjalistyczny sprzęt, przeznaczone do walki z pożarami, klęskami żywiołowymi lub innymi miejscowymi zagrożeniami.
+1. Jednostki ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1a–5 i 8, tworzy się jako jednostki umundurowane i wyposażone w specjalistyczny sprzęt, przeznaczone do walki z pożarami, klęskami żywiołowymi lub innymi miejscowymi zagrożeniami.
 
-2. W jednostkach wymienionych w art. 15 pkt 1a–5 i 8 są zatrudnieni pracownicy podlegający szczególnym obowiązkom wynikającym z charakteru pracy oraz posiadający odpowiednie kwalifikacje i warunki psychofizyczne, zwani dalej „strażakami jednostek ochrony przeciwpożarowej”.
+2. W jednostkach wymienionych w [art. 15](#art-15) pkt 1a–5 i 8 są zatrudnieni pracownicy podlegający szczególnym obowiązkom wynikającym z charakteru pracy oraz posiadający odpowiednie kwalifikacje i warunki psychofizyczne, zwani dalej „strażakami jednostek ochrony przeciwpożarowej”.
 
 3. Strażakiem jednostki ochrony przeciwpożarowej może być pracownik, który ma kwalifikacje wymagane do wykonywania zawodu strażak, technik pożarnictwa lub inżynier pożarnictwa.
 
@@ -1048,34 +1216,40 @@ Jednostkami ochrony przeciwpożarowej są:
 
 4) zakres programowy szkolenia w zawodzie strażak oraz tryb ustalania programu tego szkolenia,
 
-5) tryb wydawania oraz wzór świadectwa o ukończeniu szkolenia w zawodzie strażak – kierując się rodzajem zadań wykonywanych przez jednostki ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–5 i 8, koniecznością współdziałania w ramach krajowego systemu ratowniczo-gaśniczego, potrzebą zachowania standardów merytorycznych i dydaktycznych szkoleń oraz zapewnienia jednolitości programów szkoleń w zakresie ochrony przeciwpożarowej oraz wydawanych świadectw.
+5) tryb wydawania oraz wzór świadectwa o ukończeniu szkolenia w zawodzie strażak – kierując się rodzajem zadań wykonywanych przez jednostki ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1a–5 i 8, koniecznością współdziałania w ramach krajowego systemu ratowniczo-gaśniczego, potrzebą zachowania standardów merytorycznych i dydaktycznych szkoleń oraz zapewnienia jednolitości programów szkoleń w zakresie ochrony przeciwpożarowej oraz wydawanych świadectw.
 
+<a id="art-17"></a>
 ### Art. 17.
 
 1. Minister właściwy do spraw wewnętrznych, a za jego zgodą inni ministrowie, wojewodowie, organy jednostek samorządu terytorialnego, mogą, w drodze zarządzenia, tworzyć, przekształcać lub likwidować zakładowe straże pożarne, zakładowe służby ratownicze, gminne (miejskie) albo powiatowe (miejskie) zawodowe straże pożarne, terenowe służby ratownicze lub inne jednostki ratownicze, uwzględniając częstotliwość występowania pożarów, klęsk żywiołowych i innych miejscowych zagrożeń oraz potrzeby w zakresie zapewnienia należytej ochrony przeciwpożarowej na danym terenie.
 
 2. Instytucje, organizacje, osoby prawne lub fizyczne mogą, za zgodą ministra właściwego do spraw wewnętrznych, tworzyć, przekształcać lub likwidować zakładowe straże pożarne, zakładowe służby ratownicze, gminne (miejskie) albo powiatowe (miejskie) zawodowe straże pożarne, terenowe służby ratownicze lub inne jednostki ratownicze, uwzględniając częstotliwość występowania pożarów, klęsk żywiołowych i innych miejscowych zagrożeń oraz potrzeby w zakresie zapewnienia należytej ochrony przeciwpożarowej na danym terenie.
 
+<a id="art-18"></a>
 ### Art. 18.
 
 Organizację i szczegółowe zasady funkcjonowania zakładowej straży pożarnej, zakładowej służby ratowniczej, gminnej zawodowej straży pożarnej, terenowej służby ratowniczej oraz innych jednostek ratowniczych – określą osoby prawne lub fizyczne je tworzące, w porozumieniu i pod nadzorem komendanta wojewódzkiego Państwowej Straży Pożarnej właściwego ze względu na teren działania.
 
+<a id="art-19"></a>
 ### Art. 19.
 
 (uchylony)
 
+<a id="art-19a"></a>
 ### Art. 19a.
 
 9) Do krajowego systemu ratowniczo-gaśniczego mogą być włączane i z niego wyłączane jednostki ochrony przeciwpożarowej uwzględnione w zbiorczym planie sieci podmiotów systemu, których siły i środki są przewidziane do użycia w planie ratowniczym.
 
+<a id="art-20"></a>
 ### Art. 20.
 
 10) Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
-1) zakres, szczegółowe warunki i tryb włączania jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–6 i 8, do krajowego systemu ratowniczo-gaśniczego i wyłączania ich z krajowego systemu ratowniczo-gaśniczego,
+1) zakres, szczegółowe warunki i tryb włączania jednostek ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1a–6 i 8, do krajowego systemu ratowniczo-gaśniczego i wyłączania ich z krajowego systemu ratowniczo-gaśniczego,
 
 2) warunki współpracy jednostek ochrony przeciwpożarowej niewłączonych do krajowego systemu ratowniczo-gaśniczego z krajowym systemem ratowniczo-gaśniczym – mając na uwadze konieczność zapewnienia skutecznego działania krajowego systemu ratowniczo-gaśniczego.
 
+<a id="art-21"></a>
 ### Art. 21.
 
 1. Wojewoda może żądać od:
@@ -1084,14 +1258,16 @@ Organizację i szczegółowe zasady funkcjonowania zakładowej straży pożarnej
 
 2) ochotniczej straży pożarnej pozostającej poza strukturami związku ochotniczych straży pożarnych,
 
-3) organów wykonawczych gmin i powiatów, instytucji, organizacji, osób prawnych i fizycznych, które utworzyły jednostki ochrony przeciwpożarowej na podstawie przepisu art. 17, informacji związanych z wykonywaniem ich zadań w zakresie ochrony przeciwpożarowej na terenie danego województwa.
+3) organów wykonawczych gmin i powiatów, instytucji, organizacji, osób prawnych i fizycznych, które utworzyły jednostki ochrony przeciwpożarowej na podstawie przepisu [art. 17](#art-17), informacji związanych z wykonywaniem ich zadań w zakresie ochrony przeciwpożarowej na terenie danego województwa.
 
 2. Uprawnienia wojewody określone w ust. 1 stosuje się odpowiednio do starosty.
 
+<a id="art-21a"></a>
 ### Art. 21a.
 
 Organy administracji rządowej są obowiązane zasięgać opinii ogólnokrajowych organizacji zrzeszających strażaków jednostek ochrony przeciwpożarowej oraz Zarządu Głównego Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej o projektach ustaw i rozporządzeń dotyczących ochrony przeciwpożarowej.
 
+<a id="art-21b"></a>
 ### Art. 21b.
 
 Do zadań własnych powiatu w zakresie ochrony przeciwpożarowej należy:
@@ -1104,11 +1280,13 @@ Do zadań własnych powiatu w zakresie ochrony przeciwpożarowej należy:
 
 4) organizowanie systemów teleinformatycznych, ostrzegania i alarmowania ludności oraz współdziałania podmiotów biorących udział w działaniach ratowniczych.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Działanie ratownicze
 
+<a id="art-22"></a>
 ### Art. 22.
 
-1. Działanie ratownicze prowadzą jednostki ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1–6 i 8.
+1. Działanie ratownicze prowadzą jednostki ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1–6 i 8.
 
 1a. Uprawnionymi do kierowania działaniem ratowniczym są:
 
@@ -1122,20 +1300,23 @@ Do zadań własnych powiatu w zakresie ochrony przeciwpożarowej należy:
 
 3. (uchylony)
 
+<a id="art-23"></a>
 ### Art. 23.
 
-1. Jednostki ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–6 i 8, mają obowiązek uczestniczyć, na wezwanie Państwowej Straży Pożarnej, w działaniach ratowniczych poza terenem własnego działania.
+1. Jednostki ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1a–6 i 8, mają obowiązek uczestniczyć, na wezwanie Państwowej Straży Pożarnej, w działaniach ratowniczych poza terenem własnego działania.
 
 2. W przypadkach określonych w ust. 1 koszty związane z działaniami ratowniczymi są zwracane tym jednostkom z budżetu państwa.
 
 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, teren działania poszczególnych jednostek ochrony przeciwpożarowej, okoliczności i warunki udziału tych jednostek w działaniach ratowniczych poza terenem własnego działania oraz zakres, szczegółowe warunki i tryb zwrotu poniesionych przez nie kosztów.
 
+<a id="art-24"></a>
 ### Art. 24.
 
 1. W przypadku powstania pożaru w pomieszczeniach misji dyplomatycznej, urzędu konsularnego lub instytucji międzynarodowej, korzystających z immunitetu dyplomatycznego lub konsularnego, prowadzenie działania ratowniczego przez jednostki ochrony przeciwpożarowej jest dopuszczalne po uprzednim uzyskaniu zgody szefa misji, kierownika urzędu konsularnego lub kierownika instytucji międzynarodowej, z zastrzeżeniem przepisu ust. 2.
 
 2. Zgoda, o której mowa w ust. 1, może być jednak domniemana w przypadku powstania pożaru lub innego miejscowego zagrożenia wymagającego niezwłocznego działania ratowniczego.
 
+<a id="art-25"></a>
 ### Art. 25.
 
 1. Kierujący działaniem ratowniczym może:
@@ -1152,8 +1333,10 @@ Do zadań własnych powiatu w zakresie ochrony przeciwpożarowej należy:
 
 4. Rada Ministrów określi, w drodze rozporządzenia, zakres i tryb korzystania z praw, o których mowa w ust. 1–3.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Uprawnienia strażaków jednostek ochrony przeciwpożarowej
 
+<a id="art-26"></a>
 ### Art. 26.
 
 1. Strażakowi jednostki ochrony przeciwpożarowej, zwanemu dalej „osobą poszkodowaną”, który w związku z udziałem w działaniach ratowniczych, szkoleniach lub ćwiczeniach doznał uszczerbku na zdrowiu lub poniósł szkodę w mieniu, przysługuje:
@@ -1194,10 +1377,12 @@ Do zadań własnych powiatu w zakresie ochrony przeciwpożarowej należy:
 
 9. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przyznawania świadczeń, o których mowa w ust. 1 pkt 1 i 3 oraz w ust. 2 pkt 1 i 3, z uwzględnieniem rodzaju dokumentów stanowiących podstawę do wszczęcia, prowadzenia i zakończenia postępowania, treści orzeczenia kończącego postępowanie oraz trybu odwoławczego.
 
+<a id="art-26a"></a>
 ### Art. 26a.
 
 (uchylony)
 
+<a id="art-27"></a>
 ### Art. 27.
 
 Z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych korzystają:
@@ -1206,18 +1391,22 @@ Z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych korzys
 
 2) strażacy jednostek ochrony przeciwpożarowej biorący udział w działaniach ratowniczych lub wykonujący inne zadania związane z ochroną przeciwpożarową;
 
-3) osoby fizyczne, które na podstawie art. 25 ust. 2 zostały zobowiązane do udziału w działaniu ratowniczym.
+3) osoby fizyczne, które na podstawie [art. 25](#art-25) ust. 2 zostały zobowiązane do udziału w działaniu ratowniczym.
 
+<a id="art-27a"></a>
 ### Art. 27a.
 
-Strażakowi jednostki ochrony przeciwpożarowej, o której mowa w art. 15 pkt 1a–5 i 8, o ile nie jest strażakiem Państwowej Straży Pożarnej, oraz żołnierzowi pełniącemu służbę w tej jednostce przysługuje prawo do odzieży specjalnej i ekwipunku osobistego, na zasadach określonych dla strażaków Państwowej Straży Pożarnej w ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej.
+Strażakowi jednostki ochrony przeciwpożarowej, o której mowa w [art. 15](#art-15) pkt 1a–5 i 8, o ile nie jest strażakiem Państwowej Straży Pożarnej, oraz żołnierzowi pełniącemu służbę w tej jednostce przysługuje prawo do odzieży specjalnej i ekwipunku osobistego, na zasadach określonych dla strażaków Państwowej Straży Pożarnej w ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej.
 
+<a id="art-28"></a>
 ### Art. 28.
 
 (uchylony)
 
+<a id="rozdzial-6"></a>
 ### Rozdział 6. Świadczenia rzeczowe i finansowe
 
+<a id="art-29"></a>
 ### Art. 29.
 
 Koszty funkcjonowania jednostek ochrony przeciwpożarowej, z wyłączeniem ochotniczych straży pożarnych, są pokrywane z:
@@ -1228,21 +1417,24 @@ Koszty funkcjonowania jednostek ochrony przeciwpożarowej, z wyłączeniem ochot
 
 3) dochodów instytucji ubezpieczeniowych, ubezpieczających osoby prawne i fizyczne;
 
-4) środków własnych podmiotów, o których mowa w art. 17, które uzyskały zgodę ministra właściwego do spraw wewnętrznych na utworzenie jednostki ochrony przeciwpożarowej.
+4) środków własnych podmiotów, o których mowa w [art. 17](#art-17), które uzyskały zgodę ministra właściwego do spraw wewnętrznych na utworzenie jednostki ochrony przeciwpożarowej.
 
+<a id="art-30"></a>
 ### Art. 30.
 
-Właściciel, zarządca lub użytkownik budynku, obiektu lub terenu ponosi w pełni koszty nabycia i utrzymania, w stanie zapewniającym sprawność, sprzętu, urządzeń przeciwpożarowych, środków gaśniczych, urządzeń sygnalizacyjno-alarmowych i innych urządzeń oraz instalacji ochrony przeciwpożarowej, do których posiadania zobowiązują go przepisy wydane na podstawie art. 13 ust. 1 i 3, a także koszty wykonania obowiązku określonego w art. 5.
+Właściciel, zarządca lub użytkownik budynku, obiektu lub terenu ponosi w pełni koszty nabycia i utrzymania, w stanie zapewniającym sprawność, sprzętu, urządzeń przeciwpożarowych, środków gaśniczych, urządzeń sygnalizacyjno-alarmowych i innych urządzeń oraz instalacji ochrony przeciwpożarowej, do których posiadania zobowiązują go przepisy wydane na podstawie [art. 13](#art-13) ust. 1 i 3, a także koszty wykonania obowiązku określonego w [art. 5](#art-5).
 
+<a id="art-31"></a>
 ### Art. 31.
 
 1. Państwowa Straż Pożarna jest obowiązana do przekazywania nieodpłatnie technicznie sprawnego, zbędnego sprzętu i urządzeń ochotniczym strażom pożarnym, po zasięgnięciu opinii właściwego zarządu wojewódzkiego Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej.
 
 2. Zakładowe straże pożarne lub zakładowe służby ratownicze mogą przekazywać nieodpłatnie sprawny technicznie, zbędny sprzęt i urządzenia Zarządowi Głównemu Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej oraz ochotniczym strażom pożarnym pozostającym poza strukturami związku.
 
+<a id="art-32"></a>
 ### Art. 32.
 
-1. Koszty wyposażenia, utrzymania, wyszkolenia i zapewnienia gotowości bojowej jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–5 i 8, ponoszą podmioty tworzące te jednostki.
+1. Koszty wyposażenia, utrzymania, wyszkolenia i zapewnienia gotowości bojowej jednostek ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 1a–5 i 8, ponoszą podmioty tworzące te jednostki.
 
 2. (uchylony)
 
@@ -1254,48 +1446,58 @@ Właściciel, zarządca lub użytkownik budynku, obiektu lub terenu ponosi w pe�
 
 4. (uchylony)
 
+<a id="art-33"></a>
 ### Art. 33.
 
-1. Budżet państwa uczestniczy w kosztach funkcjonowania jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 2–5 i 8, jeżeli jednostki te działają w ramach krajowego systemu ratowniczo-gaśniczego.
+1. Budżet państwa uczestniczy w kosztach funkcjonowania jednostek ochrony przeciwpożarowej, o których mowa w [art. 15](#art-15) pkt 2–5 i 8, jeżeli jednostki te działają w ramach krajowego systemu ratowniczo-gaśniczego.
 
 2. Minister właściwy do spraw wewnętrznych corocznie określi, w drodze rozporządzenia, wysokość środków finansowych i ich podział między podmioty, o których mowa w ust. 1, z zastrzeżeniem ich wykorzystania wyłącznie dla zapewnienia gotowości bojowej jednostek ochrony przeciwpożarowej.
 
 3. Finansowanie ochotniczych straży pożarnych z budżetu państwa odbywa się na zasadach określonych w ustawie z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2024 r. poz. 233, 1692 i 1907).
 
+<a id="art-33a"></a>
 ### Art. 33a.
 
 (uchylony)
 
+<a id="art-34"></a>
 ### Art. 34.
 
 (uchylony)
 
+<a id="art-35"></a>
 ### Art. 35.
 
 (uchylony)
 
+<a id="art-36"></a>
 ### Art. 36.
 
 (uchylony)
 
+<a id="art-37"></a>
 ### Art. 37.
 
 (uchylony)
 
+<a id="art-38"></a>
 ### Art. 38. [11)]
 
 1. Zakłady ubezpieczeń są obowiązane przekazywać 10 % sumy wpływów uzyskanych z tytułu obowiązkowego ubezpieczenia od ognia na określone cele ochrony przeciwpożarowej, w szczególności na zapewnienie gotowości bojowej jednostek ochrony przeciwpożarowej, budowę i modernizację obiektów strażnic, badania naukowe i działalność racjonalizatorską w zakresie bezpieczeństwa pożarowego i przeciwdziałania innym zagrożeniom, a także propagowanie bezpieczeństwa pożarowego.
 
 2. Komendant Główny Państwowej Straży Pożarnej i Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej otrzymują po 50 % kwoty, o której mowa w ust. 1.
 
+<a id="art-39"></a>
 ### Art. 39. [11)]
 
-1. Środki finansowe przekazane Komendantowi Głównemu Państwowej Straży Pożarnej i Zarządowi Głównemu Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej na podstawie przepisów art. 38 są przeznaczone wyłącznie na cele związane z ochroną przeciwpożarową.
+1. Środki finansowe przekazane Komendantowi Głównemu Państwowej Straży Pożarnej i Zarządowi Głównemu Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej na podstawie przepisów [art. 38](#art-38) są przeznaczone wyłącznie na cele związane z ochroną przeciwpożarową.
 
-2. Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej przedkłada Sejmowi w terminie do dnia 30 czerwca każdego roku sprawozdanie z wydatkowania środków, o których mowa w art. 38 ust. 2, w roku poprzednim.
+2. Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej przedkłada Sejmowi w terminie do dnia 30 czerwca każdego roku sprawozdanie z wydatkowania środków, o których mowa w [art. 38](#art-38) ust. 2, w roku poprzednim.
 
+<a id="rozdzial-7"></a>
 ### Rozdział 7. Przepisy przejściowe i końcowe
 
+<a id="art-40"></a>
 ### Art. 40.
 
 1. Działające w dniu wejścia w życie ustawy ochotnicze straże pożarne oraz Związek Ochotniczych Straży Pożarnych stają się stowarzyszeniami w rozumieniu ustawy – Prawo o stowarzyszeniach.
@@ -1306,34 +1508,42 @@ Właściciel, zarządca lub użytkownik budynku, obiektu lub terenu ponosi w pe�
 
 4. (pominięty)
 
+<a id="art-41"></a>
 ### Art. 41.
 
 (pominięty)
 
+<a id="art-42"></a>
 ### Art. 42.
 
 (uchylony)
 
+<a id="art-43"></a>
 ### Art. 43.
 
 (pominięty)
 
+<a id="art-44"></a>
 ### Art. 44.
 
 Właściciel, zarządca lub użytkownik budynku, obiektu lub terenu, w którym funkcjonuje resortowa lub zakładowa straż pożarna albo inna jednostka ochrony przeciwpożarowej, w tym ochotnicza straż pożarna, ponosi wszelkie koszty związane z utrzymaniem tych jednostek.
 
+<a id="art-44a"></a>
 ### Art. 44a.
 
 Ustawa nie narusza przepisów prawa geologicznego i górniczego.
 
+<a id="art-45"></a>
 ### Art. 45.
 
 (pominięty)
 
+<a id="art-46"></a>
 ### Art. 46.
 
 Traci moc ustawa z dnia 12 czerwca 1975 r. o ochronie przeciwpożarowej (Dz. U. poz. 106, z 1988 r. poz. 132, z 1989 r. poz. 192 oraz z 1990 r. poz. 198).
 
+<a id="art-47"></a>
 ### Art. 47.
 
 Ustawa wchodzi w życie w ciągu 14 dni od dnia ogłoszenia12).
