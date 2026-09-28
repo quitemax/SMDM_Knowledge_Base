@@ -99,14 +99,13 @@ wybór i za zapisy umowy: uprawnienia, plan BIOZ, ubezpieczenie OC, kierownik ro
 
 ## 10. Kadry i prawo pracy
 
-**Uwaga: kategoria dodana 2026-09-28, żaden z aktów niżej nie jest jeszcze
-pobrany/skonwertowany w `przepisy-prawne/`** (w odróżnieniu od
-kategorii 1–9, które są kompletne — 36 z 36 aktów). Gap ujawnił się przy
-przeglądzie `kadry/` w bazie wiedzy: `regulamin-pracy.pdf` (w `zrodla/`)
-cytuje Kodeks pracy dziesiątki razy jako swoją podstawę prawną (art. 104
-§ 2 — podstawa samego regulaminu; dalej liczne konkretne artykuły: 29,
-52 § 1 pkt 1, 108, 132–133, 140¹, 154⁴, 167², 18³ᵃ–18³ᵉ i inne), ale sam
-Kodeks nigdy nie trafił do listy aktów do pobrania.
+**Kategoria dodana 2026-09-28** — gap ujawnił się przy przeglądzie `kadry/` w bazie
+wiedzy: `regulamin-pracy.pdf` (w `zrodla/`) cytuje Kodeks pracy dziesiątki razy jako
+swoją podstawę prawną (art. 104 § 2 — podstawa samego regulaminu; dalej liczne konkretne
+artykuły: 29, 52 § 1 pkt 1, 108, 132–133, 140¹, 154⁴, 167², 18³ᵃ–18³ᵉ i inne), ale sam
+Kodeks nigdy nie trafił do listy aktów do pobrania. **Pobrane i skonwertowane tego
+samego dnia** — patrz `przepisy-prawne/README.md`, kategoria 10, po szczegóły stanu
+prawnego i konwersji.
 
 | Akt | Uwagi |
 |---|---|

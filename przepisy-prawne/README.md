@@ -11,8 +11,8 @@ wyznacza ramy jej działalności.
 - `html/` — dla aktów, które mają dostępny tekst w HTML (ISAP `text.html` lub, dla RODO,
   EUR-Lex), surowy HTML pobrany bezpośrednio (bez pośrednictwa modeli AI) — źródło
   pośrednie dla konwersji do `md/`.
-- `md/` — wersje przekonwertowane na Markdown. Wszystkie akty są już przekonwertowane: 16
-  z HTML (patrz tabele niżej, kolumna „MD”), pozostałe 20 z samego PDF (patrz niżej).
+- `md/` — wersje przekonwertowane na Markdown. Wszystkie akty są już przekonwertowane: 17
+  z HTML (patrz tabele niżej, kolumna „MD”), pozostałe 23 z samego PDF (patrz niżej).
 
 ### Stan konwersji do Markdown
 
@@ -236,6 +236,74 @@ napotkanych problemów źródłowych (lista wyżej) można uznać za zamknięte 
 zestawu plików — nowy problem tego typu pojawi się dopiero przy kolejnym akcie dodanym do
 tego katalogu.
 
+**Batch 10 (28.09.2026): kategoria „Kadry i prawo pracy” dodana do zestawu — Kodeks pracy,
+ustawa o zakładowym funduszu świadczeń socjalnych (+ nowelizacja 2026/25, PDF-only, bo
+tekst jednolity z 2024 r. jej jeszcze nie obejmuje), ustawa o związkach zawodowych.**
+Kodeks pracy i związki zawodowe poszły przez PDF (ISAP nie serwuje działającego
+`text.html` dla ich aktualnych tekstów jednolitych — puste odpowiedzi, `Content-Length:
+0` — a `text.html` przypięty do oryginalnej pozycji z 1974/1991 r. okazał się
+**przestarzały**, bez nowelizacji sprzed lat: brak „pracy zdalnej” i „kontroli
+trzeźwości” w Kodeksie pracy, brak „osoby wykonującej pracę zarobkową” w ustawie o
+związkach zawodowych — zweryfikowane wprost grepem po tych frazach przed konwersją).
+ZFŚS poszła przez HTML, ale też NIE z `text.html` oryginalnej pozycji (ten sam problem —
+przestarzały, bez progu 50 pracowników wprowadzonego w 2016 r.), tylko z `text.html`
+przypiętego do samego obwieszczenia o tekście jednolitym (`DU/2024/288`), które akurat
+jest aktualne.
+
+Kodeks pracy (**97 stron, największy dotychczas skonwertowany akt**) ujawnił trzy nowe,
+dotąd nienapotkane wzorce w `pdf_to_md.py`:
+- **Dział numerowany słownie, nie cyframi rzymskimi**: wszystkie dotychczasowe akty z
+  Działami (Kodeks cywilny) używały cyfr rzymskich; Kodeks pracy pisze je słownie („DZIAŁ
+  PIERWSZY” … „DZIAŁ PIĘTNASTY”, w tym wstawiony „DZIAŁ CZTERNASTYA”). Wzorzec Działu nie
+  rozpoznawał w ogóle słownych liczebników, więc każdy nagłówek Działu wpadał jako zwykły
+  tekst — co samo w sobie psuło też rozpoznawanie WSZYSTKICH kolejnych nagłówków w tym
+  akapicie (stan maszyny do dzielenia na akapity gubił się). Naprawione przez dodanie tej
+  samej alternatywy `ORDINAL_WORD`, używanej już dla Księgi, a przy okazji rozszerzonej o
+  liczebniki 11–15 (dotąd tylko 1–10, bo żaden wcześniejszy akt nie miał więcej niż 10
+  Ksiąg/Działów).
+- **Rozdział rzymski z doklejoną literą** („Rozdział IIa”, „Rozdział IIb”, a nawet
+  wielką literą „Rozdział IIC” — najwyraźniej kwirk renderowania małych kapitalików w
+  źródle, nie celowe rozróżnienie): wzorzec cyfry rzymskiej (`[IVXLC]+`) nie przyjmował
+  doklejonej litery, więc — tak samo jak przy Dziale — cały nagłówek nie był rozpoznawany
+  jako granica akapitu, i CAŁA TREŚĆ następnego rozdziału (np. pełny art. 18[3a] o równym
+  traktowaniu w zatrudnieniu) zlewała się z tym nagłówkiem w jeden, ogromny „tytuł”.
+  Naprawione przez dopuszczenie opcjonalnych liter po cyfrze rzymskiej.
+- **Nawiasowy sufiks prim z doklejoną literą** („Art. 18[3a]” — to autentyczny zapis
+  źródłowy, trzeci artykuł wstawiony po art. 18, dalej dzielony na warianty literowe a, b,
+  c…): dotychczasowy wzorzec nawiasu przyjmował tylko same cyfry (`\[\d+\]`), więc
+  „Art. 18[3a].” nie było w ogóle rozpoznawane jako nagłówek Art. — ten sam efekt kaskadowy
+  co wyżej (cała treść art. 18[3a] wchłaniana w poprzedni akapit). Naprawione przez
+  dopuszczenie litery po cyfrze wewnątrz nawiasu. Ten sam wzorzec cytowania w treści
+  (`art. 27[3a]`) naprawiony też w `toc_and_links.py` (`REF_RE`, `REF_UNIT_RE`) —
+  regresja ujawniła, że **ten sam błąd od dawna istniał w już zatwierdzonym**
+  `ustawa-o-spoldzielniach-mieszkaniowych.md` (jej własny „Art. 27[3a]” był w całości
+  wchłonięty w poprzedni artykuł, a cytowanie „z art. 27[3a]” linkowało tylko do „art. 27”,
+  zostawiając osierocone „[3a]” tuż za linkiem) — poprawione retroaktywnie po pełnej
+  regresji na wszystkich 36 wcześniej zatwierdzonych plikach (bez zmian poza tym jednym).
+
+Kodeks pracy ujawnił też lukę w `toc_and_links.py` niezwiązaną z PDF-em: znacznik obcego
+aktu `Kodeks\w*\b` jest bezwarunkowo obcy — słuszne dla każdego INNEGO aktu, ale błędne dla
+dokumentu, który SAM JEST Kodeksem (na razie: Kodeks cywilny i Kodeks pracy), bo ten
+regularnie odwołuje się do samego siebie gołym „kodeksu”/„w kodeksie” albo „Kodeksu pracy”
+— żaden istniejący znacznik „self” („tej/tego/niniejszej/niniejszego ustawy/
+rozporządzenia”) nie obejmuje słowa „Kodeks”. Skutek: „ze zmianami przewidzianymi w art.
+195 i 196” zaraz po samo-odwołującym się „przepisy kodeksu” zostawało niedolinkowane, mimo
+że `#art-195`/`#art-196` istnieją w tym samym dokumencie. Naprawione: nowa funkcja
+`own_kodeks_name()` wykrywa własny tytuł dokumentu („Kodeks pracy” w linii zaraz po H1) i
+gdy wzorzec „Kodeks…” w tekście jest bez kwalifikatora (samo „kodeksu”) albo z
+kwalifikatorem zgodnym z własną nazwą („Kodeksu pracy”), traktowany jest jako self, a nie
+przełącznik na obcy — ale TYLKO gdy przetwarzany dokument faktycznie jest Kodeksem;
+zwykłe ustawy/rozporządzenia nadal zawsze widzą „Kodeks…” jako obce, tak jak dotychczas
+(potwierdzone: żadna z cytacji „Kodeksu cywilnego”/„Kodeksu postępowania cywilnego” w
+Kodeksie pracy nie stała się przez to błędnie własna). Kodeks cywilny miał ten sam
+potencjalny problem, ale w praktyce prawie nie odwołuje się do siebie tym słowem (tylko 6
+wystąpień w całym akcie, żadne przy cytacji), więc nie było tam widocznych skutków.
+
+Zweryfikowane pełną regresją na wszystkich 40 plikach (36 poprzednich + te 3 nowe, licząc
+nowelizację osobno) oraz dwukierunkowym audytem fałszywych trafień — dla Kodeksu pracy
+(716 własnych linków w treści) tylko 3 trafienia audytu, wszystkie już poprawne self-
+referencje zweryfikowane ręcznie.
+
 Zasada pobierania: dla każdego aktu szukano najnowszego **obowiązującego tekstu
 jednolitego** (obwieszczenie Marszałka Sejmu / właściwego ministra ogłaszające jednolity
 tekst) na dzień 26-27.09.2026. Jeśli po tekście jednolitym istniała już nowelizacja,
@@ -333,6 +401,18 @@ i ustawa o CEEB (kat. 5).
 | `ustawa-o-ochronie-danych-osobowych.pdf` | 2019 poz. 1781 | tekst jednolity z 2019 r.; nowelizacje DU 2026/252 i DU 2026/548 jeszcze nie wliczone |
 | `ustawa-o-ochronie-praw-lokatorow.pdf` | 2023 poz. 725 | tekst jednolity |
 
+### 10. Kadry i prawo pracy
+
+Dodane 28.09.2026 — patrz sekcja „Stan konwersji do Markdown” (batch 10) po szczegóły
+konwersji i napotkane błędy.
+
+| Plik | Źródło (Dz.U.) | Uwagi |
+|---|---|---|
+| `kodeks-pracy.pdf` | 2026 poz. 1245 | tekst jednolity, stan na dzień ogłoszenia 1.09.2026; zawiera już zapowiedzianą zmianę § 2 art. 18[3a] wchodzącą w życie dopiero 5.11.2026 (widoczna w treści z przypisem) |
+| `ustawa-o-zakladowym-funduszu-swiadczen-socjalnych.pdf` | 2024 poz. 288 | tekst jednolity z 26.02.2024 |
+| `ustawa-o-zakladowym-funduszu-swiadczen-socjalnych-nowelizacja-2026-25.pdf` | 2026 poz. 25 | nowelizacja (razem z Kodeksem pracy) z 4.12.2025, weszła w życie 27.01.2026 — **nie jest jeszcze wliczona** do tekstu jednolitego ZFŚS powyżej (Kodeksu pracy dotyczy, ale tam już wliczona, bo jego tekst jednolity jest nowszy) |
+| `ustawa-o-zwiazkach-zawodowych.pdf` | 2026 poz. 549 | tekst jednolity, stan na dzień ogłoszenia 17.04.2026 |
+
 ## Interwały sprawdzania aktualizacji
 
 Nie ma jednego uniwersalnego okresu — zależy od tego, jak często dany akt jest
@@ -346,11 +426,14 @@ nowelizowany i jak krytyczny jest dla bieżącej działalności Spółdzielni:
   mieszkaniowych, Prawo budowlane, ustawa o wspieraniu termomodernizacji i remontów
   oraz o CEEB (dostaje nowy tekst jednolity średnio raz na 9-12 miesięcy), ustawy
   podatkowe (CIT, rachunkowość) i Prawo zamówień publicznych (zwłaszcza na przełomie
-  roku kalendarzowego, gdy zmieniają się progi kwotowe).
+  roku kalendarzowego, gdy zmieniają się progi kwotowe), **Kodeks pracy** (jeden z
+  najczęściej nowelizowanych aktów w ogóle — sam ma już zapowiedzianą kolejną zmianę na
+  5.11.2026, patrz kategoria 10 wyżej).
 - **Raz w roku:** pozostałe ustawy i rozporządzenia z listy (BHP, ochrona
   przeciwpożarowa, dozór techniczny, media/woda/odpady, Kodeks cywilny, RODO/ochrona
-  danych osobowych, ochrona praw lokatorów) — chyba że pojawi się konkretny sygnał
-  (np. wiadomość o nowelizacji), wtedy sprawdzić od razu.
+  danych osobowych, ochrona praw lokatorów, ustawa o ZFŚS, ustawa o związkach
+  zawodowych) — chyba że pojawi się konkretny sygnał (np. wiadomość o nowelizacji),
+  wtedy sprawdzić od razu.
 - **Rozporządzenia bez formalnego tekstu jednolitego** (BHP przy robotach budowlanych
   z 2003 r., audyt energetyczny z 2009 r., dozór dla dźwigów z 2018 r.) — Kancelaria
   Sejmu nie republikuje ich w całości po każdej zmianie, więc trzeba samodzielnie
@@ -610,3 +693,10 @@ fałszywych trafień na każdym z ostatnich 3 plików z osobna.
 **Całość zakończona: 36 z 36 plików w `przepisy-prawne/md/` ma spis treści z linkami do
 Działów/Rozdziałów/Oddziałów/Art./§/Załączników oraz zamienione na linki odniesienia w
 treści (tylko do tego samego aktu, tylko gdy cel istnieje).**
+
+**Aktualizacja (batch 10, 28.09.2026):** 3 nowo dodane akty (Kodeks pracy, ustawa o ZFŚS +
+jej nowelizacja 2026/25, ustawa o związkach zawodowych) przeszły przez ten sam proces od
+razu przy konwersji — **40 z 40 plików** w `przepisy-prawne/md/` ma teraz spis treści i
+linkowane odniesienia. Napotkane przy tej okazji błędy (Dział słowny, Rozdział rzymski z
+literą, nawias prim z literą, self-odwołanie Kodeksu do samego siebie) opisane wyżej, w
+sekcji „Stan konwersji do Markdown”.

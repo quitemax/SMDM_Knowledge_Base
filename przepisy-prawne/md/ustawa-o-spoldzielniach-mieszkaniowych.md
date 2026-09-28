@@ -69,6 +69,7 @@ o spółdzielniach mieszkaniowych
 - [Rozdział 3[1]. Przepisy karne](#rozdzial-31)
   - [Art. 27[2].](#art-272)
   - [Art. 27[3].](#art-273)
+  - [Art. 27[3a].](#art-273a)
   - [Art. 27[4].](#art-274)
 - [Rozdział 4. Zmiany w przepisach obowiązujących Art. 28–34. (pominięte)](#rozdzial-4)
 - [Rozdział 5. Przepisy przejściowe i końcowe](#rozdzial-5)
@@ -359,7 +360,7 @@ W sprawach nieuregulowanych w ustawie prawa i obowiązki członków spółdzieln
 
 3) inny członek tej samej spółdzielni.
 
-1[3].[3)] Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z [art. 27](#art-27)[3a], że spełnia wymóg, o którym mowa w ust. 1[2] pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
+1[3].[3)] Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z [art. 27[3a]](#art-273a), że spełnia wymóg, o którym mowa w ust. 1[2] pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
 
 1[4].[3)] Pełnomocnictwo udzielone osobie bliskiej bez dołączonego oświadczenia, o którym mowa w ust. 1[3] zdanie pierwsze, jest nieważne.
 
@@ -863,7 +864,12 @@ Kto, będąc członkiem zarządu spółdzielni mieszkaniowej, pełnomocnikiem, a
 
 1) nie udostępnia członkowi spółdzielni mieszkaniowej odpisów oraz kopii dokumentów, o których mowa w [art. 8[1]](#art-81),
 
-2) nie rozlicza kosztów budowy lokalu w terminach, o których mowa w [art. 10](#art-10) ust. 3 albo [art. 18](#art-18) ust. 4 – podlega karze grzywny. [Art. 27](#art-27)[3a].11) Kto składa fałszywe oświadczenie, o którym mowa w [art. 8[3]](#art-83) ust. 1[3] zdanie pierwsze, podlega karze grzywny.
+2) nie rozlicza kosztów budowy lokalu w terminach, o których mowa w [art. 10](#art-10) ust. 3 albo [art. 18](#art-18) ust. 4 – podlega karze grzywny.
+
+<a id="art-273a"></a>
+### Art. 27[3a].
+
+11) Kto składa fałszywe oświadczenie, o którym mowa w [art. 8[3]](#art-83) ust. 1[3] zdanie pierwsze, podlega karze grzywny.
 
 <a id="art-274"></a>
 ### Art. 27[4].
