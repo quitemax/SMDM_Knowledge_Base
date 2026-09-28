@@ -92,9 +92,11 @@ spośród nieograniczonej liczby kandydatów (§ 28).
    dyscyplinę zatrudnienia; opiniuje zamknięcia rachunkowe i wnioskuje o
    zatwierdzenie bilansów.
 2. **Komisja GZM** (gospodarka zasobami mieszkaniowymi) — dokładny
-   katalog kompetencji **DO UZUPEŁNIENIA** (załącznik z tym zakresem nie
-   był odczytywalny w źródłowym skanie). Wiadomo, że Członek Zarządu ds.
-   techniczno-eksploatacyjnych na bieżąco z nią współpracuje.
+   katalog kompetencji **DO UZUPEŁNIENIA**: strona z tym załącznikiem
+   (nr 2) nie została w ogóle zeskanowana — numeracja stron skoczy z „6"
+   (koniec Załącznika nr 1) na „8" (Załącznik nr 3) — więc to nie kwestia
+   nieczytelności, tylko brakującej strony w źródle. Wiadomo, że Członek
+   Zarządu ds. techniczno-eksploatacyjnych na bieżąco z nią współpracuje.
 3. **Komisja Regulaminowa** — opiniuje projekty regulaminów i innych
    przepisów wewnętrznych, do których uchwalania uprawniona jest Rada;
    wnioskuje o zmiany w już uchwalonych regulaminach.
@@ -107,6 +109,13 @@ komisji mają charakter opiniodawczy** — Rada musi je przeanalizować, ale
 nie może ich zmienić/uchylić (jeśli są niezgodne z prawem, Rada zwraca
 komisji uwagę, nie analizuje merytorycznie). Obsługę komisji zapewnia
 Zarząd.
+
+> Pełny opis (skład, tryb pracy, status opinii, protokoły) — patrz
+> [`../rada-nadzorcza/komisje-rady-nadzorczej.md`](../rada-nadzorcza/komisje-rady-nadzorczej.md).
+> Zasady działania Rady jako całości i proces wyboru przez nią członków
+> Zarządu — patrz
+> [`../rada-nadzorcza/zasady-dzialania.md`](../rada-nadzorcza/zasady-dzialania.md) i
+> [`../rada-nadzorcza/wybor-czlonkow-zarzadu.md`](../rada-nadzorcza/wybor-czlonkow-zarzadu.md).
 
 ## Zarząd (§ 54–60)
 

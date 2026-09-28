@@ -17,6 +17,8 @@ można rozważyć migrację do dedykowanego narzędzia (np. BookStack).
   terenowy.
 - [`zarzad/`](zarzad/) — procesy zarządcze, decyzje, uchwały, sprawy
   statutowe.
+- [`rada-nadzorcza/`](rada-nadzorcza/) — zasady działania Rady Nadzorczej,
+  podejmowanie uchwał, wybór członków Zarządu, stałe komisje Rady.
 - [`administracja-techniczna/`](administracja-techniczna/) — procesy
   związane z budynkami, przeglądami, zgłoszeniami, przetargami.
 - [`czynsze-ksiegowosc/`](czynsze-ksiegowosc/) — procesy finansowe:

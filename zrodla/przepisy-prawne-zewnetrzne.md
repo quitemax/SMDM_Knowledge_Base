@@ -96,3 +96,20 @@ wybór i za zapisy umowy: uprawnienia, plan BIOZ, ubezpieczenie OC, kierownik ro
 |---|---|
 | RODO (rozporządzenie 2016/679) + ustawa z 10.05.2018 r. o ochronie danych osobowych | listy członków, monitoring, udostępnianie dokumentów |
 | Ustawa z 21.06.2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego | eksmisje, lokale zamienne |
+
+## 10. Kadry i prawo pracy
+
+**Uwaga: kategoria dodana 2026-09-28, żaden z aktów niżej nie jest jeszcze
+pobrany/skonwertowany w `przepisy-prawne/`** (w odróżnieniu od
+kategorii 1–9, które są kompletne — 36 z 36 aktów). Gap ujawnił się przy
+przeglądzie `kadry/` w bazie wiedzy: `regulamin-pracy.pdf` (w `zrodla/`)
+cytuje Kodeks pracy dziesiątki razy jako swoją podstawę prawną (art. 104
+§ 2 — podstawa samego regulaminu; dalej liczne konkretne artykuły: 29,
+52 § 1 pkt 1, 108, 132–133, 140¹, 154⁴, 167², 18³ᵃ–18³ᵉ i inne), ale sam
+Kodeks nigdy nie trafił do listy aktów do pobrania.
+
+| Akt | Uwagi |
+|---|---|
+| Ustawa z 26.06.1974 r. — Kodeks pracy | podstawa całego `regulamin-pracy.pdf`; też przywoływany w `regulamin-wynagradzania-2024.pdf` (art. 77² § 4) i `regulamin-rady-nadzorczej.pdf` (ochrona członków Rady przed wypowiedzeniem — § 45 § 6 Prawa spółdzielczego odsyła do K.p.) |
+| Ustawa z 4.03.1994 r. o zakładowym funduszu świadczeń socjalnych | podstawa `regulamin-zakladowego-funduszu-swiadczen-socjalnych.pdf` |
+| Ustawa z 23.05.1991 r. o związkach zawodowych | `regulamin-pracy.pdf` wymaga konsultacji/uzgodnienia ze związkiem zawodowym „Budowlani" przy planie urlopów, ZFŚS, karach porządkowych |

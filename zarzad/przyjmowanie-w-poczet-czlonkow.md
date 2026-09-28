@@ -37,8 +37,9 @@ mieszkaniowej).
 3. Powstanie członkostwa formalnie następuje z chwilą: nabycia
    roszczenia o prawo lokatorskie, nabycia ekspektatywy własności,
    zawarcia umowy nabycia prawa własnościowego / ustanowienia prawa
-   lokatorskiego, lub upływu ustawowego terminu roku (art. 15 ust. 4
-   u.s.m.) w określonych przypadkach (§ 7).
+   lokatorskiego, lub upływu ustawowego terminu roku ([art. 15 ust. 4
+   u.s.m.](../przepisy-prawne/md/ustawa-o-spoldzielniach-mieszkaniowych.md#art-15))
+   w określonych przypadkach (§ 7).
 
 **Ustanie członkostwa** (§ 9): wygaśnięcie prawa lokatorskiego, zbycie
 prawa własnościowego/odrębnej własności/ekspektatywy (lub udziału),
