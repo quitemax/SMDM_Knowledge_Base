@@ -2,6 +2,156 @@
 
 [2)]
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [Art. 1.](#art-1)
+  - [Art. 2.](#art-2)
+  - [Art. 3.](#art-3)
+  - [Art. 4.](#art-4)
+  - [Art. 5.](#art-5)
+  - [Art. 5a [3)].](#art-5a)
+  - [Art. 6.](#art-6)
+  - [Art. 6a [4)].](#art-6a)
+  - [Art. 7.](#art-7)
+- [Rozdział 2. Wyznaczanie inspektora ochrony danych](#rozdzial-2)
+  - [Art. 8.](#art-8)
+  - [Art. 9.](#art-9)
+  - [Art. 10.](#art-10)
+  - [Art. 11.](#art-11)
+  - [Art. 11a [5)].](#art-11a)
+- [Rozdział 3. Warunki i tryb udzielania akredytacji podmiotowi certyfikującemu](#rozdzial-3)
+  - [Art. 12.](#art-12)
+  - [Art. 13.](#art-13)
+  - [Art. 14.](#art-14)
+- [Rozdział 4. Warunki i tryb dokonywania certyfikacji](#rozdzial-4)
+  - [Art. 15.](#art-15)
+  - [Art. 16.](#art-16)
+  - [Art. 17.](#art-17)
+  - [Art. 18.](#art-18)
+  - [Art. 19.](#art-19)
+  - [Art. 20.](#art-20)
+  - [Art. 21.](#art-21)
+  - [Art. 22.](#art-22)
+  - [Art. 23.](#art-23)
+  - [Art. 24.](#art-24)
+  - [Art. 25.](#art-25)
+  - [Art. 26.](#art-26)
+- [Rozdział 5. Opracowywanie i zatwierdzanie kodeksu postępowania oraz warunki i tryb akredytacji podmiotu monitorującego jego przestrzeganie](#rozdzial-5)
+  - [Art. 27.](#art-27)
+  - [Art. 28.](#art-28)
+  - [Art. 29.](#art-29)
+  - [Art. 30.](#art-30)
+  - [Art. 31.](#art-31)
+  - [Art. 32.](#art-32)
+  - [Art. 33.](#art-33)
+- [Rozdział 6. Prezes Urzędu](#rozdzial-6)
+  - [Art. 34.](#art-34)
+  - [Art. 35.](#art-35)
+  - [Art. 36.](#art-36)
+  - [Art. 37.](#art-37)
+  - [Art. 38.](#art-38)
+  - [Art. 39.](#art-39)
+  - [Art. 40.](#art-40)
+  - [Art. 41.](#art-41)
+  - [Art. 42.](#art-42)
+  - [Art. 43.](#art-43)
+  - [Art. 44.](#art-44)
+  - [Art. 45.](#art-45)
+  - [Art. 46.](#art-46)
+  - [Art. 47.](#art-47)
+  - [Art. 48.](#art-48)
+  - [Art. 49.](#art-49)
+  - [Art. 50.](#art-50)
+  - [Art. 51.](#art-51)
+  - [Art. 52.](#art-52)
+  - [Art. 53.](#art-53)
+  - [Art. 54.](#art-54)
+  - [Art. 55.](#art-55)
+  - [Art. 56.](#art-56)
+  - [Art. 57.](#art-57)
+  - [Art. 58.](#art-58)
+  - [Art. 59.](#art-59)
+- [Rozdział 7. Postępowanie w sprawie naruszenia przepisów o ochronie danych osobowych](#rozdzial-7)
+  - [Art. 60.](#art-60)
+  - [Art. 61.](#art-61)
+  - [Art. 62.](#art-62)
+  - [Art. 63.](#art-63)
+  - [Art. 64.](#art-64)
+  - [Art. 65.](#art-65)
+  - [Art. 66.](#art-66)
+  - [Art. 67.](#art-67)
+  - [Art. 68.](#art-68)
+  - [Art. 69.](#art-69)
+  - [Art. 70.](#art-70)
+  - [Art. 71.](#art-71)
+  - [Art. 72.](#art-72)
+  - [Art. 73.](#art-73)
+  - [Art. 74.](#art-74)
+- [Rozdział 8. Europejska współpraca administracyjna](#rozdzial-8)
+  - [Art. 75.](#art-75)
+  - [Art. 76.](#art-76)
+  - [Art. 77.](#art-77)
+- [Rozdział 9. Kontrola przestrzegania przepisów o ochronie danych osobowych](#rozdzial-9)
+  - [Art. 78.](#art-78)
+  - [Art. 79.](#art-79)
+  - [Art. 80.](#art-80)
+  - [Art. 81.](#art-81)
+  - [Art. 82.](#art-82)
+  - [Art. 83.](#art-83)
+  - [Art. 84.](#art-84)
+  - [Art. 85.](#art-85)
+  - [Art. 86.](#art-86)
+  - [Art. 87.](#art-87)
+  - [Art. 88.](#art-88)
+  - [Art. 89.](#art-89)
+  - [Art. 90.](#art-90)
+  - [Art. 91.](#art-91)
+- [Rozdział 10. Odpowiedzialność cywilna i postępowanie przed sądem](#rozdzial-10)
+  - [Art. 92.](#art-92)
+  - [Art. 93.](#art-93)
+  - [Art. 94.](#art-94)
+  - [Art. 95.](#art-95)
+  - [Art. 96.](#art-96)
+  - [Art. 97.](#art-97)
+  - [Art. 98.](#art-98)
+  - [Art. 99.](#art-99)
+  - [Art. 100.](#art-100)
+- [Rozdział 11. Przepisy o administracyjnych karach pieniężnych i przepisy karne](#rozdzial-11)
+  - [Art. 101.](#art-101)
+  - [Art. 101a [13)].](#art-101a)
+  - [Art. 102.](#art-102)
+  - [Art. 103.](#art-103)
+  - [Art. 104.](#art-104)
+  - [Art. 105.](#art-105)
+  - [Art. 106.](#art-106)
+  - [Art. 107.](#art-107)
+  - [Art. 108.](#art-108)
+- [Rozdział 12. Zmiany w przepisach](#rozdzial-12)
+  - [Art. 109-157.](#art-109-157)
+- [Rozdział 13. Przepisy przejściowe i dostosowujące](#rozdzial-13)
+  - [Art. 158.](#art-158)
+  - [Art. 159.](#art-159)
+  - [Art. 160.](#art-160)
+  - [Art. 161.](#art-161)
+  - [Art. 162.](#art-162)
+  - [Art. 163.](#art-163)
+  - [Art. 164.](#art-164)
+  - [Art. 165.](#art-165)
+  - [Art. 166.](#art-166)
+  - [Art. 167.](#art-167)
+  - [Art. 168.](#art-168)
+  - [Art. 169.](#art-169)
+  - [Art. 170.](#art-170)
+  - [Art. 171.](#art-171)
+  - [Art. 172.](#art-172)
+  - [Art. 173.](#art-173)
+  - [Art. 174.](#art-174)
+- [Rozdział 14. Przepisy końcowe](#rozdzial-14)
+  - [Art. 175 [18)].](#art-175)
+  - [Art. 176.](#art-176)
+
 <a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
@@ -171,7 +321,7 @@ Przez organy i podmioty publiczne obowiązane do wyznaczenia inspektora, o któr
 <a id="art-11"></a>
 ### Art. 11.
 
-Podmiot, który wyznaczył inspektora, udostępnia dane inspektora, o których mowa w art. 10 ust. 1, niezwłocznie po jego wyznaczeniu, na swojej stronie internetowej, a jeżeli nie prowadzi własnej strony internetowej, w sposób ogólnie dostępny w miejscu prowadzenia działalności.
+Podmiot, który wyznaczył inspektora, udostępnia dane inspektora, o których mowa w [art. 10](#art-10) ust. 1, niezwłocznie po jego wyznaczeniu, na swojej stronie internetowej, a jeżeli nie prowadzi własnej strony internetowej, w sposób ogólnie dostępny w miejscu prowadzenia działalności.
 
 <a id="art-11a"></a>
 ### Art. 11a [5)].
@@ -180,7 +330,7 @@ Podmiot, który wyznaczył inspektora, udostępnia dane inspektora, o których m
 
 2. W związku z wykonywaniem obowiązków inspektora w czasie jego nieobecności do osoby go zastępującej stosuje się odpowiednio przepisy dotyczące inspektora.
 
-3. Podmiot, który wyznaczył osobę zastępującą inspektora, zawiadamia Prezesa Urzędu o jej wyznaczeniu w trybie określonym w art. 10 oraz udostępnia jej dane zgodnie z art. 11.
+3. Podmiot, który wyznaczył osobę zastępującą inspektora, zawiadamia Prezesa Urzędu o jej wyznaczeniu w trybie określonym w [art. 10](#art-10) oraz udostępnia jej dane zgodnie z [art. 11](#art-11).
 
 <a id="rozdzial-3"></a>
 ### Rozdział 3. Warunki i tryb udzielania akredytacji podmiotowi certyfikującemu
@@ -248,16 +398,16 @@ Prezes Urzędu udostępnia na swojej stronie podmiotowej w Biuletynie Informacji
 
 3) wskazanie zakresu wnioskowanej certyfikacji.
 
-2. Do wniosku dołącza się dokumenty potwierdzające spełnianie kryteriów certyfikacji albo ich kopie oraz, w przypadku certyfikacji dokonywanej przez Prezesa Urzędu, dowód wniesienia opłaty, o której mowa w art. 26.
+2. Do wniosku dołącza się dokumenty potwierdzające spełnianie kryteriów certyfikacji albo ich kopie oraz, w przypadku certyfikacji dokonywanej przez Prezesa Urzędu, dowód wniesienia opłaty, o której mowa w [art. 26](#art-26).
 
 3. Wniosek składa się pisemnie w postaci papierowej opatrzonej własnoręcznym podpisem albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym. Wniosek składany do Prezesa Urzędu w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
 
 <a id="art-18"></a>
 ### Art. 18.
 
-1. Prezes Urzędu albo podmiot certyfikujący rozpatruje wniosek o certyfikację i w terminie nie dłuższym niż 3 miesiące od dnia złożenia wniosku zgodnego z art. 17, po zbadaniu spełniania kryteriów certyfikacji, zawiadamia wnioskodawcę o dokonaniu albo odmowie dokonania certyfikacji.
+1. Prezes Urzędu albo podmiot certyfikujący rozpatruje wniosek o certyfikację i w terminie nie dłuższym niż 3 miesiące od dnia złożenia wniosku zgodnego z [art. 17](#art-17), po zbadaniu spełniania kryteriów certyfikacji, zawiadamia wnioskodawcę o dokonaniu albo odmowie dokonania certyfikacji.
 
-2. Wniosek złożony do Prezesa Urzędu, niezawierający informacji, o których mowa w art. 17 ust. 1 pkt 1, pozostawia się bez rozpoznania. Jeżeli wniosek nie zawiera informacji, o których mowa w art. 17 ust. 1 pkt 2 lub 3, lub nie spełnia wymagań, o których mowa w art. 17 ust. 2 lub 3, Prezes Urzędu wzywa wnioskodawcę do ich uzupełnienia wraz z pouczeniem, że ich nieuzupełnienie w terminie 7 dni od dnia doręczenia wezwania spowoduje pozostawienie wniosku bez rozpoznania.
+2. Wniosek złożony do Prezesa Urzędu, niezawierający informacji, o których mowa w [art. 17](#art-17) ust. 1 pkt 1, pozostawia się bez rozpoznania. Jeżeli wniosek nie zawiera informacji, o których mowa w [art. 17](#art-17) ust. 1 pkt 2 lub 3, lub nie spełnia wymagań, o których mowa w [art. 17](#art-17) ust. 2 lub 3, Prezes Urzędu wzywa wnioskodawcę do ich uzupełnienia wraz z pouczeniem, że ich nieuzupełnienie w terminie 7 dni od dnia doręczenia wezwania spowoduje pozostawienie wniosku bez rozpoznania.
 
 <a id="art-19"></a>
 ### Art. 19.
@@ -313,7 +463,7 @@ Przed dokonaniem certyfikacji albo odmową dokonania certyfikacji podmiot certyf
 <a id="art-24"></a>
 ### Art. 24.
 
-1. Prezes Urzędu w terminie, o którym mowa w art. 18 ust. 1, a także po dokonaniu certyfikacji jest uprawniony, w celu oceny spełniania przez podmiot kryteriów certyfikacji, do przeprowadzenia czynności sprawdzających u administratora, podmiotu przetwarzającego, producenta albo podmiotu wprowadzającego usługę lub produkt na rynek.
+1. Prezes Urzędu w terminie, o którym mowa w [art. 18](#art-18) ust. 1, a także po dokonaniu certyfikacji jest uprawniony, w celu oceny spełniania przez podmiot kryteriów certyfikacji, do przeprowadzenia czynności sprawdzających u administratora, podmiotu przetwarzającego, producenta albo podmiotu wprowadzającego usługę lub produkt na rynek.
 
 2. Prezes Urzędu zawiadamia podmiot, o którym mowa w ust. 1, o zamiarze przeprowadzenia czynności sprawdzających.
 
@@ -348,7 +498,7 @@ Przed dokonaniem certyfikacji albo odmową dokonania certyfikacji podmiot certyf
 
 2. Czynności sprawdzających dokonuje się w obecności administratora, podmiotu przetwarzającego, producenta lub podmiotu wprowadzającego usługę lub produkt na rynek lub osoby przez niego upoważnionej.
 
-3. Z czynności sprawdzających sporządza się protokół i przedstawia go administratorowi, podmiotowi przetwarzającemu, producentowi albo podmiotowi wprowadzającemu usługę lub produkt na rynek. Przepis art. 88 stosuje się odpowiednio.
+3. Z czynności sprawdzających sporządza się protokół i przedstawia go administratorowi, podmiotowi przetwarzającemu, producentowi albo podmiotowi wprowadzającemu usługę lub produkt na rynek. Przepis [art. 88](#art-88) stosuje się odpowiednio.
 
 <a id="art-26"></a>
 ### Art. 26.
@@ -359,7 +509,7 @@ Przed dokonaniem certyfikacji albo odmową dokonania certyfikacji podmiot certyf
 
 3. Maksymalna wysokość opłaty nie może przekroczyć czterokrotności przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok złożenia wniosku o certyfikację, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270, z późn. zm. [6)]).
 
-4. Prezes Urzędu na swojej stronie podmiotowej w Biuletynie Informacji Publicznej podaje wysokość opłaty, którą podmiot, o którym mowa w art. 15, obowiązany jest ponieść z tytułu czynności związanych z certyfikacją.
+4. Prezes Urzędu na swojej stronie podmiotowej w Biuletynie Informacji Publicznej podaje wysokość opłaty, którą podmiot, o którym mowa w [art. 15](#art-15), obowiązany jest ponieść z tytułu czynności związanych z certyfikacją.
 
 5. Opłata stanowi dochód budżetu państwa.
 
@@ -389,7 +539,7 @@ Przestrzeganie zatwierdzonego kodeksu postępowania monitoruje podmiot akredytow
 <a id="art-29"></a>
 ### Art. 29.
 
-1. Akredytacja podmiotu, o którym mowa w art. 28, jest udzielana na wniosek, który zawiera co najmniej:
+1. Akredytacja podmiotu, o którym mowa w [art. 28](#art-28), jest udzielana na wniosek, który zawiera co najmniej:
 
 1) nazwę podmiotu ubiegającego się o akredytację oraz adres jego siedziby;
 
@@ -404,7 +554,7 @@ Przestrzeganie zatwierdzonego kodeksu postępowania monitoruje podmiot akredytow
 
 1. Prezes Urzędu rozpatruje wniosek, o którym mowa w art. 29 ust. 1, i w terminie nie dłuższym niż 3 miesiące od dnia złożenia wniosku zgodnego z art. 29, po zbadaniu spełniania kryteriów, o których mowa w art. 41 ust. 1 i 2 rozporządzenia 2016/679, zawiadamia podmiot ubiegający się o akredytację o udzieleniu lub odmowie udzielenia akredytacji.
 
-2. Wniosek złożony do Prezesa Urzędu niezawierający informacji, o których mowa w art. 29 ust. 1 pkt 1, pozostawia się bez rozpoznania. Jeżeli wniosek nie zawiera informacji, o których mowa w art. 29 ust. 1 pkt 2, lub nie spełnia wymagań, o których mowa w ust. 2 lub 3, Prezes Urzędu wzywa wnioskodawcę do ich uzupełnienia wraz z pouczeniem, że ich nieuzupełnienie w terminie 7 dni od dnia doręczenia wezwania spowoduje pozostawienie wniosku bez rozpoznania.
+2. Wniosek złożony do Prezesa Urzędu niezawierający informacji, o których mowa w [art. 29](#art-29) ust. 1 pkt 1, pozostawia się bez rozpoznania. Jeżeli wniosek nie zawiera informacji, o których mowa w [art. 29](#art-29) ust. 1 pkt 2, lub nie spełnia wymagań, o których mowa w ust. 2 lub 3, Prezes Urzędu wzywa wnioskodawcę do ich uzupełnienia wraz z pouczeniem, że ich nieuzupełnienie w terminie 7 dni od dnia doręczenia wezwania spowoduje pozostawienie wniosku bez rozpoznania.
 
 3. W przypadku stwierdzenia, że podmiot ubiegający się o akredytację nie spełnia kryteriów, o których mowa w art. 41 ust. 1 i 2 rozporządzenia 2016/679, Prezes Urzędu odmawia udzielenia akredytacji. Odmowa udzielenia akredytacji następuje w drodze decyzji.
 
@@ -566,9 +716,9 @@ Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w o
 
 1. Wniosek o wyrażenie zgody na pociągnięcie Prezesa Urzędu do odpowiedzialności karnej składa się Marszałkowi Sejmu.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 40 ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
+2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w [art. 40](#art-40) ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
 
-3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 40 ust. 3 i 4, Marszałek Sejmu kieruje go do organu Sejmu Rzeczypospolitej Polskiej właściwego do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Urzędu o treści wniosku.
+3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w [art. 40](#art-40) ust. 3 i 4, Marszałek Sejmu kieruje go do organu Sejmu Rzeczypospolitej Polskiej właściwego do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Urzędu o treści wniosku.
 
 4. Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Urzędu o terminie jego rozpatrzenia. Między doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi przypadek niecierpiący zwłoki, nie może upłynąć mniej niż 7 dni.
 
@@ -585,7 +735,7 @@ Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w o
 <a id="art-42"></a>
 ### Art. 42.
 
-1. Zakaz zatrzymania, o którym mowa w art. 38 ust. 4, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Prezesa Urzędu przez organy uprawnione do stosowania środków przymusu.
+1. Zakaz zatrzymania, o którym mowa w [art. 38](#art-38) ust. 4, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Prezesa Urzędu przez organy uprawnione do stosowania środków przymusu.
 
 2. Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Prezesa Urzędu składa się za pośrednictwem Prokuratora Generalnego.
 
@@ -601,7 +751,7 @@ Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w o
 
 5) uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
 
-4. Do postępowania z wnioskiem, o którym mowa w ust. 2, przepisy art. 41 ust. 1-8 stosuje się odpowiednio.
+4. Do postępowania z wnioskiem, o którym mowa w ust. 2, przepisy [art. 41](#art-41) ust. 1-8 stosuje się odpowiednio.
 
 5. Sejm Rzeczypospolitej Polskiej wyraża zgodę na zatrzymanie lub aresztowanie Prezesa Urzędu w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Prezesa Urzędu.
 
@@ -610,9 +760,9 @@ Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w o
 <a id="art-43"></a>
 ### Art. 43.
 
-1. Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 41 ust. 9 i art. 42 ust. 5.
+1. Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w [art. 41](#art-41) ust. 9 i [art. 42](#art-42) ust. 5.
 
-2. Uchwały, o których mowa w art. 41 ust. 9 i art. 42 ust. 5, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+2. Uchwały, o których mowa w [art. 41](#art-41) ust. 9 i [art. 42](#art-42) ust. 5, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 <a id="art-44"></a>
 ### Art. 44.
@@ -962,7 +1112,7 @@ Wniesienie przez stronę skargi do sądu administracyjnego wstrzymuje wykonanie 
 
 1. W przypadkach, o których mowa w art. 61 ust. 8, art. 62 ust. 7 i art. 66 ust. 1 rozporządzenia 2016/679, Prezes Urzędu może wydać postanowienie o zastosowaniu środka tymczasowego, o którym mowa w art. 70 ust. 1.
 
-2. W postanowieniu Prezes Urzędu określa termin obowiązywania środka tymczasowego, o którym mowa w art. 70 ust. 1, nie dłuższy niż 3 miesiące.
+2. W postanowieniu Prezes Urzędu określa termin obowiązywania środka tymczasowego, o którym mowa w [art. 70](#art-70) ust. 1, nie dłuższy niż 3 miesiące.
 
 3. Na postanowienie służy skarga do sądu administracyjnego.
 
@@ -1019,7 +1169,7 @@ W przypadku otrzymania przez Prezesa Urzędu wniosku organu nadzorczego innego p
 <a id="art-81"></a>
 ### Art. 81.
 
-1. Kontrolę przeprowadza się po okazaniu imiennego upoważnienia wraz z legitymacją służbową, a w przypadku kontrolującego, o którym mowa w art. 79 ust. 1 pkt 2, po okazaniu imiennego upoważnienia wraz z dokumentem potwierdzającym tożsamość.
+1. Kontrolę przeprowadza się po okazaniu imiennego upoważnienia wraz z legitymacją służbową, a w przypadku kontrolującego, o którym mowa w [art. 79](#art-79) ust. 1 pkt 2, po okazaniu imiennego upoważnienia wraz z dokumentem potwierdzającym tożsamość.
 
 2. Imienne upoważnienie do przeprowadzenia kontroli zawiera:
 
@@ -1027,7 +1177,7 @@ W przypadku otrzymania przez Prezesa Urzędu wniosku organu nadzorczego innego p
 
 2) oznaczenie organu;
 
-3) imię i nazwisko, stanowisko służbowe kontrolującego oraz numer legitymacji służbowej, a w przypadku kontrolującego, o którym mowa w art. 79 ust. 1 pkt 2, imię i nazwisko oraz numer dokumentu potwierdzającego tożsamość;
+3) imię i nazwisko, stanowisko służbowe kontrolującego oraz numer legitymacji służbowej, a w przypadku kontrolującego, o którym mowa w [art. 79](#art-79) ust. 1 pkt 2, imię i nazwisko oraz numer dokumentu potwierdzającego tożsamość;
 
 4) określenie zakresu przedmiotowego kontroli;
 
@@ -1044,7 +1194,7 @@ W przypadku otrzymania przez Prezesa Urzędu wniosku organu nadzorczego innego p
 <a id="art-82"></a>
 ### Art. 82.
 
-1. Prezes Urzędu może upoważnić do udziału w kontroli osobę posiadającą wiedzę specjalistyczną, jeżeli przeprowadzenie czynności kontrolnych wymaga takiej wiedzy. Przepisy art. 80 i art. 81 ust. 2 stosuje się.
+1. Prezes Urzędu może upoważnić do udziału w kontroli osobę posiadającą wiedzę specjalistyczną, jeżeli przeprowadzenie czynności kontrolnych wymaga takiej wiedzy. Przepisy [art. 80](#art-80) i [art. 81](#art-81) ust. 2 stosuje się.
 
 2. Zakres uprawnień osoby, o której mowa w ust. 1, Prezes Urzędu określa w upoważnieniu.
 
@@ -1126,7 +1276,7 @@ Kontrolujący ustala stan faktyczny na podstawie dowodów zebranych w postępowa
 
 2) imię i nazwisko osoby reprezentującej kontrolowanego oraz nazwę organu reprezentującego kontrolowanego;
 
-3) imię i nazwisko, stanowisko służbowe, numer legitymacji służbowej oraz numer imiennego upoważnienia kontrolującego, a w przypadku kontrolującego, o którym mowa w art. 79 ust. 1 pkt 2, imię i nazwisko, numer dokumentu potwierdzającego tożsamość oraz numer imiennego upoważnienia;
+3) imię i nazwisko, stanowisko służbowe, numer legitymacji służbowej oraz numer imiennego upoważnienia kontrolującego, a w przypadku kontrolującego, o którym mowa w [art. 79](#art-79) ust. 1 pkt 2, imię i nazwisko, numer dokumentu potwierdzającego tożsamość oraz numer imiennego upoważnienia;
 
 4) datę rozpoczęcia i zakończenia czynności kontrolnych;
 
@@ -1161,17 +1311,17 @@ Kontrolujący ustala stan faktyczny na podstawie dowodów zebranych w postępowa
 
 1. Kontrolę prowadzi się nie dłużej niż 30 dni od dnia okazania kontrolowanemu lub innej osobie wskazanej w przepisach imiennego upoważnienia do przeprowadzenia kontroli oraz legitymacji służbowej lub innego dokumentu potwierdzającego tożsamość. Do terminu nie wlicza się terminów przewidzianych na zgłoszenie zastrzeżeń do protokołu kontroli lub podpisanie i doręczenie protokołu kontroli przez kontrolowanego.
 
-2. Terminem zakończenia kontroli jest dzień podpisania protokołu kontroli przez kontrolowanego albo dzień dokonania wzmianki, o której mowa w art. 88 ust. 8.
+2. Terminem zakończenia kontroli jest dzień podpisania protokołu kontroli przez kontrolowanego albo dzień dokonania wzmianki, o której mowa w [art. 88](#art-88) ust. 8.
 
 <a id="art-90"></a>
 ### Art. 90.
 
-Jeżeli na podstawie informacji zgromadzonych w postępowaniu kontrolnym Prezes Urzędu uzna, że mogło dojść do naruszenia przepisów o ochronie danych osobowych, obowiązany jest do niezwłocznego wszczęcia postępowania, o którym mowa w art. 60.
+Jeżeli na podstawie informacji zgromadzonych w postępowaniu kontrolnym Prezes Urzędu uzna, że mogło dojść do naruszenia przepisów o ochronie danych osobowych, obowiązany jest do niezwłocznego wszczęcia postępowania, o którym mowa w [art. 60](#art-60).
 
 <a id="art-91"></a>
 ### Art. 91.
 
-Przepisy art. 63-65 stosuje się odpowiednio.
+Przepisy [art. 63](#art-63)-65 stosuje się odpowiednio.
 
 <a id="rozdzial-10"></a>
 ### Rozdział 10. Odpowiedzialność cywilna i postępowanie przed sądem
@@ -1246,9 +1396,9 @@ Prezes Urzędu może nałożyć na podmiot obowiązany do przestrzegania przepis
 <a id="art-101a"></a>
 ### Art. 101a [13)].
 
-1. W związku z toczącym się postępowaniem w sprawie nałożenia administracyjnej kary pieniężnej, podmiot, o którym mowa w art. 101, jest obowiązany do dostarczenia Prezesowi Urzędu, na każde jego żądanie, w terminie 30 dni od dnia otrzymania żądania, danych niezbędnych do określenia podstawy wymiaru administracyjnej kary pieniężnej.
+1. W związku z toczącym się postępowaniem w sprawie nałożenia administracyjnej kary pieniężnej, podmiot, o którym mowa w [art. 101](#art-101), jest obowiązany do dostarczenia Prezesowi Urzędu, na każde jego żądanie, w terminie 30 dni od dnia otrzymania żądania, danych niezbędnych do określenia podstawy wymiaru administracyjnej kary pieniężnej.
 
-2. W przypadku niedostarczenia danych przez podmiot, o którym mowa w art. 101, lub gdy dostarczone przez ten podmiot dane uniemożliwiają ustalenie podstawy wymiaru administracyjnej kary pieniężnej, Prezes Urzędu ustala podstawę wymiaru administracyjnej kary pieniężnej w sposób szacunkowy uwzględniając wielkość podmiotu, specyfikę prowadzonej przez niego działalności lub ogólnie dostępne dane finansowe dotyczące podmiotu.
+2. W przypadku niedostarczenia danych przez podmiot, o którym mowa w [art. 101](#art-101), lub gdy dostarczone przez ten podmiot dane uniemożliwiają ustalenie podstawy wymiaru administracyjnej kary pieniężnej, Prezes Urzędu ustala podstawę wymiaru administracyjnej kary pieniężnej w sposób szacunkowy uwzględniając wielkość podmiotu, specyfikę prowadzonej przez niego działalności lub ogólnie dostępne dane finansowe dotyczące podmiotu.
 
 <a id="art-102"></a>
 ### Art. 102.
@@ -1341,9 +1491,9 @@ podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat
 <a id="art-158"></a>
 ### Art. 158.
 
-1. Osoba pełniąca w dniu 24 maja 2018 r. funkcję administratora bezpieczeństwa informacji, o którym mowa w ustawie uchylanej w art. 175, staje się inspektorem ochrony danych i pełni swoją funkcję do dnia 1 września 2018 r., chyba że przed tym dniem administrator zawiadomi Prezesa Urzędu o wyznaczeniu innej osoby na inspektora ochrony danych, w sposób określony w art. 10 ust. 1.
+1. Osoba pełniąca w dniu 24 maja 2018 r. funkcję administratora bezpieczeństwa informacji, o którym mowa w ustawie uchylanej w [art. 175](#art-175), staje się inspektorem ochrony danych i pełni swoją funkcję do dnia 1 września 2018 r., chyba że przed tym dniem administrator zawiadomi Prezesa Urzędu o wyznaczeniu innej osoby na inspektora ochrony danych, w sposób określony w [art. 10](#art-10) ust. 1.
 
-2. Osoba, która stała się inspektorem ochrony danych na podstawie ust. 1, pełni swoją funkcję także po dniu 1 września 2018 r., jeżeli do tego dnia administrator zawiadomi Prezesa Urzędu o jej wyznaczeniu w sposób określony w art. 10 ust. 1.
+2. Osoba, która stała się inspektorem ochrony danych na podstawie ust. 1, pełni swoją funkcję także po dniu 1 września 2018 r., jeżeli do tego dnia administrator zawiadomi Prezesa Urzędu o jej wyznaczeniu w sposób określony w [art. 10](#art-10) ust. 1.
 
 3. Osoba, o której mowa w ust. 1, może zostać odwołana przez administratora bez zawiadomienia Prezesa Urzędu o wyznaczeniu innej osoby na inspektora ochrony danych, w przypadku gdy administrator nie jest obowiązany do wyznaczenia inspektora ochrony danych.
 
@@ -1354,7 +1504,7 @@ podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat
 <a id="art-159"></a>
 ### Art. 159.
 
-1. Do kontroli wszczętych na podstawie ustawy uchylanej w art. 175 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+1. Do kontroli wszczętych na podstawie ustawy uchylanej w [art. 175](#art-175) i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 2. Upoważnienia oraz legitymacje służbowe wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność do czasu zakończenia kontroli, o których mowa w ust. 1.
 
@@ -1367,12 +1517,12 @@ podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat
 
 3. Czynności dokonane w postępowaniach, o których mowa w ust. 1, pozostają skuteczne.
 
-4. Postępowania prowadzone na podstawie rozdziału 6 ustawy uchylanej w art. 175 umarza się. Decyzji o umorzeniu postępowania nie wydaje się.
+4. Postępowania prowadzone na podstawie rozdziału 6 ustawy uchylanej w [art. 175](#art-175) umarza się. Decyzji o umorzeniu postępowania nie wydaje się.
 
 <a id="art-161"></a>
 ### Art. 161.
 
-Podmiot, do którego przed dniem wejścia w życie niniejszej ustawy zostało skierowane wystąpienie lub wniosek, o którym mowa w art. 19a ustawy uchylanej w art. 175, jest obowiązany przekazać Prezesowi Urzędu odpowiedź na wystąpienie lub wniosek w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
+Podmiot, do którego przed dniem wejścia w życie niniejszej ustawy zostało skierowane wystąpienie lub wniosek, o którym mowa w art. 19a ustawy uchylanej w [art. 175](#art-175), jest obowiązany przekazać Prezesowi Urzędu odpowiedź na wystąpienie lub wniosek w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
 <a id="art-162"></a>
 ### Art. 162.
@@ -1394,16 +1544,16 @@ Postępowania w sprawie stanowiska Generalnego Inspektora Ochrony Danych Osobowy
 <a id="art-165"></a>
 ### Art. 165.
 
-Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22a ustawy uchylanej w art. 175 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 47 niniejszej ustawy, jednak nie dłużej niż 12 miesięcy od dnia jej wejścia w życie.
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22a ustawy uchylanej w [art. 175](#art-175) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie [art. 47](#art-47) niniejszej ustawy, jednak nie dłużej niż 12 miesięcy od dnia jej wejścia w życie.
 
 <a id="art-166"></a>
 ### Art. 166.
 
 1. Z dniem wejścia w życie niniejszej ustawy Generalny Inspektor Ochrony Danych Osobowych staje się Prezesem Urzędu.
 
-2. Osoba, która została powołana na stanowisko Generalnego Inspektora Ochrony Danych Osobowych, na podstawie ustawy uchylanej w art. 175, pozostaje na stanowisku do czasu upływu kadencji, na którą została powołana.
+2. Osoba, która została powołana na stanowisko Generalnego Inspektora Ochrony Danych Osobowych, na podstawie ustawy uchylanej w [art. 175](#art-175), pozostaje na stanowisku do czasu upływu kadencji, na którą została powołana.
 
-3. Zastępca Generalnego Inspektora Ochrony Danych Osobowych powołany przed dniem wejścia w życie niniejszej ustawy staje się z dniem wejścia w życie niniejszej ustawy zastępcą Prezesa Urzędu, o którym mowa w art. 36 ust. 1.
+3. Zastępca Generalnego Inspektora Ochrony Danych Osobowych powołany przed dniem wejścia w życie niniejszej ustawy staje się z dniem wejścia w życie niniejszej ustawy zastępcą Prezesa Urzędu, o którym mowa w [art. 36](#art-36) ust. 1.
 
 <a id="art-167"></a>
 ### Art. 167.
@@ -1425,7 +1575,7 @@ Należności i zobowiązania Biura Generalnego Inspektora Ochrony Danych Osobowy
 <a id="art-170"></a>
 ### Art. 170.
 
-W przypadku gdy Generalny Inspektor Ochrony Danych Osobowych do dnia wejścia w życie niniejszej ustawy nie złoży sprawozdania, o którym mowa w art. 20 ustawy uchylanej w art. 175, sprawozdanie składa Prezes Urzędu w terminie do dnia 31 lipca 2018 r.
+W przypadku gdy Generalny Inspektor Ochrony Danych Osobowych do dnia wejścia w życie niniejszej ustawy nie złoży sprawozdania, o którym mowa w art. 20 ustawy uchylanej w [art. 175](#art-175), sprawozdanie składa Prezes Urzędu w terminie do dnia 31 lipca 2018 r.
 
 <a id="art-171"></a>
 ### Art. 171.
@@ -1437,7 +1587,7 @@ W przypadku gdy Generalny Inspektor Ochrony Danych Osobowych do dnia wejścia w 
 <a id="art-172"></a>
 ### Art. 172.
 
-Prezes Urzędu wyda pierwszy komunikat, o którym mowa w art. 54 ust. 1 pkt 1, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+Prezes Urzędu wyda pierwszy komunikat, o którym mowa w [art. 54](#art-54) ust. 1 pkt 1, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 <a id="art-173"></a>
 ### Art. 173.

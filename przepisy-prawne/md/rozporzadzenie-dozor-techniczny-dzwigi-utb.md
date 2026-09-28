@@ -2,6 +2,42 @@
 
 w sprawie warunków technicznych dozoru technicznego w zakresie eksploatacji, napraw i modernizacji urządzeń transportu bliskiego [1)]
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [§ 1.](#par-1)
+  - [§ 2.](#par-2)
+  - [§ 3.](#par-3)
+- [Rozdział 2. Dokumentacja](#rozdzial-2)
+  - [§ 4.](#par-4)
+- [Rozdział 3. Ogólne warunki eksploatacji, modernizacji i napraw UTB](#rozdzial-3)
+  - [§ 5.](#par-5)
+  - [§ 6.](#par-6)
+  - [§ 7.](#par-7)
+  - [§ 8.](#par-8)
+  - [§ 9.](#par-9)
+  - [§ 10.](#par-10)
+  - [§ 11.](#par-11)
+- [Rozdział 4. Rodzaje i zakres badań technicznych](#rozdzial-4)
+  - [§ 12.](#par-12)
+  - [§ 13.](#par-13)
+  - [§ 14.](#par-14)
+  - [§ 15.](#par-15)
+  - [§ 16.](#par-16)
+  - [§ 17.](#par-17)
+  - [§ 18.](#par-18)
+  - [§ 19.](#par-19)
+  - [§ 20.](#par-20)
+  - [§ 21.](#par-21)
+  - [§ 22.](#par-22)
+- [Rozdział 5. Przepisy przejściowe i końcowe](#rozdzial-5)
+  - [§ 23.](#par-23)
+  - [§ 24.](#par-24)
+  - [§ 25.](#par-25)
+- [Załącznik nr 1 - Formy dozoru technicznego utb oraz terminy badań okresowych i doraźnych kontrolnych](#zalacznik-nr-1-formy-dozoru-technicznego-utb-oraz-terminy-badan-okresowych-i-doraznych-kontrolnych)
+- [Załącznik nr 2 - Terminy wykonywania przeglądów konserwacyjnych UTB](#zalacznik-nr-2-terminy-wykonywania-przegladow-konserwacyjnych-utb)
+
 <a id="tresc-rozporzadzenia"></a>
 ## Treść rozporządzenia
 
@@ -71,7 +107,7 @@ Użyte w rozporządzeniu określenia oznaczają:
 <a id="par-3"></a>
 ### § 3.
 
-1. Terminy badań okresowych i doraźnych kontrolnych UTB określa załącznik nr 1 do rozporządzenia.
+1. Terminy badań okresowych i doraźnych kontrolnych UTB określa załącznik nr [1](#zalacznik-nr-1-formy-dozoru-technicznego-utb-oraz-terminy-badan-okresowych-i-doraznych-kontrolnych) do rozporządzenia.
 
 2. W przypadkach uzasadnionych stanem technicznym, mającym wpływ na bezpieczne funkcjonowanie UTB, termin kolejnego badania technicznego UTB może być skrócony na podstawie decyzji organu właściwej jednostki dozoru technicznego.
 
@@ -119,7 +155,7 @@ Użyte w rozporządzeniu określenia oznaczają:
 <a id="par-5"></a>
 ### § 5.
 
-1. UTB eksploatuje się zgodnie z warunkami określonymi w dokumentacji, o której mowa w § 4 ust. 2.
+1. UTB eksploatuje się zgodnie z warunkami określonymi w dokumentacji, o której mowa w [§ 4](#par-4) ust. 2.
 
 2. W przypadku warunków eksploatacji UTB, takich jak:
 
@@ -217,14 +253,14 @@ d) stanu licznika roboczogodzin lub cykli pracy UTB, o ile ma to zastosowanie;
 
 6) bezzwłoczne powiadamianie eksploatującego UTB o nieprawidłowościach, które spowodowały konieczność wyłączenia UTB z eksploatacji, i dokonywanie odpowiednich wpisów w dzienniku konserwacji.
 
-2. W przypadku, o którym mowa w ust. 1 pkt 4, konserwujący może bez uzgodnienia z organem właściwej jednostki dozoru technicznego dokonać wymiany elementów UTB, o ile mają one parametry techniczne i charakterystyki takie jak wymieniane elementy, z wyłączeniem przypadków, o których mowa w § 17 ust. 2 pkt 1.
+2. W przypadku, o którym mowa w ust. 1 pkt 4, konserwujący może bez uzgodnienia z organem właściwej jednostki dozoru technicznego dokonać wymiany elementów UTB, o ile mają one parametry techniczne i charakterystyki takie jak wymieniane elementy, z wyłączeniem przypadków, o których mowa w [§ 17](#par-17) ust. 2 pkt 1.
 
-3. Przeglądy konserwacyjne UTB wykonuje się w terminach określonych w załączniku nr 2 do rozporządzenia, o ile nie zostały one określone w instrukcji eksploatacji.
+3. Przeglądy konserwacyjne UTB wykonuje się w terminach określonych w załączniku nr [2](#zalacznik-nr-2-terminy-wykonywania-przegladow-konserwacyjnych-utb) do rozporządzenia, o ile nie zostały one określone w instrukcji eksploatacji.
 
 <a id="par-10"></a>
 ### § 10.
 
-1. W przypadku zmiany lokalizacji UTB, związanej z demontażem i ponownym montażem UTB, o których mowa w § 18 ust. 1, przed ich uruchomieniem konserwujący dokonuje sprawdzeń zgodnie z instrukcją eksploatacji, a w szczególności:
+1. W przypadku zmiany lokalizacji UTB, związanej z demontażem i ponownym montażem UTB, o których mowa w [§ 18](#par-18) ust. 1, przed ich uruchomieniem konserwujący dokonuje sprawdzeń zgodnie z instrukcją eksploatacji, a w szczególności:
 
 1) sprawdza stan techniczny mechanizmów napędowych, cięgien i ich zamocowań;
 
@@ -280,7 +316,7 @@ c) powypadkowe lub poawaryjne.
 
 2) wykonanie badania nie wymaga przeprowadzania czynności, w których udział konserwującego lub obsługującego jest niezbędny;
 
-3) czynności konserwacyjne były wykonywane zgodnie z wymaganiami, o których mowa w § 9 ust. 1 i 2, i zostały odnotowane w dzienniku konserwacji przez konserwującego.
+3) czynności konserwacyjne były wykonywane zgodnie z wymaganiami, o których mowa w [§ 9](#par-9) ust. 1 i 2, i zostały odnotowane w dzienniku konserwacji przez konserwującego.
 
 <a id="par-14"></a>
 ### § 14.
@@ -295,7 +331,7 @@ c) powypadkowe lub poawaryjne.
 
 4) UTB może być przekazane do bezpiecznej eksploatacji.
 
-2. Przed przystąpieniem do badania odbiorczego w miejscu zainstalowania UTB organ właściwej jednostki dozoru technicznego upewnia się, czy dokumentacja dotycząca UTB jest zgodna z wymaganiami dotyczącymi dokumentacji, o których mowa w § 4.
+2. Przed przystąpieniem do badania odbiorczego w miejscu zainstalowania UTB organ właściwej jednostki dozoru technicznego upewnia się, czy dokumentacja dotycząca UTB jest zgodna z wymaganiami dotyczącymi dokumentacji, o których mowa w [§ 4](#par-4).
 
 3. Zakres badania odbiorczego obejmuje:
 
@@ -330,7 +366,7 @@ c) sposobu zainstalowania i przeznaczenia UTB, zgodnie z instrukcją eksploatacj
 <a id="par-15"></a>
 ### § 15.
 
-1. Po zakończeniu badania odbiorczego jeden egzemplarz dokumentacji, o którym mowa w § 4 ust. 1, dołącza się do księgi rewizyjnej UTB, a drugi egzemplarz pozostaje w aktach organu właściwej jednostki dozoru technicznego.
+1. Po zakończeniu badania odbiorczego jeden egzemplarz dokumentacji, o którym mowa w [§ 4](#par-4) ust. 1, dołącza się do księgi rewizyjnej UTB, a drugi egzemplarz pozostaje w aktach organu właściwej jednostki dozoru technicznego.
 
 2. Egzemplarz dokumentacji dla jednostki dozoru technicznego może być dostarczony w formie elektronicznej.
 
@@ -349,7 +385,7 @@ c) sposobu zainstalowania i przeznaczenia UTB, zgodnie z instrukcją eksploatacj
 
 5) UTB wymaga przeprowadzenia naprawy;
 
-6) zostały przeprowadzone pomiary, o których mowa w § 6 ust. 1.
+6) zostały przeprowadzone pomiary, o których mowa w [§ 6](#par-6) ust. 1.
 
 2. Zakres badania okresowego obejmuje:
 
@@ -357,7 +393,7 @@ c) sposobu zainstalowania i przeznaczenia UTB, zgodnie z instrukcją eksploatacj
 
 a) księgi rewizyjnej i dziennika konserwacji UTB,
 
-b) protokołów pomiarów, o których mowa w § 4 ust. 3 pkt 4,
+b) protokołów pomiarów, o których mowa w [§ 4](#par-4) ust. 3 pkt 4,
 
 c) zaświadczeń kwalifikacyjnych konserwującego lub obsługującego UTB, jeżeli uczestniczą w badaniu;
 
@@ -406,9 +442,9 @@ e) urządzeń zabezpieczających, w szczególności ogranicznika prędkości, ur
 
 2) po naprawie lub modernizacji UTB;
 
-3) po zmianie miejsca pracy UTB wymagającej jego demontażu i ponownego montażu, z zastrzeżeniem § 18;
+3) po zmianie miejsca pracy UTB wymagającej jego demontażu i ponownego montażu, z zastrzeżeniem [§ 18](#par-18);
 
-4) po wykonaniu oceny stanu technicznego UTB po przekroczeniu jego resursu, o którym mowa w § 7 ust. 6.
+4) po wykonaniu oceny stanu technicznego UTB po przekroczeniu jego resursu, o którym mowa w [§ 7](#par-7) ust. 6.
 
 3. Badanie doraźne eksploatacyjne może być przeprowadzone na wniosek eksploatującego w innych przypadkach niż te, o których mowa w ust. 2, po uzgodnieniu z organem właściwej jednostki dozoru technicznego.
 
@@ -416,11 +452,11 @@ e) urządzeń zabezpieczających, w szczególności ogranicznika prędkości, ur
 
 1) sprawdzenie księgi rewizyjnej UTB i dziennika konserwacji,
 
-2) sprawdzenie protokołów pomiarów, o których mowa w § 4 ust. 3 pkt 4,
+2) sprawdzenie protokołów pomiarów, o których mowa w [§ 4](#par-4) ust. 3 pkt 4,
 
 3) sprawdzenie zaświadczeń kwalifikacyjnych konserwującego lub obsługującego UTB, jeżeli uczestniczą w badaniu,
 
-4) sprawdzenie dokumentacji uzupełniającej, o której mowa w § 4 ust. 3,
+4) sprawdzenie dokumentacji uzupełniającej, o której mowa w [§ 4](#par-4) ust. 3,
 
 5) sprawdzenie prawidłowości zainstalowania i przeznaczenia UTB, zgodnie z instrukcją eksploatacji UTB,
 
@@ -452,12 +488,12 @@ e) urządzeń zabezpieczających, w szczególności ogranicznika prędkości, ur
 <a id="par-19"></a>
 ### § 19.
 
-Cel i zakres badania doraźnego kontrolnego odpowiada celowi i zakresowi badania okresowego, o którym mowa w § 16 ust. 1 i 2.
+Cel i zakres badania doraźnego kontrolnego odpowiada celowi i zakresowi badania okresowego, o którym mowa w [§ 16](#par-16) ust. 1 i 2.
 
 <a id="par-20"></a>
 ### § 20.
 
-Dopuszcza się przeprowadzenie prób funkcjonowania UTB, o których mowa w § 14 ust. 3 pkt 3, § 16 ust. 2 pkt 3 i § 17 ust. 4 pkt 6, za pomocą innych równoważnych metod niewymagających wykorzystywania obciążenia.
+Dopuszcza się przeprowadzenie prób funkcjonowania UTB, o których mowa w [§ 14](#par-14) ust. 3 pkt 3, [§ 16](#par-16) ust. 2 pkt 3 i [§ 17](#par-17) ust. 4 pkt 6, za pomocą innych równoważnych metod niewymagających wykorzystywania obciążenia.
 
 <a id="par-21"></a>
 ### § 21.

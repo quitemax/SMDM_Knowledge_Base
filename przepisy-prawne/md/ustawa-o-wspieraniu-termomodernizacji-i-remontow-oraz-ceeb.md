@@ -2,8 +2,93 @@
 
 o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [Art. 1.](#art-1)
+  - [Art. 2.](#art-2)
+- [Rozdział 2. Premia termomodernizacyjna i grant termomodernizacyjny](#rozdzial-2)
+  - [Art. 3.](#art-3)
+  - [Art. 4.](#art-4)
+  - [Art. 5.](#art-5)
+  - [Art. 5a.](#art-5a)
+  - [Art. 5b.](#art-5b)
+- [Rozdział 3. Premia remontowa](#rozdzial-3)
+  - [Art. 6.](#art-6)
+  - [Art. 7.](#art-7)
+  - [Art. 8.](#art-8)
+  - [Art. 9.](#art-9)
+  - [Art. 9a.](#art-9a)
+  - [Art. 9b.](#art-9b)
+- [Rozdział 3a. Premia powodziowa](#rozdzial-3a)
+  - [Art. 9c.](#art-9c)
+  - [Art. 9d.](#art-9d)
+  - [Art. 9e.](#art-9e)
+- [Rozdział 4. Premia kompensacyjna](#rozdzial-4)
+  - [Art. 10.](#art-10)
+  - [Art. 11.](#art-11)
+  - [Art. 11a.](#art-11a)
+- [Rozdział 4a. Przedsięwzięcia niskoemisyjne](#rozdzial-4a)
+  - [Art. 11b.](#art-11b)
+  - [Art. 11c.](#art-11c)
+  - [Art. 11d.](#art-11d)
+  - [Art. 11e.](#art-11e)
+  - [Art. 11f.](#art-11f)
+- [Rozdział 4b. Premia MZG i grant MZG](#rozdzial-4b)
+  - [Art. 11g.](#art-11g)
+  - [Art. 11h.](#art-11h)
+  - [Art. 11i.](#art-11i)
+  - [Art. 11j.](#art-11j)
+  - [Art. 11k.](#art-11k)
+  - [Art. 11l.](#art-11l)
+- [Rozdział 4c. Grant OZE](#rozdzial-4c)
+  - [Art. 11m.](#art-11m)
+  - [Art. 11n.](#art-11n)
+  - [Art. 11o.](#art-11o)
+- [Rozdział 5. Zasady finansowania przedsięwzięć niskoemisyjnych, termomodernizacyjnych i remontowych](#rozdzial-5)
+  - [Art. 12.](#art-12)
+  - [Art. 13.](#art-13)
+  - [Art. 14.](#art-14)
+  - [Art. 15.](#art-15)
+  - [Art. 16.](#art-16)
+  - [Art. 17.](#art-17)
+  - [Art. 18.](#art-18)
+  - [Art. 19.](#art-19)
+  - [Art. 20.](#art-20)
+  - [Art. 21.](#art-21)
+  - [Art. 22.](#art-22)
+  - [Art. 22a.](#art-22a)
+  - [Art. 22b.](#art-22b)
+  - [Art. 22c.](#art-22c)
+  - [Art. 23.](#art-23)
+  - [Art. 24.](#art-24)
+  - [Art. 25.](#art-25)
+  - [Art. 26.](#art-26)
+  - [Art. 27.](#art-27)
+- [Rozdział 5a. Centralna ewidencja emisyjności budynków](#rozdzial-5a)
+  - [Art. 27a.](#art-27a)
+  - [Art. 27b.](#art-27b)
+  - [Art. 27c.](#art-27c)
+  - [Art. 27d.](#art-27d)
+  - [Art. 27e.](#art-27e)
+  - [Art. 27f.](#art-27f)
+  - [Art. 27g.](#art-27g)
+- [Rozdział 5b. Przepis karny](#rozdzial-5b)
+  - [Art. 27h.](#art-27h)
+- [Rozdział 6. Przepisy zmieniające i końcowe](#rozdzial-6)
+  - [Art. 28.](#art-28)
+  - [Art. 29.](#art-29)
+  - [Art. 29a.](#art-29a)
+  - [Art. 30.](#art-30)
+  - [Art. 31.](#art-31)
+  - [Art. 32.](#art-32)
+- [Załącznik do ustawy](#załącznik-do-ustawy)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="art-1"></a>
 ### Art. 1.
 
 Ustawa określa zasady:
@@ -12,6 +97,7 @@ Ustawa określa zasady:
 
 2) funkcjonowania centralnej ewidencji emisyjności budynków.
 
+<a id="art-2"></a>
 ### Art. 2.
 
 Użyte w ustawie określenia oznaczają:
@@ -34,7 +120,7 @@ a) w przypadku kotłów na paliwo stałe lub miejscowych ogrzewaczy pomieszczeń
 
 b) w przypadku pomp ciepła, systemów wentylacji mechanicznej z odzyskiem ciepła oraz urządzeń wykorzystujących: paliwo gazowe lub olejowe, w tym kotłów gazowych i olejowych kondensacyjnych, odnawialne źródła energii w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, ciepło z sieci ciepłowniczej, energię elektryczną, wynikające z przepisów dotyczących efektywności energetycznej, w tym przepisów: – rozporządzenia delegowanego Komisji (UE) nr 626/2011 z dnia 4 maja 2011 r. uzupełniającego dyrektywę 2010/30/UE Parlamentu Europejskiego i Rady w odniesieniu do etykiet efektywności energetycznej dla klimatyzatorów (Dz. Urz. UE L 178 z 06.07.2011, str. 1, z późn. zm.6)), – rozporządzenia delegowanego Komisji (UE) nr 811/2013 z dnia 18 lutego 2013 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla ogrzewaczy pomieszczeń, ogrzewaczy wielofunkcyjnych, zestawów zawierających ogrzewacz pomieszczeń, regulator temperatury i urządzenie słoneczne oraz zestawów zawierających ogrzewacz wielofunkcyjny, regulator temperatury i urządzenie słoneczne (Dz. Urz. UE L 239 z 06.09.2013, str. 1, z późn. zm.6)), – rozporządzenia delegowanego Komisji (UE) nr 812/2013 z dnia 18 lutego 2013 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej dla podgrzewaczy wody, zasobników ciepłej wody użytkowej i zestawów zawierających podgrzewacz wody i urządzenie słoneczne (Dz. Urz. UE L 239 z 06.09.2013, str. 83, z późn. zm.7)), – rozporządzenia delegowanego Komisji (UE) nr 1254/2014 z dnia 11 lipca 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2010/30/UE w odniesieniu do etykiet efektywności energetycznej systemów wentylacyjnych przeznaczonych do budynków mieszkalnych (Dz. Urz. UE L 337 z 25.11.2014, str. 27, z późn. zm.8)), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającego ramy etykietowania energetycznego i uchylającego dyrektywę 2010/30/UE;
 
-1d) gospodarstwo domowe – osobę samotnie zamieszkującą i gospodarującą, która spełnia warunki, o których mowa w art. 11d ust. 1 (gospodarstwo domowe jednoosobowe), albo osobę spełniającą warunki, o których mowa w art. 11d ust. 1, oraz osoby z nią spokrewnione lub niespokrewnione pozostające w faktycznym związku, wspólnie z nią zamieszkujące i gospodarujące (gospodarstwo domowe wieloosobowe);
+1d) gospodarstwo domowe – osobę samotnie zamieszkującą i gospodarującą, która spełnia warunki, o których mowa w [art. 11d](#art-11d) ust. 1 (gospodarstwo domowe jednoosobowe), albo osobę spełniającą warunki, o których mowa w [art. 11d](#art-11d) ust. 1, oraz osoby z nią spokrewnione lub niespokrewnione pozostające w faktycznym związku, wspólnie z nią zamieszkujące i gospodarujące (gospodarstwo domowe wieloosobowe);
 
 2) przedsięwzięcia termomodernizacyjne – przedsięwzięcia, których przedmiotem jest:
 
@@ -74,9 +160,9 @@ b) ciepłownię osiedlową lub grupowy wymiennik ciepła wraz z siecią ciepłow
 
 10) premia – premię termomodernizacyjną, premię remontową oraz premię kompensacyjną;
 
-11) bank kredytujący – instytucję finansową ustawowo upoważnioną do udzielania kredytów, udzielającą kredytu na przedsięwzięcie termomodernizacyjne, przedsięwzięcie remontowe lub remont budynku mieszkalnego jednorodzinnego, który spełnia kryteria określone w art. 10 ust. 1;
+11) bank kredytujący – instytucję finansową ustawowo upoważnioną do udzielania kredytów, udzielającą kredytu na przedsięwzięcie termomodernizacyjne, przedsięwzięcie remontowe lub remont budynku mieszkalnego jednorodzinnego, który spełnia kryteria określone w [art. 10](#art-10) ust. 1;
 
-12) wskaźnik kosztu przedsięwzięcia – stosunek kosztu przedsięwzięcia termomodernizacyjnego, przedsięwzięcia remontowego albo remontu budynku mieszkalnego jednorodzinnego, który spełnia kryteria określone w art. 10 ust. 1, w przeliczeniu na 1 m2 powierzchni użytkowej budynku mieszkalnego, do ceny 1 m2 powierzchni użytkowej budynku mieszkalnego, ostatnio ogłoszonej przez Prezesa Głównego Urzędu Statystycznego na potrzeby obliczania premii gwarancyjnej przed kwartałem złożenia wniosku o przyznanie premii;
+12) wskaźnik kosztu przedsięwzięcia – stosunek kosztu przedsięwzięcia termomodernizacyjnego, przedsięwzięcia remontowego albo remontu budynku mieszkalnego jednorodzinnego, który spełnia kryteria określone w [art. 10](#art-10) ust. 1, w przeliczeniu na 1 m2 powierzchni użytkowej budynku mieszkalnego, do ceny 1 m2 powierzchni użytkowej budynku mieszkalnego, ostatnio ogłoszonej przez Prezesa Głównego Urzędu Statystycznego na potrzeby obliczania premii gwarancyjnej przed kwartałem złożenia wniosku o przyznanie premii;
 
 13) lokal kwaterunkowy – lokal w rozumieniu ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725), którego najem został nawiązany na podstawie decyzji administracyjnej o przydziale lub na podstawie innego tytułu prawnego przed wprowadzeniem w danej miejscowości publicznej gospodarki lokalami albo szczególnego trybu najmu, a czynsz za najem tego lokalu był:
 
@@ -106,13 +192,15 @@ c) ustawowo ograniczony w zakresie możliwości jego podwyższania do 10 % dotyc
 
 23) premia powodziowa – premia na przedsięwzięcie remontowe realizowane w odniesieniu do budynków wielorodzinnych uszkodzonych na skutek powodzi w rozumieniu art. 16 pkt 43 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535 oraz z 2026 r. poz. 445, 605 i 815).
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Premia termomodernizacyjna i grant termomodernizacyjny
 
+<a id="art-3"></a>
 ### Art. 3.
 
 1. Z tytułu realizacji przedsięwzięcia termomodernizacyjnego inwestorowi przysługuje premia na spłatę części kredytu zaciągniętego na przedsięwzięcie termomodernizacyjne, zwana dalej „premią termomodernizacyjną”, jeżeli z audytu energetycznego wynika, że w wyniku przedsięwzięcia termomodernizacyjnego nastąpi:
 
-1) zmniejszenie rocznego zapotrzebowania na energię, o którym mowa w art. 2 pkt 2 lit. a:
+1) zmniejszenie rocznego zapotrzebowania na energię, o którym mowa w [art. 2](#art-2) pkt 2 lit. a:
 
 a) w budynkach, w których modernizuje się wyłącznie system grzewczy – co najmniej o 10 %,
 
@@ -120,20 +208,22 @@ b) (uchylona)
 
 c) w pozostałych budynkach – co najmniej o 25 %, lub
 
-2) zmniejszenie rocznych strat energii, o którym mowa w art. 2 pkt 2 lit. b – co najmniej o 25 %, lub
+2) zmniejszenie rocznych strat energii, o którym mowa w [art. 2](#art-2) pkt 2 lit. b – co najmniej o 25 %, lub
 
-3) zmniejszenie rocznych kosztów pozyskania ciepła, o którym mowa w art. 2 pkt 2 lit. c – co najmniej o 20 %, lub
+3) zmniejszenie rocznych kosztów pozyskania ciepła, o którym mowa w [art. 2](#art-2) pkt 2 lit. c – co najmniej o 20 %, lub
 
 4) zamiana źródła energii na źródło odnawialne lub zastosowanie wysokosprawnej kogeneracji.
 
 2. Premia termomodernizacyjna przysługuje, jeżeli kwota kredytu, o którym mowa w ust. 1, stanowi co najmniej 50 % kosztów przedsięwzięcia termomodernizacyjnego i wynosi niemniej niż wysokość tej premii.
 
-3. Inwestorowi będącemu właścicielem lub zarządcą budynku wielorodzinnego, któremu przyznano grant OZE, w związku z całkowitą lub częściową zamianą źródeł energii na źródła odnawialne, premia termomodernizacyjna przysługuje w związku z realizacją przedsięwzięcia termomodernizacyjnego, o którym mowa w art. 2 pkt 2 lit. d, wyłącznie na zastosowanie wysokosprawnej kogeneracji.
+3. Inwestorowi będącemu właścicielem lub zarządcą budynku wielorodzinnego, któremu przyznano grant OZE, w związku z całkowitą lub częściową zamianą źródeł energii na źródła odnawialne, premia termomodernizacyjna przysługuje w związku z realizacją przedsięwzięcia termomodernizacyjnego, o którym mowa w [art. 2](#art-2) pkt 2 lit. d, wyłącznie na zastosowanie wysokosprawnej kogeneracji.
 
+<a id="art-4"></a>
 ### Art. 4.
 
 Premia termomodernizacyjna nie może być przeznaczona na realizację prac, na które uzyskano inne wsparcie ze środków publicznych, o których mowa w art. 5 ust. 1 pkt 2–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680), zwanych dalej „środkami publicznymi”.
 
+<a id="art-5"></a>
 ### Art. 5.
 
 1. Wysokość premii termomodernizacyjnej stanowi 26 % kosztów przedsięwzięcia termomodernizacyjnego.
@@ -146,6 +236,7 @@ Premia termomodernizacyjna nie może być przeznaczona na realizację prac, na k
 
 3. W przypadku gdy w budynku będącym przedmiotem przedsięwzięcia termomodernizacyjnego znajdują się powierzchnie użytkowe służące celom innym niż mieszkalne lub wykonywaniu zadań publicznych przez organy administracji publicznej, wysokość premii termomodernizacyjnej stanowi iloczyn kwoty tej premii i wskaźnika udziału powierzchni użytkowej służącej celom mieszkalnym i wykonywaniu zadań publicznych przez organy administracji publicznej w powierzchni użytkowej budynku.
 
+<a id="art-5a"></a>
 ### Art. 5a.
 
 1. Inwestorowi realizującemu przedsięwzięcie termomodernizacyjne w przypadku wykonania dodatkowego połączenia warstwy fakturowej z warstwą konstrukcyjną warstwowych ścian zewnętrznych w budynkach wielkopłytowych przysługuje dodatkowe wsparcie w wysokości 50 % kosztów:
@@ -160,6 +251,7 @@ Premia termomodernizacyjna nie może być przeznaczona na realizację prac, na k
 
 3. Dodatkowe wsparcie, o którym mowa w ust. 1, zwiększa premię termomodernizacyjną.
 
+<a id="art-5b"></a>
 ### Art. 5b.
 
 1. W przypadku gdy z audytu energetycznego wynika, że po zrealizowaniu przedsięwzięcia termomodernizacyjnego:
@@ -176,8 +268,10 @@ Premia termomodernizacyjna nie może być przeznaczona na realizację prac, na k
 
 3. Jeżeli w budynku, o którym mowa w ust. 1, jest prowadzona przez inwestora działalność gospodarcza, grant termomodernizacyjny jest udzielany jako pomoc de minimis na zasadach określonych w przepisach Unii Europejskiej.
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Premia remontowa
 
+<a id="art-6"></a>
 ### Art. 6.
 
 1. Przedmiotem przedsięwzięcia remontowego, uprawniającego do ubiegania się o premię remontową, może być wyłącznie budynek wielorodzinny:
@@ -188,6 +282,7 @@ Premia termomodernizacyjna nie może być przeznaczona na realizację prac, na k
 
 2. Spełnienie warunku, o którym mowa w ust. 1, inwestor potwierdza przez złożenie pisemnego oświadczenia.
 
+<a id="art-7"></a>
 ### Art. 7.
 
 1. Inwestorowi przysługuje premia na spłatę części kredytu zaciągniętego na realizację przedsięwzięcia remontowego, zwana dalej „premią remontową”, jeżeli:
@@ -198,7 +293,7 @@ Premia termomodernizacyjna nie może być przeznaczona na realizację prac, na k
 
 1a. Premia remontowa przysługuje, jeżeli kwota kredytu, o którym mowa w ust. 1, stanowi co najmniej 50 % kosztów przedsięwzięcia remontowego.
 
-2. Jeżeli wskaźnik kosztu przedsięwzięcia remontowego przekracza 0,3, warunkiem uzyskania premii remontowej jest zmniejszenie rocznego zapotrzebowania na energię, o którym mowa w art. 2 pkt 2 lit. a, co najmniej o 25 %.
+2. Jeżeli wskaźnik kosztu przedsięwzięcia remontowego przekracza 0,3, warunkiem uzyskania premii remontowej jest zmniejszenie rocznego zapotrzebowania na energię, o którym mowa w [art. 2](#art-2) pkt 2 lit. a, co najmniej o 25 %.
 
 3. Jeżeli dany budynek wielorodzinny był przedmiotem:
 
@@ -218,16 +313,18 @@ Premia termomodernizacyjna nie może być przeznaczona na realizację prac, na k
 
 6. Jeżeli z audytu remontowego budynku wielorodzinnego wynika, że spełnia on wymagania w zakresie oszczędności energii określone w przepisach prawa budowlanego, nie stosuje się warunków określonych w ust. 1 pkt 1 i ust. 2 oraz w ust. 3 pkt 1.
 
+<a id="art-8"></a>
 ### Art. 8.
 
 Premia remontowa nie może być przeznaczona na:
 
-1) remont lokali, z wyjątkiem prac, o których mowa w art. 2 pkt 3 lit. b;
+1) remont lokali, z wyjątkiem prac, o których mowa w [art. 2](#art-2) pkt 3 lit. b;
 
 2) prace prowadzące do zwiększenia powierzchni użytkowej budynku;
 
 3) realizację prac, na które uzyskano inne wsparcie ze środków publicznych.
 
+<a id="art-9"></a>
 ### Art. 9.
 
 1. Wysokość premii remontowej stanowi 25 % kosztów przedsięwzięcia remontowego.
@@ -236,16 +333,20 @@ Premia remontowa nie może być przeznaczona na:
 
 3. Jeżeli w budynku będącym przedmiotem przedsięwzięcia remontowego jest prowadzona przez inwestora działalność gospodarcza, premia remontowa jest udzielana jako pomoc de minimis na zasadach określonych w przepisach Unii Europejskiej.
 
+<a id="art-9a"></a>
 ### Art. 9a.
 
 (uchylony)
 
+<a id="art-9b"></a>
 ### Art. 9b.
 
 (uchylony)
 
+<a id="rozdzial-3a"></a>
 ### Rozdział 3a. Premia powodziowa
 
+<a id="art-9c"></a>
 ### Art. 9c.
 
 1. Inwestorowi, będącemu właścicielem lub zarządcą budynku wielorodzinnego, realizującemu przedsięwzięcie remontowe w budynku wielorodzinnym uszkodzonym na skutek powodzi przysługuje premia powodziowa, jeżeli szkody dotyczące tego budynku oszacowano na poziomie uszkodzeń wynoszących co najmniej 5 % wartości tego budynku, określonej jako iloczyn wskaźnika przeliczeniowego oraz powierzchni budynku pomniejszonej o powierzchnię lokali mieszkalnych lub lokali o innym przeznaczeniu.
@@ -270,11 +371,12 @@ b) zostały utworzone z wykorzystaniem finansowego wsparcia, o którym mowa w ar
 
 7. Premia powodziowa nie może być przeznaczona na realizację prac, na które uzyskano inne wsparcie ze środków publicznych, z wyjątkiem prac, których przedmiotem jest budynek, o którym mowa w ust. 2 pkt 1 lit. a.
 
-8. W przypadku ubiegania się o premię powodziową przez podmiot prowadzący działalność gospodarczą w rozumieniu unijnego prawa konkurencji, premia powodziowa, w części dotyczącej powierzchni budynku wykorzystywanej do prowadzenia przez inwestora tej działalności, stanowi pomoc de minimis na zasadach określonych w przepisach prawa Unii Europejskiej w wysokości stanowiącej różnicę między obliczoną zgodnie z ust. 2 lub 3 wysokością premii powodziowej a wysokością szkód, o których mowa w art. 14 ust. 2 pkt 7.
+8. W przypadku ubiegania się o premię powodziową przez podmiot prowadzący działalność gospodarczą w rozumieniu unijnego prawa konkurencji, premia powodziowa, w części dotyczącej powierzchni budynku wykorzystywanej do prowadzenia przez inwestora tej działalności, stanowi pomoc de minimis na zasadach określonych w przepisach prawa Unii Europejskiej w wysokości stanowiącej różnicę między obliczoną zgodnie z ust. 2 lub 3 wysokością premii powodziowej a wysokością szkód, o których mowa w [art. 14](#art-14) ust. 2 pkt 7.
 
+<a id="art-9d"></a>
 ### Art. 9d.
 
-1. Wniosek o przyznanie premii powodziowej inwestor składa do BGK, w terminie niedłuższym niż rok, licząc od dnia uszkodzenia budynku wielorodzinnego, o którym mowa w art. 9c ust. 1.
+1. Wniosek o przyznanie premii powodziowej inwestor składa do BGK, w terminie niedłuższym niż rok, licząc od dnia uszkodzenia budynku wielorodzinnego, o którym mowa w [art. 9c](#art-9c) ust. 1.
 
 2. Do wniosku o przyznanie premii powodziowej, oprócz składanych w przypadku premii powodziowej udzielanej jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2026 r. poz. 500), dołącza się:
 
@@ -286,11 +388,12 @@ a) premia powodziowa nie jest przeznaczona na realizację prac, na które uzyska
 
 b) wszystkie lokale mieszkalne znajdujące się w budynku wchodzą w skład mieszkaniowego zasobu gminy lub zostały utworzone z wykorzystaniem finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, finansowania zwrotnego, o którym mowa w rozdziale 2a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, lub ze środków zlikwidowanego Krajowego Funduszu Mieszkaniowego, zgodnie z art. 18 pkt 1 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego – w przypadku, o którym mowa w art. 9c ust. 2 pkt 1,
 
-c) budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpisanym do rejestru zabytków – w przypadku, o którym mowa w art. 9c ust. 3.
+c) budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpisanym do rejestru zabytków – w przypadku, o którym mowa w [art. 9c](#art-9c) ust. 3.
 
+<a id="art-9e"></a>
 ### Art. 9e.
 
-1. BGK przyznaje inwestorowi premię powodziową po potwierdzeniu spełnienia warunków, o których mowa w art. 9c.
+1. BGK przyznaje inwestorowi premię powodziową po potwierdzeniu spełnienia warunków, o których mowa w [art. 9c](#art-9c).
 
 2. BGK wypłaca inwestorowi premię powodziową po otrzymaniu oświadczenia inwestora o terminie:
 
@@ -306,8 +409,10 @@ c) budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpis
 
 4. Inwestor zwraca wypłaconą premię powodziową w przypadku niespełnienia warunków, o których mowa w ust. 3, wraz z odsetkami ustawowymi za opóźnienie, w wysokości i na zasadach określonych przepisami prawa cywilnego, liczonymi od dnia jej wypłacenia, na rachunek bankowy wskazany przez BGK.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Premia kompensacyjna
 
+<a id="art-10"></a>
 ### Art. 10.
 
 1. Inwestorowi będącemu osobą fizyczną, który jest właścicielem budynku mieszkalnego z co najmniej jednym lokalem kwaterunkowym albo właścicielem części budynku mieszkalnego i w dniu 25 kwietnia 2005 r. był właścicielem tego budynku mieszkalnego albo tej części budynku mieszkalnego, albo nabył ten budynek albo tę część budynku w drodze spadkobrania od osoby będącej w tym dniu właścicielem – przysługuje premia kompensacyjna.
@@ -322,9 +427,10 @@ c) budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpis
 
 2) remontu budynku mieszkalnego jednorodzinnego – jeżeli dotyczą budynku spełniającego kryteria określone w ust. 1.
 
+<a id="art-11"></a>
 ### Art. 11.
 
-1. W przypadku inwestora, o którym mowa w art. 10 ust. 1, wysokość premii kompensacyjnej przysługującej inwestorowi jest równa iloczynowi wskaźnika kosztu przedsięwzięcia oraz kwoty wynoszącej 2 % wskaźnika przeliczeniowego za każdy 1 m2 powierzchni użytkowej lokalu kwaterunkowego za każdy rok, w którym obowiązywały w stosunku do tego lokalu ograniczenia określone w art. 2 pkt 13, w okresie od dnia 12 listopada 1994 r. do dnia 25 kwietnia 2005 r., a w przypadku nabycia budynku albo części budynku po dniu 12 listopada 1994 r. w sposób inny niż w drodze spadkobrania – od dnia nabycia do dnia 25 kwietnia 2005 r.
+1. W przypadku inwestora, o którym mowa w [art. 10](#art-10) ust. 1, wysokość premii kompensacyjnej przysługującej inwestorowi jest równa iloczynowi wskaźnika kosztu przedsięwzięcia oraz kwoty wynoszącej 2 % wskaźnika przeliczeniowego za każdy 1 m2 powierzchni użytkowej lokalu kwaterunkowego za każdy rok, w którym obowiązywały w stosunku do tego lokalu ograniczenia określone w [art. 2](#art-2) pkt 13, w okresie od dnia 12 listopada 1994 r. do dnia 25 kwietnia 2005 r., a w przypadku nabycia budynku albo części budynku po dniu 12 listopada 1994 r. w sposób inny niż w drodze spadkobrania – od dnia nabycia do dnia 25 kwietnia 2005 r.
 
 2. Jeśli wskaźnik kosztu przedsięwzięcia jest mniejszy od 0,5, to na potrzeby obliczenia wysokości premii kompensacyjnej przyjmuje się, że wskaźnik ten jest równy 0,5.
 
@@ -332,14 +438,17 @@ c) budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpis
 
 4. Wzór służący do obliczania wysokości premii kompensacyjnej określa załącznik do ustawy.
 
+<a id="art-11a"></a>
 ### Art. 11a.
 
-1. W przypadku inwestora, o którym mowa w art. 10 ust. 2, jeżeli co najmniej jeden współwłaściciel nabył tytuł prawny po dniu 12 listopada 1994 r. w sposób inny niż w drodze spadkobrania, wysokość premii kompensacyjnej przysługującej inwestorowi ustala się przyjmując okres od dnia nabycia tytułu prawnego przez współwłaściciela, który tytuł ten nabył najwcześniej, jednak niewcześniej niż od dnia 12 listopada 1994 r.
+1. W przypadku inwestora, o którym mowa w [art. 10](#art-10) ust. 2, jeżeli co najmniej jeden współwłaściciel nabył tytuł prawny po dniu 12 listopada 1994 r. w sposób inny niż w drodze spadkobrania, wysokość premii kompensacyjnej przysługującej inwestorowi ustala się przyjmując okres od dnia nabycia tytułu prawnego przez współwłaściciela, który tytuł ten nabył najwcześniej, jednak niewcześniej niż od dnia 12 listopada 1994 r.
 
-2. W przypadku inwestora, o którym mowa w art. 10 ust. 2, jeżeli suma udziałów we współwłasności jest mniejsza od jedności, wysokość premii kompensacyjnej przysługującej inwestorowi stanowi iloczyn sumy udziałów we współwłasności i kwoty ustalonej zgodnie z art. 11.
+2. W przypadku inwestora, o którym mowa w [art. 10](#art-10) ust. 2, jeżeli suma udziałów we współwłasności jest mniejsza od jedności, wysokość premii kompensacyjnej przysługującej inwestorowi stanowi iloczyn sumy udziałów we współwłasności i kwoty ustalonej zgodnie z [art. 11](#art-11).
 
+<a id="rozdzial-4a"></a>
 ### Rozdział 4a. Przedsięwzięcia niskoemisyjne
 
+<a id="art-11b"></a>
 ### Art. 11b.
 
 1. W celu ograniczenia emisji zanieczyszczeń i poprawy jakości powietrza oraz poprawy efektywności energetycznej budynków w gminie, gmina może realizować przedsięwzięcia niskoemisyjne na rzecz najmniej zamożnych gospodarstw domowych w budynkach mieszkalnych jednorodzinnych, w tym w szczególności tych, których członkami są osoby mające prawo do korzystania ze świadczeń pieniężnych na podstawie ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2026 r. poz. 639).
@@ -364,15 +473,16 @@ c) budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpis
 
 10. Gmina prowadzi działania informacyjne i promocyjne dotyczące przedsięwzięć niskoemisyjnych.
 
-11. Współfinansowanie ze środków Funduszu wynosi niewięcej niż 90 % kosztów realizacji porozumienia, o którym mowa w art. 11c ust. 1.
+11. Współfinansowanie ze środków Funduszu wynosi niewięcej niż 90 % kosztów realizacji porozumienia, o którym mowa w [art. 11c](#art-11c) ust. 1.
 
+<a id="art-11c"></a>
 ### Art. 11c.
 
 1. Przedsięwzięcia niskoemisyjne są współfinansowane ze środków Funduszu na podstawie porozumienia zawieranego w imieniu i na rzecz ministra właściwego do spraw klimatu przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej, zwany dalej „Narodowym Funduszem”, z gminą, jeżeli na jej obszarze obowiązuje uchwała, o której mowa w art. 96 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, oraz gmina zobowiąże się do:
 
 1) realizacji przedsięwzięć niskoemisyjnych w niemniej niż 1 % łącznej liczby budynków mieszkalnych jednorodzinnych na obszarze gminy lub niemniej niż 10 takich budynków oraz niewięcej niż 12 % łącznej liczby takich budynków, z wyłączeniem miast, których liczba mieszkańców przekracza 100 000;
 
-2) wymiany lub likwidacji urządzeń lub systemów grzewczych lub systemów podgrzewających wodę użytkową, o których mowa w art. 2 pkt 1b lit. a–ba, w niemniej niż 80 % budynków mieszkalnych jednorodzinnych, o których mowa w pkt 1;
+2) wymiany lub likwidacji urządzeń lub systemów grzewczych lub systemów podgrzewających wodę użytkową, o których mowa w [art. 2](#art-2) pkt 1b lit. a–ba, w niemniej niż 80 % budynków mieszkalnych jednorodzinnych, o których mowa w pkt 1;
 
 3) zmniejszenia zapotrzebowania na energię dostarczaną na potrzeby ogrzewania budynku mieszkalnego jednorodzinnego i podgrzewania wody użytkowej, liczonego łącznie dla wszystkich przedsięwzięć niskoemisyjnych, o których mowa w pkt 1, na poziomie niemniejszym niż 30 % energii finalnej w rozumieniu art. 2 pkt 7 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2025 r. poz. 711), z wyłączeniem przedsięwzięć niskoemisyjnych, o których mowa w ust. 3a;
 
@@ -424,7 +534,7 @@ b) montażu systemów optymalizujących strumień objętości oraz parametry jak
 
 14) robót budowlanych niezbędnych do realizacji działań, o których mowa w pkt 1–13, w wysokości niewiększej niż 20 % łącznych kosztów przedsięwzięcia niskoemisyjnego;
 
-15) serwisu, konserwacji i ubezpieczenia urządzeń, systemów, instalacji, stanowiących część przedsięwzięć niskoemisyjnych w okresie utrzymania efektów przedsięwzięć niskoemisyjnych, o którym mowa w art. 11e;
+15) serwisu, konserwacji i ubezpieczenia urządzeń, systemów, instalacji, stanowiących część przedsięwzięć niskoemisyjnych w okresie utrzymania efektów przedsięwzięć niskoemisyjnych, o którym mowa w [art. 11e](#art-11e);
 
 16) projektów budowlanych oraz innej dokumentacji niezbędnej do zrealizowania przedsięwzięć niskoemisyjnych;
 
@@ -434,13 +544,13 @@ b) montażu systemów optymalizujących strumień objętości oraz parametry jak
 
 19) opracowania wniosku, o którym mowa w ust. 4, w tym przeprowadzenia inwentaryzacji budynków mieszkalnych jednorodzinnych oraz szacowania zakresu, ilości i kosztów przedsięwzięć niskoemisyjnych, o ile zostały poniesione w okresie do 9 miesięcy przed datą zawarcia porozumienia, o którym mowa w ust. 1;
 
-20) innych działań gminy związanych z przygotowaniem i realizacją przedsięwzięć niskoemisyjnych oraz obsługi porozumienia, w tym w przygotowaniu wniosku i oświadczeń, o których mowa w art. 11d ust. 1, koszty obsługi prawnej, finansowej i technicznej, a także koszty związane z zapewnieniem dostępu beneficjentów do usług doradztwa energetycznego, w łącznej wysokości niewyższej niż 5 % kwoty, o której mowa w ust. 5 pkt 5.
+20) innych działań gminy związanych z przygotowaniem i realizacją przedsięwzięć niskoemisyjnych oraz obsługi porozumienia, w tym w przygotowaniu wniosku i oświadczeń, o których mowa w [art. 11d](#art-11d) ust. 1, koszty obsługi prawnej, finansowej i technicznej, a także koszty związane z zapewnieniem dostępu beneficjentów do usług doradztwa energetycznego, w łącznej wysokości niewyższej niż 5 % kwoty, o której mowa w ust. 5 pkt 5.
 
-3a. W uzasadnionych przypadkach, wynikających w szczególności ze stanu technicznego budynku mieszkalnego jednorodzinnego, w ramach przedsięwzięcia niskoemisyjnego podlegającego współfinansowaniu ze środków Funduszu, gmina może nabywać urządzenia i instalacje, o których mowa w ust. 3 pkt 2, 3, 6 i 13, jako własny środek trwały i w ramach realizacji przedsięwzięcia niskoemisyjnego udostępniać je beneficjentowi, o którym mowa w art. 11d ust. 1, w ramach umowy, o której mowa w art. 11d ust. 2.
+3a. W uzasadnionych przypadkach, wynikających w szczególności ze stanu technicznego budynku mieszkalnego jednorodzinnego, w ramach przedsięwzięcia niskoemisyjnego podlegającego współfinansowaniu ze środków Funduszu, gmina może nabywać urządzenia i instalacje, o których mowa w ust. 3 pkt 2, 3, 6 i 13, jako własny środek trwały i w ramach realizacji przedsięwzięcia niskoemisyjnego udostępniać je beneficjentowi, o którym mowa w [art. 11d](#art-11d) ust. 1, w ramach umowy, o której mowa w [art. 11d](#art-11d) ust. 2.
 
-3b. W przypadku zawarcia umowy, o której mowa w art. 11d ust. 2 w zakresie ust. 3a, nie stosuje się przepisów ust. 1 pkt 3, art. 11d ust. 1 pkt 9 i 10 oraz art. 11f.
+3b. W przypadku zawarcia umowy, o której mowa w [art. 11d](#art-11d) ust. 2 w zakresie ust. 3a, nie stosuje się przepisów ust. 1 pkt 3, [art. 11d](#art-11d) ust. 1 pkt 9 i 10 oraz [art. 11f](#art-11f).
 
-3c. Rada gminy określi w regulaminie, o którym mowa w art. 11d ust. 8, szczegółowe warunki zawierania i realizacji umów mających na celu realizację przedsięwzięć niskoemisyjnych w sposób, o którym mowa w ust. 3a.
+3c. Rada gminy określi w regulaminie, o którym mowa w [art. 11d](#art-11d) ust. 8, szczegółowe warunki zawierania i realizacji umów mających na celu realizację przedsięwzięć niskoemisyjnych w sposób, o którym mowa w ust. 3a.
 
 4. Porozumienie, o którym mowa w ust. 1, jest zawierane na wniosek gminy lub innych podmiotów, o których mowa w ust. 1a, na okres niedłuższy niż:
 
@@ -456,11 +566,11 @@ a) łącznej liczby budynków mieszkalnych jednorodzinnych na obszarze gminy,
 
 b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których istnieją urządzenia lub systemy grzewcze niespełniające standardów niskoemisyjnych;
 
-2) wskazanie liczby przedsięwzięć niskoemisyjnych planowanych do realizacji w ramach porozumienia spełniających warunek, o którym mowa w ust. 1 pkt 1, z uwzględnieniem podziału na rodzaje przedsięwzięć niskoemisyjnych, o których mowa w art. 2 pkt 1b;
+2) wskazanie liczby przedsięwzięć niskoemisyjnych planowanych do realizacji w ramach porozumienia spełniających warunek, o którym mowa w ust. 1 pkt 1, z uwzględnieniem podziału na rodzaje przedsięwzięć niskoemisyjnych, o których mowa w [art. 2](#art-2) pkt 1b;
 
-3) szacowaną liczbę beneficjentów, o których mowa w art. 11d ust. 1;
+3) szacowaną liczbę beneficjentów, o których mowa w [art. 11d](#art-11d) ust. 1;
 
-3a) szacowaną liczbę przedsięwzięć niskoemisyjnych, o których mowa w art. 11d ust. 2a;
+3a) szacowaną liczbę przedsięwzięć niskoemisyjnych, o których mowa w [art. 11d](#art-11d) ust. 2a;
 
 4) szacowane zmniejszenie zapotrzebowania na ciepło grzewcze liczone łącznie dla wszystkich przedsięwzięć niskoemisyjnych objętych porozumieniem;
 
@@ -480,10 +590,11 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 6. Do wniosku, o którym mowa w ust. 4, załącza się kopię umowy, o której mowa w ust. 1b, w przypadku gdy wniosek składa podmiot inny niż gmina, o którym mowa w ust. 1a.
 
-7. Do średniego kosztu realizacji przedsięwzięcia niskoemisyjnego, o którym mowa w ust. 5 pkt 5, nie wlicza się wkładu własnego beneficjenta, o którym mowa w art. 11d ust. 1 pkt 10.
+7. Do średniego kosztu realizacji przedsięwzięcia niskoemisyjnego, o którym mowa w ust. 5 pkt 5, nie wlicza się wkładu własnego beneficjenta, o którym mowa w [art. 11d](#art-11d) ust. 1 pkt 10.
 
-8. Wkład własny beneficjenta, o którym mowa w art. 11d ust. 1 pkt 10, gmina przeznacza w szczególności na pokrycie dodatkowych kosztów związanych z realizacją przedsięwzięć niskoemisyjnych, o których mowa w ust. 1d, lub innych związanych z realizacją działań mających na celu utrzymanie efektów przedsięwzięć niskoemisyjnych.
+8. Wkład własny beneficjenta, o którym mowa w [art. 11d](#art-11d) ust. 1 pkt 10, gmina przeznacza w szczególności na pokrycie dodatkowych kosztów związanych z realizacją przedsięwzięć niskoemisyjnych, o których mowa w ust. 1d, lub innych związanych z realizacją działań mających na celu utrzymanie efektów przedsięwzięć niskoemisyjnych.
 
+<a id="art-11d"></a>
 ### Art. 11d.
 
 1. Gmina może zawrzeć umowę o realizację przedsięwzięcia niskoemisyjnego wyłącznie z osobą, która złożyła wniosek o zawarcie umowy o realizację przedsięwzięcia niskoemisyjnego oraz łącznie spełnia następujące warunki:
@@ -502,7 +613,7 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 7) wyrazi zgodę na udostępnienie budynku, o którym mowa w pkt 1, lub lokalu, o którym mowa w ust. 6, lub nieruchomości, na której znajduje się ten budynek lub lokal, lub ich części, na potrzeby instalacji mikroinstalacji w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub urządzeń służących doprowadzaniu lub odprowadzaniu energii elektrycznej z tej mikroinstalacji, w tym na potrzeby energetyczne gminy lub spółdzielni energetycznych i klastrów energii, o których mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, w których uczestniczy gmina, innych niż będących przedmiotem przedsięwzięcia niskoemisyjnego,
 
-8) wyrazi zgodę na udostępnienie budynku, o którym mowa w pkt 1, lub lokalu, o którym mowa w ust. 6, lub nieruchomości, na której znajduje się ten budynek lub lokal, w celu przeprowadzenia weryfikacji, o której mowa w art. 11e ust. 2,
+8) wyrazi zgodę na udostępnienie budynku, o którym mowa w pkt 1, lub lokalu, o którym mowa w ust. 6, lub nieruchomości, na której znajduje się ten budynek lub lokal, w celu przeprowadzenia weryfikacji, o której mowa w [art. 11e](#art-11e) ust. 2,
 
 9) złoży oświadczenie w formie aktu notarialnego o poddaniu się egzekucji wprost z tego aktu lub podpisze weksel własny in blanco z zastrzeżeniem „bez protestu” wraz z deklaracją wekslową, w przypadku powstania obowiązku zwrotu kosztów przedsięwzięcia niskoemisyjnego,
 
@@ -528,7 +639,7 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 2a. Gmina może realizować przedsięwzięcia niskoemisyjne w budynkach mieszkalnych jednorodzinnych wchodzących w skład mieszkaniowego zasobu gminy.
 
-2b. W przypadku realizacji przedsięwzięcia niskoemisyjnego na podstawie ust. 2a nie stosuje się przepisów ust. 1–2, 5–11 i 13, art. 11e i art. 11f.
+2b. W przypadku realizacji przedsięwzięcia niskoemisyjnego na podstawie ust. 2a nie stosuje się przepisów ust. 1–2, 5–11 i 13, [art. 11e](#art-11e) i [art. 11f](#art-11f).
 
 3. Umowa, o której mowa w ust. 2, zawiera w szczególności:
 
@@ -548,7 +659,7 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 8) zgody, o których mowa w ust. 1 pkt 6–8 i 10, w tym wskazanie części budynku, lokalu lub nieruchomości, na której znajduje się ten budynek lub lokal, lub ich części, na której będzie mogła zostać zainstalowana mikroinstalacja lub urządzenia, o których mowa w ust. 1 pkt 7;
 
-9) datę zakończenia realizacji porozumienia, o którym mowa w art. 11c ust. 1.
+9) datę zakończenia realizacji porozumienia, o którym mowa w [art. 11c](#art-11c) ust. 1.
 
 4. Do zawarcia umowy, o której mowa w ust. 2, oraz wyrażenia zgód, o których mowa w ust. 1 pkt 6–8, nie stosuje się przepisu art. 199 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2026 r. poz. 795).
 
@@ -568,7 +679,7 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 7c. Do ustalania dochodu, o którym mowa w ust. 1 pkt 2, z działalności podlegającej opodatkowaniu na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne stosuje się odpowiednio art. 5 ust. 7a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
 
-7d. Do postępowania wszczętego na podstawie wniosku, o którym mowa w ust. 1, stosuje się odpowiednio art. 23 ust. 2 i 2a, ust. 4 pkt 1 i 3 lit. f, ust. 7, art. 23b ust. 1 pkt 1, 1a, 1b, 2 w zakresie danych, o których mowa w art. 23 ust. 8 pkt 1 lit. a i e, oraz pkt 3, ust. 4 i 5, art. 24a ust. 1 i 2, art. 25 ust. 3–5 i art. 29 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
+7d. Do postępowania wszczętego na podstawie wniosku, o którym mowa w ust. 1, stosuje się odpowiednio [art. 23](#art-23) ust. 2 i 2a, ust. 4 pkt 1 i 3 lit. f, ust. 7, art. 23b ust. 1 pkt 1, 1a, 1b, 2 w zakresie danych, o których mowa w art. 23 ust. 8 pkt 1 lit. a i e, oraz pkt 3, ust. 4 i 5, art. 24a ust. 1 i 2, art. 25 ust. 3–5 i art. 29 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
 
 7e. W celu weryfikacji informacji i danych zawartych w oświadczeniu, o którym mowa w ust. 1 pkt 2, oraz spełnienia warunku, o którym mowa w ust. 1 pkt 5, wójt, burmistrz lub prezydent miasta może:
 
@@ -586,7 +697,7 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 2) tryb zawierania umów i sposób ich rozliczenia;
 
-3) sposób weryfikacji przestrzegania warunków umowy, o której mowa w ust. 2, oraz warunków, o których mowa w art. 11f ust. 3.
+3) sposób weryfikacji przestrzegania warunków umowy, o której mowa w ust. 2, oraz warunków, o których mowa w [art. 11f](#art-11f) ust. 3.
 
 8a. Gmina może ustanowić w regulaminie, o którym mowa w ust. 8:
 
@@ -608,25 +719,27 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 13. Wniosek, o którym mowa w ust. 1, sporządza się zgodnie ze wzorem udostępnionym w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw klimatu.
 
+<a id="art-11e"></a>
 ### Art. 11e.
 
 1. Gmina zapewnia utrzymanie efektów przedsięwzięć niskoemisyjnych przez okres 5 lat od daty zakończenia realizacji porozumienia, w ramach którego zostały zrealizowane.
 
-2. W celu utrzymania efektów przedsięwzięć niskoemisyjnych gmina weryfikuje, co najmniej raz w roku, przez okres 5 lat od daty zakończenia realizacji porozumienia, przestrzeganie warunków umowy, o której mowa w art. 11d ust. 2, oraz warunków, o których mowa w art. 11f ust. 3.
+2. W celu utrzymania efektów przedsięwzięć niskoemisyjnych gmina weryfikuje, co najmniej raz w roku, przez okres 5 lat od daty zakończenia realizacji porozumienia, przestrzeganie warunków umowy, o której mowa w [art. 11d](#art-11d) ust. 2, oraz warunków, o których mowa w [art. 11f](#art-11f) ust. 3.
 
 3. W celu osiągnięcia i utrzymania efektów przedsięwzięć niskoemisyjnych gmina zapewnia beneficjentom dostęp do usług doradztwa energetycznego, w szczególności w zakresie sposobów oszczędnego i ekonomicznego zużycia energii i obniżania kosztów energii w gospodarstwie domowym, użytkowania zainstalowanych w ramach przedsięwzięcia niskoemisyjnego urządzeń i systemów grzewczych w sposób najbardziej efektywny pod względem zużycia energii i ograniczania emisji, występowania o inne wsparcie ze środków publicznych w celu podnoszenia efektywności energetycznej budynku oraz obniżania kosztów energii.
 
+<a id="art-11f"></a>
 ### Art. 11f.
 
-1. Jeżeli przed upływem 5 lat od daty zakończenia realizacji porozumienia beneficjent przeniesie w całości lub w części własność albo udział we współwłasności lub przysługujący mu zakres posiadania samoistnego budynku, o którym mowa w art. 11d ust. 1 pkt 1, lub lokalu, o którym mowa w art. 11d ust. 6, na rzecz osoby trzeciej, niebędącej współwłaścicielem lub współposiadaczem samoistnym tego budynku lub lokalu, zwraca gminie, pomniejszone o wysokość wkładu własnego określoną w umowie, o której mowa w art. 11d ust. 2:
+1. Jeżeli przed upływem 5 lat od daty zakończenia realizacji porozumienia beneficjent przeniesie w całości lub w części własność albo udział we współwłasności lub przysługujący mu zakres posiadania samoistnego budynku, o którym mowa w [art. 11d](#art-11d) ust. 1 pkt 1, lub lokalu, o którym mowa w [art. 11d](#art-11d) ust. 6, na rzecz osoby trzeciej, niebędącej współwłaścicielem lub współposiadaczem samoistnym tego budynku lub lokalu, zwraca gminie, pomniejszone o wysokość wkładu własnego określoną w umowie, o której mowa w [art. 11d](#art-11d) ust. 2:
 
 1) 100 % kosztów realizacji przedsięwzięcia niskoemisyjnego poniesionych przez gminę i Fundusz – jeżeli przeniesienie w całości lub w części własności, udziału we współwłasności lub przysługującego mu zakresu posiadania samoistnego tego budynku lub lokalu nastąpiło przed upływem 3 lat od daty zakończenia realizacji porozumienia;
 
 2) 60 % kosztów realizacji przedsięwzięcia niskoemisyjnego poniesionych przez gminę i Fundusz – jeżeli przeniesienie w całości lub w części własności, udziału we współwłasności lub przysługującego mu zakresu posiadania samoistnego tego budynku lub lokalu nastąpiło po upływie 3 lat, a przed upływem 5 lat od daty zakończenia realizacji porozumienia.
 
-2. Za przeniesienie własności lub udziału we współwłasności budynku, o którym mowa w art. 11d ust. 1 pkt 1, lub lokalu, o którym mowa w art. 11d ust. 6, lub ich części nie uważa się zmiany właściciela lub współwłaściciela wynikającej ze spadkobrania, w tym zapisu windykacyjnego.
+2. Za przeniesienie własności lub udziału we współwłasności budynku, o którym mowa w [art. 11d](#art-11d) ust. 1 pkt 1, lub lokalu, o którym mowa w [art. 11d](#art-11d) ust. 6, lub ich części nie uważa się zmiany właściciela lub współwłaściciela wynikającej ze spadkobrania, w tym zapisu windykacyjnego.
 
-3. Jeżeli przed upływem 5 lat od daty zakończenia realizacji porozumienia w budynku, o którym mowa w art. 11d ust. 1 pkt 1, lub lokalu, o którym mowa w art. 11d ust. 6, lub jego części:
+3. Jeżeli przed upływem 5 lat od daty zakończenia realizacji porozumienia w budynku, o którym mowa w [art. 11d](#art-11d) ust. 1 pkt 1, lub lokalu, o którym mowa w [art. 11d](#art-11d) ust. 6, lub jego części:
 
 1) stosowane będzie jakiekolwiek dodatkowe urządzenie grzewcze na paliwo stałe niespełniające standardów niskoemisyjnych,
 
@@ -636,7 +749,7 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 4) urządzenia lub systemy grzewcze będące przedmiotem przedsięwzięcia niskoemisyjnego będą eksploatowane niezgodnie z instrukcją obsługi oraz przewody kominowe, do których są podłączone te urządzenia lub systemy, nie będą czyszczone przez osoby posiadające uprawnienia kominiarskie, w terminach określonych w przepisach o ochronie przeciwpożarowej oraz w przepisach techniczno-budowlanych – beneficjent zwraca gminie 100 % kosztów realizacji przedsięwzięcia niskoemisyjnego poniesionych przez gminę i Fundusz.
 
-4. W przypadku gdy umowa, o której mowa w art. 11d ust. 2, została zawarta ze wszystkimi współwłaścicielami lub współposiadaczami samoistnymi lub częścią współwłaścicieli lub współposiadaczy samoistnych budynku, o którym mowa w art. 11d ust. 1 pkt 1, lub lokalu, o którym mowa w art. 11d ust. 6, obowiązek zwrotu, o którym mowa w ust. 1, obciąża ich proporcjonalnie do relacji:
+4. W przypadku gdy umowa, o której mowa w [art. 11d](#art-11d) ust. 2, została zawarta ze wszystkimi współwłaścicielami lub współposiadaczami samoistnymi lub częścią współwłaścicieli lub współposiadaczy samoistnych budynku, o którym mowa w [art. 11d](#art-11d) ust. 1 pkt 1, lub lokalu, o którym mowa w [art. 11d](#art-11d) ust. 6, obowiązek zwrotu, o którym mowa w ust. 1, obciąża ich proporcjonalnie do relacji:
 
 1) między wielkościami udziałów współwłaścicieli we współwłasności budynku lub lokalu lub
 
@@ -644,13 +757,13 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 5. Obowiązek zwrotu kosztów realizacji przedsięwzięcia niskoemisyjnego nie powstaje, jeżeli usunięcie lub naruszenie integralności urządzeń, systemów, instalacji lub innych elementów będących przedmiotem przedsięwzięcia niskoemisyjnego spowodowane zostało koniecznością dokonania pilnych prac, których niewykonanie mogło prowadzić do bezpośredniego zagrożenia życia, zdrowia lub szkody majątkowej.
 
-6. Beneficjent zwraca gminie 100 % kosztów realizacji przedsięwzięcia niskoemisyjnego poniesionych przez gminę i Fundusz, jeżeli informacje zawarte przez niego w oświadczeniu, o którym mowa w art. 11d ust. 1 pkt 2, lub przekazane przez niego informacje, o których mowa w art. 11d ust. 1 pkt 1, 5–8, 10 lub 11, okażą się nieprawdziwe.
+6. Beneficjent zwraca gminie 100 % kosztów realizacji przedsięwzięcia niskoemisyjnego poniesionych przez gminę i Fundusz, jeżeli informacje zawarte przez niego w oświadczeniu, o którym mowa w [art. 11d](#art-11d) ust. 1 pkt 2, lub przekazane przez niego informacje, o których mowa w [art. 11d](#art-11d) ust. 1 pkt 1, 5–8, 10 lub 11, okażą się nieprawdziwe.
 
 7. Obowiązek zwrotu kosztów realizacji przedsięwzięcia niskoemisyjnego obciąża solidarnie beneficjentów:
 
 1) w przypadkach, o których mowa w ust. 3;
 
-2) których oświadczenie, o którym mowa w art. 11d ust. 1 pkt 2, lub informacje, o których mowa w art. 11d ust. 1 pkt 1, 5–8, 10 lub 11, okażą się nieprawdziwe.
+2) których oświadczenie, o którym mowa w [art. 11d](#art-11d) ust. 1 pkt 2, lub informacje, o których mowa w [art. 11d](#art-11d) ust. 1 pkt 1, 5–8, 10 lub 11, okażą się nieprawdziwe.
 
 8. Zwrócone przez beneficjenta koszty przedsięwzięcia niskoemisyjnego gmina przekazuje do Funduszu w części, w jakiej koszty te sfinansowane zostały ze środków Funduszu.
 
@@ -658,8 +771,10 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 10. Obowiązek zwrotu kosztów realizacji przedsięwzięcia niskoemisyjnego, o którym mowa w ust. 1, nie powstaje, jeżeli beneficjent przeniesie w całości lub w części własność albo udział we współwłasności lub przysługujący mu zakres posiadania samoistnego budynku na rzecz osoby bliskiej w rozumieniu art. 2 pkt 6 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2025 r. poz. 1653 oraz z 2026 r. poz. 317) i jeżeli ta osoba zobowiąże się w umowie zawieranej z gminą do utrzymania efektów zrealizowanego przedsięwzięcia niskoemisyjnego. Do tej osoby przepisy ust. 3 stosuje się odpowiednio.
 
+<a id="rozdzial-4b"></a>
 ### Rozdział 4b. Premia MZG i grant MZG
 
+<a id="art-11g"></a>
 ### Art. 11g.
 
 1. Inwestorowi realizującemu przedsięwzięcie termomodernizacyjne lub remontowe w mieszkaniowym zasobie gminy przysługuje premia MZG w wysokości 50 % kosztów tego przedsięwzięcia, jeżeli:
@@ -676,6 +791,7 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 3. Warunku, o którym mowa w ust. 1 pkt 4, nie stosuje się w przypadku, o którym mowa w ust. 2, jeżeli z audytu energetycznego lub remontowego wynika, że nie jest możliwe jego spełnienie.
 
+<a id="art-11h"></a>
 ### Art. 11h.
 
 1. W przypadku gdy przed realizacją przedsięwzięcia termomodernizacyjnego lub remontowego lub w jej w ramach w poddawanym temu przedsięwzięciu budynku:
@@ -692,12 +808,14 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 2) zwiększa premię MZG.
 
+<a id="art-11i"></a>
 ### Art. 11i.
 
 1. W przypadku gdy w budynku będącym przedmiotem przedsięwzięcia termomodernizacyjnego lub remontowego znajdują się powierzchnie użytkowe służące celom innym niż mieszkalne lub wykonywaniu zadań publicznych przez organy administracji publicznej, wysokość premii MZG stanowi iloczyn kwoty tej premii i wskaźnika udziału powierzchni użytkowej służącej celom mieszkalnym i wykonywaniu zadań publicznych przez organy administracji publicznej w powierzchni użytkowej budynku.
 
 2. Premia MZG nie może być przeznaczona na realizację prac, na które uzyskano inne wsparcie ze środków publicznych.
 
+<a id="art-11j"></a>
 ### Art. 11j.
 
 1. Wniosek o przyznanie premii MZG oraz wniosek o przyznanie premii MZG wraz z grantem MZG inwestor składa do BGK.
@@ -712,23 +830,24 @@ b) liczby budynków mieszkalnych jednorodzinnych na obszarze gminy, w których i
 
 a) premia MZG nie jest przeznaczona na realizację prac, na które uzyskano inne wsparcie ze środków publicznych,
 
-b) gmina albo gmina wraz z innymi gminami, powiatami lub Skarbem Państwa dysponują ponad 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu – w przypadku gdy inwestorem jest spółka, o której mowa w art. 11g ust. 1 pkt 1,
+b) gmina albo gmina wraz z innymi gminami, powiatami lub Skarbem Państwa dysponują ponad 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu – w przypadku gdy inwestorem jest spółka, o której mowa w [art. 11g](#art-11g) ust. 1 pkt 1,
 
 c) wszystkie lokale mieszkalne znajdujące się w budynku wchodzą w skład mieszkaniowego zasobu gminy,
 
 d) budynek znajduje się na obszarze, na którym obowiązują przepisy wydane na podstawie art. 96 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska,
 
-e) budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpisanym do rejestru zabytków lub przedsięwzięcie termomodernizacyjne lub remontowe realizowane w tym budynku stanowi przedsięwzięcie rewitalizacyjne opisane w gminnym programie rewitalizacji – w przypadku, o którym mowa w art. 11g ust. 2,
+e) budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpisanym do rejestru zabytków lub przedsięwzięcie termomodernizacyjne lub remontowe realizowane w tym budynku stanowi przedsięwzięcie rewitalizacyjne opisane w gminnym programie rewitalizacji – w przypadku, o którym mowa w [art. 11g](#art-11g) ust. 2,
 
 f) przedsięwzięcie nie zostało rozpoczęte;
 
-3) dokumenty poświadczające, że objęte wnioskiem przedsięwzięcie nie wyrządza poważnych szkód dla celów środowiskowych – w przypadku, o którym mowa w art. 11h ust. 1.
+3) dokumenty poświadczające, że objęte wnioskiem przedsięwzięcie nie wyrządza poważnych szkód dla celów środowiskowych – w przypadku, o którym mowa w [art. 11h](#art-11h) ust. 1.
 
+<a id="art-11k"></a>
 ### Art. 11k.
 
-1. BGK przyznaje inwestorowi premię MZG po potwierdzeniu spełnienia warunków, o których mowa w art. 11g.
+1. BGK przyznaje inwestorowi premię MZG po potwierdzeniu spełnienia warunków, o których mowa w [art. 11g](#art-11g).
 
-2. BGK przyznaje inwestorowi grant MZG po potwierdzeniu spełnienia warunków, o których mowa w art. 11h.
+2. BGK przyznaje inwestorowi grant MZG po potwierdzeniu spełnienia warunków, o których mowa w [art. 11h](#art-11h).
 
 3. BGK wypłaca inwestorowi premię MZG po otrzymaniu oświadczenia inwestora o terminie:
 
@@ -746,15 +865,18 @@ f) przedsięwzięcie nie zostało rozpoczęte;
 
 6. BGK wypłaca inwestorowi grant MZG w przypadku spełniania warunków, o których mowa w ust. 4.
 
+<a id="art-11l"></a>
 ### Art. 11l.
 
-Do premii MZG przepisy art. 16 i art. 17 ust. 1 i 2 stosuje się odpowiednio.
+Do premii MZG przepisy [art. 16](#art-16) i [art. 17](#art-17) ust. 1 i 2 stosuje się odpowiednio.
 
+<a id="rozdzial-4c"></a>
 ### Rozdział 4c. Grant OZE
 
+<a id="art-11m"></a>
 ### Art. 11m.
 
-1. Inwestorowi realizującemu przedsięwzięcie polegające na czynnościach, o których mowa w art. 2 pkt 19, przysługuje grant OZE, na pokrycie 50 % tego przedsięwzięcia, jeżeli:
+1. Inwestorowi realizującemu przedsięwzięcie polegające na czynnościach, o których mowa w [art. 2](#art-2) pkt 19, przysługuje grant OZE, na pokrycie 50 % tego przedsięwzięcia, jeżeli:
 
 1) inwestorem jest właściciel lub zarządca budynku wielorodzinnego;
 
@@ -778,6 +900,7 @@ b) modernizacja instalacji odnawialnego źródła energii, w wyniku której zain
 
 6. Jeżeli w budynku, o którym mowa w ust. 3, jest prowadzona przez inwestora działalność gospodarcza, grant OZE jest udzielany jako pomoc de minimis na zasadach określonych w przepisach Unii Europejskiej.
 
+<a id="art-11n"></a>
 ### Art. 11n.
 
 1. Wniosek o przyznanie grantu OZE inwestor składa do BGK do dnia 30 czerwca 2026 r.
@@ -810,18 +933,21 @@ e) termin zakończenia inwestycji.
 
 4) (uchylony)
 
+<a id="art-11o"></a>
 ### Art. 11o.
 
 1. BGK wypłaca grant OZE inwestorowi:
 
-1) po poniesieniu przez inwestora wydatków zgodnie z zakresem rzeczowym podanym we wniosku, o którym mowa w art. 11n ust. 1;
+1) po poniesieniu przez inwestora wydatków zgodnie z zakresem rzeczowym podanym we wniosku, o którym mowa w [art. 11n](#art-11n) ust. 1;
 
 2) po przedstawieniu przez inwestora oświadczenia o posiadaniu gwarancji udzielonej przez wykonawcę na zrealizowane roboty budowlane i instalacyjne, obejmującej co najmniej pięcioletni, bezawaryjny okres eksploatacji instalacji.
 
 2. Wysokość wydatków, o których mowa w ust. 1 pkt 1, ustala się na podstawie faktur w rozumieniu art. 2 pkt 31 lub 32 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług wskazujących jako nabywcę lub usługobiorcę inwestora, o którym mowa w art. 11m ust. 1.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Zasady finansowania przedsięwzięć niskoemisyjnych, termomodernizacyjnych i remontowych
 
+<a id="art-12"></a>
 ### Art. 12.
 
 1. Premie, premię MZG oraz premię powodziową przyznaje BGK ze środków Funduszu.
@@ -834,10 +960,11 @@ e) termin zakończenia inwestycji.
 
 3. Bank kredytujący, przekazując BGK wniosek, o którym mowa w ust. 2, dołącza do niego umowę kredytu zawartą pod warunkiem przyznania premii.
 
-4. W przypadku zamiaru realizacji przedsięwzięcia lub remontu, określonego w art. 10 ust. 4, w całości z innych środków niż kredyt, w związku z którym przyznana została premia termomodernizacyjna lub premia remontowa, inwestor składa wniosek o przyznanie premii kompensacyjnej bezpośrednio do BGK.
+4. W przypadku zamiaru realizacji przedsięwzięcia lub remontu, określonego w [art. 10](#art-10) ust. 4, w całości z innych środków niż kredyt, w związku z którym przyznana została premia termomodernizacyjna lub premia remontowa, inwestor składa wniosek o przyznanie premii kompensacyjnej bezpośrednio do BGK.
 
-5. W przypadku, o którym mowa w ust. 4, nie stosuje się warunków określonych w art. 7 ust. 1 pkt 1, ust. 2 i ust. 3 pkt 1.
+5. W przypadku, o którym mowa w ust. 4, nie stosuje się warunków określonych w [art. 7](#art-7) ust. 1 pkt 1, ust. 2 i ust. 3 pkt 1.
 
+<a id="art-13"></a>
 ### Art. 13.
 
 1. Do wniosku o przyznanie premii termomodernizacyjnej dołącza się:
@@ -846,7 +973,7 @@ e) termin zakończenia inwestycji.
 
 2) oświadczenie inwestora, że premia termomodernizacyjna nie jest przeznaczona na realizację prac, na które uzyskano inne wsparcie ze środków publicznych;
 
-3) informację o kosztach, o których mowa w art. 5a ust. 1, oraz dokumentację techniczną doboru i rozmieszczenia kotew – w przypadku wykonywania wraz z przedsięwzięciem termomodernizacyjnym robót polegających na wykonaniu dodatkowego połączenia warstwy fakturowej z warstwą konstrukcyjną warstwowych ścian zewnętrznych w budynkach wielkopłytowych.
+3) informację o kosztach, o których mowa w [art. 5a](#art-5a) ust. 1, oraz dokumentację techniczną doboru i rozmieszczenia kotew – w przypadku wykonywania wraz z przedsięwzięciem termomodernizacyjnym robót polegających na wykonaniu dodatkowego połączenia warstwy fakturowej z warstwą konstrukcyjną warstwowych ścian zewnętrznych w budynkach wielkopłytowych.
 
 1a. W przypadku wniosku o przyznanie premii termomodernizacyjnej wraz z grantem termomodernizacyjnym do wniosku, oprócz składanych w przypadku grantu termomodernizacyjnego udzielanego jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dołącza się dokumenty poświadczające:
 
@@ -870,6 +997,7 @@ b) inwestora, w tym dla osoby fizycznej imię i nazwisko, adres do korespondencj
 
 4) wskazanie optymalnego wariantu przedsięwzięcia termomodernizacyjnego.
 
+<a id="art-14"></a>
 ### Art. 14.
 
 1. Do wniosku o przyznanie premii remontowej, oprócz składanych w przypadku premii remontowej udzielanej jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dołącza się:
@@ -894,7 +1022,7 @@ b) inwestora, w tym dla osoby fizycznej imię i nazwisko, adres do korespondencj
 
 2) kalkulację wartości wskaźnika E, określającego obliczeniowe zapotrzebowanie na energię końcową (ciepło) do ogrzewania budynku w sezonie grzewczym;
 
-3) wskazanie rzeczowego zakresu prac niezbędnych do spełnienia warunku, o którym mowa w art. 7 ust. 1 pkt 1 lub ust. 2;
+3) wskazanie rzeczowego zakresu prac niezbędnych do spełnienia warunku, o którym mowa w [art. 7](#art-7) ust. 1 pkt 1 lub ust. 2;
 
 4) plan robót remontowych, o którym mowa w przepisach określających warunki użytkowania budynków mieszkalnych;
 
@@ -902,8 +1030,9 @@ b) inwestora, w tym dla osoby fizycznej imię i nazwisko, adres do korespondencj
 
 6) dokumenty określające szacowany koszt przedsięwzięcia;
 
-7) oszacowanie szkód na skutek powodzi na poziomie uszkodzeń wynoszącym co najmniej 5 % wartości budynku wielorodzinnego, o której mowa w art. 9c ust. 1, oraz dokumenty potwierdzające datę uszkodzenia budynku wielorodzinnego na skutek powodzi – w przypadku, o którym mowa w art. 9c.
+7) oszacowanie szkód na skutek powodzi na poziomie uszkodzeń wynoszącym co najmniej 5 % wartości budynku wielorodzinnego, o której mowa w [art. 9c](#art-9c) ust. 1, oraz dokumenty potwierdzające datę uszkodzenia budynku wielorodzinnego na skutek powodzi – w przypadku, o którym mowa w [art. 9c](#art-9c).
 
+<a id="art-15"></a>
 ### Art. 15.
 
 1. Wniosek o przyznanie premii kompensacyjnej składa się wraz z wnioskiem o przyznanie premii remontowej, z zastrzeżeniem ust. 4.
@@ -914,12 +1043,13 @@ b) inwestora, w tym dla osoby fizycznej imię i nazwisko, adres do korespondencj
 
 2) imię i nazwisko inwestora, adres do korespondencji i numer PESEL, a w przypadku cudzoziemca nazwę i numer dokumentu tożsamości;
 
-3) informacje o lokalach kwaterunkowych, ich powierzchni użytkowej i okresach, w jakich ich wynajem podlegał ograniczeniom, o których mowa w art. 2 pkt 13, w zakresie, w jakim wymagane są do obliczenia wysokości premii kompensacyjnej zgodnie z art. 11 i 11a.
+3) informacje o lokalach kwaterunkowych, ich powierzchni użytkowej i okresach, w jakich ich wynajem podlegał ograniczeniom, o których mowa w [art. 2](#art-2) pkt 13, w zakresie, w jakim wymagane są do obliczenia wysokości premii kompensacyjnej zgodnie z [art. 11](#art-11) i 11a.
 
-3. Do wniosku o przyznanie premii kompensacyjnej dołącza się dokumenty lub kopie dokumentów potwierdzających informacje, o których mowa w ust. 2 pkt 3, oraz dokumenty lub kopie dokumentów potwierdzające, że są spełnione warunki, o których mowa w art. 10 ust. 1 lub 2.
+3. Do wniosku o przyznanie premii kompensacyjnej dołącza się dokumenty lub kopie dokumentów potwierdzających informacje, o których mowa w ust. 2 pkt 3, oraz dokumenty lub kopie dokumentów potwierdzające, że są spełnione warunki, o których mowa w [art. 10](#art-10) ust. 1 lub 2.
 
-4. W przypadku, o którym mowa w art. 12 ust. 4, we wniosku o przyznanie premii kompensacyjnej inwestor podaje zakres rzeczowy i szacowane koszty, o których mowa w art. 10 ust. 4.
+4. W przypadku, o którym mowa w [art. 12](#art-12) ust. 4, we wniosku o przyznanie premii kompensacyjnej inwestor podaje zakres rzeczowy i szacowane koszty, o których mowa w [art. 10](#art-10) ust. 4.
 
+<a id="art-16"></a>
 ### Art. 16.
 
 1. BGK przyznaje premie, premię MZG oraz premię powodziową w granicach wolnych środków Funduszu w ramach limitów premii każdego rodzaju określonych w planie finansowym Funduszu.
@@ -932,6 +1062,7 @@ b) inwestora, w tym dla osoby fizycznej imię i nazwisko, adres do korespondencj
 
 3. BGK ogłasza informacje, o których mowa w ust. 2 pkt 1, w Biuletynie Informacji Publicznej.
 
+<a id="art-17"></a>
 ### Art. 17.
 
 1. BGK rozpatruje wnioski o premie według kolejności, w jakiej do niego wpłynęły.
@@ -962,12 +1093,14 @@ c) grantu OZE, BGK zawiadamia inwestora o przyznaniu tego grantu – oraz o wyso
 
 5. W przypadku zmiany umowy kredytu dotyczącej zakresu przedsięwzięcia lub kwoty kredytu, niezbędne jest ponowne złożenie wniosku o premię, z wyjątkiem przypadku, gdy zmiana umowy kredytu dotyczy wyłącznie kwoty kredytu i następuje przed podjęciem przez BGK decyzji o przyznaniu premii.
 
+<a id="art-18"></a>
 ### Art. 18.
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, szczegółowy zakres i formy audytu energetycznego oraz audytu remontowego w części określonej w art. 14 ust. 2 pkt 2 i 3, a także algorytm oceny opłacalności przedsięwzięcia termomodernizacyjnego oraz wzory kart audytu energetycznego i audytu remontowego w części określonej w art. 14 ust. 2 pkt 2 i 3, mając na uwadze zapewnienie wyboru optymalnych wariantów przedsięwzięć oraz poprawności wykonywania audytów.
+1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, szczegółowy zakres i formy audytu energetycznego oraz audytu remontowego w części określonej w [art. 14](#art-14) ust. 2 pkt 2 i 3, a także algorytm oceny opłacalności przedsięwzięcia termomodernizacyjnego oraz wzory kart audytu energetycznego i audytu remontowego w części określonej w [art. 14](#art-14) ust. 2 pkt 2 i 3, mając na uwadze zapewnienie wyboru optymalnych wariantów przedsięwzięć oraz poprawności wykonywania audytów.
 
-2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, szczegółowy sposób i tryb weryfikacji audytu energetycznego oraz audytu remontowego w części określonej w art. 14 ust. 2 pkt 2 i 3, a także szczegółowe warunki, jakie powinny spełniać podmioty, którym BGK może zlecać wykonanie weryfikacji takich audytów, mając na względzie zapewnienie sprawnej i prawidłowej weryfikacji audytów.
+2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, szczegółowy sposób i tryb weryfikacji audytu energetycznego oraz audytu remontowego w części określonej w [art. 14](#art-14) ust. 2 pkt 2 i 3, a także szczegółowe warunki, jakie powinny spełniać podmioty, którym BGK może zlecać wykonanie weryfikacji takich audytów, mając na względzie zapewnienie sprawnej i prawidłowej weryfikacji audytów.
 
+<a id="art-19"></a>
 ### Art. 19.
 
 1. Z zastrzeżeniem ust. 3, BGK przekazuje premię bankowi kredytującemu, jeżeli przedsięwzięcie zostało:
@@ -980,16 +1113,18 @@ c) grantu OZE, BGK zawiadamia inwestora o przyznaniu tego grantu – oraz o wyso
 
 3. BGK przekazuje premię kompensacyjną po wykorzystaniu kwoty kredytu w wysokości nieniższej niż wysokość przyznanej premii kompensacyjnej.
 
-4. W przypadku, o którym mowa w art. 12 ust. 4, BGK przekazuje premię kompensacyjną inwestorowi w niewięcej niż 4 transzach, z tym że wysokość ostatniej transzy nie może być niższa niż 25 % kwoty przyznanej premii kompensacyjnej, po poniesieniu wydatków zgodnie z zakresem rzeczowym podanym we wniosku, o którym mowa w art. 15 ust. 4.
+4. W przypadku, o którym mowa w [art. 12](#art-12) ust. 4, BGK przekazuje premię kompensacyjną inwestorowi w niewięcej niż 4 transzach, z tym że wysokość ostatniej transzy nie może być niższa niż 25 % kwoty przyznanej premii kompensacyjnej, po poniesieniu wydatków zgodnie z zakresem rzeczowym podanym we wniosku, o którym mowa w [art. 15](#art-15) ust. 4.
 
 5. Wysokość wydatków, o których mowa w ust. 4, ustala się na podstawie faktur w rozumieniu art. 2 pkt 31 lub 32 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług wskazujących jako nabywcę lub usługobiorcę inwestora, o którym mowa w art. 10 ust. 1 lub 2.
 
-6. Łączna wysokość wydatków poniesionych zgodnie z zakresem rzeczowym podanym we wniosku, o którym mowa w art. 15 ust. 4, nie może być niższa niż wysokość przyznanej premii kompensacyjnej.
+6. Łączna wysokość wydatków poniesionych zgodnie z zakresem rzeczowym podanym we wniosku, o którym mowa w [art. 15](#art-15) ust. 4, nie może być niższa niż wysokość przyznanej premii kompensacyjnej.
 
+<a id="art-20"></a>
 ### Art. 20.
 
 BGK prowadzi w formie elektronicznych baz danych rejestr budynków, w odniesieniu do których zostały przyznane premia, premia MZG, premia powodziowa, grant termomodernizacyjny, grant MZG i grant OZE, oraz rejestr przyznanych i wypłaconych w ramach tych instrumentów środków, z uwzględnieniem potrzeb związanych ze stwierdzeniem, że zostały spełnione warunki ich przyznania.
 
+<a id="art-21"></a>
 ### Art. 21.
 
 1. Z tytułu przyznania premii i premii MZG, BGK otrzymuje od inwestora wynagrodzenie prowizyjne równe 0,6 % kwoty przyznanych środków.
@@ -998,41 +1133,44 @@ BGK prowadzi w formie elektronicznych baz danych rejestr budynków, w odniesieni
 
 2. Bank kredytujący pobiera wynagrodzenie, o którym mowa w ust. 1, w dniu uruchomienia pierwszej transzy udzielonego kredytu i przekazuje je na rachunek wskazany przez BGK.
 
-3. W przypadku, o którym mowa w art. 12 ust. 4, BGK potrąca należne mu wynagrodzenie prowizyjne z kwoty pierwszej transzy premii kompensacyjnej przekazywanej inwestorowi.
+3. W przypadku, o którym mowa w [art. 12](#art-12) ust. 4, BGK potrąca należne mu wynagrodzenie prowizyjne z kwoty pierwszej transzy premii kompensacyjnej przekazywanej inwestorowi.
 
 4. W przypadku premii MZG, BGK potrąca należne wynagrodzenie prowizyjne z kwoty przekazywanych inwestorowi środków.
 
+<a id="art-22"></a>
 ### Art. 22.
 
 Zasady współpracy BGK z bankiem kredytującym w zakresie trybu i terminów rozliczeń z tytułu przekazywania premii określa umowa.
 
+<a id="art-22a"></a>
 ### Art. 22a.
 
-1. Narodowy Fundusz rozpatruje wniosek, o którym mowa w art. 11c ust. 4, w terminie 30 dni od dnia jego złożenia. Do terminu rozpatrzenia wniosku nie wlicza się okresów opóźnień spowodowanych z winy gminy lub z innych przyczyn niezależnych od Narodowego Funduszu.
+1. Narodowy Fundusz rozpatruje wniosek, o którym mowa w [art. 11c](#art-11c) ust. 4, w terminie 30 dni od dnia jego złożenia. Do terminu rozpatrzenia wniosku nie wlicza się okresów opóźnień spowodowanych z winy gminy lub z innych przyczyn niezależnych od Narodowego Funduszu.
 
-2. W przypadku stwierdzenia braków formalnych wniosku, o którym mowa w art. 11c ust. 4, lub dokumentów niezbędnych do jego rozpatrzenia Narodowy Fundusz wzywa gminę do uzupełnienia tych braków w wyznaczonym terminie. Jeżeli gmina nie uzupełni braków w wyznaczonym terminie, Narodowy Fundusz pozostawia wniosek bez rozpoznania.
+2. W przypadku stwierdzenia braków formalnych wniosku, o którym mowa w [art. 11c](#art-11c) ust. 4, lub dokumentów niezbędnych do jego rozpatrzenia Narodowy Fundusz wzywa gminę do uzupełnienia tych braków w wyznaczonym terminie. Jeżeli gmina nie uzupełni braków w wyznaczonym terminie, Narodowy Fundusz pozostawia wniosek bez rozpoznania.
 
-3. Narodowy Fundusz, rozpatrując wniosek, o którym mowa w art. 11c ust. 4, bierze pod uwagę:
+3. Narodowy Fundusz, rozpatrując wniosek, o którym mowa w [art. 11c](#art-11c) ust. 4, bierze pod uwagę:
 
 1) dostępne środki finansowe na realizację przedsięwzięć niskoemisyjnych;
 
-2) spełnienie przez gminę warunków, o których mowa w art. 11c ust. 1;
+2) spełnienie przez gminę warunków, o których mowa w [art. 11c](#art-11c) ust. 1;
 
 3) informacje o stopniu zanieczyszczenia powietrza w gminie oraz liczbę mieszkańców na jej obszarze;
 
 4) spodziewane korzyści z realizacji przedsięwzięć niskoemisyjnych objętych wnioskiem w stosunku do kosztów realizacji tych przedsięwzięć;
 
-5) zdolność organizacyjną gminy do realizacji porozumienia, o którym mowa w art. 11c ust. 1.
+5) zdolność organizacyjną gminy do realizacji porozumienia, o którym mowa w [art. 11c](#art-11c) ust. 1.
 
-4. Narodowy Fundusz informuje gminę, w formie pisemnej, o sposobie rozpatrzenia wniosku, o którym mowa w art. 11c ust. 4. W przypadku negatywnego rozpatrzenia wniosku do tej informacji dołącza się uzasadnienie.
+4. Narodowy Fundusz informuje gminę, w formie pisemnej, o sposobie rozpatrzenia wniosku, o którym mowa w [art. 11c](#art-11c) ust. 4. W przypadku negatywnego rozpatrzenia wniosku do tej informacji dołącza się uzasadnienie.
 
 5. Do postępowania w sprawie zawarcia porozumienia, o którym mowa w art. 11c ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
+<a id="art-22b"></a>
 ### Art. 22b.
 
-1. Porozumienie, o którym mowa w art. 11c ust. 1, zawiera w szczególności:
+1. Porozumienie, o którym mowa w [art. 11c](#art-11c) ust. 1, zawiera w szczególności:
 
-1) liczbę przedsięwzięć niskoemisyjnych planowanych do realizacji w ramach danego porozumienia, z uwzględnieniem podziału na rodzaje przedsięwzięć niskoemisyjnych, o których mowa w art. 2 pkt 1b;
+1) liczbę przedsięwzięć niskoemisyjnych planowanych do realizacji w ramach danego porozumienia, z uwzględnieniem podziału na rodzaje przedsięwzięć niskoemisyjnych, o których mowa w [art. 2](#art-2) pkt 1b;
 
 2) szacowaną liczbę beneficjentów objętych porozumieniem;
 
@@ -1062,25 +1200,26 @@ b) kosztów realizacji porozumienia, do których pokrycia zobowiązała się gmi
 
 13) zobowiązanie gminy do wprowadzenia do rejestru danych, pozyskanych w związku z realizacją przedsięwzięć niskoemisyjnych, o wykorzystywanych wyrobach zawierających azbest;
 
-14) datę zakończenia realizacji porozumienia, niepóźniejszą jednak niż terminy, o których mowa w art. 11c ust. 4.
+14) datę zakończenia realizacji porozumienia, niepóźniejszą jednak niż terminy, o których mowa w [art. 11c](#art-11c) ust. 4.
 
-2. Porozumienie, o którym mowa w art. 11c ust. 1, Narodowy Fundusz, minister właściwy do spraw klimatu oraz gmina przechowują przez okres niekrótszy niż 5 lat od daty zakończenia realizacji porozumienia.
+2. Porozumienie, o którym mowa w [art. 11c](#art-11c) ust. 1, Narodowy Fundusz, minister właściwy do spraw klimatu oraz gmina przechowują przez okres niekrótszy niż 5 lat od daty zakończenia realizacji porozumienia.
 
+<a id="art-22c"></a>
 ### Art. 22c.
 
-1. Po zawarciu porozumienia, o którym mowa w art. 11c ust. 1, Narodowy Fundusz:
+1. Po zawarciu porozumienia, o którym mowa w [art. 11c](#art-11c) ust. 1, Narodowy Fundusz:
 
 1) przekazuje ministrowi właściwemu do spraw klimatu oraz BGK po jednym egzemplarzu porozumienia;
 
-2) występuje z wnioskiem o wypłatę gminie, ze środków Funduszu, kwoty określonej w porozumieniu, o którym mowa w art. 11c ust. 1, w terminach w nim określonych.
+2) występuje z wnioskiem o wypłatę gminie, ze środków Funduszu, kwoty określonej w porozumieniu, o którym mowa w [art. 11c](#art-11c) ust. 1, w terminach w nim określonych.
 
-2. BGK wypłaca kwotę, o której mowa w ust. 1 pkt 2, na rachunek bankowy gminy wskazany w porozumieniu, o którym mowa w art. 11c ust. 1.
+2. BGK wypłaca kwotę, o której mowa w ust. 1 pkt 2, na rachunek bankowy gminy wskazany w porozumieniu, o którym mowa w [art. 11c](#art-11c) ust. 1.
 
 3. Środki, o których mowa w ust. 1 pkt 2, podlegają zwrotowi do Funduszu w terminie 15 dni od dnia:
 
 1) zakończenia realizacji porozumienia – w przypadku ich niewykorzystania w terminie, na który jest ono zawierane;
 
-2) zwrócenia ich przez beneficjenta w związku z zaistnieniem okoliczności, o których mowa w art. 11f ust. 1, 3 i 6;
+2) zwrócenia ich przez beneficjenta w związku z zaistnieniem okoliczności, o których mowa w [art. 11f](#art-11f) ust. 1, 3 i 6;
 
 3) stwierdzenia wykorzystania ich niezgodnie z przeznaczeniem, pobrania nienależnie lub w nadmiernej wysokości, wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, naliczonymi od dnia wypłacenia tych środków gminie zgodnie z ust. 2 do dnia ich zwrotu.
 
@@ -1096,20 +1235,22 @@ b) kosztów realizacji porozumienia, do których pokrycia zobowiązała się gmi
 
 5c. Do egzekucji środków, o których mowa w ust. 1 pkt 2, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
-6. Warunki i tryb współpracy ministra właściwego do spraw klimatu, BGK i Narodowego Funduszu w zakresie współfinansowania przedsięwzięć niskoemisyjnych ze środków Funduszu, w tym sposób pokrycia kosztów, o których mowa w art. 25 ust. 1 pkt 2a, określa odrębne porozumienie.
+6. Warunki i tryb współpracy ministra właściwego do spraw klimatu, BGK i Narodowego Funduszu w zakresie współfinansowania przedsięwzięć niskoemisyjnych ze środków Funduszu, w tym sposób pokrycia kosztów, o których mowa w [art. 25](#art-25) ust. 1 pkt 2a, określa odrębne porozumienie.
 
 7. Środki przekazane gminie na realizację przedsięwzięć niskoemisyjnych na podstawie porozumienia, o którym mowa w art. 11c ust. 1, stanowią dochody gminy, w rozumieniu art. 3 ust. 3 pkt 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717 oraz z 2025 r. poz. 1659).
 
 8. Minister właściwy do spraw klimatu zapewnia przekazywanie środków budżetu państwa na realizację przedsięwzięć niskoemisyjnych do Funduszu.
 
+<a id="art-23"></a>
 ### Art. 23.
 
 1. W BGK tworzy się Fundusz Termomodernizacji i Remontów.
 
-2. Fundusz przejmuje aktywa i zobowiązania Funduszu Termomodernizacji, utworzonego na podstawie ustawy, o której mowa w art. 30.
+2. Fundusz przejmuje aktywa i zobowiązania Funduszu Termomodernizacji, utworzonego na podstawie ustawy, o której mowa w [art. 30](#art-30).
 
 3. Minister właściwy do spraw Skarbu Państwa, dostosuje statut BGK do przepisów ustawy, biorąc pod uwagę zasady tworzenia i wykorzystywania Funduszu.
 
+<a id="art-24"></a>
 ### Art. 24.
 
 1. Na Fundusz składają się:
@@ -1136,15 +1277,16 @@ b) kosztów realizacji porozumienia, do których pokrycia zobowiązała się gmi
 
 4. Przekazane w danym roku do Funduszu środki rezerwy celowej, o której mowa w art. 3 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, i niewykorzystane w tym roku przeznacza się na wypłatę przyznanych w tym roku i niewypłaconych premii udzielanych zgodnie z art. 28a tej ustawy.
 
+<a id="art-25"></a>
 ### Art. 25.
 
 1. Środki Funduszu przeznacza się na:
 
 1) wypłatę przyznanych premii, premii MZG i premii powodziowych;
 
-1a) wypłatę kwot określonych w porozumieniach, o których mowa w art. 11c ust. 1;
+1a) wypłatę kwot określonych w porozumieniach, o których mowa w [art. 11c](#art-11c) ust. 1;
 
-1b) pokrycie kosztów, o których mowa w art. 21 ust. 1a;
+1b) pokrycie kosztów, o których mowa w [art. 21](#art-21) ust. 1a;
 
 2) pokrycie kosztów weryfikacji audytów energetycznych i audytów remontowych oraz pozostałej wymaganej dokumentacji niezbędnej do potwierdzenia spełniania warunków przyznania premii, premii MZG, premii powodziowych, grantów termomodernizacyjnych, grantów MZG i grantów OZE;
 
@@ -1156,6 +1298,7 @@ b) kosztów realizacji porozumienia, do których pokrycia zobowiązała się gmi
 
 2.[15)] Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
+<a id="art-26"></a>
 ### Art. 26.
 
 1. BGK:
@@ -1174,18 +1317,21 @@ c) budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa
 
 2.[16)] W planie finansowym, o którym mowa w ust. 1 pkt 1, wyszczególnia się kwotę przeznaczoną na realizację przedsięwzięć niskoemisyjnych.
 
+<a id="art-27"></a>
 ### Art. 27.
 
 1. BGK składa ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w terminie do końca miesiąca następującego po każdym kwartale, informacje o wysokości przyznanych premii, premii MZG, premii powodziowych, grantów termomodernizacyjnych, grantów MZG i grantów OZE, przewidywanych terminach ich przekazania oraz o wysokości wypłaconych środków odrębnie dla premii termomodernizacyjnych, premii remontowych, premii kompensacyjnych, premii MZG, premii powodziowych, grantów termomodernizacyjnych, grantów MZG i grantów OZE.
 
-2. Na podstawie informacji uzyskanych z audytów energetycznych i audytów remontowych oraz danych niezbędnych do obliczenia przewidywanej ilości dwutlenku węgla, o których mowa w art. 11n ust. 2 pkt 3 lit. d, BGK składa ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz ministrowi właściwemu do spraw klimatu, w okresach rocznych, informację na temat planowanych zmian zapotrzebowania na paliwa, planowanego zmniejszenia zapotrzebowania na energię oraz planowanej rocznej ilości dwutlenku węgla, który nie zostanie wyemitowany, przewidywanych w wyniku zrealizowanych przedsięwzięć termomodernizacyjnych i remontowych oraz inwestycji dotyczących instalacji odnawialnych źródeł energii.
+2. Na podstawie informacji uzyskanych z audytów energetycznych i audytów remontowych oraz danych niezbędnych do obliczenia przewidywanej ilości dwutlenku węgla, o których mowa w [art. 11n](#art-11n) ust. 2 pkt 3 lit. d, BGK składa ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz ministrowi właściwemu do spraw klimatu, w okresach rocznych, informację na temat planowanych zmian zapotrzebowania na paliwa, planowanego zmniejszenia zapotrzebowania na energię oraz planowanej rocznej ilości dwutlenku węgla, który nie zostanie wyemitowany, przewidywanych w wyniku zrealizowanych przedsięwzięć termomodernizacyjnych i remontowych oraz inwestycji dotyczących instalacji odnawialnych źródeł energii.
 
 3. BGK przekazuje ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz ministrowi właściwemu do spraw finansów publicznych, w terminach określonych w przepisach dotyczących sprawozdawczości budżetowej państwowych funduszy celowych, sprawozdanie miesięczne z realizacji planu finansowego Funduszu, narastająco za kolejne miesiące roku budżetowego, w szczegółowości niemniejszej niż wynikająca z tego planu.
 
 4. (uchylony)
 
+<a id="rozdzial-5a"></a>
 ### Rozdział 5a. Centralna ewidencja emisyjności budynków
 
+<a id="art-27a"></a>
 ### Art. 27a.
 
 1.17) Główny Inspektor Nadzoru Budowlanego prowadzi centralną ewidencję emisyjności budynków, zwaną dalej „ewidencją”, oraz jest administratorem danych zgromadzonych w tej ewidencji.
@@ -1210,7 +1356,7 @@ g) udzielonego ze środków publicznych finansowania albo dofinansowania: – pr
 
 h) przyznanych świadczeń z pomocy społecznej lub innych form wsparcia finansowego ze środków publicznych w zakresie: – dodatku mieszkaniowego, o którym mowa w ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, – dodatku energetycznego, o którym mowa w art. 5c ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43, 516 i 607), – zasiłku celowego z przeznaczeniem na ogrzewanie, o którym mowa w art. 39 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
 
-2) dane osób uprawnionych, o których mowa w art. 27b ust. 1, do wprowadzania danych i informacji do ewidencji, o których mowa w art. 27b ust. 4;
+2) dane osób uprawnionych, o których mowa w [art. 27b](#art-27b) ust. 1, do wprowadzania danych i informacji do ewidencji, o których mowa w [art. 27b](#art-27b) ust. 4;
 
 3) dane właścicieli lub zarządców budynków lub lokali:
 
@@ -1224,7 +1370,7 @@ d) adres poczty elektronicznej, o ile posiada.
 
 3. Dane i informacje są:
 
-1) wprowadzane przez osoby uprawnione, o których mowa w art. 27b ust. 1;
+1) wprowadzane przez osoby uprawnione, o których mowa w [art. 27b](#art-27b) ust. 1;
 
 2) pozyskiwane automatycznie przez system teleinformatyczny obsługujący ewidencję z:
 
@@ -1238,8 +1384,9 @@ d) centralnego rejestru osób posiadających uprawnienia budowlane oraz centraln
 
 4. Na potrzeby ewidencji, za pośrednictwem systemu teleinformatycznego obsługującego tę ewidencję, są wykorzystywane dane zgromadzone w geodezyjnej ewidencji sieci uzbrojenia terenu oraz w państwowym rejestrze granic i powierzchni jednostek podziałów terytorialnych kraju.
 
-5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw klimatu oraz z ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe dane i informacje gromadzone w ewidencji, o których mowa w ust. 2 pkt 1, przekazywane przez osoby uprawnione, o których mowa w art. 27b ust. 1, oraz uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność i bezpieczeństwo tych danych i informacji oraz funkcjonalność ewidencji.
+5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw klimatu oraz z ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe dane i informacje gromadzone w ewidencji, o których mowa w ust. 2 pkt 1, przekazywane przez osoby uprawnione, o których mowa w [art. 27b](#art-27b) ust. 1, oraz uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność i bezpieczeństwo tych danych i informacji oraz funkcjonalność ewidencji.
 
+<a id="art-27b"></a>
 ### Art. 27b.
 
 1. Uprawnionymi do wprowadzania danych i informacji do ewidencji są osoby:
@@ -1250,19 +1397,19 @@ a) źródła spalania paliw o nominalnej mocy cieplnej mniejszej niż 1 MW, niew
 
 b) spełnienia wymagań określonych w uchwale, o której mowa w art. 96 ust. 1 tej ustawy,
 
-c) uiszczenia należnej opłaty za korzystanie ze środowiska, o której mowa w art. 284 ust. 1 tej ustawy – w zakresie danych, o których mowa w art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret pierwsze,
+c) uiszczenia należnej opłaty za korzystanie ze środowiska, o której mowa w art. 284 ust. 1 tej ustawy – w zakresie danych, o których mowa w [art. 27a](#art-27a) ust. 2 pkt 1 lit. a–c oraz lit. d tiret pierwsze,
 
 2) przeprowadzające kontrolę, o której mowa w art. 9u ust. 1 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach:
 
 a) gospodarowania odpadami komunalnymi,
 
-b) odprowadzania nieczystości ciekłych – w zakresie danych, o których mowa w art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret drugie,
+b) odprowadzania nieczystości ciekłych – w zakresie danych, o których mowa w [art. 27a](#art-27a) ust. 2 pkt 1 lit. a–c oraz lit. d tiret drugie,
 
 3) przeprowadzające kontrolę, o której mowa w art. 9 ust. 1 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, w zakresie emisji gazów i pyłów wprowadzanych do powietrza przez przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców – w zakresie danych, o których mowa w art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret trzecie,
 
 4) przeprowadzające kontrolę przewodów kominowych (dymowych, spalinowych i wentylacyjnych), o której mowa w art. 62 ust. 1 pkt 1 lit. c ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, w zakresie tej kontroli – w odniesieniu do danych, o których mowa w art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret szóste,
 
-5) wskazane przez BGK, realizujące czynności w zakresie premii termomodernizacyjnych, premii remontowych, premii MZG, premii powodziowych, grantów termomodernizacyjnych, grantów MZG i grantów OZE – w zakresie danych, o których mowa w art. 27a ust. 2 pkt 1 lit. e,
+5) wskazane przez BGK, realizujące czynności w zakresie premii termomodernizacyjnych, premii remontowych, premii MZG, premii powodziowych, grantów termomodernizacyjnych, grantów MZG i grantów OZE – w zakresie danych, o których mowa w [art. 27a](#art-27a) ust. 2 pkt 1 lit. e,
 
 6) wskazane przez organy realizujące czynności w zakresie ulgi podatkowej, o której mowa w art. 26h ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych – w zakresie danych, o których mowa w art. 27a ust. 2 pkt 1 lit. f,
 
@@ -1272,13 +1419,13 @@ a) przedsięwzięć termomodernizacyjnych, przedsięwzięć niskoemisyjnych lub 
 
 b) odnawialnych źródeł energii, o których mowa w art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii,
 
-c) innych przedsięwzięć związanych z ochroną powietrza – w zakresie danych, o których mowa w art. 27a ust. 2 pkt 1 lit. g,
+c) innych przedsięwzięć związanych z ochroną powietrza – w zakresie danych, o których mowa w [art. 27a](#art-27a) ust. 2 pkt 1 lit. g,
 
 8) wskazane przez wójta, burmistrza lub prezydenta miasta w zakresie:
 
 a) przyznanych świadczeń z pomocy społecznej lub innych form wsparcia finansowego ze środków publicznych w zakresie: – dodatku mieszkaniowego, o którym mowa w ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, – dodatku energetycznego, o którym mowa w art. 5c ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, – zasiłku celowego z przeznaczeniem na ogrzewanie, o którym mowa w art. 39 ust. 1 i 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej – w zakresie danych, o których mowa w art. 27a ust. 2 pkt 1 lit. h,
 
-b) deklaracji i przypadku, o których mowa odpowiednio w art. 27g ust. 2 pkt 2 i ust. 5,
+b) deklaracji i przypadku, o których mowa odpowiednio w [art. 27g](#art-27g) ust. 2 pkt 2 i ust. 5,
 
 9) usuwające zanieczyszczenia z przewodów dymowych i spalinowych, stosownie do przepisów wydanych na podstawie art. 13 ust. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej – w zakresie danych, o których mowa w art. 27a ust. 2 pkt 1 lit. a–c oraz lit. d tiret siódme – zwane dalej „osobami uprawnionymi”.
 
@@ -1338,9 +1485,10 @@ b) uprawnień budowlanych.
 
 13.[17)] Główny Inspektor Nadzoru Budowlanego określi wzory wniosków, o których mowa w ust. 5, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
 
+<a id="art-27c"></a>
 ### Art. 27c.
 
-1. Osoby uprawnione w trakcie kontroli lub czynności, o których mowa w art. 27b ust. 1, wprowadzają do ewidencji, za pomocą elektronicznego formularza inwentaryzacyjnego, dane i informacje zgodnie z przepisami wydanymi na podstawie art. 27a ust. 5, za pomocą systemu teleinformatycznego obsługującego ewidencję. W przypadku, o którym mowa w art. 27b ust. 1 pkt 9, dane i informacje wprowadza się bezpośrednio po przeprowadzeniu czynności.
+1. Osoby uprawnione w trakcie kontroli lub czynności, o których mowa w [art. 27b](#art-27b) ust. 1, wprowadzają do ewidencji, za pomocą elektronicznego formularza inwentaryzacyjnego, dane i informacje zgodnie z przepisami wydanymi na podstawie [art. 27a](#art-27a) ust. 5, za pomocą systemu teleinformatycznego obsługującego ewidencję. W przypadku, o którym mowa w [art. 27b](#art-27b) ust. 1 pkt 9, dane i informacje wprowadza się bezpośrednio po przeprowadzeniu czynności.
 
 2. W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od osoby uprawnionej, wprowadzenia danych dokonuje się niezwłocznie, niepóźniej niż̇ w terminie 7 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia.
 
@@ -1352,6 +1500,7 @@ b) uprawnień budowlanych.
 
 6.[17)] Główny Inspektor Nadzoru Budowlanego określi wzór formularza, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
+<a id="art-27d"></a>
 ### Art. 27d.
 
 1. Dane i informacje zgromadzone w ewidencji udostępnia się, o ile są one niezbędne do realizacji ich ustawowych zadań, następującym podmiotom:
@@ -1428,12 +1577,14 @@ c) innych przedsięwzięć związanych z ochroną powietrza;
 
 6. Udostępnianie danych i informacji Głównemu Urzędowi Statystycznemu odbywa się na zasadach określonych w art. 13 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799, z 2025 r. poz. 1792 oraz z 2026 r. poz. 507 i 548).
 
+<a id="art-27e"></a>
 ### Art. 27e.
 
 1. Właścicielom budynków lub lokali, po podaniu informacji określonych w przepisach wydanych na podstawie ust. 2, udostępnia się dane dotyczące ich budynków lub lokali, zgromadzone w ewidencji, w postaci elektronicznej przy użyciu systemu teleinformatycznego obsługującego ewidencję.
 
 2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, szczegółowy zakres udostępnianych danych oraz informacje, których podanie jest wymagane, mając na uwadze konieczność zapewnienia bezpieczeństwa tych danych.
 
+<a id="art-27f"></a>
 ### Art. 27f.
 
 1. Wójt, burmistrz, prezydent miasta po przeprowadzeniu kontroli, o której mowa w:
@@ -1468,9 +1619,10 @@ b) pozbywania się nieczystości ciekłych – sporządza protokół, o którym 
 
 3.[17)] Główny Inspektor Nadzoru Budowlanego w porozumieniu z ministrem właściwym do spraw klimatu określi wzór protokołu, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
+<a id="art-27g"></a>
 ### Art. 27g.
 
-1. Właściciel lub zarządca budynku lub lokalu składa do wójta, burmistrza lub prezydenta miasta deklarację o źródłach ciepła lub źródłach spalania paliw, o których mowa odpowiednio w art. 27a ust. 2 pkt 1 lit. a i c, zwaną dalej „deklaracją”, w terminie 14 dni od dnia pierwszego uruchomienia tego źródła ciepła lub źródła spalania paliw.
+1. Właściciel lub zarządca budynku lub lokalu składa do wójta, burmistrza lub prezydenta miasta deklarację o źródłach ciepła lub źródłach spalania paliw, o których mowa odpowiednio w [art. 27a](#art-27a) ust. 2 pkt 1 lit. a i c, zwaną dalej „deklaracją”, w terminie 14 dni od dnia pierwszego uruchomienia tego źródła ciepła lub źródła spalania paliw.
 
 2. Deklarację składa się w postaci:
 
@@ -1482,13 +1634,13 @@ b) pozbywania się nieczystości ciekłych – sporządza protokół, o którym 
 
 1) imię i nazwisko albo nazwę właściciela lub zarządcy budynku lub lokalu oraz adres miejsca zamieszkania lub siedziby;
 
-2) adres nieruchomości, w obrębie której eksploatowane jest źródło ciepła lub źródło spalania paliw, o których mowa odpowiednio w art. 27a ust. 2 pkt 1 lit. a i c;
+2) adres nieruchomości, w obrębie której eksploatowane jest źródło ciepła lub źródło spalania paliw, o których mowa odpowiednio w [art. 27a](#art-27a) ust. 2 pkt 1 lit. a i c;
 
 3) numer telefonu właściciela lub zarządcy budynku lub lokalu, o ile posiada;
 
 4) adres poczty elektronicznej właściciela lub zarządcy budynku lub lokalu, o ile posiada;
 
-5) informacje o liczbie i rodzaju eksploatowanych w obrębie nieruchomości źródeł ciepła lub źródeł spalania paliw, o których mowa odpowiednio w art. 27a ust. 2 pkt 1 lit. a i c, oraz o ich przeznaczeniu i wykorzystywanych w nich paliwach.
+5) informacje o liczbie i rodzaju eksploatowanych w obrębie nieruchomości źródeł ciepła lub źródeł spalania paliw, o których mowa odpowiednio w [art. 27a](#art-27a) ust. 2 pkt 1 lit. a i c, oraz o ich przeznaczeniu i wykorzystywanych w nich paliwach.
 
 3a. Deklarację składa się pod rygorem odpowiedzialności karnej za składanie fałszywego oświadczenia. Składający deklarację jest obowiązany do zawarcia w niej klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
 
@@ -1498,8 +1650,10 @@ b) pozbywania się nieczystości ciekłych – sporządza protokół, o którym 
 
 6.[17)] Główny Inspektor Nadzoru Budowlanego w porozumieniu z ministrem właściwym do spraw klimatu określi wzór formularza deklaracji w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
+<a id="rozdzial-5b"></a>
 ### Rozdział 5b. Przepis karny
 
+<a id="art-27h"></a>
 ### Art. 27h.
 
 1. Kto, wbrew ciążącemu na nim obowiązkowi, nie składa w terminie deklaracji, podlega karze grzywny.
@@ -1508,16 +1662,20 @@ b) pozbywania się nieczystości ciekłych – sporządza protokół, o którym 
 
 3. Orzekanie w sprawach o czyn określony w ust. 1 następuje na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm.19)).
 
+<a id="rozdzial-6"></a>
 ### Rozdział 6. Przepisy zmieniające i końcowe
 
+<a id="art-28"></a>
 ### Art. 28.
 
 (pominięty)
 
+<a id="art-29"></a>
 ### Art. 29.
 
 (pominięty)
 
+<a id="art-29a"></a>
 ### Art. 29a.
 
 Równowartość pobranej opłaty recyklingowej, o której mowa w ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927), jest wnoszona, na rachunek bankowy Funduszu, zgodnie z zapotrzebowaniem wynikającym z realizacji porozumień, o których mowa w art. 11c ust. 1, w roku:
@@ -1530,18 +1688,22 @@ Równowartość pobranej opłaty recyklingowej, o której mowa w ustawie z dnia 
 
 4) 2024 – w wysokości niewyższej niż 167 500 000 zł.
 
+<a id="art-30"></a>
 ### Art. 30.
 
 Do wniosków o premię termomodernizacyjną złożonych przez inwestora przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
+<a id="art-31"></a>
 ### Art. 31.
 
 Traci moc ustawa z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. poz. 1121, z późn. zm.20)).
 
+<a id="art-32"></a>
 ### Art. 32.
 
 Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia[21)].
 
+<a id="załącznik-do-ustawy"></a>
 ## Załącznik do ustawy
 
 > **Uwaga:** poniższy wzór matematyczny nie odwzorował się poprawnie jako tekst przy
@@ -1554,7 +1716,7 @@ P = k · 0,02 · w · Σ (i=1 do n) (puᵢ · mᵢ / 12)
 
 P – wysokość premii kompensacyjnej;
 
-k – zgodnie z art. 11 ust. 2 i 3:
+k – zgodnie z [art. 11](#art-11) ust. 2 i 3:
 
 a) 0,5, jeśli wskaźnik kosztu przedsięwzięcia jest mniejszy od 0,5,
 
@@ -1568,7 +1730,7 @@ n – liczba lokali kwaterunkowych w budynku mieszkalnym albo w części budynku
 
 puᵢ – powierzchnia użytkowa i-tego lokalu kwaterunkowego;
 
-mᵢ – wyrażony liczbą miesięcy okres, w którym obowiązywały w stosunku do i-tego lokalu kwaterunkowego ograniczenia określone w art. 2 pkt 13, w okresie od dnia 12 listopada 1994 r. do dnia 25 kwietnia 2005 r., a w przypadku nabycia budynku mieszkalnego albo części budynku mieszkalnego z tym lokalem kwaterunkowym po dniu 12 listopada 1994 r. w sposób inny niż w drodze spadkobrania – od dnia nabycia do dnia 25 kwietnia 2005 r.
+mᵢ – wyrażony liczbą miesięcy okres, w którym obowiązywały w stosunku do i-tego lokalu kwaterunkowego ograniczenia określone w [art. 2](#art-2) pkt 13, w okresie od dnia 12 listopada 1994 r. do dnia 25 kwietnia 2005 r., a w przypadku nabycia budynku mieszkalnego albo części budynku mieszkalnego z tym lokalem kwaterunkowym po dniu 12 listopada 1994 r. w sposób inny niż w drodze spadkobrania – od dnia nabycia do dnia 25 kwietnia 2005 r.
 
 Liczbę miesięcy zaokrągla się do pełnych miesięcy w górę.
 

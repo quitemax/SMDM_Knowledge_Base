@@ -425,8 +425,40 @@ Gotowe: `rozporzadzenie-audyt-energetyczny-nowelizacja-2022-2816`,
 `ustawa-o-ochronie-praw-lokatorow`, `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-i-odprowadzaniu-sciekow`,
 `rozporzadzenie-ochrona-przeciwpozarowa-budynkow`,
 `rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych`,
-`ustawa-o-dozorze-technicznym`, `ustawa-o-ochronie-przeciwpozarowej`, `ustawa-prawo-o-miarach`
-(19 z 36).
+`ustawa-o-dozorze-technicznym`, `ustawa-o-ochronie-przeciwpozarowej`, `ustawa-prawo-o-miarach`,
+`rozporzadzenie-dozor-techniczny-dzwigi-utb`, `ustawa-o-ochronie-danych-osobowych`,
+`ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb`,
+`ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach`, `rozporzadzenie-bhp-roboty-budowlane`
+(24 z 36).
+
+Ta paczka (batch 6) wymusiła większą przebudowę `toc_and_links.py`, po tym jak audyt
+znalazł dwa kolejne fałszywe trafienia obu wymagające tego samego mechanizmu: „ustawy
+uchylanej w art. N” (jak „zmienianej”, ale dla aktu uchylanego) oraz „rozporządzenia, o
+którym mowa w § N” — fraza wskazująca inny akt pośrednio, przez numer jednostki W TYM
+dokumencie, gdzie jest on nazwany. W obu przypadkach numer WEWNĄTRZ frazy zostaje
+własnym linkiem (to naprawdę jednostka tego dokumentu), a wszystko INNE w tej samej
+klauzuli przed frazą jest obce — dokładnie ten sam problem co przy „zmienianej”, więc
+zunifikowane w jedną funkcję (`is_foreign_via_exempting_phrase`). Przy okazji znalezione i
+naprawione:
+- literówka w dopasowaniu odmiany „który” (kod próbował „które” + opcjonalne „j”/„m”, ale
+  „którym” to inny temat fleksyjny niż „której” — nie „które” + „m” — więc dopasowanie
+  nigdy nie trafiało);
+- błąd kolejności działań: `link_references` uruchamiał trzy kolejne `.sub()` (Art./§,
+  Rozdział/Dział, Załącznik), z których każdy mutował tekst przed kolejnym — więc gdy
+  wcześniejszy .sub() już zamienił frazę wyłączającą na link, kolejny .sub() nie widział
+  już zwykłego tekstu, którego szukał. Przepisane na jedno przejście: wszystkie dopasowania
+  zbierane względem ORYGINALNEGO tekstu, decyzje podjęte, dopiero potem złożone w jeden
+  wynik;
+- zbyt szerokie okno wyszukiwania frazy wyłączającej (odziedziczone po ogólnym sprawdzeniu
+  „obcości”) potrafiło złapać frazę z zupełnie innej, niepowiązanej klauzuli dalej w
+  zdaniu (np. „art. 38 ust. 1, jego funkcje sprawuje ... powołany w trybie ustawy, o
+  której mowa w art. 69 ust. 1” — fraza przy „art. 69” fałszywie odbierała link
+  poprawnemu, wcześniejszemu „art. 38”). Zawężone do 60 znaków (frazy wyłączające
+  przylegają bezpośrednio do jednostki, której dotyczą, w odróżnieniu od cytowania z datą,
+  które może być oddalone o „pkt X lit. Y”).
+Zweryfikowane pełną regresją: wszystkie 19 wcześniej zatwierdzonych plików odtworzone
+identycznie po rozpakowaniu istniejących linków i ponownym przepuszczeniu przez
+naprawiony `link_references`.
 
 Ta paczka (batch 5) dodała jeszcze jeden wzorzec obcego aktu do `toc_and_links.py`: akty UE
 bywają cytowane numerem rok/pozycja zamiast polskiej daty — „rozporządzenia 2016/679”

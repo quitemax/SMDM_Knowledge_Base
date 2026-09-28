@@ -4,8 +4,301 @@ w sprawie bezpieczeństwa i higieny pracy podczas wykonywania robót budowlanych
 
 Na podstawie art. 237¹⁵ § 2 ustawy z dnia 26 czerwca 1974 r. — Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.[2)]) zarządza się, co następuje:
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [§ 1.](#par-1)
+  - [§ 2.](#par-2)
+- [Rozdział 2. Warunki przygotowania i prowadzenia robót budowlanych](#rozdzial-2)
+  - [§ 3.](#par-3)
+  - [§ 4.](#par-4)
+  - [§ 5.](#par-5)
+  - [§ 6.](#par-6)
+  - [§ 7.](#par-7)
+- [Rozdział 3. Zagospodarowanie terenu budowy](#rozdzial-3)
+  - [§ 8.](#par-8)
+  - [§ 9.](#par-9)
+  - [§ 10.](#par-10)
+  - [§ 11.](#par-11)
+  - [§ 12.](#par-12)
+  - [§ 13.](#par-13)
+  - [§ 14.](#par-14)
+  - [§ 15.](#par-15)
+  - [§ 16.](#par-16)
+  - [§ 17.](#par-17)
+  - [§ 18.](#par-18)
+  - [§ 19.](#par-19)
+  - [§ 20.](#par-20)
+  - [§ 21.](#par-21)
+  - [§ 22.](#par-22)
+  - [§ 23.](#par-23)
+  - [§ 24.](#par-24)
+  - [§ 25.](#par-25)
+  - [§ 26.](#par-26)
+  - [§ 27.](#par-27)
+  - [§ 28.](#par-28)
+  - [§ 29.](#par-29)
+- [Rozdział 4. Warunki socjalne i higieniczne](#rozdzial-4)
+  - [§ 30.](#par-30)
+  - [§ 31.](#par-31)
+  - [§ 32.](#par-32)
+  - [§ 33.](#par-33)
+  - [§ 34.](#par-34)
+  - [§ 35.](#par-35)
+  - [§ 36.](#par-36)
+  - [§ 37.](#par-37)
+  - [§ 38.](#par-38)
+- [Rozdział 5. Wymagania dotyczące miejsc pracy usytuowanych w budynkach oraz w obiektach poddawanych remontowi lub przebudowie](#rozdzial-5)
+  - [§ 39.](#par-39)
+  - [§ 40.](#par-40)
+  - [§ 41.](#par-41)
+  - [§ 42.](#par-42)
+  - [§ 43.](#par-43)
+  - [§ 44.](#par-44)
+  - [§ 45.](#par-45)
+  - [§ 46.](#par-46)
+  - [§ 47.](#par-47)
+  - [§ 48.](#par-48)
+  - [§ 49.](#par-49)
+  - [§ 50.](#par-50)
+  - [§ 51.](#par-51)
+  - [§ 52.](#par-52)
+- [Rozdział 6. Instalacje i urządzenia elektroenergetyczne](#rozdzial-6)
+  - [§ 53.](#par-53)
+  - [§ 54.](#par-54)
+  - [§ 55.](#par-55)
+  - [§ 56.](#par-56)
+  - [§ 57.](#par-57)
+  - [§ 58.](#par-58)
+  - [§ 59.](#par-59)
+  - [§ 60.](#par-60)
+- [Rozdział 7. Maszyny i inne urządzenia techniczne](#rozdzial-7)
+  - [§ 61.](#par-61)
+  - [§ 62.](#par-62)
+  - [§ 63.](#par-63)
+  - [§ 64.](#par-64)
+  - [§ 65.](#par-65)
+  - [§ 66.](#par-66)
+  - [§ 67.](#par-67)
+  - [§ 68.](#par-68)
+  - [§ 69.](#par-69)
+  - [§ 70.](#par-70)
+  - [§ 71.](#par-71)
+  - [§ 72.](#par-72)
+  - [§ 73.](#par-73)
+  - [§ 74.](#par-74)
+  - [§ 75.](#par-75)
+  - [§ 76.](#par-76)
+  - [§ 77.](#par-77)
+  - [§ 78.](#par-78)
+  - [§ 79.](#par-79)
+  - [§ 80.](#par-80)
+  - [§ 81.](#par-81)
+  - [§ 82.](#par-82)
+  - [§ 83.](#par-83)
+  - [§ 84.](#par-84)
+  - [§ 85.](#par-85)
+  - [§ 86.](#par-86)
+  - [§ 87.](#par-87)
+  - [§ 88.](#par-88)
+  - [§ 89.](#par-89)
+  - [§ 90.](#par-90)
+  - [§ 91.](#par-91)
+  - [§ 92.](#par-92)
+  - [§ 93.](#par-93)
+  - [§ 94.](#par-94)
+  - [§ 95.](#par-95)
+  - [§ 96.](#par-96)
+  - [§ 97.](#par-97)
+  - [§ 98.](#par-98)
+  - [§ 99.](#par-99)
+  - [§ 100.](#par-100)
+  - [§ 101.](#par-101)
+  - [§ 102.](#par-102)
+  - [§ 103.](#par-103)
+  - [§ 104.](#par-104)
+  - [§ 105.](#par-105)
+  - [§ 106.](#par-106)
+  - [§ 107.](#par-107)
+- [Rozdział 8. Rusztowania i ruchome podesty robocze](#rozdzial-8)
+  - [§ 108.](#par-108)
+  - [§ 109.](#par-109)
+  - [§ 110.](#par-110)
+  - [§ 111.](#par-111)
+  - [§ 112.](#par-112)
+  - [§ 113.](#par-113)
+  - [§ 114.](#par-114)
+  - [§ 115.](#par-115)
+  - [§ 116.](#par-116)
+  - [§ 117.](#par-117)
+  - [§ 118.](#par-118)
+  - [§ 119.](#par-119)
+  - [§ 120.](#par-120)
+  - [§ 121.](#par-121)
+  - [§ 122.](#par-122)
+  - [§ 123.](#par-123)
+  - [§ 124.](#par-124)
+  - [§ 125.](#par-125)
+  - [§ 126.](#par-126)
+  - [§ 127.](#par-127)
+  - [§ 128.](#par-128)
+  - [§ 129.](#par-129)
+  - [§ 130.](#par-130)
+  - [§ 131.](#par-131)
+  - [§ 132.](#par-132)
+- [Rozdział 9. Roboty na wysokości](#rozdzial-9)
+  - [§ 133.](#par-133)
+  - [§ 134.](#par-134)
+  - [§ 135.](#par-135)
+  - [§ 136.](#par-136)
+  - [§ 137.](#par-137)
+  - [§ 138.](#par-138)
+  - [§ 139.](#par-139)
+  - [§ 140.](#par-140)
+  - [§ 141.](#par-141)
+  - [§ 142.](#par-142)
+- [Rozdział 10. Roboty ziemne](#rozdzial-10)
+  - [§ 143.](#par-143)
+  - [§ 144.](#par-144)
+  - [§ 145.](#par-145)
+  - [§ 146.](#par-146)
+  - [§ 147.](#par-147)
+  - [§ 148.](#par-148)
+  - [§ 149.](#par-149)
+  - [§ 150.](#par-150)
+  - [§ 151.](#par-151)
+  - [§ 152.](#par-152)
+  - [§ 153.](#par-153)
+  - [§ 154.](#par-154)
+  - [§ 155.](#par-155)
+  - [§ 156.](#par-156)
+  - [§ 157.](#par-157)
+  - [§ 158.](#par-158)
+  - [§ 159.](#par-159)
+  - [§ 160.](#par-160)
+  - [§ 161.](#par-161)
+  - [§ 162.](#par-162)
+  - [§ 163.](#par-163)
+  - [§ 164.](#par-164)
+  - [§ 165.](#par-165)
+  - [§ 166.](#par-166)
+  - [§ 167.](#par-167)
+  - [§ 168.](#par-168)
+  - [§ 169.](#par-169)
+- [Rozdział 11. Roboty impregnacyjne i odgrzybieniowe](#rozdzial-11)
+  - [§ 170.](#par-170)
+  - [§ 171.](#par-171)
+  - [§ 172.](#par-172)
+  - [§ 173.](#par-173)
+  - [§ 174.](#par-174)
+  - [§ 175.](#par-175)
+  - [§ 176.](#par-176)
+  - [§ 177.](#par-177)
+  - [§ 178.](#par-178)
+  - [§ 179.](#par-179)
+  - [§ 180.](#par-180)
+  - [§ 181.](#par-181)
+  - [§ 182.](#par-182)
+  - [§ 183.](#par-183)
+  - [§ 184.](#par-184)
+  - [§ 185.](#par-185)
+  - [§ 186.](#par-186)
+  - [§ 187.](#par-187)
+- [Rozdział 12. Roboty murarskie i tynkarskie](#rozdzial-12)
+  - [§ 188.](#par-188)
+  - [§ 189.](#par-189)
+  - [§ 190.](#par-190)
+  - [§ 191.](#par-191)
+- [Rozdział 13. Roboty ciesielskie](#rozdzial-13)
+  - [§ 192.](#par-192)
+  - [§ 193.](#par-193)
+  - [§ 194.](#par-194)
+  - [§ 195.](#par-195)
+- [Rozdział 14. Roboty zbrojarskie i betoniarskie](#rozdzial-14)
+  - [§ 196.](#par-196)
+  - [§ 197.](#par-197)
+  - [§ 198.](#par-198)
+  - [§ 199.](#par-199)
+  - [§ 200.](#par-200)
+  - [§ 201.](#par-201)
+  - [§ 202.](#par-202)
+  - [§ 203.](#par-203)
+  - [§ 204.](#par-204)
+  - [§ 205.](#par-205)
+  - [§ 206.](#par-206)
+  - [§ 207.](#par-207)
+  - [§ 208.](#par-208)
+  - [§ 209.](#par-209)
+  - [§ 210.](#par-210)
+  - [§ 211.](#par-211)
+  - [§ 212.](#par-212)
+  - [§ 213.](#par-213)
+- [Rozdział 15. Roboty montażowe](#rozdzial-15)
+  - [§ 214.](#par-214)
+  - [§ 215.](#par-215)
+  - [§ 216.](#par-216)
+  - [§ 217.](#par-217)
+  - [§ 218.](#par-218)
+  - [§ 219.](#par-219)
+  - [§ 220.](#par-220)
+  - [§ 221.](#par-221)
+  - [§ 222.](#par-222)
+- [Rozdział 16. Roboty spawalnicze](#rozdzial-16)
+  - [§ 223.](#par-223)
+  - [§ 224.](#par-224)
+  - [§ 225.](#par-225)
+  - [§ 226.](#par-226)
+  - [§ 227.](#par-227)
+  - [§ 228.](#par-228)
+  - [§ 229.](#par-229)
+  - [§ 230.](#par-230)
+  - [§ 231.](#par-231)
+  - [§ 232.](#par-232)
+  - [§ 233.](#par-233)
+  - [§ 234.](#par-234)
+  - [§ 235.](#par-235)
+- [Rozdział 17. Roboty dekarskie i izolacyjne](#rozdzial-17)
+  - [§ 236.](#par-236)
+  - [§ 237.](#par-237)
+  - [§ 238.](#par-238)
+  - [§ 239.](#par-239)
+- [Rozdział 18. Roboty rozbiórkowe](#rozdzial-18)
+  - [§ 240.](#par-240)
+  - [§ 241.](#par-241)
+  - [§ 242.](#par-242)
+  - [§ 243.](#par-243)
+  - [§ 244.](#par-244)
+  - [§ 245.](#par-245)
+- [Rozdział 19. Roboty budowlane wykonywane z użyciem materiałów wybuchowych](#rozdzial-19)
+  - [§ 246.](#par-246)
+  - [§ 247.](#par-247)
+  - [§ 248.](#par-248)
+  - [§ 249.](#par-249)
+  - [§ 250.](#par-250)
+  - [§ 251.](#par-251)
+  - [§ 252.](#par-252)
+  - [§ 253.](#par-253)
+  - [§ 254.](#par-254)
+  - [§ 255.](#par-255)
+  - [§ 256.](#par-256)
+  - [§ 257.](#par-257)
+  - [§ 258.](#par-258)
+  - [§ 259.](#par-259)
+  - [§ 260.](#par-260)
+  - [§ 261.](#par-261)
+  - [§ 262.](#par-262)
+  - [§ 263.](#par-263)
+  - [§ 264.](#par-264)
+  - [§ 265.](#par-265)
+- [Rozdział 20. Przepisy końcowe](#rozdzial-20)
+  - [§ 266.](#par-266)
+  - [§ 267.](#par-267)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="par-1"></a>
 ### § 1.
 
 Ilekroć w rozporządzeniu jest mowa o:
@@ -26,40 +319,49 @@ Ilekroć w rozporządzeniu jest mowa o:
 
 8) „rusztowaniu systemowym” — rozumie się przez to konstrukcję budowlaną, tymczasową, w której wymiary siatki konstrukcyjnej są jednoznacznie narzucone poprzez wymiary elementów rusztowania, służącą do utrzymywania osób, materiałów i sprzętu.
 
+<a id="par-2"></a>
 ### § 2.
 
 Wykonawca przed przystąpieniem do wykonywania robót budowlanych jest obowiązany opracować instrukcję bezpiecznego ich wykonywania i zaznajomić z nią pracowników w zakresie wykonywanych przez nich robót.
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Warunki przygotowania i prowadzenia robót budowlanych
 
+<a id="par-3"></a>
 ### § 3.
 
 Inwestor jest obowiązany zawiadomić o zamiarze rozpoczęcia robót budowlanych właściwego inspektora pracy, na 7 dni przed rozpoczęciem budowy lub rozbiórki, na której przewiduje się wykonywanie robót budowlanych trwających dłużej niż 30 dni roboczych i jednoczesne zatrudnienie co najmniej 20 osób albo na której planowany zakres robót przekracza 500 osobodni.
 
+<a id="par-4"></a>
 ### § 4.
 
 1. Uczestnicy procesu budowlanego współdziałają ze sobą w zakresie bezpieczeństwa i higieny pracy w procesie przygotowania i realizacji budowy.
 
 2. Stosowanie niezbędnych środków ochrony indywidualnej obowiązuje wszystkie osoby przebywające na terenie budowy.
 
+<a id="par-5"></a>
 ### § 5.
 
 Bezpośredni nadzór nad bezpieczeństwem i higieną pracy na stanowiskach pracy sprawują odpowiednio kierownik robót oraz mistrz budowlany, stosownie do zakresu obowiązków.
 
+<a id="par-6"></a>
 ### § 6.
 
-1. Do zabezpieczeń stanowisk pracy na wysokości, przed upadkiem z wysokości, należy stosować środki ochrony zbiorowej, w szczególności balustrady, o których mowa w § 15 ust. 2, siatki ochronne i siatki bezpieczeństwa.
+1. Do zabezpieczeń stanowisk pracy na wysokości, przed upadkiem z wysokości, należy stosować środki ochrony zbiorowej, w szczególności balustrady, o których mowa w [§ 15](#par-15) ust. 2, siatki ochronne i siatki bezpieczeństwa.
 
 2. Stosowanie środków ochrony indywidualnej, w szczególności takich jak szelki bezpieczeństwa, jest dopuszczalne, gdy nie ma możliwości stosowania środków ochrony zbiorowej.
 
+<a id="par-7"></a>
 ### § 7.
 
-1. Osoba wykonująca roboty w pobliżu krawędzi dachu płaskiego lub dachu o nachyleniu do 20%, jest obowiązana posiadać odpowiednie zabezpieczenia przed upadkiem z wysokości, o których mowa w § 6.
+1. Osoba wykonująca roboty w pobliżu krawędzi dachu płaskiego lub dachu o nachyleniu do 20%, jest obowiązana posiadać odpowiednie zabezpieczenia przed upadkiem z wysokości, o których mowa w [§ 6](#par-6).
 
 2. Osoba wykonująca roboty na dachu o nachyleniu powyżej 20%, jeżeli nie stosuje się rusztowań ochronnych, jest obowiązana stosować środki ochrony indywidualnej lub inne urządzenia ochronne.
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Zagospodarowanie terenu budowy
 
+<a id="par-8"></a>
 ### § 8.
 
 Zagospodarowanie terenu budowy wykonuje się przed rozpoczęciem robót budowlanych, co najmniej w zakresie:
@@ -80,28 +382,34 @@ Zagospodarowanie terenu budowy wykonuje się przed rozpoczęciem robót budowlan
 
 8) urządzenia składowisk materiałów i wyrobów.
 
+<a id="par-9"></a>
 ### § 9.
 
 1. Teren budowy lub robót należy ogrodzić albo w inny sposób uniemożliwić wejście osobom nieupoważnionym.
 
 2. Jeżeli ogrodzenie terenu budowy lub robót nie jest możliwe, należy oznakować granice terenu za pomocą tablic ostrzegawczych, a w razie potrzeby zapewnić stały nadzór.
 
+<a id="par-10"></a>
 ### § 10.
 
 Ogrodzenie terenu budowy wykonuje się w taki sposób, aby nie stwarzało zagrożenia dla ludzi. Wysokość ogrodzenia powinna wynosić co najmniej 1,5 m.
 
+<a id="par-11"></a>
 ### § 11.
 
 Dla pojazdów używanych w trakcie wykonywania robót budowlanych wyznacza się miejsca postojowe na terenie budowy.
 
+<a id="par-12"></a>
 ### § 12.
 
 Szerokość drogi przeznaczonej dla ruchu pieszego jednokierunkowego powinna wynosić co najmniej 0,75 m, a dwukierunkowego — 1,2 m.
 
+<a id="par-13"></a>
 ### § 13.
 
 Pochylnie, po których dokonuje się ręcznego przenoszenia ciężarów, nie powinny mieć spadków większych niż 10%.
 
+<a id="par-14"></a>
 ### § 14.
 
 Drogi komunikacyjne dla wózków i taczek nie mogą być nachylone więcej niż:
@@ -112,6 +420,7 @@ Drogi komunikacyjne dla wózków i taczek nie mogą być nachylone więcej niż:
 
 3) dla taczek — 10%.
 
+<a id="par-15"></a>
 ### § 15.
 
 1. Drogi komunikacyjne dla wózków i taczek, usytuowane nad poziomem terenu powyżej 1 m, zabezpiecza się balustradą.
@@ -120,36 +429,43 @@ Drogi komunikacyjne dla wózków i taczek nie mogą być nachylone więcej niż:
 
 3. W przypadku rusztowań systemowych dopuszcza się umieszczanie poręczy ochronnej na wysokości 1 m.
 
+<a id="par-16"></a>
 ### § 16.
 
-Przejścia o pochyleniu większym niż 15% zaopatruje się w listwy umocowane poprzecznie, w odstępach nie mniejszych niż 0,4 m lub w schody o szerokości nie mniejszej niż 0,75 m, co najmniej z jednostronnym zabezpieczeniem, o którym mowa w § 15 ust. 2.
+Przejścia o pochyleniu większym niż 15% zaopatruje się w listwy umocowane poprzecznie, w odstępach nie mniejszych niż 0,4 m lub w schody o szerokości nie mniejszej niż 0,75 m, co najmniej z jednostronnym zabezpieczeniem, o którym mowa w [§ 15](#par-15) ust. 2.
 
+<a id="par-17"></a>
 ### § 17.
 
 Przejścia i strefy niebezpieczne oświetla się i oznakowuje znakami ostrzegawczymi lub znakami zakazu.
 
+<a id="par-18"></a>
 ### § 18.
 
 Wyjścia z magazynów oraz przejścia pomiędzy budynkami wychodzące na drogi zabezpiecza się poręczami ochronnymi umieszczonymi na wysokości 1,1 m lub w inny sposób, w szczególności labiryntami.
 
+<a id="par-19"></a>
 ### § 19.
 
 Przed skrzyżowaniem dróg z napowietrznymi liniami elektroenergetycznymi, w odległości nie mniejszej niż 15 m, ustawia się oznakowane bramki, oświetlone w warunkach ograniczonej widoczności, wyznaczające dopuszczalne gabaryty przejeżdżających pojazdów.
 
+<a id="par-20"></a>
 ### § 20.
 
 1. Strefę niebezpieczną ogradza się i oznakowuje w sposób uniemożliwiający dostęp osobom postronnym.
 
 2. Przejścia, przejazdy i stanowiska pracy w strefie niebezpiecznej zabezpiecza się daszkami ochronnymi.
 
+<a id="par-21"></a>
 ### § 21.
 
-1. Strefę niebezpieczną, w której istnieje zagrożenie spadania z wysokości przedmiotów, ogradza się balustradami, o których mowa w § 15 ust. 2.
+1. Strefę niebezpieczną, w której istnieje zagrożenie spadania z wysokości przedmiotów, ogradza się balustradami, o których mowa w [§ 15](#par-15) ust. 2.
 
 2. Strefa niebezpieczna, o której mowa w ust. 1, w swym najmniejszym wymiarze liniowym liczonym od płaszczyzny obiektu budowlanego, nie może wynosić mniej niż 1/10 wysokości, z której mogą spadać przedmioty, lecz nie mniej niż 6 m.
 
 3. W zwartej zabudowie miejskiej strefa niebezpieczna, o której mowa w ust. 1, może być zmniejszona pod warunkiem zastosowania innych rozwiązań technicznych lub organizacyjnych, zabezpieczających przed spadaniem przedmiotów.
 
+<a id="par-22"></a>
 ### § 22.
 
 1. Daszki ochronne powinny znajdować się na wysokości nie mniejszej niż 2,4 m nad terenem w najniższym miejscu i być nachylone pod kątem 45° w kierunku źródła zagrożenia. Pokrycie daszków powinno być szczelne i odporne na przebicie przez spadające przedmioty.
@@ -158,14 +474,17 @@ Przed skrzyżowaniem dróg z napowietrznymi liniami elektroenergetycznymi, w odl
 
 3. Używanie daszków ochronnych jako rusztowań lub miejsc składowania narzędzi, sprzętu, materiałów jest zabronione.
 
+<a id="par-23"></a>
 ### § 23.
 
 Na terenie budowy wyznacza się, utwardza i odwadnia miejsca do składowania materiałów i wyrobów.
 
+<a id="par-24"></a>
 ### § 24.
 
-Doły na wapno gaszone powinny mieć umocnione ściany i być zabezpieczone balustradami ochronnymi, o których mowa w § 15 ust. 2, umieszczonymi w odległości nie mniejszej niż 1 m od krawędzi dołu.
+Doły na wapno gaszone powinny mieć umocnione ściany i być zabezpieczone balustradami ochronnymi, o których mowa w [§ 15](#par-15) ust. 2, umieszczonymi w odległości nie mniejszej niż 1 m od krawędzi dołu.
 
+<a id="par-25"></a>
 ### § 25.
 
 1. W przypadku przechowywania w magazynach substancji i preparatów niebezpiecznych należy informację o tym zamieścić na tablicach ostrzegawczych, umieszczonych w widocznych miejscach. Towary te na terenie budowy przechowuje się i użytkuje zgodnie z instrukcjami producenta.
@@ -174,6 +493,7 @@ Doły na wapno gaszone powinny mieć umocnione ściany i być zabezpieczone balu
 
 3. W pomieszczeniach magazynowych umieszcza się tablice określające dopuszczalne obciążenie regałów magazynowych, a także dopuszczalne obciążenie powierzchni stropu.
 
+<a id="par-26"></a>
 ### § 26.
 
 1. Składowiska materiałów, wyrobów i urządzeń technicznych wykonuje się w sposób wykluczający możliwość wywrócenia, zsunięcia, rozsunięcia się lub spadnięcia składowanych wyrobów i urządzeń.
@@ -190,50 +510,62 @@ Doły na wapno gaszone powinny mieć umocnione ściany i być zabezpieczone balu
 
 2) 5 m — od stałego stanowiska pracy.
 
+<a id="par-27"></a>
 ### § 27.
 
 Opieranie składowanych materiałów lub wyrobów o płoty, słupy napowietrznych linii elektroenergetycznych, konstrukcje wsporcze sieci trakcyjnej lub ściany obiektu budowlanego, jest zabronione.
 
+<a id="par-28"></a>
 ### § 28.
 
 Wchodzenie i schodzenie ze stosu utworzonego ze składowanych materiałów lub wyrobów jest dopuszczalne wyłącznie przy użyciu drabiny lub schodni.
 
+<a id="par-29"></a>
 ### § 29.
 
 Podczas mechanicznego załadunku lub rozładunku materiałów lub wyrobów, przemieszczanie ich nad ludźmi lub kabiną, w której znajduje się kierowca, jest zabronione. Na czas wykonywania tych czynności kierowca jest obowiązany opuścić kabinę.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Warunki socjalne i higieniczne
 
+<a id="par-30"></a>
 ### § 30.
 
 Na terenie budowy urządza się wydzielone pomieszczenia szatni na odzież roboczą i ochronną, umywalni, jadalni, suszarni i ustępów.
 
+<a id="par-31"></a>
 ### § 31.
 
 1. Na terenie budowy, na której roboty budowlane wykonuje więcej niż 20 pracujących, zabrania się urządzania w jednym pomieszczeniu szatni i jadalni.
 
 2. Szafki na odzież osób wykonujących roboty na terenie budowy, o której mowa w ust. 1, powinny być dwudzielne, zapewniające możliwość przechowywania oddzielnie odzieży roboczej i własnej.
 
+<a id="par-32"></a>
 ### § 32.
 
 Dopuszczalne jest korzystanie z istniejących na terenie budowy pomieszczeń i urządzeń higieniczno-sanitarnych inwestora, jeżeli przewiduje to zawarta umowa.
 
+<a id="par-33"></a>
 ### § 33.
 
 W przypadku usytuowania pomieszczeń higieniczno-sanitarnych w kontenerach dopuszcza się niższą wysokość tych pomieszczeń niż określona w § 1 ust. 4 załącznika nr 3 do rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy (Dz. U. Nr 129, poz. 844 oraz z 2002 r. Nr 91, poz. 811).
 
+<a id="par-34"></a>
 ### § 34.
 
 Dopuszcza się stosowanie ławek w pomieszczeniach higieniczno-sanitarnych jako miejsc siedzących, jeżeli są one trwale przytwierdzone do podłoża.
 
+<a id="par-35"></a>
 ### § 35.
 
-Jadalnie urządzane na budowie powinny spełniać wymagania dla jadalni typu II, określone w § 30 załącznika nr 3 do rozporządzenia, o którym mowa w § 33.
+Jadalnie urządzane na budowie powinny spełniać wymagania dla jadalni typu II, określone w § 30 załącznika nr 3 do rozporządzenia, o którym mowa w [§ 33](#par-33).
 
+<a id="par-36"></a>
 ### § 36.
 
 Palenie tytoniu może odbywać się wyłącznie na otwartej przestrzeni lub w specjalnie do tego celu przystosowanym pomieszczeniu (palarni).
 
+<a id="par-37"></a>
 ### § 37.
 
 1. Jeżeli wymaga tego bezpieczeństwo lub ochrona zdrowia osób wykonujących roboty budowlane, albo gdy wynika to z rodzaju wykonywanych robót, należy zapewnić osobom wykonującym takie roboty pomieszczenia do odpoczynku lub pomieszczenia mieszkalne.
@@ -244,26 +576,31 @@ Palenie tytoniu może odbywać się wyłącznie na otwartej przestrzeni lub w sp
 
 4. W innych przypadkach niż określone w ust. 1 zapewnia się inne miejsca, wykorzystywane podczas przerw w pracy.
 
+<a id="par-38"></a>
 ### § 38.
 
 W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w niniejszym rozdziale, stosuje się ogólne przepisy bezpieczeństwa i higieny pracy.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Wymagania dotyczące miejsc pracy usytuowanych w budynkach oraz w obiektach poddawanych remontowi lub przebudowie
 
+<a id="par-39"></a>
 ### § 39.
 
 1. Strefy gromadzenia i usuwania odpadów należy wygrodzić i oznakować.
 
 2. Odpady należy usuwać w sposób ograniczający ich rozrzut i pylenie.
 
+<a id="par-40"></a>
 ### § 40.
 
 1. Na czas układania podłóg i podłoży pod posadzki na ciągach komunikacyjnych należy ułożyć pomosty wyrównujące poziomy robocze.
 
 2. Ściany i inne przegrody, które mogą ulec przewróceniu w czasie montażu lub wznoszenia, należy odpowiednio zabezpieczyć.
 
-3. Krawędzie stropów nieobudowanych ścianami należy zabezpieczyć balustradami, o których mowa w § 15 ust. 2.
+3. Krawędzie stropów nieobudowanych ścianami należy zabezpieczyć balustradami, o których mowa w [§ 15](#par-15) ust. 2.
 
+<a id="par-41"></a>
 ### § 41.
 
 1. Drogi ewakuacyjne muszą odpowiadać wymaganiom przepisów techniczno-budowlanych oraz przepisów przeciwpożarowych.
@@ -272,6 +609,7 @@ W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w ni
 
 3. Przed rozpoczęciem robót budowlanych ustala się istniejące trasy przebiegu mediów i zapoznaje się z symbolami oznaczeń tych tras osoby wykonujące roboty budowlane.
 
+<a id="par-42"></a>
 ### § 42.
 
 1. Teren budowy wyposaża się w niezbędny sprzęt do gaszenia pożaru oraz, w zależności od potrzeb, w system sygnalizacji pożarowej, dostosowany do charakteru budowy, rozmiarów i sposobu wykorzystania pomieszczeń, wyposażenia budowy, fizycznych i chemicznych właściwości substancji znajdujących się na terenie budowy, w ilości wynikającej z liczby zagrożonych osób.
@@ -280,6 +618,7 @@ W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w ni
 
 3. Ilość i rozmieszczenie gaśnic przenośnych powinno być zgodne z wymaganiami przepisów przeciwpożarowych.
 
+<a id="par-43"></a>
 ### § 43.
 
 1. W pomieszczeniach zamkniętych zapewnia się wymianę powietrza, wynikającą z potrzeb bezpieczeństwa pracy.
@@ -290,11 +629,12 @@ W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w ni
 
 4. Jeżeli potrzeba ochrony zdrowia osób wymaga zastosowania systemu wentylacyjnego, system ten powinien być uruchamiany automatycznie lub włączany przez osoby przed wejściem w strefę, w której atmosfera może zawierać substancje wybuchowe, palne lub toksyczne albo szkodliwe.
 
+<a id="par-44"></a>
 ### § 44.
 
 1. Osoby wykonujące roboty budowlane nie mogą być narażone na działanie czynników szkodliwych dla zdrowia lub niebezpiecznych, a w szczególności takich jak hałas, wibracje, promieniowanie elektromagnetyczne, pyły i gazy o natężeniach i stężeniach przekraczających wartości dopuszczalne.
 
-2. Jeżeli osoby są obowiązane wejść do strefy, o której mowa w § 43 ust. 4, atmosfera tej strefy powinna być monitorowana za pomocą czujników alarmujących o stanach niebezpiecznych, a także powinny być podjęte odpowiednie środki zapobiegające zagrożeniom.
+2. Jeżeli osoby są obowiązane wejść do strefy, o której mowa w [§ 43](#par-43) ust. 4, atmosfera tej strefy powinna być monitorowana za pomocą czujników alarmujących o stanach niebezpiecznych, a także powinny być podjęte odpowiednie środki zapobiegające zagrożeniom.
 
 3. W przestrzeniach zamkniętych, w których atmosfera charakteryzuje się niewystarczającą zawartością tlenu lub występują czynniki o stężeniach nieprzekraczających wartości dopuszczalnych, osoba wykonująca zadanie powinna być obserwowana i asekurowana, w celu zapewnienia natychmiastowej ewakuacji i skutecznej pomocy.
 
@@ -318,6 +658,7 @@ W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w ni
 
 10. Miejsca, w których wykonywane są roboty impregnacyjne, należy zabezpieczyć przed zanieczyszczeniem środowiska środkami impregnacyjnymi.
 
+<a id="par-45"></a>
 ### § 45.
 
 1. Stanowiska pracy, pomieszczenia i drogi komunikacji powinny być, w miarę możliwości, oświetlone światłem dziennym.
@@ -338,6 +679,7 @@ W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w ni
 
 4) zjawisk stroboskopowych.
 
+<a id="par-46"></a>
 ### § 46.
 
 1. Otwory komunikacyjne w przegrodach budowlanych powinny odpowiadać wymaganiom zawartym w przepisach techniczno-budowlanych.
@@ -362,6 +704,7 @@ W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w ni
 
 2) trwałą, wytrzymałą i stabilną konstrukcję nośną.
 
+<a id="par-47"></a>
 ### § 47.
 
 1. W czasie układania posadzek i wykładzin podłogowych lub ściennych w pomieszczeniach z zastosowaniem mas palnych lub zawierających palne rozpuszczalniki o właściwościach wybuchowych oraz w czasie pokrywania podłóg lakierem lub innymi materiałami o podobnych właściwościach wybuchowych, należy na czas wykonywania robót i wyparowania rozpuszczalników:
@@ -380,12 +723,14 @@ W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w ni
 
 4. Palenie tytoniu oraz zbliżanie się osób do otwartych źródeł ognia w ubraniach roboczych nasyconych parami rozpuszczalników jest niedopuszczalne.
 
+<a id="par-48"></a>
 ### § 48.
 
 1. Dopuszcza się wykonywanie robót malarskich przy użyciu drabin rozstawnych tylko do wysokości nieprzekraczającej 4 m od poziomu podłogi.
 
 2. Drabiny należy zabezpieczyć przed poślizgiem i rozsunięciem się oraz zapewnić ich stabilność.
 
+<a id="par-49"></a>
 ### § 49.
 
 1. Wewnętrzne roboty malarskie z zastosowaniem składników wydzielających szkodliwe dla zdrowia substancje lotne należy wykonywać przy zapewnieniu intensywnej wentylacji pomieszczeń, uwzględniającej właściwości fizykochemiczne materiałów.
@@ -394,6 +739,7 @@ W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w ni
 
 3. W pomieszczeniach, w których są prowadzone roboty malarskie roztworami wodnymi, należy wyłączyć instalację elektryczną i stosować zasilanie niemogące powodować zagrożenia porażeniem prądem elektrycznym.
 
+<a id="par-50"></a>
 ### § 50.
 
 1. Obróbka kamieni na terenie budowy powinna być dokonywana w ogrodzonym miejscu, bez dostępu osób postronnych.
@@ -406,28 +752,34 @@ W sprawach dotyczących warunków higieniczno-sanitarnych, nieuregulowanych w ni
 
 5. Przy ręcznej lub mechanicznej obróbce elementów kamiennych pracownicy są obowiązani używać środków ochrony indywidualnej, takich jak: gogle lub przyłbice ochronne, kaski, rękawice wzmocnione skórą oraz obuwie z wkładkami stalowymi chroniącymi palce stóp.
 
+<a id="par-51"></a>
 ### § 51.
 
 Wymiary pomostów i ramp powinny być dostosowane do wymiarów przeładowywanych ładunków i środków transportu.
 
+<a id="par-52"></a>
 ### § 52.
 
 1. Stanowiska pracy powinny umożliwiać swobodę ruchu, niezbędną do wykonania pracy.
 
 2. Stanowiska pracy o niestałym charakterze należy poddawać sprawdzeniu pod względem ich stabilności, zamocowań oraz zabezpieczeń przed upadkiem osób i przedmiotów. Sprawdzenia należy dokonać po każdej zmianie usytuowania, po każdej przerwie w pracy trwającej dłużej niż 7 dni, a dla stanowisk usytuowanych na zewnątrz budynku — po silnym wietrze, opadach śniegu lub oblodzeniu.
 
+<a id="rozdzial-6"></a>
 ### Rozdział 6. Instalacje i urządzenia elektroenergetyczne
 
+<a id="par-53"></a>
 ### § 53.
 
 1. Instalacje rozdziału energii elektrycznej na terenie budowy powinny być zaprojektowane i wykonane oraz utrzymywane i użytkowane w taki sposób, aby nie stanowiły zagrożenia pożarowego lub wybuchowego, a także chroniły w dostatecznym stopniu pracowników przed porażeniem prądem elektrycznym.
 
 2. Projekt, konstrukcję i wybór materiałów oraz urządzeń ochronnych w instalacji, o której mowa w ust. 1, należy dostosować do typu, rodzaju i mocy rozdzielanej energii, warunków zewnętrznych oraz do poziomu kwalifikacji osób mających dostęp do instalacji.
 
+<a id="par-54"></a>
 ### § 54.
 
 Roboty związane z podłączaniem, sprawdzaniem, konserwacją i naprawą instalacji i urządzeń elektrycznych mogą być wykonywane wyłącznie przez osoby posiadające odpowiednie uprawnienia.
 
+<a id="par-55"></a>
 ### § 55.
 
 1. Nie jest dopuszczalne sytuowanie stanowisk pracy, składowisk wyrobów i materiałów lub maszyn i urządzeń budowlanych bezpośrednio pod napowietrznymi liniami elektroenergetycznymi lub w odległości liczonej w poziomie od skrajnych przewodów, mniejszej niż:
@@ -448,18 +800,21 @@ Roboty związane z podłączaniem, sprawdzaniem, konserwacją i naprawą instala
 
 4. Żurawie samojezdne, koparki i inne urządzenia ruchome, które mogą zbliżyć się na niebezpieczną odległość do napowietrznych lub kablowych linii elektroenergetycznych, o których mowa w ust. 1, powinny być wyposażone w sygnalizatory napięcia.
 
+<a id="par-56"></a>
 ### § 56.
 
 1. Rozdzielnice budowlane prądu elektrycznego znajdujące się na terenie budowy zabezpiecza się przed dostępem nieupoważnionych osób.
 
 2. Rozdzielnice, o których mowa w ust. 1, powinny być usytuowane w odległości nie większej niż 50 m od odbiorników energii.
 
+<a id="par-57"></a>
 ### § 57.
 
 1. Połączenia przewodów elektrycznych z urządzeniami mechanicznymi wykonuje się w sposób zapewniający bezpieczeństwo pracy osób obsługujących takie urządzenia.
 
 2. Przewody, o których mowa w ust. 1, zabezpiecza się przed uszkodzeniami mechanicznymi.
 
+<a id="par-58"></a>
 ### § 58.
 
 Okresowa kontrola stanu stacjonarnych urządzeń elektrycznych pod względem bezpieczeństwa odbywa się co najmniej jeden raz w miesiącu, natomiast kontrola stanu i oporności izolacji tych urządzeń, co najmniej dwa razy w roku, a ponadto:
@@ -470,14 +825,16 @@ Okresowa kontrola stanu stacjonarnych urządzeń elektrycznych pod względem bez
 
 3) przed uruchomieniem urządzenia po jego przemieszczeniu.
 
+<a id="par-59"></a>
 ### § 59.
 
-1. W przypadku zastosowania urządzeń ochronnych różnicowoprądowych w instalacji, o której mowa w § 53 ust. 1, należy sprawdzić ich działanie każdorazowo przed przystąpieniem do pracy.
+1. W przypadku zastosowania urządzeń ochronnych różnicowoprądowych w instalacji, o której mowa w [§ 53](#par-53) ust. 1, należy sprawdzić ich działanie każdorazowo przed przystąpieniem do pracy.
 
 2. Kopie zapisu pomiarów skuteczności zabezpieczenia przed porażeniem prądem elektrycznym powinny znajdować się u kierownika budowy.
 
 3. Dokonywane naprawy i przeglądy urządzeń elektrycznych powinny być odnotowane w książce konserwacji urządzeń.
 
+<a id="par-60"></a>
 ### § 60.
 
 1. Miejsca wykonania robót, drogi na terenie budowy, dojścia i dojazdy w czasie wykonywania robót powinny być dostatecznie oświetlone.
@@ -488,20 +845,24 @@ Okresowa kontrola stanu stacjonarnych urządzeń elektrycznych pod względem bez
 
 4. Słupy z punktami świetlnymi na drogach znajdujących się na terenie budowy należy rozmieścić wzdłuż dróg i na ich skrzyżowaniach. Na łukach dróg, przy jednostronnym oświetleniu, słupy należy ustawiać po zewnętrznej stronie łuku.
 
-5. Punkty świetlne i sygnalizacyjne powinny spełniać wymagania określone w § 45 ust. 4 i 5.
+5. Punkty świetlne i sygnalizacyjne powinny spełniać wymagania określone w [§ 45](#par-45) ust. 4 i 5.
 
+<a id="rozdzial-7"></a>
 ### Rozdział 7. Maszyny i inne urządzenia techniczne
 
+<a id="par-61"></a>
 ### § 61.
 
 Maszyny i inne urządzenia techniczne oraz narzędzia zmechanizowane powinny być montowane, eksploatowane i obsługiwane zgodnie z instrukcją producenta oraz spełniać wymagania określone w przepisach dotyczących systemu oceny zgodności.
 
+<a id="par-62"></a>
 ### § 62.
 
 1. Maszyny i inne urządzenia techniczne, podlegające dozorowi technicznemu, mogą być używane na terenie budowy tylko wówczas, jeżeli wystawiono dokumenty uprawniające do ich eksploatacji.
 
 2. Dokumenty te powinny być dostępne dla organów kontroli w miejscu eksploatacji maszyn i urządzeń, o których mowa w ust. 1.
 
+<a id="par-63"></a>
 ### § 63.
 
 1. Wykonawca, użytkujący maszyny i inne urządzenia techniczne, niepodlegające dozorowi technicznemu, udostępnia organom kontroli dokumentację techniczno-ruchową lub instrukcję obsługi tych maszyn lub urządzeń.
@@ -510,6 +871,7 @@ Maszyny i inne urządzenia techniczne oraz narzędzia zmechanizowane powinny by�
 
 3. Maszyny i inne urządzenia techniczne eksploatuje się, konserwuje i naprawia zgodnie z instrukcją producenta, w sposób zapewniający ich sprawne funkcjonowanie.
 
+<a id="par-64"></a>
 ### § 64.
 
 1. Maszyny i inne urządzenia techniczne powinny być:
@@ -522,22 +884,27 @@ Maszyny i inne urządzenia techniczne oraz narzędzia zmechanizowane powinny by�
 
 2. Maszyny i inne urządzenia techniczne pracujące pod ciśnieniem powinny być sprawdzane i poddawane regularnym kontrolom, zgodnie z przepisami odrębnymi.
 
+<a id="par-65"></a>
 ### § 65.
 
 Przeciążanie maszyn i innych urządzeń technicznych ponad dopuszczalne obciążenie robocze jest zabronione, z wyjątkiem przeciążeń dokonanych w czasie badań i prób.
 
+<a id="par-66"></a>
 ### § 66.
 
 Operatorzy lub maszyniści żurawi, maszyn budowlanych, kierowcy wózków i innych maszyn o napędzie silnikowym powinni posiadać wymagane kwalifikacje.
 
+<a id="par-67"></a>
 ### § 67.
 
 W przypadku stwierdzenia w czasie pracy uszkodzenia maszyny lub innego urządzenia technicznego należy je niezwłocznie unieruchomić i odłączyć dopływ energii.
 
+<a id="par-68"></a>
 ### § 68.
 
 Na stanowiskach pracy przy stacjonarnych maszynach i innych urządzeniach technicznych powinny być dostępne instrukcje bezpiecznej obsługi i konserwacji, z którymi zapoznaje się osoby upoważnione do pracy na tych stanowiskach.
 
+<a id="par-69"></a>
 ### § 69.
 
 1. Stanowiska pracy operatorów maszyn lub innych urządzeń technicznych, które nie posiadają kabin, powinny być:
@@ -548,30 +915,36 @@ Na stanowiskach pracy przy stacjonarnych maszynach i innych urządzeniach techni
 
 2. Zabezpieczenia, o których mowa w ust. 1, nie mogą ograniczać widoczności operatorowi.
 
+<a id="par-70"></a>
 ### § 70.
 
 1. Maszyny i inne urządzenia techniczne przed rozpoczęciem pracy i przy zmianie obsługi powinny być sprawdzone pod względem sprawności technicznej i bezpiecznego użytkowania.
 
 2. W przypadku maszyn i innych urządzeń technicznych, dla których prowadzona jest wymagana dokumentacja, sprawdzenie, o którym mowa w ust. 1, potwierdza się wpisem do tej dokumentacji.
 
+<a id="par-71"></a>
 ### § 71.
 
 Odtłuszczanie lub oczyszczanie powierzchni oraz części maszyn lub innych urządzeń technicznych wykonuje się środkami do tego przeznaczonymi.
 
+<a id="par-72"></a>
 ### § 72.
 
 Dokonywanie napraw i czynności konserwacyjnych sprzętu zmechanizowanego będącego w ruchu jest zabronione.
 
+<a id="par-73"></a>
 ### § 73.
 
 Zblocza jednokrążkowe i wielokrążkowe oraz inne zawiesia pomocnicze niepołączone na stałe z maszyną lub innymi urządzeniami technicznymi powinny być poddawane próbie obciążenia co najmniej raz w roku.
 
+<a id="par-74"></a>
 ### § 74.
 
 1. Przewody pracujące pod ciśnieniem sprężonego powietrza powinny mieć wytrzymałość dostosowaną do ciśnienia roboczego, z uwzględnieniem współczynnika bezpieczeństwa tych przewodów.
 
 2. Używanie uszkodzonych przewodów lub przewodów o nieznanej wytrzymałości jest zabronione.
 
+<a id="par-75"></a>
 ### § 75.
 
 1. Haki do przemieszczania ładunków powinny spełniać wymagania określone w przepisach dotyczących systemu oceny zgodności i mieć wyraźnie zaznaczoną nośność maksymalną.
@@ -580,34 +953,41 @@ Zblocza jednokrążkowe i wielokrążkowe oraz inne zawiesia pomocnicze niepoł�
 
 3. Ocena stopnia zużycia haków i ustalenie ich przydatności do dalszej pracy powinny być przeprowadzane przed rozpoczęciem każdej zmiany roboczej przez osobę posiadającą odpowiednie kwalifikacje.
 
+<a id="par-76"></a>
 ### § 76.
 
 Stosowanie elementów służących do zawieszania ładunku na haku, w szczególności pierścieni, ogniw, pętli, których wymiary uniemożliwiają swobodne włożenie elementów na dno gardzieli haka, jest zabronione.
 
+<a id="par-77"></a>
 ### § 77.
 
 1. Płyty pomostowe do przemieszczania ładunku z pojazdu na rampę lub na drugi pojazd powinny zapewniać bezpieczne przemieszczanie tych ładunków.
 
 2. Płyty, o których mowa w ust. 1, powinny być trwale oznaczone z wyraźnym napisem informującym o dopuszczalnym obciążeniu roboczym.
 
+<a id="par-78"></a>
 ### § 78.
 
 Pomosty i stojaki używane do przeładunku powinny odpowiadać wymaganiom wytrzymałościowym, a ich dopuszczalne obciążenie powinno być trwale uwidocznione wyraźnym napisem.
 
+<a id="par-79"></a>
 ### § 79.
 
 1. Pomosty lub rampy, przeznaczone do przejazdu pojazdów i sprzętu, powinny być szersze o 1,2 m od pojazdów i zabezpieczone barierami ochronnymi oraz zawierać prowadnice dla kół pojazdów.
 
 2. Prędkość pojazdów na pomostach i rampach nie powinna przekraczać 5 km/h.
 
+<a id="par-80"></a>
 ### § 80.
 
 Do przemieszczania ładunków płynnych lub plastycznych oraz materiałów żrących i parzących należy stosować specjalne pojemniki, a do ładunków płynnych w balonach — palety ze ścianami bocznymi.
 
+<a id="par-81"></a>
 ### § 81.
 
 Podstawki ładunkowe i palety powinny mieć gładkie powierzchnie i krawędzie.
 
+<a id="par-82"></a>
 ### § 82.
 
 1. Zawiesia budowlane powinny spełniać wymagania określone w przepisach dotyczących systemu oceny zgodności.
@@ -632,22 +1012,27 @@ Podstawki ładunkowe i palety powinny mieć gładkie powierzchnie i krawędzie.
 
 8. Wykonywanie węzłów na linach i łańcuchach i łączenie lin stalowych na długości jest zabronione.
 
+<a id="par-83"></a>
 ### § 83.
 
 Środki transportu do przewozu na terenie budowy butli z gazami technicznymi, kwasami lub innymi żrącymi cieczami powinny być wyposażone w urządzenia zabezpieczające ładunek przed wypadnięciem lub przemieszczeniem.
 
+<a id="par-84"></a>
 ### § 84.
 
 Ręczne wózki szynowe, używane na torze o pochyleniu większym niż 1%, powinny być zaopatrzone w sprawne hamulce.
 
+<a id="par-85"></a>
 ### § 85.
 
-Drogi dla wózków i taczek umieszczone nad poziomem terenu powyżej 1 m powinny być zabezpieczone w sposób określony w § 15 ust. 2.
+Drogi dla wózków i taczek umieszczone nad poziomem terenu powyżej 1 m powinny być zabezpieczone w sposób określony w [§ 15](#par-15) ust. 2.
 
+<a id="par-86"></a>
 ### § 86.
 
 Złącza szyn jezdnych żurawi powinny być zbocznikowane w sposób nieutrudniający dylatacji termicznej szyn.
 
+<a id="par-87"></a>
 ### § 87.
 
 1. Jeżeli drzwi kabiny żurawia znajdują się na wysokości powyżej 0,3 m ponad pomostami, przy kabinie należy zainstalować schodki lub stałe drabinki z poręczami, ułatwiające wejście.
@@ -658,14 +1043,17 @@ Złącza szyn jezdnych żurawi powinny być zbocznikowane w sposób nieutrudniaj
 
 4. Maszynista powinien mieć możliwość opuszczenia kabiny w każdym roboczym położeniu żurawia.
 
+<a id="par-88"></a>
 ### § 88.
 
 Żurawie zaopatruje się w tablice znamionowe z oznaczeniem dopuszczalnego udźwigu, a w przypadku udźwigu zmiennego powinien być podany jego wymagany udźwig przy określonych położeniach wysięgnika lub wózka na wysięgniku poziomym.
 
+<a id="par-89"></a>
 ### § 89.
 
 Odległość pomiędzy skrajnią podwozia lub platformy obrotowej żurawia a zewnętrznymi częściami konstrukcji montowanego obiektu budowlanego lub jego zabezpieczeń tymczasowych bądź stosami składowanych wyrobów, materiałów lub elementów powinna wynosić co najmniej 0,75 m.
 
+<a id="par-90"></a>
 ### § 90.
 
 Zabrania się w szczególności:
@@ -684,48 +1072,59 @@ Zabrania się w szczególności:
 
 7) podnoszenia ładunku przy ukośnym ułożeniu liny żurawia.
 
+<a id="par-91"></a>
 ### § 91.
 
 Poziome przemieszczanie ładunku żurawiem powinno odbywać się na wysokości nie mniejszej niż 1 m ponad przedmiotami znajdującymi się na drodze przenoszonego ładunku.
 
+<a id="par-92"></a>
 ### § 92.
 
 W czasie mechanicznego załadunku i rozładunku materiałów i wyrobów przemieszczanie ich bezpośrednio nad ludźmi lub nad kabiną kierowcy jest zabronione.
 
+<a id="par-93"></a>
 ### § 93.
 
 Roboczy zasięg haka żurawia powinien być większy co najmniej o 0,5 m od położenia środka masy montowanego elementu lub miejsca układanego ładunku.
 
+<a id="par-94"></a>
 ### § 94.
 
 Stanowisko pracy operatora dźwigu budowlanego powinno znajdować się w odległości nie mniejszej niż 6 m od konstrukcji tego dźwigu, przy czym operator ten powinien mieć możliwość obserwacji ruchu platformy na całej wysokości dźwigu.
 
+<a id="par-95"></a>
 ### § 95.
 
 Nad stanowiskiem pracy przy załadunku materiałów z poziomu terenu na platformę dźwigu budowlanego wykonuje się daszek ochronny. Daszek ten powinien wystawać co najmniej 2 m, licząc od zewnętrznej krawędzi platformy, w kierunku miejsca dostawy materiałów i wyrobów.
 
+<a id="par-96"></a>
 ### § 96.
 
 Dźwig wyposaża się w urządzenia sygnalizacyjne, umożliwiające porozumiewanie się osób między stanowiskami obsługi i odbioru.
 
+<a id="par-97"></a>
 ### § 97.
 
 Dostęp z pomostów roboczych do platformy ładunkowej szybowych dźwigów budowlanych zabezpiecza się ruchomymi zaporami o wysokości 1,1 m, w odległości 0,3 m od krawędzi pomostu roboczego.
 
+<a id="par-98"></a>
 ### § 98.
 
 Ładunek przewożony na platformie dźwigu zabezpiecza się przed zmianą położenia.
 
+<a id="par-99"></a>
 ### § 99.
 
 1. Podniesienie i opuszczenie kosza betoniarki powinno być poprzedzone sygnałem umownym, w szczególności dźwiękowym.
 
 2. Wchodzenie pod podniesiony kosz betoniarki jest zabronione.
 
+<a id="par-100"></a>
 ### § 100.
 
 Pomiędzy stanowiskiem odbioru mieszanki betonowej lub zaprawy a operatorem pompy powinna być zapewniona sygnalizacja.
 
+<a id="par-101"></a>
 ### § 101.
 
 1. Przejeżdżanie lub przechodzenie po przewodach służących do transportu mieszanki betonowej lub zaprawy jest zabronione.
@@ -738,12 +1137,14 @@ Pomiędzy stanowiskiem odbioru mieszanki betonowej lub zaprawy a operatorem pomp
 
 5. Zwiększenie ciśnienia w przewodach ponad wartość dopuszczalną jest zabronione.
 
+<a id="par-102"></a>
 ### § 102.
 
 1. Używanie narzędzi uszkodzonych jest zabronione.
 
 2. Wszelkie samowolne przeróbki narzędzi są zabronione.
 
+<a id="par-103"></a>
 ### § 103.
 
 Narzędzia do pracy udarowej nie mogą mieć:
@@ -754,20 +1155,24 @@ Narzędzia do pracy udarowej nie mogą mieć:
 
 3) rękojeści krótszych niż 0,15 m.
 
+<a id="par-104"></a>
 ### § 104.
 
 1. Obsługa pistoletu do wstrzeliwania kołków może być powierzona wyłącznie osobie posiadającej wymagane uprawnienia.
 
 2. Osoba, o której mowa w ust. 1, stosuje się do szczegółowych wymagań określonych w instrukcji obsługi.
 
+<a id="par-105"></a>
 ### § 105.
 
-Narzędzia ręczne o napędzie elektrycznym należy kontrolować zgodnie z instrukcją producenta. Wyniki kontroli powinny być odnotowywane i przechowywane przez osobę, o której mowa w § 5.
+Narzędzia ręczne o napędzie elektrycznym należy kontrolować zgodnie z instrukcją producenta. Wyniki kontroli powinny być odnotowywane i przechowywane przez osobę, o której mowa w [§ 5](#par-5).
 
+<a id="par-106"></a>
 ### § 106.
 
 Stosowanie koksowników do przesuszania pomieszczeń zamkniętych jest zabronione.
 
+<a id="par-107"></a>
 ### § 107.
 
 1. Przebywanie osób w pomieszczeniach osuszanych urządzeniami grzewczymi, wydzielającymi szkodliwe dla zdrowia spaliny w stopniu przekraczającym dopuszczalne ich stężenie jest zabronione.
@@ -776,8 +1181,10 @@ Stosowanie koksowników do przesuszania pomieszczeń zamkniętych jest zabronion
 
 3. Przed wejściem do pomieszczeń, o których mowa w ust. 1, należy je przewietrzyć, a po wejściu do nich zachować niezbędne środki ostrożności.
 
+<a id="rozdzial-8"></a>
 ### Rozdział 8. Rusztowania i ruchome podesty robocze
 
+<a id="par-108"></a>
 ### § 108.
 
 1. Rusztowania i ruchome podesty robocze powinny być wykonywane zgodnie z dokumentacją producenta albo projektem indywidualnym.
@@ -788,10 +1195,12 @@ Stosowanie koksowników do przesuszania pomieszczeń zamkniętych jest zabronion
 
 4. Montaż rusztowań, ich eksploatacja i demontaż powinny być wykonywane zgodnie z instrukcją producenta albo projektem indywidualnym.
 
+<a id="par-109"></a>
 ### § 109.
 
 Osoby zatrudnione przy montażu i demontażu rusztowań oraz monterzy ruchomych podestów roboczych powinni posiadać wymagane uprawnienia.
 
+<a id="par-110"></a>
 ### § 110.
 
 1. Użytkowanie rusztowania jest dopuszczalne po dokonaniu jego odbioru przez kierownika budowy lub uprawnioną osobę.
@@ -814,6 +1223,7 @@ Osoby zatrudnione przy montażu i demontażu rusztowań oraz monterzy ruchomych 
 
 7) terminy kolejnych przeglądów rusztowania.
 
+<a id="par-111"></a>
 ### § 111.
 
 1. Na rusztowaniu lub ruchomym podeście roboczym powinna być umieszczona tablica określająca:
@@ -824,6 +1234,7 @@ Osoby zatrudnione przy montażu i demontażu rusztowań oraz monterzy ruchomych 
 
 2. Rusztowania i ruchome podesty robocze powinny być wykorzystywane zgodnie z przeznaczeniem.
 
+<a id="par-112"></a>
 ### § 112.
 
 Rusztowania i ruchome podesty robocze powinny:
@@ -836,20 +1247,23 @@ Rusztowania i ruchome podesty robocze powinny:
 
 4) zapewniać możliwość wykonywania robót w pozycji niepowodującej nadmiernego wysiłku;
 
-5) posiadać poręcz ochronną, o której mowa w § 15 ust. 2;
+5) posiadać poręcz ochronną, o której mowa w [§ 15](#par-15) ust. 2;
 
 6) posiadać piony komunikacyjne.
 
+<a id="par-113"></a>
 ### § 113.
 
 1. Rusztowania stojakowe powinny mieć wydzielone bezpieczne piony komunikacyjne.
 
 2. Odległość najbardziej oddalonego stanowiska pracy od pionu komunikacyjnego rusztowania nie powinna być większa niż 20 m, a między pionami nie większa niż 40 m.
 
+<a id="par-114"></a>
 ### § 114.
 
 Rusztowania należy ustawiać na podłożu ustabilizowanym i wyprofilowanym, ze spadkiem umożliwiającym odpływ wód opadowych.
 
+<a id="par-115"></a>
 ### § 115.
 
 1. Liczbę i rozmieszczenie zakotwień rusztowania oraz wielkość siły kotwiącej należy określić w projekcie rusztowania lub dokumentacji producenta.
@@ -858,48 +1272,56 @@ Rusztowania należy ustawiać na podłożu ustabilizowanym i wyprofilowanym, ze 
 
 3. Konstrukcja rusztowania nie powinna wystawać poza najwyżej położoną linię kotew więcej niż 3 m, a pomost roboczy umieszcza się nie wyżej niż 1,5 m ponad tą linią.
 
-4. W przypadku odsunięcia rusztowania od ściany ponad 0,2 m należy stosować balustrady, o których mowa w § 15 ust. 2, od strony tej ściany.
+4. W przypadku odsunięcia rusztowania od ściany ponad 0,2 m należy stosować balustrady, o których mowa w [§ 15](#par-15) ust. 2, od strony tej ściany.
 
+<a id="par-116"></a>
 ### § 116.
 
 Udźwig urządzenia do transportu materiałów na wysięgnikach mocowanych do konstrukcji rusztowania nie może przekraczać 1,5 kN.
 
+<a id="par-117"></a>
 ### § 117.
 
 Rusztowanie z elementów metalowych powinno być uziemione i posiadać instalację piorunochronną.
 
+<a id="par-118"></a>
 ### § 118.
 
 1. Usytuowanie rusztowania w obrębie ciągów komunikacyjnych wymaga zgody właściwych organów nadzorujących te ciągi oraz zastosowania wymaganych przez nie środków bezpieczeństwa. Środki bezpieczeństwa powinny być określone w projekcie organizacji ruchu.
 
-2. Rusztowania, o których mowa w ust. 1, oprócz wymagań określonych w § 112, powinny posiadać co najmniej:
+2. Rusztowania, o których mowa w ust. 1, oprócz wymagań określonych w [§ 112](#par-112), powinny posiadać co najmniej:
 
 1) zabezpieczenia przed spadaniem przedmiotów z rusztowania;
 
 2) zabezpieczenie przechodniów przed możliwością powstania urazów oraz uszkodzeniem odzieży przez elementy konstrukcyjne rusztowania.
 
+<a id="par-119"></a>
 ### § 119.
 
-1. Rusztowania, usytuowane bezpośrednio przy drogach, ulicach oraz w miejscach przejazdów i przejść dla pieszych, oprócz wymagań określonych w § 112, powinny posiadać daszki ochronne i osłonę z siatek ochronnych.
+1. Rusztowania, usytuowane bezpośrednio przy drogach, ulicach oraz w miejscach przejazdów i przejść dla pieszych, oprócz wymagań określonych w [§ 112](#par-112), powinny posiadać daszki ochronne i osłonę z siatek ochronnych.
 
-2. Stosowanie siatek ochronnych nie zwalnia z obowiązku stosowania balustrad, o których mowa w § 15 ust. 2.
+2. Stosowanie siatek ochronnych nie zwalnia z obowiązku stosowania balustrad, o których mowa w [§ 15](#par-15) ust. 2.
 
+<a id="par-120"></a>
 ### § 120.
 
 1. Osoby dokonujące montażu i demontażu rusztowań są obowiązane do stosowania urządzeń zabezpieczających przed upadkiem z wysokości.
 
 2. Przed montażem lub demontażem rusztowań należy wyznaczyć i ogrodzić strefę niebezpieczną.
 
+<a id="par-121"></a>
 ### § 121.
 
 1. Równoczesne wykonywanie robót na różnych poziomach rusztowania jest dopuszczalne, pod warunkiem zachowania wymaganych odstępów między stanowiskami pracy.
 
 2. W przypadkach innych, niż określone w ust. 1, odległości bezpieczne wynoszą w poziomie co najmniej 5 m, a w pionie wynikają z zachowania co najmniej jednego szczelnego pomostu, nie licząc pomostu, na którym roboty są wykonywane.
 
+<a id="par-122"></a>
 ### § 122.
 
 Montaż, eksploatacja i demontaż rusztowań oraz ruchomych podestów roboczych, usytuowanych w sąsiedztwie napowietrznych linii elektroenergetycznych, są dopuszczalne, jeżeli linie znajdują się poza strefą niebezpieczną. W innym przypadku, przed rozpoczęciem robót, napięcie w liniach napowietrznych powinno być wyłączone.
 
+<a id="par-123"></a>
 ### § 123.
 
 Montaż, eksploatacja i demontaż rusztowań i ruchomych podestów roboczych są zabronione:
@@ -910,14 +1332,17 @@ Montaż, eksploatacja i demontaż rusztowań i ruchomych podestów roboczych są
 
 3) w czasie burzy lub wiatru, o prędkości przekraczającej 10 m/s.
 
+<a id="par-124"></a>
 ### § 124.
 
 Pozostawianie materiałów i wyrobów na pomostach rusztowań i ruchomych podestów roboczych po zakończeniu pracy jest zabronione.
 
+<a id="par-125"></a>
 ### § 125.
 
 Zrzucanie elementów demontowanych rusztowań i ruchomych podestów roboczych jest zabronione.
 
+<a id="par-126"></a>
 ### § 126.
 
 1. Wchodzenie i schodzenie osób na pomost ruchomego podestu roboczego jest dozwolone, jeżeli pomost znajduje się w najniższym położeniu lub w położeniu przewidzianym do wchodzenia oraz jest wyposażony w zabezpieczenia, zgodnie z instrukcją producenta.
@@ -928,80 +1353,97 @@ Zrzucanie elementów demontowanych rusztowań i ruchomych podestów roboczych je
 
 4. Łączenie ze sobą dwóch sąsiednich ruchomych podestów roboczych oraz przechodzenie z jednego na drugi jest zabronione.
 
+<a id="par-127"></a>
 ### § 127.
 
 1. Rusztowania i ruchome podesty robocze powinny być każdorazowo sprawdzane, przez kierownika budowy lub uprawnioną osobę, po silnym wietrze, opadach atmosferycznych oraz działaniu innych czynników, stwarzających zagrożenie dla bezpieczeństwa wykonania prac, i przerwach roboczych dłuższych niż 10 dni oraz okresowo, nie rzadziej niż raz w miesiącu.
 
 2. Zakres czynności objętych sprawdzeniem, o którym mowa w ust. 1, określa instrukcja producenta lub projekt indywidualny.
 
+<a id="par-128"></a>
 ### § 128.
 
 W czasie burzy i przy wietrze o prędkości większej niż 10 m/s pracę na ruchomym podeście roboczym należy przerwać, a pomost podestu opuścić do najniższego położenia i zabezpieczyć przed jego przemieszczaniem.
 
+<a id="par-129"></a>
 ### § 129.
 
 1. W przypadku braku dopływu prądu elektrycznego przez dłuższy okres czasu, znajdujący się w górze pomost ruchomego podestu roboczego należy opuścić za pomocą ręcznego urządzenia.
 
 2. Naprawa ruchomych podestów roboczych może być dokonywana wyłącznie w ich najniższym położeniu.
 
+<a id="par-130"></a>
 ### § 130.
 
 Droga przemieszczania rusztowań przejezdnych powinna być wyrównana, utwardzona, odwodniona, a jej spadek nie może przekraczać 1%.
 
+<a id="par-131"></a>
 ### § 131.
 
 Rusztowania przejezdne powinny być zabezpieczone co najmniej w dwóch miejscach przed przypadkowym przemieszczeniem.
 
+<a id="par-132"></a>
 ### § 132.
 
 Przemieszczanie rusztowań przejezdnych, w przypadku gdy przebywają na nich ludzie, jest zabronione.
 
+<a id="rozdzial-9"></a>
 ### Rozdział 9. Roboty na wysokości
 
+<a id="par-133"></a>
 ### § 133.
 
-1. Osoby przebywające na stanowiskach pracy, znajdujące się na wysokości co najmniej 1 m od poziomu podłogi lub ziemi, powinny być zabezpieczone przed upadkiem z wysokości w sposób, o którym mowa w § 15 ust. 2.
+1. Osoby przebywające na stanowiskach pracy, znajdujące się na wysokości co najmniej 1 m od poziomu podłogi lub ziemi, powinny być zabezpieczone przed upadkiem z wysokości w sposób, o którym mowa w [§ 15](#par-15) ust. 2.
 
 2. Przepis ust. 1 stosuje się do przejść i dojść do tych stanowisk oraz do klatek schodowych.
 
+<a id="par-134"></a>
 ### § 134.
 
-Otwory w stropach, na których prowadzone są roboty lub do których możliwy jest dostęp ludzi, należy zabezpieczyć przed możliwością wpadnięcia lub ogrodzić balustradą, o której mowa w § 15 ust. 2.
+Otwory w stropach, na których prowadzone są roboty lub do których możliwy jest dostęp ludzi, należy zabezpieczyć przed możliwością wpadnięcia lub ogrodzić balustradą, o której mowa w [§ 15](#par-15) ust. 2.
 
+<a id="par-135"></a>
 ### § 135.
 
 Pomosty robocze, wykonane z desek lub bali, powinny być dostosowane do zaprojektowanego obciążenia, szczelne i zabezpieczone przed zmianą położenia.
 
+<a id="par-136"></a>
 ### § 136.
 
-Otwory w ścianach zewnętrznych obiektu budowlanego, stropach lub inne, których dolna krawędź znajduje się poniżej 1,1 m od poziomu stropu lub pomostu, powinny być zabezpieczone balustradą, o której mowa w § 15 ust. 2.
+Otwory w ścianach zewnętrznych obiektu budowlanego, stropach lub inne, których dolna krawędź znajduje się poniżej 1,1 m od poziomu stropu lub pomostu, powinny być zabezpieczone balustradą, o której mowa w [§ 15](#par-15) ust. 2.
 
+<a id="par-137"></a>
 ### § 137.
 
-Pozostawione w czasie wykonywania robót w ścianach otwory, zwłaszcza otwory na drzwi, balkony, szyby dźwigów, powinny być zabezpieczone balustradą, o której mowa w § 15 ust. 2.
+Pozostawione w czasie wykonywania robót w ścianach otwory, zwłaszcza otwory na drzwi, balkony, szyby dźwigów, powinny być zabezpieczone balustradą, o której mowa w [§ 15](#par-15) ust. 2.
 
+<a id="par-138"></a>
 ### § 138.
 
 1. Przemieszczane w poziomie stanowisko pracy powinno mieć zapewnione mocowanie końcówki linki bezpieczeństwa do pomocniczej liny ochronnej lub prowadnicy poziomej, zamocowanej na wysokości około 1,5 m, wzdłuż zewnętrznej strony krawędzi przejścia.
 
 2. Wytrzymałość i sposób zamocowania prowadnicy, o której mowa w ust. 1, powinny uwzględniać obciążenie dynamiczne spadającej osoby.
 
+<a id="par-139"></a>
 ### § 139.
 
 1. W przypadku gdy zachodzi konieczność przemieszczania stanowiska pracy w pionie, linka bezpieczeństwa szelek bezpieczeństwa powinna być zamocowana do prowadnicy pionowej za pomocą urządzenia samohamującego.
 
 2. Długość linki bezpieczeństwa szelek bezpieczeństwa nie powinna być większa niż 1,5 m.
 
+<a id="par-140"></a>
 ### § 140.
 
 Amortyzatory spadania nie są wymagane, jeżeli linki asekuracyjne są mocowane do linek urządzeń samohamujących, ograniczających wystąpienie siły dynamicznej w momencie spadania, zwłaszcza aparatów bezpieczeństwa lub pasów bezwładnościowych.
 
+<a id="par-141"></a>
 ### § 141.
 
 1. Drabina bez pałąków, której długość przekracza 4 m, przed podniesieniem lub zamontowaniem powinna być wyposażona w prowadnicę pionową, umożliwiającą założenie urządzenia samohamującego, połączonego z linką bezpieczeństwa szelek bezpieczeństwa.
 
 2. Prowadnica pionowa z urządzeniem samohamującym może być zamocowana na wznoszonej konstrukcji drabiny, na klamrach lub szczeblach, w odległości od osi drabiny nie większej niż 0,4 m.
 
+<a id="par-142"></a>
 ### § 142.
 
 1. Osoby korzystające z urządzeń krzesełkowych, drabin linowych lub ruchomych podestów roboczych powinny być dodatkowo zabezpieczone przed upadkiem z wysokości za pomocą prowadnicy pionowej, zamocowanej niezależnie od lin nośnych drabiny, krzesełka lub podestu.
@@ -1012,12 +1454,15 @@ Amortyzatory spadania nie są wymagane, jeżeli linki asekuracyjne są mocowane 
 
 4. Długość linki bezpieczeństwa, łączącej szelki bezpieczeństwa z aparatem samohamującym, nie powinna przekraczać 0,5 m.
 
+<a id="rozdzial-10"></a>
 ### Rozdział 10. Roboty ziemne
 
+<a id="par-143"></a>
 ### § 143.
 
 Roboty ziemne powinny być prowadzone na podstawie projektu, określającego położenie instalacji i urządzeń podziemnych, mogących znaleźć się w zasięgu prowadzonych robót.
 
+<a id="par-144"></a>
 ### § 144.
 
 1. Wykonywanie robót ziemnych w bezpośrednim sąsiedztwie sieci, takich jak: elektroenergetyczne, gazowe, telekomunikacyjne, ciepłownicze, wodociągowe i kanalizacyjne powinno być poprzedzone określeniem przez kierownika budowy bezpiecznej odległości, w jakiej mogą być one wykonywane od istniejącej sieci, i sposobu wykonywania tych robót.
@@ -1028,9 +1473,10 @@ Roboty ziemne powinny być prowadzone na podstawie projektu, określającego po�
 
 4. Prowadzenie robót ziemnych w pobliżu instalacji podziemnych, a także głębienie wykopów poszukiwawczych powinno odbywać się ręcznie.
 
+<a id="par-145"></a>
 ### § 145.
 
-1. W czasie wykonywania wykopów w miejscach dostępnych dla osób niezatrudnionych przy tych robotach należy wokół wykopów pozostawionych na czas zmroku i w nocy ustawić balustrady, o których mowa w § 15 ust. 2, zaopatrzone w światło ostrzegawcze koloru czerwonego.
+1. W czasie wykonywania wykopów w miejscach dostępnych dla osób niezatrudnionych przy tych robotach należy wokół wykopów pozostawionych na czas zmroku i w nocy ustawić balustrady, o których mowa w [§ 15](#par-15) ust. 2, zaopatrzone w światło ostrzegawcze koloru czerwonego.
 
 2. Poręcze balustrad, o których mowa w ust. 1, powinny znajdować się na wysokości 1,1 m nad terenem i w odległości nie mniejszej niż 1 m od krawędzi wykopu.
 
@@ -1038,10 +1484,12 @@ Roboty ziemne powinny być prowadzone na podstawie projektu, określającego po�
 
 4. W przypadku przykrycia wykopu, zamiast balustrad, o których mowa w ust. 3, teren robót można oznaczyć za pomocą balustrad z lin lub taśm z tworzyw sztucznych, umieszczonych wzdłuż wykopu na wysokości 1,1 m i w odległości 1 m od krawędzi wykopu.
 
+<a id="par-146"></a>
 ### § 146.
 
 Jeżeli teren, na którym są wykonywane roboty ziemne, nie może być ogrodzony, wykonawca robót powinien zapewnić stały jego dozór.
 
+<a id="par-147"></a>
 ### § 147.
 
 1. Wykopy o ścianach pionowych nieumocnionych, bez rozparcia lub podparcia, mogą być wykonywane tylko do głębokości 1 m w gruntach zwartych, w przypadku gdy teren przy wykopie nie jest obciążony w pasie o szerokości równej głębokości wykopu.
@@ -1052,6 +1500,7 @@ Jeżeli teren, na którym są wykonywane roboty ziemne, nie może być ogrodzony
 
 4. Niedopuszczalne jest używanie elementów obudowy wykopu niezgodnie z przeznaczeniem.
 
+<a id="par-148"></a>
 ### § 148.
 
 W czasie wykonywania wykopów ze skarpami o bezpiecznym nachyleniu, zgodnym z przepisami odrębnymi, należy:
@@ -1062,6 +1511,7 @@ W czasie wykonywania wykopów ze skarpami o bezpiecznym nachyleniu, zgodnym z pr
 
 3) sprawdzać stan skarpy po deszczu, mrozie lub po dłuższej przerwie w pracy.
 
+<a id="par-149"></a>
 ### § 149.
 
 Bezpieczne nachylenie ścian wykopów powinno być określone w dokumentacji projektowej wówczas, gdy:
@@ -1076,10 +1526,12 @@ Bezpieczne nachylenie ścian wykopów powinno być określone w dokumentacji pro
 
 5) głębokość wykopu wynosi więcej niż 4 m.
 
+<a id="par-150"></a>
 ### § 150.
 
 W czasie wykonywania koparką wykopów wąskoprzestrzennych należy wykonywać obudowę wyłącznie z zabezpieczonej części wykopu lub zastosować obudowę prefabrykowaną, z użyciem wcześniej przewidzianych urządzeń mechanicznych.
 
+<a id="par-151"></a>
 ### § 151.
 
 1. Jeżeli wykop osiągnie głębokość większą niż 1 m od poziomu terenu, należy wykonać zejście (wejście) do wykopu.
@@ -1088,16 +1540,19 @@ W czasie wykonywania koparką wykopów wąskoprzestrzennych należy wykonywać o
 
 3. Wchodzenie do wykopu i wychodzenie po rozporach oraz przemieszczanie osób urządzeniami służącymi do wydobywania urobku jest zabronione.
 
+<a id="par-152"></a>
 ### § 152.
 
 Każdorazowe rozpoczęcie robót w wykopie wymaga sprawdzenia stanu jego obudowy lub skarp.
 
+<a id="par-153"></a>
 ### § 153.
 
 1. Jeżeli roboty odbywają się w wykopie wąskoprzestrzennym jednocześnie z transportem urobku, wykop przykrywa się szczelnym i wytrzymałym zabezpieczeniem.
 
 2. Pojemniki do transportu urobku powinny być załadowane poniżej górnej ich krawędzi.
 
+<a id="par-154"></a>
 ### § 154.
 
 Składowanie urobku, materiałów i wyrobów jest zabronione:
@@ -1106,10 +1561,12 @@ Składowanie urobku, materiałów i wyrobów jest zabronione:
 
 2) w strefie klina naturalnego odłamu gruntu, jeżeli ściany wykopu nie są obudowane.
 
+<a id="par-155"></a>
 ### § 155.
 
 Ruch środków transportowych obok wykopów powinien odbywać się poza granicą klina naturalnego odłamu gruntu.
 
+<a id="par-156"></a>
 ### § 156.
 
 1. W czasie zasypywania obudowanych wykopów zabezpieczenie należy demontować od dna wykopu i stopniowo usuwać je, w miarę zasypywania wykopu.
@@ -1120,32 +1577,39 @@ Ruch środków transportowych obok wykopów powinien odbywać się poza granicą
 
 2) w pozostałych gruntach — na głębokości nie większej niż 0,3 m.
 
+<a id="par-157"></a>
 ### § 157.
 
 W czasie wykonywania robót ziemnych nie powinno dopuszczać się do tworzenia się nawisów gruntu.
 
+<a id="par-158"></a>
 ### § 158.
 
 1. Koparka w czasie pracy powinna być ustawiona w odległości od wykopu co najmniej 0,6 m poza granicą klina naturalnego odłamu gruntu.
 
 2. Przy wykonywaniu robót ziemnych sprzętem zmechanizowanym należy wyznaczyć w terenie strefę niebezpieczną i odpowiednio ją oznakować.
 
+<a id="par-159"></a>
 ### § 159.
 
 Przebywanie osób pomiędzy ścianą wykopu a koparką, nawet w czasie postoju, jest zabronione.
 
+<a id="par-160"></a>
 ### § 160.
 
 Podgrzewanie, rozmrażanie lub zamrażanie gruntu powinno być prowadzone zgodnie z dokumentacją projektową oraz instrukcją bezpieczeństwa, opracowaną przez wykonawcę.
 
+<a id="par-161"></a>
 ### § 161.
 
 Teren, na którym odbywa się podgrzewanie, rozmrażanie lub zamrażanie gruntu powinien być przez cały czas procesu ogrodzony i oznakowany tablicami ostrzegawczymi, oświetlony o zmroku i w porze nocnej oraz fachowo nadzorowany.
 
+<a id="par-162"></a>
 ### § 162.
 
 Zakładanie obudowy lub montaż rur w uprzednio wykonanym wykopie o ścianach pionowych i na głębokości poniżej 1 m wymaga tymczasowego zabezpieczenia osób klatkami osłonowymi lub obudową prefabrykowaną.
 
+<a id="par-163"></a>
 ### § 163.
 
 1. Grodzie i kesony powinny być:
@@ -1154,14 +1618,15 @@ Zakładanie obudowy lub montaż rur w uprzednio wykonanym wykopie o ścianach pi
 
 2) wyposażone w urządzenia zapewniające osobom schronienie w przypadku wpływu wody lub innych substancji.
 
-2. Budowa, przebudowa oraz demontaż grodzi i kesonów powinny odbywać się pod nadzorem osób, o których mowa w § 5.
+2. Budowa, przebudowa oraz demontaż grodzi i kesonów powinny odbywać się pod nadzorem osób, o których mowa w [§ 5](#par-5).
 
-3. Grodzie i kesony powinny być regularnie kontrolowane przez osoby, o których mowa w § 5.
+3. Grodzie i kesony powinny być regularnie kontrolowane przez osoby, o których mowa w [§ 5](#par-5).
 
 4. W czasie wbijania grodzi przebywanie osób w odległości mniejszej niż 10 m od miejsca ich wbijania jest zabronione.
 
 5. W czasie wyrywania grodzi przebywanie osób w promieniu równym długości grodzi powiększonym o 5 m jest zabronione.
 
+<a id="par-164"></a>
 ### § 164.
 
 1. Pomieszczenia zamknięte, tunele, zbiorniki, studnie, urządzenia techniczne, kanały powinny być wyposażone w wentylację grawitacyjną lub w razie potrzeby w wentylację mechaniczną.
@@ -1172,6 +1637,7 @@ Zakładanie obudowy lub montaż rur w uprzednio wykonanym wykopie o ścianach pi
 
 4. Osoby powinny mieć zapewnioną szybką drogę ewakuacyjną na wypadek zalania, pożaru lub wystąpienia szkodliwych gazów, a także możliwość uzyskania niezwłocznie pierwszej pomocy medycznej.
 
+<a id="par-165"></a>
 ### § 165.
 
 1. W czasie prowadzenia robót ziemnych metodą bezodkrywkową należy zapewnić osobom bezpieczne połączenie podziemnych stanowisk pracy ze stanowiskami pracy zlokalizowanymi na powierzchni terenu, za pomocą szybów i tuneli, obudowanych w sposób uwzględniający parcie ziemi i wód gruntowych.
@@ -1194,38 +1660,47 @@ Zakładanie obudowy lub montaż rur w uprzednio wykonanym wykopie o ścianach pi
 
 8. Prędkość ruchu powietrza w wyrobiskach korytarzowych powinna wynosić nie mniej niż 0,1 m/s i nie więcej niż 8 m/s.
 
+<a id="par-166"></a>
 ### § 166.
 
 Wykonawca robót tunelowych powinien zapewnić stały nadzór nad działaniem wentylacji.
 
+<a id="par-167"></a>
 ### § 167.
 
 Stan urządzeń wentylacyjnych należy systematycznie kontrolować, a stwierdzone usterki natychmiast usuwać.
 
+<a id="par-168"></a>
 ### § 168.
 
 Wykonawca robót tunelowych powinien zapewnić na powierzchni terenu, odpowiednio wyposażony w środki medyczne, punkt pierwszej pomocy medycznej, czynny w czasie każdej zmiany roboczej, na poszczególnych odcinkach zaś, na których trwają roboty, punkty wyposażone w niezbędne środki opatrunkowe i nosze.
 
+<a id="par-169"></a>
 ### § 169.
 
 Tymczasowa obudowa wykopów i wyrobisk podziemnych nie powinna być eksploatowana dłużej niż 2 lata, jeżeli projekt zabezpieczeń nie przewiduje inaczej.
 
+<a id="rozdzial-11"></a>
 ### Rozdział 11. Roboty impregnacyjne i odgrzybieniowe
 
+<a id="par-170"></a>
 ### § 170.
 
 Środki impregnacyjne powinny być magazynowane i przechowywane zgodnie z wymaganiami producenta.
 
+<a id="par-171"></a>
 ### § 171.
 
 1. Roboty impregnacyjne i odgrzybieniowe powinny być wykonywane przez osoby posiadające orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do pracy z substancjami i preparatami chemicznymi.
 
 2. Osoby, u których stwierdzono objawy zatrucia lub uczulenia na stosowane wyroby do impregnacji, odsuwa się od kontaktu z tymi środkami.
 
+<a id="par-172"></a>
 ### § 172.
 
 Roboty impregnacyjne lub odgrzybieniowe powinny być prowadzone z uwzględnieniem instrukcji producenta środków służących do wykonywania tych robót.
 
+<a id="par-173"></a>
 ### § 173.
 
 1. Teren, na którym będą prowadzone roboty impregnacyjne lub odgrzybieniowe, odpowiednio oznakowuje się.
@@ -1234,6 +1709,7 @@ Roboty impregnacyjne lub odgrzybieniowe powinny być prowadzone z uwzględnienie
 
 3. W czasie wykonywania robót impregnacyjnych lub odgrzybieniowych nie prowadzi się, na tym samym stanowisku pracy, innych robót budowlanych.
 
+<a id="par-174"></a>
 ### § 174.
 
 1. Przygotowanie impregnatów i prowadzenie robót impregnacyjnych powinno odbywać się w oddzielnych pomieszczeniach lub na wydzielonych stanowiskach pracy pod zadaszeniem.
@@ -1246,14 +1722,17 @@ Roboty impregnacyjne lub odgrzybieniowe powinny być prowadzone z uwzględnienie
 
 5. Miejsca i pomieszczenia wymienione w ust. 1, 3 i 4 należy zaopatrzyć w sprzęt przeciwpożarowy dostosowany do rodzaju impregnatu.
 
+<a id="par-175"></a>
 ### § 175.
 
 Prowadzenie robót impregnacyjnych w pomieszczeniach zamkniętych powinno mieć zapewnioną kontrolę stężenia substancji i preparatów chemicznych w powietrzu. Wartości tych stężeń w środowisku pracy nie mogą przekraczać najwyższych dopuszczalnych stężeń.
 
+<a id="par-176"></a>
 ### § 176.
 
 Osoby wykonujące roboty związane z przygotowaniem podłoża pod impregnację i narażone na pylenie powinny być wyposażone w środki ochrony indywidualnej.
 
+<a id="par-177"></a>
 ### § 177.
 
 Przy impregnowaniu elementów obiektu wchodzących w skład konstrukcji należy przestrzegać następujących zasad:
@@ -1262,14 +1741,17 @@ Przy impregnowaniu elementów obiektu wchodzących w skład konstrukcji należy 
 
 2) do oświetlenia stanowisk pracy stosować lampy elektryczne zasilane prądem o napięciu bezpiecznym.
 
+<a id="par-178"></a>
 ### § 178.
 
 Materiały budowlane impregnowane mogą być użyte do montażu dopiero po zupełnym wyschnięciu impregnatu.
 
+<a id="par-179"></a>
 ### § 179.
 
 Zabronione jest zbliżanie się do otwartego ognia w odzieży zanieczyszczonej impregnatem.
 
+<a id="par-180"></a>
 ### § 180.
 
 1. Środki oleiste należy podgrzewać na słabym ogniu, w naczyniach z pokrywami lub w beczkach z wykręconym czopem, pod nadzorem wykwalifikowanego pracownika.
@@ -1280,10 +1762,12 @@ Zabronione jest zbliżanie się do otwartego ognia w odzieży zanieczyszczonej i
 
 4. Podgrzewanie pasty impregnacyjnej może odbywać się wyłącznie w specjalnie do tego celu przeznaczonych naczyniach.
 
+<a id="par-181"></a>
 ### § 181.
 
 Osoby wykonujące roboty impregnacyjne lub odgrzybieniowe powinny być wyposażone w środki ochrony indywidualnej, odpowiednie do występujących zagrożeń.
 
+<a id="par-182"></a>
 ### § 182.
 
 1. W czasie wykonywania robót metodą powlekania i natrysku szczotki i pędzle oraz końcówki urządzeń natryskowych powinny być osadzone na trzonkach z osłonami zapobiegającymi ściekaniu impregnatu na ręce pracownika.
@@ -1292,12 +1776,14 @@ Osoby wykonujące roboty impregnacyjne lub odgrzybieniowe powinny być wyposażo
 
 3. Podgrzewany impregnat może być pobierany wyłącznie po zgaszeniu otwartego ognia.
 
+<a id="par-183"></a>
 ### § 183.
 
 1. Załadowywanie i wyładowywanie drewna z wanien i basenów powinno być zmechanizowane.
 
 2. Wanny i baseny po napełnieniu drewnem powinny zostać przykryte.
 
+<a id="par-184"></a>
 ### § 184.
 
 W czasie wykonywania robót impregnacyjnych i odgrzybieniowych:
@@ -1308,66 +1794,81 @@ W czasie wykonywania robót impregnacyjnych i odgrzybieniowych:
 
 3) metodą suchej impregnacji — należy miejsce jej stosowania zabezpieczyć przed przeciągami.
 
+<a id="par-185"></a>
 ### § 185.
 
 Wchodzenie do basenów i wanien w celu wykonania prac konserwacyjnych jest możliwe wyłącznie po opróżnieniu i przewietrzeniu tych basenów i wanien, a wchodzący pracownicy powinni być asekurowani i zabezpieczeni linką bezpieczeństwa.
 
+<a id="par-186"></a>
 ### § 186.
 
 Osoby zatrudnione przy pracach, przy których istnieje możliwość zetknięcia się ze szkodliwymi dla zdrowia substancjami, powinny być zaopatrzone w środki ochrony indywidualnej i krem ochronny. Przed rozpoczęciem impregnacji osoby te powinny natrzeć odkryte miejsca ciała kremem ochronnym.
 
+<a id="par-187"></a>
 ### § 187.
 
 1. W miejscu wykonywania robót impregnacyjnych i odgrzybieniowych powinna znajdować się apteczka podręczna, zaopatrzona w szczególności w środki przeciw oparzeniom i zatruciom oraz środki opatrunkowe.
 
 2. W miejscu, o którym mowa w ust. 1, powinien być umieszczony numer telefonu najbliższego punktu pomocy medycznej.
 
+<a id="rozdzial-12"></a>
 ### Rozdział 12. Roboty murarskie i tynkarskie
 
+<a id="par-188"></a>
 ### § 188.
 
 1. Roboty murarskie i tynkarskie na wysokości powyżej 1 m należy wykonywać z pomostów rusztowań.
 
 2. Pomost rusztowania do robót murarskich powinien znajdować się poniżej wznoszonego muru, na poziomie co najmniej 0,5 m od jego górnej krawędzi.
 
+<a id="par-189"></a>
 ### § 189.
 
 Wykonywanie robót murarskich i tynkarskich z drabin przystawnych jest zabronione.
 
+<a id="par-190"></a>
 ### § 190.
 
 Chodzenie po świeżo wykonanych murach, przesklepieniach, płytach, stropach, przekryciach otworów i niestabilnych deskowaniach oraz wychylanie się poza krawędzie konstrukcji bez dodatkowego zabezpieczenia i opieranie się o balustrady jest zabronione.
 
+<a id="par-191"></a>
 ### § 191.
 
 1. Wykonywanie robót murarskich i tynkarskich w wykopach jest dozwolone wyłącznie po uprzednim zabezpieczeniu ścian wykopów.
 
 2. Jeżeli stanowisko pracy do wykonania ściany znajduje się pomiędzy skarpą wykopu a wznoszoną ścianą, szerokość stanowiska pracy powinna wynosić co najmniej 0,7 m.
 
+<a id="rozdzial-13"></a>
 ### Rozdział 13. Roboty ciesielskie
 
+<a id="par-192"></a>
 ### § 192.
 
 Cieśle powinni być wyposażeni w zasobniki na narzędzia ręczne, uniemożliwiające wypadanie narzędzi oraz nieutrudniające swobody ruchu.
 
+<a id="par-193"></a>
 ### § 193.
 
 Ręczne podawanie w pionie długich przedmiotów, a w szczególności desek lub bali, jest dozwolone wyłącznie do wysokości 3 m.
 
+<a id="par-194"></a>
 ### § 194.
 
 Roboty ciesielskie z drabin można wykonywać wyłącznie do wysokości 3 m.
 
+<a id="par-195"></a>
 ### § 195.
 
 1. W czasie montażu oraz demontażu deskowań należy zapewnić środki zabezpieczające przed możliwością zawalenia się konstrukcji usztywniających i rozpierających.
 
-2. O kolejności montażu i demontażu poszczególnych elementów decydują osoby, o których mowa w § 5.
+2. O kolejności montażu i demontażu poszczególnych elementów decydują osoby, o których mowa w [§ 5](#par-5).
 
 3. Roboty ciesielskie montażowe wykonuje zespół liczący co najmniej 2 osoby.
 
+<a id="rozdzial-14"></a>
 ### Rozdział 14. Roboty zbrojarskie i betoniarskie
 
+<a id="par-196"></a>
 ### § 196.
 
 1. Stoły warsztatowe i maszyny zbrojarskie powinny być ustawione w pomieszczeniach lub pod wiatami.
@@ -1378,20 +1879,24 @@ Roboty ciesielskie z drabin można wykonywać wyłącznie do wysokości 3 m.
 
 4. Miejsca pracy przy stołach zbrojarskich i stanowiskach obsługi maszyn powinny być wyposażone w pomosty drewniane lub wykonane z innych materiałów o właściwościach termoizolacyjnych.
 
+<a id="par-197"></a>
 ### § 197.
 
 Pręty zbrojeniowe w czasie transportu powinny być zabezpieczone przed przemieszczaniem się w kierunku poprzecznym i podłużnym.
 
+<a id="par-198"></a>
 ### § 198.
 
 1. Poszczególne rodzaje elementów zbrojenia i kształtowników stalowych powinny być składowane oddzielnie, na wyrównanym i odwodnionym podłożu albo na podkładach.
 
 2. Chodzenie po ułożonych elementach zbrojenia jest zabronione.
 
+<a id="par-199"></a>
 ### § 199.
 
 Elementy zbrojenia, przenoszone za pomocą żurawi, powinny być zawieszone stabilnie i zabezpieczone przed wysunięciem się.
 
+<a id="par-200"></a>
 ### § 200.
 
 Zabronione jest:
@@ -1402,10 +1907,12 @@ Zabronione jest:
 
 3) rzucanie elementów zbrojenia.
 
+<a id="par-201"></a>
 ### § 201.
 
 Kołowrotki do rozwijania zwojów stali zbrojeniowej oraz przestrzeń pomiędzy kołowrotkami a prościarkami powinny być ogrodzone.
 
+<a id="par-202"></a>
 ### § 202.
 
 1. W przypadku prostowania stali metodą wyciągania — stanowiska pracy, miejsca zamocowania prętów oraz trasę z obu stron toru wyciągowego należy zabezpieczyć ogrodzeniem zabezpieczającym pracowników.
@@ -1418,10 +1925,12 @@ Kołowrotki do rozwijania zwojów stali zbrojeniowej oraz przestrzeń pomiędzy 
 
 3) organizowanie innych stanowisk roboczych i składowisk.
 
+<a id="par-203"></a>
 ### § 203.
 
 Wprowadzanie do prościarki pręta ze zwoju jest dopuszczalne jedynie przed jej uruchomieniem.
 
+<a id="par-204"></a>
 ### § 204.
 
 1. W czasie cięcia prętów zbrojeniowych nożycami ręcznymi pręt cięty należy oprzeć obustronnie na kozłach lub na stole zbrojarskim.
@@ -1430,20 +1939,24 @@ Wprowadzanie do prościarki pręta ze zwoju jest dopuszczalne jedynie przed jej 
 
 3. W czasie przecinania mechanicznego prętów zbrojeniowych chwytanie ręką prętów w odległości mniejszej niż 0,5 m od urządzenia tnącego jest zabronione.
 
+<a id="par-205"></a>
 ### § 205.
 
 1. Pręty o średnicy większej niż 20 mm należy odginać wyłącznie za pomocą urządzeń mechanicznych.
 
 2. Zakładanie zbrojenia, przestawianie odbojnic lub trzpieni przy gięciu stali na mechanicznej giętarce jest dopuszczalne wyłącznie przy unieruchomionej tarczy giętarki.
 
+<a id="par-206"></a>
 ### § 206.
 
-Do montażu zbrojenia na stanowisku pracy położonym na wysokości stosuje się przepisy rozdziału 9.
+Do montażu zbrojenia na stanowisku pracy położonym na wysokości stosuje się przepisy [rozdziału 9](#rozdzial-9).
 
+<a id="par-207"></a>
 ### § 207.
 
 W czasie dodawania do mieszanki betonowej środków chemicznych roztwór należy przygotowywać w wydzielonych naczyniach i w wyznaczonych miejscach, a osoby zatrudnione przy rozcieńczaniu środków chemicznych powinny być zaopatrzone w środki ochrony indywidualnej.
 
+<a id="par-208"></a>
 ### § 208.
 
 1. Pojemniki do transportu mieszanki betonowej powinny być zabezpieczone przed przypadkowym wylaniem mieszanki oraz wyposażone w klapy łatwo otwieralne.
@@ -1452,24 +1965,29 @@ W czasie dodawania do mieszanki betonowej środków chemicznych roztwór należy
 
 3. Wylewanie mieszanki betonowej w deskowanie z wysokości większej niż 1 m jest zabronione.
 
+<a id="par-209"></a>
 ### § 209.
 
 Przy dostawie masy betonowej pojazdem punkt zsypu powinien być wyposażony w odbojnice zabezpieczające pojazd przed stoczeniem się.
 
+<a id="par-210"></a>
 ### § 210.
 
 1. W czasie podgrzewania lub naparzania materiałów należy zabezpieczyć pracowników przed oparzeniem.
 
 2. Zawory przewodów pary należy umieszczać w miejscach łatwo dostępnych dla obsługi urządzeń.
 
+<a id="par-211"></a>
 ### § 211.
 
 Naprawy instalacji parowej lub gorącej wody należy wykonywać po uprzednim ich wyłączeniu, opróżnieniu i ostudzeniu.
 
+<a id="par-212"></a>
 ### § 212.
 
 Formy do produkcji elementów prefabrykowanych o masie większej niż 50 kg powinny być przemieszczane za pomocą urządzeń mechanicznych.
 
+<a id="par-213"></a>
 ### § 213.
 
 1. W czasie podnoszenia elementu prefabrykowanego należy sprawdzić dynamometrem masę elementu zawieszonego na haku dźwigu oraz stwierdzić, czy nie nastąpiło przyssanie lub przyczepienie się powierzchni elementu do formy.
@@ -1478,22 +1996,27 @@ Formy do produkcji elementów prefabrykowanych o masie większej niż 50 kg powi
 
 3. Jeżeli strzałka dynamometru dojdzie do granicy nominalnego udźwigu, a element nie zostanie podniesiony, należy natychmiast wstrzymać dalsze podnoszenie. Ponowne podnoszenie może nastąpić po odspojeniu elementu od powierzchni formy.
 
+<a id="rozdzial-15"></a>
 ### Rozdział 15. Roboty montażowe
 
+<a id="par-214"></a>
 ### § 214.
 
 Roboty montażowe konstrukcji stalowych i prefabrykowanych elementów wielkowymiarowych mogą być wykonywane, na podstawie projektu montażu oraz planu bioz, przez pracowników zapoznanych z instrukcją organizacji montażu oraz rodzajem używanych maszyn i innych urządzeń technicznych.
 
+<a id="par-215"></a>
 ### § 215.
 
 1. Urządzenia pomocnicze, przeznaczone do montażu, powinny posiadać wymagane dokumenty.
 
-2. Stan techniczny narzędzi i urządzeń pomocniczych sprawdza codziennie osoba, o której mowa w § 5.
+2. Stan techniczny narzędzi i urządzeń pomocniczych sprawdza codziennie osoba, o której mowa w [§ 5](#par-5).
 
+<a id="par-216"></a>
 ### § 216.
 
 Przebywanie osób na górnych płaszczyznach ścian, belek, słupów, ram lub kratownic oraz na dwóch niższych kondygnacjach, znajdujących się bezpośrednio pod kondygnacją, na której są prowadzone roboty montażowe, jest zabronione.
 
+<a id="par-217"></a>
 ### § 217.
 
 1. Prowadzenie montażu z elementów wielkowymiarowych jest zabronione:
@@ -1504,6 +2027,7 @@ Przebywanie osób na górnych płaszczyznach ścian, belek, słupów, ram lub kr
 
 2. Punkty świetlne przy stanowiskach montażowych powinny być tak rozmieszczone, aby zapewniały równomierne oświetlenie, bez ostrych cieni i olśnień osób.
 
+<a id="par-218"></a>
 ### § 218.
 
 Przed podniesieniem elementu konstrukcji stalowej lub żelbetowej należy przewidzieć bezpieczny sposób:
@@ -1516,14 +2040,17 @@ Przed podniesieniem elementu konstrukcji stalowej lub żelbetowej należy przewi
 
 4) podnoszenia elementu, po wyposażeniu w bezpieczne dojścia i pomosty montażowe, jeżeli wykonanie czynności nie jest możliwe bezpośrednio z poziomu terenu lub stropu.
 
+<a id="par-219"></a>
 ### § 219.
 
 Elementy prefabrykowane można zwolnić z podwieszenia, po ich uprzednim zamocowaniu w miejscu wbudowania.
 
+<a id="par-220"></a>
 ### § 220.
 
 W czasie zakładania stężeń montażowych, wykonywania robót spawalniczych, odczepiania elementów prefabrykowanych z zawiesi i betonowania styków należy stosować wyłącznie pomosty montażowe lub drabiny rozstawne.
 
+<a id="par-221"></a>
 ### § 221.
 
 1. W czasie podnoszenia elementów prefabrykowanych należy:
@@ -1542,30 +2069,37 @@ W czasie zakładania stężeń montażowych, wykonywania robót spawalniczych, o
 
 3. Podnoszenie i przemieszczanie na elementach prefabrykowanych osób, przedmiotów, materiałów lub wyrobów jest zabronione.
 
+<a id="par-222"></a>
 ### § 222.
 
 Podanie sygnału do podnoszenia elementu może nastąpić po usunięciu osób ze strefy niebezpiecznej.
 
+<a id="rozdzial-16"></a>
 ### Rozdział 16. Roboty spawalnicze
 
+<a id="par-223"></a>
 ### § 223.
 
 Stałe stanowiska spawalnicze, zlokalizowane na otwartej przestrzeni, powinny być zabezpieczone przed działaniem czynników atmosferycznych.
 
+<a id="par-224"></a>
 ### § 224.
 
 W czasie spawania gazowego należy używać wyłącznie butli posiadających ważną cechę organu dozoru technicznego.
 
+<a id="par-225"></a>
 ### § 225.
 
 Przemieszczanie butli o pojemności wodnej powyżej 10 dm3 powinno odbywać się zgodnie z przepisami dotyczącymi bezpieczeństwa i higieny pracy przy pracach spawalniczych.
 
+<a id="par-226"></a>
 ### § 226.
 
 1. W czasie korzystania z gazu z butli powinny być one ustawione w pozycji pionowej lub pod kątem nie mniejszym niż 45° od poziomu.
 
 2. Odległość płomienia palnika od butli nie powinna być mniejsza niż 1 m.
 
+<a id="par-227"></a>
 ### § 227.
 
 1. Przewody do tlenu i acetylenu powinny wyróżniać się wymaganą kolorystyką, a ich długość powinna wynosić co najmniej 5 m.
@@ -1578,14 +2112,17 @@ Przemieszczanie butli o pojemności wodnej powyżej 10 dm3 powinno odbywać się
 
 5. Miejsca uszkodzone w przewodach powinny być wycięte. Łączenia przewodów należy wykonać za pomocą specjalnych łączników metalowych, o przekroju wewnętrznym odpowiadającym prześwitowi łączonego przewodu.
 
+<a id="par-228"></a>
 ### § 228.
 
 Stosowanie do tlenu i acetylenu przewodów igielitowych, z tworzyw sztucznych lub o podobnych właściwościach jest zabronione.
 
+<a id="par-229"></a>
 ### § 229.
 
 W przypadku zamarznięcia zaworu butli gazowej, wytwornicy lub bezpiecznika wodnego, odmrażanie powinno być dokonywane za pomocą gorącej wody lub pary wodnej. Odmrażanie za pomocą płomienia jest zabronione.
 
+<a id="par-230"></a>
 ### § 230.
 
 1. Sprzęt do spawania elektrycznego powinien spełniać wymagania określone w przepisach dotyczących systemu oceny zgodności oraz być użytkowany zgodnie z dokumentacją techniczno-ruchową.
@@ -1596,18 +2133,22 @@ W przypadku zamarznięcia zaworu butli gazowej, wytwornicy lub bezpiecznika wodn
 
 4. Każdy spawany przedmiot powinien być uziemiony.
 
+<a id="par-231"></a>
 ### § 231.
 
 Stałe stanowisko spawacza powinno być wyposażone w miejscową wentylację wyciągową.
 
+<a id="par-232"></a>
 ### § 232.
 
 Stanowisko spawacza powinno być wydzielone w sposób zabezpieczający inne osoby przed szkodliwym działaniem światła na wzrok.
 
+<a id="par-233"></a>
 ### § 233.
 
 W czasie opadów atmosferycznych spawanie lub cięcie metali jest dozwolone wyłącznie po osłonięciu stanowiska pracy.
 
+<a id="par-234"></a>
 ### § 234.
 
 1. Spawanie zbiorników lub naczyń, w których były przechowywane ciecze lub gazy łatwo zapalne bądź trujące, jest dozwolone wyłącznie po uprzednim ich oczyszczeniu z resztek gazów, cieczy i ich par oraz po starannym wymyciu lub napełnieniu wodą albo gazem obojętnym.
@@ -1616,16 +2157,20 @@ W czasie opadów atmosferycznych spawanie lub cięcie metali jest dozwolone wył
 
 3. Osoby znajdujące się wewnątrz zbiornika powinny być wyposażone w szelki bezpieczeństwa, do których należy przymocować linkę bezpieczeństwa trzymaną przez osobę ubezpieczającą znajdującą się na zewnątrz zbiornika.
 
+<a id="par-235"></a>
 ### § 235.
 
 Osoby znajdujące się wewnątrz zbiornika powinny mieć zapewniony dopływ świeżego powietrza oraz oświetlenie elektryczne o bezpiecznym napięciu.
 
+<a id="rozdzial-17"></a>
 ### Rozdział 17. Roboty dekarskie i izolacyjne
 
+<a id="par-236"></a>
 ### § 236.
 
 Na dachach, których wytrzymałość nie zapewnia bezpiecznego przebywania na nich osób, należy wykonać stałe lub przenośne mostki i kładki zabezpieczające.
 
+<a id="par-237"></a>
 ### § 237.
 
 1. Kotły do podgrzewania masy bitumicznej powinny być zaopatrzone w pokrywy i szczelnie zamknięte.
@@ -1638,6 +2183,7 @@ Na dachach, których wytrzymałość nie zapewnia bezpiecznego przebywania na ni
 
 5. Podgrzewanie masy bitumicznej w beczkach i pojemnikach służących do jej przechowywania i transportu jest zabronione.
 
+<a id="par-238"></a>
 ### § 238.
 
 1. Mieszanie asfaltu z benzyną powinno odbywać się w odległości nie mniejszej niż 50 m od źródła otwartego ognia i przy użyciu wyłącznie drewnianych mieszadeł.
@@ -1648,6 +2194,7 @@ Na dachach, których wytrzymałość nie zapewnia bezpiecznego przebywania na ni
 
 4. Używanie do rozcieńczenia asfaltu benzyny etylizowanej i benzenu jest zabronione.
 
+<a id="par-239"></a>
 ### § 239.
 
 1. W czasie wykonywania robót izolacyjnych wewnątrz zbiorników i w pomieszczeniach zamkniętych stosowanie rozpuszczalników i materiałów szkodliwych, łatwo zapalnych lub wybuchowych jest dopuszczalne pod warunkiem zapewnienia odpowiednio:
@@ -1660,8 +2207,10 @@ Na dachach, których wytrzymałość nie zapewnia bezpiecznego przebywania na ni
 
 2. Rozpuszczalniki i materiały, o których mowa w ust. 1, powinny być przygotowane na zewnątrz i dostarczane do zbiorników i pomieszczeń zamkniętych gotowe do użycia.
 
+<a id="rozdzial-18"></a>
 ### Rozdział 18. Roboty rozbiórkowe
 
+<a id="par-240"></a>
 ### § 240.
 
 1. Roboty rozbiórkowe powinny być wykonywane na podstawie dokumentacji projektowej.
@@ -1670,60 +2219,73 @@ Na dachach, których wytrzymałość nie zapewnia bezpiecznego przebywania na ni
 
 3. Przed rozpoczęciem robót rozbiórkowych należy obiekt odłączyć od sieci gazowej, cieplnej, elektroenergetycznej, teletechnicznej, wodociągowej i kanalizacyjnej.
 
+<a id="par-241"></a>
 ### § 241.
 
 1. Prowadzenie robót rozbiórkowych, jeżeli zachodzi możliwość przewrócenia części konstrukcji obiektu przez wiatr, jest zabronione.
 
 2. Roboty należy wstrzymać w przypadku, gdy prędkość wiatru przekracza 10 m/s.
 
+<a id="par-242"></a>
 ### § 242.
 
 W czasie prowadzenia robót rozbiórkowych przebywanie ludzi na niżej położonych kondygnacjach jest zabronione.
 
+<a id="par-243"></a>
 ### § 243.
 
 1. Do usuwania gruzu w czasie robót rozbiórkowych należy stosować zsuwnice pochyłe lub rynny zsypowe.
 
 2. Rynny zsypowe powinny mieć zabezpieczenie przed wypadaniem gruzu.
 
+<a id="par-244"></a>
 ### § 244.
 
 Przewracanie ścian lub innych części obiektu przez podkopywanie i podcinanie jest zabronione.
 
+<a id="par-245"></a>
 ### § 245.
 
 1. W czasie wykonywania robót rozbiórkowych sposobami zmechanizowanymi wszystkie osoby i maszyny powinny znajdować się poza strefą niebezpieczną.
 
 2. W czasie wykonywania robót rozbiórkowych sposobem przewracania długość umocowanych lin powinna być trzykrotnie większa od wysokości obiektu, a ich umocowanie powinno być niezawodne.
 
+<a id="rozdzial-19"></a>
 ### Rozdział 19. Roboty budowlane wykonywane z użyciem materiałów wybuchowych
 
+<a id="par-246"></a>
 ### § 246.
 
 1. Kierownik budowy jest obowiązany zapoznać wszystkie osoby, uczestniczące w organizacji i realizacji robót budowlanych wykonywanych z użyciem materiałów wybuchowych, z przepisami i zasadami bezpieczeństwa i higieny pracy dotyczącymi tych robót.
 
 2. Pracownicy, przed przystąpieniem do wykonywania robót, o których mowa w ust. 1, po zapoznaniu się z przepisami i zasadami bezpieczeństwa i higieny pracy — potwierdzają pisemnie, że zostali do tych robót odpowiednio przygotowani.
 
+<a id="par-247"></a>
 ### § 247.
 
 Przed przystąpieniem do realizacji prac strzałowych w obiekcie budowlanym, obiekt ten należy odłączyć od wszelkich instalacji.
 
+<a id="par-248"></a>
 ### § 248.
 
 Roboty strzałowe może wykonywać tylko jedna osoba, o wymaganych kwalifikacjach i uprawnieniach, wyznaczona do tych czynności.
 
+<a id="par-249"></a>
 ### § 249.
 
 W przypadkach uzasadnionych względami konstrukcyjnymi, przed przeprowadzeniem wyburzenia zasadniczego, należy dokonać niszczeń klatek schodowych, szybów wind oraz innych elementów stanowiących usztywnienie przestrzenne konstrukcji. O zakresie niszczeń decyduje projektant prac wyburzeniowych.
 
+<a id="par-250"></a>
 ### § 250.
 
 Rozdrabnianie elementów żelbetowych sprężonych i betonowych, złomu żeliwnego i stalowego powinno odbywać się w specjalnie do tego celu przeznaczonych, odpowiednio zaprojektowanych i wyposażonych dołach strzałowych.
 
+<a id="par-251"></a>
 ### § 251.
 
 W celu ograniczenia masy jednocześnie upadających elementów konstrukcji, powodujących wstrząs, zaleca się stosowanie inicjowania zwłocznego.
 
+<a id="par-252"></a>
 ### § 252.
 
 1. Prace rozbiórkowe należy prowadzić w sposób uniemożliwiający powstanie spękań we fragmentach nierozbieranej części konstrukcji, jej rozszczelnienie oraz uszkodzenie urządzeń hydrotechnicznych.
@@ -1732,6 +2294,7 @@ W celu ograniczenia masy jednocześnie upadających elementów konstrukcji, powo
 
 3. Umieszczone w wodzie ładunki należy zamocować w sposób zapewniający dokładne ich przyleganie do niszczonej konstrukcji. Ładunki należy zabezpieczyć przed wypłynięciem, wypadnięciem lub wymyciem.
 
+<a id="par-253"></a>
 ### § 253.
 
 1. Przed przystąpieniem do wykonywania strzelania należy powiadomić wszystkie osoby znajdujące się w strefie rozrzutu o terminie rozbiórki z zastosowaniem materiałów wybuchowych i zapewnić:
@@ -1750,10 +2313,12 @@ W celu ograniczenia masy jednocześnie upadających elementów konstrukcji, powo
 
 6. Ładunki wybuchowe należy odpalać po uprzednim usunięciu wszystkich osób poza strefę niebezpieczną.
 
+<a id="par-254"></a>
 ### § 254.
 
 W czasie trwania robót strzałowych stosuje się sygnały ostrzegawcze, określone w przepisach prawa górniczego i geologicznego.
 
+<a id="par-255"></a>
 ### § 255.
 
 1. Na terenie budowy, w miejscu wyznaczonym przez kierownika budowy, należy zorganizować tymczasowy skład do przechowywania i wydawania środków strzałowych.
@@ -1774,6 +2339,7 @@ W czasie trwania robót strzałowych stosuje się sygnały ostrzegawcze, określ
 
 6. Ilość dostarczanych dziennie środków strzałowych do składu tymczasowego powinna być w miarę możliwości tak skalkulowana, aby została w tym dniu zużyta.
 
+<a id="par-256"></a>
 ### § 256.
 
 1. Środki strzałowe wydaje i rozlicza wyłącznie wydawca środków strzałowych.
@@ -1784,6 +2350,7 @@ W czasie trwania robót strzałowych stosuje się sygnały ostrzegawcze, określ
 
 4. Wydawca środków strzałowych prowadzi rejestr wydanych i zwróconych materiałów wybuchowych i środków inicjujących w książce obrotu środkami strzałowymi.
 
+<a id="par-257"></a>
 ### § 257.
 
 1. Strzałowi, przenoszący środki strzałowe, noszą na prawym ramieniu opaskę ostrzegawczą koloru żółtego.
@@ -1796,6 +2363,7 @@ W czasie trwania robót strzałowych stosuje się sygnały ostrzegawcze, określ
 
 5. Kierownik prac strzałowych dokonuje dziennego rozliczenia środków strzałowych w dzienniku strzelań.
 
+<a id="par-258"></a>
 ### § 258.
 
 1. Po każdej zmianie roboczej puste puszki strzałowe, ładownice, spłonniki oraz niezużyte środki strzałowe powinny być zwrócone do tymczasowego składu środków strzałowych. Niewykorzystane w danym dniu środki strzałowe należy przewieźć do magazynu stałego. Dopuszcza się pozostawienie środków strzałowych w składzie tymczasowym pod warunkiem zapewnienia ich ochrony.
@@ -1804,6 +2372,7 @@ W czasie trwania robót strzałowych stosuje się sygnały ostrzegawcze, określ
 
 3. Składowane środki strzałowe powinny posiadać odpowiednie certyfikaty oraz nieuszkodzone opakowania.
 
+<a id="par-259"></a>
 ### § 259.
 
 1. Podczas wykonywania robót rozbiórkowych należy stosować materiały wybuchowe w postaci standardowych ładunków dostarczonych przez producenta, pakietowanych lub porcjowanych przez wykonawcę, według zasad określonych w metryce strzałowej.
@@ -1812,6 +2381,7 @@ W czasie trwania robót strzałowych stosuje się sygnały ostrzegawcze, określ
 
 3. W czasie realizacji prac strzałowych dopuszcza się przenoszenie materiałów wybuchowych i środków inicjujących w opakowaniach fabrycznych bądź w drewnianych skrzyniach posiadających trwałe zamknięcie.
 
+<a id="par-260"></a>
 ### § 260.
 
 1. Inicjowanie ładunków przy zastosowaniu lontu detonującego może odbywać się tylko bezspłonkowo.
@@ -1820,6 +2390,7 @@ W czasie trwania robót strzałowych stosuje się sygnały ostrzegawcze, określ
 
 3. W przypadku stosowania ładunków w otworach strzałowych uzbrajanie ładunków powinno odbywać się bezpośrednio przed ich załadowaniem w miejscu prowadzenia prac strzałowych.
 
+<a id="par-261"></a>
 ### § 261.
 
 1. Do wykonywania otworów strzałowych należy stosować sprzęt wiertniczy o napędzie elektrycznym lub pneumatycznym.
@@ -1832,16 +2403,19 @@ W czasie trwania robót strzałowych stosuje się sygnały ostrzegawcze, określ
 
 5. Wiercenie i wypalanie należy prowadzić z zachowaniem wymogów zawartych w przepisach dotyczących tego rodzaju robót.
 
+<a id="par-262"></a>
 ### § 262.
 
 1. Do przygotowania sieci ogniowych należy stosować specjalistyczne noże minerskie, obciskacze spłonek, taśmę izolacyjną, bębny na lont detonacyjny oraz spłonniki.
 
 2. Inicjowanie sieci ogniowej należy realizować za pomocą zapalaczy chloranowych lub zapłonników tarciowych.
 
+<a id="par-263"></a>
 ### § 263.
 
 W przypadku niezadziałania sieci strzałowej należy ją sprawdzić, usunąć usterki i powtórnie zainicjować. Do czasu usunięcia usterek sieci strzałowej podawanie sygnału odwoławczego jest zabronione.
 
+<a id="par-264"></a>
 ### § 264.
 
 1. W przypadku stwierdzenia niewybuchów należy je likwidować pojedynczo lub zależnymi od siebie grupami.
@@ -1852,6 +2426,7 @@ W przypadku niezadziałania sieci strzałowej należy ją sprawdzić, usunąć u
 
 4. Przenoszenie niewybuchu poza rejon prowadzenia prac strzałowych jest zabronione.
 
+<a id="par-265"></a>
 ### § 265.
 
 1. Zasady współdziałania ekip strzałowych z pozostałymi zespołami realizacyjnymi określa kierownik budowy, w porozumieniu z kierownikiem prac strzałowych.
@@ -1862,8 +2437,10 @@ W przypadku niezadziałania sieci strzałowej należy ją sprawdzić, usunąć u
 
 4. W trakcie prowadzenia prac strzałowych ekipa strzałowa powinna być ubrana w jednolitą odzież spełniającą wymagania ochrony przed elektrycznością statyczną.
 
+<a id="rozdzial-20"></a>
 ### Rozdział 20. Przepisy końcowe
 
+<a id="par-266"></a>
 ### § 266.
 
 Tracą moc:
@@ -1872,6 +2449,7 @@ Tracą moc:
 
 2) rozporządzenie Rady Ministrów z dnia 4 lutego 1956 r. w sprawie bezpieczeństwa i higieny pracy przy robotach impregnacyjnych i odgrzybieniowych (Dz. U. Nr 5, poz. 25).
 
+<a id="par-267"></a>
 ### § 267.
 
 Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
