@@ -4,6 +4,135 @@ w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych 
 
 (Tekst mający znaczenie dla EOG)
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [ROZDZIAŁ I. Przepisy ogólne](#rozdzial-i)
+  - [Artykuł 1. Przedmiot i cele](#artykul-1)
+  - [Artykuł 2. Materialny zakres stosowania](#artykul-2)
+  - [Artykuł 3. Terytorialny zakres stosowania](#artykul-3)
+  - [Artykuł 4. Definicje](#artykul-4)
+- [ROZDZIAŁ II. Zasady](#rozdzial-ii)
+  - [Artykuł 5. Zasady dotyczące przetwarzania danych osobowych](#artykul-5)
+  - [Artykuł 6. Zgodność przetwarzania z prawem](#artykul-6)
+  - [Artykuł 7. Warunki wyrażenia zgody](#artykul-7)
+  - [Artykuł 8. Warunki wyrażenia zgody przez dziecko w przypadku usług społeczeństwa informacyjnego](#artykul-8)
+  - [Artykuł 9. Przetwarzanie szczególnych kategorii danych osobowych](#artykul-9)
+  - [Artykuł 10. Przetwarzanie danych osobowych dotyczących wyroków skazujących i naruszeń prawa](#artykul-10)
+  - [Artykuł 11. Przetwarzanie niewymagające identyfikacji](#artykul-11)
+- [ROZDZIAŁ III. Prawa osoby, której dane dotyczą](#rozdzial-iii)
+  - [Sekcja 1. Przejrzystość oraz tryb korzystania z praw](#sekcja-1)
+    - [Artykuł 12. Przejrzyste informowanie i przejrzysta komunikacja oraz tryb wykonywania praw przez osobę, której dane dotyczą](#artykul-12)
+  - [Sekcja 2. Informacje i dostęp do danych osobowych](#sekcja-2)
+    - [Artykuł 13. Informacje podawane w przypadku zbierania danych od osoby, której dane dotyczą](#artykul-13)
+    - [Artykuł 14. Informacje podawane w przypadku pozyskiwania danych osobowych w sposób inny niż od osoby, której dane dotyczą](#artykul-14)
+    - [Artykuł 15. Prawo dostępu przysługujące osobie, której dane dotyczą](#artykul-15)
+  - [Sekcja 3. Sprostowanie i usuwanie danych](#sekcja-3)
+    - [Artykuł 16. Prawo do sprostowania danych](#artykul-16)
+    - [Artykuł 17. Prawo do usunięcia danych („prawo do bycia zapomnianym”)](#artykul-17)
+    - [Artykuł 18. Prawo do ograniczenia przetwarzania](#artykul-18)
+    - [Artykuł 19. Obowiązek powiadomienia o sprostowaniu lub usunięciu danych osobowych lub o ograniczeniu przetwarzania](#artykul-19)
+    - [Artykuł 20. Prawo do przenoszenia danych](#artykul-20)
+  - [Sekcja 4. Prawo do sprzeciwu oraz zautomatyzowane podejmowanie decyzji w indywidualnych przypadkach](#sekcja-4)
+    - [Artykuł 21. Prawo do sprzeciwu](#artykul-21)
+    - [Artykuł 22. Zautomatyzowane podejmowanie decyzji w indywidualnych przypadkach, w tym profilowanie](#artykul-22)
+  - [Sekcja 5. Ograniczenia](#sekcja-5)
+    - [Artykuł 23. Ograniczenia](#artykul-23)
+- [ROZDZIAŁ IV. Administrator i podmiot przetwarzający](#rozdzial-iv)
+  - [Sekcja 1. Obowiązki ogólne](#sekcja-1-1)
+    - [Artykuł 24. Obowiązki administratora](#artykul-24)
+    - [Artykuł 25. Uwzględnianie ochrony danych w fazie projektowania oraz domyślna ochrona danych](#artykul-25)
+    - [Artykuł 26. Współadministratorzy](#artykul-26)
+    - [Artykuł 27. Przedstawiciele administratorów lub podmiotów przetwarzających niemających jednostki organizacyjnej w Unii](#artykul-27)
+    - [Artykuł 28. Podmiot przetwarzający](#artykul-28)
+    - [Artykuł 29. Przetwarzanie z upoważnienia administratora lub podmiotu przetwarzającego](#artykul-29)
+    - [Artykuł 30. Rejestrowanie czynności przetwarzania](#artykul-30)
+    - [Artykuł 31. Współpraca z organem nadzorczym](#artykul-31)
+  - [Sekcja 2. Bezpieczeństwo danych osobowych](#sekcja-2-1)
+    - [Artykuł 32. Bezpieczeństwo przetwarzania](#artykul-32)
+    - [Artykuł 33. Zgłaszanie naruszenia ochrony danych osobowych organowi nadzorczemu](#artykul-33)
+    - [Artykuł 34. Zawiadamianie osoby, której dane dotyczą, o naruszeniu ochrony danych osobowych](#artykul-34)
+  - [Sekcja 3. Ocena skutków dla ochrony danych i uprzednie konsultacje](#sekcja-3-1)
+    - [Artykuł 35. Ocena skutków dla ochrony danych](#artykul-35)
+    - [Artykuł 36. Uprzednie konsultacje](#artykul-36)
+  - [Sekcja 4. Inspektor ochrony danych](#sekcja-4-1)
+    - [Artykuł 37. Wyznaczenie inspektora ochrony danych](#artykul-37)
+    - [Artykuł 38. Status inspektora ochrony danych](#artykul-38)
+    - [Artykuł 39. Zadania inspektora ochrony danych](#artykul-39)
+  - [Sekcja 5. Kodeksy postępowania i certyfikacja](#sekcja-5-1)
+    - [Artykuł 40. Kodeksy postępowania](#artykul-40)
+    - [Artykuł 41. Monitorowanie zatwierdzonych kodeksów postępowania](#artykul-41)
+    - [Artykuł 42. Certyfikacja](#artykul-42)
+    - [Artykuł 43. Podmiot certyfikujący](#artykul-43)
+- [ROZDZIAŁ V. Przekazywanie danych osobowych do państw trzecich lub organizacji międzynarodowych](#rozdzial-v)
+  - [Artykuł 44. Ogólna zasada przekazywania](#artykul-44)
+  - [Artykuł 45. Przekazywanie na podstawie decyzji stwierdzającej odpowiedni stopień ochrony](#artykul-45)
+  - [Artykuł 46. Przekazywanie z zastrzeżeniem odpowiednich zabezpieczeń](#artykul-46)
+  - [Artykuł 47. wiążące reguły korporacyjnych](#artykul-47)
+  - [Artykuł 48. Przekazywanie lub ujawnianie niedozwolone na mocy prawa Unii](#artykul-48)
+  - [Artykuł 49. Wyjątki w szczególnych sytuacjach](#artykul-49)
+  - [Artykuł 50. Międzynarodowa współpraca na rzecz ochrony danych osobowych](#artykul-50)
+- [ROZDZIAŁ VI. Niezależne organy nadzorcze](#rozdzial-vi)
+  - [Sekcja 1. Niezależny status](#sekcja-1-2)
+    - [Artykuł 51. Organ nadzorczy](#artykul-51)
+    - [Artykuł 52. Niezależność](#artykul-52)
+    - [Artykuł 53. Ogólne warunki dotyczące członków organu nadzorczego](#artykul-53)
+    - [Artykuł 54. Zasady ustanawiania organu nadzorczego](#artykul-54)
+  - [Sekcja 2. Właściwość, zadania i uprawnienia](#sekcja-2-2)
+    - [Artykuł 55. Właściwość](#artykul-55)
+    - [Artykuł 56. Właściwość wiodącego organu nadzorczego](#artykul-56)
+    - [Artykuł 57. Zadania](#artykul-57)
+    - [Artykuł 58. Uprawnienia](#artykul-58)
+    - [Artykuł 59. Sprawozdanie z działalności](#artykul-59)
+- [ROZDZIAŁ VII. Współpraca i spójność](#rozdzial-vii)
+  - [Sekcja 1. Współpraca](#sekcja-1-3)
+    - [Artykuł 60. Współpraca miedzy wiodącym organem nadzorczym a innymi organami nadzorczymi, których sprawa dotyczy](#artykul-60)
+    - [Artykuł 61. Wzajemna pomoc](#artykul-61)
+    - [Artykuł 62. Wspólne operacje organów nadzorczych](#artykul-62)
+  - [Sekcja 2. Spójność](#sekcja-2-3)
+    - [Artykuł 63. Mechanizm spójności](#artykul-63)
+    - [Artykuł 64. Opinia Europejskiej Rady Ochrony Danych](#artykul-64)
+    - [Artykuł 65. Rozstrzyganie sporów przez Europejską Radę Ochrony Danych](#artykul-65)
+    - [Artykuł 66. Tryb pilny](#artykul-66)
+    - [Artykuł 67. Wymiana informacji](#artykul-67)
+  - [Sekcja 3. Europejska rada ochrony danych](#sekcja-3-2)
+    - [Artykuł 68. Europejska Rada Ochrony Danych](#artykul-68)
+    - [Artykuł 69. Niezależność](#artykul-69)
+    - [Artykuł 70. Zadania Europejskiej Rady Ochrony Danych](#artykul-70)
+    - [Artykuł 71. Sprawozdania](#artykul-71)
+    - [Artykuł 72. Procedura](#artykul-72)
+    - [Artykuł 73. Przewodniczący](#artykul-73)
+    - [Artykuł 74. Zadania przewodniczącego](#artykul-74)
+    - [Artykuł 75. Sekretariat](#artykul-75)
+    - [Artykuł 76. Poufność](#artykul-76)
+- [ROZDZIAŁ VIII. Środki ochrony prawnej, odpowiedzialność i sankcje](#rozdzial-viii)
+  - [Artykuł 77. Prawo do wniesienia skargi do organu nadzorczego](#artykul-77)
+  - [Artykuł 78. Prawo do skutecznego środka ochrony prawnej przed sądem przeciwko organowi nadzorczemu](#artykul-78)
+  - [Artykuł 79. Prawo do skutecznego środka ochrony prawnej przed sądem przeciwko administratorowi lub podmiotowi przetwarzającemu](#artykul-79)
+  - [Artykuł 80. Reprezentowanie osób, których dane dotyczą](#artykul-80)
+  - [Artykuł 81. Zawieszenie postępowania](#artykul-81)
+  - [Artykuł 82. Prawo do odszkodowania i odpowiedzialność](#artykul-82)
+  - [Artykuł 83. Ogólne warunki nakładania administracyjnych kar pieniężnych](#artykul-83)
+  - [Artykuł 84. Sankcje](#artykul-84)
+- [ROZDZIAŁ IX. Przepisy dotyczące szczególnych sytuacji związanych z przetwarzaniem](#rozdzial-ix)
+  - [Artykuł 85. Przetwarzanie a wolność wypowiedzi i informacji](#artykul-85)
+  - [Artykuł 86. Przetwarzanie a publiczny dostęp do dokumentów urzędowych](#artykul-86)
+  - [Artykuł 87. Przetwarzanie krajowego numeru identyfikacyjnego](#artykul-87)
+  - [Artykuł 88. Przetwarzanie w kontekście zatrudnienia](#artykul-88)
+  - [Artykuł 89. Zabezpieczenia i wyjątki mające zastosowanie do przetwarzania do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych](#artykul-89)
+  - [Artykuł 90. Obowiązek zachowania tajemnicy](#artykul-90)
+  - [Artykuł 91. Istniejące zasady ochrony danych obowiązujące kościoły i związki wyznaniowe](#artykul-91)
+- [ROZDZIAŁ X. Akty delegowane i akty wykonawcze](#rozdzial-x)
+  - [Artykuł 92. Wykonywanie przekazanych uprawnień](#artykul-92)
+  - [Artykuł 93. Procedura komitetowa](#artykul-93)
+- [ROZDZIAŁ XI. Przepisy końcowe](#rozdzial-xi)
+  - [Artykuł 94. Uchylenie dyrektywy 95/46/WE](#artykul-94)
+  - [Artykuł 95. Stosunek do dyrektywy 2002/58/WE](#artykul-95)
+  - [Artykuł 96. Stosunek do uprzednio zawartych umów](#artykul-96)
+  - [Artykuł 97. Sprawozdania Komisji](#artykul-97)
+  - [Artykuł 98. Przegląd innych aktów prawnych Unii dotyczących ochrony danych](#artykul-98)
+  - [Artykuł 99. Wejście w życie i stosowanie](#artykul-99)
+
 <a id="preambula"></a>
 ## Preambuła
 
@@ -48,9 +177,9 @@ a także mając na uwadze, co następuje:
 
 (11) Aby ochrona danych osobowych w Unii była skuteczna, należy wzmocnić i doprecyzować prawa osób, których dane dotyczą, oraz obowiązki podmiotów przetwarzających dane osobowe i decydujących o przetwarzaniu, jak również zapewnić równorzędne uprawnienia w zakresie monitorowania i egzekwowania przepisów o ochronie danych osobowych oraz równorzędne kary za naruszenia tych przepisów w państwach członkowskich.
 
-(12) Art. 16 ust. 2 TFUE powierza Parlamentowi Europejskiemu i Radzie określenie zasad ochrony osób fizycznych w zakresie przetwarzania danych osobowych oraz zasad swobodnego przepływu takich danych.
+(12) [Art. 16](#artykul-16) ust. 2 TFUE powierza Parlamentowi Europejskiemu i Radzie określenie zasad ochrony osób fizycznych w zakresie przetwarzania danych osobowych oraz zasad swobodnego przepływu takich danych.
 
-(13) Aby zapewnić spójny stopień ochrony osób fizycznych w Unii oraz zapobiegać rozbieżnościom hamującym swobodny przepływ danych osobowych na rynku wewnętrznym, należy przyjąć rozporządzenie, które zagwarantuje podmiotom gospodarczym – w tym mikroprzedsiębiorstwom oraz małym i średnim przedsiębiorstwom – pewność prawa i przejrzystość, a osobom fizycznym we wszystkich państwach członkowskich ten sam poziom prawnie egzekwowalnych praw oraz obowiązków i zadań administratorów i podmiotów przetwarzających, które pozwoli spójnie monitorować przetwarzanie danych osobowych, a także które zapewni równoważne kary we wszystkich państwach członkowskich oraz skuteczną współpracę organów nadzorczych z różnych państw członkowskich. Aby rynek wewnętrzny mógł właściwie funkcjonować, swobodny przepływ danych osobowych w Unii nie jest ograniczany ani zakazany z powodów odnoszących się do ochrony osób fizycznych w związku z przetwarzaniem danych osobowych. Z uwagi na szczególną sytuację mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw niniejsze rozporządzenie przewiduje wyjątek dotyczący rejestrowania czynności przetwarzania dla podmiotów zatrudniających mniej niż 250 pracowników. Ponadto zachęca się instytucje i organy Unii, państwa członkowskie i ich organy nadzorcze, by stosując niniejsze rozporządzenie, uwzględniały szczególne potrzeby mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw. Rozumienie pojęcia mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw powinno opierać się na art. 2 załącznika do zalecenia Komisji 2003/361/WE (5).
+(13) Aby zapewnić spójny stopień ochrony osób fizycznych w Unii oraz zapobiegać rozbieżnościom hamującym swobodny przepływ danych osobowych na rynku wewnętrznym, należy przyjąć rozporządzenie, które zagwarantuje podmiotom gospodarczym – w tym mikroprzedsiębiorstwom oraz małym i średnim przedsiębiorstwom – pewność prawa i przejrzystość, a osobom fizycznym we wszystkich państwach członkowskich ten sam poziom prawnie egzekwowalnych praw oraz obowiązków i zadań administratorów i podmiotów przetwarzających, które pozwoli spójnie monitorować przetwarzanie danych osobowych, a także które zapewni równoważne kary we wszystkich państwach członkowskich oraz skuteczną współpracę organów nadzorczych z różnych państw członkowskich. Aby rynek wewnętrzny mógł właściwie funkcjonować, swobodny przepływ danych osobowych w Unii nie jest ograniczany ani zakazany z powodów odnoszących się do ochrony osób fizycznych w związku z przetwarzaniem danych osobowych. Z uwagi na szczególną sytuację mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw niniejsze rozporządzenie przewiduje wyjątek dotyczący rejestrowania czynności przetwarzania dla podmiotów zatrudniających mniej niż 250 pracowników. Ponadto zachęca się instytucje i organy Unii, państwa członkowskie i ich organy nadzorcze, by stosując niniejsze rozporządzenie, uwzględniały szczególne potrzeby mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw. Rozumienie pojęcia mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw powinno opierać się na [art. 2](#artykul-2) załącznika do zalecenia Komisji 2003/361/WE (5).
 
 (14) Ochrona zapewniana niniejszym rozporządzeniem powinna mieć zastosowanie do osób fizycznych – niezależnie od ich obywatelstwa czy miejsca zamieszkania – w związku z przetwarzaniem ich danych osobowych. Niniejsze rozporządzenie nie dotyczy przetwarzania danych osobowych dotyczących osób prawnych, w szczególności przedsiębiorstw będących osobami prawnymi, w tym danych o firmie i formie prawnej oraz danych kontaktowych osoby prawnej.
 
@@ -306,7 +435,7 @@ a także mając na uwadze, co następuje:
 
 (140) Europejską Radę Ochrony Danych powinien wspierać sekretariat, zapewniany przez Europejskiego Inspektora Ochrony Danych. Personel Europejskiego Inspektora Ochrony Danych wykonujący zadania, które niniejsze rozporządzenie powierza Europejskiej Radzie Ochrony Danych, powinien wykonywać swoje zadania wyłącznie pod kierunkiem przewodniczącego Europejskiej Rady Ochrony Danych i jemu podlegać.
 
-(141) Każda osoba, której dane dotyczą, powinna mieć prawo wniesienia skargi do jednego organu nadzorczego oraz prawo do skutecznego środka ochrony prawnej przed sądem, zgodnie z art. 47 Karty praw podstawowych, w szczególności w państwie członkowskim, w którym ma miejsce zwykłego pobytu, a jeżeli uzna, że jej prawa wynikające z niniejszego rozporządzenia są naruszane, lub jeżeli organ nadzorczy nie reaguje na skargę, częściowo lub w całości ją odrzuca lub oddala, lub nie podejmuje działania, choć jest to niezbędne do ochrony praw tej osoby. Postępowanie wyjaśniające na podstawie skargi powinno być prowadzone – z zastrzeżeniem kontroli sądowej – w zakresie odpowiadającym konkretnej sprawie. Organ nadzorczy powinien w rozsądnym terminie poinformować osobę, której dane dotyczą, o postępach i wynikach rozpatrywania skargi. Jeżeli dana sprawa wymaga dalszego postępowania wyjaśniającego lub koordynacji działań z innym organem nadzorczym, osoba, której dane dotyczą, powinna zostać o tym uprzednio poinformowana. Aby ułatwić wnoszenie skarg, każdy organ nadzorczy powinien zastosować takie środki jak udostępnienie formularza skargi, który można wypełnić także elektronicznie, przy czym nie należy wykluczać innych sposobów komunikacji.
+(141) Każda osoba, której dane dotyczą, powinna mieć prawo wniesienia skargi do jednego organu nadzorczego oraz prawo do skutecznego środka ochrony prawnej przed sądem, zgodnie z [art. 47](#artykul-47) Karty praw podstawowych, w szczególności w państwie członkowskim, w którym ma miejsce zwykłego pobytu, a jeżeli uzna, że jej prawa wynikające z niniejszego rozporządzenia są naruszane, lub jeżeli organ nadzorczy nie reaguje na skargę, częściowo lub w całości ją odrzuca lub oddala, lub nie podejmuje działania, choć jest to niezbędne do ochrony praw tej osoby. Postępowanie wyjaśniające na podstawie skargi powinno być prowadzone – z zastrzeżeniem kontroli sądowej – w zakresie odpowiadającym konkretnej sprawie. Organ nadzorczy powinien w rozsądnym terminie poinformować osobę, której dane dotyczą, o postępach i wynikach rozpatrywania skargi. Jeżeli dana sprawa wymaga dalszego postępowania wyjaśniającego lub koordynacji działań z innym organem nadzorczym, osoba, której dane dotyczą, powinna zostać o tym uprzednio poinformowana. Aby ułatwić wnoszenie skarg, każdy organ nadzorczy powinien zastosować takie środki jak udostępnienie formularza skargi, który można wypełnić także elektronicznie, przy czym nie należy wykluczać innych sposobów komunikacji.
 
 (142) Jeżeli osoba, której dane dotyczą, uzna, że naruszane są jej prawa wynikające z niniejszego rozporządzenia, powinna mieć ona prawo zlecić podmiotowi, organizacji lub zrzeszeniu – które nie mają charakteru zarobkowego, zostały ustanowione zgodnie z prawem państwa członkowskiego, mają statutowo na celu interes publiczny i działają w dziedzinie ochrony danych osobowych – wniesienie skargi w swoim imieniu do organu nadzorczego, wykonanie prawa do środka ochrony prawnej przed sądem w imieniu osób, których dane dotyczą lub – o ile taką możliwość przewiduje prawo państwa członkowskiego – żądanie odszkodowania w imieniu osób, których dane dotyczą. Państwo członkowskie może wymagać, by taki podmiot, taka organizacja lub takie zrzeszenie niezależnie od zlecenia otrzymanego od osoby, której dane dotyczą, miały prawo wniesienia w tym państwie członkowskim skargi oraz miały prawo do skutecznego środka ochrony prawnej przed sądem, jeżeli mają powody, by uznać, że w wyniku przetwarzania danych osobowych w sposób naruszający niniejsze rozporządzenie naruszone zostały prawa osoby, której dane dotyczą. Takiemu podmiotowi, takiej organizacji lub takiemu zrzeszeniu nie może przysługiwać prawo do występowania o odszkodowanie w imieniu osoby, której dane dotyczą, jeżeli nie zostały do tego umocowane przez tę osobę.
 
@@ -330,7 +459,7 @@ a także mając na uwadze, co następuje:
 
 (152) W sytuacjach, w których niniejsze rozporządzenie nie harmonizuje sankcji administracyjnych, lub w razie potrzeby w innych przypadkach, na przykład w razie poważnego naruszenia niniejszego rozporządzenia, państwa członkowskie powinny wdrożyć system przewidujący skuteczne, proporcjonalne i odstraszające sankcje. Charakter takich sankcji (karny lub administracyjny) powinno określać prawo państwa członkowskiego.
 
-(153) Prawo państw członkowskich powinno godzić przepisy regulujące wolność wypowiedzi i informacji, w tym wypowiedzi dziennikarskiej, akademickiej, artystycznej lub literackiej, z prawem do ochrony danych osobowych na mocy niniejszego rozporządzenia. Przetwarzanie danych osobowych jedynie do celów dziennikarskich lub do celów wypowiedzi akademickiej, artystycznej lub literackiej powinno podlegać wyjątkom lub odstępstwom od niektórych przepisów niniejszego rozporządzenia, jeżeli jest to niezbędne, by pogodzić prawo do ochrony danych osobowych z prawem do wolności wypowiedzi i informacji, przewidzianymi w art. 11 Karty praw podstawowych. Powinno mieć to zastosowanie w szczególności do przetwarzania danych osobowych w dziedzinie audiowizualnej oraz w archiwach i bibliotekach prasowych. Państwa członkowskie powinny więc przyjąć akty prawne określające odstępstwa i wyjątki niezbędne do zapewnienia równowagi między tymi prawami podstawowymi. Państwa członkowskie powinny przyjąć takie odstępstwa i wyjątki w odniesieniu do zasad ogólnych, praw przysługujących osobie, której dane dotyczą, administratora i podmiotu przetwarzającego, przekazywania danych osobowych do państw trzecich lub organizacji międzynarodowych, niezależnych organów nadzorczych, współpracy i spójności oraz szczególnych sytuacji przetwarzania danych. Jeżeli odstępstwa i wyjątki różnią się zależnie od państwa członkowskiego, zastosowanie powinno mieć prawo państwa członkowskiego, któremu podlega administrator. Aby uwzględnić, jak ważna dla każdego demokratycznego społeczeństwa jest wolność wypowiedzi, pojęcia dotyczące tej wolności, takie jak dziennikarstwo, należy interpretować szeroko.
+(153) Prawo państw członkowskich powinno godzić przepisy regulujące wolność wypowiedzi i informacji, w tym wypowiedzi dziennikarskiej, akademickiej, artystycznej lub literackiej, z prawem do ochrony danych osobowych na mocy niniejszego rozporządzenia. Przetwarzanie danych osobowych jedynie do celów dziennikarskich lub do celów wypowiedzi akademickiej, artystycznej lub literackiej powinno podlegać wyjątkom lub odstępstwom od niektórych przepisów niniejszego rozporządzenia, jeżeli jest to niezbędne, by pogodzić prawo do ochrony danych osobowych z prawem do wolności wypowiedzi i informacji, przewidzianymi w [art. 11](#artykul-11) Karty praw podstawowych. Powinno mieć to zastosowanie w szczególności do przetwarzania danych osobowych w dziedzinie audiowizualnej oraz w archiwach i bibliotekach prasowych. Państwa członkowskie powinny więc przyjąć akty prawne określające odstępstwa i wyjątki niezbędne do zapewnienia równowagi między tymi prawami podstawowymi. Państwa członkowskie powinny przyjąć takie odstępstwa i wyjątki w odniesieniu do zasad ogólnych, praw przysługujących osobie, której dane dotyczą, administratora i podmiotu przetwarzającego, przekazywania danych osobowych do państw trzecich lub organizacji międzynarodowych, niezależnych organów nadzorczych, współpracy i spójności oraz szczególnych sytuacji przetwarzania danych. Jeżeli odstępstwa i wyjątki różnią się zależnie od państwa członkowskiego, zastosowanie powinno mieć prawo państwa członkowskiego, któremu podlega administrator. Aby uwzględnić, jak ważna dla każdego demokratycznego społeczeństwa jest wolność wypowiedzi, pojęcia dotyczące tej wolności, takie jak dziennikarstwo, należy interpretować szeroko.
 
 (154) Niniejsze rozporządzenie pozwala uwzględnić przy stosowaniu jego przepisów zasadę publicznego dostępu do dokumentów urzędowych. Publiczny dostęp do dokumentów urzędowych można uznać za interes publiczny. Organ publiczny lub podmiot publiczny powinny móc publicznie ujawniać dane osobowe z dokumentów przez siebie przechowywanych, jeżeli takie ujawnienie jest przewidziane przepisami prawa Unii lub prawa państwa członkowskiego, któremu organ ten lub podmiot podlegają. Przepisy takie powinny godzić publiczny dostęp do dokumentów urzędowych i ponowne wykorzystywanie informacji sektora publicznego z prawem do ochrony danych osobowych, i dlatego mogą przewidywać niezbędne uwzględnienie prawa do ochrony danych osobowych na podstawie niniejszego rozporządzenia. Wzmianka o organach i podmiotach publicznych powinna w tym kontekście dotyczyć wszystkich organów lub innych podmiotów objętych prawem państwa członkowskiego dotyczącym publicznego dostępu do dokumentów. Dyrektywa Parlamentu Europejskiego i Rady 2003/98/WE (14) nie narusza ani w żaden sposób nie wpływa na stopień ochrony osób fizycznych w związku z przetwarzaniem danych osobowych wynikający z przepisów prawa Unii i prawa państwa członkowskiego, a w szczególności nie zmienia obowiązków i praw przewidzianych w niniejszym rozporządzeniu. Dyrektywa ta nie powinna mieć zastosowania w szczególności do dokumentów, do których – w ramach systemów dostępu – dostęp jest wykluczony lub ograniczony z powodu ochrony danych osobowych, ani do fragmentów dokumentów dostępnych w ramach tych systemów, ale zawierających dane osobowe, których ponowne wykorzystanie zostało określone w prawie jako niezgodne z prawem o ochronie osób fizycznych w związku z przetwarzaniem danych osobowych.
 
@@ -354,7 +483,7 @@ a także mając na uwadze, co następuje:
 
 (164) W odniesieniu do uprawnień organów nadzorczych do uzyskania od administratora lub podmiotu przetwarzającego dostępu do danych osobowych oraz do pomieszczeń, państwa członkowskie mogą – w granicach niniejszego rozporządzenia – przyjąć przepisy szczegółowe mające chronić obowiązek zachowania tajemnicy zawodowej lub innej równoważnej tajemnicy, o ile jest to niezbędne, by pogodzić prawo do ochrony danych osobowych z obowiązkiem zachowania tajemnicy zawodowej. Pozostaje to bez uszczerbku dla istniejących obowiązków państw członkowskich, by tam, gdzie tego wymaga prawo Unii, przyjąć przepisy o tajemnicy zawodowej.
 
-(165) Niniejsze rozporządzenie nie narusza statusu przyznanego kościołom oraz związkom lub wspólnotom wyznaniowym na mocy prawa konstytucyjnego obowiązującego w państwach członkowskich i nie narusza tego statusu – jak uznano w art. 17 TFUE.
+(165) Niniejsze rozporządzenie nie narusza statusu przyznanego kościołom oraz związkom lub wspólnotom wyznaniowym na mocy prawa konstytucyjnego obowiązującego w państwach członkowskich i nie narusza tego statusu – jak uznano w [art. 17](#artykul-17) TFUE.
 
 (166) Aby spełnić cele niniejszego rozporządzenia, mianowicie chronić podstawowe prawa i wolności osób fizycznych, w szczególności prawo do ochrony danych osobowych, oraz zagwarantować swobodny przepływ danych osobowych w Unii, należy przekazać Komisji uprawnienia do przyjmowania aktów zgodnie z art. 290 TFUE. Akty delegowane powinny zostać w szczególności przyjęte w odniesieniu do kryteriów i wymogów obowiązujących w mechanizmach certyfikacji, w odniesieniu do informacji przedstawianych za pomocą standardowych znaków graficznych oraz w odniesieniu do procedur ustanawiania takich znaków. Szczególnie ważne jest, aby w czasie swoich prac przygotowawczych Komisja prowadziła odpowiednie konsultacje, w tym na szczeblu eksperckim. W trakcie przygotowywania i opracowywania aktów delegowanych Komisja powinna zapewnić jednoczesne, terminowe i odpowiednie przekazywanie stosownych dokumentów Parlamentowi Europejskiemu i Radzie.
 
@@ -401,7 +530,7 @@ c) przez osobę fizyczną w ramach czynności o czysto osobistym lub domowym cha
 
 d) przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych lub wykonywania kar, w tym ochrony przed zagrożeniami dla bezpieczeństwa publicznego i zapobiegania takim zagrożeniom.
 
-3. Do przetwarzania danych osobowych przez instytucje, organy i jednostki organizacyjne Unii zastosowanie ma rozporządzenie (WE) nr 45/2001. Rozporządzenie (WE) nr 45/2001 oraz inne unijne akty prawne mające zastosowanie do takiego przetwarzania danych osobowych zostają dostosowane do zasad i przepisów niniejszego rozporządzenia zgodnie z art. 98.
+3. Do przetwarzania danych osobowych przez instytucje, organy i jednostki organizacyjne Unii zastosowanie ma rozporządzenie (WE) nr 45/2001. Rozporządzenie (WE) nr 45/2001 oraz inne unijne akty prawne mające zastosowanie do takiego przetwarzania danych osobowych zostają dostosowane do zasad i przepisów niniejszego rozporządzenia zgodnie z [art. 98](#artykul-98).
 
 4. Niniejsze rozporządzenie pozostaje bez uszczerbku dla stosowania dyrektywy 2000/31/WE, w szczególności dla zasad odpowiedzialności usługodawców będących pośrednikami, o których to zasadach mowa w art. 12–15 tej dyrektywy.
 
@@ -459,7 +588,7 @@ a) jeżeli chodzi o administratora posiadającego jednostki organizacyjne w wię
 
 b) jeżeli chodzi o podmiot przetwarzający posiadający jednostki organizacyjne w więcej niż jednym państwie członkowskim – miejsce, w którym znajduje się jego centralna administracja w Unii lub, w przypadku gdy podmiot przetwarzający nie ma centralnej administracji w Unii – jednostkę organizacyjną podmiotu przetwarzającego w Unii, w której odbywają się główne czynności przetwarzania w ramach działalności jednostki organizacyjnej podmiotu przetwarzającego, w zakresie w jakim podmiot przetwarzający podlega szczególnym obowiązkom na mocy niniejszego rozporządzenia;
 
-17) „przedstawiciel” oznacza osobę fizyczną lub prawną mającą miejsce zamieszkania lub siedzibę w Unii, która została wyznaczona na piśmie przez administratora lub podmiot przetwarzający na mocy art. 27 do reprezentowania administratora lub podmiotu przetwarzającego w zakresie ich obowiązków wynikających z niniejszego rozporządzenia;
+17) „przedstawiciel” oznacza osobę fizyczną lub prawną mającą miejsce zamieszkania lub siedzibę w Unii, która została wyznaczona na piśmie przez administratora lub podmiot przetwarzający na mocy [art. 27](#artykul-27) do reprezentowania administratora lub podmiotu przetwarzającego w zakresie ich obowiązków wynikających z niniejszego rozporządzenia;
 
 18) „przedsiębiorca” oznacza osobę fizyczną lub prawną prowadzącą działalność gospodarczą, niezależnie od formy prawnej, w tym spółki osobowe lub zrzeszenia prowadzące regularną działalność gospodarczą;
 
@@ -467,7 +596,7 @@ b) jeżeli chodzi o podmiot przetwarzający posiadający jednostki organizacyjne
 
 20) „wiążące reguły korporacyjne” oznaczają polityki ochrony danych osobowych stosowane przez administratora lub podmiot przetwarzający, którzy posiadają jednostkę organizacyjną na terytorium państwa członkowskiego, przy jednorazowym lub wielokrotnym przekazaniu danych osobowych administratorowi lub podmiotowi przetwarzającemu w co najmniej jednym państwie trzecim w ramach grupy przedsiębiorstw lub grupy przedsiębiorców prowadzących wspólną działalność gospodarczą;
 
-21) „organ nadzorczy” oznacza niezależny organ publiczny ustanowiony przez państwo członkowskie zgodnie z art. 51;
+21) „organ nadzorczy” oznacza niezależny organ publiczny ustanowiony przez państwo członkowskie zgodnie z [art. 51](#artykul-51);
 
 22) „organ nadzorczy, którego sprawa dotyczy” oznacza organ nadzorczy, którego dotyczy przetwarzanie danych osobowych, ponieważ:
 
@@ -499,13 +628,13 @@ b) przetwarzanie danych osobowych, które odbywa się w Unii w ramach działalno
 
 a) przetwarzane zgodnie z prawem, rzetelnie i w sposób przejrzysty dla osoby, której dane dotyczą („zgodność z prawem, rzetelność i przejrzystość”);
 
-b) zbierane w konkretnych, wyraźnych i prawnie uzasadnionych celach i nieprzetwarzane dalej w sposób niezgodny z tymi celami; dalsze przetwarzanie do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych nie jest uznawane w myśl art. 89 ust. 1 za niezgodne z pierwotnymi celami („ograniczenie celu”);
+b) zbierane w konkretnych, wyraźnych i prawnie uzasadnionych celach i nieprzetwarzane dalej w sposób niezgodny z tymi celami; dalsze przetwarzanie do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych nie jest uznawane w myśl [art. 89](#artykul-89) ust. 1 za niezgodne z pierwotnymi celami („ograniczenie celu”);
 
 c) adekwatne, stosowne oraz ograniczone do tego, co niezbędne do celów, w których są przetwarzane („minimalizacja danych”);
 
 d) prawidłowe i w razie potrzeby uaktualniane; należy podjąć wszelkie rozsądne działania, aby dane osobowe, które są nieprawidłowe w świetle celów ich przetwarzania, zostały niezwłocznie usunięte lub sprostowane („prawidłowość”);
 
-e) przechowywane w formie umożliwiającej identyfikację osoby, której dane dotyczą, przez okres nie dłuższy, niż jest to niezbędne do celów, w których dane te są przetwarzane; dane osobowe można przechowywać przez okres dłuższy, o ile będą one przetwarzane wyłącznie do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych na mocy art. 89 ust. 1, z zastrzeżeniem że wdrożone zostaną odpowiednie środki techniczne i organizacyjne wymagane na mocy niniejszego rozporządzenia w celu ochrony praw i wolności osób, których dane dotyczą („ograniczenie przechowywania”);
+e) przechowywane w formie umożliwiającej identyfikację osoby, której dane dotyczą, przez okres nie dłuższy, niż jest to niezbędne do celów, w których dane te są przetwarzane; dane osobowe można przechowywać przez okres dłuższy, o ile będą one przetwarzane wyłącznie do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych na mocy [art. 89](#artykul-89) ust. 1, z zastrzeżeniem że wdrożone zostaną odpowiednie środki techniczne i organizacyjne wymagane na mocy niniejszego rozporządzenia w celu ochrony praw i wolności osób, których dane dotyczą („ograniczenie przechowywania”);
 
 f) przetwarzane w sposób zapewniający odpowiednie bezpieczeństwo danych osobowych, w tym ochronę przed niedozwolonym lub niezgodnym z prawem przetwarzaniem oraz przypadkową utratą, zniszczeniem lub uszkodzeniem, za pomocą odpowiednich środków technicznych lub organizacyjnych („integralność i poufność”).
 
@@ -540,13 +669,13 @@ b) w prawie państwa członkowskiego, któremu podlega administrator.
 
 Cel przetwarzania musi być określony w tej podstawie prawnej lub, w przypadku przetwarzania, o którym mowa w ust. 1 lit. e) – musi być ono niezbędne do wykonania zadania realizowanego w interesie publicznym lub w ramach sprawowania władzy publicznej powierzonej administratorowi. Podstawa prawna może zawierać przepisy szczegółowe dostosowujące stosowanie przepisów niniejszego rozporządzenia, w tym: ogólne warunki zgodności z prawem przetwarzania przez administratora; rodzaj danych podlegających przetwarzaniu; osoby, których dane dotyczą; podmioty, którym można ujawnić dane osobowe; cele, w których można je ujawnić; ograniczenia celu; okresy przechowywania; oraz operacje i procedury przetwarzania, w tym środki zapewniające zgodność z prawem i rzetelność przetwarzania, w tym w innych szczególnych sytuacjach związanych z przetwarzaniem, o których mowa w rozdziale IX. Prawo Unii lub prawo państwa członkowskiego muszą służyć realizacji celu leżącego w interesie publicznym, oraz być proporcjonalne do wyznaczonego, prawnie uzasadnionego celu.
 
-4. Jeżeli przetwarzanie w celu innym niż cel, w którym dane osobowe zostały zebrane, nie odbywa się na podstawie zgody osoby, której dane dotyczą, ani prawa Unii lub prawa państwa członkowskiego stanowiących w demokratycznym społeczeństwie niezbędny i proporcjonalny środek służący zagwarantowaniu celów, o których mowa w art. 23 ust. 1, administrator – aby ustalić, czy przetwarzanie w innym celu jest zgodne z celem, w którym dane osobowe zostały pierwotnie zebrane – bierze pod uwagę między innymi:
+4. Jeżeli przetwarzanie w celu innym niż cel, w którym dane osobowe zostały zebrane, nie odbywa się na podstawie zgody osoby, której dane dotyczą, ani prawa Unii lub prawa państwa członkowskiego stanowiących w demokratycznym społeczeństwie niezbędny i proporcjonalny środek służący zagwarantowaniu celów, o których mowa w [art. 23](#artykul-23) ust. 1, administrator – aby ustalić, czy przetwarzanie w innym celu jest zgodne z celem, w którym dane osobowe zostały pierwotnie zebrane – bierze pod uwagę między innymi:
 
 a) wszelkie związki między celami, w których zebrano dane osobowe, a celami zamierzonego dalszego przetwarzania;
 
 b) kontekst, w którym zebrano dane osobowe, w szczególności relację między osobami, których dane dotyczą, a administratorem;
 
-c) charakter danych osobowych, w szczególności czy przetwarzane są szczególne kategorie danych osobowych zgodnie z art. 9 lub dane osobowe dotyczące wyroków skazujących i naruszeń prawa zgodnie z art. 10;
+c) charakter danych osobowych, w szczególności czy przetwarzane są szczególne kategorie danych osobowych zgodnie z [art. 9](#artykul-9) lub dane osobowe dotyczące wyroków skazujących i naruszeń prawa zgodnie z [art. 10](#artykul-10);
 
 d) ewentualne konsekwencje zamierzonego dalszego przetwarzania dla osób, których dane dotyczą;
 
@@ -566,7 +695,7 @@ e) istnienie odpowiednich zabezpieczeń, w tym ewentualnie szyfrowania lub pseud
 <a id="artykul-8"></a>
 ### Artykuł 8. Warunki wyrażenia zgody przez dziecko w przypadku usług społeczeństwa informacyjnego
 
-1. Jeżeli zastosowanie ma art. 6 ust. 1 lit. a), w przypadku usług społeczeństwa informacyjnego oferowanych bezpośrednio dziecku, zgodne z prawem jest przetwarzanie danych osobowych dziecka, które ukończyło 16 lat. Jeżeli dziecko nie ukończyło 16 lat, takie przetwarzanie jest zgodne z prawem wyłącznie w przypadkach, gdy zgodę wyraziła lub zaaprobowała ją osoba sprawująca władzę rodzicielską lub opiekę nad dzieckiem oraz wyłącznie w zakresie wyrażonej zgody.
+1. Jeżeli zastosowanie ma [art. 6](#artykul-6) ust. 1 lit. a), w przypadku usług społeczeństwa informacyjnego oferowanych bezpośrednio dziecku, zgodne z prawem jest przetwarzanie danych osobowych dziecka, które ukończyło 16 lat. Jeżeli dziecko nie ukończyło 16 lat, takie przetwarzanie jest zgodne z prawem wyłącznie w przypadkach, gdy zgodę wyraziła lub zaaprobowała ją osoba sprawująca władzę rodzicielską lub opiekę nad dzieckiem oraz wyłącznie w zakresie wyrażonej zgody.
 
 Państwa członkowskie mogą przewidzieć w swoim prawie niższą granicę wiekową, która musi wynosić co najmniej 13 lat.
 
@@ -599,7 +728,7 @@ h) przetwarzanie jest niezbędne do celów profilaktyki zdrowotnej lub medycyny 
 
 i) przetwarzanie jest niezbędne ze względów związanych z interesem publicznym w dziedzinie zdrowia publicznego, takich jak ochrona przed poważnymi transgranicznymi zagrożeniami zdrowotnymi lub zapewnienie wysokich standardów jakości i bezpieczeństwa opieki zdrowotnej oraz produktów leczniczych lub wyrobów medycznych, na podstawie prawa Unii lub prawa państwa członkowskiego, które przewidują odpowiednie, konkretne środki ochrony praw i wolności osoób, których dane dotyczą, w szczególności tajemnicę zawodową;
 
-j) przetwarzanie jest niezbędne do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych zgodnie z art. 89 ust. 1, na podstawie prawa Unii lub prawa państwa członkowskiego, które są proporcjonalne do wyznaczonego celu, nie naruszają istoty prawa do ochrony danych i przewidują odpowiednie, konkretne środki ochrony praw podstawowych i interesów osoby, której dane dotyczą.
+j) przetwarzanie jest niezbędne do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych zgodnie z [art. 89](#artykul-89) ust. 1, na podstawie prawa Unii lub prawa państwa członkowskiego, które są proporcjonalne do wyznaczonego celu, nie naruszają istoty prawa do ochrony danych i przewidują odpowiednie, konkretne środki ochrony praw podstawowych i interesów osoby, której dane dotyczą.
 
 3. Dane osobowe, o których mowa w ust. 1, mogą być przetwarzane do celów, o których mowa w ust. 2 lit. h), jeżeli są przetwarzane przez – lub na odpowiedzialność – pracownika podlegającego obowiązkowi zachowania tajemnicy zawodowej na mocy prawa Unii lub prawa państwa członkowskiego, lub przepisów ustanowionych przez właściwe organy krajowe lub przez inną osobę również podlegającą obowiązkowi zachowania tajemnicy zawodowej na mocy prawa Unii lub prawa państwa członkowskiego, lub przepisów ustanowionych przez właściwe organy krajowe.
 
@@ -608,14 +737,14 @@ j) przetwarzanie jest niezbędne do celów archiwalnych w interesie publicznym, 
 <a id="artykul-10"></a>
 ### Artykuł 10. Przetwarzanie danych osobowych dotyczących wyroków skazujących i naruszeń prawa
 
-Przetwarzania danych osobowych dotyczących wyroków skazujących oraz naruszeń prawa lub powiązanych środków bezpieczeństwa na podstawie art. 6 ust. 1 wolno dokonywać wyłącznie pod nadzorem władz publicznych lub jeżeli przetwarzanie jest dozwolone prawem Unii lub prawem państwa członkowskiego przewidującymi odpowiednie zabezpieczenia praw i wolności osób, których dane dotyczą. Wszelkie kompletne rejestry wyroków skazujących są prowadzone wyłącznie pod nadzorem władz publicznych.
+Przetwarzania danych osobowych dotyczących wyroków skazujących oraz naruszeń prawa lub powiązanych środków bezpieczeństwa na podstawie [art. 6](#artykul-6) ust. 1 wolno dokonywać wyłącznie pod nadzorem władz publicznych lub jeżeli przetwarzanie jest dozwolone prawem Unii lub prawem państwa członkowskiego przewidującymi odpowiednie zabezpieczenia praw i wolności osób, których dane dotyczą. Wszelkie kompletne rejestry wyroków skazujących są prowadzone wyłącznie pod nadzorem władz publicznych.
 
 <a id="artykul-11"></a>
 ### Artykuł 11. Przetwarzanie niewymagające identyfikacji
 
 1. Jeżeli cele, w których administrator przetwarza dane osobowe, nie wymagają lub już nie wymagają zidentyfikowania przez niego osoby, której dane dotyczą, administrator nie ma obowiązku zachowania, uzyskania ani przetworzenia dodatkowych informacji w celu zidentyfikowania osoby, której dane dotyczą, wyłącznie po to, by zastosować się do niniejszego rozporządzenia.
 
-2. Jeżeli w przypadkach, o których mowa w ust. 1 niniejszego artykułu, administrator może wykazać, że nie jest w stanie zidentyfikować osoby, której dane dotyczą, w miarę możliwości informuje o tym osobę, której dane dotyczą. W takich przypadkach zastosowania nie mają art. 15–20, chyba że osoba, której dane dotyczą, w celu wykonania praw przysługujących jej na mocy tych artykułów dostarczy dodatkowych informacji pozwalających ją zidentyfikować.
+2. Jeżeli w przypadkach, o których mowa w ust. 1 niniejszego artykułu, administrator może wykazać, że nie jest w stanie zidentyfikować osoby, której dane dotyczą, w miarę możliwości informuje o tym osobę, której dane dotyczą. W takich przypadkach zastosowania nie mają [art. 15](#artykul-15)–20, chyba że osoba, której dane dotyczą, w celu wykonania praw przysługujących jej na mocy tych artykułów dostarczy dodatkowych informacji pozwalających ją zidentyfikować.
 
 <a id="rozdzial-iii"></a>
 ### ROZDZIAŁ III. Prawa osoby, której dane dotyczą
@@ -626,15 +755,15 @@ Przetwarzania danych osobowych dotyczących wyroków skazujących oraz naruszeń
 <a id="artykul-12"></a>
 ### Artykuł 12. Przejrzyste informowanie i przejrzysta komunikacja oraz tryb wykonywania praw przez osobę, której dane dotyczą
 
-1. Administrator podejmuje odpowiednie środki, aby w zwięzłej, przejrzystej, zrozumiałej i łatwo dostępnej formie, jasnym i prostym językiem – w szczególności gdy informacje są kierowane do dziecka – udzielić osobie, której dane dotyczą, wszelkich informacji, o których mowa w art. 13 i 14, oraz prowadzić z nią wszelką komunikację na mocy art. 15–22 i 34 w sprawie przetwarzania. Informacji udziela się na piśmie lub w inny sposób, w tym w stosownych przypadkach – elektronicznie. Jeżeli osoba, której dane dotyczą, tego zażąda, informacji można udzielić ustnie, o ile innymi sposobami potwierdzi się tożsamość osoby, której dane dotyczą.
+1. Administrator podejmuje odpowiednie środki, aby w zwięzłej, przejrzystej, zrozumiałej i łatwo dostępnej formie, jasnym i prostym językiem – w szczególności gdy informacje są kierowane do dziecka – udzielić osobie, której dane dotyczą, wszelkich informacji, o których mowa w [art. 13](#artykul-13) i 14, oraz prowadzić z nią wszelką komunikację na mocy [art. 15](#artykul-15)–22 i 34 w sprawie przetwarzania. Informacji udziela się na piśmie lub w inny sposób, w tym w stosownych przypadkach – elektronicznie. Jeżeli osoba, której dane dotyczą, tego zażąda, informacji można udzielić ustnie, o ile innymi sposobami potwierdzi się tożsamość osoby, której dane dotyczą.
 
-2. Administrator ułatwia osobie, której dane dotyczą, wykonanie praw przysługujących jej na mocy art. 15–22. W przypadkach, o których mowa w art. 11 ust. 2, administrator nie odmawia podjęcia działań na żądanie osoby której dane dotyczą pragnącej wykonać prawa przysługujące jej na mocy art. 15–22, chyba że wykaże, iż nie jest w stanie zidentyfikować osoby, której dane dotyczą.
+2. Administrator ułatwia osobie, której dane dotyczą, wykonanie praw przysługujących jej na mocy [art. 15](#artykul-15)–22. W przypadkach, o których mowa w [art. 11](#artykul-11) ust. 2, administrator nie odmawia podjęcia działań na żądanie osoby której dane dotyczą pragnącej wykonać prawa przysługujące jej na mocy [art. 15](#artykul-15)–22, chyba że wykaże, iż nie jest w stanie zidentyfikować osoby, której dane dotyczą.
 
-3. Administrator bez zbędnej zwłoki – a w każdym razie w terminie miesiąca od otrzymania żądania – udziela osobie, której dane dotyczą, informacji o działaniach podjętych w związku z żądaniem na podstawie art. 15–22. W razie potrzeby termin ten można przedłużyć o kolejne dwa miesiące z uwagi na skomplikowany charakter żądania lub liczbę żądań. W terminie miesiąca od otrzymania żądania administrator informuje osobę, której dane dotyczą o takim przedłużeniu terminu, z podaniem przyczyn opóźnienia. Jeśli osoba, której dane dotyczą, przekazała swoje żądanie elektronicznie, w miarę możliwości informacje także są przekazywane elektronicznie, chyba że osoba, której dane dotyczą, zażąda innej formy.
+3. Administrator bez zbędnej zwłoki – a w każdym razie w terminie miesiąca od otrzymania żądania – udziela osobie, której dane dotyczą, informacji o działaniach podjętych w związku z żądaniem na podstawie [art. 15](#artykul-15)–22. W razie potrzeby termin ten można przedłużyć o kolejne dwa miesiące z uwagi na skomplikowany charakter żądania lub liczbę żądań. W terminie miesiąca od otrzymania żądania administrator informuje osobę, której dane dotyczą o takim przedłużeniu terminu, z podaniem przyczyn opóźnienia. Jeśli osoba, której dane dotyczą, przekazała swoje żądanie elektronicznie, w miarę możliwości informacje także są przekazywane elektronicznie, chyba że osoba, której dane dotyczą, zażąda innej formy.
 
 4. Jeżeli administrator nie podejmuje działań w związku z żądaniem osoby, której dane dotyczą, to niezwłocznie – najpóźniej w terminie miesiąca od otrzymania żądania – informuje osobę, której dane dotyczą, o powodach niepodjęcia działań oraz o możliwości wniesienia skargi do organu nadzorczego oraz skorzystania ze środków ochrony prawnej przed sądem.
 
-5. Informacje podawane na mocy art. 13 i 14 oraz komunikacja i działania podejmowane na mocy art. 15–22 i 34 są wolne od opłat. Jeżeli żądania osoby, której dane dotyczą, są ewidentnie nieuzasadnione lub nadmierne, w szczególności ze względu na swój ustawiczny charakter, administrator może:
+5. Informacje podawane na mocy [art. 13](#artykul-13) i 14 oraz komunikacja i działania podejmowane na mocy [art. 15](#artykul-15)–22 i 34 są wolne od opłat. Jeżeli żądania osoby, której dane dotyczą, są ewidentnie nieuzasadnione lub nadmierne, w szczególności ze względu na swój ustawiczny charakter, administrator może:
 
 a) pobrać rozsądną opłatę, uwzględniając administracyjne koszty udzielenia informacji, prowadzenia komunikacji lub podjęcia żądanych działań; albo
 
@@ -642,11 +771,11 @@ b) odmówić podjęcia działań w związku z żądaniem.
 
 Obowiązek wykazania, że żądanie ma ewidentnie nieuzasadniony lub nadmierny charakter, spoczywa na administratorze.
 
-6. Bez uszczerbku dla art. 11, jeżeli administrator ma uzasadnione wątpliwości co do tożsamości osoby fizycznej składającej żądanie, o którym mowa w art. 15–21, może zażądać dodatkowych informacji niezbędnych do potwierdzenia tożsamości osoby, której dane dotyczą.
+6. Bez uszczerbku dla [art. 11](#artykul-11), jeżeli administrator ma uzasadnione wątpliwości co do tożsamości osoby fizycznej składającej żądanie, o którym mowa w [art. 15](#artykul-15)–21, może zażądać dodatkowych informacji niezbędnych do potwierdzenia tożsamości osoby, której dane dotyczą.
 
-7. Informacje, których udziela się osobom, których dane dotyczą, na mocy art. 13 i 14, można opatrzyć standardowymi znakami graficznymi, które w widoczny, zrozumiały i czytelny sposób przedstawią sens zamierzonego przetwarzania. Jeżeli znaki te są przedstawione elektronicznie, muszą się nadawać do odczytu maszynowego.
+7. Informacje, których udziela się osobom, których dane dotyczą, na mocy [art. 13](#artykul-13) i 14, można opatrzyć standardowymi znakami graficznymi, które w widoczny, zrozumiały i czytelny sposób przedstawią sens zamierzonego przetwarzania. Jeżeli znaki te są przedstawione elektronicznie, muszą się nadawać do odczytu maszynowego.
 
-8. Komisji przysługuje prawo przyjmowania aktów delegowanych zgodnie z art. 92 w celu określenia informacji przedstawianych za pomocą znaków graficznych i procedur ustanowienia standardowych znaków graficznych.
+8. Komisji przysługuje prawo przyjmowania aktów delegowanych zgodnie z [art. 92](#artykul-92) w celu określenia informacji przedstawianych za pomocą znaków graficznych i procedur ustanowienia standardowych znaków graficznych.
 
 <a id="sekcja-2"></a>
 #### Sekcja 2. Informacje i dostęp do danych osobowych
@@ -662,11 +791,11 @@ b) gdy ma to zastosowanie – dane kontaktowe inspektora ochrony danych;
 
 c) cele przetwarzania danych osobowych, oraz podstawę prawną przetwarzania;
 
-d) jeżeli przetwarzanie odbywa się na podstawie art. 6 ust. 1 lit. f) – prawnie uzasadnione interesy realizowane przez administratora lub przez stronę trzecią;
+d) jeżeli przetwarzanie odbywa się na podstawie [art. 6](#artykul-6) ust. 1 lit. f) – prawnie uzasadnione interesy realizowane przez administratora lub przez stronę trzecią;
 
 e) informacje o odbiorcach danych osobowych lub o kategoriach odbiorców, jeżeli istnieją;
 
-f) gdy ma to zastosowanie – informacje o zamiarze przekazania danych osobowych do państwa trzeciego lub organizacji międzynarodowej oraz o stwierdzeniu lub braku stwierdzenia przez Komisję odpowiedniego stopnia ochrony lub w przypadku przekazania, o którym mowa w art. 46, art. 47 lub art. 49 ust. 1 akapit drugi, wzmiankę o odpowiednich lub właściwych zabezpieczeniach oraz o możliwościach uzyskania kopii danych lub o miejscu udostępnienia danych.
+f) gdy ma to zastosowanie – informacje o zamiarze przekazania danych osobowych do państwa trzeciego lub organizacji międzynarodowej oraz o stwierdzeniu lub braku stwierdzenia przez Komisję odpowiedniego stopnia ochrony lub w przypadku przekazania, o którym mowa w [art. 46](#artykul-46), [art. 47](#artykul-47) lub [art. 49](#artykul-49) ust. 1 akapit drugi, wzmiankę o odpowiednich lub właściwych zabezpieczeniach oraz o możliwościach uzyskania kopii danych lub o miejscu udostępnienia danych.
 
 2. Poza informacjami, o których mowa w ust. 1, podczas pozyskiwania danych osobowych administrator podaje osobie, której dane dotyczą, następujące inne informacje niezbędne do zapewnienia rzetelności i przejrzystości przetwarzania:
 
@@ -674,13 +803,13 @@ a) okres, przez który dane osobowe będą przechowywane, a gdy nie jest to moż
 
 b) informacje o prawie do żądania od administratora dostępu do danych osobowych dotyczących osoby, której dane dotyczą, ich sprostowania, usunięcia lub ograniczenia przetwarzania lub o prawie do wniesienia sprzeciwu wobec przetwarzania, a także o prawie do przenoszenia danych;
 
-c) jeżeli przetwarzanie odbywa się na podstawie art. 6 ust. 1 lit. a) lub art. 9 ust. 2 lit. a) – informacje o prawie do cofnięcia zgody w dowolnym momencie bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem;
+c) jeżeli przetwarzanie odbywa się na podstawie [art. 6](#artykul-6) ust. 1 lit. a) lub [art. 9](#artykul-9) ust. 2 lit. a) – informacje o prawie do cofnięcia zgody w dowolnym momencie bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem;
 
 d) informacje o prawie wniesienia skargi do organu nadzorczego;
 
 e) informację, czy podanie danych osobowych jest wymogiem ustawowym lub umownym lub warunkiem zawarcia umowy oraz czy osoba, której dane dotyczą, jest zobowiązana do ich podania i jakie są ewentualne konsekwencje niepodania danych;
 
-f) informacje o zautomatyzowanym podejmowaniu decyzji, w tym o profilowaniu, o którym mowa w art. 22 ust. 1 i 4, oraz – przynajmniej w tych przypadkach – istotne informacje o zasadach ich podejmowania, a także o znaczeniu i przewidywanych konsekwencjach takiego przetwarzania dla osoby, której dane dotyczą.
+f) informacje o zautomatyzowanym podejmowaniu decyzji, w tym o profilowaniu, o którym mowa w [art. 22](#artykul-22) ust. 1 i 4, oraz – przynajmniej w tych przypadkach – istotne informacje o zasadach ich podejmowania, a także o znaczeniu i przewidywanych konsekwencjach takiego przetwarzania dla osoby, której dane dotyczą.
 
 3. Jeżeli administrator planuje dalej przetwarzać dane osobowe w celu innym niż cel, w którym dane osobowe zostały zebrane, przed takim dalszym przetwarzaniem informuje on osobę, której dane dotyczą, o tym innym celu oraz udziela jej wszelkich innych stosownych informacji, o których mowa w ust. 2.
 
@@ -701,23 +830,23 @@ d) kategorie odnośnych danych osobowych;
 
 e) informacje o odbiorcach danych osobowych lub o kategoriach odbiorców, jeżeli istnieją;
 
-f) gdy ma to zastosowanie – informacje o zamiarze przekazania danych osobowych odbiorcy w państwie trzecim lub organizacji międzynarodowej oraz o stwierdzeniu lub braku stwierdzenia przez Komisję odpowiedniego stopnia ochrony lub w przypadku przekazania, o którym mowa w art. 46, art. 47 lub art. 49 ust. 1 akapit drugi, wzmiankę o odpowiednich lub właściwych zabezpieczeniach oraz o możliwościach uzyskania kopii danych lub o miejscu udostępnienia danych.
+f) gdy ma to zastosowanie – informacje o zamiarze przekazania danych osobowych odbiorcy w państwie trzecim lub organizacji międzynarodowej oraz o stwierdzeniu lub braku stwierdzenia przez Komisję odpowiedniego stopnia ochrony lub w przypadku przekazania, o którym mowa w [art. 46](#artykul-46), [art. 47](#artykul-47) lub [art. 49](#artykul-49) ust. 1 akapit drugi, wzmiankę o odpowiednich lub właściwych zabezpieczeniach oraz o możliwościach uzyskania kopii danych lub o miejscu udostępnienia danych.
 
 2. Poza informacjami, o których mowa w ust. 1, administrator podaje osobie, której dane dotyczą, następujące informacje niezbędne do zapewnienia rzetelności i przejrzystości przetwarzania wobec osoby, której dane dotyczą:
 
 a) okres, przez który dane osobowe będą przechowywane, a gdy nie jest to możliwe, kryteria ustalania tego okresu;
 
-b) jeżeli przetwarzanie odbywa się na podstawie art. 6 ust. 1 lit. f) – prawnie uzasadnione interesy realizowane przez administratora lub przez stronę trzecią;
+b) jeżeli przetwarzanie odbywa się na podstawie [art. 6](#artykul-6) ust. 1 lit. f) – prawnie uzasadnione interesy realizowane przez administratora lub przez stronę trzecią;
 
 c) informacje o prawie do żądania od administratora dostępu do danych osobowych dotyczących osoby, której dane dotyczą, ich sprostowania, usunięcia lub ograniczenia przetwarzania oraz o prawie do wniesienia sprzeciwu wobec przetwarzania, a także o prawie do przenoszenia danych;
 
-d) jeżeli przetwarzanie odbywa się na podstawie art. 6 ust. 1 lit. a) lub art. 9 ust. 2 lit. a) – informacje o prawie do cofnięcia zgody w dowolnym momencie bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem;
+d) jeżeli przetwarzanie odbywa się na podstawie [art. 6](#artykul-6) ust. 1 lit. a) lub [art. 9](#artykul-9) ust. 2 lit. a) – informacje o prawie do cofnięcia zgody w dowolnym momencie bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem;
 
 e) informacje o prawie wniesienia skargi do organu nadzorczego;
 
 f) źródło pochodzenia danych osobowych, a gdy ma to zastosowanie – czy pochodzą one ze źródeł publicznie dostępnych;
 
-g) informacje o zautomatyzowanym podejmowaniu decyzji, w tym o profilowaniu, o którym mowa w art. 22 ust. 1 i 4, oraz – przynajmniej w tych przypadkach – istotne informacje o zasadach ich podejmowania, a także o znaczeniu i przewidywanych konsekwencjach takiego przetwarzania dla osoby, której dane dotyczą.
+g) informacje o zautomatyzowanym podejmowaniu decyzji, w tym o profilowaniu, o którym mowa w [art. 22](#artykul-22) ust. 1 i 4, oraz – przynajmniej w tych przypadkach – istotne informacje o zasadach ich podejmowania, a także o znaczeniu i przewidywanych konsekwencjach takiego przetwarzania dla osoby, której dane dotyczą.
 
 3. Informacje, o których mowa w ust. 1 i 2, administrator podaje:
 
@@ -733,7 +862,7 @@ c) jeżeli planuje się ujawnić dane osobowe innemu odbiorcy – najpóźniej p
 
 a) osoba, której dane dotyczą, dysponuje już tymi informacjami;
 
-b) udzielenie takich informacji okazuje się niemożliwe lub wymagałoby niewspółmiernie dużego wysiłku; w szczególności w przypadku przetwarzania do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych, z zastrzeżeniem warunków i zabezpieczeń, o których mowa w art. 89 ust. 1, lub o ile obowiązek, o którym mowa w ust. 1 niniejszego artykułu, może uniemożliwić lub poważnie utrudnić realizację celów takiego przetwarzania. W takich przypadkach administrator podejmuje odpowiednie środki, by chronić prawa i wolności oraz prawnie uzasadnione interesy osoby, której dane dotyczą, w tym udostępnia informacje publicznie;
+b) udzielenie takich informacji okazuje się niemożliwe lub wymagałoby niewspółmiernie dużego wysiłku; w szczególności w przypadku przetwarzania do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych, z zastrzeżeniem warunków i zabezpieczeń, o których mowa w [art. 89](#artykul-89) ust. 1, lub o ile obowiązek, o którym mowa w ust. 1 niniejszego artykułu, może uniemożliwić lub poważnie utrudnić realizację celów takiego przetwarzania. W takich przypadkach administrator podejmuje odpowiednie środki, by chronić prawa i wolności oraz prawnie uzasadnione interesy osoby, której dane dotyczą, w tym udostępnia informacje publicznie;
 
 c) pozyskiwanie lub ujawnianie jest wyraźnie uregulowane prawem Unii lub prawem państwa członkowskiego, któremu podlega administrator, przewidującym odpowiednie środki chroniące prawnie uzasadnione interesy osoby, której dane dotyczą; lub
 
@@ -758,9 +887,9 @@ f) informacje o prawie wniesienia skargi do organu nadzorczego;
 
 g) jeżeli dane osobowe nie zostały zebrane od osoby, której dane dotyczą – wszelkie dostępne informacje o ich źródle;
 
-h) informacje o zautomatyzowanym podejmowaniu decyzji, w tym o profilowaniu, o którym mowa w art. 22 ust. 1 i 4, oraz – przynajmniej w tych przypadkach – istotne informacje o zasadach ich podejmowania, a także o znaczeniu i przewidywanych konsekwencjach takiego przetwarzania dla osoby, której dane dotyczą.
+h) informacje o zautomatyzowanym podejmowaniu decyzji, w tym o profilowaniu, o którym mowa w [art. 22](#artykul-22) ust. 1 i 4, oraz – przynajmniej w tych przypadkach – istotne informacje o zasadach ich podejmowania, a także o znaczeniu i przewidywanych konsekwencjach takiego przetwarzania dla osoby, której dane dotyczą.
 
-2. Jeżeli dane osobowe są przekazywane do państwa trzeciego lub organizacji międzynarodowej, osoba, której dane dotyczą, ma prawo zostać poinformowana o odpowiednich zabezpieczeniach, o których mowa w art. 46, związanych z przekazaniem.
+2. Jeżeli dane osobowe są przekazywane do państwa trzeciego lub organizacji międzynarodowej, osoba, której dane dotyczą, ma prawo zostać poinformowana o odpowiednich zabezpieczeniach, o których mowa w [art. 46](#artykul-46), związanych z przekazaniem.
 
 3. Administrator dostarcza osobie, której dane dotyczą, kopię danych osobowych podlegających przetwarzaniu. Za wszelkie kolejne kopie, o które zwróci się osoba, której dane dotyczą, administrator może pobrać opłatę w rozsądnej wysokości wynikającej z kosztów administracyjnych. Jeżeli osoba, której dane dotyczą, zwraca się o kopię drogą elektroniczną i jeżeli nie zaznaczy inaczej, informacji udziela się powszechnie stosowaną drogą elektroniczną.
 
@@ -781,15 +910,15 @@ Osoba, której dane dotyczą, ma prawo żądania od administratora niezwłoczneg
 
 a) dane osobowe nie są już niezbędne do celów, w których zostały zebrane lub w inny sposób przetwarzane;
 
-b) osoba, której dane dotyczą, cofnęła zgodę, na której opiera się przetwarzanie zgodnie z art. 6 ust. 1 lit. a) lub art. 9 ust. 2 lit. a), i nie ma innej podstawy prawnej przetwarzania;
+b) osoba, której dane dotyczą, cofnęła zgodę, na której opiera się przetwarzanie zgodnie z [art. 6](#artykul-6) ust. 1 lit. a) lub [art. 9](#artykul-9) ust. 2 lit. a), i nie ma innej podstawy prawnej przetwarzania;
 
-c) osoba, której dane dotyczą, wnosi sprzeciw na mocy art. 21 ust. 1 wobec przetwarzania i nie występują nadrzędne prawnie uzasadnione podstawy przetwarzania lub osoba, której dane dotyczą, wnosi sprzeciw na mocy art. 21 ust. 2 wobec przetwarzania;
+c) osoba, której dane dotyczą, wnosi sprzeciw na mocy [art. 21](#artykul-21) ust. 1 wobec przetwarzania i nie występują nadrzędne prawnie uzasadnione podstawy przetwarzania lub osoba, której dane dotyczą, wnosi sprzeciw na mocy [art. 21](#artykul-21) ust. 2 wobec przetwarzania;
 
 d) dane osobowe były przetwarzane niezgodnie z prawem;
 
 e) dane osobowe muszą zostać usunięte w celu wywiązania się z obowiązku prawnego przewidzianego w prawie Unii lub prawie państwa członkowskiego, któremu podlega administrator;
 
-f) dane osobowe zostały zebrane w związku z oferowaniem usług społeczeństwa informacyjnego, o których mowa w art. 8 ust. 1.
+f) dane osobowe zostały zebrane w związku z oferowaniem usług społeczeństwa informacyjnego, o których mowa w [art. 8](#artykul-8) ust. 1.
 
 2. Jeżeli administrator upublicznił dane osobowe, a na mocy ust. 1 ma obowiązek usunąć te dane osobowe, to – biorąc pod uwagę dostępną technologię i koszt realizacji – podejmuje rozsądne działania, w tym środki techniczne, by poinformować administratorów przetwarzających te dane osobowe, że osoba, której dane dotyczą, żąda, by administratorzy ci usunęli wszelkie łącza do tych danych, kopie tych danych osobowych lub ich replikacje.
 
@@ -799,9 +928,9 @@ a) do korzystania z prawa do wolności wypowiedzi i informacji;
 
 b) do wywiązania się z prawnego obowiązku wymagającego przetwarzania na mocy prawa Unii lub prawa państwa członkowskiego, któremu podlega administrator, lub do wykonania zadania realizowanego w interesie publicznym lub w ramach sprawowania władzy publicznej powierzonej administratorowi;
 
-c) z uwagi na względy interesu publicznego w dziedzinie zdrowia publicznego zgodnie z art. 9 ust. 2 lit. h) oraz i) i art. 9 ust. 3;
+c) z uwagi na względy interesu publicznego w dziedzinie zdrowia publicznego zgodnie z [art. 9](#artykul-9) ust. 2 lit. h) oraz i) i [art. 9](#artykul-9) ust. 3;
 
-d) do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych zgodnie z art. 89 ust. 1, o ile prawdopodobne jest, że prawo, o którym mowa w ust. 1, uniemożliwi lub poważnie utrudni realizację celów takiego przetwarzania; lub
+d) do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych zgodnie z [art. 89](#artykul-89) ust. 1, o ile prawdopodobne jest, że prawo, o którym mowa w ust. 1, uniemożliwi lub poważnie utrudni realizację celów takiego przetwarzania; lub
 
 e) do ustalenia, dochodzenia lub obrony roszczeń.
 
@@ -816,7 +945,7 @@ b) przetwarzanie jest niezgodne z prawem, a osoba, której dane dotyczą, sprzec
 
 c) administrator nie potrzebuje już danych osobowych do celów przetwarzania, ale są one potrzebne osobie, której dane dotyczą, do ustalenia, dochodzenia lub obrony roszczeń;
 
-d) osoba, której dane dotyczą, wniosła sprzeciw na mocy art. 21 ust. 1 wobec przetwarzania – do czasu stwierdzenia, czy prawnie uzasadnione podstawy po stronie administratora są nadrzędne wobec podstaw sprzeciwu osoby, której dane dotyczą.
+d) osoba, której dane dotyczą, wniosła sprzeciw na mocy [art. 21](#artykul-21) ust. 1 wobec przetwarzania – do czasu stwierdzenia, czy prawnie uzasadnione podstawy po stronie administratora są nadrzędne wobec podstaw sprzeciwu osoby, której dane dotyczą.
 
 2. Jeżeli na mocy ust. 1 przetwarzanie zostało ograniczone, takie dane osobowe można przetwarzać, z wyjątkiem przechowywania, wyłącznie za zgodą osoby, której dane dotyczą, lub w celu ustalenia, dochodzenia lub obrony roszczeń, lub w celu ochrony praw innej osoby fizycznej lub prawnej, lub z uwagi na ważne względy interesu publicznego Unii lub państwa członkowskiego.
 
@@ -825,20 +954,20 @@ d) osoba, której dane dotyczą, wniosła sprzeciw na mocy art. 21 ust. 1 wobec 
 <a id="artykul-19"></a>
 ### Artykuł 19. Obowiązek powiadomienia o sprostowaniu lub usunięciu danych osobowych lub o ograniczeniu przetwarzania
 
-Administrator informuje o sprostowaniu lub usunięciu danych osobowych lub ograniczeniu przetwarzania, których dokonał zgodnie z art. 16, art. 17 ust. 1 i art. 18, każdego odbiorcę, któremu ujawniono dane osobowe, chyba że okaże się to niemożliwe lub będzie wymagać niewspółmiernie dużego wysiłku. Administrator informuje osobę, której dane dotyczą, o tych odbiorcach, jeżeli osoba, której dane dotyczą, tego zażąda.
+Administrator informuje o sprostowaniu lub usunięciu danych osobowych lub ograniczeniu przetwarzania, których dokonał zgodnie z [art. 16](#artykul-16), [art. 17](#artykul-17) ust. 1 i [art. 18](#artykul-18), każdego odbiorcę, któremu ujawniono dane osobowe, chyba że okaże się to niemożliwe lub będzie wymagać niewspółmiernie dużego wysiłku. Administrator informuje osobę, której dane dotyczą, o tych odbiorcach, jeżeli osoba, której dane dotyczą, tego zażąda.
 
 <a id="artykul-20"></a>
 ### Artykuł 20. Prawo do przenoszenia danych
 
 1. Osoba, której dane dotyczą, ma prawo otrzymać w ustrukturyzowanym, powszechnie używanym formacie nadającym się do odczytu maszynowego dane osobowe jej dotyczące, które dostarczyła administratorowi, oraz ma prawo przesłać te dane osobowe innemu administratorowi bez przeszkód ze strony administratora, któremu dostarczono te dane osobowe, jeżeli:
 
-a) przetwarzanie odbywa się na podstawie zgody w myśl art. 6 ust. 1 lit. a) lub art. 9 ust. 2 lit. a) lub na podstawie umowy w myśl art. 6 ust. 1 lit. b); oraz
+a) przetwarzanie odbywa się na podstawie zgody w myśl [art. 6](#artykul-6) ust. 1 lit. a) lub [art. 9](#artykul-9) ust. 2 lit. a) lub na podstawie umowy w myśl [art. 6](#artykul-6) ust. 1 lit. b); oraz
 
 b) przetwarzanie odbywa się w sposób zautomatyzowany.
 
 2. Wykonując prawo do przenoszenia danych na mocy ust. 1, osoba, której dane dotyczą, ma prawo żądania, by dane osobowe zostały przesłane przez administratora bezpośrednio innemu administratorowi, o ile jest to technicznie możliwe.
 
-3. Wykonanie prawa, o którym mowa w ust. 1 niniejszego artykułu, pozostaje bez uszczerbku dla art. 17. Prawo to nie ma zastosowania do przetwarzania, które jest niezbędne do wykonania zadania realizowanego w interesie publicznym lub w ramach sprawowania władzy publicznej powierzonej administratorowi.
+3. Wykonanie prawa, o którym mowa w ust. 1 niniejszego artykułu, pozostaje bez uszczerbku dla [art. 17](#artykul-17). Prawo to nie ma zastosowania do przetwarzania, które jest niezbędne do wykonania zadania realizowanego w interesie publicznym lub w ramach sprawowania władzy publicznej powierzonej administratorowi.
 
 4. Prawo, o którym mowa w ust. 1, nie może niekorzystnie wpływać na prawa i wolności innych.
 
@@ -848,7 +977,7 @@ b) przetwarzanie odbywa się w sposób zautomatyzowany.
 <a id="artykul-21"></a>
 ### Artykuł 21. Prawo do sprzeciwu
 
-1. Osoba, której dane dotyczą, ma prawo w dowolnym momencie wnieść sprzeciw – z przyczyn związanych z jej szczególną sytuacją – wobec przetwarzania dotyczących jej danych osobowych opartego na art. 6 ust. 1 lit. e) lub f), w tym profilowania na podstawie tych przepisów. Administratorowi nie wolno już przetwarzać tych danych osobowych, chyba że wykaże on istnienie ważnych prawnie uzasadnionych podstaw do przetwarzania, nadrzędnych wobec interesów, praw i wolności osoby, której dane dotyczą, lub podstaw do ustalenia, dochodzenia lub obrony roszczeń.
+1. Osoba, której dane dotyczą, ma prawo w dowolnym momencie wnieść sprzeciw – z przyczyn związanych z jej szczególną sytuacją – wobec przetwarzania dotyczących jej danych osobowych opartego na [art. 6](#artykul-6) ust. 1 lit. e) lub f), w tym profilowania na podstawie tych przepisów. Administratorowi nie wolno już przetwarzać tych danych osobowych, chyba że wykaże on istnienie ważnych prawnie uzasadnionych podstaw do przetwarzania, nadrzędnych wobec interesów, praw i wolności osoby, której dane dotyczą, lub podstaw do ustalenia, dochodzenia lub obrony roszczeń.
 
 2. Jeżeli dane osobowe są przetwarzane na potrzeby marketingu bezpośredniego, osoba, której dane dotyczą, ma prawo w dowolnym momencie wnieść sprzeciw wobec przetwarzania dotyczących jej danych osobowych na potrzeby takiego marketingu, w tym profilowania, w zakresie, w jakim przetwarzanie jest związane z takim marketingiem bezpośrednim.
 
@@ -858,7 +987,7 @@ b) przetwarzanie odbywa się w sposób zautomatyzowany.
 
 5. W związku z korzystaniem z usług społeczeństwa informacyjnego i bez uszczerbku dla dyrektywy 2002/58/WE osoba, której dane dotyczą, może wykonać prawo do sprzeciwu za pośrednictwem zautomatyzowanych środków wykorzystujących specyfikacje techniczne.
 
-6. Jeżeli dane osobowe są przetwarzane do celów badań naukowych lub historycznych lub do celów statystycznych na mocy art. 89 ust. 1, osoba, której dane dotyczą, ma prawo wnieść sprzeciw – z przyczyn związanych z jej szczególną sytuacją – wobec przetwarzania dotyczących jej danych osobowych, chyba że przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie publicznym.
+6. Jeżeli dane osobowe są przetwarzane do celów badań naukowych lub historycznych lub do celów statystycznych na mocy [art. 89](#artykul-89) ust. 1, osoba, której dane dotyczą, ma prawo wnieść sprzeciw – z przyczyn związanych z jej szczególną sytuacją – wobec przetwarzania dotyczących jej danych osobowych, chyba że przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie publicznym.
 
 <a id="artykul-22"></a>
 ### Artykuł 22. Zautomatyzowane podejmowanie decyzji w indywidualnych przypadkach, w tym profilowanie
@@ -875,7 +1004,7 @@ c) opiera się na wyraźnej zgodzie osoby, której dane dotyczą.
 
 3. W przypadkach, o których mowa w ust. 2 lit. a) i c), administrator wdraża właściwe środki ochrony praw, wolności i prawnie uzasadnionych interesów osoby, której dane dotyczą, a co najmniej prawa do uzyskania interwencji ludzkiej ze strony administratora, do wyrażenia własnego stanowiska i do zakwestionowania tej decyzji.
 
-4. Decyzje, o których mowa w ust. 2, nie mogą opierać się na szczególnych kategoriach danych osobowych, o których mowa w art. 9 ust. 1, chyba że zastosowanie ma art. 9 ust. 2 lit. a) lub g) i istnieją właściwe środki ochrony praw, wolności i prawnie uzasadnionych interesów osoby, której dane dotyczą.
+4. Decyzje, o których mowa w ust. 2, nie mogą opierać się na szczególnych kategoriach danych osobowych, o których mowa w [art. 9](#artykul-9) ust. 1, chyba że zastosowanie ma [art. 9](#artykul-9) ust. 2 lit. a) lub g) i istnieją właściwe środki ochrony praw, wolności i prawnie uzasadnionych interesów osoby, której dane dotyczą.
 
 <a id="sekcja-5"></a>
 #### Sekcja 5. Ograniczenia
@@ -883,7 +1012,7 @@ c) opiera się na wyraźnej zgodzie osoby, której dane dotyczą.
 <a id="artykul-23"></a>
 ### Artykuł 23. Ograniczenia
 
-1. Prawo Unii lub prawo państwa członkowskiego, któremu podlegają administrator danych lub podmiot przetwarzający, może aktem prawnym ograniczyć zakres obowiązków i praw przewidzianych w art. 12–22 i w art. 34, a także w art. 5 – o ile jego przepisy odpowiadają prawom i obowiązkom przewidzianym w art. 12–22 – jeżeli ograniczenie takie nie narusza istoty podstawowych praw i wolności oraz jest w demokratycznym społeczeństwie środkiem niezbędnym i proporcjonalnym, służącym:
+1. Prawo Unii lub prawo państwa członkowskiego, któremu podlegają administrator danych lub podmiot przetwarzający, może aktem prawnym ograniczyć zakres obowiązków i praw przewidzianych w [art. 12](#artykul-12)–22 i w [art. 34](#artykul-34), a także w [art. 5](#artykul-5) – o ile jego przepisy odpowiadają prawom i obowiązkom przewidzianym w [art. 12](#artykul-12)–22 – jeżeli ograniczenie takie nie narusza istoty podstawowych praw i wolności oraz jest w demokratycznym społeczeństwie środkiem niezbędnym i proporcjonalnym, służącym:
 
 a) bezpieczeństwu narodowemu;
 
@@ -926,7 +1055,7 @@ h) prawie osób, której dane dotyczą, do uzyskania informacji o ograniczeniach
 <a id="rozdzial-iv"></a>
 ### ROZDZIAŁ IV. Administrator i podmiot przetwarzający
 
-<a id="sekcja-1"></a>
+<a id="sekcja-1-1"></a>
 #### Sekcja 1. Obowiązki ogólne
 
 <a id="artykul-24"></a>
@@ -945,12 +1074,12 @@ h) prawie osób, której dane dotyczą, do uzyskania informacji o ograniczeniach
 
 2. Administrator wdraża odpowiednie środki techniczne i organizacyjne, aby domyślnie przetwarzane były wyłącznie te dane osobowe, które są niezbędne dla osiągnięcia każdego konkretnego celu przetwarzania. Obowiązek ten odnosi się do ilości zbieranych danych osobowych, zakresu ich przetwarzania, okresu ich przechowywania oraz ich dostępności. W szczególności środki te zapewniają, by domyślnie dane osobowe nie były udostępniane bez interwencji danej osoby nieokreślonej liczbie osób fizycznych.
 
-3. Wywiązywanie się z obowiązków, o których mowa w ust. 1 i 2 niniejszego artykułu, można wykazać między innymi poprzez wprowadzenie zatwierdzonego mechanizmu certyfikacji określonego w art. 42.
+3. Wywiązywanie się z obowiązków, o których mowa w ust. 1 i 2 niniejszego artykułu, można wykazać między innymi poprzez wprowadzenie zatwierdzonego mechanizmu certyfikacji określonego w [art. 42](#artykul-42).
 
 <a id="artykul-26"></a>
 ### Artykuł 26. Współadministratorzy
 
-1. Jeżeli co najmniej dwóch administratorów wspólnie ustala cele i sposoby przetwarzania, są oni współadministratorami. W drodze wspólnych uzgodnień współadministratorzy w przejrzysty sposób określają odpowiednie zakresy swojej odpowiedzialności dotyczącej wypełniania obowiązków wynikających z niniejszego rozporządzenia, w szczególności w odniesieniu do wykonywania przez osobę, której dane dotyczą, przysługujących jej praw, oraz ich obowiązków w odniesieniu do podawania informacji, o których mowa w art. 13 i 14, chyba że przypadające im obowiązki i ich zakres określa prawo Unii lub prawo państwa członkowskiego, któremu administratorzy ci podlegają. W uzgodnieniach można wskazać punkt kontaktowy dla osób, których dane dotyczą.
+1. Jeżeli co najmniej dwóch administratorów wspólnie ustala cele i sposoby przetwarzania, są oni współadministratorami. W drodze wspólnych uzgodnień współadministratorzy w przejrzysty sposób określają odpowiednie zakresy swojej odpowiedzialności dotyczącej wypełniania obowiązków wynikających z niniejszego rozporządzenia, w szczególności w odniesieniu do wykonywania przez osobę, której dane dotyczą, przysługujących jej praw, oraz ich obowiązków w odniesieniu do podawania informacji, o których mowa w [art. 13](#artykul-13) i 14, chyba że przypadające im obowiązki i ich zakres określa prawo Unii lub prawo państwa członkowskiego, któremu administratorzy ci podlegają. W uzgodnieniach można wskazać punkt kontaktowy dla osób, których dane dotyczą.
 
 2. Uzgodnienia, o których mowa w ust. 1, należycie odzwierciedlają odpowiednie zakresy obowiązków współadministratorów oraz relacje pomiędzy nimi a podmiotami, których dane dotyczą. Zasadnicza treść uzgodnień jest udostępniana podmiotom, których dane dotyczą.
 
@@ -959,11 +1088,11 @@ h) prawie osób, której dane dotyczą, do uzyskania informacji o ograniczeniach
 <a id="artykul-27"></a>
 ### Artykuł 27. Przedstawiciele administratorów lub podmiotów przetwarzających niemających jednostki organizacyjnej w Unii
 
-1. Jeżeli zastosowanie ma art. 3 ust. 2, administrator lub podmiot przetwarzający na piśmie wyznacza swojego przedstawiciela w Unii.
+1. Jeżeli zastosowanie ma [art. 3](#artykul-3) ust. 2, administrator lub podmiot przetwarzający na piśmie wyznacza swojego przedstawiciela w Unii.
 
 2. Obowiązek ustanowiony w ust. 1 niniejszego artykułu nie ma zastosowania w przypadku:
 
-a) przetwarzania, które ma charakter sporadyczny, nie obejmuje – na dużą skalę – przetwarzania szczególnych kategorii danych osobowych, o których mowa w art. 9 ust. 1, ani przetwarzania danych osobowych dotyczących wyroków skazujących i naruszeń prawa, o czym mowa w art. 10, i jest mało prawdopodobne, by ze względu na swój charakter, kontekst, zakres i cele powodowało ryzyko naruszenia praw lub wolności osób fizycznych; lub
+a) przetwarzania, które ma charakter sporadyczny, nie obejmuje – na dużą skalę – przetwarzania szczególnych kategorii danych osobowych, o których mowa w [art. 9](#artykul-9) ust. 1, ani przetwarzania danych osobowych dotyczących wyroków skazujących i naruszeń prawa, o czym mowa w [art. 10](#artykul-10), i jest mało prawdopodobne, by ze względu na swój charakter, kontekst, zakres i cele powodowało ryzyko naruszenia praw lub wolności osób fizycznych; lub
 
 b) organu lub podmiotu publicznego.
 
@@ -986,13 +1115,13 @@ a) przetwarza dane osobowe wyłącznie na udokumentowane polecenie administrator
 
 b) zapewnia, by osoby upoważnione do przetwarzania danych osobowych zobowiązały się do zachowania tajemnicy lub by podlegały odpowiedniemu ustawowemu obowiązkowi zachowania tajemnicy;
 
-c) podejmuje wszelkie środki wymagane na mocy art. 32;
+c) podejmuje wszelkie środki wymagane na mocy [art. 32](#artykul-32);
 
 d) przestrzega warunków korzystania z usług innego podmiotu przetwarzającego, o których mowa w ust. 2 i 4;
 
 e) biorąc pod uwagę charakter przetwarzania, w miarę możliwości pomaga administratorowi poprzez odpowiednie środki techniczne i organizacyjne wywiązać się z obowiązku odpowiadania na żądania osoby, której dane dotyczą, w zakresie wykonywania jej praw określonych w rozdziale III;
 
-f) uwzględniając charakter przetwarzania oraz dostępne mu informacje, pomaga administratorowi wywiązać się z obowiązków określonych w art. 32–36;
+f) uwzględniając charakter przetwarzania oraz dostępne mu informacje, pomaga administratorowi wywiązać się z obowiązków określonych w [art. 32](#artykul-32)–36;
 
 g) po zakończeniu świadczenia usług związanych z przetwarzaniem zależnie od decyzji administratora usuwa lub zwraca mu wszelkie dane osobowe oraz usuwa wszelkie ich istniejące kopie, chyba że prawo Unii lub prawo państwa członkowskiego nakazują przechowywanie danych osobowych;
 
@@ -1004,15 +1133,15 @@ W związku z obowiązkiem określonym w akapicie pierwszym lit. h) podmiot przet
 
 5. Wystarczające gwarancje, o których mowa w ust. 1 i 4 niniejszego artykułu, podmiot przetwarzający może wykazać między innymi poprzez stosowanie zatwierdzonego kodeksu postępowania, o którym mowa w art. 40 lub zatwierdzonego mechanizmu certyfikacji, o którym mowa w art. 42.
 
-6. Bez uszczerbku dla indywidualnych umów między administratorem a podmiotem przetwarzającym, umowa lub inny akt prawny, o których mowa w ust. 3 i 4 niniejszego artykułu, mogą się opierać w całości lub w części na standardowych klauzulach umownych, o których mowa w ust. 7 i 8 niniejszego artykułu, także gdy są one elementem certyfikacji udzielonej administratorowi lub podmiotowi przetwarzającemu zgodnie z art. 42 i 43.
+6. Bez uszczerbku dla indywidualnych umów między administratorem a podmiotem przetwarzającym, umowa lub inny akt prawny, o których mowa w ust. 3 i 4 niniejszego artykułu, mogą się opierać w całości lub w części na standardowych klauzulach umownych, o których mowa w ust. 7 i 8 niniejszego artykułu, także gdy są one elementem certyfikacji udzielonej administratorowi lub podmiotowi przetwarzającemu zgodnie z [art. 42](#artykul-42) i 43.
 
-7. Komisja może określić standardowe klauzule umowne dotyczące kwestii, o których mowa w ust. 3 i 4 niniejszego artykułu, zgodnie z procedurą sprawdzającą, o której mowa w art. 93 ust. 2.
+7. Komisja może określić standardowe klauzule umowne dotyczące kwestii, o których mowa w ust. 3 i 4 niniejszego artykułu, zgodnie z procedurą sprawdzającą, o której mowa w [art. 93](#artykul-93) ust. 2.
 
-8. Organ nadzorczy może przyjąć standardowe klauzule umowne dotyczące kwestii, o których mowa w ust. 3 i 4 niniejszego artykułu, zgodnie z mechanizmem spójności, o którym mowa w art. 63.
+8. Organ nadzorczy może przyjąć standardowe klauzule umowne dotyczące kwestii, o których mowa w ust. 3 i 4 niniejszego artykułu, zgodnie z mechanizmem spójności, o którym mowa w [art. 63](#artykul-63).
 
-9. Umowa lub inny akt prawny, o których mowa w art. 3 i 4, mają formę pisemną, w tym formę elektroniczną.
+9. Umowa lub inny akt prawny, o których mowa w [art. 3](#artykul-3) i 4, mają formę pisemną, w tym formę elektroniczną.
 
-10. Bez uszczerbku dla art. 82, 83 i 84, jeżeli podmiot przetwarzający naruszy niniejsze rozporządzenie przy określaniu celów i sposobów przetwarzania, uznaje się go za administratora w odniesieniu do tego przetwarzania.
+10. Bez uszczerbku dla [art. 82](#artykul-82), 83 i 84, jeżeli podmiot przetwarzający naruszy niniejsze rozporządzenie przy określaniu celów i sposobów przetwarzania, uznaje się go za administratora w odniesieniu do tego przetwarzania.
 
 <a id="artykul-29"></a>
 ### Artykuł 29. Przetwarzanie z upoważnienia administratora lub podmiotu przetwarzającego
@@ -1032,11 +1161,11 @@ c) opis kategorii osób, których dane dotyczą, oraz kategorii danych osobowych
 
 d) kategorie odbiorców, którym dane osobowe zostały lub zostaną ujawnione, w tym odbiorców w państwach trzecich lub w organizacjach międzynarodowych;
 
-e) gdy ma to zastosowanie, przekazania danych osobowych do państwa trzeciego lub organizacji międzynarodowej, w tym nazwa tego państwa trzeciego lub organizacji międzynarodowej, a w przypadku przekazań, o których mowa w art. 49 ust. 1 akapit drugi, dokumentacja odpowiednich zabezpieczeń;
+e) gdy ma to zastosowanie, przekazania danych osobowych do państwa trzeciego lub organizacji międzynarodowej, w tym nazwa tego państwa trzeciego lub organizacji międzynarodowej, a w przypadku przekazań, o których mowa w [art. 49](#artykul-49) ust. 1 akapit drugi, dokumentacja odpowiednich zabezpieczeń;
 
 f) jeżeli jest to możliwe, planowane terminy usunięcia poszczególnych kategorii danych;
 
-g) jeżeli jest to możliwe, ogólny opis technicznych i organizacyjnych środków bezpieczeństwa, o których mowa w art. 32 ust. 1.
+g) jeżeli jest to możliwe, ogólny opis technicznych i organizacyjnych środków bezpieczeństwa, o których mowa w [art. 32](#artykul-32) ust. 1.
 
 2. Każdy podmiot przetwarzający oraz – gdy ma to zastosowanie – przedstawiciel podmiotu przetwarzającego prowadzą rejestr wszystkich kategorii czynności przetwarzania dokonywanych w imieniu administratora, zawierający następujące informacje:
 
@@ -1044,22 +1173,22 @@ a) imię i nazwisko lub nazwa oraz dane kontaktowe podmiotu przetwarzającego lu
 
 b) kategorie przetwarzań dokonywanych w imieniu każdego z administratorów;
 
-c) gdy ma to zastosowanie –przekazania danych osobowych do państwa trzeciego lub organizacji międzynarodowej, w tym nazwa tego państwa trzeciego lub organizacji międzynarodowej, a w przypadku przekazań, o których mowa w art. 49 ust. 1 akapit drugi, dokumentacja odpowiednich zabezpieczeń;
+c) gdy ma to zastosowanie –przekazania danych osobowych do państwa trzeciego lub organizacji międzynarodowej, w tym nazwa tego państwa trzeciego lub organizacji międzynarodowej, a w przypadku przekazań, o których mowa w [art. 49](#artykul-49) ust. 1 akapit drugi, dokumentacja odpowiednich zabezpieczeń;
 
-d) jeżeli jest to możliwe, ogólny opis technicznych i organizacyjnych środków bezpieczeństwa, o których mowa w art. 32 ust. 1.
+d) jeżeli jest to możliwe, ogólny opis technicznych i organizacyjnych środków bezpieczeństwa, o których mowa w [art. 32](#artykul-32) ust. 1.
 
 3. Rejestry, o których mowa w ust. 1 i 2, mają formę pisemną, w tym formę elektroniczną.
 
 4. Administrator lub podmiot przetwarzający oraz – gdy ma to zastosowanie – przedstawiciel administratora lub podmiotu przetwarzającego udostępniają rejestr na żądanie organu nadzorczego.
 
-5. Obowiązki, o których mowa w ust. 1 i 2, nie mają zastosowania do przedsiębiorcy lub podmiotu zatrudniającego mniej niż 250 osób, chyba że przetwarzanie, którego dokonują, może powodować ryzyko naruszenia praw lub wolności osób, których dane dotyczą, nie ma charakteru sporadycznego lub obejmuje szczególne kategorie danych osobowych, o których mowa w art. 9 ust. 1, lub dane osobowe dotyczące wyroków skazujących i naruszeń prawa, o czym mowa w art. 10.
+5. Obowiązki, o których mowa w ust. 1 i 2, nie mają zastosowania do przedsiębiorcy lub podmiotu zatrudniającego mniej niż 250 osób, chyba że przetwarzanie, którego dokonują, może powodować ryzyko naruszenia praw lub wolności osób, których dane dotyczą, nie ma charakteru sporadycznego lub obejmuje szczególne kategorie danych osobowych, o których mowa w [art. 9](#artykul-9) ust. 1, lub dane osobowe dotyczące wyroków skazujących i naruszeń prawa, o czym mowa w [art. 10](#artykul-10).
 
 <a id="artykul-31"></a>
 ### Artykuł 31. Współpraca z organem nadzorczym
 
 Administrator i podmiot przetwarzający oraz – gdy ma to zastosowanie – ich przedstawiciele na żądanie współpracują z organem nadzorczym w ramach wykonywania przez niego swoich zadań.
 
-<a id="sekcja-2"></a>
+<a id="sekcja-2-1"></a>
 #### Sekcja 2. Bezpieczeństwo danych osobowych
 
 <a id="artykul-32"></a>
@@ -1084,7 +1213,7 @@ d) regularne testowanie, mierzenie i ocenianie skuteczności środków techniczn
 <a id="artykul-33"></a>
 ### Artykuł 33. Zgłaszanie naruszenia ochrony danych osobowych organowi nadzorczemu
 
-1. W przypadku naruszenia ochrony danych osobowych, administrator bez zbędnej zwłoki – w miarę możliwości, nie później niż w terminie 72 godzin po stwierdzeniu naruszenia – zgłasza je organowi nadzorczemu właściwemu zgodnie z art. 55, chyba że jest mało prawdopodobne, by naruszenie to skutkowało ryzykiem naruszenia praw lub wolności osób fizycznych. Do zgłoszenia przekazanego organowi nadzorczemu po upływie 72 godzin dołącza się wyjaśnienie przyczyn opóźnienia.
+1. W przypadku naruszenia ochrony danych osobowych, administrator bez zbędnej zwłoki – w miarę możliwości, nie później niż w terminie 72 godzin po stwierdzeniu naruszenia – zgłasza je organowi nadzorczemu właściwemu zgodnie z [art. 55](#artykul-55), chyba że jest mało prawdopodobne, by naruszenie to skutkowało ryzykiem naruszenia praw lub wolności osób fizycznych. Do zgłoszenia przekazanego organowi nadzorczemu po upływie 72 godzin dołącza się wyjaśnienie przyczyn opóźnienia.
 
 2. Podmiot przetwarzający po stwierdzeniu naruszenia ochrony danych osobowych bez zbędnej zwłoki zgłasza je administratorowi.
 
@@ -1107,7 +1236,7 @@ d) opisywać środki zastosowane lub proponowane przez administratora w celu zar
 
 1. Jeżeli naruszenie ochrony danych osobowych może powodować wysokie ryzyko naruszenia praw lub wolności osób fizycznych, administrator bez zbędnej zwłoki zawiadamia osobę, której dane dotyczą, o takim naruszeniu.
 
-2. Zawiadomienie, o którym mowa w ust. 1 niniejszego artykułu, jasnym i prostym językiem opisuje charakter naruszenia ochrony danych osobowych oraz zawiera przynajmniej informacje i środki, o których mowa w art. 33 ust. 3 lit. b), c) i d).
+2. Zawiadomienie, o którym mowa w ust. 1 niniejszego artykułu, jasnym i prostym językiem opisuje charakter naruszenia ochrony danych osobowych oraz zawiera przynajmniej informacje i środki, o których mowa w [art. 33](#artykul-33) ust. 3 lit. b), c) i d).
 
 3. Zawiadomienie, o którym mowa w ust. 1, nie jest wymagane, w następujących przypadkach:
 
@@ -1119,7 +1248,7 @@ c) wymagałoby ono niewspółmiernie dużego wysiłku. W takim przypadku wydany 
 
 4. Jeżeli administrator nie zawiadomił jeszcze osoby, której dane dotyczą, o naruszeniu ochrony danych osobowych, organ nadzorczy – biorąc pod uwagę prawdopodobieństwo, że to naruszenie ochrony danych osobowych spowoduje wysokie ryzyko – może od niego tego zażądać lub może stwierdzić, że spełniony został jeden z warunków, o których mowa w ust. 3.
 
-<a id="sekcja-3"></a>
+<a id="sekcja-3-1"></a>
 #### Sekcja 3. Ocena skutków dla ochrony danych i uprzednie konsultacje
 
 <a id="artykul-35"></a>
@@ -1133,15 +1262,15 @@ c) wymagałoby ono niewspółmiernie dużego wysiłku. W takim przypadku wydany 
 
 a) systematycznej, kompleksowej oceny czynników osobowych odnoszących się do osób fizycznych, która opiera się na zautomatyzowanym przetwarzaniu, w tym profilowaniu, i jest podstawą decyzji wywołujących skutki prawne wobec osoby fizycznej lub w podobny sposób znacząco wpływających na osobę fizyczną;
 
-b) przetwarzania na dużą skalę szczególnych kategorii danych osobowych, o których mowa w art. 9 ust. 1, lub danych osobowych dotyczących wyroków skazujących i naruszeń prawa, o czym mowa w art. 10; lub
+b) przetwarzania na dużą skalę szczególnych kategorii danych osobowych, o których mowa w [art. 9](#artykul-9) ust. 1, lub danych osobowych dotyczących wyroków skazujących i naruszeń prawa, o czym mowa w [art. 10](#artykul-10); lub
 
 c) systematycznego monitorowania na dużą skalę miejsc dostępnych publicznie.
 
-4. Organ nadzorczy ustanawia i podaje do publicznej wiadomości wykaz rodzajów operacji przetwarzania podlegających wymogowi dokonania oceny skutków dla ochrony danych na mocy ust. 1. Organ nadzorczy przekazuje te wykazy Europejskiej Radzie Ochrony Danych, o której mowa w art. 68.
+4. Organ nadzorczy ustanawia i podaje do publicznej wiadomości wykaz rodzajów operacji przetwarzania podlegających wymogowi dokonania oceny skutków dla ochrony danych na mocy ust. 1. Organ nadzorczy przekazuje te wykazy Europejskiej Radzie Ochrony Danych, o której mowa w [art. 68](#artykul-68).
 
 5. Organ nadzorczy może także ustanowić i podać do wiadomości publicznej wykaz rodzajów operacji przetwarzania niepodlegających wymogowi dokonania oceny skutków dla ochrony danych. Organ nadzorczy przekazuje te wykazy Europejskiej Radzie Ochrony Danych.
 
-6. Jeżeli wykazy, o których mowa w ust. 4 i 5, obejmują czynności przetwarzania związane z oferowaniem towarów lub usług osobom, których dane dotyczą, lub z monitorowaniem ich zachowania w kilku państwach członkowskich lub mogące znacznie wpłynąć na swobodny przepływ danych osobowych w Unii, przed przyjęciem takich wykazów właściwy organ nadzorczy stosuje mechanizm spójności, o którym mowa w art. 63.
+6. Jeżeli wykazy, o których mowa w ust. 4 i 5, obejmują czynności przetwarzania związane z oferowaniem towarów lub usług osobom, których dane dotyczą, lub z monitorowaniem ich zachowania w kilku państwach członkowskich lub mogące znacznie wpłynąć na swobodny przepływ danych osobowych w Unii, przed przyjęciem takich wykazów właściwy organ nadzorczy stosuje mechanizm spójności, o którym mowa w [art. 63](#artykul-63).
 
 7. Ocena zawiera co najmniej:
 
@@ -1157,16 +1286,16 @@ d) środki planowane w celu zaradzenia ryzyku, w tym zabezpieczenia oraz środki
 
 9. W stosownych przypadkach administrator zasięga opinii osób, których dane dotyczą, lub ich przedstawicieli w sprawie zamierzonego przetwarzania, bez uszczerbku dla ochrony interesów handlowych lub publicznych lub bezpieczeństwa operacji przetwarzania.
 
-10. Ust. 1–7 nie mają zastosowania, jeżeli przetwarzanie na mocy art. 6 ust. 1 lit. c) lub e) ma podstawę prawną w prawie Unii lub w prawie państwa członkowskiego, któremu podlega administrator, i prawo takie reguluje daną operację przetwarzania lub zestaw operacji, a oceny skutków dla ochrony danych dokonano już w ramach oceny skutków regulacji w związku z przyjęciem tej podstawy prawnej – chyba że państwa członkowskie uznają za niezbędne, by przed podjęciem czynności przetwarzania dokonać oceny skutków dla ochrony danych.
+10. Ust. 1–7 nie mają zastosowania, jeżeli przetwarzanie na mocy [art. 6](#artykul-6) ust. 1 lit. c) lub e) ma podstawę prawną w prawie Unii lub w prawie państwa członkowskiego, któremu podlega administrator, i prawo takie reguluje daną operację przetwarzania lub zestaw operacji, a oceny skutków dla ochrony danych dokonano już w ramach oceny skutków regulacji w związku z przyjęciem tej podstawy prawnej – chyba że państwa członkowskie uznają za niezbędne, by przed podjęciem czynności przetwarzania dokonać oceny skutków dla ochrony danych.
 
 11. W razie potrzeby, przynajmniej gdy zmienia się ryzyko wynikające z operacji przetwarzania, administrator dokonuje przeglądu, by stwierdzić, czy przetwarzanie odbywa się zgodnie z oceną skutków dla ochrony danych.
 
 <a id="artykul-36"></a>
 ### Artykuł 36. Uprzednie konsultacje
 
-1. Jeżeli ocena skutków dla ochrony danych, o której mowa w art. 35, wskaże, że przetwarzanie powodowałoby wysokie ryzyko, gdyby administrator nie zastosował środków w celu zminimalizowania tego ryzyka, to przed rozpoczęciem przetwarzania administrator konsultuje się z organem nadzorczym.
+1. Jeżeli ocena skutków dla ochrony danych, o której mowa w [art. 35](#artykul-35), wskaże, że przetwarzanie powodowałoby wysokie ryzyko, gdyby administrator nie zastosował środków w celu zminimalizowania tego ryzyka, to przed rozpoczęciem przetwarzania administrator konsultuje się z organem nadzorczym.
 
-2. Jeżeli organ nadzorczy jest zdania, że zamierzone przetwarzanie, o którym mowa w ust. 1, stanowiłoby naruszenie niniejszego rozporządzenia – w szczególności gdy administrator niedostatecznie zidentyfikował lub zminimalizował ryzyko – organ nadzorczy w terminie do ośmiu tygodni od wpłynięcia wniosku o konsultacje udziela administratorowi, a gdy ma to zastosowanie także podmiotowi przetwarzającemu pisemnego zalecenia i może skorzystać z dowolnego ze swoich uprawnień, o których mowa w art. 58. Okres ten można przedłużyć o sześć tygodni ze względu na złożony charakter zamierzonego przetwarzania. Organ nadzorczy informuje administratora, a gdy ma to zastosowanie także podmiot przetwarzający, o takim przedłużeniu w terminie miesiąca od wpłynięcia wniosku o konsultacje, z podaniem przyczyn tego opóźnienia. Bieg tych terminów można zawiesić, do czasu aż organ nadzorczy uzyska wszelkie informacje, których zażądał do celów konsultacji.
+2. Jeżeli organ nadzorczy jest zdania, że zamierzone przetwarzanie, o którym mowa w ust. 1, stanowiłoby naruszenie niniejszego rozporządzenia – w szczególności gdy administrator niedostatecznie zidentyfikował lub zminimalizował ryzyko – organ nadzorczy w terminie do ośmiu tygodni od wpłynięcia wniosku o konsultacje udziela administratorowi, a gdy ma to zastosowanie także podmiotowi przetwarzającemu pisemnego zalecenia i może skorzystać z dowolnego ze swoich uprawnień, o których mowa w [art. 58](#artykul-58). Okres ten można przedłużyć o sześć tygodni ze względu na złożony charakter zamierzonego przetwarzania. Organ nadzorczy informuje administratora, a gdy ma to zastosowanie także podmiot przetwarzający, o takim przedłużeniu w terminie miesiąca od wpłynięcia wniosku o konsultacje, z podaniem przyczyn tego opóźnienia. Bieg tych terminów można zawiesić, do czasu aż organ nadzorczy uzyska wszelkie informacje, których zażądał do celów konsultacji.
 
 3. Konsultując się z organem nadzorczym zgodnie z ust. 1, administrator przedstawia mu:
 
@@ -1178,7 +1307,7 @@ c) środki i zabezpieczenia mające chronić prawa i wolności osób, których d
 
 d) gdy ma to zastosowanie – dane kontaktowe inspektora ochrony danych;
 
-e) ocenę skutków dla ochrony danych, o której mowa w art. 35; oraz
+e) ocenę skutków dla ochrony danych, o której mowa w [art. 35](#artykul-35); oraz
 
 f) wszelkie inne informacje, których żąda organ nadzorczy.
 
@@ -1186,7 +1315,7 @@ f) wszelkie inne informacje, których żąda organ nadzorczy.
 
 5. Niezależnie od ust. 1 prawo państwa członkowskiego może wymagać, by administratorzy konsultowali się z organem nadzorczym i uzyskiwali jego uprzednią zgodę na przetwarzanie danych osobowych przez administratora do celów wykonania zadania realizowanego przez administratora w interesie publicznym, w tym przetwarzania w związku z ochroną socjalną i zdrowiem publicznym.
 
-<a id="sekcja-4"></a>
+<a id="sekcja-4-1"></a>
 #### Sekcja 4. Inspektor ochrony danych
 
 <a id="artykul-37"></a>
@@ -1198,7 +1327,7 @@ a) przetwarzania dokonują organ lub podmiot publiczny, z wyjątkiem sądów w z
 
 b) główna działalność administratora lub podmiotu przetwarzającego polega na operacjach przetwarzania, które ze względu na swój charakter, zakres lub cele wymagają regularnego i systematycznego monitorowania osób, których dane dotyczą, na dużą skalę; lub
 
-c) główna działalność administratora lub podmiotu przetwarzającego polega na przetwarzaniu na dużą skalę szczególnych kategorii danych osobowych, o których mowa w art. 9 ust. 1, oraz danych osobowych dotyczących wyroków skazujących i naruszeń prawa, o czym mowa w art. 10.
+c) główna działalność administratora lub podmiotu przetwarzającego polega na przetwarzaniu na dużą skalę szczególnych kategorii danych osobowych, o których mowa w [art. 9](#artykul-9) ust. 1, oraz danych osobowych dotyczących wyroków skazujących i naruszeń prawa, o czym mowa w [art. 10](#artykul-10).
 
 2. Grupa przedsiębiorstw może wyznaczyć jednego inspektora ochrony danych, o ile można będzie łatwo nawiązać z nim kontakt z każdej jednostki organizacyjnej.
 
@@ -1206,7 +1335,7 @@ c) główna działalność administratora lub podmiotu przetwarzającego polega 
 
 4. W przypadkach innych niż te, o których mowa w ust. 1, administrator, podmiot przetwarzający, zrzeszenia lub inne podmioty reprezentujące określone kategorie administratorów lub podmiotów przetwarzających mogą wyznaczyć lub jeżeli wymaga tego prawo Unii lub prawo państwa członkowskiego, wyznaczają inspektora ochrony danych. Inspektor ochrony danych może działać w imieniu takich zrzeszeń i innych podmiotów reprezentujących administratorów lub podmioty przetwarzające.
 
-5. Inspektor ochrony danych jest wyznaczany na podstawie kwalifikacji zawodowych, a w szczególności wiedzy fachowej na temat prawa i praktyk w dziedzinie ochrony danych oraz umiejętności wypełnienia zadań, o których mowa w art. 39.
+5. Inspektor ochrony danych jest wyznaczany na podstawie kwalifikacji zawodowych, a w szczególności wiedzy fachowej na temat prawa i praktyk w dziedzinie ochrony danych oraz umiejętności wypełnienia zadań, o których mowa w [art. 39](#artykul-39).
 
 6. Inspektor ochrony danych może być członkiem personelu administratora lub podmiotu przetwarzającego lub wykonywać zadania na podstawie umowy o świadczenie usług.
 
@@ -1217,7 +1346,7 @@ c) główna działalność administratora lub podmiotu przetwarzającego polega 
 
 1. Administrator oraz podmiot przetwarzający zapewniają, by inspektor ochrony danych był właściwie i niezwłocznie włączany we wszystkie sprawy dotyczące ochrony danych osobowych.
 
-2. Administrator oraz podmiot przetwarzający wspierają inspektora ochrony danych w wypełnianiu przez niego zadań, o których mowa w art. 39, zapewniając mu zasoby niezbędne do wykonania tych zadań oraz dostęp do danych osobowych i operacji przetwarzania, a także zasoby niezbędne do utrzymania jego wiedzy fachowej.
+2. Administrator oraz podmiot przetwarzający wspierają inspektora ochrony danych w wypełnianiu przez niego zadań, o których mowa w [art. 39](#artykul-39), zapewniając mu zasoby niezbędne do wykonania tych zadań oraz dostęp do danych osobowych i operacji przetwarzania, a także zasoby niezbędne do utrzymania jego wiedzy fachowej.
 
 3. Administrator oraz podmiot przetwarzający zapewniają, by inspektor ochrony danych nie otrzymywał instrukcji dotyczących wykonywania tych zadań. Nie jest on odwoływany ani karany przez administratora ani podmiot przetwarzający za wypełnianie swoich zadań. Inspektor ochrony danych bezpośrednio podlega najwyższemu kierownictwu administratora lub podmiotu przetwarzającego.
 
@@ -1236,15 +1365,15 @@ a) informowanie administratora, podmiotu przetwarzającego oraz pracowników, kt
 
 b) monitorowanie przestrzegania niniejszego rozporządzenia, innych przepisów Unii lub państw członkowskich o ochronie danych oraz polityk administratora lub podmiotu przetwarzającego w dziedzinie ochrony danych osobowych, w tym podział obowiązków, działania zwiększające świadomość, szkolenia personelu uczestniczącego w operacjach przetwarzania oraz powiązane z tym audyty;
 
-c) udzielanie na żądanie zaleceń co do oceny skutków dla ochrony danych oraz monitorowanie jej wykonania zgodnie z art. 35;
+c) udzielanie na żądanie zaleceń co do oceny skutków dla ochrony danych oraz monitorowanie jej wykonania zgodnie z [art. 35](#artykul-35);
 
 d) współpraca z organem nadzorczym;
 
-e) pełnienie funkcji punktu kontaktowego dla organu nadzorczego w kwestiach związanych z przetwarzaniem, w tym z uprzednimi konsultacjami, o których mowa w art. 36, oraz w stosownych przypadkach prowadzenie konsultacji we wszelkich innych sprawach.
+e) pełnienie funkcji punktu kontaktowego dla organu nadzorczego w kwestiach związanych z przetwarzaniem, w tym z uprzednimi konsultacjami, o których mowa w [art. 36](#artykul-36), oraz w stosownych przypadkach prowadzenie konsultacji we wszelkich innych sprawach.
 
 2. Inspektor ochrony danych wypełnia swoje zadania z należytym uwzględnieniem ryzyka związanego z operacjami przetwarzania, mając na uwadze charakter, zakres, kontekst i cele przetwarzania.
 
-<a id="sekcja-5"></a>
+<a id="sekcja-5-1"></a>
 #### Sekcja 5. Kodeksy postępowania i certyfikacja
 
 <a id="artykul-40"></a>
@@ -1268,13 +1397,13 @@ f) wykonywania przez osoby, których dane dotyczą, przysługujących im praw;
 
 g) informowania i ochrony dzieci oraz sposobu pozyskiwania zgody osoby sprawującej władzę rodzicielską lub opiekę nad dzieckiem;
 
-h) środków i procedur, o których mowa w art. 24 i 25, oraz środków zapewniających bezpieczeństwo przetwarzania, o których mowa w art. 32;
+h) środków i procedur, o których mowa w [art. 24](#artykul-24) i 25, oraz środków zapewniających bezpieczeństwo przetwarzania, o których mowa w [art. 32](#artykul-32);
 
 i) zgłaszania organowi nadzorczemu naruszeń ochrony danych osobowych oraz zawiadamiania o takich naruszeniach osób, których dane dotyczą;
 
 j) przekazywania danych osobowych do państw trzecich lub organizacji międzynarodowych; lub
 
-k) postępowań pozasądowych oraz innych trybów rozstrzygania sporów w celu rozstrzygania sporów między administratorami a osobami, których dane dotyczą, w zakresie przetwarzania, bez uszczerbku dla praw osób, których dane dotyczą, na mocy art. 77 i 79.
+k) postępowań pozasądowych oraz innych trybów rozstrzygania sporów w celu rozstrzygania sporów między administratorami a osobami, których dane dotyczą, w zakresie przetwarzania, bez uszczerbku dla praw osób, których dane dotyczą, na mocy [art. 77](#artykul-77) i 79.
 
 3. Poza administratorami lub podmiotami przetwarzającymi, którzy podlegają niniejszemu rozporządzeniu, kodeksów postępowania zatwierdzonych na mocy ust. 5 niniejszego artykułu i powszechnie obowiązujących zgodnie z ust. 9 niniejszego artykułu, mogą przestrzegać także administratorzy lub podmioty przetwarzające, którzy zgodnie z art. 3 nie podlegają niniejszemu rozporządzeniu, w celu zapewnienia odpowiednich zabezpieczeń w ramach przekazywania danych osobowych do państw trzecich lub organizacji międzynarodowych na warunkach określonych w art. 46 ust. 2 lit. e). Tacy administratorzy lub takie podmioty przetwarzające podejmują wiążące i egzekwowalne zobowiązanie – w drodze umowy lub poprzez inne prawnie wiążące instrumenty – do stosowania tych odpowiednich zabezpieczeń, w tym w odniesieniu do praw osób, których dane dotyczą.
 
@@ -1309,7 +1438,7 @@ c) dysponuje procedurami i strukturami, które pozwalają rozpatrywać skargi na
 
 d) w sposób satysfakcjonujący wykazał właściwemu organowi nadzorczemu, że jego zadania i obowiązki nie powodują konfliktu interesów.
 
-3. Właściwy organ nadzorczy przedkłada proponowane kryteria akredytacji podmiotu, o którym mowa w ust. 1 niniejszego artykułu, Europejskiej Radzie Ochrony Danych zgodnie z mechanizmem spójności, o którym mowa w art. 63.
+3. Właściwy organ nadzorczy przedkłada proponowane kryteria akredytacji podmiotu, o którym mowa w ust. 1 niniejszego artykułu, Europejskiej Radzie Ochrony Danych zgodnie z mechanizmem spójności, o którym mowa w [art. 63](#artykul-63).
 
 4. Bez uszczerbku dla zadań i uprawnień właściwego organu nadzorczego oraz przepisów rozdziału VIII podmiot, o którym mowa w ust. 1 niniejszego artykułu – z zastrzeżeniem odpowiednich zabezpieczeń – podejmuje odpowiednie działania w przypadku naruszenia kodeksu przez administratora lub podmiot przetwarzający, w tym zawiesza lub wyklucza administratora lub podmiot przetwarzający spośród stosujących kodeks. O działaniach tych i powodach ich podjęcia informuje on właściwy organ nadzorczy.
 
@@ -1322,26 +1451,26 @@ d) w sposób satysfakcjonujący wykazał właściwemu organowi nadzorczemu, że 
 
 1. Państwa członkowskie, organy nadzorcze, Europejska Rada Ochrony Danych oraz Komisja zachęcają – w szczególności na szczeblu Unii – do ustanawiania mechanizmów certyfikacji oraz znaków jakości i oznaczeń w zakresie ochrony danych osobowych mających świadczyć o zgodności z niniejszym rozporządzeniem operacji przetwarzania prowadzonych przez administratorów i podmioty przetwarzające. Przy tym uwzględnia się szczególne potrzeby mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw.
 
-2. Mechanizmy certyfikacji oraz znaki jakości i oznaczenia w dziedzinie ochrony danych zatwierdzone na mocy ust. 5 niniejszego artykułu, które mają zastosowanie do administratorów lub podmiotów przetwarzających podlegających niniejszemu rozporządzeniu, mogą być ustanowione do wykazania odpowiednich zabezpieczeń przez administratorów lub podmioty przetwarzające, którzy zgodnie z art. 3 nie podlegają niniejszemu rozporządzeniu, w ramach przekazywania danych osobowych do państw trzecich lub organizacji międzynarodowych na warunkach określonych w art. 46 ust. 2 lit. f). Tacy administratorzy lub takie podmioty przetwarzające podejmują wiążące i egzekwowalne zobowiązania – w drodze umowy lub poprzez inne prawnie wiążące instrumenty – do stosowania tych odpowiednich zabezpieczeń, w tym w odniesieniu do praw osób, których dane dotyczą.
+2. Mechanizmy certyfikacji oraz znaki jakości i oznaczenia w dziedzinie ochrony danych zatwierdzone na mocy ust. 5 niniejszego artykułu, które mają zastosowanie do administratorów lub podmiotów przetwarzających podlegających niniejszemu rozporządzeniu, mogą być ustanowione do wykazania odpowiednich zabezpieczeń przez administratorów lub podmioty przetwarzające, którzy zgodnie z [art. 3](#artykul-3) nie podlegają niniejszemu rozporządzeniu, w ramach przekazywania danych osobowych do państw trzecich lub organizacji międzynarodowych na warunkach określonych w [art. 46](#artykul-46) ust. 2 lit. f). Tacy administratorzy lub takie podmioty przetwarzające podejmują wiążące i egzekwowalne zobowiązania – w drodze umowy lub poprzez inne prawnie wiążące instrumenty – do stosowania tych odpowiednich zabezpieczeń, w tym w odniesieniu do praw osób, których dane dotyczą.
 
 3. Certyfikacja jest dobrowolna, a proces jej uzyskania musi być przejrzysty.
 
-4. Certyfikacja przewidziana w niniejszym artykule nie wpływa na spoczywający na administratorze lub podmiocie przetwarzającym obowiązek przestrzegania niniejszego rozporządzenia i pozostaje bez uszczerbku dla zadań i uprawnień organów nadzorczych właściwych na mocy art. 55 lub 56.
+4. Certyfikacja przewidziana w niniejszym artykule nie wpływa na spoczywający na administratorze lub podmiocie przetwarzającym obowiązek przestrzegania niniejszego rozporządzenia i pozostaje bez uszczerbku dla zadań i uprawnień organów nadzorczych właściwych na mocy [art. 55](#artykul-55) lub 56.
 
-5. Certyfikacji przewidzianej w niniejszym artykule dokonują podmioty certyfikujące, o których mowa w art. 43, lub dokonuje jej właściwy organ nadzorczy – na podstawie kryteriów zatwierdzonych przez niego zgodnie z art. 58 ust. 3 lub przez Europejską Radę Ochrony Danych zgodnie z art. 63. W przypadku gdy kryteria są zatwierdzane przez Europejską Radę Ochrony Danych, może to skutkować wspólną certyfikacją, europejskim znakiem jakości ochrony danych.
+5. Certyfikacji przewidzianej w niniejszym artykule dokonują podmioty certyfikujące, o których mowa w [art. 43](#artykul-43), lub dokonuje jej właściwy organ nadzorczy – na podstawie kryteriów zatwierdzonych przez niego zgodnie z [art. 58](#artykul-58) ust. 3 lub przez Europejską Radę Ochrony Danych zgodnie z [art. 63](#artykul-63). W przypadku gdy kryteria są zatwierdzane przez Europejską Radę Ochrony Danych, może to skutkować wspólną certyfikacją, europejskim znakiem jakości ochrony danych.
 
-6. Administrator lub podmiot przetwarzający, którzy poddają swoje przetwarzanie mechanizmowi certyfikacji, udzielają podmiotowi certyfikującemu, o którym mowa w art. 43, lub gdy ma to zastosowanie – właściwemu organowi nadzorczemu wszelkich informacji i wszelkiego dostępu do swoich czynności przetwarzania, które to informacje i dostęp są niezbędne do przeprowadzenia procedury certyfikacji.
+6. Administrator lub podmiot przetwarzający, którzy poddają swoje przetwarzanie mechanizmowi certyfikacji, udzielają podmiotowi certyfikującemu, o którym mowa w [art. 43](#artykul-43), lub gdy ma to zastosowanie – właściwemu organowi nadzorczemu wszelkich informacji i wszelkiego dostępu do swoich czynności przetwarzania, które to informacje i dostęp są niezbędne do przeprowadzenia procedury certyfikacji.
 
-7. Certyfikacji administratora lub podmiotu przetwarzającego udziela się na maksymalny okres 3 lat; certyfikację można przedłużyć na tych samych warunkach, o ile nadal spełnione są stosowne wymogi. W stosownym przypadku organy certyfikujące, o których mowa w art. 43, lub właściwy organ nadzorczy cofają certyfikację, jeżeli jej wymogi nie są spełnione lub przestały być spełniane.
+7. Certyfikacji administratora lub podmiotu przetwarzającego udziela się na maksymalny okres 3 lat; certyfikację można przedłużyć na tych samych warunkach, o ile nadal spełnione są stosowne wymogi. W stosownym przypadku organy certyfikujące, o których mowa w [art. 43](#artykul-43), lub właściwy organ nadzorczy cofają certyfikację, jeżeli jej wymogi nie są spełnione lub przestały być spełniane.
 
 8. Europejska Rada Ochrony Danych gromadzi w rejestrze wszystkie mechanizmy certyfikacji oraz znaki jakości i oznaczenia w dziedzinie ochrony danych i udostępnia je opinii publicznej za pomocą odpowiednich środków.
 
 <a id="artykul-43"></a>
 ### Artykuł 43. Podmiot certyfikujący
 
-1. Bez uszczerbku dla zadań i uprawnień właściwego organu nadzorczego wynikających z art. 57 i 58 podmiot certyfikujący, który dysponuje odpowiednim poziomem wiedzy fachowej w dziedzinie ochrony danych dokonuje certyfikacji i jej przedłużenia po poinformowaniu organu nadzorczego w celu umożliwienia mu w razie potrzeby wykonywania uprawnień na mocy art. 58 ust. 2 lit. h) –. Państwa członkowskie zapewniają akredytację tych podmiotów certyfikujących przez:
+1. Bez uszczerbku dla zadań i uprawnień właściwego organu nadzorczego wynikających z [art. 57](#artykul-57) i 58 podmiot certyfikujący, który dysponuje odpowiednim poziomem wiedzy fachowej w dziedzinie ochrony danych dokonuje certyfikacji i jej przedłużenia po poinformowaniu organu nadzorczego w celu umożliwienia mu w razie potrzeby wykonywania uprawnień na mocy [art. 58](#artykul-58) ust. 2 lit. h) –. Państwa członkowskie zapewniają akredytację tych podmiotów certyfikujących przez:
 
-a) organ nadzorczy właściwy zgodnie z art. 55 lub 56; lub
+a) organ nadzorczy właściwy zgodnie z [art. 55](#artykul-55) lub 56; lub
 
 b) krajową jednostkę akredytującą określoną zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 765/2008 (20) – zgodnie z EN-ISO/IEC 17065/2012 – oraz zgodnie z dodatkowymi wymogami określonymi przez organ nadzorczy właściwy zgodnie z. 55 lub 56.
 
@@ -1349,7 +1478,7 @@ b) krajową jednostkę akredytującą określoną zgodnie z rozporządzeniem Par
 
 a) w sposób satysfakcjonujący wykazały właściwemu organowi nadzorczemu swoją niezależność i wiedzę fachową w dziedzinie podlegającej certyfikacji;
 
-b) zobowiązały się do przestrzegania kryteriów, o których mowa w art. 42 ust. 5 i które zostały zatwierdzone przez organ nadzorczy właściwy zgodnie z art. 55 lub 56 lub przez Europejską Radę Ochrony Danych zgodnie z art. 63;
+b) zobowiązały się do przestrzegania kryteriów, o których mowa w [art. 42](#artykul-42) ust. 5 i które zostały zatwierdzone przez organ nadzorczy właściwy zgodnie z [art. 55](#artykul-55) lub 56 lub przez Europejską Radę Ochrony Danych zgodnie z [art. 63](#artykul-63);
 
 c) dysponują procedurami wydawania, okresowego przeglądu i cofania certyfikacji, znaków jakości i oznaczeń w dziedzinie ochrony danych;
 
@@ -1357,19 +1486,19 @@ d) dysponują procedurami i strukturami, które pozwalają rozpatrywać skargi n
 
 e) w sposób satysfakcjonujący wykażą właściwemu organowi nadzorczemu, że ich zadania i obowiązki nie powodują konfliktu interesów.
 
-3. Akredytacja podmiotów certyfikujących, o których mowa w ust. 1 i 2 niniejszego artykułu, jest dokonywana na podstawie kryteriów zatwierdzonych przez organ nadzorczy właściwy zgodnie z art. 55 lub 56 lub przez Europejską Radę Ochrony Danych zgodnie z art. 63. W przypadku akredytacji na mocy ust. 1 lit. c) niniejszego artykułu wymogi te są uzupełnieniem wymogów przewidzianych w rozporządzeniu (WE) nr 765/2008 oraz przepisów technicznych określających metody i procedury podmiotów certyfikujących.
+3. Akredytacja podmiotów certyfikujących, o których mowa w ust. 1 i 2 niniejszego artykułu, jest dokonywana na podstawie kryteriów zatwierdzonych przez organ nadzorczy właściwy zgodnie z [art. 55](#artykul-55) lub 56 lub przez Europejską Radę Ochrony Danych zgodnie z art. 63. W przypadku akredytacji na mocy ust. 1 lit. c) niniejszego artykułu wymogi te są uzupełnieniem wymogów przewidzianych w rozporządzeniu (WE) nr 765/2008 oraz przepisów technicznych określających metody i procedury podmiotów certyfikujących.
 
 4. Podmioty certyfikujące, o których mowa w ust. 1, są odpowiedzialne za dokonanie właściwej oceny przed udzieleniem lub cofnięciem certyfikacji, bez uszczerbku dla spoczywającego na administratorze lub podmiocie przetwarzającym obowiązku przestrzegania niniejszego rozporządzenia. Akredytacji udziela się na maksymalny okres pięciu lat; można ją przedłużyć na tych samych warunkach, o ile podmiot certyfikujący spełnia wymogi określone w niniejszym artykule.
 
 5. Podmioty certyfikujące, o których mowa w ust. 1, przedstawiają właściwemu organowi nadzorczemu powody udzielenia lub cofnięcia żądanej certyfikacji.
 
-6. Organ nadzorczy w łatwo dostępny sposób podaje do wiadomości publicznej wymogi, o których mowa w ust. 3 niniejszego artykułu, oraz kryteria, o których mowa w art. 42 ust. 5. Organy nadzorcze przekazują te wymogi i kryteria także Europejskiej Radzie Ochrony Danych. Gromadzi ona w rejestrze wszystkie mechanizmy certyfikacji oraz znaki jakości w dziedzinie ochrony danych i udostępnia je opinii publicznej za pomocą odpowiednich środków.
+6. Organ nadzorczy w łatwo dostępny sposób podaje do wiadomości publicznej wymogi, o których mowa w ust. 3 niniejszego artykułu, oraz kryteria, o których mowa w [art. 42](#artykul-42) ust. 5. Organy nadzorcze przekazują te wymogi i kryteria także Europejskiej Radzie Ochrony Danych. Gromadzi ona w rejestrze wszystkie mechanizmy certyfikacji oraz znaki jakości w dziedzinie ochrony danych i udostępnia je opinii publicznej za pomocą odpowiednich środków.
 
-7. Bez uszczerbku dla rozdziału VIII właściwy organ nadzorczy lub krajowa jednostka akredytująca cofają akredytację podmiotu certyfikującego zgodnie z ust. 1 niniejszego artykułu, w przypadku gdy podmiot ten nie spełnia lub przestał spełniać warunki akredytacji lub jeżeli działania podejmowane przez podmiot certyfikujący naruszają niniejsze rozporządzenie.
+7. Bez uszczerbku dla [rozdziału VIII](#rozdzial-viii) właściwy organ nadzorczy lub krajowa jednostka akredytująca cofają akredytację podmiotu certyfikującego zgodnie z ust. 1 niniejszego artykułu, w przypadku gdy podmiot ten nie spełnia lub przestał spełniać warunki akredytacji lub jeżeli działania podejmowane przez podmiot certyfikujący naruszają niniejsze rozporządzenie.
 
-8. Komisja jest uprawniona do przyjmowania aktów delegowanych zgodnie z art. 92 w celu doprecyzowania wymogów, które uwzględnia się w przypadku mechanizmów certyfikacji w dziedzinie ochrony danych, o których mowa w art. 42 ust. 1.
+8. Komisja jest uprawniona do przyjmowania aktów delegowanych zgodnie z [art. 92](#artykul-92) w celu doprecyzowania wymogów, które uwzględnia się w przypadku mechanizmów certyfikacji w dziedzinie ochrony danych, o których mowa w [art. 42](#artykul-42) ust. 1.
 
-9. Komisja może przyjąć akty wykonawcze określające techniczne standardy mechanizmów certyfikacji oraz znaków jakości i oznaczeń w dziedzinie ochrony danych, a także sposoby upowszechniania i uznawania tych mechanizmów certyfikacji oraz znaków jakości i oznaczeń. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 93 ust. 2.
+9. Komisja może przyjąć akty wykonawcze określające techniczne standardy mechanizmów certyfikacji oraz znaków jakości i oznaczeń w dziedzinie ochrony danych, a także sposoby upowszechniania i uznawania tych mechanizmów certyfikacji oraz znaków jakości i oznaczeń. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w [art. 93](#artykul-93) ust. 2.
 
 <a id="rozdzial-v"></a>
 ### ROZDZIAŁ V. Przekazywanie danych osobowych do państw trzecich lub organizacji międzynarodowych
@@ -1392,17 +1521,17 @@ b) istnienie i skuteczne działanie co najmniej jednego niezależnego organu nad
 
 c) międzynarodowe zobowiązania zaciągnięte przez dane państwo trzecie lub daną organizację międzynarodową lub inne obowiązki wynikające z prawnie wiążących konwencji lub instrumentów oraz z udziału w systemach wielostronnych lub regionalnych, w szczególności w dziedzinie ochrony danych osobowych.
 
-3. Po dokonaniu oceny, czy stopień ochrony jest odpowiedni, Komisja może w drodze aktu wykonawczego przyjąć decyzję stwierdzającą, że państwo trzecie, terytorium lub określony sektor lub określone sektory w tym państwie trzecim lub organizacja międzynarodowa zapewniają odpowiedni stopień ochrony w rozumieniu ust. 2 niniejszego artykułu. W akcie wykonawczym przewiduje się mechanizm okresowego przeglądu – przynajmniej raz na cztery lata – podczas którego uwzględnia się wszelkie mające znaczenie zmiany w państwie trzecim lub organizacji międzynarodowej. W akcie wykonawczym zostaje określony terytorialny i sektorowy zakres jego zastosowania, a gdy ma to zastosowanie wskazany zostaje organ nadzorczy lub organy nadzorcze, o których mowa w ust. 2 lit. b) niniejszego artykułu. Akt wykonawczy zostaje przyjęty zgodnie z procedurą sprawdzającą, o której mowa w art. 93 ust. 2.
+3. Po dokonaniu oceny, czy stopień ochrony jest odpowiedni, Komisja może w drodze aktu wykonawczego przyjąć decyzję stwierdzającą, że państwo trzecie, terytorium lub określony sektor lub określone sektory w tym państwie trzecim lub organizacja międzynarodowa zapewniają odpowiedni stopień ochrony w rozumieniu ust. 2 niniejszego artykułu. W akcie wykonawczym przewiduje się mechanizm okresowego przeglądu – przynajmniej raz na cztery lata – podczas którego uwzględnia się wszelkie mające znaczenie zmiany w państwie trzecim lub organizacji międzynarodowej. W akcie wykonawczym zostaje określony terytorialny i sektorowy zakres jego zastosowania, a gdy ma to zastosowanie wskazany zostaje organ nadzorczy lub organy nadzorcze, o których mowa w ust. 2 lit. b) niniejszego artykułu. Akt wykonawczy zostaje przyjęty zgodnie z procedurą sprawdzającą, o której mowa w [art. 93](#artykul-93) ust. 2.
 
 4. Komisja na bieżąco monitoruje zmiany w państwach trzecich i organizacjach międzynarodowych mogące wpłynąć na obowiązywanie decyzji przyjętych na mocy ust. 3 niniejszego artykułu oraz decyzji przyjętych na podstawie art. 25 ust. 6 dyrektywy 95/46/WE.
 
-5. Jeżeli dostępne informacje na to wskazują, w szczególności po przeglądzie, o którym mowa w ust. 3 niniejszego artykułu, Komisja przyjmuje decyzję stwierdzającą, że państwo trzecie – lub terytorium lub jeden lub więcej określonych sektorów w tym państwie trzecim – lub organizacja międzynarodowa przestały zapewniać odpowiedni stopień ochrony w rozumieniu ust. 2 niniejszego artykułu, i w niezbędnym zakresie uchyla, zmienia lub zawiesza decyzję, o której mowa w ust. 3 niniejszego artykułu, w drodze aktów wykonawczych bez mocy wstecznej. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 93 ust. 2.
+5. Jeżeli dostępne informacje na to wskazują, w szczególności po przeglądzie, o którym mowa w ust. 3 niniejszego artykułu, Komisja przyjmuje decyzję stwierdzającą, że państwo trzecie – lub terytorium lub jeden lub więcej określonych sektorów w tym państwie trzecim – lub organizacja międzynarodowa przestały zapewniać odpowiedni stopień ochrony w rozumieniu ust. 2 niniejszego artykułu, i w niezbędnym zakresie uchyla, zmienia lub zawiesza decyzję, o której mowa w ust. 3 niniejszego artykułu, w drodze aktów wykonawczych bez mocy wstecznej. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w [art. 93](#artykul-93) ust. 2.
 
-W należycie uzasadnionych, szczególnie pilnych przypadkach Komisja przyjmuje zgodnie z procedurą, o której mowa w art. 93 ust. 3 akty wykonawcze mające natychmiastowe zastosowanie.
+W należycie uzasadnionych, szczególnie pilnych przypadkach Komisja przyjmuje zgodnie z procedurą, o której mowa w [art. 93](#artykul-93) ust. 3 akty wykonawcze mające natychmiastowe zastosowanie.
 
 6. Komisja podejmuje konsultacje z państwem trzecim lub organizacją międzynarodową w celu zaradzenia sytuacji będącej przyczyną decyzji przyjętej na mocy ust. 5.
 
-7. Decyzja przyjęta na mocy ust. 5 niniejszego artykułu pozostaje bez uszczerbku dla przekazywania danych osobowych do danego państwa trzeciego, terytorium lub określonego sektora lub określonych sektorów w tym państwie trzecim lub do danej organizacji międzynarodowej na mocy art. 46–49.
+7. Decyzja przyjęta na mocy ust. 5 niniejszego artykułu pozostaje bez uszczerbku dla przekazywania danych osobowych do danego państwa trzeciego, terytorium lub określonego sektora lub określonych sektorów w tym państwie trzecim lub do danej organizacji międzynarodowej na mocy [art. 46](#artykul-46)–49.
 
 8. Komisja publikuje w Dzienniku Urzędowym Unii Europejskiej i na swojej stronie internetowej wykaz państw trzecich, terytoriów i określonych sektorów w państwie trzecim oraz organizacji międzynarodowych, co do których przyjęła decyzję stwierdzającą odpowiedni stopień ochrony lub jego brak.
 
@@ -1411,21 +1540,21 @@ W należycie uzasadnionych, szczególnie pilnych przypadkach Komisja przyjmuje z
 <a id="artykul-46"></a>
 ### Artykuł 46. Przekazywanie z zastrzeżeniem odpowiednich zabezpieczeń
 
-1. W razie braku decyzji na mocy art. 45 ust. 3 administrator lub podmiot przetwarzający mogą przekazać dane osobowe do państwa trzeciego lub organizacji międzynarodowej wyłącznie, gdy zapewnią odpowiednie zabezpieczenia, i pod warunkiem, że obowiązują egzekwowalne prawa osób, których dane dotyczą, i skuteczne środki ochrony prawnej.
+1. W razie braku decyzji na mocy [art. 45](#artykul-45) ust. 3 administrator lub podmiot przetwarzający mogą przekazać dane osobowe do państwa trzeciego lub organizacji międzynarodowej wyłącznie, gdy zapewnią odpowiednie zabezpieczenia, i pod warunkiem, że obowiązują egzekwowalne prawa osób, których dane dotyczą, i skuteczne środki ochrony prawnej.
 
 2. Odpowiednie zabezpieczenia, o których mowa w ust. 1, można zapewnić – bez konieczności uzyskania specjalnego zezwolenia ze strony organu nadzorczego – za pomocą:
 
 a) prawnie wiążącego i egzekwowalnego instrumentu między organami lub podmiotami publicznymi;
 
-b) wiążących reguł korporacyjnych zgodnie z art. 47;
+b) wiążących reguł korporacyjnych zgodnie z [art. 47](#artykul-47);
 
-c) standardowych klauzul ochrony danych przyjętych przez Komisję zgodnie z procedurą sprawdzającą, o której mowa w art. 93 ust. 2;
+c) standardowych klauzul ochrony danych przyjętych przez Komisję zgodnie z procedurą sprawdzającą, o której mowa w [art. 93](#artykul-93) ust. 2;
 
-d) standardowych klauzul ochrony danych przyjętych przez organ nadzorczy i zatwierdzonych przez Komisję zgodnie z procedurą sprawdzającą, o której mowa w art. 93 ust. 2;
+d) standardowych klauzul ochrony danych przyjętych przez organ nadzorczy i zatwierdzonych przez Komisję zgodnie z procedurą sprawdzającą, o której mowa w [art. 93](#artykul-93) ust. 2;
 
 e) zatwierdzonego kodeksu postępowania zgodnie z art. 40 wraz z wiążącymi i egzekwowalnymi zobowiązaniami administratora lub podmiotu przetwarzającego w państwie trzecim do stosowania odpowiednich zabezpieczeń, w tym w odniesieniu do praw osób, których dane dotyczą; lub
 
-f) zatwierdzonego mechanizmu certyfikacji zgodnie z art. 42 wraz z wiążącymi i egzekwowalnymi zobowiązaniami administratora lub podmiotu przetwarzającego w państwie trzecim do stosowania odpowiednich zabezpieczeń, w tym w odniesieniu do praw osób, których dane dotyczą.
+f) zatwierdzonego mechanizmu certyfikacji zgodnie z [art. 42](#artykul-42) wraz z wiążącymi i egzekwowalnymi zobowiązaniami administratora lub podmiotu przetwarzającego w państwie trzecim do stosowania odpowiednich zabezpieczeń, w tym w odniesieniu do praw osób, których dane dotyczą.
 
 3. Z zastrzeżeniem zezwolenia właściwego organu nadzorczego odpowiednie zabezpieczenia, o których mowa w ust. 1, można także zapewnić w szczególności za pomocą:
 
@@ -1433,14 +1562,14 @@ a) klauzul umownych między administratorem lub podmiotem przetwarzającym a adm
 
 b) postanowień uzgodnień administracyjnych między organami lub podmiotami publicznymi, w których przewidziane będą egzekwowalne i skuteczne prawa osób, których dane dotyczą.
 
-4. W przypadkach, o których mowa w ust. 3 niniejszego artykułu, organ nadzorczy stosuje mechanizm spójności, o którym mowa w art. 63.
+4. W przypadkach, o których mowa w ust. 3 niniejszego artykułu, organ nadzorczy stosuje mechanizm spójności, o którym mowa w [art. 63](#artykul-63).
 
 5. Zezwolenia wydane przez państwo członkowskie lub organ nadzorczy na podstawie art. 26 ust. 2 dyrektywy 95/46/WE zachowują ważność do czasu ich zmiany, zastąpienia lub uchylenia w razie potrzeby przez ten organ. Decyzje przyjęte przez Komisję na mocy art. 26 ust. 4 dyrektywy 95/46/WE pozostają w mocy do czasu ich zmiany, zastąpienia lub uchylenia w razie potrzeby decyzją Komisji przyjętą zgodnie z ust. 2 niniejszego artykułu.
 
 <a id="artykul-47"></a>
 ### Artykuł 47. wiążące reguły korporacyjnych
 
-1. Właściwy organ nadzorczy zatwierdza wiążące reguły korporacyjne zgodnie z mechanizmem spójności przewidzianym w art. 63, pod warunkiem że:
+1. Właściwy organ nadzorczy zatwierdza wiążące reguły korporacyjne zgodnie z mechanizmem spójności przewidzianym w [art. 63](#artykul-63), pod warunkiem że:
 
 a) są one prawnie wiążące oraz mają zastosowanie do każdego z członków grupy przedsiębiorstw lub grupy przedsiębiorców prowadzących wspólną działalność gospodarczą, w tym ich pracowników, i są przez każdego z tych członków egzekwowane;
 
@@ -1458,13 +1587,13 @@ c) ich prawnie wiążący charakter, wewnętrzny i zewnętrzny;
 
 d) zastosowanie ogólnych zasad ochrony danych – w szczególności ograniczenia celu, minimalizacji danych, ograniczonych okresów przechowywania, jakości danych, uwzględnianie ochrony danych w fazie projektowania oraz domyślnej ochrony danych, podstawa prawna przetwarzania, przetwarzanie szczególnych kategorii danych osobowych, środki zapewniające bezpieczeństwo danych, wymogi w zakresie dalszego przekazywania podmiotom niezwiązanym wiążącymi regułami korporacyjnymi;
 
-e) prawa osób, których dane dotyczą, w związku z przetwarzaniem oraz sposoby wykonywania tych praw, w tym z prawa do niepodlegania decyzjom opartym wyłącznie na zautomatyzowanym przetwarzaniu – w tym profilowaniu – zgodnie z art. 22, prawa do wnoszenia skarg do właściwego organu nadzorczego i właściwych sądów państw członkowskich zgodnie z art. 79 oraz prawa do środka zaskarżenia, a w stosownych przypadkach – odszkodowania za naruszenie wiążących reguł korporacyjnych;
+e) prawa osób, których dane dotyczą, w związku z przetwarzaniem oraz sposoby wykonywania tych praw, w tym z prawa do niepodlegania decyzjom opartym wyłącznie na zautomatyzowanym przetwarzaniu – w tym profilowaniu – zgodnie z [art. 22](#artykul-22), prawa do wnoszenia skarg do właściwego organu nadzorczego i właściwych sądów państw członkowskich zgodnie z [art. 79](#artykul-79) oraz prawa do środka zaskarżenia, a w stosownych przypadkach – odszkodowania za naruszenie wiążących reguł korporacyjnych;
 
 f) przyjęcie przez administratora lub podmiot przetwarzający posiadających jednostki organizacyjnej na terytorium państwa członkowskiego odpowiedzialności prawnej za naruszenie wiążących reguł korporacyjnych przez odnośnego członka niemającego jednostki organizacyjne w Unii; administrator lub podmiot przetwarzający są zwolnieni z tej odpowiedzialności – w całości lub w części – wyłącznie, gdy udowodni, że członek ten nie ponosi odpowiedzialności za wydarzenie, które doprowadziło do powstania szkody;
 
-g) sposób, w jaki osobom, których dane dotyczą, podaje się – oprócz informacji, o których mowa w art. 13 i 14 – informacje o wiążących regułach korporacyjnych, w szczególności o postanowieniach, o których mowa w lit. d), e) i f) niniejszego ustępu;
+g) sposób, w jaki osobom, których dane dotyczą, podaje się – oprócz informacji, o których mowa w [art. 13](#artykul-13) i 14 – informacje o wiążących regułach korporacyjnych, w szczególności o postanowieniach, o których mowa w lit. d), e) i f) niniejszego ustępu;
 
-h) zadania inspektora ochrony danych wyznaczonego zgodnie z art. 37 lub innej osoby lub podmiotu odpowiedzialnych za monitorowanie przestrzegania wiążących reguł korporacyjnych w ramach grupy przedsiębiorstw lub grupy przedsiębiorców prowadzących wspólną działalność gospodarczą oraz monitorowanie szkoleń i rozpatrywanie skarg;
+h) zadania inspektora ochrony danych wyznaczonego zgodnie z [art. 37](#artykul-37) lub innej osoby lub podmiotu odpowiedzialnych za monitorowanie przestrzegania wiążących reguł korporacyjnych w ramach grupy przedsiębiorstw lub grupy przedsiębiorców prowadzących wspólną działalność gospodarczą oraz monitorowanie szkoleń i rozpatrywanie skarg;
 
 i) procedury dotyczące skarg;
 
@@ -1478,7 +1607,7 @@ m) mechanizm zgłaszania właściwemu organowi nadzorczemu wszelkich wymogów pr
 
 n) właściwe szkolenia z zakresu ochrony danych dla personelu mającego stały lub regularny dostęp do danych osobowych.
 
-3. Komisja może określić format i procedury wymiany informacji między administratorami, podmiotami przetwarzającymi i organami nadzorczymi dotyczących wiążących reguł korporacyjnych w rozumieniu niniejszego artykułu. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 93 ust. 2.
+3. Komisja może określić format i procedury wymiany informacji między administratorami, podmiotami przetwarzającymi i organami nadzorczymi dotyczących wiążących reguł korporacyjnych w rozumieniu niniejszego artykułu. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w [art. 93](#artykul-93) ust. 2.
 
 <a id="artykul-48"></a>
 ### Artykuł 48. Przekazywanie lub ujawnianie niedozwolone na mocy prawa Unii
@@ -1488,7 +1617,7 @@ Wyrok sądu lub trybunału oraz decyzja organu administracyjnego państwa trzeci
 <a id="artykul-49"></a>
 ### Artykuł 49. Wyjątki w szczególnych sytuacjach
 
-1. W razie braku decyzji stwierdzającej odpowiedni stopień ochrony określonej w art. 45 ust. 3 lub braku odpowiednich zabezpieczeń określonych w art. 46, w tym wiążących reguł korporacyjnych, jednorazowe lub wielokrotne przekazanie danych osobowych do państwa trzeciego lub organizacji międzynarodowej mogą nastąpić wyłącznie pod warunkiem, że:
+1. W razie braku decyzji stwierdzającej odpowiedni stopień ochrony określonej w [art. 45](#artykul-45) ust. 3 lub braku odpowiednich zabezpieczeń określonych w [art. 46](#artykul-46), w tym wiążących reguł korporacyjnych, jednorazowe lub wielokrotne przekazanie danych osobowych do państwa trzeciego lub organizacji międzynarodowej mogą nastąpić wyłącznie pod warunkiem, że:
 
 a) osoba, której dane dotyczą, poinformowana o ewentualnym ryzyku, z którymi – ze względu na brak decyzji stwierdzającej odpowiedni stopień ochrony oraz na brak odpowiednich zabezpieczeń – może się dla niej wiązać proponowane przekazanie, wyraźnie wyraziła na nie zgodę;
 
@@ -1504,7 +1633,7 @@ f) przekazanie jest niezbędne do ochrony żywotnych interesów osoby, których 
 
 g) przekazanie następuje z rejestru, który zgodnie z prawem Unii lub prawem państwa członkowskiego ma służyć za źródło informacji dla ogółu obywateli i który jest dostępny dla ogółu obywateli lub dla każdej osoby mogącej wykazać prawnie uzasadniony interes – ale wyłącznie w zakresie, w jakim w danym przypadku spełnione zostały warunki takiego dostępu określone w prawie Unii lub w prawie państwa członkowskiego.
 
-Jeżeli przekazanie nie może się opierać na art. 45 ani 46, w tym na przepisach dotyczących wiążących reguł korporacyjnych, i nie ma zastosowania żaden z wyjątków mających zastosowanie w szczególnych sytuacjach zgodnie z akapitem pierwszym niniejszego ustępu, przekazanie do państwa trzeciego lub organizacji międzynarodowej może nastąpić wyłącznie, gdy przekazanie nie jest powtarzalne, dotyczy tylko ograniczonej liczby osób, których dane dotyczą, jest niezbędne ze względu na ważne prawnie uzasadnione interesy realizowane przez administratora, wobec których charakteru nadrzędnego nie mają interesy ani prawa i wolności osoby, której dane dotyczą a administrator ocenił wszystkie okoliczności przekazania danych i na podstawie tej oceny zapewnił odpowiednie zabezpieczenia w zakresie ochrony danych osobowych. Administrator informuje organ nadzorczy o przekazaniu. Poza informacjami, o których mowa w art. 13 i 14, administrator podaje osobie, której dane dotyczą, także informacje o przekazaniu i o ważnych prawnie uzasadnionych interesach realizowanych przez niego.
+Jeżeli przekazanie nie może się opierać na [art. 45](#artykul-45) ani 46, w tym na przepisach dotyczących wiążących reguł korporacyjnych, i nie ma zastosowania żaden z wyjątków mających zastosowanie w szczególnych sytuacjach zgodnie z akapitem pierwszym niniejszego ustępu, przekazanie do państwa trzeciego lub organizacji międzynarodowej może nastąpić wyłącznie, gdy przekazanie nie jest powtarzalne, dotyczy tylko ograniczonej liczby osób, których dane dotyczą, jest niezbędne ze względu na ważne prawnie uzasadnione interesy realizowane przez administratora, wobec których charakteru nadrzędnego nie mają interesy ani prawa i wolności osoby, której dane dotyczą a administrator ocenił wszystkie okoliczności przekazania danych i na podstawie tej oceny zapewnił odpowiednie zabezpieczenia w zakresie ochrony danych osobowych. Administrator informuje organ nadzorczy o przekazaniu. Poza informacjami, o których mowa w [art. 13](#artykul-13) i 14, administrator podaje osobie, której dane dotyczą, także informacje o przekazaniu i o ważnych prawnie uzasadnionych interesach realizowanych przez niego.
 
 2. Przekazanie na mocy ust. 1 akapit pierwszy lit. g) nie obejmuje całości danych osobowych ani całych kategorii danych osobowych zawartych w rejestrze. Jeżeli rejestr jest dostępny dla osób mających prawnie uzasadniony interes, przekazanie następuje wyłącznie na żądanie tych osób lub gdy mają one być odbiorcami.
 
@@ -1514,7 +1643,7 @@ Jeżeli przekazanie nie może się opierać na art. 45 ani 46, w tym na przepisa
 
 5. W razie braku decyzji stwierdzającej odpowiedni stopień ochrony prawo Unii lub prawo państwa członkowskiego może z uwagi na ważne względy interesu publicznego wyraźnie nakładać ograniczenia na przekazywanie konkretnych kategorii danych osobowych do państwa trzeciego lub organizacji międzynarodowej. Państwa członkowskie powiadamiają Komisję o takich przepisach.
 
-6. Administrator lub podmiot przetwarzający dokumentują ocenę oraz odpowiednie zabezpieczenia, o których mowa w ust. 1 akapit drugi niniejszego artykułu, w rejestrach, o których mowa w art. 30.
+6. Administrator lub podmiot przetwarzający dokumentują ocenę oraz odpowiednie zabezpieczenia, o których mowa w ust. 1 akapit drugi niniejszego artykułu, w rejestrach, o których mowa w [art. 30](#artykul-30).
 
 <a id="artykul-50"></a>
 ### Artykuł 50. Międzynarodowa współpraca na rzecz ochrony danych osobowych
@@ -1532,7 +1661,7 @@ d) upowszechniania wymiany i dokumentowania przepisów i praktyk w dziedzinie oc
 <a id="rozdzial-vi"></a>
 ### ROZDZIAŁ VI. Niezależne organy nadzorcze
 
-<a id="sekcja-1"></a>
+<a id="sekcja-1-2"></a>
 #### Sekcja 1. Niezależny status
 
 <a id="artykul-51"></a>
@@ -1542,7 +1671,7 @@ d) upowszechniania wymiany i dokumentowania przepisów i praktyk w dziedzinie oc
 
 2. Każdy organ nadzorczy przyczynia się do spójnego stosowania niniejszego rozporządzenia w całej Unii. W tym celu organy nadzorcze współpracują ze sobą i z Komisją zgodnie z rozdziałem VII.
 
-3. Jeżeli w państwie członkowskim ustanowiono więcej niż jeden organ nadzorczy, państwo to wskazuje, który z nich ma reprezentować te organy w Europejskiej Radzie Ochrony Danych, oraz ustala mechanizm zapewniający przestrzeganie przez pozostałe organy przepisów o mechanizmie spójności, o którym mowa w art. 63.
+3. Jeżeli w państwie członkowskim ustanowiono więcej niż jeden organ nadzorczy, państwo to wskazuje, który z nich ma reprezentować te organy w Europejskiej Radzie Ochrony Danych, oraz ustala mechanizm zapewniający przestrzeganie przez pozostałe organy przepisów o mechanizmie spójności, o którym mowa w [art. 63](#artykul-63).
 
 4. Do dnia 25 maja 2018 r. każde państwo członkowskie zawiadamia Komisję o przepisach przyjętych na mocy niniejszego rozdziału, a następnie niezwłocznie o każdej kolejnej zmianie mającej na nie wpływ.
 
@@ -1599,7 +1728,7 @@ f) zasady regulujące obowiązki członka lub członków oraz personelu każdego
 
 2. Członek lub członkowie oraz personel każdego z organów nadzorczych podlegają zgodnie z prawem Unii lub prawem państwa członkowskiego obowiązkowi zachowania tajemnicy służbowej – w trakcie kadencji oraz po jej zakończeniu – w odniesieniu do wszelkich poufnych informacji, które uzyskali w toku wypełniania zadań lub wykonywania swoich uprawnień. Obowiązek zachowania tajemnicy służbowej w trakcie ich kadencji dotyczy w szczególności sytuacji, w których osoby fizyczne zgłaszają naruszenia niniejszego rozporządzenia.
 
-<a id="sekcja-2"></a>
+<a id="sekcja-2-2"></a>
 #### Sekcja 2. Właściwość, zadania i uprawnienia
 
 <a id="artykul-55"></a>
@@ -1607,22 +1736,22 @@ f) zasady regulujące obowiązki członka lub członków oraz personelu każdego
 
 1. Każdy organ nadzorczy jest właściwy do wypełniania zadań i wykonywania uprawnień powierzonych mu zgodnie z niniejszym rozporządzeniem na terytorium swojego państwa członkowskiego.
 
-2. Jeżeli przetwarzania dokonują organy publiczne lub podmioty prywatne działające na podstawie art. 6 ust. 1 lit. c) lub e), organem właściwym jest organ nadzorczy danego państwa członkowskiego. W takich przypadkach art. 56 nie ma zastosowania.
+2. Jeżeli przetwarzania dokonują organy publiczne lub podmioty prywatne działające na podstawie [art. 6](#artykul-6) ust. 1 lit. c) lub e), organem właściwym jest organ nadzorczy danego państwa członkowskiego. W takich przypadkach [art. 56](#artykul-56) nie ma zastosowania.
 
 3. Organy nadzorcze nie są właściwe do nadzorowania operacji przetwarzania dokonywanych przez sądy w ramach sprawowania przez nie wymiaru sprawiedliwości.
 
 <a id="artykul-56"></a>
 ### Artykuł 56. Właściwość wiodącego organu nadzorczego
 
-1. Bez uszczerbku dla art. 55 organ nadzorczy głównej lub pojedynczej jednostki organizacyjnej administratora lub podmiotu przetwarzającego jest właściwy do podejmowania działań jako wiodący organ nadzorczy – zgodnie z procedurą przewidzianą w art. 60 – względem transgranicznego przetwarzania dokonywanego przez tego administratora lub ten podmiot przetwarzający.
+1. Bez uszczerbku dla [art. 55](#artykul-55) organ nadzorczy głównej lub pojedynczej jednostki organizacyjnej administratora lub podmiotu przetwarzającego jest właściwy do podejmowania działań jako wiodący organ nadzorczy – zgodnie z procedurą przewidzianą w [art. 60](#artykul-60) – względem transgranicznego przetwarzania dokonywanego przez tego administratora lub ten podmiot przetwarzający.
 
 2. W drodze wyjątku od ust. 1 każdy organ nadzorczy jest właściwy do rozpatrzenia skargi, którą do niego wniesiono, lub zajęcia się ewentualnym naruszeniem niniejszego rozporządzenia, jeżeli sprawa dotyczy wyłącznie jednostki organizacyjnej w jego państwie członkowskim lub znacznie wpływa na osoby, których dane dotyczą, wyłącznie w jego państwie członkowskim.
 
-3. W przypadkach, o których mowa w ust. 2 niniejszego artykułu, organ nadzorczy niezwłocznie informuje o danej sprawie wiodący organ nadzorczy. W terminie trzech tygodni od otrzymania informacji wiodący organ nadzorczy postanawia, czy zajmie się daną sprawą zgodnie z procedurą przewidzianą w art. 60, uwzględniając, czy w państwie członkowskim, którego organ nadzorczy przekazał mu informacje, znajduje się jednostka organizacyjna administratora lub podmiotu przetwarzającego.
+3. W przypadkach, o których mowa w ust. 2 niniejszego artykułu, organ nadzorczy niezwłocznie informuje o danej sprawie wiodący organ nadzorczy. W terminie trzech tygodni od otrzymania informacji wiodący organ nadzorczy postanawia, czy zajmie się daną sprawą zgodnie z procedurą przewidzianą w [art. 60](#artykul-60), uwzględniając, czy w państwie członkowskim, którego organ nadzorczy przekazał mu informacje, znajduje się jednostka organizacyjna administratora lub podmiotu przetwarzającego.
 
-4. Jeżeli wiodący organ nadzorczy postanowi zająć się daną sprawą, zastosowanie ma procedura przewidziana w art. 60. Organ nadzorczy, który przekazał informacje wiodącemu organowi nadzorczemu, może przedłożyć temu organowi projekt decyzji. Wiodący organ nadzorczy w jak największym stopniu uwzględnia ten projekt, przygotowując projekt decyzji, o którym mowa w art. 60 ust. 3.
+4. Jeżeli wiodący organ nadzorczy postanowi zająć się daną sprawą, zastosowanie ma procedura przewidziana w [art. 60](#artykul-60). Organ nadzorczy, który przekazał informacje wiodącemu organowi nadzorczemu, może przedłożyć temu organowi projekt decyzji. Wiodący organ nadzorczy w jak największym stopniu uwzględnia ten projekt, przygotowując projekt decyzji, o którym mowa w [art. 60](#artykul-60) ust. 3.
 
-5. Jeżeli wiodący organ nadzorczy postanowi nie zajmować się daną sprawą, sprawą zajmuje się – zgodnie z art. 61 i 62 – organ nadzorczy, który przekazał informacje wiodącemu organowi nadzorczemu.
+5. Jeżeli wiodący organ nadzorczy postanowi nie zajmować się daną sprawą, sprawą zajmuje się – zgodnie z [art. 61](#artykul-61) i 62 – organ nadzorczy, który przekazał informacje wiodącemu organowi nadzorczemu.
 
 6. Administrator lub podmiot przetwarzający komunikują się w sprawie dokonywanego przez nich transgranicznego przetwarzania jedynie z wiodącym organem nadzorczym.
 
@@ -1641,7 +1770,7 @@ d) upowszechnia wśród administratorów i podmiotów przetwarzających wiedzę 
 
 e) udziela osobie, której dane dotyczą, na jej żądanie informacji o wykonywaniu praw przysługujących im na mocy niniejszego rozporządzenia, a w stosownym przypadku współpracuje w tym celu z organami nadzorczymi innych państw członkowskich;
 
-f) rozpatruje skargi wniesione przez osobę, której dane dotyczą, lub przez podmiot, organizację lub zrzeszenie zgodnie z art. 80, w odpowiednim zakresie prowadzi postępowania w przedmiocie tych skarg i w rozsądnym terminie informuje skarżącego o postępach i wynikach tych postępowań, w szczególności jeżeli niezbędne jest dalsze prowadzenie postępowań lub koordynacja działań z innym organem nadzorczym;
+f) rozpatruje skargi wniesione przez osobę, której dane dotyczą, lub przez podmiot, organizację lub zrzeszenie zgodnie z [art. 80](#artykul-80), w odpowiednim zakresie prowadzi postępowania w przedmiocie tych skarg i w rozsądnym terminie informuje skarżącego o postępach i wynikach tych postępowań, w szczególności jeżeli niezbędne jest dalsze prowadzenie postępowań lub koordynacja działań z innym organem nadzorczym;
 
 g) współpracuje z innymi organami nadzorczymi, w tym dzieli się informacjami oraz świadczy wzajemną pomoc, w celu zapewnienia spójnego stosowania i egzekwowania niniejszego rozporządzenia;
 
@@ -1649,29 +1778,29 @@ h) prowadzi postępowania w sprawie stosowania niniejszego rozporządzenia, w ty
 
 i) monitoruje zmiany w stosownych dziedzinach, o ile zmiany te mają wpływ na ochronę danych osobowych, w szczególności monitoruje rozwój technologii informacyjno-komunikacyjnych i praktyk handlowych;
 
-j) przyjmuje standardowe klauzule umowne, o których mowa w art. 28 ust. 8 i art. 46 ust. 2 lit. d);
+j) przyjmuje standardowe klauzule umowne, o których mowa w [art. 28](#artykul-28) ust. 8 i [art. 46](#artykul-46) ust. 2 lit. d);
 
-k) ustanawia i prowadzi wykaz związany z wymogiem dokonania oceny skutków dla ochrony danych na mocy art. 35 ust. 4;
+k) ustanawia i prowadzi wykaz związany z wymogiem dokonania oceny skutków dla ochrony danych na mocy [art. 35](#artykul-35) ust. 4;
 
-l) udziela zaleceń, o których mowa w art. 36 ust. 2, dotyczących operacji przetwarzania;
+l) udziela zaleceń, o których mowa w [art. 36](#artykul-36) ust. 2, dotyczących operacji przetwarzania;
 
 m) zachęca do sporządzania kodeksów postępowania zgodnie z art. 40 ust. 1, wydaje opinie na ich temat oraz zatwierdza te kodeksy, w których znajdują się odpowiednie zabezpieczenia, na mocy art. 40 ust. 5;
 
-n) zachęca do ustanawiania mechanizmów certyfikacji w dziedzinie ochrony danych oraz znaków jakości i oznaczeń z tej dziedziny zgodnie z art. 42 ust. 1, a także zatwierdza kryteria certyfikacji zgodnie z art. 42 ust. 5;
+n) zachęca do ustanawiania mechanizmów certyfikacji w dziedzinie ochrony danych oraz znaków jakości i oznaczeń z tej dziedziny zgodnie z [art. 42](#artykul-42) ust. 1, a także zatwierdza kryteria certyfikacji zgodnie z [art. 42](#artykul-42) ust. 5;
 
-o) gdy ma to zastosowanie – zgodnie z art. 42 ust. 7 dokonuje okresowego przeglądu udzielonych certyfikacji;
+o) gdy ma to zastosowanie – zgodnie z [art. 42](#artykul-42) ust. 7 dokonuje okresowego przeglądu udzielonych certyfikacji;
 
 p) opracowuje i publikuje kryteria akredytacji podmiotu monitorującego kodeksy postępowania na mocy art. 41 oraz podmiotu certyfikującego na mocy art. 43;
 
 q) akredytuje podmiot monitorujący kodeksy postępowania na mocy art. 41 oraz podmiot certyfikujący na mocy art. 43;
 
-r) wydaje zezwolenia na klauzule umowne i przepisy, o których mowa w art. 46 ust. 3;
+r) wydaje zezwolenia na klauzule umowne i przepisy, o których mowa w [art. 46](#artykul-46) ust. 3;
 
-s) zatwierdza wiążące reguły korporacyjne na mocy art. 47;
+s) zatwierdza wiążące reguły korporacyjne na mocy [art. 47](#artykul-47);
 
 t) bierze udział w pracach Europejskiej Rady Ochrony Danych;
 
-u) prowadzi wewnętrzny rejestr naruszeń niniejszego rozporządzenia i działań podjętych zgodnie z art. 58 ust. 2; oraz
+u) prowadzi wewnętrzny rejestr naruszeń niniejszego rozporządzenia i działań podjętych zgodnie z [art. 58](#artykul-58) ust. 2; oraz
 
 v) wypełnia inne zadania związane z ochroną danych osobowych.
 
@@ -1690,7 +1819,7 @@ a) nakazanie administratorowi i podmiotowi przetwarzającemu, a w stosownym przy
 
 b) prowadzenie postępowań w formie audytów ochrony danych;
 
-c) dokonywanie przeglądu udzielonych certyfikacji na mocy art. 42 ust. 7;
+c) dokonywanie przeglądu udzielonych certyfikacji na mocy [art. 42](#artykul-42) ust. 7;
 
 d) zawiadamianie administratora lub podmiotu przetwarzającego o podejrzeniu naruszenia niniejszego rozporządzenia;
 
@@ -1712,51 +1841,51 @@ e) nakazanie administratorowi zawiadomienia osoby, której dane dotyczą, o naru
 
 f) wprowadzanie czasowego lub całkowitego ograniczenia przetwarzania, w tym zakazu przetwarzania;
 
-g) nakazanie na mocy art. 16, 17 i 18 sprostowania lub usunięcia danych osobowych lub ograniczenia ich przetwarzania oraz nakazanie na mocy art. 17 ust. 2 i art. 19 powiadomienia o tych czynnościach odbiorców, którym dane osobowe ujawniono;
+g) nakazanie na mocy [art. 16](#artykul-16), 17 i 18 sprostowania lub usunięcia danych osobowych lub ograniczenia ich przetwarzania oraz nakazanie na mocy [art. 17](#artykul-17) ust. 2 i [art. 19](#artykul-19) powiadomienia o tych czynnościach odbiorców, którym dane osobowe ujawniono;
 
-h) cofnięcie certyfikacji lub nakazanie podmiotowi certyfikującemu cofnięcia certyfikacji udzielonej na mocy art. 42 lub 43, lub nakazanie podmiotowi certyfikującemu nieudzielania certyfikacji, jeżeli jej wymogi nie są spełnione lub przestały być spełniane;
+h) cofnięcie certyfikacji lub nakazanie podmiotowi certyfikującemu cofnięcia certyfikacji udzielonej na mocy [art. 42](#artykul-42) lub 43, lub nakazanie podmiotowi certyfikującemu nieudzielania certyfikacji, jeżeli jej wymogi nie są spełnione lub przestały być spełniane;
 
-i) zastosowanie, oprócz lub zamiast środków, o których mowa w niniejszym ustępie, administracyjnej kary pieniężnej na mocy art. 83, zależnie od okoliczności konkretnej sprawy;
+i) zastosowanie, oprócz lub zamiast środków, o których mowa w niniejszym ustępie, administracyjnej kary pieniężnej na mocy [art. 83](#artykul-83), zależnie od okoliczności konkretnej sprawy;
 
 j) nakazanie zawieszenia przepływu danych do odbiorcy w państwie trzecim lub do organizacji międzynarodowej.
 
 3. Każdemu organowi nadzorczemu przysługują wszystkie następujące uprawnienia w zakresie wydawania zezwoleń i uprawnienia doradcze:
 
-a) udzielanie porad administratorowi zgodnie z procedurą uprzednich konsultacji, o której mowa w art. 36;
+a) udzielanie porad administratorowi zgodnie z procedurą uprzednich konsultacji, o której mowa w [art. 36](#artykul-36);
 
 b) wydawanie, z własnej inicjatywy lub na wniosek, opinii przeznaczonych dla parlamentu narodowego, rządu państwa członkowskiego lub – zgodnie z prawem państwa członkowskiego – innych instytucji i organów oraz ogółu społeczeństwa we wszelkich sprawach związanych z ochroną danych osobowych;
 
-c) zezwalanie na przetwarzanie zgodnie z art. 36 ust. 5, jeżeli prawo państwa członkowskiego wymaga takiego uprzedniego zezwolenia;
+c) zezwalanie na przetwarzanie zgodnie z [art. 36](#artykul-36) ust. 5, jeżeli prawo państwa członkowskiego wymaga takiego uprzedniego zezwolenia;
 
 d) opiniowanie i zatwierdzanie projektów kodeksów postępowania zgodnie z art. 40 ust. 5;
 
-e) akredytowanie na mocy art. 43 podmiotów certyfikujących;
+e) akredytowanie na mocy [art. 43](#artykul-43) podmiotów certyfikujących;
 
-f) udzielanie certyfikacji i zatwierdzanie kryteriów certyfikacji zgodnie z art. 42 ust. 5;
+f) udzielanie certyfikacji i zatwierdzanie kryteriów certyfikacji zgodnie z [art. 42](#artykul-42) ust. 5;
 
-g) przyjmowanie standardowych klauzul ochrony danych, o których mowa w art. 28 ust. 8 i art. 46 ust. 2 lit. d);
+g) przyjmowanie standardowych klauzul ochrony danych, o których mowa w [art. 28](#artykul-28) ust. 8 i [art. 46](#artykul-46) ust. 2 lit. d);
 
-h) zezwalanie na klauzule umowne, o których mowa w art. 46 ust. 3 lit. a);
+h) zezwalanie na klauzule umowne, o których mowa w [art. 46](#artykul-46) ust. 3 lit. a);
 
-i) zezwalanie na uzgodnienia administracyjne, o których mowa w art. 46 ust. 3 lit. b);
+i) zezwalanie na uzgodnienia administracyjne, o których mowa w [art. 46](#artykul-46) ust. 3 lit. b);
 
-j) zatwierdzanie wiążących reguł korporacyjnych na mocy art. 47.
+j) zatwierdzanie wiążących reguł korporacyjnych na mocy [art. 47](#artykul-47).
 
 4. Wykonywanie uprawnień powierzonych organowi nadzorczemu na mocy niniejszego artykułu podlega odpowiednim zabezpieczeniom – w tym prawu do skutecznego środka ochrony prawnej przed sądem i rzetelnego procesu, określonym w prawie Unii i prawie państwa członkowskiego zgodnie z Kartą praw podstawowych.
 
 5. Każde państwo członkowskie przewiduje w swoich przepisach, że jego organ nadzorczy jest uprawniony do wniesienia do organów wymiaru sprawiedliwości sprawy dotyczącej naruszenia niniejszego rozporządzenia oraz w stosownych przypadkach do wszczęcia lub do uczestniczenia w inny sposób w postępowaniu sądowym w celu wyegzekwowania stosowania przepisów niniejszego rozporządzenia.
 
-6. Każde państwo członkowskie może przewidzieć w swoich przepisach, że jego organowi nadzorczemu przysługują poza uprawnieniami określonymi w ust. 1, 2 i 3 także inne uprawnienia. Wykonywanie tych uprawnień nie może utrudniać skutecznego stosowania przepisów rozdziału VII.
+6. Każde państwo członkowskie może przewidzieć w swoich przepisach, że jego organowi nadzorczemu przysługują poza uprawnieniami określonymi w ust. 1, 2 i 3 także inne uprawnienia. Wykonywanie tych uprawnień nie może utrudniać skutecznego stosowania przepisów [rozdziału VII](#rozdzial-vii).
 
 <a id="artykul-59"></a>
 ### Artykuł 59. Sprawozdanie z działalności
 
-Każdy organ nadzorczy sporządza roczne sprawozdanie ze swojej działalności, w którym może wyszczególnić rodzaje zgłoszonych mu naruszeń i rodzaje środków podjętych zgodnie z art. 58 ust. 2. Sprawozdania te są przekazywane parlamentowi narodowemu, rządowi i innym organom wskazanym prawem państwa członkowskiego. Są one udostępniane opinii publicznej, Komisji oraz Europejskiej Radzie Ochrony Danych.
+Każdy organ nadzorczy sporządza roczne sprawozdanie ze swojej działalności, w którym może wyszczególnić rodzaje zgłoszonych mu naruszeń i rodzaje środków podjętych zgodnie z [art. 58](#artykul-58) ust. 2. Sprawozdania te są przekazywane parlamentowi narodowemu, rządowi i innym organom wskazanym prawem państwa członkowskiego. Są one udostępniane opinii publicznej, Komisji oraz Europejskiej Radzie Ochrony Danych.
 
 <a id="rozdzial-vii"></a>
 ### ROZDZIAŁ VII. Współpraca i spójność
 
-<a id="sekcja-1"></a>
+<a id="sekcja-1-3"></a>
 #### Sekcja 1. Współpraca
 
 <a id="artykul-60"></a>
@@ -1764,11 +1893,11 @@ Każdy organ nadzorczy sporządza roczne sprawozdanie ze swojej działalności, 
 
 1. Wiodący organ nadzorczy współpracuje z innymi organami nadzorczymi, których sprawa dotyczy, zgodnie z niniejszym artykułem w celu osiągnięcia porozumienia. Wiodący organ nadzorczy i organy nadzorcze, których sprawa dotyczy, wymieniają się wszelkimi stosownymi informacjami.
 
-2. Wiodący organ nadzorczy może w dowolnym momencie zwrócić się do innych organów nadzorczych, których sprawa dotyczy, o wzajemną pomoc zgodnie z art. 61 i może prowadzić wspólne operacje zgodnie z art. 62, w szczególności w celu przeprowadzenia postępowania lub monitorowania wdrażania środka dotyczącego administratora lub podmiotu przetwarzającego posiadającego jednostkę organizacyjną w innym państwie członkowskim.
+2. Wiodący organ nadzorczy może w dowolnym momencie zwrócić się do innych organów nadzorczych, których sprawa dotyczy, o wzajemną pomoc zgodnie z [art. 61](#artykul-61) i może prowadzić wspólne operacje zgodnie z [art. 62](#artykul-62), w szczególności w celu przeprowadzenia postępowania lub monitorowania wdrażania środka dotyczącego administratora lub podmiotu przetwarzającego posiadającego jednostkę organizacyjną w innym państwie członkowskim.
 
 3. Wiodący organ nadzorczy niezwłocznie przekazuje innym organom nadzorczym, których sprawa dotyczy, stosowne informacje dotyczące danej sprawy. Niezwłocznie przedkłada innym organom, których sprawa dotyczy, nadzorczym projekt decyzji w celu uzyskania ich opinii i należytego uwzględnienia ich uwag.
 
-4. Jeżeli w terminie czterech tygodni od otrzymania wniosku o opinię zgodnie z ust. 3 niniejszego artykułu inny organ nadzorczy, którego sprawa dotyczy, zgłosi mający znaczenie dla sprawy i uzasadniony sprzeciw wobec projektu decyzji, wiodący organ nadzorczy – jeżeli nie przychyla się do mającego znaczenie dla sprawy i uzasadnionego sprzeciwu lub sądzi, że sprzeciw nie ma znaczenia dla sprawy lub nie jest uzasadniony –przekazuje sprawę w ramach mechanizmu spójności, o którym mowa w art. 63.
+4. Jeżeli w terminie czterech tygodni od otrzymania wniosku o opinię zgodnie z ust. 3 niniejszego artykułu inny organ nadzorczy, którego sprawa dotyczy, zgłosi mający znaczenie dla sprawy i uzasadniony sprzeciw wobec projektu decyzji, wiodący organ nadzorczy – jeżeli nie przychyla się do mającego znaczenie dla sprawy i uzasadnionego sprzeciwu lub sądzi, że sprzeciw nie ma znaczenia dla sprawy lub nie jest uzasadniony –przekazuje sprawę w ramach mechanizmu spójności, o którym mowa w [art. 63](#artykul-63).
 
 5. Jeżeli wiodący organ nadzorczy zamierza przychylić się do zgłoszonego mającego znaczenie dla sprawy i uzasadnionego sprzeciwu, przedkłada innym organom nadzorczym, których sprawa dotyczy, zmieniony projekt decyzji w celu uzyskania ich opinii. Zmieniony projekt decyzji jest poddawany procedurze, o której mowa w ust. 4, w terminie dwóch tygodni.
 
@@ -1782,7 +1911,7 @@ Każdy organ nadzorczy sporządza roczne sprawozdanie ze swojej działalności, 
 
 10. Po doręczeniu administratorowi lub podmiotowi przetwarzającemu decyzji wiodącego organu nadzorczego zgodnie z ust. 7 i 9, podejmują oni niezbędne działania, by zastosować się do tej decyzji, jeżeli chodzi o czynności przetwarzania w ramach wszystkich swoich jednostek organizacyjnych w Unii. Administrator lub podmiot przetwarzający zawiadamiają wiodący organ nadzorczy o działaniach podjętych w celu zastosowania się do decyzji, ten zaś informuje o nich inne organy nadzorcze, których sprawa dotyczy.
 
-11. Jeżeli w wyjątkowych okolicznościach organ nadzorczy, którego sprawa dotyczy, ma powody sądzić, że istnieje pilna potrzeba podjęcia działań w celu ochrony interesów osób, których dane dotyczą, zastosowanie ma tryb pilny, o którym mowa w art. 66.
+11. Jeżeli w wyjątkowych okolicznościach organ nadzorczy, którego sprawa dotyczy, ma powody sądzić, że istnieje pilna potrzeba podjęcia działań w celu ochrony interesów osób, których dane dotyczą, zastosowanie ma tryb pilny, o którym mowa w [art. 66](#artykul-66).
 
 12. Wiodący organ nadzorczy i inne organy nadzorcze, których sprawa dotyczy, dostarczają sobie nawzajem informacji wymaganych na mocy niniejszego artykułu drogą elektroniczną w standardowym formacie.
 
@@ -1807,16 +1936,16 @@ b) wykonanie wniosku stanowiłoby naruszenie niniejszego rozporządzenia, prawa 
 
 7. Wezwane organy nadzorcze nie pobierają opłat za działania podejmowane w związku z wnioskiem o wzajemną pomoc. Organy nadzorcze mogą uzgodnić zasady dokonywania wzajemnego zwrotu konkretnych wydatków poniesionych w wyniku świadczenia wzajemnej pomocy w wyjątkowych okolicznościach.
 
-8. Jeżeli organ nadzorczy nie dostarczy informacji, o których mowa w ust. 5 niniejszego artykułu, w terminie miesiąca od otrzymania wniosku innego organu nadzorczego, wzywający organ nadzorczy może zastosować środek tymczasowy na terytorium swojego państwa członkowskiego zgodnie z art. 55 ust. 1. W takiej sytuacji uznaje się, że zgodnie z art. 66 ust. 1 zachodzi pilna potrzeba działania i że zgodnie z art. 66 ust. 2 wymagana jest pilna wiążąca decyzja Europejskiej Rady Ochrony Danych.
+8. Jeżeli organ nadzorczy nie dostarczy informacji, o których mowa w ust. 5 niniejszego artykułu, w terminie miesiąca od otrzymania wniosku innego organu nadzorczego, wzywający organ nadzorczy może zastosować środek tymczasowy na terytorium swojego państwa członkowskiego zgodnie z [art. 55](#artykul-55) ust. 1. W takiej sytuacji uznaje się, że zgodnie z [art. 66](#artykul-66) ust. 1 zachodzi pilna potrzeba działania i że zgodnie z [art. 66](#artykul-66) ust. 2 wymagana jest pilna wiążąca decyzja Europejskiej Rady Ochrony Danych.
 
-9. Komisja może w drodze aktów wykonawczych określić formułę i procedurę wzajemnej pomocy, o której mowa w niniejszym artykule, oraz zasady wymiany informacji drogą elektroniczną między organami nadzorczymi oraz między organami nadzorczymi a Europejską Radą Ochrony Danych, w szczególności standardowy format, o którym mowa w ust. 6 niniejszego artykułu. Akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 93 ust. 2.
+9. Komisja może w drodze aktów wykonawczych określić formułę i procedurę wzajemnej pomocy, o której mowa w niniejszym artykule, oraz zasady wymiany informacji drogą elektroniczną między organami nadzorczymi oraz między organami nadzorczymi a Europejską Radą Ochrony Danych, w szczególności standardowy format, o którym mowa w ust. 6 niniejszego artykułu. Akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w [art. 93](#artykul-93) ust. 2.
 
 <a id="artykul-62"></a>
 ### Artykuł 62. Wspólne operacje organów nadzorczych
 
 1. Organy nadzorcze prowadzą w stosownych przypadkach wspólne operacje, w tym wspólne postępowania i wspólne działania egzekucyjne, w których uczestniczą członkowie lub personel organów nadzorczych innych państw członkowskich.
 
-2. Jeżeli administrator lub podmiot przetwarzający posiadają jednostki organizacyjne w kilku państwach członkowskich lub jeżeli operacje przetwarzania mogą istotnie wpłynąć na znaczną liczbę osób, których dane dotyczą, w więcej niż jednym państwie członkowskim, organ nadzorczy każdego z tych państw członkowskich ma prawo uczestniczyć we wspólnych operacjach. Organ nadzorczy, który jest właściwy zgodnie z art. 56 ust. 1 lub 4 zaprasza organ nadzorczy każdego z tych państw członkowskich do uczestnictwa w danych wspólnych operacjach i niezwłocznie odpowiada na wniosek organu nadzorczego dotyczący uczestnictwa.
+2. Jeżeli administrator lub podmiot przetwarzający posiadają jednostki organizacyjne w kilku państwach członkowskich lub jeżeli operacje przetwarzania mogą istotnie wpłynąć na znaczną liczbę osób, których dane dotyczą, w więcej niż jednym państwie członkowskim, organ nadzorczy każdego z tych państw członkowskich ma prawo uczestniczyć we wspólnych operacjach. Organ nadzorczy, który jest właściwy zgodnie z [art. 56](#artykul-56) ust. 1 lub 4 zaprasza organ nadzorczy każdego z tych państw członkowskich do uczestnictwa w danych wspólnych operacjach i niezwłocznie odpowiada na wniosek organu nadzorczego dotyczący uczestnictwa.
 
 3. Organ nadzorczy może zgodnie z prawem państwa członkowskiego i za zgodą organu nadzorczego oddelegowującego pracownika przyznać uprawnienia, w tym uprawnienia do prowadzenia postępowań wyjaśniających, członkom lub personelowi organu nadzorczego oddelegowującego pracownika uczestniczącym we wspólnych operacjach lub – jeżeli zezwala na to prawo państwa członkowskiego przyjmującego organu nadzorczego – zezwolić członkom lub personelowi organu nadzorczego oddelegowującego pracownika na wykonywanie ich własnych uprawnień w zakresie prowadzenia postępowań wyjaśniających zgodnie z prawem państwa członkowskiego organu nadzorczego oddelegowującego pracownika. Uprawnienia takie mogą być wykonywane wyłącznie pod kierownictwem i w obecności członków lub personelu przyjmującego organu nadzorczego. Członkowie lub personel organu nadzorczego oddelegowującego pracownika podlegają prawu państwa członkowskiego przyjmującego organu nadzorczego.
 
@@ -1826,9 +1955,9 @@ b) wykonanie wniosku stanowiłoby naruszenie niniejszego rozporządzenia, prawa 
 
 6. Bez uszczerbku dla możliwości dochodzenia swoich praw wobec osób trzecich i z wyjątkiem ust. 5, każde państwo członkowskie powstrzymuje się w przypadku określonym w ust. 1 od żądania odszkodowania od innego państwa członkowskiego za szkody, o których mowa w ust. 4.
 
-7. Jeżeli planowana jest wspólna operacja, a organ nadzorczy nie wywiąże się w terminie miesiąca z obowiązku określonego w ust. 2 zdanie drugie niniejszego artykułu, pozostałe organy nadzorcze mogą przyjąć środek tymczasowy na terytorium swojego państwa członkowskiego zgodnie z art. 55. W takiej sytuacji uznaje się, że zgodnie z art. 66 ust. 1 zachodzi pilna potrzeba działania i że zgodnie z art. 66 ust. 2 wymagana jest pilna opinia lub pilna wiążąca decyzja Europejskiej Rady Ochrony Danych.
+7. Jeżeli planowana jest wspólna operacja, a organ nadzorczy nie wywiąże się w terminie miesiąca z obowiązku określonego w ust. 2 zdanie drugie niniejszego artykułu, pozostałe organy nadzorcze mogą przyjąć środek tymczasowy na terytorium swojego państwa członkowskiego zgodnie z [art. 55](#artykul-55). W takiej sytuacji uznaje się, że zgodnie z [art. 66](#artykul-66) ust. 1 zachodzi pilna potrzeba działania i że zgodnie z [art. 66](#artykul-66) ust. 2 wymagana jest pilna opinia lub pilna wiążąca decyzja Europejskiej Rady Ochrony Danych.
 
-<a id="sekcja-2"></a>
+<a id="sekcja-2-3"></a>
 #### Sekcja 2. Spójność
 
 <a id="artykul-63"></a>
@@ -1841,19 +1970,19 @@ Aby przyczynić się do spójnego stosowania niniejszego rozporządzenia w całe
 
 1. Europejska Rada Ochrony Danych wydaje opinię w przypadku, gdy właściwy organ nadzorczy zamierza przyjąć środek wymieniony poniżej. W tym celu właściwy organ nadzorczy zgłasza Europejskiej Radzie Ochrony Danych projekt decyzji dotyczącej:
 
-a) przyjęcia na mocy art. 35 ust. 4 wykazu operacji przetwarzania podlegających wymogowi dokonania oceny skutków dla ochrony danych;
+a) przyjęcia na mocy [art. 35](#artykul-35) ust. 4 wykazu operacji przetwarzania podlegających wymogowi dokonania oceny skutków dla ochrony danych;
 
 b) stwierdzenia zgodnie z art. 40 ust. 7, czy projekt kodeksu postępowania, zmiana kodeksu lub rozszerzenie jego zakresu są zgodne z niniejszym rozporządzeniem;
 
-c) zatwierdzenia kryteriów akredytacji podmiotu na mocy art. 41 ust. 3 lub podmiotu certyfikującego na mocy art. 43 ust. 3;
+c) zatwierdzenia kryteriów akredytacji podmiotu na mocy [art. 41](#artykul-41) ust. 3 lub podmiotu certyfikującego na mocy [art. 43](#artykul-43) ust. 3;
 
-d) określenia standardowych klauzul ochrony danych, o których mowa w art. 46 ust. 2 lit. d) i art. 28 ust. 8;
+d) określenia standardowych klauzul ochrony danych, o których mowa w [art. 46](#artykul-46) ust. 2 lit. d) i [art. 28](#artykul-28) ust. 8;
 
-e) wydania zezwolenia na klauzule umowne, o których mowa w art. 46 ust. 3; lub
+e) wydania zezwolenia na klauzule umowne, o których mowa w [art. 46](#artykul-46) ust. 3; lub
 
-f) zatwierdzenia wiążących reguł korporacyjnych w rozumieniu art. 47.
+f) zatwierdzenia wiążących reguł korporacyjnych w rozumieniu [art. 47](#artykul-47).
 
-2. Każdy organ nadzorczy, przewodniczący Europejskiej Rady Ochrony Danych lub Komisja mogą wystąpić o przeanalizowanie przez Europejską Radę Ochrony Danych w celu wydania opinii sprawy mającej charakter ogólny lub wywołującej skutki w więcej niż jednym państwie członkowskim, w szczególności jeżeli właściwy organ nadzorczy nie wywiązuje się z obowiązków dotyczących wzajemnej pomocy zgodnie z art. 61 lub wspólnych operacji zgodnie z art. 62.
+2. Każdy organ nadzorczy, przewodniczący Europejskiej Rady Ochrony Danych lub Komisja mogą wystąpić o przeanalizowanie przez Europejską Radę Ochrony Danych w celu wydania opinii sprawy mającej charakter ogólny lub wywołującej skutki w więcej niż jednym państwie członkowskim, w szczególności jeżeli właściwy organ nadzorczy nie wywiązuje się z obowiązków dotyczących wzajemnej pomocy zgodnie z [art. 61](#artykul-61) lub wspólnych operacji zgodnie z [art. 62](#artykul-62).
 
 3. W przypadkach, o których mowa w ust. 1 i 2, Europejska Rada Ochrony Danych wydaje opinię w przedłożonej jej sprawie, o ile wcześniej nie wydała już opinii w takiej samej sprawie. Europejska Rady Ochrony Danych przyjmuje tę opinię w terminie ośmiu tygodni zwykłą większością głosów swoich członków. Ze względu na złożony charakter sprawy termin ten można przedłużyć o sześć tygodni. Jeżeli chodzi o projekt decyzji, o którym mowa w ust. 1 i który został przekazany członkom Europejskiej Rady Ochrony Danych zgodnie z ust. 5, uznaje się, że członek, który w rozsądnym terminie wskazanym przez przewodniczącego nie zgłosił sprzeciwu, zgadza się z tym projektem.
 
@@ -1869,18 +1998,18 @@ b) organowi nadzorczemu, o którym zależnie od sytuacji mowa w ust. 1 i 2, oraz
 
 7. Organ nadzorczy, o którym mowa w ust. 1, w jak największym stopniu uwzględnia opinię Europejskiej Rady Ochrony Danych i w terminie dwóch tygodni po otrzymaniu tej opinii informuje drogą elektroniczną przewodniczącego Europejskiej Rady Ochrony Danych, czy podtrzymuje projekt decyzji, czy też go zmieni, a w stosownym przypadku przekazuje mu w standardowym formacie zmieniony projekt decyzji.
 
-8. Jeżeli w terminie, o którym mowa w ust. 7 niniejszego artykułu, organ nadzorczy, którego sprawa dotyczy, poinformuje przewodniczącego Europejskiej Rady Ochrony Danych, że nie zamierza się zastosować do całości lub części jej opinii podając odpowiednie uzasadnienie, zastosowanie ma art. 65 ust. 1.
+8. Jeżeli w terminie, o którym mowa w ust. 7 niniejszego artykułu, organ nadzorczy, którego sprawa dotyczy, poinformuje przewodniczącego Europejskiej Rady Ochrony Danych, że nie zamierza się zastosować do całości lub części jej opinii podając odpowiednie uzasadnienie, zastosowanie ma [art. 65](#artykul-65) ust. 1.
 
 <a id="artykul-65"></a>
 ### Artykuł 65. Rozstrzyganie sporów przez Europejską Radę Ochrony Danych
 
 1. Aby w poszczególnych sytuacjach zapewnić właściwe i spójne stosowanie niniejszego rozporządzenia, Europejska Rada Ochrony Danych przyjmuje w następujących przypadkach wiążące decyzje:
 
-a) jeżeli w przypadku, o którym mowa w art. 60 ust. 4, organ nadzorczy, którego sprawa dotyczy, zgłosił mający znaczenie dla sprawy i uzasadniony sprzeciw wobec projektu decyzji wiodącego organu nadzorczego, a wiodący organ nadzorczy odrzucił taki sprzeciw jako niemający znaczenia dla sprawy lub nieuzasadniony. Wiążąca decyzja dotyczy wszystkich spraw, które są przedmiotem mającego znaczenie dla sprawy i uzasadnionego sprzeciwu, w szczególności dotyczy tego, czy doszło do naruszenia niniejszego rozporządzenia;
+a) jeżeli w przypadku, o którym mowa w [art. 60](#artykul-60) ust. 4, organ nadzorczy, którego sprawa dotyczy, zgłosił mający znaczenie dla sprawy i uzasadniony sprzeciw wobec projektu decyzji wiodącego organu nadzorczego, a wiodący organ nadzorczy odrzucił taki sprzeciw jako niemający znaczenia dla sprawy lub nieuzasadniony. Wiążąca decyzja dotyczy wszystkich spraw, które są przedmiotem mającego znaczenie dla sprawy i uzasadnionego sprzeciwu, w szczególności dotyczy tego, czy doszło do naruszenia niniejszego rozporządzenia;
 
 b) jeżeli panują sprzeczne opinie co do tego, który z organów nadzorczych, których sprawa dotyczy, jest właściwy względem głównej jednostki organizacyjnej;
 
-c) jeżeli właściwy organ nadzorczy nie wystąpił o opinię do Europejskiej Rady Ochrony Danych w przypadkach, o których mowa w art. 64 ust. 1, lub nie zastosował się do opinii Europejskiej Rady Ochrony Danych wydanej zgodnie z art. 64. W takim przypadku organ nadzorczy, którego sprawa dotyczy, lub Komisja mogą zgłosić sprawę Europejskiej Radzie Ochrony Danych.
+c) jeżeli właściwy organ nadzorczy nie wystąpił o opinię do Europejskiej Rady Ochrony Danych w przypadkach, o których mowa w [art. 64](#artykul-64) ust. 1, lub nie zastosował się do opinii Europejskiej Rady Ochrony Danych wydanej zgodnie z [art. 64](#artykul-64). W takim przypadku organ nadzorczy, którego sprawa dotyczy, lub Komisja mogą zgłosić sprawę Europejskiej Radzie Ochrony Danych.
 
 2. Decyzję, o której mowa w ust. 1, Europejska Rada Ochrony Danych przyjmuje większością dwóch trzecich głosów swoich członków w terminie miesiąca od wpłynięcia sprawy. Ze względu na złożony charakter sprawy termin ten można przedłużyć o miesiąc. Decyzja, o której mowa w ust. 1, zostaje wraz z uzasadnieniem skierowana do wiodącego organu nadzorczego i wszystkich organów nadzorczych, których sprawa dotyczy, i jest dla nich wiążąca.
 
@@ -1890,27 +2019,27 @@ c) jeżeli właściwy organ nadzorczy nie wystąpił o opinię do Europejskiej R
 
 5. Przewodniczący Europejskiej Rady Ochrony Danych bez zbędnej zwłoki notyfikuje organom nadzorczym, których sprawa dotyczy, decyzję, o której mowa w ust. 1. Informuje o niej Komisję. Decyzja jest niezwłocznie publikowana na stronie internetowej Europejskiej Rady Ochrony Danych, po tym jak organ nadzorczy notyfikował ostateczną decyzję, o której mowa w ust. 6.
 
-6. Bez zbędnej zwłoki i najpóźniej w terminie miesiąca po notyfikowaniu przez Europejską Radę Ochrony Danych swojej decyzji, wiodący organ nadzorczy lub w stosownym przypadku organ nadzorczy, do którego wniesiono skargę, przyjmuje ostateczną decyzję na podstawie decyzji, o której mowa w ust. 1 niniejszego artykułu. Wiodący organ nadzorczy lub w stosownym przypadku organ nadzorczy, do którego wniesiono skargę, informuje Europejską Radę Ochrony Danych o terminie, w którym doręczono ostateczną decyzję odpowiednio administratorowi lub podmiotowi przetwarzającemu oraz osobie, której dane dotyczą. Ostateczna decyzja organów nadzorczych, których sprawa dotyczy, zostaje przyjęta w trybie art. 60 ust. 7, 8 i 9. Ostateczna decyzja zawiera informacje o decyzji, o której mowa w ust. 1 niniejszego artykułu, i wskazuje, że decyzja, o której mowa w tym ustępie, zostanie opublikowana na stronie internetowej Europejskiej Rady Ochrony Danych zgodnie z ust. 5 niniejszego artykułu. Do ostatecznej decyzji załączona zostaje decyzja, o której mowa w ust. 1 niniejszego artykułu.
+6. Bez zbędnej zwłoki i najpóźniej w terminie miesiąca po notyfikowaniu przez Europejską Radę Ochrony Danych swojej decyzji, wiodący organ nadzorczy lub w stosownym przypadku organ nadzorczy, do którego wniesiono skargę, przyjmuje ostateczną decyzję na podstawie decyzji, o której mowa w ust. 1 niniejszego artykułu. Wiodący organ nadzorczy lub w stosownym przypadku organ nadzorczy, do którego wniesiono skargę, informuje Europejską Radę Ochrony Danych o terminie, w którym doręczono ostateczną decyzję odpowiednio administratorowi lub podmiotowi przetwarzającemu oraz osobie, której dane dotyczą. Ostateczna decyzja organów nadzorczych, których sprawa dotyczy, zostaje przyjęta w trybie [art. 60](#artykul-60) ust. 7, 8 i 9. Ostateczna decyzja zawiera informacje o decyzji, o której mowa w ust. 1 niniejszego artykułu, i wskazuje, że decyzja, o której mowa w tym ustępie, zostanie opublikowana na stronie internetowej Europejskiej Rady Ochrony Danych zgodnie z ust. 5 niniejszego artykułu. Do ostatecznej decyzji załączona zostaje decyzja, o której mowa w ust. 1 niniejszego artykułu.
 
 <a id="artykul-66"></a>
 ### Artykuł 66. Tryb pilny
 
-1. W wyjątkowych okolicznościach, jeżeli organ nadzorczy, którego sprawa dotyczy, uzna, że istnieje pilna potrzeba podjęcia działań w celu ochrony praw i wolności osób, których dane dotyczą, może w drodze odstępstwa od mechanizmu spójności, o którym mowa w art. 63, 64 i 65, lub od procedury, o której mowa w art. 60, niezwłocznie przyjąć środki tymczasowe mające na terytorium jego państwa członkowskiego wywołać skutki prawne przez określony okres, nieprzekraczający trzech miesięcy. Organ nadzorczy niezwłocznie informuje o tych środkach i o powodach ich przyjęcia pozostałe organy nadzorcze, których sprawa dotyczy, Europejską Radę Ochrony Danych i Komisję.
+1. W wyjątkowych okolicznościach, jeżeli organ nadzorczy, którego sprawa dotyczy, uzna, że istnieje pilna potrzeba podjęcia działań w celu ochrony praw i wolności osób, których dane dotyczą, może w drodze odstępstwa od mechanizmu spójności, o którym mowa w [art. 63](#artykul-63), 64 i 65, lub od procedury, o której mowa w [art. 60](#artykul-60), niezwłocznie przyjąć środki tymczasowe mające na terytorium jego państwa członkowskiego wywołać skutki prawne przez określony okres, nieprzekraczający trzech miesięcy. Organ nadzorczy niezwłocznie informuje o tych środkach i o powodach ich przyjęcia pozostałe organy nadzorcze, których sprawa dotyczy, Europejską Radę Ochrony Danych i Komisję.
 
 2. Jeżeli organ nadzorczy zastosował środek na mocy ust. 1 i uznaje, że należy pilnie przyjąć środki o charakterze ostatecznym, może zwrócić się z wnioskiem o pilne wydanie opinii lub wiążącej decyzji do Europejskiej Rady Ochrony Danych, uzasadniając swój wniosek o taką opinię lub decyzję.
 
 3. Organ nadzorczy może zwrócić się do Europejskiej Rady Ochrony Danych z wnioskiem o pilne wydanie opinii lub w stosownym przypadku wiążącej decyzji, uzasadniając swój wniosek o taką opinię lub decyzję, w tym uzasadniając pilną potrzebę działań – jeżeli właściwy organ nadzorczy nie zastosował odpowiedniego środka w sytuacji, w której istnieje pilna potrzeba podjęcia działań w celu ochrony praw i wolności osób, których dane dotyczą.
 
-4. W drodze wyjątku od art. 64 ust. 3 i art. 65 ust. 2, Europejska Rada Ochrony Danych przyjmuje opinię lub wiążącą decyzję wydawane w trybie pilnym, o których mowa w ust. 2 i 3 niniejszego artykułu, w terminie dwóch tygodni zwykłą większością głosów swoich członków.
+4. W drodze wyjątku od [art. 64](#artykul-64) ust. 3 i [art. 65](#artykul-65) ust. 2, Europejska Rada Ochrony Danych przyjmuje opinię lub wiążącą decyzję wydawane w trybie pilnym, o których mowa w ust. 2 i 3 niniejszego artykułu, w terminie dwóch tygodni zwykłą większością głosów swoich członków.
 
 <a id="artykul-67"></a>
 ### Artykuł 67. Wymiana informacji
 
-Komisja może przyjmować akty wykonawcze o charakterze ogólnym, w celu określenia zasad wymiany informacji drogą elektroniczną między organami nadzorczymi oraz między organami nadzorczymi a Europejską Radą Ochrony Danych, w szczególności standardowy format, o którym mowa w art. 64.
+Komisja może przyjmować akty wykonawcze o charakterze ogólnym, w celu określenia zasad wymiany informacji drogą elektroniczną między organami nadzorczymi oraz między organami nadzorczymi a Europejską Radą Ochrony Danych, w szczególności standardowy format, o którym mowa w [art. 64](#artykul-64).
 
-Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 93 ust. 2.
+Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w [art. 93](#artykul-93) ust. 2.
 
-<a id="sekcja-3"></a>
+<a id="sekcja-3-2"></a>
 #### Sekcja 3. Europejska rada ochrony danych
 
 <a id="artykul-68"></a>
@@ -1926,59 +2055,59 @@ Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o które
 
 5. Komisja ma prawo do udziału w działaniach i posiedzeniach Europejskiej Rady Ochrony Danych, nie ma jednak prawa głosowania. Komisja wyznacza swojego przedstawiciela. Przewodniczący Europejskiej Rady Ochrony Danych informuje Komisję o działaniach Europejskiej Rady Ochrony Danych.
 
-6. W kwestiach, o których mowa w art. 65, Europejski Inspektor Ochrony Danych ma prawo głosowania wyłącznie względem decyzji co do zasad i przepisów, które mają zastosowanie do instytucji, organów i jednostek organizacyjnych Unii i merytorycznie odpowiadają przepisom niniejszego rozporządzenia.
+6. W kwestiach, o których mowa w [art. 65](#artykul-65), Europejski Inspektor Ochrony Danych ma prawo głosowania wyłącznie względem decyzji co do zasad i przepisów, które mają zastosowanie do instytucji, organów i jednostek organizacyjnych Unii i merytorycznie odpowiadają przepisom niniejszego rozporządzenia.
 
 <a id="artykul-69"></a>
 ### Artykuł 69. Niezależność
 
-1. W toku wypełniania swoich zadań lub wykonywania swoich uprawnień na mocy art. 70 i 71 Europejska Rada Ochrony Danych działa w sposób niezależny.
+1. W toku wypełniania swoich zadań lub wykonywania swoich uprawnień na mocy [art. 70](#artykul-70) i 71 Europejska Rada Ochrony Danych działa w sposób niezależny.
 
-2. Bez uszczerbku dla wniosków Komisji, o których mowa w art. 70 ust. 1 lit. b) i art. 70 ust. 2, Europejska Rada Ochrony Danych podczas wypełniania swoich zadań lub wykonywania swoich uprawnień nie zwraca się do nikogo o instrukcje ani ich od nikogo nie przyjmuje.
+2. Bez uszczerbku dla wniosków Komisji, o których mowa w [art. 70](#artykul-70) ust. 1 lit. b) i [art. 70](#artykul-70) ust. 2, Europejska Rada Ochrony Danych podczas wypełniania swoich zadań lub wykonywania swoich uprawnień nie zwraca się do nikogo o instrukcje ani ich od nikogo nie przyjmuje.
 
 <a id="artykul-70"></a>
 ### Artykuł 70. Zadania Europejskiej Rady Ochrony Danych
 
 1. Europejska Rada Ochrony Danych zapewnia spójne stosowanie niniejszego rozporządzenia. W tym celu z własnej inicjatywy lub w stosownych przypadkach na wniosek Komisji podejmuje w szczególności następujące działania:
 
-a) monitoruje i zapewnia właściwe stosowanie niniejszego rozporządzenia w przypadkach, o których mowa w art. 64 i 65, bez uszczerbku dla zadań krajowych organów nadzorczych;
+a) monitoruje i zapewnia właściwe stosowanie niniejszego rozporządzenia w przypadkach, o których mowa w [art. 64](#artykul-64) i 65, bez uszczerbku dla zadań krajowych organów nadzorczych;
 
 b) doradza Komisji w sprawach związanych z ochroną danych osobowych w Unii, w tym w sprawie wszelkich proponowanych zmian do niniejszego rozporządzenia;
 
 c) doradza Komisji w sprawie formatu i procedur wymiany informacji między administratorami, podmiotami przetwarzającymi i organami nadzorczymi do celów wiążących reguł korporacyjnych;
 
-d) wydaje wytyczne, zalecenia oraz określa najlepsze praktyki dotyczące usuwania z ogólnodostępnych usług łączności łącz do danych osobowych, kopi tych danych lub ich replikacji, o czym mowa w art. 17 ust. 2;
+d) wydaje wytyczne, zalecenia oraz określa najlepsze praktyki dotyczące usuwania z ogólnodostępnych usług łączności łącz do danych osobowych, kopi tych danych lub ich replikacji, o czym mowa w [art. 17](#artykul-17) ust. 2;
 
 e) z własnej inicjatywy lub na wniosek jednego ze swoich członków lub Komisji bada wszelkie kwestie dotyczące stosowania niniejszego rozporządzenia i wydaje wytyczne, zalecenia oraz określa najlepsze praktyki, by zachęcić do spójnego stosowania niniejszego rozporządzenia;
 
-f) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu, by na potrzeby art. 22 ust. 2 doprecyzować kryteria i wymogi dotyczące decyzji opartych na profilowaniu;
+f) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu, by na potrzeby [art. 22](#artykul-22) ust. 2 doprecyzować kryteria i wymogi dotyczące decyzji opartych na profilowaniu;
 
-g) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu dotyczące stwierdzania naruszenia ochrony danych osobowych i określenia zbędnej zwłoki w rozumieniu art. 33 ust. 1 i 2 oraz szczególnych okoliczności, w których administrator lub podmiot przetwarzający mają obowiązek zgłosić naruszenie ochrony danych osobowych;
+g) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu dotyczące stwierdzania naruszenia ochrony danych osobowych i określenia zbędnej zwłoki w rozumieniu [art. 33](#artykul-33) ust. 1 i 2 oraz szczególnych okoliczności, w których administrator lub podmiot przetwarzający mają obowiązek zgłosić naruszenie ochrony danych osobowych;
 
-h) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu wskazujące, w jakich okolicznościach naruszenie ochrony danych osobowych może powodować wysokie ryzyko naruszenia praw lub wolności osób fizycznych w rozumieniu art. 34 ust. 1;
+h) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu wskazujące, w jakich okolicznościach naruszenie ochrony danych osobowych może powodować wysokie ryzyko naruszenia praw lub wolności osób fizycznych w rozumieniu [art. 34](#artykul-34) ust. 1;
 
-i) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu, by doprecyzować kryteria i wymogi względem przekazywania danych osobowych, które opiera się na wiążących regułach korporacyjnych stosowanych przez administratorów i na wiążących regułach korporacyjnych stosowanych przez podmioty przetwarzające, oraz inne konieczne wymogi mające zapewnić ochronę danych osobowych osób, których dane dotyczą, zgodnie z art. 47;
+i) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu, by doprecyzować kryteria i wymogi względem przekazywania danych osobowych, które opiera się na wiążących regułach korporacyjnych stosowanych przez administratorów i na wiążących regułach korporacyjnych stosowanych przez podmioty przetwarzające, oraz inne konieczne wymogi mające zapewnić ochronę danych osobowych osób, których dane dotyczą, zgodnie z [art. 47](#artykul-47);
 
-j) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu, by doprecyzować kryteria i wymogi względem przekazywania danych osobowych na podstawie art. 49 ust. 1;
+j) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu, by doprecyzować kryteria i wymogi względem przekazywania danych osobowych na podstawie [art. 49](#artykul-49) ust. 1;
 
-k) opracowuje wytyczne dla organów nadzorczych w sprawie stosowania środków, o których mowa w art. 58 ust. 1, 2 i 3, oraz w sprawie określania wysokości administracyjnych kar pieniężnych zgodnie z art. 83;
+k) opracowuje wytyczne dla organów nadzorczych w sprawie stosowania środków, o których mowa w [art. 58](#artykul-58) ust. 1, 2 i 3, oraz w sprawie określania wysokości administracyjnych kar pieniężnych zgodnie z [art. 83](#artykul-83);
 
 l) dokonuje przeglądu praktycznego stosowania wytycznych, zaleceń i najlepszych praktyk, o których mowa w lit. e) i f);
 
-m) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu, by na potrzeby art. 54 ust. 2 określić wspólne procedury postępowania w przypadkach zgłaszania przez osoby fizyczne naruszeń niniejszego rozporządzenia;
+m) wydaje wytyczne, zalecenia i określa najlepsze praktyki zgodnie z lit. e) niniejszego ustępu, by na potrzeby [art. 54](#artykul-54) ust. 2 określić wspólne procedury postępowania w przypadkach zgłaszania przez osoby fizyczne naruszeń niniejszego rozporządzenia;
 
 n) zachęca do sporządzania kodeksów postępowania oraz do ustanawiania mechanizmów certyfikacji w dziedzinie ochrony danych oraz znaków jakości i oznaczeń w tej dziedzinie zgodnie z art. 40 i 42;
 
-o) akredytuje podmioty certyfikujące i dokonuje okresowego przeglądu certyfikacji zgodnie z art. 43 oraz prowadzi publiczny rejestr podmiotów akredytowanych zgodnie z art. 43 ust. 6 i administratorów i podmiotów przetwarzających akredytowanych zgodnie z art. 42 ust. 7, mających siedzibę w państwach trzecich;
+o) akredytuje podmioty certyfikujące i dokonuje okresowego przeglądu certyfikacji zgodnie z [art. 43](#artykul-43) oraz prowadzi publiczny rejestr podmiotów akredytowanych zgodnie z [art. 43](#artykul-43) ust. 6 i administratorów i podmiotów przetwarzających akredytowanych zgodnie z [art. 42](#artykul-42) ust. 7, mających siedzibę w państwach trzecich;
 
-p) precyzuje wymogi, o których mowa w art. 43 ust. 3, z myślą o akredytacji podmiotów certyfikujących zgodnie z art. 42;
+p) precyzuje wymogi, o których mowa w [art. 43](#artykul-43) ust. 3, z myślą o akredytacji podmiotów certyfikujących zgodnie z [art. 42](#artykul-42);
 
-q) udziela Komisji opinii w sprawie wymogów certyfikacyjnych, o których mowa w art. 43 ust. 8;
+q) udziela Komisji opinii w sprawie wymogów certyfikacyjnych, o których mowa w [art. 43](#artykul-43) ust. 8;
 
-r) udziela Komisji opinii w sprawie znaków graficznych, o których mowa w art. 12 ust. 7;
+r) udziela Komisji opinii w sprawie znaków graficznych, o których mowa w [art. 12](#artykul-12) ust. 7;
 
 s) udziela Komisji opinii na potrzeby oceny, czy stopień ochrony w państwie trzecim lub organizacji międzynarodowej jest odpowiedni, w tym na potrzeby oceny, czy państwo trzecie, terytorium, określony sektor lub określone sektory w tym państwie trzecim lub organizacja międzynarodowa nie przestały zapewniać odpowiedniego stopnia ochrony. W tym celu Komisja udostępnia Europejskiej Radzie Ochrony Danych wszelką niezbędną dokumentację, w tym korespondencję z rządem państwa trzeciego w odniesieniu do tego państwa trzeciego, terytorium lub określonego sektora lub korespondencję z organizacją międzynarodową;
 
-t) wydaje opinie w sprawie projektów decyzji zgłoszonych przez organy nadzorcze zgodnie z mechanizmem spójności, o którym mowa w art. 64 ust. 1, w sprawach przedłożonych jej zgodnie z art. 64 ust. 2 oraz wydaje wiążące decyzje zgodnie z art. 65, w tym w sprawach, o których mowa w art. 66;
+t) wydaje opinie w sprawie projektów decyzji zgłoszonych przez organy nadzorcze zgodnie z mechanizmem spójności, o którym mowa w [art. 64](#artykul-64) ust. 1, w sprawach przedłożonych jej zgodnie z [art. 64](#artykul-64) ust. 2 oraz wydaje wiążące decyzje zgodnie z [art. 65](#artykul-65), w tym w sprawach, o których mowa w [art. 66](#artykul-66);
 
 u) upowszechnia współpracę oraz skuteczną dwustronną i wielostronną wymianę informacji i dobrych praktyk między organami nadzorczymi;
 
@@ -1992,16 +2121,16 @@ y) prowadzi publicznie dostępny elektroniczny rejestr decyzji podjętych przez 
 
 2. Jeżeli Komisja zwraca się do Europejskiej Rady Ochrony Danych o konsultację, może zależnie od pilności sprawy wskazać termin udzielenia odpowiedzi.
 
-3. Europejska Rada Ochrony Danych przekazuje swoje opinie, wytyczne, zalecenia i najlepsze praktyki Komisji i komitetowi, o którym mowa w art. 93, oraz podaje je do wiadomości publicznej.
+3. Europejska Rada Ochrony Danych przekazuje swoje opinie, wytyczne, zalecenia i najlepsze praktyki Komisji i komitetowi, o którym mowa w [art. 93](#artykul-93), oraz podaje je do wiadomości publicznej.
 
-4. Europejska Rada Ochrony Danych konsultuje się w stosownych przypadkach ze stronami, których sprawa dotyczy, i daje im możliwość przestawienia uwag w rozsądnym terminie. Bez uszczerbku dla art. 76 Europejska Rada Ochrony Danych podaje wyniki procedury konsultacji do wiadomości publicznej.
+4. Europejska Rada Ochrony Danych konsultuje się w stosownych przypadkach ze stronami, których sprawa dotyczy, i daje im możliwość przestawienia uwag w rozsądnym terminie. Bez uszczerbku dla [art. 76](#artykul-76) Europejska Rada Ochrony Danych podaje wyniki procedury konsultacji do wiadomości publicznej.
 
 <a id="artykul-71"></a>
 ### Artykuł 71. Sprawozdania
 
 1. Europejska Rada Ochrony Danych sporządza roczne sprawozdanie na temat ochrony osób fizycznych w związku z przetwarzaniem danych w Unii, a w stosownym przypadku w państwach trzecich i organizacjach międzynarodowych. Sprawozdanie zostaje podane do wiadomości publicznej oraz przekazane Parlamentowi Europejskiemu, Radzie i Komisji.
 
-2. Sprawozdanie roczne obejmuje przegląd praktycznego stosowania wytycznych, zaleceń i najlepszych praktyk, o których mowa w art. 70 ust. 1 lit. l), oraz wiążących decyzji, o których mowa w art. 65.
+2. Sprawozdanie roczne obejmuje przegląd praktycznego stosowania wytycznych, zaleceń i najlepszych praktyk, o których mowa w [art. 70](#artykul-70) ust. 1 lit. l), oraz wiążących decyzji, o których mowa w [art. 65](#artykul-65).
 
 <a id="artykul-72"></a>
 ### Artykuł 72. Procedura
@@ -2024,9 +2153,9 @@ y) prowadzi publicznie dostępny elektroniczny rejestr decyzji podjętych przez 
 
 a) zwołuje posiedzenia Europejskiej Rady Ochrony Danych i sporządza porządek obrad;
 
-b) notyfikuje wiodącemu organowi nadzorczemu i organom nadzorczym, których sprawa dotyczy, decyzje przyjęte przez Europejską Radę Ochrony Danych na mocy art. 65;
+b) notyfikuje wiodącemu organowi nadzorczemu i organom nadzorczym, których sprawa dotyczy, decyzje przyjęte przez Europejską Radę Ochrony Danych na mocy [art. 65](#artykul-65);
 
-c) zapewnia terminowe wykonanie zadań Europejskiej Rady Ochrony Danych, w szczególności w odniesieniu do mechanizmu spójności, o którym mowa w art. 63.
+c) zapewnia terminowe wykonanie zadań Europejskiej Rady Ochrony Danych, w szczególności w odniesieniu do mechanizmu spójności, o którym mowa w [art. 63](#artykul-63).
 
 2. Europejska Rada Ochrony Danych określa w swoim regulaminie wewnętrznym podział zadań między przewodniczącego a wiceprzewodniczących.
 
@@ -2074,14 +2203,14 @@ g) przygotowywanie, redagowanie i publikowanie opinii, decyzji w sprawie rozstrz
 
 1. Bez uszczerbku dla innych administracyjnych lub środków ochrony prawnej przed sądem każda osoba, której dane dotyczą, ma prawo wnieść skargę do organu nadzorczego, w szczególności w państwie członkowskim swojego zwykłego pobytu, swojego miejsca pracy lub miejsca popełnienia domniemanego naruszenia, jeżeli sądzi, że przetwarzanie danych osobowych jej dotyczące narusza niniejsze rozporządzenie.
 
-2. Organ nadzorczy, do którego wniesiono skargę, informuje skarżącego o postępach i efektach rozpatrywania skargi, w tym o możliwości skorzystania z sądowego środka ochrony prawnej na mocy art. 78.
+2. Organ nadzorczy, do którego wniesiono skargę, informuje skarżącego o postępach i efektach rozpatrywania skargi, w tym o możliwości skorzystania z sądowego środka ochrony prawnej na mocy [art. 78](#artykul-78).
 
 <a id="artykul-78"></a>
 ### Artykuł 78. Prawo do skutecznego środka ochrony prawnej przed sądem przeciwko organowi nadzorczemu
 
 1. Bez uszczerbku dla innych administracyjnych lub pozasądowych środków ochrony prawnej każda osoba fizyczna lub prawna ma prawo do skutecznego środka ochrony prawnej przed sądem przeciwko prawnie wiążącej decyzji organu nadzorczego jej dotyczącej.
 
-2. Bez uszczerbku dla innych administracyjnych lub pozasądowych środków ochrony prawnej każda osoba, której dane dotyczą, ma prawo do skutecznego środka ochrony prawnej przed sądem, jeżeli organ nadzorczy właściwy zgodnie z art. 55 i 56 nie rozpatrzył skargi lub nie poinformował osoby, której dane dotyczą, w terminie trzech miesięcy o postępach lub efektach rozpatrywania skargi wniesionej zgodnie z art. 77.
+2. Bez uszczerbku dla innych administracyjnych lub pozasądowych środków ochrony prawnej każda osoba, której dane dotyczą, ma prawo do skutecznego środka ochrony prawnej przed sądem, jeżeli organ nadzorczy właściwy zgodnie z [art. 55](#artykul-55) i 56 nie rozpatrzył skargi lub nie poinformował osoby, której dane dotyczą, w terminie trzech miesięcy o postępach lub efektach rozpatrywania skargi wniesionej zgodnie z [art. 77](#artykul-77).
 
 3. Postępowanie przeciwko organowi nadzorczemu zostaje wszczęte przed sądem państwa członkowskiego, w którym organ nadzorczy ma siedzibę.
 
@@ -2090,16 +2219,16 @@ g) przygotowywanie, redagowanie i publikowanie opinii, decyzji w sprawie rozstrz
 <a id="artykul-79"></a>
 ### Artykuł 79. Prawo do skutecznego środka ochrony prawnej przed sądem przeciwko administratorowi lub podmiotowi przetwarzającemu
 
-1. Bez uszczerbku dla dostępnych administracyjnych lub pozasądowych środków ochrony prawnej, w tym prawa do wniesienia skargi do organu nadzorczego zgodnie z art. 77, każda osoba, której dane dotyczą, ma prawo do skutecznego środka ochrony prawnej przed sądem, jeżeli uzna ona, że prawa przysługujące jej na mocy niniejszego rozporządzenia zostały naruszone w wyniku przetwarzania jego danych osobowych z naruszeniem niniejszego rozporządzenia.
+1. Bez uszczerbku dla dostępnych administracyjnych lub pozasądowych środków ochrony prawnej, w tym prawa do wniesienia skargi do organu nadzorczego zgodnie z [art. 77](#artykul-77), każda osoba, której dane dotyczą, ma prawo do skutecznego środka ochrony prawnej przed sądem, jeżeli uzna ona, że prawa przysługujące jej na mocy niniejszego rozporządzenia zostały naruszone w wyniku przetwarzania jego danych osobowych z naruszeniem niniejszego rozporządzenia.
 
 2. Postępowanie przeciwko administratorowi lub podmiotowi przetwarzającemu wszczyna się przed sądem państwa członkowskiego, w którym administrator lub podmiot przetwarzający posiadają jednostkę organizacyjną. Ewentualnie postępowanie takie może zostać wszczęte przed sądem państwa członkowskiego, w którym osoba, której dane dotyczą, ma miejsce zwykłego pobytu, chyba że administrator lub podmiot przetwarzający są organami publicznymi państwa członkowskiego wykonującymi swoje uprawnienia publiczne.
 
 <a id="artykul-80"></a>
 ### Artykuł 80. Reprezentowanie osób, których dane dotyczą
 
-1. Osoba, której dane dotyczą, ma prawo umocować podmiot, organizację lub zrzeszenie – które nie mają charakteru zarobkowego, zostały należycie ustanowione zgodnie z prawem państwa członkowskiego, mają cele statutowe leżące w interesie publicznym i działają w dziedzinie ochrony praw i wolności osoób, których dane dotyczą, w związku z ochroną ich danych osobowych – do wniesienia w jej imieniu skargi oraz wykonywania w jej imieniu praw, o których mowa w art. 77, 78 i 79, oraz żądania w jej imieniu odszkodowania, o którym mowa w art. 82, jeżeli przewiduje to prawo państwa członkowskiego.
+1. Osoba, której dane dotyczą, ma prawo umocować podmiot, organizację lub zrzeszenie – które nie mają charakteru zarobkowego, zostały należycie ustanowione zgodnie z prawem państwa członkowskiego, mają cele statutowe leżące w interesie publicznym i działają w dziedzinie ochrony praw i wolności osoób, których dane dotyczą, w związku z ochroną ich danych osobowych – do wniesienia w jej imieniu skargi oraz wykonywania w jej imieniu praw, o których mowa w [art. 77](#artykul-77), 78 i 79, oraz żądania w jej imieniu odszkodowania, o którym mowa w [art. 82](#artykul-82), jeżeli przewiduje to prawo państwa członkowskiego.
 
-2. Państwa członkowskie mogą przewidzieć, że podmiot, organizacja lub zrzeszenie, o których mowa w ust. 1 niniejszego artykułu, mają – niezależnie od upoważnienia otrzymanego od osoby, której dane dotyczą – prawo wnieść w tym państwie członkowskim skargę do organu nadzorczego właściwego zgodnie z art. 77 oraz wykonać prawa, o których mowa w art. 78 i 79, jeżeli uznają, że w wyniku przetwarzania naruszone zostały prawa osoby, której dane dotyczą, wynikające z niniejszego rozporządzenia.
+2. Państwa członkowskie mogą przewidzieć, że podmiot, organizacja lub zrzeszenie, o których mowa w ust. 1 niniejszego artykułu, mają – niezależnie od upoważnienia otrzymanego od osoby, której dane dotyczą – prawo wnieść w tym państwie członkowskim skargę do organu nadzorczego właściwego zgodnie z [art. 77](#artykul-77) oraz wykonać prawa, o których mowa w [art. 78](#artykul-78) i 79, jeżeli uznają, że w wyniku przetwarzania naruszone zostały prawa osoby, której dane dotyczą, wynikające z niniejszego rozporządzenia.
 
 <a id="artykul-81"></a>
 ### Artykuł 81. Zawieszenie postępowania
@@ -2123,14 +2252,14 @@ g) przygotowywanie, redagowanie i publikowanie opinii, decyzji w sprawie rozstrz
 
 5. Administrator lub podmiot przetwarzający, który zgodnie z ust. 4 zapłacił odszkodowanie za całą wyrządzoną szkodę, ma prawo żądania od pozostałych administratorów lub podmiotów przetwarzających, którzy uczestniczyli w tym samym przetwarzaniu, zwrotu części odszkodowania odpowiadającej części szkody, za którą ponoszą odpowiedzialność, zgodnie z warunkami określonymi w ust. 2.
 
-6. Postępowanie sądowe dotyczące odszkodowania jest wszczynane przed sądem właściwym na mocy prawa państwa członkowskiego, o którym mowa w art. 79 ust. 2.
+6. Postępowanie sądowe dotyczące odszkodowania jest wszczynane przed sądem właściwym na mocy prawa państwa członkowskiego, o którym mowa w [art. 79](#artykul-79) ust. 2.
 
 <a id="artykul-83"></a>
 ### Artykuł 83. Ogólne warunki nakładania administracyjnych kar pieniężnych
 
 1. Każdy organ nadzorczy zapewnia, by stosowane na mocy niniejszego artykułu za naruszenia niniejszego rozporządzenia administracyjne kary pieniężne, o których mowa w ust. 4, 5 i 6, były w każdym indywidualnym przypadku skuteczne, proporcjonalne i odstraszające.
 
-2. Administracyjne kary pieniężne nakłada się, zależnie od okoliczności każdego indywidualnego przypadku, oprócz lub zamiast środków, o których mowa w art. 58 ust. 2 lit. a)–h) oraz j). Decydując, czy nałożyć administracyjną karę pieniężną, oraz ustalając jej wysokość, zwraca się w każdym indywidualnym przypadku należytą uwagę na:
+2. Administracyjne kary pieniężne nakłada się, zależnie od okoliczności każdego indywidualnego przypadku, oprócz lub zamiast środków, o których mowa w [art. 58](#artykul-58) ust. 2 lit. a)–h) oraz j). Decydując, czy nałożyć administracyjną karę pieniężną, oraz ustalając jej wysokość, zwraca się w każdym indywidualnym przypadku należytą uwagę na:
 
 a) charakter, wagę i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu lub celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą, oraz rozmiaru poniesionej przez nie szkody;
 
@@ -2138,7 +2267,7 @@ b) umyślny lub nieumyślny charakter naruszenia;
 
 c) działania podjęte przez administratora lub podmiot przetwarzający w celu zminimalizowania szkody poniesionej przez osoby, których dane dotyczą;
 
-d) stopień odpowiedzialności administratora lub podmiotu przetwarzającego z uwzględnieniem środków technicznych i organizacyjnych wdrożonych przez nich na mocy art. 25 i 32;
+d) stopień odpowiedzialności administratora lub podmiotu przetwarzającego z uwzględnieniem środków technicznych i organizacyjnych wdrożonych przez nich na mocy [art. 25](#artykul-25) i 32;
 
 e) wszelkie stosowne wcześniejsze naruszenia ze strony administratora lub podmiotu przetwarzającego;
 
@@ -2148,7 +2277,7 @@ g) kategorie danych osobowych, których dotyczyło naruszenie;
 
 h) sposób, w jaki organ nadzorczy dowiedział się o naruszeniu, w szczególności, czy i w jakim zakresie administrator lub podmiot przetwarzający zgłosili naruszenie;
 
-i) jeżeli wobec administratora lub podmiotu przetwarzającego, których sprawa dotyczy, zostały wcześniej zastosowane w tej samej sprawie środki, o których mowa w art. 58 ust. 2 – przestrzeganie tych środków;
+i) jeżeli wobec administratora lub podmiotu przetwarzającego, których sprawa dotyczy, zostały wcześniej zastosowane w tej samej sprawie środki, o których mowa w [art. 58](#artykul-58) ust. 2 – przestrzeganie tych środków;
 
 j) stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 lub zatwierdzonych mechanizmów certyfikacji na mocy art. 42; oraz
 
@@ -2158,36 +2287,36 @@ k) wszelkie inne obciążające lub łagodzące czynniki mające zastosowanie do
 
 4. Naruszenia przepisów dotyczących następujących kwesti podlegają zgodnie z ust. 2 administracyjnej karze pieniężnej w wysokości do 10 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 2 % jego całkowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym zastosowanie ma kwota wyższa:
 
-a) obowiązków administratora i podmiotu przetwarzającego, o których mowa w art. 8, 11, 25 –39 oraz 42 i 43;
+a) obowiązków administratora i podmiotu przetwarzającego, o których mowa w [art. 8](#artykul-8), 11, 25 –39 oraz 42 i 43;
 
-b) obowiązków podmiotu certyfikującego, o których mowa w art. 42 oraz 43;
+b) obowiązków podmiotu certyfikującego, o których mowa w [art. 42](#artykul-42) oraz 43;
 
-c) obowiązków podmiotu monitorującego, o których mowa w art. 41 ust. 4;
+c) obowiązków podmiotu monitorującego, o których mowa w [art. 41](#artykul-41) ust. 4;
 
 5. Naruszenia przepisów dotyczących następujących kwestii podlegają zgodnie z ust. 2 administracyjnej karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 4 % jego całkowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym zastosowanie ma kwota wyższa:
 
-a) podstawowych zasad przetwarzania, w tym warunków zgody, o których to zasadach i warunkach mowa w art. 5, 6, 7 oraz 9;
+a) podstawowych zasad przetwarzania, w tym warunków zgody, o których to zasadach i warunkach mowa w [art. 5](#artykul-5), 6, 7 oraz 9;
 
-b) praw osób, których dane dotyczą, o których mowa w art. 12–22;
+b) praw osób, których dane dotyczą, o których mowa w [art. 12](#artykul-12)–22;
 
-c) przekazywania danych osobowych odbiorcy w państwie trzecim lub organizacji międzynarodowej, o którym to przekazywaniu mowa w art. 44–49;
+c) przekazywania danych osobowych odbiorcy w państwie trzecim lub organizacji międzynarodowej, o którym to przekazywaniu mowa w [art. 44](#artykul-44)–49;
 
-d) wszelkich obowiązków wynikających z prawa państwa członkowskiego przyjętego na podstawie rozdziału IX;
+d) wszelkich obowiązków wynikających z prawa państwa członkowskiego przyjętego na podstawie [rozdziału IX](#rozdzial-ix);
 
-e) nieprzestrzegania nakazu, tymczasowego lub ostatecznego ograniczenia przetwarzania lub zawieszenia przepływu danych orzeczonego przez organ nadzorczy na podstawie art. 58 ust. 2 lub niezapewnienia dostępu skutkującego naruszeniem art. 58 ust. 1.
+e) nieprzestrzegania nakazu, tymczasowego lub ostatecznego ograniczenia przetwarzania lub zawieszenia przepływu danych orzeczonego przez organ nadzorczy na podstawie [art. 58](#artykul-58) ust. 2 lub niezapewnienia dostępu skutkującego naruszeniem [art. 58](#artykul-58) ust. 1.
 
-6. Nieprzestrzeganie nakazu orzeczonego przez organ nadzorczy na podstawie art. 58 ust. 2 podlega na mocy ust. 2 niniejszego artykułu administracyjnej karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 4 % jego całkowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym zastosowanie ma kwota wyższa.
+6. Nieprzestrzeganie nakazu orzeczonego przez organ nadzorczy na podstawie [art. 58](#artykul-58) ust. 2 podlega na mocy ust. 2 niniejszego artykułu administracyjnej karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 4 % jego całkowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym zastosowanie ma kwota wyższa.
 
 7. Bez uszczerbku dla uprawnień naprawczych organu nadzorczego, o których mowa w ust. 58 ust. 2, każde państwo członkowskie może określić, czy i w jakim zakresie administracyjne kary pieniężne można nakładać na organy i podmioty publiczne ustanowione w tym państwie członkowskim.
 
 8. Wykonywanie przez organ nadzorczy uprawnień powierzonych mu na mocy niniejszego artykułu podlega odpowiednim zabezpieczeniom proceduralnym zgodnie z prawem Unii i prawem państwa członkowskiego, obejmującym prawo do skutecznego sądowego środka ochrony prawnej i rzetelnego procesu.
 
-9. Jeżeli ustrój prawny państwa członkowskiego nie przewiduje administracyjnych kar pieniężnych, niniejszy artykuł można stosować w ten sposób, że o zastosowanie kary pieniężnej wnosi właściwy organ nadzorczy, a nakłada ją właściwy sąd krajowy, o ile zapewniona zostaje skuteczność tych rozwiązań prawnych i równoważność ich skutku względem administracyjnej kary pieniężnej nakładanej przez organ nadzorczy. Nakładane kary pieniężne muszą być w każdym przypadku skuteczne, proporcjonalne i odstraszające. W terminie określonym w art. 91 ust. 2 takie państwa członkowskie zawiadamiają Komisję o przepisach swojego prawa, które przyjęły zgodnie z niniejszym ustępem do dnia 25 maja 2018 r., a następnie niezwłocznie o wszelkich późniejszych aktach zmieniających lub zmianach mających wpływ na te przepisy.
+9. Jeżeli ustrój prawny państwa członkowskiego nie przewiduje administracyjnych kar pieniężnych, niniejszy artykuł można stosować w ten sposób, że o zastosowanie kary pieniężnej wnosi właściwy organ nadzorczy, a nakłada ją właściwy sąd krajowy, o ile zapewniona zostaje skuteczność tych rozwiązań prawnych i równoważność ich skutku względem administracyjnej kary pieniężnej nakładanej przez organ nadzorczy. Nakładane kary pieniężne muszą być w każdym przypadku skuteczne, proporcjonalne i odstraszające. W terminie określonym w [art. 91](#artykul-91) ust. 2 takie państwa członkowskie zawiadamiają Komisję o przepisach swojego prawa, które przyjęły zgodnie z niniejszym ustępem do dnia 25 maja 2018 r., a następnie niezwłocznie o wszelkich późniejszych aktach zmieniających lub zmianach mających wpływ na te przepisy.
 
 <a id="artykul-84"></a>
 ### Artykuł 84. Sankcje
 
-1. Państwa członkowskie przyjmują przepisy określające inne sankcje za naruszenia niniejszego rozporządzenia, w szczególności za naruszenia niepodlegające administracyjnym karom pieniężnym na mocy art. 83, oraz podejmują wszelkie środki niezbędne do ich wykonania. Sankcje te muszą być skuteczne, proporcjonalne i odstraszające.
+1. Państwa członkowskie przyjmują przepisy określające inne sankcje za naruszenia niniejszego rozporządzenia, w szczególności za naruszenia niepodlegające administracyjnym karom pieniężnym na mocy [art. 83](#artykul-83), oraz podejmują wszelkie środki niezbędne do ich wykonania. Sankcje te muszą być skuteczne, proporcjonalne i odstraszające.
 
 2. Do dnia 25 maja 2018 r. każde państwo członkowskie zawiadamia Komisję o swoich przepisach przyjętych zgodnie z ust. 1, a następnie niezwłocznie o każdej późniejszej ich zmianie.
 
@@ -2199,7 +2328,7 @@ e) nieprzestrzegania nakazu, tymczasowego lub ostatecznego ograniczenia przetwar
 
 1. Państwa członkowskie przyjmują przepisy pozwalające pogodzić prawo do ochrony danych osobowych na mocy niniejszego rozporządzenia z wolnością wypowiedzi i informacji, w tym do przetwarzania dla potrzeb dziennikarskich oraz do celów wypowiedzi akademickiej, artystycznej lub literackiej.
 
-2. Dla przetwarzania do celów dziennikarskich lub do celów wypowiedzi akademickiej, artystycznej lub literackiej państwa członkowskie określają odstępstwa lub wyjątki od rozdziału II (Zasady), rozdziału III (Prawa osoby, której dane dotyczą), rozdziału IV (Administrator i podmiot przetwarzający), rozdziału V (Przekazywanie danych osobowych do państw trzecich lub organizacji międzynarodowych), rozdziału VI (Niezależne organy nadzorcze), rozdziału VII (Współpraca i spójność) oraz rozdziału IX (Szczególne sytuacje związane z przetwarzaniem danych), jeżeli są one niezbędne, by pogodzić prawo do ochrony danych osobowych z wolnością wypowiedzi i informacji.
+2. Dla przetwarzania do celów dziennikarskich lub do celów wypowiedzi akademickiej, artystycznej lub literackiej państwa członkowskie określają odstępstwa lub wyjątki od [rozdziału II](#rozdzial-ii) (Zasady), [rozdziału III](#rozdzial-iii) (Prawa osoby, której dane dotyczą), [rozdziału IV](#rozdzial-iv) (Administrator i podmiot przetwarzający), [rozdziału V](#rozdzial-v) (Przekazywanie danych osobowych do państw trzecich lub organizacji międzynarodowych), [rozdziału VI](#rozdzial-vi) (Niezależne organy nadzorcze), [rozdziału VII](#rozdzial-vii) (Współpraca i spójność) oraz [rozdziału IX](#rozdzial-ix) (Szczególne sytuacje związane z przetwarzaniem danych), jeżeli są one niezbędne, by pogodzić prawo do ochrony danych osobowych z wolnością wypowiedzi i informacji.
 
 3. Każde państwo członkowskie zawiadamia Komisję o przepisach, które przyjęło zgodnie z ust. 2, a następnie niezwłocznie o wszelkich późniejszych aktach zmieniających lub zmianach ich dotyczących.
 
@@ -2227,16 +2356,16 @@ Państwa członkowskie mogą określić szczególne warunki przetwarzania krajow
 
 1. Przetwarzanie do celów archiwalnych w interesie publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych podlega odpowiednim zabezpieczeniom dla praw i wolności osoby, której dane dotyczą, zgodnie z niniejszym rozporządzeniem. Zabezpieczenia te polegają na wdrożeniu środków technicznych i organizacyjnych zapewniających poszanowanie zasady minimalizacji danych. Środki te mogą też obejmować pseudonimizację danych, o ile pozwala ona realizować powyższe cele. Jeżeli cele te można zrealizować w drodze dalszego przetwarzania danych, które nie pozwalają albo przestały pozwalać na zidentyfikować osoby, której dane dotyczą, cele należy realizować w ten sposób.
 
-2. W przypadku przetwarzania danych osobowych do celów badań naukowych lub historycznych lub do celów statystycznych prawo Unii lub prawo państwa członkowskiego mogą przewidzieć wyjątki od praw, o których mowa w art. 15, 16, 18 i 21, z zastrzeżeniem warunków i zabezpieczeń, o których mowa w ust. 1 niniejszego artykułu, jeżeli jest prawdopodobne, że prawa te uniemożliwią lub poważnie utrudnią realizację wspomnianych konkretnych celów, i jeżeli wyjątki takie są konieczne do realizacji tych celów.
+2. W przypadku przetwarzania danych osobowych do celów badań naukowych lub historycznych lub do celów statystycznych prawo Unii lub prawo państwa członkowskiego mogą przewidzieć wyjątki od praw, o których mowa w [art. 15](#artykul-15), 16, 18 i 21, z zastrzeżeniem warunków i zabezpieczeń, o których mowa w ust. 1 niniejszego artykułu, jeżeli jest prawdopodobne, że prawa te uniemożliwią lub poważnie utrudnią realizację wspomnianych konkretnych celów, i jeżeli wyjątki takie są konieczne do realizacji tych celów.
 
-3. W przypadku przetwarzania danych osobowych do celów archiwalnych w interesie publicznym prawo Unii lub prawo państwa członkowskiego mogą przewidzieć wyjątki od praw, o których mowa w art. 15, 16, 18, 19, 20 i 21, z zastrzeżeniem warunków i zabezpieczeń, o których mowa w ust. 1 niniejszego artykułu, jeżeli jest prawdopodobne, że prawa te uniemożliwią lub poważnie utrudnią realizację wspomnianych konkretnych celów, i jeżeli wyjątki takie są konieczne do realizacji tych celów.
+3. W przypadku przetwarzania danych osobowych do celów archiwalnych w interesie publicznym prawo Unii lub prawo państwa członkowskiego mogą przewidzieć wyjątki od praw, o których mowa w [art. 15](#artykul-15), 16, 18, 19, 20 i 21, z zastrzeżeniem warunków i zabezpieczeń, o których mowa w ust. 1 niniejszego artykułu, jeżeli jest prawdopodobne, że prawa te uniemożliwią lub poważnie utrudnią realizację wspomnianych konkretnych celów, i jeżeli wyjątki takie są konieczne do realizacji tych celów.
 
 4. Jeżeli przetwarzanie, o którym mowa w ust. 2 i 3, służy równocześnie innemu celowi, wspomniane wyjątki mają zastosowanie wyłącznie do przetwarzania w celach, o których mowa w tych ustępach.
 
 <a id="artykul-90"></a>
 ### Artykuł 90. Obowiązek zachowania tajemnicy
 
-1. Państwa członkowskie mogą przyjąć przepisy szczególne określające uprawnienia organów nadzorczych ustanowione w art. 58 ust. 1 lit. e) i f) wobec administratorów lub podmiotów przetwarzających, którzy podlegają – na mocy prawa Unii lub prawa państwa członkowskiego lub przepisów ustanowionych przez właściwe organy krajowe – obowiązkowi zachowania tajemnicy zawodowej lub innym równoważnym obowiązkom zachowania tajemnicy, jeżeli jest to niezbędne i proporcjonalne w celu pogodzenia prawa do ochrony danych osobowych z obowiązkiem zachowania tajemnicy. Przepisy te mają zastosowanie wyłącznie do danych osobowych, które administrator lub podmiot przetwarzający otrzymali lub pozyskali w wyniku lub w ramach działania objętego tym obowiązkiem zachowania tajemnicy.
+1. Państwa członkowskie mogą przyjąć przepisy szczególne określające uprawnienia organów nadzorczych ustanowione w [art. 58](#artykul-58) ust. 1 lit. e) i f) wobec administratorów lub podmiotów przetwarzających, którzy podlegają – na mocy prawa Unii lub prawa państwa członkowskiego lub przepisów ustanowionych przez właściwe organy krajowe – obowiązkowi zachowania tajemnicy zawodowej lub innym równoważnym obowiązkom zachowania tajemnicy, jeżeli jest to niezbędne i proporcjonalne w celu pogodzenia prawa do ochrony danych osobowych z obowiązkiem zachowania tajemnicy. Przepisy te mają zastosowanie wyłącznie do danych osobowych, które administrator lub podmiot przetwarzający otrzymali lub pozyskali w wyniku lub w ramach działania objętego tym obowiązkiem zachowania tajemnicy.
 
 2. Do dnia 25 maja 2018 r. każde państwo członkowskie zawiadamia Komisję o swoich przepisach uchwalonych na mocy ust. 1, a następnie niezwłocznie o każdej dotyczącej ich późniejszej zmianie.
 
@@ -2255,13 +2384,13 @@ Państwa członkowskie mogą określić szczególne warunki przetwarzania krajow
 
 1. Powierzenie Komisji uprawnień do przyjęcia aktów delegowanych podlega warunkom określonym w niniejszym artykule.
 
-2. Uprawnienia do przyjmowania aktów delegowanych, o których mowa w art. 12 ust. 8 i art. 43 ust. 8, powierza się Komisji na czas nieokreślony od dnia 24 maja 2016 r.
+2. Uprawnienia do przyjmowania aktów delegowanych, o których mowa w [art. 12](#artykul-12) ust. 8 i [art. 43](#artykul-43) ust. 8, powierza się Komisji na czas nieokreślony od dnia 24 maja 2016 r.
 
-3. Przekazanie uprawnień, o którym mowa w art. 12. ust. 8 i art. 43 ust. 8, może zostać w dowolnym momencie odwołane przez Parlament Europejski lub przez Radę. Decyzja o odwołaniu kończy przekazanie określonych w niej uprawnień. Decyzja o odwołaniu staje się skuteczna od następnego dnia po jej opublikowaniu w Dzienniku Urzędowym Unii Europejskiej lub w określonym w tej decyzji późniejszym terminie. Nie wpływa ona na ważność jakichkolwiek już obowiązujących aktów delegowanych.
+3. Przekazanie uprawnień, o którym mowa w [art. 12](#artykul-12). ust. 8 i [art. 43](#artykul-43) ust. 8, może zostać w dowolnym momencie odwołane przez Parlament Europejski lub przez Radę. Decyzja o odwołaniu kończy przekazanie określonych w niej uprawnień. Decyzja o odwołaniu staje się skuteczna od następnego dnia po jej opublikowaniu w Dzienniku Urzędowym Unii Europejskiej lub w określonym w tej decyzji późniejszym terminie. Nie wpływa ona na ważność jakichkolwiek już obowiązujących aktów delegowanych.
 
 4. Niezwłocznie po przyjęciu aktu delegowanego Komisja przekazuje go równocześnie Parlamentowi Europejskiemu i Radzie.
 
-5. Akt delegowany przyjęty na podstawie art. 12 ust. 8 i art. 43 ust. 8 wchodzi w życie tylko wówczas, gdy ani Parlament Europejski, ani Rada nie wyraziły sprzeciwu w terminie trzech miesięcy od przekazania tego aktu Parlamentowi Europejskiemu i Radzie, lub gdy, przed upływem tego terminu, zarówno Parlament Europejski, jak i Rada poinformowały Komisję, że nie wniosą sprzeciwu. Termin ten przedłuża się o trzy miesiące z inicjatywy Parlamentu Europejskiego lub Rady..
+5. Akt delegowany przyjęty na podstawie [art. 12](#artykul-12) ust. 8 i [art. 43](#artykul-43) ust. 8 wchodzi w życie tylko wówczas, gdy ani Parlament Europejski, ani Rada nie wyraziły sprzeciwu w terminie trzech miesięcy od przekazania tego aktu Parlamentowi Europejskiemu i Radzie, lub gdy, przed upływem tego terminu, zarówno Parlament Europejski, jak i Rada poinformowały Komisję, że nie wniosą sprzeciwu. Termin ten przedłuża się o trzy miesiące z inicjatywy Parlamentu Europejskiego lub Rady..
 
 <a id="artykul-93"></a>
 ### Artykuł 93. Procedura komitetowa
@@ -2299,9 +2428,9 @@ Umowy międzynarodowe, które przewidują przekazywanie danych osobowych do pań
 
 2. W ramach tych ocen Komisja analizuje i dokonuje przeglądu, o którym mowa w ust. 1, w szczególności stosowania i funkcjonowania przepisów:
 
-a) rozdziału V dotyczącego przekazywania danych osobowych do państw trzecich lub organizacji międzynarodowych ze szczególnym uwzględnieniem decyzji przyjętych na mocy art. 45 ust. 3 niniejszego rozporządzenia oraz decyzji przyjętych na podstawie art. 25 ust. 6 dyrektywy 95/46/WE;
+a) [rozdziału V](#rozdzial-v) dotyczącego przekazywania danych osobowych do państw trzecich lub organizacji międzynarodowych ze szczególnym uwzględnieniem decyzji przyjętych na mocy art. 45 ust. 3 niniejszego rozporządzenia oraz decyzji przyjętych na podstawie art. 25 ust. 6 dyrektywy 95/46/WE;
 
-b) rozdziału VII dotyczącego współpracy i spójności.
+b) [rozdziału VII](#rozdzial-vii) dotyczącego współpracy i spójności.
 
 3. Na potrzeby ust. 1, Komisja może wystąpić do państw członkowskich i organów nadzorczych o udzielenie informacji.
 

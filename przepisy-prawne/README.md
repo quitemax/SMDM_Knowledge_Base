@@ -466,3 +466,52 @@ bywają cytowane numerem rok/pozycja zamiast polskiej daty — „rozporządzeni
 2016/679` w `ustawa-o-ochronie-przeciwpozarowej`, które bez tej reguły linkowały błędnie do
 własnych Art. 15/30. Sprawdzone na wszystkich 14 wcześniej zatwierdzonych plikach — wzorzec
 nigdzie indziej nie występuje.
+
+Od tego miejsca (batch 7+) przetwarzanie idzie bez przerw seriami po 3, na wyraźną prośbę —
+całość pozostałych plików robiona jest hurtowo, z tym samym rygorem audytu co dotychczas
+(dry-run → sprawdzenie martwych linków/duplikatów kotwic → dwukierunkowy audyt fałszywych
+trafień → pełna regresja na wszystkich wcześniej zatwierdzonych plikach → dopiero
+zastosowanie), ale bez zatrzymywania się na przegląd po każdej trójce.
+
+**RODO (`rodo-rozporzadzenie-2016-679`) wymagało dwóch realnych poprawek w
+`toc_and_links.py`:**
+- RODO używa innej terminologii niż akty ISAP: „Artykuł N” zamiast „Art. N”, „Sekcja N”
+  zamiast „Oddział N” (ROZDZIAŁY numerowane rzymsko, wielką literą) — dodane do
+  `UNIT_PATTERNS`. Treść odwołań w tekście nadal używa skróconego „art. N”, więc `REF_RE`
+  nie wymagał zmiany.
+- RODO ma już własne kotwice `<a id="sekcja-N">` (z jednorazowego skryptu konwertującego,
+  poza pipeline'em `html_to_md.py` — inny prefiks niż zwykle, `artykul-N`/`rozdzial-N` rzymskie/
+  `sekcja-N`, ale wewnętrznie spójny), lecz numeracja „Sekcja 1”–„Sekcja 5” zaczyna się od
+  nowa w każdym Rozdziale, więc te same kotwice powtarzają się 2–4 razy w całym dokumencie —
+  autentyczny błąd formatowania w źródle, nie coś wprowadzonego przez ten skrypt. Bez
+  naprawy TOC linkowałby zawsze do PIERWSZEGO wystąpienia danej „Sekcji N”. `dedupe_anchors`
+  deduplikuje teraz też kotwice jawne (`<a id>`), nie tylko obliczane — a nowa funkcja
+  `apply_anchors` (dawniej `add_missing_anchors`) przy okazji nadpisuje istniejącą linię
+  `<a id="stara-wartość">` na nową, zdeduplikowaną wartość, gdziekolwiek dedup ją zmienił.
+
+**Odkryty przy okazji, głębszy błąd kolejności działań w `toc_and_links.py` (dotyczył
+WSZYSTKICH plików z PDF, nie tylko RODO, ale ujawnił się dopiero na `ustawa-prawo-spoldzielcze`,
+gdzie Rozdział 1/2/3... powtarza się w kilku różnych Działach):** `dedupe_anchors` był
+wywoływany na wartościach `h.anchor` sprzed przydzielenia ostatecznej kotwicy w konwencji
+prefiks-numer (`add_missing_anchors` nadpisywał `h.anchor` PO deduplikacji, więc każda
+zmiana wprowadzona przez dedup i tak przepadała). Efekt: pliki z PDF, w których np. „Rozdział
+1” pojawia się w kilku Działach, dostawały tę samą kotwicę `rozdzial-1` za każdym razem —
+TOC i pierwsze wystąpienie w treści wskazywały poprawnie, ale wszystkie kolejne odnośniki do
+„Rozdziału 1” (z innego Działu) i tak trafiały do pierwszego. Naprawione przez rozdzielenie
+na dwa kroki: `compute_anchors` (przydziela ostateczną wartość kotwicy KAŻDEMU nagłówkowi,
+potem dopiero deduplikuje) i `apply_anchors` (dopiero wtedy mutuje linie pliku — wstawia
+brakujące `<a id>` i nadpisuje te, które dedup zmienił). Zweryfikowane pełną regresją na
+wszystkich 25 wcześniej zatwierdzonych plikach (odtworzone identycznie) oraz ręcznie na
+`ustawa-prawo-spoldzielcze` (kotwice `rozdzial-2`, `rozdzial-2-1` itd. — już bez duplikatów).
+
+**Drugi błąd znaleziony w tej paczce:** wzorzec rozpoznający cytowanie aktu UE numerem
+rok/pozycja (dodany w batch 5) zakładał tylko kolejność „rok/numer” (np. „2016/679”) — ale
+starsze akty UE (sprzed 2015) numerują odwrotnie, numer/rok („rozporządzenia (UE) nr
+182/2011”), co w RODO (art. 93) linkowało błędnie własne „art. 5”/„art. 8” do artykułów tego
+samego numeru w RODO, mimo że w rzeczywistości odnoszą się do zupełnie innego aktu (komitologia,
+nr 182/2011). Naprawione: wzorzec dopuszcza teraz obie kolejności cyfr.
+
+Gotowe dodatkowo: `rodo-rozporzadzenie-2016-679`, `ustawa-prawo-spoldzielcze`,
+`ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605`,
+`rozporzadzenie-ogolne-przepisy-bhp`, `ustawa-o-dozorze-technicznym-nowelizacja-2026-252`,
+`rozporzadzenie-warunki-techniczne-budynkow-i-usytuowanie-2002-UCHYLONE` (30 z 36).

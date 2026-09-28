@@ -2,30 +2,333 @@
 
 Prawo spółdzielcze
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Część I. Spółdzielnie](#czesc-i)
+  - [Tytuł I. Przepisy wspólne](#tytul-i)
+    - [Dział I. Spółdzielnia i jej statut](#dzial-i)
+      - [Art. 1.](#art-1)
+      - [Art. 2.](#art-2)
+      - [Art. 3.](#art-3)
+      - [Art. 4.](#art-4)
+      - [Art. 5.](#art-5)
+    - [Dział II. Tryb zakładania i rejestrowania spółdzielni](#dzial-ii)
+      - [Art. 6.](#art-6)
+      - [Art. 7.](#art-7)
+      - [Art. 8.](#art-8)
+      - [Art. 8a.](#art-8a)
+      - [Art. 9.](#art-9)
+      - [Art. 10.](#art-10)
+      - [Art. 11.](#art-11)
+      - [Art. 12.](#art-12)
+      - [Art. 12a.](#art-12a)
+      - [Art. 13.](#art-13)
+      - [Art. 14.](#art-14)
+    - [Dział III. Członkowie, ich prawa i obowiązki](#dzial-iii)
+      - [Art. 15.](#art-15)
+      - [Art. 16.](#art-16)
+      - [Art. 16a.](#art-16a)
+      - [Art. 17.](#art-17)
+      - [Art. 18.](#art-18)
+      - [Art. 19.](#art-19)
+      - [Art. 20.](#art-20)
+      - [Art. 21.](#art-21)
+      - [Art. 22.](#art-22)
+      - [Art. 23.](#art-23)
+      - [Art. 24.](#art-24)
+      - [Art. 25.](#art-25)
+      - [Art. 26.](#art-26)
+      - [Art. 27.](#art-27)
+      - [Art. 28.](#art-28)
+      - [Art. 29.](#art-29)
+      - [Art. 30.](#art-30)
+      - [Art. 31.](#art-31)
+      - [Art. 32.](#art-32)
+      - [Art. 33.](#art-33)
+      - [Art. 34.](#art-34)
+    - [Dział IV. Organy spółdzielni](#dzial-iv)
+      - [Art. 35.](#art-35)
+      - [Rozdział 1. Walne zgromadzenie](#rozdzial-1)
+        - [Art. 36.](#art-36)
+        - [Art. 37.](#art-37)
+        - [Art. 38.](#art-38)
+        - [Art. 39.](#art-39)
+        - [Art. 40.](#art-40)
+        - [Art. 41.](#art-41)
+        - [Art. 42.](#art-42)
+        - [Art. 43.](#art-43)
+      - [Rozdział 2. Rada nadzorcza](#rozdzial-2)
+        - [Art. 44.](#art-44)
+        - [Art. 45.](#art-45)
+        - [Art. 46.](#art-46)
+        - [Art. 46a.](#art-46a)
+        - [Art. 47.](#art-47)
+      - [Rozdział 3. Zarząd](#rozdzial-3)
+        - [Art. 48.](#art-48)
+        - [Art. 49.](#art-49)
+        - [Art. 50.](#art-50)
+        - [Art. 51.](#art-51)
+        - [Art. 52.](#art-52)
+        - [Art. 53.](#art-53)
+        - [Art. 54.](#art-54)
+        - [Art. 55.](#art-55)
+      - [Rozdział 4. Przepisy wspólne dla rady i zarządu](#rozdzial-4)
+        - [Art. 56.](#art-56)
+        - [Art. 57.](#art-57)
+        - [Art. 58.](#art-58)
+      - [Rozdział 5. Zebrania grup członkowskich](#rozdzial-5)
+        - [Art. 59.](#art-59)
+    - [Dział V. (uchylony)](#dzial-v)
+    - [Dział VI. (uchylony)](#dzial-vi)
+    - [Dział VII. Gospodarka spółdzielni](#dzial-vii)
+      - [Art. 67.](#art-67)
+      - [Art. 68.](#art-68)
+      - [Art. 69.](#art-69)
+      - [Art. 70.](#art-70)
+      - [Art. 71.](#art-71)
+      - [Art. 72.](#art-72)
+      - [Art. 73.](#art-73)
+      - [Art. 74.](#art-74)
+      - [Art. 75.](#art-75)
+      - [Art. 76.](#art-76)
+      - [Art. 77.](#art-77)
+      - [Art. 78.](#art-78)
+      - [Art. 79.](#art-79)
+      - [Art. 80.](#art-80)
+      - [Art. 81.](#art-81)
+      - [Art. 82.](#art-82)
+      - [Art. 83.](#art-83)
+      - [Art. 84.](#art-84)
+      - [Art. 85.](#art-85)
+      - [Art. 86.](#art-86)
+      - [Art. 87.](#art-87)
+      - [Art. 88.](#art-88)
+      - [Art. 88a.](#art-88a)
+      - [Art. 89.](#art-89)
+      - [Art. 90.](#art-90)
+    - [Dział VIII. Lustracja](#dzial-viii)
+      - [Art. 91.](#art-91)
+      - [Art. 92.](#art-92)
+      - [Art. 93.](#art-93)
+      - [Art. 93a.](#art-93a)
+      - [Art. 93b.](#art-93b)
+      - [Art. 93c.](#art-93c)
+      - [Art. 94.](#art-94)
+      - [Art. 95.](#art-95)
+    - [Dział IX. Łączenie się spółdzielni](#dzial-ix)
+      - [Art. 96.](#art-96)
+      - [Art. 97.](#art-97)
+      - [Art. 98.](#art-98)
+      - [Art. 99.](#art-99)
+      - [Art. 100.](#art-100)
+      - [Art. 101.](#art-101)
+      - [Art. 102.](#art-102)
+    - [Dział X. (uchylony)](#dzial-x)
+    - [Dział XI. Podział spółdzielni](#dzial-xi)
+      - [Art. 108.](#art-108)
+      - [Art. 108a. [2)]](#art-108a)
+      - [Art. 108b.](#art-108b)
+      - [Art. 109.](#art-109)
+      - [Art. 110.](#art-110)
+      - [Art. 111.](#art-111)
+      - [Art. 112.](#art-112)
+    - [Dział XII. Likwidacja spółdzielni](#dzial-xii)
+      - [Art. 113.](#art-113)
+      - [Art. 114.](#art-114)
+      - [Art. 115.](#art-115)
+      - [Art. 116.](#art-116)
+      - [Art. 117.](#art-117)
+      - [Art. 118.](#art-118)
+      - [Art. 119.](#art-119)
+      - [Art. 120.](#art-120)
+      - [Art. 121.](#art-121)
+      - [Art. 122.](#art-122)
+      - [Art. 123.](#art-123)
+      - [Art. 124.](#art-124)
+      - [Art. 125.](#art-125)
+      - [Art. 126.](#art-126)
+      - [Art. 127.](#art-127)
+      - [Art. 128.](#art-128)
+      - [Art. 129.](#art-129)
+    - [Dział XIII. Upadłość spółdzielni](#dzial-xiii)
+      - [Art. 130.](#art-130)
+      - [Art. 131.](#art-131)
+      - [Art. 132.](#art-132)
+      - [Art. 133.](#art-133)
+      - [Art. 134.](#art-134)
+      - [Art. 135.](#art-135)
+      - [Art. 136.](#art-136)
+      - [Art. 137.](#art-137)
+  - [Tytuł II. Przepisy szczególne dla spółdzielni produkcji rolnej, spółdzielni kółek rolniczych i spółdzielni pracy](#tytul-ii)
+    - [Dział I. Spółdzielnie produkcji rolnej](#dzial-i-1)
+      - [Rozdział 1. Rolnicze spółdzielnie produkcyjne](#rozdzial-1-1)
+        - [Oddział 1. Przedmiot działalności i członkostwo](#oddzial-1)
+          - [Art. 138.](#art-138)
+          - [Art. 139.](#art-139)
+          - [Art. 140.](#art-140)
+        - [Oddział 2. Wkłady gruntowe i pieniężne](#oddzial-2)
+          - [Art. 141.](#art-141)
+          - [Art. 142.](#art-142)
+          - [Art. 143.](#art-143)
+          - [Art. 144.](#art-144)
+          - [Art. 145.](#art-145)
+          - [Art. 146.](#art-146)
+          - [Art. 147.](#art-147)
+          - [Art. 148.](#art-148)
+          - [Art. 149.](#art-149)
+          - [Art. 150.](#art-150)
+          - [Art. 151.](#art-151)
+          - [Art. 152.](#art-152)
+          - [Art. 153.](#art-153)
+          - [Art. 154.](#art-154)
+          - [Art. 154a.](#art-154a)
+        - [Oddział 3. Praca](#oddzial-3)
+          - [Art. 155.](#art-155)
+          - [Art. 156.](#art-156)
+          - [Art. 157.](#art-157)
+          - [Art. 158.](#art-158)
+          - [Art. 159.](#art-159)
+          - [Art. 160.](#art-160)
+          - [Art. 161.](#art-161)
+          - [Art. 162.](#art-162)
+        - [Oddział 4. Dochodzenie i ochrona roszczeń z tytułu pracy](#oddzial-4)
+          - [Art. 163.](#art-163)
+          - [Art. 164.](#art-164)
+          - [Art. 165.](#art-165)
+        - [Oddział 5. Fundusze spółdzielni, dochód i jego podział](#oddzial-5)
+          - [Art. 166.](#art-166)
+          - [Art. 167.](#art-167)
+          - [Art. 168.](#art-168)
+          - [Art. 169.](#art-169)
+          - [Art. 170.](#art-170)
+          - [Art. 171.](#art-171)
+          - [Art. 172.](#art-172)
+      - [Rozdział 2. (uchylony)](#rozdzial-2-1)
+      - [Rozdział 3. Inne spółdzielnie zajmujące się produkcją rolną](#rozdzial-3-1)
+        - [Art. 178.](#art-178)
+      - [Rozdział 4. (uchylony)](#rozdzial-4-1)
+    - [Dział II. Spółdzielnie kółek rolniczych (usług rolniczych)](#dzial-ii-1)
+      - [Art. 180.](#art-180)
+    - [Dział III. Spółdzielnie pracy](#dzial-iii-1)
+      - [Art. 181.](#art-181)
+      - [Art. 181a.](#art-181a)
+      - [Art. 182.](#art-182)
+      - [Art. 183.](#art-183)
+      - [Art. 184.](#art-184)
+      - [Art. 185.](#art-185)
+      - [Art. 186.](#art-186)
+      - [Art. 187.](#art-187)
+      - [Art. 188.](#art-188)
+      - [Art. 189.](#art-189)
+      - [Art. 190.](#art-190)
+      - [Art. 191.](#art-191)
+      - [Art. 192.](#art-192)
+      - [Art. 193.](#art-193)
+      - [Art. 194.](#art-194)
+      - [Art. 195.](#art-195)
+      - [Art. 196.](#art-196)
+      - [Art. 197.](#art-197)
+      - [Art. 198.](#art-198)
+      - [Art. 199.](#art-199)
+      - [Art. 200.](#art-200)
+      - [Art. 201.](#art-201)
+      - [Art. 202.](#art-202)
+      - [Art. 203.](#art-203)
+    - [Dział IV. (uchylony)](#dzial-iv-1)
+    - [Dział V. (uchylony)](#dzial-v-1)
+    - [Dział VI. (uchylony)](#dzial-vi-1)
+- [Część II. Związki spółdzielcze i Krajowa Rada Spółdzielcza](#czesc-ii)
+  - [Tytuł I. Związki spółdzielcze](#tytul-i-1)
+    - [Art. 240.](#art-240)
+    - [Art. 240a.](#art-240a)
+    - [Art. 241.](#art-241)
+    - [Art. 242.](#art-242)
+    - [Art. 243.](#art-243)
+    - [Art. 244.](#art-244)
+    - [Art. 245.](#art-245)
+    - [Art. 246.](#art-246)
+    - [Art. 247.](#art-247)
+    - [Art. 248.](#art-248)
+    - [Art. 249.](#art-249)
+    - [Art. 250.](#art-250)
+    - [Art. 251.](#art-251)
+    - [Art. 252.](#art-252)
+    - [Art. 253.](#art-253)
+    - [Art. 254.](#art-254)
+    - [Art. 255.](#art-255)
+    - [Art. 256.](#art-256)
+    - [Art. 257.](#art-257)
+    - [Art. 257a.](#art-257a)
+    - [Art. 257b.](#art-257b)
+  - [Tytuł II. Krajowy Samorząd Spółdzielczy](#tytul-ii-1)
+    - [Art. 258.](#art-258)
+    - [Art. 258a.](#art-258a)
+    - [Art. 259.](#art-259)
+    - [Art. 259a.](#art-259a)
+    - [Art. 260.](#art-260)
+    - [Art. 261.](#art-261)
+    - [Art. 262.](#art-262)
+    - [Art. 263.](#art-263)
+    - [Art. 264.](#art-264)
+    - [Art. 265.](#art-265)
+    - [Art. 266.](#art-266)
+    - [Art. 266a.](#art-266a)
+    - [Art. 267.](#art-267)
+    - [Art. 267a.](#art-267a)
+    - [Art. 267b.](#art-267b)
+    - [Art. 267c.](#art-267c)
+    - [Art. 267d.](#art-267d)
+- [Część III. Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe](#czesc-iii)
+  - [Rozdział 1. Zmiany w przepisach obowiązujących](#rozdzial-1-2)
+    - [Art. 268.](#art-268)
+    - [Art. 269.](#art-269)
+    - [Art. 270.](#art-270)
+  - [Rozdział 2. Przepisy przejściowe i końcowe](#rozdzial-2-2)
+    - [Art. 271.](#art-271)
+    - [Art. 272.](#art-272)
+    - [Art. 273.](#art-273)
+    - [Art. 274.](#art-274)
+    - [Art. 275.](#art-275)
+    - [Art. 276.](#art-276)
+    - [Art. 277.](#art-277)
+    - [Art. 278.](#art-278)
+    - [Art. 279.](#art-279)
+    - [Art. 280.](#art-280)
+    - [Art. 281.](#art-281)
+
+<a id="czesc-i"></a>
 ## Część I. Spółdzielnie
 
+<a id="tytul-i"></a>
 ## Tytuł I. Przepisy wspólne
 
+<a id="dzial-i"></a>
 ### Dział I. Spółdzielnia i jej statut
 
+<a id="art-1"></a>
 ### Art. 1.
 
 § 1. Spółdzielnia jest dobrowolnym zrzeszeniem nieograniczonej liczby osób, o zmiennym składzie osobowym i zmiennym funduszu udziałowym, które w interesie swoich członków prowadzi wspólną działalność gospodarczą.
 
 § 2. Spółdzielnia może prowadzić działalność społeczną i oświatowo-kulturalną na rzecz swoich członków i ich środowiska.
 
+<a id="art-2"></a>
 ### Art. 2.
 
 Spółdzielnia prowadzi działalność na podstawie niniejszej ustawy, innych ustaw oraz zarejestrowanego statutu.
 
+<a id="art-3"></a>
 ### Art. 3.
 
 Majątek spółdzielni jest prywatną własnością jej członków.
 
+<a id="art-4"></a>
 ### Art. 4.
 
 (uchylony)
 
+<a id="art-5"></a>
 ### Art. 5.
 
 § 1. Statut spółdzielni powinien określać:
@@ -48,8 +351,10 @@ Majątek spółdzielni jest prywatną własnością jej członków.
 
 § 2. Statut ponadto powinien zawierać postanowienia, których wprowadzenia wymagają przepisy niniejszej ustawy, oraz może zawierać inne postanowienia.
 
+<a id="dzial-ii"></a>
 ### Dział II. Tryb zakładania i rejestrowania spółdzielni
 
+<a id="art-6"></a>
 ### Art. 6.
 
 § 1. Osoby zamierzające założyć spółdzielnię (założyciele) uchwalają statut spółdzielni, potwierdzając jego przyjęcie przez złożenie pod nim swoich podpisów, oraz dokonują wyboru organów spółdzielni, których wybór należy w myśl statutu do kompetencji walnego zgromadzenia, lub komisji organizacyjnej w składzie co najmniej trzech osób.
@@ -70,36 +375,44 @@ Majątek spółdzielni jest prywatną własnością jej członków.
 
 § 6. (uchylony)
 
+<a id="art-7"></a>
 ### Art. 7.
 
 Spółdzielnia podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego.
 
+<a id="art-8"></a>
 ### Art. 8.
 
 (uchylony)
 
+<a id="art-8a"></a>
 ### Art. 8a.
 
 (uchylony)
 
+<a id="art-9"></a>
 ### Art. 9.
 
 (uchylony)
 
+<a id="art-10"></a>
 ### Art. 10.
 
 (uchylony)
 
+<a id="art-11"></a>
 ### Art. 11.
 
 § 1. Spółdzielnia nabywa osobowość prawną z chwilą wpisania jej do Krajowego Rejestru Sądowego.
 
 § 2. Za czynności dokonane w interesie spółdzielni przed zarejestrowaniem osoby działające do chwili zarejestrowania spółdzielni odpowiadają wobec osób trzecich solidarnie. Za zobowiązania wynikające z tych czynności spółdzielnia odpowiada po jej zarejestrowaniu tak jak za zaciągnięte przez siebie. Jednakże osoby działające przed zarejestrowaniem spółdzielni odpowiadają wobec niej według przepisów prawa cywilnego.
 
+<a id="art-12"></a>
 ### Art. 12.
 
 (uchylony)
 
+<a id="art-12a"></a>
 ### Art. 12a.
 
 § 1. Zmiana statutu spółdzielni wymaga uchwały walnego zgromadzenia podjętej większością 2/3 głosów.
@@ -108,19 +421,23 @@ Spółdzielnia podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego.
 
 § 3. Zmiana statutu nie wywołuje skutków prawnych przed jej wpisaniem do Krajowego Rejestru Sądowego.
 
+<a id="art-13"></a>
 ### Art. 13.
 
 (uchylony)
 
+<a id="art-14"></a>
 ### Art. 14.
 
 Organem właściwym do publikowania ogłoszeń spółdzielczych przewidzianych w przepisach prawa jest „Monitor Spółdzielczy” wydawany przez Krajową Radę Spółdzielczą, z wyjątkiem ogłoszeń zamieszczanych na podstawie odrębnych przepisów w Monitorze Sądowym i Gospodarczym.
 
+<a id="dzial-iii"></a>
 ### Dział III. Członkowie, ich prawa i obowiązki
 
+<a id="art-15"></a>
 ### Art. 15.
 
-§ 1. Spółdzielnia liczy co najmniej dziesięciu członków, a spółdzielnia produkcji rolnej oraz spółdzielnia, o której mowa w art. 6 § 2a, co najmniej pięciu członków, o ile statut nie wymaga liczby większej.
+§ 1. Spółdzielnia liczy co najmniej dziesięciu członków, a spółdzielnia produkcji rolnej oraz spółdzielnia, o której mowa w [art. 6](#art-6) § 2a, co najmniej pięciu członków, o ile statut nie wymaga liczby większej.
 
 § 2. Członkiem spółdzielni może być każda osoba fizyczna o pełnej zdolności do czynności prawnych, która odpowiada wymaganiom określonym w statucie, chyba że ustawa stanowi inaczej.
 
@@ -130,6 +447,7 @@ Organem właściwym do publikowania ogłoszeń spółdzielczych przewidzianych w
 
 § 5. Spółdzielnia, której członkami w myśl statutu są wyłącznie osoby prawne, musi liczyć co najmniej trzech członków.
 
+<a id="art-16"></a>
 ### Art. 16.
 
 § 1. Warunkiem przyjęcia na członka jest złożenie deklaracji. Deklaracja powinna być złożona pod nieważnością na piśmie utrwalonym w postaci papierowej lub elektronicznej. Pisma utrwalone w postaci elektronicznej przesyła się na adres do doręczeń elektronicznych spółdzielni, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), i opatruje się kwalifikowanym podpisem elektronicznym, podpisem osobistym lub podpisem zaufanym. Pismo utrwalone w postaci papierowej opatruje się podpisem własnoręcznym. Podpisana przez przystępującego do spółdzielni deklaracja powinna zawierać jego imię i nazwisko oraz miejsce zamieszkania, a jeżeli przystępujący jest osobą prawną – jej nazwę i siedzibę, ilość zadeklarowanych udziałów, dane dotyczące wkładów, jeżeli statut ich wnoszenie przewiduje, a także adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, o ile przystępujący taki posiada, oraz inne dane przewidziane w statucie.
@@ -140,10 +458,12 @@ Organem właściwym do publikowania ogłoszeń spółdzielczych przewidzianych w
 
 § 4. Członek może w deklaracji lub w odrębnym oświadczeniu złożonym na piśmie wskazać spółdzielni osobę, której spółdzielnia obowiązana jest po jego śmierci wypłacić udziały. Prawo z tego tytułu nie należy do spadku.
 
+<a id="art-16a"></a>
 ### Art. 16a.
 
 Spadkobierca zmarłego członka spółdzielni dziedziczy udziały, jeżeli jest członkiem spółdzielni lub złożył deklarację przystąpienia do spółdzielni. Jeżeli spadkobierców jest więcej niż jeden, powinni oni wskazać jednego spośród siebie, który uzyskuje prawo do udziałów, chyba że podzielą oni udziały między tych spadkobierców, którzy złożyli deklarację przystąpienia do spółdzielni. Spółdzielnia nie może odmówić przyjęcia w poczet członków spadkobierców dziedziczących udziały, jeżeli odpowiadają oni wymogom określonym w statucie.
 
+<a id="art-17"></a>
 ### Art. 17.
 
 § 1. Założyciele spółdzielni, którzy podpisali statut, stają się członkami spółdzielni z chwilą jej zarejestrowania. Przystępujący do spółdzielni po jej zarejestrowaniu stają się członkami spółdzielni z chwilą przyjęcia ich przez spółdzielnię.
@@ -154,6 +474,7 @@ Spadkobierca zmarłego członka spółdzielni dziedziczy udziały, jeżeli jest 
 
 § 4. Statut spółdzielni powinien wskazywać organ spółdzielni właściwy do przyjmowania członków. Jeżeli organem tym nie jest walne zgromadzenie, statut powinien wskazywać także organ, do którego służy odwołanie od decyzji odmawiającej przyjęcia, oraz określać terminy wniesienia i rozpatrzenia tego odwołania.
 
+<a id="art-18"></a>
 ### Art. 18.
 
 § 1. Prawa i obowiązki wynikające z członkostwa w spółdzielni są dla wszystkich członków równe.
@@ -186,6 +507,7 @@ Spadkobierca zmarłego członka spółdzielni dziedziczy udziały, jeżeli jest 
 
 § 7. Przepisy ustawy, statut oraz umowy zawierane przez spółdzielnię z jej członkami określają prawa i obowiązki członków wynikające ze stosunków prawnych pochodnych od członkostwa w spółdzielni.
 
+<a id="art-19"></a>
 ### Art. 19.
 
 § 1. Członek spółdzielni obowiązany jest do wniesienia wpisowego oraz zadeklarowanych udziałów stosownie do postanowień statutu.
@@ -194,24 +516,29 @@ Spadkobierca zmarłego członka spółdzielni dziedziczy udziały, jeżeli jest 
 
 § 3. Członek spółdzielni nie odpowiada wobec wierzycieli spółdzielni za jej zobowiązania.
 
+<a id="art-20"></a>
 ### Art. 20.
 
 § 1. Członek spółdzielni obowiązany jest zadeklarować jeden udział, jeżeli statut nie zobowiązuje członków do zadeklarowania większej ilości udziałów.
 
 § 2. Statut może przewidywać wnoszenie przez członków wkładów na własność spółdzielni lub do korzystania z nich przez spółdzielnię na podstawie innego stosunku prawnego. W tym wypadku statut powinien określać charakter i zakres przysługującego spółdzielni prawa do wkładów, wysokość wkładów oraz ich rodzaj, jeżeli są to wkłady niepieniężne, terminy ich wnoszenia, zasady wyceny i zwrotu w wypadku likwidacji spółdzielni, wystąpienia członka lub ustania członkostwa z innych przyczyn, a także w innych wypadkach przewidzianych w statucie.
 
+<a id="art-21"></a>
 ### Art. 21.
 
-Członek spółdzielni nie może przed ustaniem członkostwa żądać zwrotu wpłat dokonanych na udziały (nie dotyczy to jednak wpłat przekraczających ilość udziałów, których zadeklarowania wymaga statut obowiązujący w chwili żądania zwrotu). Zwrot tych wpłat nie może nastąpić przed zatwierdzeniem sprawozdania finansowego za rok, w którym członek wystąpił z żądaniem oraz w wypadku, gdy jego udziały zostały przeznaczone na pokrycie strat spółdzielni (art. 19 § 2). Sposób i termin zwrotu określa statut.
+Członek spółdzielni nie może przed ustaniem członkostwa żądać zwrotu wpłat dokonanych na udziały (nie dotyczy to jednak wpłat przekraczających ilość udziałów, których zadeklarowania wymaga statut obowiązujący w chwili żądania zwrotu). Zwrot tych wpłat nie może nastąpić przed zatwierdzeniem sprawozdania finansowego za rok, w którym członek wystąpił z żądaniem oraz w wypadku, gdy jego udziały zostały przeznaczone na pokrycie strat spółdzielni ([art. 19](#art-19) § 2). Sposób i termin zwrotu określa statut.
 
+<a id="art-22"></a>
 ### Art. 22.
 
 Członek spółdzielni może wystąpić z niej za wypowiedzeniem. Wypowiedzenie powinno być dokonane pod nieważnością na piśmie. Termin i okres wypowiedzenia określa statut. Za datę wystąpienia uważa się następny dzień po upływie okresu wypowiedzenia.
 
+<a id="art-23"></a>
 ### Art. 23.
 
 (uchylony)
 
+<a id="art-24"></a>
 ### Art. 24.
 
 § 1. Spółdzielnia może rozwiązać stosunek członkostwa tylko przez wykluczenie albo wykreślenie członka.
@@ -228,7 +555,7 @@ Członek spółdzielni może wystąpić z niej za wypowiedzeniem. Wypowiedzenie 
 
 1) odwołać się od uchwały o wykluczeniu albo wykreśleniu do walnego zgromadzenia, w terminie określonym w statucie, albo
 
-2) zaskarżyć uchwałę rady nadzorczej do sądu w terminie sześciu tygodni od dnia doręczenia członkowi uchwały z uzasadnieniem; przepisy art. 42 stosuje się odpowiednio.
+2) zaskarżyć uchwałę rady nadzorczej do sądu w terminie sześciu tygodni od dnia doręczenia członkowi uchwały z uzasadnieniem; przepisy [art. 42](#art-42) stosuje się odpowiednio.
 
 § 6a. W przypadku doręczenia członkowi uchwały o wykluczeniu albo wykreśleniu wraz z uzasadnieniem z wykorzystaniem usługi rejestrowanego doręczenia elektronicznego do ustalenia dnia doręczenia stosuje się przepis art. 42 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
@@ -248,18 +575,21 @@ Członek spółdzielni może wystąpić z niej za wypowiedzeniem. Wypowiedzenie 
 
 4) prawomocnego oddalenia przez sąd powództwa o uchylenie uchwały rady nadzorczej albo walnego zgromadzenia.
 
+<a id="art-25"></a>
 ### Art. 25.
 
 § 1. Członka zmarłego skreśla się z rejestru członków spółdzielni ze skutkiem od dnia, w którym nastąpiła śmierć. Osobę prawną będącą członkiem spółdzielni skreśla się z rejestru członków ze skutkiem od dnia jej ustania.
 
 § 2. Jeżeli zmarły członek pozostawił więcej niż jednego spadkobiercę, spadkobiercy powinni w celu wykonywania przechodzących na nich praw majątkowych zmarłego ustanowić wspólnego pełnomocnika lub wskazać zarządcę ustanowionego przez sąd przy odpowiednim zastosowaniu przepisów Kodeksu cywilnego o zarządzie rzeczą wspólną.
 
+<a id="art-26"></a>
 ### Art. 26.
 
 § 1. Udział byłego członka wypłaca się na podstawie zatwierdzonego sprawozdania finansowego za rok, w którym członek przestał należeć do spółdzielni. Sposób i terminy wypłaty określa statut.
 
-§ 2. Byłemu członkowi nie przysługuje prawo do funduszu zasobowego oraz do innego majątku spółdzielni, z zastrzeżeniem art. 125 § 5a.
+§ 2. Byłemu członkowi nie przysługuje prawo do funduszu zasobowego oraz do innego majątku spółdzielni, z zastrzeżeniem [art. 125](#art-125) § 5a.
 
+<a id="art-27"></a>
 ### Art. 27.
 
 § 1. Członek może rozporządzać swoimi roszczeniami do spółdzielni o wypłatę udziałów oraz o zwrot wkładów lub o wypłatę ich równowartości ze skutecznością od dnia, w którym roszczenia te stały się wymagalne.
@@ -272,10 +602,12 @@ Członek spółdzielni może wystąpić z niej za wypowiedzeniem. Wypowiedzenie 
 
 § 5. Wierzytelności spółdzielni do członka z tytułu wpłat na udziały nie podlegają zajęciu na rzecz wierzycieli spółdzielni.
 
+<a id="art-28"></a>
 ### Art. 28.
 
 W razie otwarcia likwidacji w ciągu sześciu miesięcy lub wszczęcia postępowania upadłościowego w ciągu roku od dnia, w którym członek przestał należeć do spółdzielni, obowiązany jest on wobec spółdzielni do uczestniczenia w pokrywaniu jej strat tak, jak gdyby był nadal członkiem.
 
+<a id="art-29"></a>
 ### Art. 29.
 
 § 1. Roszczenia o wypłatę udziałów, udziału w nadwyżce bilansowej oraz z tytułu zwrotu wkładów albo ich równowartości pieniężnej ulegają przedawnieniu z upływem trzech lat.
@@ -284,14 +616,17 @@ W razie otwarcia likwidacji w ciągu sześciu miesięcy lub wszczęcia postępow
 
 § 3. Przepis § 1 nie ma zastosowania do roszczeń o zwrot nieruchomości.
 
+<a id="art-30"></a>
 ### Art. 30.
 
 Zarząd spółdzielni prowadzi rejestr członków zawierający ich imiona i nazwiska oraz miejsce zamieszkania (w odniesieniu do członków będących osobami prawnymi – ich nazwę i siedzibę), wysokość zadeklarowanych i wniesionych udziałów, wysokość wniesionych wkładów, ich rodzaj, jeżeli są to wkłady niepieniężne, zmiany tych danych, datę przyjęcia w poczet członków, datę wypowiedzenia członkostwa i jego ustania, a także inne dane przewidziane w statucie. Członek spółdzielni, jego małżonek i wierzyciel członka lub spółdzielni ma prawo przeglądać rejestr.
 
+<a id="art-31"></a>
 ### Art. 31.
 
 Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpis statutu oraz regulaminów wydanych na podstawie tego statutu.
 
+<a id="art-32"></a>
 ### Art. 32.
 
 § 1. Statut może stanowić, że w określonych w nim sprawach między członkiem a spółdzielnią, członkowi przysługuje prawo odwołania się od uchwały organu spółdzielni do innego wskazanego w statucie organu spółdzielni w postępowaniu wewnątrzspółdzielczym. W tym wypadku statut powinien określać zasady i tryb postępowania wewnątrzspółdzielczego, a w szczególności terminy wniesienia i rozpatrzenia odwołania.
@@ -300,16 +635,20 @@ Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpi
 
 § 3. Postanowienia statutu o postępowaniu wewnątrzspółdzielczym nie mogą ograniczać dochodzenia przez członków ich praw na drodze sądowej. W wypadku zaskarżenia przez członka uchwały w postępowaniu wewnątrzspółdzielczym i sądowym, postępowanie wewnątrzspółdzielcze ulega umorzeniu.
 
+<a id="art-33"></a>
 ### Art. 33.
 
 (uchylony)
 
+<a id="art-34"></a>
 ### Art. 34.
 
 (uchylony)
 
+<a id="dzial-iv"></a>
 ### Dział IV. Organy spółdzielni
 
+<a id="art-35"></a>
 ### Art. 35.
 
 § 1. Organami spółdzielni są:
@@ -320,7 +659,7 @@ Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpi
 
 3) zarząd;
 
-4) w spółdzielniach, w których walne zgromadzenie jest zastąpione przez zebranie przedstawicieli – zebrania grup członkowskich (art. 59).
+4) w spółdzielniach, w których walne zgromadzenie jest zastąpione przez zebranie przedstawicieli – zebrania grup członkowskich ([art. 59](#art-59)).
 
 § 2. Wybory do organów spółdzielni, o których mowa w paragrafie poprzedzającym, dokonywane są w głosowaniu tajnym spośród nieograniczonej liczby kandydatów. Odwołanie członka organu następuje także w głosowaniu tajnym.
 
@@ -338,8 +677,10 @@ Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpi
 
 § 5. Szczegółowy tryb zwoływania posiedzeń organów, o których mowa w § 1 pkt 2–4 i § 3, oraz sposób i warunki podejmowania uchwał przez te organy określa statut lub przewidziane w nim regulaminy tych organów.
 
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Walne zgromadzenie
 
+<a id="art-36"></a>
 ### Art. 36.
 
 § 1. Walne zgromadzenie jest najwyższym organem spółdzielni.
@@ -368,6 +709,7 @@ Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpi
 
 § 13. Rozwiązania, o których mowa w § 9–12, stosuje się w czasie wprowadzenia stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26).
 
+<a id="art-37"></a>
 ### Art. 37.
 
 § 1. Statut może postanowić, że jeżeli ilość członków przekroczy liczbę w nim określoną, walne zgromadzenie członków zostaje zastąpione przez zebranie przedstawicieli. W takim wypadku statut powinien określać zasady ustalania liczby przedstawicieli i ich wyboru oraz czas trwania przedstawicielstwa.
@@ -378,8 +720,9 @@ Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpi
 
 § 4. Członek spółdzielni niebędący przedstawicielem może uczestniczyć w zebraniu przedstawicieli bez prawa głosu.
 
-§ 5. Przepisy art. 36 § 10–12 stosuje się odpowiednio.
+§ 5. Przepisy [art. 36](#art-36) § 10–12 stosuje się odpowiednio.
 
+<a id="art-38"></a>
 ### Art. 38.
 
 § 1. Do wyłącznej właściwości walnego zgromadzenia należy:
@@ -410,6 +753,7 @@ Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpi
 
 § 2. Statut może zastrzec do wyłącznej właściwości walnego zgromadzenia podejmowanie uchwał również w innych sprawach.
 
+<a id="art-39"></a>
 ### Art. 39.
 
 § 1. Walne zgromadzenie zwołuje zarząd przynajmniej raz w roku w ciągu sześciu miesięcy po upływie roku obrachunkowego.
@@ -430,14 +774,16 @@ Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpi
 
 § 5. W wypadkach wskazanych w § 2 i 3 walne zgromadzenie (zebranie przedstawicieli) zwołuje się w takim terminie, aby mogło się ono odbyć w ciągu sześciu tygodni od dnia wniesienia żądania. Jeżeli to nie nastąpi, zwołuje je rada nadzorcza, związek rewizyjny, w którym spółdzielnia jest zrzeszona, lub Krajowa Rada Spółdzielcza, na koszt spółdzielni.
 
+<a id="art-40"></a>
 ### Art. 40.
 
 § 1. O czasie, miejscu i porządku obrad walnego zgromadzenia zawiadamia się członków, związek rewizyjny, w którym spółdzielnia jest zrzeszona, oraz Krajową Radę Spółdzielczą w sposób i w terminach określonych w statucie.
 
-§ 2. Uprawnieni do żądania zwołania walnego zgromadzenia (zebrania przedstawicieli), w myśl art. 39 § 2 i 3, mogą również żądać zamieszczenia oznaczonych spraw na porządku jego obrad, pod warunkiem wystąpienia z tym żądaniem w terminie przez statut określonym.
+§ 2. Uprawnieni do żądania zwołania walnego zgromadzenia (zebrania przedstawicieli), w myśl [art. 39](#art-39) § 2 i 3, mogą również żądać zamieszczenia oznaczonych spraw na porządku jego obrad, pod warunkiem wystąpienia z tym żądaniem w terminie przez statut określonym.
 
 § 3. Zawiadomienia, o których mowa w § 1, albo zgłoszenia żądań, o których mowa w § 2, mogą zostać dokonane przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
 
+<a id="art-41"></a>
 ### Art. 41.
 
 § 1. Walne zgromadzenie może podejmować uchwały jedynie w sprawach objętych porządkiem obrad podanych do wiadomości członków w terminach i w sposób określonych w statucie.
@@ -450,6 +796,7 @@ Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpi
 
 § 5. Protokoły przechowuje zarząd spółdzielni co najmniej przez dziesięć lat, o ile przepisy w sprawie przechowywania akt nie przewidują terminu dłuższego.
 
+<a id="art-42"></a>
 ### Art. 42.
 
 § 1. Uchwały walnego zgromadzenia obowiązują wszystkich członków spółdzielni oraz wszystkie jej organy.
@@ -470,16 +817,20 @@ Zarząd spółdzielni powinien wydać każdemu członkowi na jego żądanie odpi
 
 § 9. Orzeczenie sądu ustalające nieistnienie albo nieważność uchwały walnego zgromadzenia bądź uchylające uchwałę ma moc prawną względem wszystkich członków spółdzielni oraz wszystkich jej organów.
 
+<a id="art-43"></a>
 ### Art. 43.
 
 (uchylony)
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Rada nadzorcza
 
+<a id="art-44"></a>
 ### Art. 44.
 
 Rada sprawuje kontrolę i nadzór nad działalnością spółdzielni.
 
+<a id="art-45"></a>
 ### Art. 45.
 
 § 1. Rada składa się co najmniej z trzech członków wybranych stosownie do postanowień statutu przez walne zgromadzenie, zebranie przedstawicieli lub zebrania grup członkowskich.
@@ -494,6 +845,7 @@ Rada sprawuje kontrolę i nadzór nad działalnością spółdzielni.
 
 § 6. Członkowi rady spółdzielni można wypowiedzieć umowę o pracę albo warunki pracy lub płacy tylko w wypadkach, w których Kodeks pracy dopuszcza dokonanie takiej czynności w stosunku do członka zakładowego organu związku zawodowego. Przepis ten stosuje się odpowiednio do członków rady świadczących pracę na innej podstawie niż umowa o pracę.
 
+<a id="art-46"></a>
 ### Art. 46.
 
 § 1. Do zakresu działania rady należy:
@@ -526,22 +878,27 @@ c) przeprowadzanie kontroli nad sposobem załatwiania przez zarząd wniosków or
 
 § 4. W celu wykonania swoich zadań rada może żądać od zarządu, członków i pracowników spółdzielni wszelkich sprawozdań i wyjaśnień, przeglądać księgi i dokumenty oraz sprawdzać bezpośrednio stan majątku spółdzielni.
 
+<a id="art-46a"></a>
 ### Art. 46a.
 
-W spółdzielni, o której mowa w art. 6 § 2a, oraz w spółdzielni produkcji rolnej, w której liczba członków nie przekracza dziesięciu, nie powołuje się rady, o ile statut nie stanowi inaczej. W tym przypadku kompetencje rady wykonuje walne zgromadzenie członków. Przepisy art. 35 § 4[1]–5 stosuje się odpowiednio.
+W spółdzielni, o której mowa w [art. 6](#art-6) § 2a, oraz w spółdzielni produkcji rolnej, w której liczba członków nie przekracza dziesięciu, nie powołuje się rady, o ile statut nie stanowi inaczej. W tym przypadku kompetencje rady wykonuje walne zgromadzenie członków. Przepisy [art. 35](#art-35) § 4[1]–5 stosuje się odpowiednio.
 
+<a id="art-47"></a>
 ### Art. 47.
 
 (uchylony)
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Zarząd
 
+<a id="art-48"></a>
 ### Art. 48.
 
 § 1. Zarząd kieruje działalnością spółdzielni oraz reprezentuje ją na zewnątrz.
 
 § 2. Podejmowanie decyzji niezastrzeżonych w ustawie lub statucie innym organom należy do zarządu.
 
+<a id="art-49"></a>
 ### Art. 49.
 
 § 1. Skład i liczbę członków zarządu określa statut. Statut może przewidywać zarząd jednoosobowy, którym jest prezes, i ustalać wymagania, jakie powinna spełniać osoba wchodząca w skład zarządu lub prezes w zarządzie jednoosobowym.
@@ -550,10 +907,11 @@ W spółdzielni, o której mowa w art. 6 § 2a, oraz w spółdzielni produkcji r
 
 § 3. Spółdzielnie, których członkami są wyłącznie osoby prawne, wybierają zarząd spośród kandydatów będących osobami fizycznymi wskazanymi przez te osoby prawne. W spółdzielniach, w których członkami są osoby fizyczne i osoby prawne, członków zarządu wybiera się również spośród kandydatów wskazanych przez osoby prawne.
 
-§ 4. Walne zgromadzenie może odwołać tych członków zarządu, którym nie udzieliło absolutorium (art. 38 § 1 pkt 2), niezależnie od tego, który organ stosownie do postanowień statutu wybiera członków zarządu. W tym wypadku nie stosuje się przepisu art. 41 § 1.
+§ 4. Walne zgromadzenie może odwołać tych członków zarządu, którym nie udzieliło absolutorium ([art. 38](#art-38) § 1 pkt 2), niezależnie od tego, który organ stosownie do postanowień statutu wybiera członków zarządu. W tym wypadku nie stosuje się przepisu [art. 41](#art-41) § 1.
 
 § 5. Zarząd jednoosobowy nie może dokonywać czynności w sprawach wynikających ze stosunku członkostwa. Czynności takie są dokonywane przez radę nadzorczą, chyba że statut przewiduje właściwość walnego zgromadzenia.
 
+<a id="art-50"></a>
 ### Art. 50.
 
 § 1. Jeżeli statut tak stanowi, członek zarządu wybierany przez walne zgromadzenie może być zawieszony w czynnościach przez radę, o ile jego działalność jest sprzeczna z przepisami prawa lub statutu.
@@ -562,10 +920,12 @@ W spółdzielni, o której mowa w art. 6 § 2a, oraz w spółdzielni produkcji r
 
 § 3. Członka zawieszonego powiadamia się niezwłocznie na piśmie o jego zawieszeniu z podaniem przyczyn zawieszenia.
 
+<a id="art-51"></a>
 ### Art. 51.
 
 (uchylony)
 
+<a id="art-52"></a>
 ### Art. 52.
 
 § 1. Z członkami zarządu zatrudnianymi w spółdzielni rada spółdzielni nawiązuje stosunek pracy – w zależności od powierzonego stanowiska – na podstawie umowy o pracę albo powołania (art. 68 Kodeksu pracy). Nie dotyczy to spółdzielni pracy, w których zatrudnienie członków następuje bez względu na stanowisko na podstawie spółdzielczej umowy o pracę, oraz tych spółdzielni produkcji rolnej, w których podstawą świadczenia pracy przez członków jest stosunek członkostwa.
@@ -574,10 +934,12 @@ W spółdzielni, o której mowa w art. 6 § 2a, oraz w spółdzielni produkcji r
 
 § 3. W razie odwołania członka zarządu zatrudnionego w spółdzielni na podstawie powołania, prawo odwołania go ze stanowiska pracy przysługuje zarządowi spółdzielni.
 
+<a id="art-53"></a>
 ### Art. 53.
 
 (uchylony)
 
+<a id="art-54"></a>
 ### Art. 54.
 
 § 1. Oświadczenia woli za spółdzielnię składają dwaj członkowie zarządu lub jeden członek zarządu i pełnomocnik. W spółdzielniach o zarządzie jednoosobowym oświadczenie woli mogą składać również dwaj pełnomocnicy.
@@ -586,14 +948,17 @@ W spółdzielni, o której mowa w art. 6 § 2a, oraz w spółdzielni produkcji r
 
 § 3. Oświadczenia skierowane do spółdzielni na piśmie, a złożone w jej lokalu albo jednemu z członków zarządu lub pełnomocnikowi, mają skutek prawny względem spółdzielni.
 
+<a id="art-55"></a>
 ### Art. 55.
 
 § 1. Zarząd może udzielić jednemu z członków zarządu lub innej osobie pełnomocnictwa do dokonywania czynności prawnych związanych z kierowaniem bieżącą działalnością gospodarczą spółdzielni lub jej wyodrębnionej organizacyjnie i gospodarczo jednostki, a także pełnomocnictwa do dokonywania czynności określonego rodzaju lub czynności szczególnych.
 
 § 2. Statut spółdzielni może uzależnić udzielenie pełnomocnictwa przez zarząd od uprzedniej zgody rady.
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Przepisy wspólne dla rady i zarządu
 
+<a id="art-56"></a>
 ### Art. 56.
 
 § 1. Nie można być jednocześnie członkiem zarządu i przedstawicielem na zebranie przedstawicieli tej samej spółdzielni. Nie można być jednocześnie członkiem rady i zarządu tej samej spółdzielni. W razie konieczności rada może wyznaczyć jednego lub kilku ze swoich członków do czasowego pełnienia funkcji członka (członków) zarządu.
@@ -604,16 +969,20 @@ W spółdzielni, o której mowa w art. 6 § 2a, oraz w spółdzielni produkcji r
 
 § 4. W wypadku naruszenia przez członka rady nadzorczej zakazu konkurencji określonego w § 3 – rada może podjąć uchwałę o zawieszeniu członka tego organu w pełnieniu czynności. Statut określa termin zwołania posiedzenia organu, który dokonał wyboru zawieszonego członka rady. Powyższy organ rozstrzyga o uchyleniu zawieszenia bądź odwołaniu zawieszonego członka rady.
 
+<a id="art-57"></a>
 ### Art. 57.
 
 W skład rady nie mogą wchodzić osoby będące kierownikami bieżącej działalności gospodarczej spółdzielni lub pełnomocnikami zarządu oraz osoby pozostające z członkami zarządu lub kierownikami bieżącej działalności gospodarczej spółdzielni w związku małżeńskim albo w stosunku pokrewieństwa lub powinowactwa w linii prostej i w drugim stopniu linii bocznej.
 
+<a id="art-58"></a>
 ### Art. 58.
 
 Członek zarządu, rady oraz likwidator odpowiada wobec spółdzielni za szkodę wyrządzoną działaniem lub zaniechaniem sprzecznym z prawem lub postanowieniami statutu spółdzielni, chyba że nie ponosi winy.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Zebrania grup członkowskich
 
+<a id="art-59"></a>
 ### Art. 59.
 
 § 1. W spółdzielniach, w których walne zgromadzenie zostaje zastąpione przez zebranie przedstawicieli, z zastrzeżeniem art. 8[3] ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych, organami tych spółdzielni są także zebrania grup członkowskich. Zasady podziału członków na grupy członkowskie i zasady działania tych zebrań określa statut. Przepisy art. 35 § 4[1]–5 stosuje się odpowiednio.
@@ -632,55 +1001,69 @@ Członek zarządu, rady oraz likwidator odpowiada wobec spółdzielni za szkodę
 
 § 3. Statut może również określać inne zadania i uprawnienia zebrań grup członkowskich.
 
+<a id="dzial-v"></a>
 ### Dział V. (uchylony)
 
+<a id="dzial-vi"></a>
 ### Dział VI. (uchylony)
 
+<a id="dzial-vii"></a>
 ### Dział VII. Gospodarka spółdzielni
 
+<a id="art-67"></a>
 ### Art. 67.
 
 Spółdzielnia prowadzi działalność gospodarczą na zasadach rachunku ekonomicznego przy zapewnieniu korzyści członkom spółdzielni.
 
+<a id="art-68"></a>
 ### Art. 68.
 
 Spółdzielnia odpowiada za swoje zobowiązania całym majątkiem.
 
+<a id="art-69"></a>
 ### Art. 69.
 
 (uchylony)
 
+<a id="art-70"></a>
 ### Art. 70.
 
 (uchylony)
 
+<a id="art-71"></a>
 ### Art. 71.
 
 (uchylony)
 
+<a id="art-72"></a>
 ### Art. 72.
 
 (uchylony)
 
+<a id="art-73"></a>
 ### Art. 73.
 
 (uchylony)
 
+<a id="art-74"></a>
 ### Art. 74.
 
 (uchylony)
 
+<a id="art-75"></a>
 ### Art. 75.
 
 Zysk spółdzielni, po pomniejszeniu o podatek dochodowy i inne obciążenia obowiązkowe wynikające z odrębnych przepisów ustawowych, stanowi nadwyżkę bilansową.
 
+<a id="art-76"></a>
 ### Art. 76.
 
 Nadwyżka bilansowa podlega podziałowi na podstawie uchwały walnego zgromadzenia. Co najmniej 5 % nadwyżki przeznacza się na zwiększenie funduszu zasobowego, jeżeli fundusz ten nie osiąga wysokości wniesionych udziałów obowiązkowych.
 
+<a id="art-77"></a>
 ### Art. 77.
 
-§ 1. Część nadwyżki bilansowej pozostałej po dokonaniu odpisu, o którym mowa w art. 76, przeznacza się na cele określone w uchwale walnego zgromadzenia.
+§ 1. Część nadwyżki bilansowej pozostałej po dokonaniu odpisu, o którym mowa w [art. 76](#art-76), przeznacza się na cele określone w uchwale walnego zgromadzenia.
 
 § 2. Zasady podziału nadwyżki bilansowej między członków spółdzielni określa statut.
 
@@ -688,6 +1071,7 @@ Nadwyżka bilansowa podlega podziałowi na podstawie uchwały walnego zgromadzen
 
 § 4. Jeżeli podział części nadwyżki bilansowej między członków ma nastąpić w formie oprocentowania udziałów, w podziale tym uwzględnia się byłych członków (ich spadkobierców), którym przysługują roszczenia o wypłatę udziałów.
 
+<a id="art-78"></a>
 ### Art. 78.
 
 § 1. Zasadniczymi funduszami własnymi tworzonymi w spółdzielni są:
@@ -698,46 +1082,57 @@ Nadwyżka bilansowa podlega podziałowi na podstawie uchwały walnego zgromadzen
 
 § 2. Spółdzielnia tworzy także inne fundusze własne przewidziane w odrębnych przepisach oraz w jej statucie.
 
+<a id="art-79"></a>
 ### Art. 79.
 
 (uchylony)
 
+<a id="art-80"></a>
 ### Art. 80.
 
 (uchylony)
 
+<a id="art-81"></a>
 ### Art. 81.
 
 (uchylony)
 
+<a id="art-82"></a>
 ### Art. 82.
 
 Oprocentowanie wkładów pieniężnych stanowi koszt uzyskania przychodów.
 
+<a id="art-83"></a>
 ### Art. 83.
 
 (pominięty)
 
+<a id="art-84"></a>
 ### Art. 84.
 
 (uchylony)
 
+<a id="art-85"></a>
 ### Art. 85.
 
 (uchylony)
 
+<a id="art-86"></a>
 ### Art. 86.
 
 (uchylony)
 
+<a id="art-87"></a>
 ### Art. 87.
 
 Spółdzielnia prowadzi rachunkowość na zasadach określonych odrębnymi przepisami.
 
+<a id="art-88"></a>
 ### Art. 88.
 
 (uchylony)
 
+<a id="art-88a"></a>
 ### Art. 88a.
 
 § 1. Roczne sprawozdania finansowe spółdzielni podlegają badaniu pod względem rzetelności i prawidłowości. Uchwałę w tym zakresie podejmuje rada nadzorcza.
@@ -746,12 +1141,14 @@ Spółdzielnia prowadzi rachunkowość na zasadach określonych odrębnymi przep
 
 § 3. Przepis § 1 i § 2 stosuje się odpowiednio do sprawozdań finansowych stanowiących podstawę przy łączeniu i podziale spółdzielni.
 
+<a id="art-89"></a>
 ### Art. 89.
 
 § 1. Roczne sprawozdanie z działalności spółdzielni, łącznie ze sprawozdaniem finansowym i sprawozdaniem z badania, jeżeli podlega ono obowiązkowemu badaniu, wykłada się w lokalu spółdzielni co najmniej na 14 dni przed terminem walnego zgromadzenia w celu umożliwienia członkom spółdzielni zapoznania się z nim.
 
 § 2. (uchylony)
 
+<a id="art-90"></a>
 ### Art. 90.
 
 § 1. Straty bilansowe spółdzielni pokrywa się z funduszu zasobowego, a w części przekraczającej fundusz zasobowy – z funduszu udziałowego i innych funduszów własnych spółdzielni według kolejności ustalonej przez statut. Straty pierwszego roku obrachunkowego po założeniu spółdzielni mogą być pokryte w roku następnym.
@@ -760,8 +1157,10 @@ Spółdzielnia prowadzi rachunkowość na zasadach określonych odrębnymi przep
 
 § 3. Strata bilansowa w banku spółdzielczym pokrywana jest według zasad i w terminach określonych w programie postępowania naprawczego, o którym mowa w art. 142 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331 i 340).
 
+<a id="dzial-viii"></a>
 ### Dział VIII. Lustracja
 
+<a id="art-91"></a>
 ### Art. 91.
 
 § 1. Każda spółdzielnia obowiązana jest przynajmniej raz na trzy lata, a w okresie pozostawania w stanie likwidacji corocznie, poddać się lustracyjnemu badaniu legalności, gospodarności i rzetelności całości jej działania. Lustracja obejmuje okres od poprzedniej lustracji.
@@ -794,12 +1193,14 @@ Spółdzielnia prowadzi rachunkowość na zasadach określonych odrębnymi przep
 
 § 6. Uchwała Krajowej Rady Spółdzielczej w sprawie pozbawienia uprawnień lustratora jest ostateczną decyzją w rozumieniu przepisów Kodeksu postępowania administracyjnego, który stosuje się odpowiednio.
 
+<a id="art-92"></a>
 ### Art. 92.
 
 § 1. Lustrator obowiązany jest zawiadomić radę i zarząd o rozpoczęciu lustracji. Członkowie rady uprawnieni są do uczestniczenia w lustracji.
 
 § 2. Lustrator uprawniony jest do przeglądania ksiąg i wszelkich dokumentów w lustrowanej spółdzielni oraz do bezpośredniego sprawdzania jej stanu majątkowego, a organy spółdzielni i jej pracownicy obowiązani są do udzielania mu żądanych wyjaśnień i wszelkiej pomocy.
 
+<a id="art-93"></a>
 ### Art. 93.
 
 § 1. Z czynności lustracyjnych lustrator sporządza protokół, który składa radzie i zarządowi spółdzielni. Protokół sporządzony przez lustratora ma moc dokumentu urzędowego.
@@ -814,6 +1215,7 @@ Spółdzielnia prowadzi rachunkowość na zasadach określonych odrębnymi przep
 
 § 4. Wnioski z przeprowadzonej lustracji powinny być przedstawione przez radę nadzorczą najbliższemu walnemu zgromadzeniu.
 
+<a id="art-93a"></a>
 ### Art. 93a.
 
 § 1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ma prawo żądania informacji, danych i dokumentów, dotyczących organizacji i działalności spółdzielni mieszkaniowych, niezbędnych do dokonywania oceny zgodności z prawem i gospodarności działalności spółdzielni.
@@ -828,8 +1230,9 @@ Spółdzielnia prowadzi rachunkowość na zasadach określonych odrębnymi przep
 
 § 6. Podmiot przeprowadzający lustrację obowiązany jest przesłać protokół z czynności lustracyjnych ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 
-§ 7. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może wykonywać uprawnienia Krajowej Rady Spółdzielczej lub związku rewizyjnego wobec spółdzielni mieszkaniowej określone w ustawie, z wyjątkiem określonych w art. 114 i art. 115, jeżeli uprawnień tych nie wykonuje Krajowa Rada Spółdzielcza lub związek rewizyjny.
+§ 7. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może wykonywać uprawnienia Krajowej Rady Spółdzielczej lub związku rewizyjnego wobec spółdzielni mieszkaniowej określone w ustawie, z wyjątkiem określonych w [art. 114](#art-114) i [art. 115](#art-115), jeżeli uprawnień tych nie wykonuje Krajowa Rada Spółdzielcza lub związek rewizyjny.
 
+<a id="art-93b"></a>
 ### Art. 93b.
 
 1. W związku z przetwarzaniem przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa danych osobowych uzyskanych w toku prowadzenia postępowań na podstawie art. 93a prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.1)), przysługuje w zakresie, w jakim nie wpływa ono na ochronę praw i wolności osoby, od której dane pozyskano.
@@ -844,24 +1247,30 @@ Spółdzielnia prowadzi rachunkowość na zasadach określonych odrębnymi przep
 
 2) pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy.
 
+<a id="art-93c"></a>
 ### Art. 93c.
 
 Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), nie wpływa na przebieg i wynik postępowań, o których mowa w art. 93a.
 
+<a id="art-94"></a>
 ### Art. 94.
 
 (uchylony)
 
+<a id="art-95"></a>
 ### Art. 95.
 
 (uchylony)
 
+<a id="dzial-ix"></a>
 ### Dział IX. Łączenie się spółdzielni
 
+<a id="art-96"></a>
 ### Art. 96.
 
 Spółdzielnia może w każdym czasie połączyć się z inną spółdzielnią na podstawie uchwał walnych zgromadzeń łączących się spółdzielni, powziętych większością 2/3 głosów.
 
+<a id="art-97"></a>
 ### Art. 97.
 
 Uchwały o połączeniu powinny zawierać:
@@ -872,24 +1281,29 @@ Uchwały o połączeniu powinny zawierać:
 
 3) datę połączenia.
 
+<a id="art-98"></a>
 ### Art. 98.
 
 § 1. Podstawę rachunkową połączenia stanowią sprawozdania finansowe łączących się spółdzielni, sporządzone na dzień połączenia.
 
 § 2. Jeżeli walne zgromadzenia łączących się spółdzielni nie postanowią inaczej, podział nadwyżki bilansowej nastąpi oddzielnie według sprawozdań finansowych sporządzonych na dzień połączenia.
 
+<a id="art-99"></a>
 ### Art. 99.
 
-Połączenie oraz wynikające z niego zmiany statutu wywierają skutek od chwili wpisania ich do Krajowego Rejestru Sądowego, z wyjątkiem przewidzianym w art. 102 § 1.
+Połączenie oraz wynikające z niego zmiany statutu wywierają skutek od chwili wpisania ich do Krajowego Rejestru Sądowego, z wyjątkiem przewidzianym w [art. 102](#art-102) § 1.
 
+<a id="art-100"></a>
 ### Art. 100.
 
 Członkowie, którzy w chwili połączenia należeli do spółdzielni przejmowanej, stają się członkami spółdzielni przejmującej. Wpłaty na udziały wpisuje się członkom spółdzielni przejmowanej w takiej wysokości, jaka wynika z ustalonej w sprawozdaniu finansowym kwoty przejętego funduszu udziałowego.
 
+<a id="art-101"></a>
 ### Art. 101.
 
 Wskutek połączenia majątek spółdzielni przejętej przechodzi na spółdzielnię przejmującą, a wierzyciele i dłużnicy pierwszej stają się wierzycielami i dłużnikami drugiej.
 
+<a id="art-102"></a>
 ### Art. 102.
 
 § 1. Niezwłocznie po podjęciu uchwał o połączeniu zamiast zarządu i rady spółdzielni przejmowanej działa zarząd i rada spółdzielni przejmującej.
@@ -898,10 +1312,13 @@ Wskutek połączenia majątek spółdzielni przejętej przechodzi na spółdziel
 
 § 3. Jeżeli uchwały walnych zgromadzeń o połączeniu tak stanowią, po wpisie połączenia do Krajowego Rejestru Sądowego spółdzielnia dokonuje niezwłocznie wyborów rady i zarządu.
 
+<a id="dzial-x"></a>
 ### Dział X. (uchylony)
 
+<a id="dzial-xi"></a>
 ### Dział XI. Podział spółdzielni
 
+<a id="art-108"></a>
 ### Art. 108.
 
 § 1. Spółdzielnia może podzielić się na podstawie uchwały walnego zgromadzenia podjętej zwykłą większością głosów w ten sposób, że z jej wydzielonej części zostaje utworzona nowa spółdzielnia.
@@ -916,6 +1333,7 @@ Wskutek połączenia majątek spółdzielni przejętej przechodzi na spółdziel
 
 4) datę podziału spółdzielni.
 
+<a id="art-108a"></a>
 ### Art. 108a. [2)]
 
 § 1. Członkowie spółdzielni, których prawa i obowiązki majątkowe są związane z wyodrębnioną organizacyjnie jednostką spółdzielni albo z częścią majątku spółdzielni, która nadaje się do takiego wyodrębnienia, mogą na podstawie uchwały podjętej większością głosów tych członków wystąpić do zarządu spółdzielni z żądaniem zwołania walnego zgromadzenia w celu podjęcia uchwały o podziale spółdzielni w ten sposób, że z tej jednostki organizacyjnej albo części majątku zostanie utworzona nowa spółdzielnia. W zakresie reprezentacji tych członków stosuje się odpowiednio przepisy o zakładaniu spółdzielni.
@@ -928,12 +1346,13 @@ Wskutek połączenia majątek spółdzielni przejętej przechodzi na spółdziel
 
 § 5. Przepis § 4 stosuje się odpowiednio w razie nierozpatrzenia przez walne zgromadzenie zgłoszonego przez członków żądania w terminie trzech miesięcy od dnia jego doręczenia.
 
-§ 6. W razie podjęcia przez walne zgromadzenie uchwały o podziale niezawierającej wszystkich składników treści tej uchwały określonych w art. 108 § 2, członkowie zgłaszający żądanie podziału mogą wystąpić do zarządu spółdzielni z żądaniem zwołania walnego zgromadzenia w celu podjęcia uzupełniającej uchwały o podziale. Przepisy § 4 i 5 stosuje się odpowiednio.
+§ 6. W razie podjęcia przez walne zgromadzenie uchwały o podziale niezawierającej wszystkich składników treści tej uchwały określonych w [art. 108](#art-108) § 2, członkowie zgłaszający żądanie podziału mogą wystąpić do zarządu spółdzielni z żądaniem zwołania walnego zgromadzenia w celu podjęcia uzupełniającej uchwały o podziale. Przepisy § 4 i 5 stosuje się odpowiednio.
 
 § 7. Przepisy § 2–6 stosuje się odpowiednio w wypadku, gdy z żądaniem podziału występuje organ spółdzielni powołany do reprezentowania członków, których prawa i obowiązki majątkowe są związane z wyodrębnioną organizacyjnie jednostką spółdzielni.
 
-§ 8. Uchwała walnego zgromadzenia o podziale spółdzielni zawierająca wszystkie składniki treści określone w art. 108 § 2 oraz prawomocne orzeczenie sądu zastępujące taką uchwałę stanowią podstawę do dokonania stosownych wpisów w rejestrze i w księdze wieczystej.
+§ 8. Uchwała walnego zgromadzenia o podziale spółdzielni zawierająca wszystkie składniki treści określone w [art. 108](#art-108) § 2 oraz prawomocne orzeczenie sądu zastępujące taką uchwałę stanowią podstawę do dokonania stosownych wpisów w rejestrze i w księdze wieczystej.
 
+<a id="art-108b"></a>
 ### Art. 108b.
 
 § 1. Członkowie spółdzielni, których prawa i obowiązki majątkowe są związane z wyodrębnioną organizacyjnie jednostką spółdzielni albo z częścią majątku spółdzielni, która nadaje się do takiego wyodrębnienia, mogą przyjąć uchwałę większością głosów tych członków, o podziale w spółdzielni w ten sposób, że z tej jednostki organizacyjnej albo części majątku zostanie utworzona nowa spółdzielnia. W zakresie reprezentacji tych członków stosuje się odpowiednio przepisy o zakładaniu spółdzielni.
@@ -944,10 +1363,11 @@ Wskutek połączenia majątek spółdzielni przejętej przechodzi na spółdziel
 
 § 4. W razie niepodjęcia przez walne zgromadzenie dotychczasowej spółdzielni, w terminie określonym w § 3, uchwały o podziale spółdzielni, lub w razie podjęcia uchwały odmawiającej podziału, reprezentanci członków, którzy podjęli uchwałę, o której mowa w § 1, mogą w terminie sześciu tygodni od dnia odbycia walnego zgromadzenia, wystąpić do sądu o wydanie orzeczenia zastępującego uchwałę walnego zgromadzenia, o której mowa w § 3.
 
-§ 5. Uchwała walnego zgromadzenia o podziale spółdzielni spełniająca wymagania określone w art. 108 § 2 lub prawomocne orzeczenie sądu zastępujące taką uchwałę stanowią podstawę do dokonania wpisów do Krajowego Rejestru Sądowego i do księgi wieczystej.
+§ 5. Uchwała walnego zgromadzenia o podziale spółdzielni spełniająca wymagania określone w [art. 108](#art-108) § 2 lub prawomocne orzeczenie sądu zastępujące taką uchwałę stanowią podstawę do dokonania wpisów do Krajowego Rejestru Sądowego i do księgi wieczystej.
 
 § 6. Koszty postępowania sądowego o wydanie orzeczenia, o którym mowa w § 4, ponoszą solidarnie członkowie wnoszący o podział spółdzielni oraz dotychczasowa spółdzielnia.
 
+<a id="art-109"></a>
 ### Art. 109.
 
 § 1. Niezwłocznie po podjęciu przez walne zgromadzenie uchwały o podziale spółdzielni zebranie członków przechodzących do powstającej spółdzielni, a jeżeli uchwałę o podziale spółdzielni podjęło zebranie przedstawicieli – zebranie tych przedstawicieli, którzy przechodzą jako członkowie do powstającej spółdzielni:
@@ -960,20 +1380,25 @@ Wskutek połączenia majątek spółdzielni przejętej przechodzi na spółdziel
 
 § 3. Jeżeli liczba członków przechodzących do powstającej spółdzielni jest mniejsza od liczby członków uprawniającej według statutu dotychczasowej spółdzielni do zastąpienia walnego zgromadzenia przez zebranie przedstawicieli, uchwały, o których mowa w § 1, podejmuje w ciągu miesiąca od dnia podjęcia uchwały o podziale spółdzielni zebranie członków przechodzących do powstającej spółdzielni. Zebranie to zwołuje zarząd dotychczasowej spółdzielni, powiadamiając pisemnie zainteresowanych członków o terminie zebrania i porządku jego obrad.
 
+<a id="art-110"></a>
 ### Art. 110.
 
-Zarząd spółdzielni powstającej jest obowiązany w terminie czternastu dni od dnia jego wyboru wystąpić z wnioskiem o wpisanie spółdzielni do Krajowego Rejestru Sądowego, a zarząd spółdzielni dotychczasowej – z wnioskiem o dokonanie w tym rejestrze wpisu o jej podziale. Przepis art. 7 stosuje się odpowiednio.
+Zarząd spółdzielni powstającej jest obowiązany w terminie czternastu dni od dnia jego wyboru wystąpić z wnioskiem o wpisanie spółdzielni do Krajowego Rejestru Sądowego, a zarząd spółdzielni dotychczasowej – z wnioskiem o dokonanie w tym rejestrze wpisu o jej podziale. Przepis [art. 7](#art-7) stosuje się odpowiednio.
 
+<a id="art-111"></a>
 ### Art. 111.
 
 Wskutek podziału spółdzielni na powstającą spółdzielnię przechodzą z chwilą jej zarejestrowania wynikające z planu podziału składniki majątkowe oraz prawa i zobowiązania. W tym też zakresie wierzyciele i dłużnicy dotychczasowej spółdzielni stają się wierzycielami i dłużnikami powstającej spółdzielni. Jednakże za zobowiązania powstałe przed podziałem spółdzielni spółdzielnia dotychczasowa i nowo powstała odpowiadają solidarnie.
 
+<a id="art-112"></a>
 ### Art. 112.
 
-Do podziału spółdzielni stosuje się odpowiednio przepisy art. 98 § 1 i art. 100.
+Do podziału spółdzielni stosuje się odpowiednio przepisy [art. 98](#art-98) § 1 i [art. 100](#art-100).
 
+<a id="dzial-xii"></a>
 ### Dział XII. Likwidacja spółdzielni
 
+<a id="art-113"></a>
 ### Art. 113.
 
 § 1. Spółdzielnia przechodzi w stan likwidacji:
@@ -986,6 +1411,7 @@ Do podziału spółdzielni stosuje się odpowiednio przepisy art. 98 § 1 i art.
 
 § 2. W wypadkach przewidzianych w § 1 zarząd spółdzielni (likwidator) zgłosi do Krajowego Rejestru Sądowego otwarcie likwidacji spółdzielni i zawiadomi o tym właściwy związek rewizyjny. Jeżeli zarząd (likwidator) tego nie uczyni, zgłoszenia dokona związek rewizyjny, w którym spółdzielnia jest zrzeszona.
 
+<a id="art-114"></a>
 ### Art. 114.
 
 § 1. Związek rewizyjny, w którym spółdzielnia jest zrzeszona, może podjąć uchwałę o postawieniu spółdzielni w stan likwidacji, jeżeli:
@@ -998,20 +1424,24 @@ Do podziału spółdzielni stosuje się odpowiednio przepisy art. 98 § 1 i art.
 
 § 2. Uchwałę związku rewizyjnego, o której mowa w § 1, spółdzielnia może zaskarżyć do sądu w ciągu sześciu tygodni od dnia jej doręczenia wraz z uzasadnieniem. W razie niezaskarżenia uchwały w ustawowym terminie lub uprawomocnienia się orzeczenia oddalającego powództwo albo umarzającego postępowanie w sprawie, związek rewizyjny zgłasza do Krajowego Rejestru Sądowego wniosek o otwarcie likwidacji, wyznaczając jednocześnie likwidatora.
 
+<a id="art-115"></a>
 ### Art. 115.
 
 Jeżeli spółdzielnia nie rozpoczęła działalności gospodarczej w ciągu roku od dnia jej zarejestrowania i nie posiada majątku, może ulec wykreśleniu z Krajowego Rejestru Sądowego na wniosek związku rewizyjnego.
 
+<a id="art-116"></a>
 ### Art. 116.
 
-§ 1. Spółdzielnia postawiona w stan likwidacji na podstawie art. 113 § 1 pkt 3 może przed upływem roku od dnia podjęcia drugiej uchwały walnego zgromadzenia o likwidacji przywrócić swoją działalność na podstawie uchwały walnego zgromadzenia podjętej większością 3/4 głosów.
+§ 1. Spółdzielnia postawiona w stan likwidacji na podstawie [art. 113](#art-113) § 1 pkt 3 może przed upływem roku od dnia podjęcia drugiej uchwały walnego zgromadzenia o likwidacji przywrócić swoją działalność na podstawie uchwały walnego zgromadzenia podjętej większością 3/4 głosów.
 
 § 2. Zarząd lub likwidator powinni uchwałę o przywróceniu działalności spółdzielni zgłosić niezwłocznie do Krajowego Rejestru Sądowego, dołączając odpis protokołu walnego zgromadzenia. Dokonany wpis sąd ogłosi w Monitorze Spółdzielczym.
 
+<a id="art-117"></a>
 ### Art. 117.
 
-Spółdzielnia w stanie likwidacji może połączyć się z inną spółdzielnią według zasad przewidzianych w art. 96–102.
+Spółdzielnia w stanie likwidacji może połączyć się z inną spółdzielnią według zasad przewidzianych w [art. 96](#art-96)–102.
 
+<a id="art-118"></a>
 ### Art. 118.
 
 § 1. Likwidatorami spółdzielni mogą być członkowie ostatniego zarządu lub osoby wybrane przez walne zgromadzenie, jeżeli ustawa nie stanowi inaczej.
@@ -1020,6 +1450,7 @@ Spółdzielnia w stanie likwidacji może połączyć się z inną spółdzielni�
 
 § 3. Umowę z likwidatorem o wykonanie czynności likwidacyjnych zawiera rada spółdzielni. W wypadku gdy zwołanie rady napotyka poważne trudności albo gdy likwidatora wyznacza związek rewizyjny, umowę z likwidatorem zawiera ten związek, działając w imieniu spółdzielni.
 
+<a id="art-119"></a>
 ### Art. 119.
 
 § 1. Do likwidatora stosuje się odpowiednio przepisy dotyczące zarządu spółdzielni i członków zarządu, jeżeli przepisy o likwidacji nie stanowią inaczej.
@@ -1032,16 +1463,19 @@ Spółdzielnia w stanie likwidacji może połączyć się z inną spółdzielni�
 
 § 5. Organ, który odwołuje likwidatora, obowiązany jest równocześnie wyznaczyć innego.
 
+<a id="art-120"></a>
 ### Art. 120.
 
 Z dniem wpisania do Krajowego Rejestru Sądowego otwarcia likwidacji wygasają uprzednio udzielone pełnomocnictwa podlegające wpisowi do Krajowego Rejestru Sądowego.
 
+<a id="art-121"></a>
 ### Art. 121.
 
 § 1. Spółdzielnia w likwidacji zachowuje dotychczasową swoją nazwę z dodaniem wyrazów: „w likwidacji”.
 
 § 2. Osoba prawna wyznaczona na likwidatora składa oświadczenia w imieniu spółdzielni z zachowaniem przepisów normujących składanie oświadczeń tej osoby.
 
+<a id="art-122"></a>
 ### Art. 122.
 
 Likwidator powinien niezwłocznie po wyznaczeniu go:
@@ -1056,10 +1490,12 @@ Likwidator powinien niezwłocznie po wyznaczeniu go:
 
 5) sporządzić plan finansowy likwidacji i plan zaspokojenia zobowiązań.
 
+<a id="art-123"></a>
 ### Art. 123.
 
-W czasie likwidacji nie stosuje się przepisu art. 90 § 1, w zakresie kolejności pokrywania strat bilansowych.
+W czasie likwidacji nie stosuje się przepisu [art. 90](#art-90) § 1, w zakresie kolejności pokrywania strat bilansowych.
 
+<a id="art-124"></a>
 ### Art. 124.
 
 § 1. O odmowie zaspokojenia zgłoszonych wierzytelności likwidator powinien zawiadomić wierzyciela pisemnie w ciągu czterech tygodni od dnia zgłoszenia wierzytelności.
@@ -1068,6 +1504,7 @@ W czasie likwidacji nie stosuje się przepisu art. 90 § 1, w zakresie kolejnoś
 
 § 3. Uznanie przez likwidatora wierzytelności przerywa bieg przedawnienia i terminu zawitego, jeżeli zostało dokonane pisemnie.
 
+<a id="art-125"></a>
 ### Art. 125.
 
 § 1. Należności przypadające od spółdzielni zaspokaja się w następującej kolejności:
@@ -1094,6 +1531,7 @@ W czasie likwidacji nie stosuje się przepisu art. 90 § 1, w zakresie kolejnoś
 
 § 6. Jeżeli uchwała walnego zgromadzenia nie zawiera stosownego wskazania, likwidator przekazuje pozostały majątek nieodpłatnie na cele spółdzielcze lub społeczne.
 
+<a id="art-126"></a>
 ### Art. 126.
 
 § 1. Po zakończeniu likwidacji likwidator przedstawia walnemu zgromadzeniu do zatwierdzenia sprawozdanie finansowe na dzień zakończenia likwidacji.
@@ -1102,22 +1540,27 @@ W czasie likwidacji nie stosuje się przepisu art. 90 § 1, w zakresie kolejnoś
 
 § 3.4) Po zatwierdzeniu sprawozdania finansowego na dzień zakończenia likwidacji, likwidator zgłasza do Krajowego Rejestru Sądowego wniosek o wykreślenie spółdzielni z Krajowego Rejestru Sądowego oraz przekazuje księgi i dokumenty zlikwidowanej spółdzielni do przechowania.
 
+<a id="art-127"></a>
 ### Art. 127.
 
-W razie zaspokojenia wszelkich należności przypadających od spółdzielni i złożenia do depozytu sądowego kwot na zabezpieczenie należności spornych lub niewymagalnych, spółdzielnia może ulec wykreśleniu z Krajowego Rejestru Sądowego przed zakończeniem prowadzonych przez nią lub przeciwko niej sporów sądowych. W takim wypadku w miejsce spółdzielni wchodzi jako strona związek rewizyjny, w którym spółdzielnia jest zrzeszona. Związek rewizyjny obowiązany jest do przekazania kwot uzyskanych w wyniku sporu na cele określone stosownie do art. 125 § 5 i 6.
+W razie zaspokojenia wszelkich należności przypadających od spółdzielni i złożenia do depozytu sądowego kwot na zabezpieczenie należności spornych lub niewymagalnych, spółdzielnia może ulec wykreśleniu z Krajowego Rejestru Sądowego przed zakończeniem prowadzonych przez nią lub przeciwko niej sporów sądowych. W takim wypadku w miejsce spółdzielni wchodzi jako strona związek rewizyjny, w którym spółdzielnia jest zrzeszona. Związek rewizyjny obowiązany jest do przekazania kwot uzyskanych w wyniku sporu na cele określone stosownie do [art. 125](#art-125) § 5 i 6.
 
+<a id="art-128"></a>
 ### Art. 128.
 
 § 1. Po wykreśleniu spółdzielni z Krajowego Rejestru Sądowego likwidator odpowiada wobec wierzycieli spółdzielni za wyrządzone im szkody przez niedopełnienie swoich ustawowych obowiązków.
 
-§ 2. Przepis paragrafu poprzedzającego stosuje się odpowiednio do członków ostatniego zarządu spółdzielni wykreślonej z Krajowego Rejestru Sądowego w trybie określonym w art. 115.
+§ 2. Przepis paragrafu poprzedzającego stosuje się odpowiednio do członków ostatniego zarządu spółdzielni wykreślonej z Krajowego Rejestru Sądowego w trybie określonym w [art. 115](#art-115).
 
+<a id="art-129"></a>
 ### Art. 129.
 
 Minister Sprawiedliwości, w porozumieniu z Ministrem Edukacji Narodowej5) oraz po zasięgnięciu opinii Krajowej Rady Spółdzielczej, określi w drodze rozporządzenia sposób i czas przechowywania ksiąg i dokumentów zlikwidowanych spółdzielni oraz organizacji spółdzielczych.
 
+<a id="dzial-xiii"></a>
 ### Dział XIII. Upadłość spółdzielni
 
+<a id="art-130"></a>
 ### Art. 130.
 
 § 1. Ogłoszenie upadłości spółdzielni następuje w razie jej niewypłacalności.
@@ -1128,46 +1571,59 @@ Minister Sprawiedliwości, w porozumieniu z Ministrem Edukacji Narodowej5) oraz 
 
 § 4. W razie podjęcia przez walne zgromadzenie uchwały o postawieniu spółdzielni w stan upadłości, zarząd spółdzielni obowiązany jest niezwłocznie zgłosić do sądu wniosek o ogłoszenie upadłości.
 
+<a id="art-131"></a>
 ### Art. 131.
 
 Z wnioskiem o ogłoszenie upadłości spółdzielni będącej w stanie likwidacji obowiązany jest wystąpić do sądu likwidator niezwłocznie po stwierdzeniu niewypłacalności spółdzielni.
 
+<a id="art-132"></a>
 ### Art. 132.
 
 Na wniosek wierzyciela, który zgłosił wniosek o ogłoszenie upadłości spółdzielni, sąd może zarządzić postawienie jej w stan upadłości pomimo uchwały walnego zgromadzenia spółdzielni o dalszym jej istnieniu.
 
+<a id="art-133"></a>
 ### Art. 133.
 
 Jeżeli ze sprawozdania finansowego sporządzonego przez zarząd lub przez likwidatora wynika, że majątek spółdzielni, która zaprzestała swej działalności, nie wystarcza na pokrycie kosztów postępowania upadłościowego, a wierzyciele nie wyrażą zgody na ich pokrycie, sąd na wniosek wierzycieli lub Krajowej Rady Spółdzielczej zarządzi wykreślenie spółdzielni z Krajowego Rejestru Sądowego, zawiadamiając o tym wierzycieli i Krajową Radę Spółdzielczą. W takim wypadku nie przeprowadza się postępowania upadłościowego.
 
+<a id="art-134"></a>
 ### Art. 134.
 
 Przepisy o organach spółdzielni stosuje się także podczas postępowania upadłościowego, jeżeli z przepisów prawa upadłościowego nie wynika inaczej.
 
+<a id="art-135"></a>
 ### Art. 135.
 
 Po ogłoszeniu upadłości członkowie spółdzielni, na żądanie syndyka upadłości, niezwłocznie uiszczają niewpłaconą jeszcze część udziału.
 
+<a id="art-136"></a>
 ### Art. 136.
 
 Po ukończeniu postępowania upadłościowego syndyk upadłości zgłosi do sądu rejestrowego wniosek o wykreślenie spółdzielni z Krajowego Rejestru Sądowego.
 
+<a id="art-137"></a>
 ### Art. 137.
 
 Do postępowania upadłościowego w sprawach nieuregulowanych niniejszą ustawą stosuje się przepisy prawa upadłościowego.
 
+<a id="tytul-ii"></a>
 ## Tytuł II. Przepisy szczególne dla spółdzielni produkcji rolnej, spółdzielni kółek rolniczych i spółdzielni pracy
 
+<a id="dzial-i-1"></a>
 ### Dział I. Spółdzielnie produkcji rolnej
 
+<a id="rozdzial-1-1"></a>
 ### Rozdział 1. Rolnicze spółdzielnie produkcyjne
 
+<a id="oddzial-1"></a>
 #### Oddział 1. Przedmiot działalności i członkostwo
 
+<a id="art-138"></a>
 ### Art. 138.
 
 Przedmiotem działalności rolniczej spółdzielni produkcyjnej jest prowadzenie wspólnego gospodarstwa rolnego oraz działalności na rzecz indywidualnych gospodarstw rolnych członków. Spółdzielnia może również prowadzić inną działalność gospodarczą.
 
+<a id="art-139"></a>
 ### Art. 139.
 
 § 1. Członkami spółdzielni mogą być rolnicy będący:
@@ -1180,12 +1636,15 @@ Przedmiotem działalności rolniczej spółdzielni produkcyjnej jest prowadzenie
 
 § 3. (uchylony)
 
+<a id="art-140"></a>
 ### Art. 140.
 
 (uchylony)
 
+<a id="oddzial-2"></a>
 #### Oddział 2. Wkłady gruntowe i pieniężne
 
+<a id="art-141"></a>
 ### Art. 141.
 
 § 1. Statut spółdzielni może przewidywać, że członek posiadający grunty jest obowiązany wnieść je w całości lub części jako wkład do spółdzielni.
@@ -1194,30 +1653,36 @@ Przedmiotem działalności rolniczej spółdzielni produkcyjnej jest prowadzenie
 
 § 3. Wniesienie wkładu gruntowego przez posiadacza zależnego wymaga zgody właściciela.
 
+<a id="art-142"></a>
 ### Art. 142.
 
 Statut może przewidywać, że członkowi przysługuje prawo do działki przyzagrodowej. W takim wypadku statut powinien określać, którym członkom przysługuje prawo do działki przyzagrodowej, wielkość działek i sposób ich wydzielania.
 
+<a id="art-143"></a>
 ### Art. 143.
 
 Użytkowanie przez spółdzielnię wkładów gruntowych jest odpłatne. Statut określa zasady wynagradzania za użytkowanie tych wkładów.
 
+<a id="art-144"></a>
 ### Art. 144.
 
 § 1. Grunty wniesione jako wkłady ocenia się na zasadzie szacunku porównawczego ich wartości użytkowej.
 
 § 2. Budynki i inne urządzenia stanowiące wkład szacuje się w pieniądzach według stanu i cen z dnia wniesienia.
 
+<a id="art-145"></a>
 ### Art. 145.
 
 § 1. Jeżeli statut lub umowa z członkiem inaczej nie postanawia, spółdzielnia nabywa prawo użytkowania wkładu gruntowego wniesionego przez członka, z chwilą przejęcia tego wkładu.
 
 § 2. Użytkowanie przez spółdzielnię wniesionych przez członka wkładów gruntowych regulują przepisy Kodeksu cywilnego.
 
+<a id="art-146"></a>
 ### Art. 146.
 
 (uchylony)
 
+<a id="art-147"></a>
 ### Art. 147.
 
 § 1. Członek będący właścicielem gruntu stanowiącego jego wkład może tym gruntem rozporządzać aktami między żyjącymi lub na wypadek śmierci, jednakże o zamierzonym przeniesieniu własności gruntu na osobę niebędącą członkiem tej samej spółdzielni powinien spółdzielnię uprzedzić co najmniej na trzy miesiące przed dokonaniem tej czynności.
@@ -1226,6 +1691,7 @@ Użytkowanie przez spółdzielnię wkładów gruntowych jest odpłatne. Statut o
 
 § 3. Grunt przeniesiony na własność innego członka tej samej spółdzielni powiększa wkład nabywcy.
 
+<a id="art-148"></a>
 ### Art. 148.
 
 § 1. Jeżeli statut przewiduje wniesienie wkładu gruntowego, powinien określać zasady i termin jego wycofania w razie ustania członkostwa w spółdzielni oraz określać zasady częściowego wycofania wkładu gruntowego w czasie trwania członkostwa.
@@ -1238,18 +1704,22 @@ Użytkowanie przez spółdzielnię wkładów gruntowych jest odpłatne. Statut o
 
 § 5. Przepisy paragrafów poprzedzających stosuje się odpowiednio do budynków i innych urządzeń stanowiących wkład, przy uwzględnieniu na rzecz spółdzielni stopnia ich normalnego zużycia na skutek użytkowania zgodnego z przeznaczeniem.
 
+<a id="art-149"></a>
 ### Art. 149.
 
 W wypadku gdy grunt został wniesiony przez posiadacza samoistnego, a do chwili ustania członkostwa zasiedzenie nie nastąpiło, przedmiotem dalszego zasiedzenia staje się działka zamienna.
 
+<a id="art-150"></a>
 ### Art. 150.
 
 (uchylony)
 
+<a id="art-151"></a>
 ### Art. 151.
 
 Następcy prawni członka, jak również niebędący członkami właściciele gruntów wniesionych za ich zgodą do spółdzielni, mogą wycofać wkład gruntowy według zasad odnoszących się do członka, który wypowiedział członkostwo.
 
+<a id="art-152"></a>
 ### Art. 152.
 
 § 1. Statut spółdzielni może zobowiązywać członków do wniesienia określonego wkładu pieniężnego. Na poczet tego wkładu spółdzielnia może przyjąć środki produkcji, jak: inwentarz żywy, pasze, materiał siewny, urządzenia, maszyny i narzędzia przydatne we wspólnym gospodarstwie. Środki te podlegają oszacowaniu według stanu i cen z dnia wniesienia.
@@ -1260,40 +1730,48 @@ Następcy prawni członka, jak również niebędący członkami właściciele gr
 
 § 4. Wypłata odsetek od wkładu pieniężnego następuje raz w roku w terminie wskazanym w statucie. Strony mogą uzgodnić, że należne za dany rok odsetki zostaną zaliczone na powiększenie wkładu pieniężnego członka.
 
+<a id="art-153"></a>
 ### Art. 153.
 
-§ 1. Wkład pieniężny podlega zwrotowi w wypadku ustania członkostwa. Zwrot następuje w gotówce przy uwzględnieniu zasad, o których mowa w art. 152 § 2.
+§ 1. Wkład pieniężny podlega zwrotowi w wypadku ustania członkostwa. Zwrot następuje w gotówce przy uwzględnieniu zasad, o których mowa w [art. 152](#art-152) § 2.
 
 § 2. Przepis § 1 stosuje się do następców prawnych członka.
 
+<a id="art-154"></a>
 ### Art. 154.
 
 § 1. Jeżeli statut dopuszcza możliwość wnoszenia nadobowiązkowego wkładu pieniężnego – wkład taki może być zwrócony w czasie trwania członkostwa.
 
-§ 2. Do wkładu nadobowiązkowego stosuje się odpowiednio przepisy art. 152 i 153.
+§ 2. Do wkładu nadobowiązkowego stosuje się odpowiednio przepisy [art. 152](#art-152) i 153.
 
+<a id="art-154a"></a>
 ### Art. 154a.
 
 Statut spółdzielni może przewidywać powiększenie wkładów pieniężnych z dochodu ogólnego. W takim wypadku statut określa uprawnienia członków do wycofania w czasie trwania członkostwa części wkładu pochodzącego z odpisów.
 
+<a id="oddzial-3"></a>
 #### Oddział 3. Praca
 
+<a id="art-155"></a>
 ### Art. 155.
 
 § 1. Zdolny do pracy członek spółdzielni ma prawo i obowiązek pracować w spółdzielni w rozmiarze ustalanym corocznie przez zarząd, stosownie do potrzeb wynikających z planu działalności gospodarczej spółdzielni.
 
 § 2. Przy przydzielaniu pracy członkom spółdzielnia powinna uwzględniać ich kwalifikacje zawodowe i osobiste.
 
+<a id="art-156"></a>
 ### Art. 156.
 
 § 1. Oprócz członków spółdzielnia może zatrudniać także ich domowników.
 
 § 2. Za domownika członka uważa się każdego członka jego rodziny, a także inne osoby, jeżeli zamieszkują z nim wspólnie i prowadzą z nim wspólne gospodarstwo domowe.
 
+<a id="art-157"></a>
 ### Art. 157.
 
 Spółdzielnia poza członkami i domownikami może zatrudniać stosownie do swoich potrzeb również inne osoby na podstawie umowy o pracę lub na podstawie innego stosunku prawnego, którego przedmiotem jest świadczenie pracy.
 
+<a id="art-158"></a>
 ### Art. 158.
 
 § 1. Członkowie wynagradzani są za pracę w formie udziału w dochodzie podzielnym stosownie do wkładu ich pracy.
@@ -1302,46 +1780,57 @@ Spółdzielnia poza członkami i domownikami może zatrudniać stosownie do swoi
 
 § 3. Szczegółowe zasady oceny wkładu pracy dla określenia udziału członków w dochodzie podzielnym ustala walne zgromadzenie, uwzględniając warunki pracy, potrzebne kwalifikacje oraz odpowiedzialność z tytułu powierzonej funkcji.
 
+<a id="art-159"></a>
 ### Art. 159.
 
 Domownikowi przysługuje wynagrodzenie za pracę według zasad odnoszących się do członka, chyba że w umowie zastrzeżono inny sposób wynagradzania.
 
+<a id="art-160"></a>
 ### Art. 160.
 
 Członkom i ich domownikom przysługuje prawo do corocznego urlopu wypoczynkowego w wymiarze i według zasad określonych w statucie. Statut określa także sposób obliczania wynagrodzenia przysługującego za czas urlopu.
 
+<a id="art-161"></a>
 ### Art. 161.
 
 § 1. Członkom i ich domownikom pracującym w spółdzielni przysługuje prawo do świadczeń związanych z okresem ciąży, urodzeniem i wychowaniem małego dziecka na zasadach określonych w przepisach prawa pracy.
 
 § 2. (uchylony)
 
+<a id="art-162"></a>
 ### Art. 162.
 
 § 1. Członkowie spółdzielni będący emerytami lub rencistami zachowują prawa członkowskie przewidziane w statucie.
 
 § 2. Członków, o których mowa w paragrafie poprzedzającym, nieobecnych na walnym zgromadzeniu nie wlicza się do liczby członków wymaganej w statucie dla ważności podejmowanych uchwał.
 
+<a id="oddzial-4"></a>
 #### Oddział 4. Dochodzenie i ochrona roszczeń z tytułu pracy
 
+<a id="art-163"></a>
 ### Art. 163.
 
 Roszczeń z tytułu wynagrodzenia za pracę członek może dochodzić w drodze sądowej bez wyczerpania postępowania wewnątrzspółdzielczego.
 
+<a id="art-164"></a>
 ### Art. 164.
 
 Roszczenia członka i domownika z tytułu wykonywanej pracy przedawniają się z upływem lat trzech od dnia, w którym roszczenie stało się wymagalne.
 
+<a id="art-165"></a>
 ### Art. 165.
 
 Wynagrodzenia członka i domownika za pracę korzystają z takiej samej ochrony, jaką prawo zapewnia wynagrodzeniu pracownika.
 
+<a id="oddzial-5"></a>
 #### Oddział 5. Fundusze spółdzielni, dochód i jego podział
 
+<a id="art-166"></a>
 ### Art. 166.
 
 Dochód ogólny spółdzielni stanowi różnicę między przychodem uzyskanym w danym roku obrachunkowym z produkcji i usług oraz zysków nadzwyczajnych a sumą poniesionych kosztów na tę działalność, pomniejszoną o straty nadzwyczajne i należne podatki oraz powiększoną lub pomniejszoną o różnicę wartości zapasów między stanem na koniec roku obrachunkowego a stanem na początek tego roku. Przy ustalaniu dochodu ogólnego uwzględnia się udział spółdzielni w wyniku finansowym innych organizacji.
 
+<a id="art-167"></a>
 ### Art. 167.
 
 § 1. Zasadniczymi funduszami własnymi tworzonymi w spółdzielni są:
@@ -1352,44 +1841,55 @@ Dochód ogólny spółdzielni stanowi różnicę między przychodem uzyskanym w 
 
 § 2. Spółdzielnia tworzy także inne fundusze własne przewidziane w odrębnych przepisach oraz w jej statucie.
 
+<a id="art-168"></a>
 ### Art. 168.
 
 Dochód ogólny podlega podziałowi na podstawie uchwały walnego zgromadzenia. Spółdzielnia przeznacza co najmniej 3 % dochodu ogólnego na fundusz zasobowy, jeżeli fundusz ten nie osiąga wysokości wniesionych udziałów obowiązkowych.
 
+<a id="art-169"></a>
 ### Art. 169.
 
 (uchylony)
 
+<a id="art-170"></a>
 ### Art. 170.
 
 (uchylony)
 
+<a id="art-171"></a>
 ### Art. 171.
 
-§ 1. Część dochodu ogólnego powstała po dokonaniu odpisów, o których mowa w art. 154a, 167 i 168, stanowi dochód podzielny podlegający podziałowi między członków i domowników z tytułu wykonywania pracy.
+§ 1. Część dochodu ogólnego powstała po dokonaniu odpisów, o których mowa w [art. 154a](#art-154a), 167 i 168, stanowi dochód podzielny podlegający podziałowi między członków i domowników z tytułu wykonywania pracy.
 
 § 2. Statut może przewidywać uprawnienie walnego zgromadzenia do dokonywania odpisów z dochodu podzielnego na rezerwę stabilizacji udziału w dochodzie członków i domowników w latach następnych. W takim wypadku statut powinien określać zasady wykorzystywania tej rezerwy.
 
 § 3. Podział dochodu podzielnego następuje w ciągu miesiąca po zatwierdzeniu przez walne zgromadzenie sprawozdania finansowego danego roku obrachunkowego. Na poczet podziału spółdzielnia może wypłacać członkom i domownikom zaliczki według zasad ustalonych w statucie.
 
+<a id="art-172"></a>
 ### Art. 172.
 
-W sprawach nieuregulowanych w art. 166–168 i 171 mają odpowiednie zastosowanie przepisy działu VII części I tytułu I niniejszej ustawy, z wyjątkiem przepisów art. 75, 76, 77 § 1 i 2 oraz art. 78.
+W sprawach nieuregulowanych w [art. 166](#art-166)–168 i 171 mają odpowiednie zastosowanie przepisy [działu VII](#dzial-vii) części I tytułu I niniejszej ustawy, z wyjątkiem przepisów [art. 75](#art-75), 76, 77 § 1 i 2 oraz [art. 78](#art-78).
 
+<a id="rozdzial-2-1"></a>
 ### Rozdział 2. (uchylony)
 
+<a id="rozdzial-3-1"></a>
 ### Rozdział 3. Inne spółdzielnie zajmujące się produkcją rolną
 
+<a id="art-178"></a>
 ### Art. 178.
 
 § 1. Poza spółdzielniami wymienionymi w rozdziale 1 niniejszego działu mogą być tworzone inne spółdzielnie, których podstawowym przedmiotem działalności jest prowadzenie wspólnego gospodarstwa rolnego.
 
 § 2. Jeżeli w takich spółdzielniach członkowie-osoby fizyczne mają według statutu wynikający z członkostwa obowiązek wnoszenia w całości lub w części wkładów gruntowych i pieniężnych oraz pracy w spółdzielni, to – w braku odmiennych postanowień statutowych – stosuje się do nich odpowiednio przepisy art. 142–145, 147–149, 151–168, 171 i 172 i odpowiednie przepisy Kodeksu cywilnego dotyczące rolniczych spółdzielni produkcyjnych. Statut może w szczególności przewidywać odpowiednie stosowanie wyłącznie przepisów art. 142–145, 147–149, 151–154 i odpowiednich przepisów Kodeksu cywilnego dotyczących rolniczych spółdzielni produkcyjnych, a w pozostałym zakresie – przepisów części I tytułu I działu VII i przepisów prawa pracy. Dotyczy to zwłaszcza tworzonych z inicjatywy kółek rolniczych spółdzielni zrzeszających osoby fizyczne.
 
+<a id="rozdzial-4-1"></a>
 ### Rozdział 4. (uchylony)
 
+<a id="dzial-ii-1"></a>
 ### Dział II. Spółdzielnie kółek rolniczych (usług rolniczych)
 
+<a id="art-180"></a>
 ### Art. 180.
 
 § 1. Przedmiotem gospodarczej działalności spółdzielni kółek rolniczych (usług rolniczych) jest świadczenie usług dla rolnictwa i innych rodzajów usług wynikających z potrzeb środowiska wiejskiego.
@@ -1398,12 +1898,15 @@ W sprawach nieuregulowanych w art. 166–168 i 171 mają odpowiednie zastosowani
 
 § 3. W wypadku gdy spółdzielnia zrzesza obok osób prawnych również osoby fizyczne i zajmuje się produkcją rolną (prowadzeniem gospodarstwa rolnego), a jej członkowie-osoby fizyczne mają według statutu wynikający z członkostwa obowiązek wnoszenia w całości lub części wkładów gruntowych i pieniężnych, to w braku odmiennych postanowień statutowych stosuje się do nich odpowiednio przepisy art. 142–145, 147–149, 151–154 i odpowiednie przepisy Kodeksu cywilnego dotyczące rolniczych spółdzielni produkcyjnych.
 
+<a id="dzial-iii-1"></a>
 ### Dział III. Spółdzielnie pracy
 
+<a id="art-181"></a>
 ### Art. 181.
 
 Przedmiotem gospodarczej działalności spółdzielni pracy jest prowadzenie wspólnego przedsiębiorstwa w oparciu o osobistą pracę członków.
 
+<a id="art-181a"></a>
 ### Art. 181a.
 
 § 1. Przedmiotem działalności spółdzielni inwalidów i spółdzielni niewidomych jest zawodowa i społeczna rehabilitacja inwalidów i niewidomych przez pracę w prowadzonym wspólnie przedsiębiorstwie.
@@ -1414,6 +1917,7 @@ Przedmiotem gospodarczej działalności spółdzielni pracy jest prowadzenie wsp
 
 § 4. (uchylony)
 
+<a id="art-182"></a>
 ### Art. 182.
 
 § 1. Spółdzielnia i członek spółdzielni mają obowiązek pozostawania ze sobą w stosunku pracy. Poza wyjątkami przewidzianymi w przepisach ustawy odmowa nawiązania stosunku pracy lub pozostawania w takim stosunku stanowi naruszenie istotnych praw i obowiązków wynikających ze stosunku członkostwa.
@@ -1424,12 +1928,14 @@ Przedmiotem gospodarczej działalności spółdzielni pracy jest prowadzenie wsp
 
 § 4. W razie nienawiązania stosunku pracy z winy spółdzielni, członek może dochodzić przez cały czas trwania członkostwa zawarcia spółdzielczej umowy o pracę. Niezależnie od tego może on, w ciągu roku od dnia powstania członkostwa, dochodzić odszkodowania według przepisów prawa cywilnego.
 
+<a id="art-183"></a>
 ### Art. 183.
 
 § 1. Za pracę w spółdzielni członek spółdzielni otrzymuje wynagrodzenie, na które składa się wynagrodzenie bieżące i udział w części nadwyżki bilansowej przeznaczonej do podziału między członków zgodnie z zasadami ustalonymi w statucie.
 
 § 2. Wynagrodzenie bieżące członka i jego udział w nadwyżce bilansowej korzystają z ochrony, jaką prawo zapewnia wynagrodzeniu pracownika.
 
+<a id="art-184"></a>
 ### Art. 184.
 
 § 1. Wypowiedzenie członkowi spółdzielni warunków pracy lub płacy jest dopuszczalne:
@@ -1440,16 +1946,19 @@ Przedmiotem gospodarczej działalności spółdzielni pracy jest prowadzenie wsp
 
 § 2. Zaproponowane członkowi nowe warunki pracy lub płacy powinny odpowiadać jego kwalifikacjom i możliwościom gospodarczym spółdzielni.
 
+<a id="art-185"></a>
 ### Art. 185.
 
 W razie gospodarczej konieczności walne zgromadzenie, w celu zapewnienia pracy wszystkim członkom, może skrócić równomiernie czas pracy i zmniejszyć odpowiednio wynagrodzenie członków bez wypowiedzenia spółdzielczej umowy o pracę lub jej warunków. Uchwała walnego zgromadzenia powinna dotyczyć co najmniej jednego działu pracy lub wszystkich członków wykonujących pracę tego samego rodzaju.
 
+<a id="art-186"></a>
 ### Art. 186.
 
 § 1. Spółdzielcza umowa o pracę wygasa z ustaniem członkostwa oraz w wypadkach, w których przepisy prawa pracy przewidują wygaśnięcie umowy o pracę z mocy prawa.
 
-§ 2. Rozwiązanie spółdzielczej umowy o pracę w czasie trwania członkostwa jest niedopuszczalne, z wyjątkiem wypadków przewidzianych w art. 187 i 189 oraz rozwiązania tej umowy na skutek nieuzasadnionej odmowy przyjęcia nowych warunków pracy lub płacy, a także rozwiązania jej na mocy porozumienia stron przy jednoczesnym wypowiedzeniu przez członka członkostwa.
+§ 2. Rozwiązanie spółdzielczej umowy o pracę w czasie trwania członkostwa jest niedopuszczalne, z wyjątkiem wypadków przewidzianych w [art. 187](#art-187) i 189 oraz rozwiązania tej umowy na skutek nieuzasadnionej odmowy przyjęcia nowych warunków pracy lub płacy, a także rozwiązania jej na mocy porozumienia stron przy jednoczesnym wypowiedzeniu przez członka członkostwa.
 
+<a id="art-187"></a>
 ### Art. 187.
 
 Spółdzielnia może rozwiązać z członkiem spółdzielczą umowę o pracę w czasie trwania członkostwa, z zachowaniem przewidzianego w Kodeksie pracy okresu wypowiedzenia, w razie:
@@ -1458,38 +1967,44 @@ Spółdzielnia może rozwiązać z członkiem spółdzielczą umowę o pracę w 
 
 2) przyznania członkowi prawa do emerytury.
 
+<a id="art-188"></a>
 ### Art. 188.
 
-§ 1. W razie naruszenia przez spółdzielnię przepisów art. 184, art. 187 i art. 191, członkowi spółdzielni służy roszczenie o orzeczenie bezskuteczności wypowiedzenia spółdzielczej umowy o pracę lub jej warunków, a jeżeli spółdzielcza umowa o pracę uległa już rozwiązaniu – roszczenie o przywrócenie do pracy na poprzednich warunkach.
+§ 1. W razie naruszenia przez spółdzielnię przepisów [art. 184](#art-184), [art. 187](#art-187) i [art. 191](#art-191), członkowi spółdzielni służy roszczenie o orzeczenie bezskuteczności wypowiedzenia spółdzielczej umowy o pracę lub jej warunków, a jeżeli spółdzielcza umowa o pracę uległa już rozwiązaniu – roszczenie o przywrócenie do pracy na poprzednich warunkach.
 
 § 2. Członkowi spółdzielni, który podjął pracę w wyniku przywrócenia do pracy, przysługuje za czas pozostawania bez pracy, niedłuższy jednak niż sześć miesięcy, wynagrodzenie obliczone na podstawie przeciętnego wynagrodzenia bieżącego z ostatnich trzech miesięcy oraz odpowiedni udział w części nadwyżki bilansowej.
 
-§ 3. Przepis paragrafu poprzedzającego stosuje się odpowiednio do członka spółdzielni, który po wypowiedzeniu mu warunków pracy lub płacy z naruszeniem art. 184 przystąpił do pracy na warunkach określonych w tym wypowiedzeniu.
+§ 3. Przepis paragrafu poprzedzającego stosuje się odpowiednio do członka spółdzielni, który po wypowiedzeniu mu warunków pracy lub płacy z naruszeniem [art. 184](#art-184) przystąpił do pracy na warunkach określonych w tym wypowiedzeniu.
 
+<a id="art-189"></a>
 ### Art. 189.
 
 § 1. W czasie trwania członkostwa spółdzielnia może rozwiązać spółdzielczą umowę o pracę bez wypowiedzenia tylko z przyczyn uzasadniających według przepisów Kodeksu pracy takie rozwiązanie umowy bez winy pracownika.
 
-§ 2. Członkowi, z którym rozwiązano spółdzielczą umowę o pracę bez wypowiedzenia mimo braku przyczyn, o których mowa w paragrafie poprzedzającym, lub z naruszeniem przepisu art. 191, służy roszczenie o przywrócenie do pracy na poprzednich warunkach.
+§ 2. Członkowi, z którym rozwiązano spółdzielczą umowę o pracę bez wypowiedzenia mimo braku przyczyn, o których mowa w paragrafie poprzedzającym, lub z naruszeniem przepisu [art. 191](#art-191), służy roszczenie o przywrócenie do pracy na poprzednich warunkach.
 
-§ 3. Członkowi, który podjął pracę w wyniku przywrócenia do pracy, przysługuje wynagrodzenie za czas pozostawania bez pracy według zasad określonych w art. 188 § 2, niemniej jednak niż w wysokości jednomiesięcznego wynagrodzenia.
+§ 3. Członkowi, który podjął pracę w wyniku przywrócenia do pracy, przysługuje wynagrodzenie za czas pozostawania bez pracy według zasad określonych w [art. 188](#art-188) § 2, niemniej jednak niż w wysokości jednomiesięcznego wynagrodzenia.
 
+<a id="art-190"></a>
 ### Art. 190.
 
 § 1. Wypowiedzenie albo rozwiązanie spółdzielczej umowy o pracę, jak również wypowiedzenie warunków pracy lub płacy wymaga przewidzianego w Kodeksie pracy współdziałania z organami związku zawodowego, jeżeli związek taki działa w spółdzielni.
 
-§ 2. Przepisy art. 184 oraz art. 187–189 nie wyłączają stosowania korzystniejszych dla członków spółdzielni przepisów prawa pracy, zakazujących lub ograniczających wypowiedzenie umowy o pracę, wypowiedzenie przewidzianych tą umową warunków albo jej rozwiązanie bez wypowiedzenia.
+§ 2. Przepisy [art. 184](#art-184) oraz [art. 187](#art-187)–189 nie wyłączają stosowania korzystniejszych dla członków spółdzielni przepisów prawa pracy, zakazujących lub ograniczających wypowiedzenie umowy o pracę, wypowiedzenie przewidzianych tą umową warunków albo jej rozwiązanie bez wypowiedzenia.
 
+<a id="art-191"></a>
 ### Art. 191.
 
 Oświadczenie spółdzielni o wypowiedzeniu spółdzielczej umowy o pracę, o rozwiązaniu tej umowy bez wypowiedzenia albo o wypowiedzeniu warunków pracy lub płacy powinno być złożone w formie pisemnej z podaniem przyczyny uzasadniającej wypowiedzenie albo rozwiązanie.
 
+<a id="art-192"></a>
 ### Art. 192.
 
 § 1. Po ustaniu przyczyn, które uzasadniały wypowiedzenie albo rozwiązanie przez spółdzielnię spółdzielczej umowy o pracę bez wypowiedzenia w czasie trwania członkostwa, spółdzielnia i członek spółdzielni obowiązani są zawrzeć spółdzielczą umowę o pracę.
 
-§ 2. W razie naruszenia przez spółdzielnię obowiązku, o którym mowa w paragrafie poprzedzającym, członkowi spółdzielni służy roszczenie o nawiązaniu spółdzielczej umowy o pracę o treści odpowiadającej aktualnym możliwościom gospodarczym spółdzielni. Członkowi, który podjął pracę, przysługuje wynagrodzenie za czas pozostawania bez pracy na zasadach określonych w art. 188 § 2, z tym że za podstawę obliczenia wysokości przeciętnego wynagrodzenia przyjmuje się wynagrodzenie ustalone dla nowo podjętej pracy.
+§ 2. W razie naruszenia przez spółdzielnię obowiązku, o którym mowa w paragrafie poprzedzającym, członkowi spółdzielni służy roszczenie o nawiązaniu spółdzielczej umowy o pracę o treści odpowiadającej aktualnym możliwościom gospodarczym spółdzielni. Członkowi, który podjął pracę, przysługuje wynagrodzenie za czas pozostawania bez pracy na zasadach określonych w [art. 188](#art-188) § 2, z tym że za podstawę obliczenia wysokości przeciętnego wynagrodzenia przyjmuje się wynagrodzenie ustalone dla nowo podjętej pracy.
 
+<a id="art-193"></a>
 ### Art. 193.
 
 § 1. Wykluczenie członka ze spółdzielni może nastąpić:
@@ -1498,12 +2013,13 @@ Oświadczenie spółdzielni o wypowiedzeniu spółdzielczej umowy o pracę, o ro
 
 2) w razie ciężkiego naruszenia obowiązków członkowskich lub umyślnego działania na szkodę spółdzielni.
 
-§ 2. Przepisy paragrafu poprzedzającego nie wyłączają stosowania art. 24 § 1.
+§ 2. Przepisy paragrafu poprzedzającego nie wyłączają stosowania [art. 24](#art-24) § 1.
 
 § 3. Wykluczenie nie może nastąpić po upływie jednego miesiąca od uzyskania przez spółdzielnię wiadomości o okolicznościach je uzasadniających.
 
 § 4. Wykluczenie członka, który był zatrudniony na podstawie spółdzielczej umowy o pracę, pociąga za sobą skutki, jakie przepisy prawa pracy wiążą z rozwiązaniem przez zakład pracy umowy o pracę bez wypowiedzenia z winy pracownika.
 
+<a id="art-194"></a>
 ### Art. 194.
 
 § 1. Wykreślenie z rejestru członków spółdzielni może nastąpić tylko w wypadku, gdy:
@@ -1516,26 +2032,30 @@ Oświadczenie spółdzielni o wypowiedzeniu spółdzielczej umowy o pracę, o ro
 
 § 2. W wypadku wymienionym w § 1 pkt 2 wykreślenie staje się skuteczne po upływie okresu przewidzianego w Kodeksie pracy dla wypowiedzenia umowy o pracę.
 
+<a id="art-195"></a>
 ### Art. 195.
 
 Jeżeli w spółdzielni działa związek zawodowy, spółdzielnia podejmuje uchwałę o wykluczeniu członka ze spółdzielni albo o wykreśleniu go z rejestru członków po zasięgnięciu opinii właściwego organu związku zawodowego.
 
+<a id="art-196"></a>
 ### Art. 196.
 
-§ 1. Członkowi spółdzielni zatrudnionemu na podstawie spółdzielczej umowy o pracę, którego spółdzielnia wykluczyła lub wykreśliła z rejestru członków z naruszeniem przepisów art. 193–195, przysługują roszczenia przewidziane w przepisach art. 188 § 1 i 2 lub, jeżeli jest to dla członka korzystniejsze, w przepisach prawa pracy dotyczących uprawnienia pracownika w razie niezgodnego z prawem rozwiązania przez zakład pracy umowy o pracę bez wypowiedzenia.
+§ 1. Członkowi spółdzielni zatrudnionemu na podstawie spółdzielczej umowy o pracę, którego spółdzielnia wykluczyła lub wykreśliła z rejestru członków z naruszeniem przepisów [art. 193](#art-193)–195, przysługują roszczenia przewidziane w przepisach [art. 188](#art-188) § 1 i 2 lub, jeżeli jest to dla członka korzystniejsze, w przepisach prawa pracy dotyczących uprawnienia pracownika w razie niezgodnego z prawem rozwiązania przez zakład pracy umowy o pracę bez wypowiedzenia.
 
 § 2. Roszczeń, o których mowa w paragrafie poprzedzającym, członek może dochodzić tylko wtedy, gdy dochodzi uchylenia uchwały o wykluczeniu albo wykreśleniu.
 
-§ 3. Jeżeli wykluczenie albo wykreślenie było uzasadnione, lecz nastąpiło z naruszeniem przepisu art. 193 § 3 lub art. 195, powództwo członka o uchylenie uchwały o wykluczeniu albo o wykreśleniu i o przywrócenie do pracy może być oddalone, o ile dalsze pozostawanie członka w spółdzielni nie dałoby się pogodzić z zasadami współżycia społecznego.
+§ 3. Jeżeli wykluczenie albo wykreślenie było uzasadnione, lecz nastąpiło z naruszeniem przepisu [art. 193](#art-193) § 3 lub [art. 195](#art-195), powództwo członka o uchylenie uchwały o wykluczeniu albo o wykreśleniu i o przywrócenie do pracy może być oddalone, o ile dalsze pozostawanie członka w spółdzielni nie dałoby się pogodzić z zasadami współżycia społecznego.
 
 § 4. Członkowi spółdzielni, który mimo bezzasadnego wykluczenia ze spółdzielni albo wykreślenia z rejestru członków nie dochodzi przywrócenia do pracy ani nawiązania członkostwa, przysługuje odszkodowanie odpowiadające wynagrodzeniu za okres wypowiedzenia.
 
+<a id="art-197"></a>
 ### Art. 197.
 
 § 1. Termin do wszczęcia przez członka spółdzielni postępowania przed sądem w sprawach dotyczących wypowiedzenia spółdzielczej umowy o pracę, warunków pracy i płacy, rozwiązania oraz odmowy jej nawiązania wynosi czternaście dni i liczy się od dnia doręczenia pisemnego zawiadomienia członka o oświadczeniu spółdzielni w tych sprawach wraz z uzasadnieniem.
 
 § 2. W wypadku wniesienia przez członka odwołania w postępowaniu wewnątrzspółdzielczym, termin określony w § 1 biegnie od dnia doręczenia członkowi spółdzielni zawiadomienia wraz z uzasadnieniem o uchwale organu odwoławczego lub od upływu terminu ustalonego w statucie do podjęcia uchwały przez ten organ.
 
+<a id="art-198"></a>
 ### Art. 198.
 
 § 1. Sprawy o istnienie członkostwa, o wykluczenie ze spółdzielni albo o wykreślenie z rejestru członków, a także sprawy o roszczenia z tytułu niezgodnego z prawem wykluczenia ze spółdzielni albo wykreślenia z rejestru członków rozpoznają sądy właściwe dla spraw o prawa niemajątkowe.
@@ -1544,15 +2064,17 @@ Jeżeli w spółdzielni działa związek zawodowy, spółdzielnia podejmuje uchw
 
 § 3. Termin określony w paragrafie poprzedzającym dotyczy również dochodzenia przez członka roszczenia o odszkodowanie z tytułu bezzasadnego wykluczenia lub wykreślenia.
 
+<a id="art-199"></a>
 ### Art. 199.
 
 W sprawach nieuregulowanych przepisami art. 182–198 do spółdzielczej umowy o pracę stosuje się odpowiednio przepisy prawa pracy, z wyjątkiem przepisów Kodeksu pracy o zawieraniu umów o pracę na okres próbny.
 
+<a id="art-200"></a>
 ### Art. 200.
 
 § 1. Statut spółdzielni może uzależnić przyjęcie na członka od odbycia okresu kandydackiego. W takim wypadku statut powinien wskazywać organ spółdzielni uprawniony do przyjmowania kandydatów i określać czas trwania okresu kandydackiego.
 
-§ 2. W stosunku do kandydatów na członków spółdzielni termin przewidziany w art. 17 § 3 biegnie od dnia zakończenia okresu kandydackiego.
+§ 2. W stosunku do kandydatów na członków spółdzielni termin przewidziany w [art. 17](#art-17) § 3 biegnie od dnia zakończenia okresu kandydackiego.
 
 § 3. Do kandydatów na członków spółdzielni stosuje się przepisy Kodeksu pracy dotyczące osób zatrudnionych na podstawie umowy o pracę zawartej na czas określony, jednakże stosunek pracy między kandydatem a spółdzielnią może być rozwiązany wcześniej, z zachowaniem terminów i zasad przewidzianych w przepisach Kodeksu pracy dla rozwiązania umowy zawartej na czas nieokreślony.
 
@@ -1560,34 +2082,43 @@ W sprawach nieuregulowanych przepisami art. 182–198 do spółdzielczej umowy o
 
 § 5. Pracownicy spółdzielni zatrudnieni co najmniej dwanaście miesięcy na podstawie umowy o pracę zawartej na czas nieokreślony, ubiegający się o przyjęcie na członków spółdzielni, są zwolnieni od odbycia okresu kandydackiego. Spółdzielnia nie może odmówić przyjęcia takiego pracownika na członka, jeżeli spełnia on wymagania statutowe, a spółdzielnia ma możność dalszego jego zatrudnienia.
 
+<a id="art-201"></a>
 ### Art. 201.
 
 § 1. Statut może przewidywać zatrudnienie wszystkich lub niektórych członków nie na podstawie spółdzielczej umowy o pracę, lecz na podstawie umowy o pracę nakładczą, umowy zlecenia lub umowy o dzieło, jeżeli jest to uzasadnione rodzajem działalności spółdzielni. Spółdzielnia ma obowiązek równomiernie rozdzielać pracę między tych członków, z uwzględnieniem ich kwalifikacji.
 
 § 1a. Statut może przewidywać także zatrudnienie wszystkich lub niektórych członków na podstawie umowy o pracę.
 
-§ 2. Do członków spółdzielni, o których mowa w § 1, stosuje się odpowiednio przepisy art. 182 § 1, 2 i 4, art. 183 oraz art. 186 § 1.
+§ 2. Do członków spółdzielni, o których mowa w § 1, stosuje się odpowiednio przepisy [art. 182](#art-182) § 1, 2 i 4, [art. 183](#art-183) oraz [art. 186](#art-186) § 1.
 
+<a id="art-202"></a>
 ### Art. 202.
 
-§ 1. Do członków zatrudnionych na podstawie umowy o pracę nakładczą, poza przepisami, o których mowa w art. 201 § 2, stosuje się odpowiednio także przepisy art. 184, 185, 187–198 i 200.
+§ 1. Do członków zatrudnionych na podstawie umowy o pracę nakładczą, poza przepisami, o których mowa w [art. 201](#art-201) § 2, stosuje się odpowiednio także przepisy [art. 184](#art-184), 185, 187–198 i 200.
 
-§ 2. W sprawach nieuregulowanych w art. 201 oraz w paragrafie poprzedzającym stosuje się w zakresie wypowiedzenia umowy o pracę nakładczą, jej rozwiązania bez wypowiedzenia i jej wygaśnięcia odpowiednie przepisy prawa pracy dotyczące umowy o pracę. W pozostałym zakresie stosuje się przepisy tego prawa dotyczące umowy o pracę nakładczą.
+§ 2. W sprawach nieuregulowanych w [art. 201](#art-201) oraz w paragrafie poprzedzającym stosuje się w zakresie wypowiedzenia umowy o pracę nakładczą, jej rozwiązania bez wypowiedzenia i jej wygaśnięcia odpowiednie przepisy prawa pracy dotyczące umowy o pracę. W pozostałym zakresie stosuje się przepisy tego prawa dotyczące umowy o pracę nakładczą.
 
+<a id="art-203"></a>
 ### Art. 203.
 
 Statut spółdzielni powinien określać szczegółowe prawa i obowiązki członków zatrudnionych na podstawie umowy zlecenia albo umowy o dzieło oraz przyczyny uzasadniające wykluczenie tych członków ze spółdzielni lub wykreślenie ich z rejestru członków.
 
+<a id="dzial-iv-1"></a>
 ### Dział IV. (uchylony)
 
+<a id="dzial-v-1"></a>
 ### Dział V. (uchylony)
 
+<a id="dzial-vi-1"></a>
 ### Dział VI. (uchylony)
 
+<a id="czesc-ii"></a>
 ## Część II. Związki spółdzielcze i Krajowa Rada Spółdzielcza
 
+<a id="tytul-i-1"></a>
 ## Tytuł I. Związki spółdzielcze
 
+<a id="art-240"></a>
 ### Art. 240.
 
 § 1. Spółdzielnie mogą zakładać związki rewizyjne i przystępować do takich związków. Liczba założycieli związku rewizyjnego nie może być mniejsza niż dziesięć.
@@ -1622,14 +2153,17 @@ Statut spółdzielni powinien określać szczegółowe prawa i obowiązki człon
 
 § 5. Statut związku nie może zastrzegać dla organów związku uprawnień stanowiących i nadzorczych wobec zrzeszonych spółdzielni, z wyjątkiem określonych w niniejszej ustawie.
 
+<a id="art-240a"></a>
 ### Art. 240a.
 
 (uchylony)
 
+<a id="art-241"></a>
 ### Art. 241.
 
 Krajowa Rada Spółdzielcza prowadzi rejestr związków rewizyjnych. Zasady prowadzenia rejestru i dane w nim uwidocznione określa Krajowa Rada Spółdzielcza.
 
+<a id="art-242"></a>
 ### Art. 242.
 
 § 1. Związek rewizyjny ulega likwidacji:
@@ -1644,75 +2178,91 @@ Krajowa Rada Spółdzielcza prowadzi rejestr związków rewizyjnych. Zasady prow
 
 § 3. Wniosek Krajowej Rady Spółdzielczej, o którym mowa w § 1 pkt 3, powinien zawierać wskazanie likwidatora związku rewizyjnego.
 
+<a id="art-243"></a>
 ### Art. 243.
 
 § 1. Spółdzielnie mogą zakładać związki gospodarcze i przystępować do takich związków.
 
 § 2. Celem tych związków jest prowadzenie działalności gospodarczej na rzecz lub w interesie zrzeszonych spółdzielni.
 
-§ 3. Do związków gospodarczych stosuje się odpowiednio przepisy dotyczące spółdzielni, których członkami zgodnie ze statutem są wyłącznie osoby prawne, oraz art. 241.
+§ 3. Do związków gospodarczych stosuje się odpowiednio przepisy dotyczące spółdzielni, których członkami zgodnie ze statutem są wyłącznie osoby prawne, oraz [art. 241](#art-241).
 
+<a id="art-244"></a>
 ### Art. 244.
 
 (uchylony)
 
+<a id="art-245"></a>
 ### Art. 245.
 
 (uchylony)
 
+<a id="art-246"></a>
 ### Art. 246.
 
 (uchylony)
 
+<a id="art-247"></a>
 ### Art. 247.
 
 (uchylony)
 
+<a id="art-248"></a>
 ### Art. 248.
 
 (uchylony)
 
+<a id="art-249"></a>
 ### Art. 249.
 
 (uchylony)
 
+<a id="art-250"></a>
 ### Art. 250.
 
 (uchylony)
 
+<a id="art-251"></a>
 ### Art. 251.
 
 (uchylony)
 
+<a id="art-252"></a>
 ### Art. 252.
 
 (uchylony)
 
+<a id="art-253"></a>
 ### Art. 253.
 
 (uchylony)
 
+<a id="art-254"></a>
 ### Art. 254.
 
 (uchylony)
 
+<a id="art-255"></a>
 ### Art. 255.
 
 (uchylony)
 
+<a id="art-256"></a>
 ### Art. 256.
 
 (uchylony)
 
+<a id="art-257"></a>
 ### Art. 257.
 
-§ 1. W sprawach nieuregulowanych w niniejszym tytule stosuje się odpowiednio przepisy części I, z wyjątkiem art. 24 § 4 i 6–9, art. 32 i 336), a w odniesieniu do związków rewizyjnych także art. 67, 75–78 oraz przepisów ustawy dotyczących udziałów i wkładów. Przepisy art. 42 stosuje się odpowiednio również do uchwał rady związku.
+§ 1. W sprawach nieuregulowanych w niniejszym tytule stosuje się odpowiednio przepisy części I, z wyjątkiem [art. 24](#art-24) § 4 i 6–9, [art. 32](#art-32) i 336), a w odniesieniu do związków rewizyjnych także [art. 67](#art-67), 75–78 oraz przepisów ustawy dotyczących udziałów i wkładów. Przepisy [art. 42](#art-42) stosuje się odpowiednio również do uchwał rady związku.
 
-§ 2. Lustrację związków spółdzielczych, na podstawie przepisów określonych w art. 91–93, przeprowadza Krajowa Rada Spółdzielcza.
+§ 2. Lustrację związków spółdzielczych, na podstawie przepisów określonych w [art. 91](#art-91)–93, przeprowadza Krajowa Rada Spółdzielcza.
 
+<a id="art-257a"></a>
 ### Art. 257a.
 
-1. Podatnik podatku rolnego, będący osobą fizyczną, oraz podatnik podatku rolnego będący rolniczą spółdzielnią produkcyjną może wnioskować do właściwego organu podatkowego o przekazanie przez ten organ 1,5 % podatku rolnego obliczonego zgodnie z odrębnymi przepisami na rzecz związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne wybranego przez tego podatnika spośród związków rewizyjnych zrzeszających rolnicze spółdzielnie produkcyjne wpisanych na listę, o której mowa w art. 257b ust. 1, jeżeli ten związek spełnia następujące warunki:
+1. Podatnik podatku rolnego, będący osobą fizyczną, oraz podatnik podatku rolnego będący rolniczą spółdzielnią produkcyjną może wnioskować do właściwego organu podatkowego o przekazanie przez ten organ 1,5 % podatku rolnego obliczonego zgodnie z odrębnymi przepisami na rzecz związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne wybranego przez tego podatnika spośród związków rewizyjnych zrzeszających rolnicze spółdzielnie produkcyjne wpisanych na listę, o której mowa w [art. 257b](#art-257b) ust. 1, jeżeli ten związek spełnia następujące warunki:
 
 1) został wpisany do Krajowego Rejestru Sądowego co najmniej 6 lat przed dniem 1 stycznia danego roku podatkowego;
 
@@ -1722,9 +2272,10 @@ Krajowa Rada Spółdzielcza prowadzi rejestr związków rewizyjnych. Zasady prow
 
 3. Do gospodarki środkami, o których mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846).
 
+<a id="art-257b"></a>
 ### Art. 257b.
 
-1. Minister właściwy do spraw rolnictwa sporządza co roku listę związków rewizyjnych zrzeszających rolnicze spółdzielnie produkcyjne spełniających warunki określone w art. 257a ust. 1, zwaną dalej „listą”, i umieszcza ją na stronie internetowej urzędu obsługującego tego ministra w terminie do ostatniego dnia lutego danego roku podatkowego.
+1. Minister właściwy do spraw rolnictwa sporządza co roku listę związków rewizyjnych zrzeszających rolnicze spółdzielnie produkcyjne spełniających warunki określone w [art. 257a](#art-257a) ust. 1, zwaną dalej „listą”, i umieszcza ją na stronie internetowej urzędu obsługującego tego ministra w terminie do ostatniego dnia lutego danego roku podatkowego.
 
 2. Wpisu związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne na listę dokonuje się na wniosek danego związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne złożony do ministra właściwego do spraw rolnictwa w terminie do dnia 31 grudnia roku poprzedzającego rok podatkowy.
 
@@ -1738,7 +2289,7 @@ Krajowa Rada Spółdzielcza prowadzi rejestr związków rewizyjnych. Zasady prow
 
 4) podpis osoby albo osób uprawnionych do reprezentowania związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne.
 
-4. Do wniosku, o którym mowa w ust. 2, dołącza się dokumenty potwierdzające spełnienie warunków określonych w art. 257a ust. 1, w tym co najmniej:
+4. Do wniosku, o którym mowa w ust. 2, dołącza się dokumenty potwierdzające spełnienie warunków określonych w [art. 257a](#art-257a) ust. 1, w tym co najmniej:
 
 1) listę członkowskich rolniczych spółdzielni produkcyjnych, z podziałem na województwa i powiaty, zawierającą nazwę, siedzibę i adres oraz numer wpisu do Krajowego Rejestru Sądowego, wraz z dokumentami, z których wynika, że dana rolnicza spółdzielnia produkcyjna jest członkiem związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne;
 
@@ -1750,7 +2301,7 @@ a) imię i nazwisko oraz numer PESEL osoby będącej członkiem tej spółdzieln
 
 b) miejsce zamieszkania osoby będącej członkiem tej spółdzielni i jej adres.
 
-5. Związek rewizyjny zrzeszający rolnicze spółdzielnie produkcyjne jest wpisywany na listę, jeżeli spełnia warunki określone w art. 257a ust. 1.
+5. Związek rewizyjny zrzeszający rolnicze spółdzielnie produkcyjne jest wpisywany na listę, jeżeli spełnia warunki określone w [art. 257a](#art-257a) ust. 1.
 
 6. Lista zawiera:
 
@@ -1760,18 +2311,22 @@ b) miejsce zamieszkania osoby będącej członkiem tej spółdzielni i jej adres
 
 3) numer rachunku bankowego związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne albo rachunku tego związku w spółdzielczej kasie oszczędnościowo-kredytowej.
 
+<a id="tytul-ii-1"></a>
 ## Tytuł II. Krajowy Samorząd Spółdzielczy
 
+<a id="art-258"></a>
 ### Art. 258.
 
 § 1. Najwyższym organem samorządu spółdzielczego jest Kongres Spółdzielczości zwoływany co 4 lata.
 
 § 2. Kongres Spółdzielczości zwołuje Krajowa Rada Spółdzielcza, która określa liczbę, zasady i tryb wyboru delegatów na Kongres.
 
+<a id="art-258a"></a>
 ### Art. 258a.
 
 Kongres Spółdzielczości dokonuje oceny stanu spółdzielczości w Rzeczypospolitej Polskiej oraz warunków i możliwości jej rozwoju, uchwala statut Krajowej Rady Spółdzielczej, zasady finansowania jej działalności przez organizacje spółdzielcze, dokonuje wyboru członków Rady oraz określa zasady odwoływania jej członków.
 
+<a id="art-259"></a>
 ### Art. 259.
 
 § 1. Naczelnym organem samorządu spółdzielczego jest Krajowa Rada Spółdzielcza.
@@ -1798,6 +2353,7 @@ Kongres Spółdzielczości dokonuje oceny stanu spółdzielczości w Rzeczypospo
 
 § 3. Krajowa Rada Spółdzielcza wykonuje przewidziane w ustawie funkcje związku rewizyjnego w stosunku do spółdzielni niezrzeszonych w takim związku.
 
+<a id="art-259a"></a>
 ### Art. 259a.
 
 § 1. Krajowa Rada Spółdzielcza posiada osobowość prawną.
@@ -1810,52 +2366,64 @@ Kongres Spółdzielczości dokonuje oceny stanu spółdzielczości w Rzeczypospo
 
 § 5. W pracach organów Rady mogą uczestniczyć z głosem doradczym przedstawiciele naczelnych organów administracji państwowej oraz przedstawiciele związków rewizyjnych.
 
+<a id="art-260"></a>
 ### Art. 260.
 
 (uchylony)
 
+<a id="art-261"></a>
 ### Art. 261.
 
 (uchylony)
 
+<a id="art-262"></a>
 ### Art. 262.
 
 (uchylony)
 
+<a id="art-263"></a>
 ### Art. 263.
 
 (uchylony)
 
+<a id="art-264"></a>
 ### Art. 264.
 
 (uchylony)
 
+<a id="art-265"></a>
 ### Art. 265.
 
 (uchylony)
 
+<a id="art-266"></a>
 ### Art. 266.
 
 Wydatki Krajowej Rady Spółdzielczej pokrywa się ze składek organizacji spółdzielczych według zasad określonych przez Kongres oraz z innych dochodów i darowizn.
 
+<a id="art-266a"></a>
 ### Art. 266a.
 
 Koszty związane z uczestnictwem Krajowej Rady Spółdzielczej w Głównym Komitecie Spółdzielczości Rolniczej (COGECA) są w latach 2015–2020 dofinansowywane na zasadach określonych w przepisach o izbach rolniczych.
 
+<a id="art-267"></a>
 ### Art. 267.
 
 (uchylony)
 
 CZĘŚĆ IIA PRZEPISY KARNE
 
+<a id="art-267a"></a>
 ### Art. 267a.
 
 (uchylony)
 
+<a id="art-267b"></a>
 ### Art. 267b.
 
 Kto, będąc członkiem zarządu spółdzielni albo likwidatorem, nie zgłasza wniosku o upadłość spółdzielni pomimo powstania warunków uzasadniających upadłość spółdzielni, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
+<a id="art-267c"></a>
 ### Art. 267c.
 
 Kto, będąc członkiem organu spółdzielni albo likwidatorem wbrew przepisom ustawy:
@@ -1868,72 +2436,90 @@ Kto, będąc członkiem organu spółdzielni albo likwidatorem wbrew przepisom u
 
 4) nie zwołuje walnego zgromadzenia, zebrania przedstawicieli albo zebrań grup członkowskich poprzedzających zebranie przedstawicieli,
 
-5) nie przygotowuje w terminie dokumentów dotyczących dokonania podziału w spółdzielni, o którym mowa w art. 108b, podlega grzywnie albo karze ograniczenia wolności.
+5) nie przygotowuje w terminie dokumentów dotyczących dokonania podziału w spółdzielni, o którym mowa w [art. 108b](#art-108b), podlega grzywnie albo karze ograniczenia wolności.
 
+<a id="art-267d"></a>
 ### Art. 267d.
 
 § 1. Kto, będąc członkiem organu spółdzielni albo likwidatorem, ogłasza dane nieprawdziwe albo przedstawia je organom spółdzielni, władzom państwowym, członkom spółdzielni lub lustratorowi, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 § 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
+<a id="czesc-iii"></a>
 ## Część III. Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 
+<a id="rozdzial-1-2"></a>
 ### Rozdział 1. Zmiany w przepisach obowiązujących
 
+<a id="art-268"></a>
 ### Art. 268.
 
 (pominięty)
 
+<a id="art-269"></a>
 ### Art. 269.
 
 (pominięty)
 
+<a id="art-270"></a>
 ### Art. 270.
 
 (pominięty)
 
+<a id="rozdzial-2-2"></a>
 ### Rozdział 2. Przepisy przejściowe i końcowe
 
+<a id="art-271"></a>
 ### Art. 271.
 
 (pominięty)
 
+<a id="art-272"></a>
 ### Art. 272.
 
 (pominięty)
 
+<a id="art-273"></a>
 ### Art. 273.
 
 (pominięty)
 
+<a id="art-274"></a>
 ### Art. 274.
 
 (uchylony)
 
+<a id="art-275"></a>
 ### Art. 275.
 
 (uchylony)
 
+<a id="art-276"></a>
 ### Art. 276.
 
 (pominięty)
 
+<a id="art-277"></a>
 ### Art. 277.
 
 (pominięty)
 
+<a id="art-278"></a>
 ### Art. 278.
 
 (pominięty)
 
+<a id="art-279"></a>
 ### Art. 279.
 
 (pominięty)
 
+<a id="art-280"></a>
 ### Art. 280.
 
 Traci moc ustawa z dnia 17 lutego 1961 r. o spółdzielniach i ich związkach (Dz. U. poz. 61 oraz z 1974 r. poz. 281).
 
+<a id="art-281"></a>
 ### Art. 281.
 
 Ustawa wchodzi w życie z dniem 1 stycznia 1983 r.

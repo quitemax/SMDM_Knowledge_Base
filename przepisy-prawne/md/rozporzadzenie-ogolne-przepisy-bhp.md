@@ -1,5 +1,239 @@
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Dział I. Przepisy wstępne](#dzial-I)
+  - [§ 1.](#par-1)
+  - [§ 2.](#par-2)
+- [Dział II. Obiekty budowlane i teren zakładu pracy](#dzial-II)
+  - [§ 3.](#par-3)
+  - [§ 4.](#par-4)
+  - [§ 5.](#par-5)
+  - [§ 6.](#par-6)
+  - [§ 7.](#par-7)
+  - [§ 8.](#par-8)
+  - [§ 9.](#par-9)
+  - [§ 10.](#par-10)
+  - [§ 11.](#par-11)
+  - [§ 12.](#par-12)
+  - [§ 13.](#par-13)
+- [Dział III. Pomieszczenia pracy](#dzial-III)
+  - [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+    - [§ 14.](#par-14)
+    - [§ 15.](#par-15)
+    - [§ 16.](#par-16)
+    - [§ 17.](#par-17)
+    - [§ 18.](#par-18)
+    - [§ 19.](#par-19)
+    - [§ 20.](#par-20)
+    - [§ 21.](#par-21)
+    - [§ 22.](#par-22)
+    - [§ 23.](#par-23)
+    - [§ 24.](#par-24)
+  - [Rozdział 2. Oświetlenie](#rozdzial-2)
+    - [§ 25.](#par-25)
+    - [§ 26.](#par-26)
+    - [§ 27.](#par-27)
+    - [§ 28.](#par-28)
+    - [§ 28a [13)].](#par-28a)
+    - [§ 29.](#par-29)
+  - [Rozdział 3. Ogrzewanie i wentylacja](#rozdzial-3)
+    - [§ 30.](#par-30)
+    - [§ 31.](#par-31)
+    - [§ 32.](#par-32)
+    - [§ 33.](#par-33)
+    - [§ 34.](#par-34)
+    - [§ 35.](#par-35)
+    - [§ 36.](#par-36)
+    - [§ 37 [16)].](#par-37)
+    - [§ 38.](#par-38)
+- [Dział IV. Procesy pracy](#dzial-IV)
+  - [Rozdział 1. Przepisy ogólne](#rozdzial-1-1)
+    - [§ 39.](#par-39)
+    - [§ 40.](#par-40)
+    - [§ 41.](#par-41)
+    - [§ 42.](#par-42)
+    - [§ 43.](#par-43)
+    - [§ 44.](#par-44)
+  - [Rozdział 2. Organizacja stanowisk pracy](#rozdzial-2-1)
+    - [§ 45.](#par-45)
+    - [§ 46.](#par-46)
+    - [§ 47.](#par-47)
+    - [§ 48.](#par-48)
+    - [§ 49.](#par-49)
+    - [§ 50.](#par-50)
+  - [Rozdział 3. Obsługa i stosowanie maszyn, narzędzi i innych urządzeń technicznych](#rozdzial-3-1)
+    - [§ 51 [22)].](#par-51)
+    - [§ 52 [22)].](#par-52)
+    - [§ 53 [22)].](#par-53)
+    - [§ 54.](#par-54)
+    - [§ 55.](#par-55)
+    - [§ 56.](#par-56)
+    - [§ 57.](#par-57)
+    - [§ 58.](#par-58)
+    - [§ 59.](#par-59)
+    - [§ 60.](#par-60)
+    - [§ 61.](#par-61)
+  - [Rozdział 4. Transport wewnętrzny i magazynowanie](#rozdzial-4)
+    - [§ 62.](#par-62)
+    - [§ 63.](#par-63)
+    - [§ 64.](#par-64)
+    - [§ 64a [28)].](#par-64a)
+    - [§ 65.](#par-65)
+    - [§ 66.](#par-66)
+    - [§ 67.](#par-67)
+    - [§ 68.](#par-68)
+    - [§ 69.](#par-69)
+    - [§ 70.](#par-70)
+    - [§ 71.](#par-71)
+    - [§ 72.](#par-72)
+    - [§ 73.](#par-73)
+    - [§ 74.](#par-74)
+    - [§ 75.](#par-75)
+    - [§ 76.](#par-76)
+    - [§ 77.](#par-77)
+  - [Rozdział 5. Ochrona przed hałasem](#rozdzial-5)
+    - [§ 78.](#par-78)
+    - [§ 79.](#par-79)
+  - [Rozdział 6. Prace szczególnie niebezpieczne](#rozdzial-6)
+    - [§ 80.](#par-80)
+    - [§ 81.](#par-81)
+    - [§ 82.](#par-82)
+    - [§ 83.](#par-83)
+    - [§ 84.](#par-84)
+    - [§ 85.](#par-85)
+    - [§ 86.](#par-86)
+    - [§ 87.](#par-87)
+    - [§ 88.](#par-88)
+    - [§ 89.](#par-89)
+    - [§ 90.](#par-90)
+    - [§ 91.](#par-91)
+    - [§ 92.](#par-92)
+    - [§ 93.](#par-93)
+    - [§ 94.](#par-94)
+    - [§ 95.](#par-95)
+    - [§ 96.](#par-96)
+    - [§ 97.](#par-97)
+    - [§ 98.](#par-98)
+    - [§ 99.](#par-99)
+    - [§ 100.](#par-100)
+    - [§ 101.](#par-101)
+    - [§ 102.](#par-102)
+    - [§ 103.](#par-103)
+    - [§ 104.](#par-104)
+    - [§ 105.](#par-105)
+    - [§ 106.](#par-106)
+    - [§ 107.](#par-107)
+    - [§ 108.](#par-108)
+    - [§ 109.](#par-109)
+    - [§ 110.](#par-110)
+- [Dział V. Pomieszczenia i urządzenia higienicznosanitarne oraz zaopatrzenie pracowników w napoje i środki higieny osobistej](#dzial-V)
+  - [§ 111.](#par-111)
+  - [§ 112.](#par-112)
+  - [§ 113.](#par-113)
+  - [§ 114.](#par-114)
+  - [§ 115.](#par-115)
+- [Dział VI. Przepisy przejściowe i końcowe](#dzial-VI)
+  - [§ 116.](#par-116)
+  - [§ 117.](#par-117)
+  - [§ 118.](#par-118)
+- [Załącznik nr 1 - Szczegółowe zasady stosowania znaków i sygnałów bezpieczeństwa 43) Dodany przez § 1 pkt 31 rozporządzenia, o którym mowa w odnośniku 1.](#zalacznik-nr-1-szczegolowe-zasady-stosowania-znakow-i-sygnalow-bezpieczenstwa-43-dodany-przez-1-pkt-31-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1)
+  - [Rozdział 1. Przepisy ogólne](#rozdzial-1-2)
+    - [§ 1.](#par-1-1)
+    - [§ 2.](#par-2-1)
+    - [§ 3.](#par-3-1)
+    - [§ 4.](#par-4-1)
+    - [§ 5.](#par-5-1)
+    - [§ 6.](#par-6-1)
+    - [§ 7.](#par-7-1)
+    - [§ 8.](#par-8-1)
+  - [Rozdział 2. Wymagania dotyczące stosowania znaków bezpieczeństwa](#rozdzial-2-2)
+    - [§ 9.](#par-9-1)
+    - [§ 10.](#par-10-1)
+    - [§ 11.](#par-11-1)
+  - [Rozdział 3. Wymagania dotyczące oznaczania przeszkód, niebezpiecznych miejsc i dróg](#rozdzial-3-2)
+    - [§ 12.](#par-12-1)
+    - [§ 13.](#par-13-1)
+  - [Rozdział 4. Wymagania dotyczące sygnałów świetlnych](#rozdzial-4-1)
+    - [§ 14.](#par-14-1)
+    - [§ 15.](#par-15-1)
+  - [Rozdział 5. Wymagania dotyczące sygnałów dźwiękowych](#rozdzial-5-1)
+    - [§ 16.](#par-16-1)
+    - [§ 17.](#par-17-1)
+    - [§ 18.](#par-18-1)
+  - [Rozdział 6. Wymagania dotyczące stosowania komunikatów słownych](#rozdzial-6-1)
+    - [§ 19.](#par-19-1)
+    - [§ 20.](#par-20-1)
+  - [Rozdział 7. Wymagania dotyczące stosowania sygnałów ręcznych](#rozdzial-7)
+    - [§ 21.](#par-21-1)
+    - [§ 22.](#par-22-1)
+    - [§ 23.](#par-23-1)
+    - [§ 24.](#par-24-1)
+- [Załącznik nr 2 - Szczegółowe zasady stosowania środków ochrony indywidualnej 43) Dodany przez § 1 pkt 31 rozporządzenia, o którym mowa w odnośniku 1.](#zalacznik-nr-2-szczegolowe-zasady-stosowania-srodkow-ochrony-indywidualnej-43-dodany-przez-1-pkt-31-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1)
+  - [§ 1.](#par-1-2)
+  - [§ 2.](#par-2-2)
+  - [§ 3.](#par-3-2)
+  - [§ 4.](#par-4-2)
+  - [§ 5.](#par-5-2)
+  - [§ 6.](#par-6-2)
+  - [§ 7.](#par-7-2)
+  - [§ 8.](#par-8-2)
+- [Załącznik nr 3 - Wymagania dla pomieszczeń i urządzeń higienicznosanitarnych 44) Oznaczenie załącznika nadane przez § 1 pkt 29 rozporządzenia, o którym mowa w odnośniku 1. 45) Tytuł załącznika ustalony przez § 1 pkt 30 lit. a rozporządzenia, o którym mowa w odnośniku 1.](#zalacznik-nr-3-wymagania-dla-pomieszczen-i-urzadzen-higienicznosanitarnych-44-oznaczenie-zalacznika-nadane-przez-1-pkt-29-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1-45-tytul-zalacznika-ustalony-przez-1-pkt-30-lit-a-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1)
+  - [Rozdział 1. Przepisy ogólne](#rozdzial-1-3)
+    - [§ 1.](#par-1-3)
+    - [§ 2.](#par-2-3)
+    - [§ 3.](#par-3-3)
+    - [§ 4.](#par-4-3)
+    - [§ 5.](#par-5-3)
+  - [Rozdział 2. Szatnie](#rozdzial-2-3)
+    - [§ 6.](#par-6-3)
+    - [§ 7.](#par-7-3)
+    - [§ 8.](#par-8-3)
+    - [§ 9.](#par-9-2)
+    - [§ 10.](#par-10-2)
+    - [§ 11.](#par-11-2)
+    - [§ 12.](#par-12-2)
+    - [§ 13.](#par-13-2)
+    - [§ 14.](#par-14-2)
+    - [§ 15.](#par-15-2)
+    - [§ 16.](#par-16-2)
+  - [Rozdział 3. Umywalnie i pomieszczenia z natryskami](#rozdzial-3-3)
+    - [§ 17.](#par-17-2)
+    - [§ 18.](#par-18-2)
+    - [§ 19.](#par-19-2)
+    - [§ 20.](#par-20-2)
+    - [§ 21.](#par-21-2)
+    - [§ 22.](#par-22-2)
+    - [§ 23.](#par-23-2)
+    - [§ 24.](#par-24-2)
+  - [Rozdział 4. Ustępy](#rozdzial-4-2)
+    - [§ 25.](#par-25-1)
+    - [§ 26.](#par-26-1)
+    - [§ 27.](#par-27-1)
+    - [§ 28.](#par-28-1)
+  - [Rozdział 5. Jadalnie](#rozdzial-5-2)
+    - [§ 29.](#par-29-1)
+    - [§ 30.](#par-30-1)
+    - [§ 31.](#par-31-1)
+    - [§ 32.](#par-32-1)
+    - [§ 33.](#par-33-1)
+    - [§ 34.](#par-34-1)
+    - [§ 35.](#par-35-1)
+    - [§ 36.](#par-36-1)
+  - [Rozdział 6. Pomieszczenia do wypoczynku 57) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 30 lit. l rozporządzenia, o którym mowa w odnośniku 1.](#rozdzial-6-2)
+    - [§ 37.](#par-37-1)
+    - [§ 38.](#par-38-1)
+    - [§ 39.](#par-39-1)
+  - [Rozdział 7. Palarnie](#rozdzial-7-1)
+    - [§ 40.](#par-40-1)
+    - [§ 41 [61)].](#par-41-1)
+    - [§ 42.](#par-42-1)
+  - [Rozdział 8. Pomieszczenia do prania, odkażania, suszenia i odpylania odzieży roboczej i ochronnej](#rozdzial-8)
+    - [§ 43.](#par-43-1)
+  - [Rozdział 9. Pomieszczenia do ogrzewania się pracowników](#rozdzial-9)
+    - [§ 44.](#par-44-1)
+
 <a id="tresc-rozporzadzenia"></a>
 ## Treść rozporządzenia
 
@@ -105,7 +339,7 @@ Budynki i inne obiekty budowlane, w których znajdują się pomieszczenia pracy,
 <a id="par-6"></a>
 ### § 6.
 
-1 [6)]. Miejsca w zakładzie pracy, w których występują zagrożenia dla pracowników, powinny być oznakowane widocznymi barwami lub znakami bezpieczeństwa zgodnie z wymaganiami określonymi w załączniku nr 1 do rozporządzenia i w Polskich Normach.
+1 [6)]. Miejsca w zakładzie pracy, w których występują zagrożenia dla pracowników, powinny być oznakowane widocznymi barwami lub znakami bezpieczeństwa zgodnie z wymaganiami określonymi w załączniku nr [1](#zalacznik-nr-1-szczegolowe-zasady-stosowania-znakow-i-sygnalow-bezpieczenstwa-43-dodany-przez-1-pkt-31-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1) do rozporządzenia i w Polskich Normach.
 
 2. Jeżeli oznakowanie, o którym mowa w ust. 1, nie jest wystarczające dla zapewnienia bezpieczeństwa i ochrony zdrowia pracownika, miejsca niebezpieczne powinny być wyłączone z użytkowania poprzez ich odpowiednie wygrodzenie lub w inny sposób.
 
@@ -407,7 +641,7 @@ Urządzenia lub ich części, z których mogą wydzielać się szkodliwe gazy, p
 <a id="dzial-IV"></a>
 ## Dział IV. Procesy pracy
 
-<a id="rozdzial-1"></a>
+<a id="rozdzial-1-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
 <a id="par-39"></a>
@@ -423,9 +657,9 @@ Urządzenia lub ich części, z których mogą wydzielać się szkodliwe gazy, p
 
 3. W sytuacji gdy ograniczenie zagrożeń w wyniku zastosowania rozwiązań organizacyjnych i technicznych nie jest wystarczające, pracodawca jest obowiązany zapewnić pracownikom środki ochrony indywidualnej, odpowiednie do rodzaju i poziomu zagrożeń.
 
-4 [18)]. Pracodawca powinien zapewnić pracownikom informacje o istniejących zagrożeniach, przed którymi chronić ich będą środki ochrony indywidualnej oraz informacje o tych środkach i zasadach ich stosowania. Szczegółowe zasady stosowania środków ochrony indywidualnej określa załącznik nr 2 do rozporządzenia.
+4 [18)]. Pracodawca powinien zapewnić pracownikom informacje o istniejących zagrożeniach, przed którymi chronić ich będą środki ochrony indywidualnej oraz informacje o tych środkach i zasadach ich stosowania. Szczegółowe zasady stosowania środków ochrony indywidualnej określa załącznik nr [2](#zalacznik-nr-2-szczegolowe-zasady-stosowania-srodkow-ochrony-indywidualnej-43-dodany-przez-1-pkt-31-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1) do rozporządzenia.
 
-5 [18)]. Przy pracach stwarzających niebezpieczeństwo, gdy wymaga tego sytuacja, do kierowania ludźmi wykonującymi te prace powinny być stosowane sygnały bezpieczeństwa - ręczne lub komunikaty słowne, zgodnie z wymaganiami określonymi w załączniku nr 1 do rozporządzenia.
+5 [18)]. Przy pracach stwarzających niebezpieczeństwo, gdy wymaga tego sytuacja, do kierowania ludźmi wykonującymi te prace powinny być stosowane sygnały bezpieczeństwa - ręczne lub komunikaty słowne, zgodnie z wymaganiami określonymi w załączniku nr [1](#zalacznik-nr-1-szczegolowe-zasady-stosowania-znakow-i-sygnalow-bezpieczenstwa-43-dodany-przez-1-pkt-31-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1) do rozporządzenia.
 
 <a id="par-40"></a>
 ### § 40.
@@ -478,7 +712,7 @@ Zmiany w procesie technologicznym, zmiany konstrukcyjne urządzeń technicznych 
 
 5. Punkty pierwszej pomocy i miejsca usytuowania apteczek powinny być odpowiednio oznakowane, zgodnie z Polską Normą, i łatwo dostępne.
 
-<a id="rozdzial-2"></a>
+<a id="rozdzial-2-1"></a>
 ### Rozdział 2. Organizacja stanowisk pracy
 
 <a id="par-45"></a>
@@ -505,7 +739,7 @@ W razie niebezpieczeństwa powinno być możliwe szybkie opuszczenie stanowisk p
 
 2. Na stanowiskach pracy nie wolno przechowywać surowców, gotowych wyrobów, materiałów pomocniczych i odpadów w ilościach większych od wynikających z potrzeb technologicznych, umożliwiających utrzymanie ciągłości pracy na danej zmianie. Odpady produkcyjne powinny być sukcesywnie usuwane.
 
-3. Szmaty, tampony, trociny itp. nasycone lub zanieczyszczone substancjami łatwo zapalnymi, utleniającymi się lub szkodliwymi dla zdrowia albo wydzielające uciążliwe zapachy - należy przechowywać w zamkniętych naczyniach z materiału niepalnego oraz co najmniej raz na dobę usuwać z pomieszczeń pracy i niszczyć w sposób określony w instrukcji, o której mowa w § 41.
+3. Szmaty, tampony, trociny itp. nasycone lub zanieczyszczone substancjami łatwo zapalnymi, utleniającymi się lub szkodliwymi dla zdrowia albo wydzielające uciążliwe zapachy - należy przechowywać w zamkniętych naczyniach z materiału niepalnego oraz co najmniej raz na dobę usuwać z pomieszczeń pracy i niszczyć w sposób określony w instrukcji, o której mowa w [§ 41](#par-41).
 
 <a id="par-47"></a>
 ### § 47.
@@ -559,7 +793,7 @@ Pracodawca zatrudniający pracowników niepełnosprawnych powinien zapewnić dos
 
 3. Drabina przystawna powinna wystawać ponad powierzchnię, na którą prowadzi, co najmniej 0,75 m, a kąt jej nachylenia powinien wynosić od 65° do 75°.
 
-<a id="rozdzial-3"></a>
+<a id="rozdzial-3-1"></a>
 ### Rozdział 3. Obsługa i stosowanie maszyn, narzędzi i innych urządzeń technicznych
 
 <a id="par-51"></a>
@@ -605,7 +839,7 @@ Maszyny powinny być wyposażone w łatwo odróżniające się i odpowiednio ozn
 
 3. Osłony stosowane na maszynach powinny uniemożliwiać bezpośredni dostęp do strefy niebezpiecznej. Osłony niepełne (wykonane z siatki, blachy perforowanej, prętów itp.) powinny znajdować się w takiej odległości od elementów niebezpiecznych, aby przy danej wielkości i kształcie otworów nie było możliwe bezpośrednie dotknięcie tych elementów. Odległości bezpieczeństwa określają Polskie Normy.
 
-4 [25)]. Maszyny powinny być oznakowane znakami i barwami bezpieczeństwa, zgodnie z wymaganiami określonymi w załączniku nr 1 do rozporządzenia oraz w Polskich Normach.
+4 [25)]. Maszyny powinny być oznakowane znakami i barwami bezpieczeństwa, zgodnie z wymaganiami określonymi w załączniku nr [1](#zalacznik-nr-1-szczegolowe-zasady-stosowania-znakow-i-sygnalow-bezpieczenstwa-43-dodany-przez-1-pkt-31-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1) do rozporządzenia oraz w Polskich Normach.
 
 <a id="par-56"></a>
 ### § 56.
@@ -773,7 +1007,7 @@ Przedmioty, których wymiary, kształt i masa decydują o ich indywidualnym spos
 <a id="par-73"></a>
 ### § 73.
 
-Przy składowaniu materiałów na paletach lub w kontenerach stosuje się odpowiednio przepis § 69 ust. 2.
+Przy składowaniu materiałów na paletach lub w kontenerach stosuje się odpowiednio przepis [§ 69](#par-69) ust. 2.
 
 <a id="par-74"></a>
 ### § 74.
@@ -885,16 +1119,16 @@ Roboty budowlane, rozbiórkowe, remontowe i montażowe prowadzone bez wstrzymani
 <a id="par-83"></a>
 ### § 83.
 
-1. Przed rozpoczęciem robót, o których mowa w § 82, pracodawca, u którego mają być prowadzone roboty, i osoba kierująca robotami powinni ustalić w podpisanym protokole szczegółowe warunki bezpieczeństwa i higieny pracy, z podziałem obowiązków w tym zakresie.
+1. Przed rozpoczęciem robót, o których mowa w [§ 82](#par-82), pracodawca, u którego mają być prowadzone roboty, i osoba kierująca robotami powinni ustalić w podpisanym protokole szczegółowe warunki bezpieczeństwa i higieny pracy, z podziałem obowiązków w tym zakresie.
 
 2. O prowadzonych robotach oraz o niezbędnych środkach bezpieczeństwa, jakie należy stosować w czasie trwania prac, pracodawca powinien poinformować pracowników przebywających lub mogących przebywać na terenie prowadzenia robót albo w jego sąsiedztwie.
 
-3. Teren prowadzenia robót, o których mowa w § 82, powinien być wydzielony i wyraźnie oznakowany. W miejscach niebezpiecznych należy umieścić znaki informujące o rodzaju zagrożenia oraz stosować inne środki zabezpieczające przed skutkami zagrożeń (siatki, bariery itp.).
+3. Teren prowadzenia robót, o których mowa w [§ 82](#par-82), powinien być wydzielony i wyraźnie oznakowany. W miejscach niebezpiecznych należy umieścić znaki informujące o rodzaju zagrożenia oraz stosować inne środki zabezpieczające przed skutkami zagrożeń (siatki, bariery itp.).
 
 <a id="par-84"></a>
 ### § 84.
 
-1. Spawanie wykonywane w ramach robót, o których mowa w § 82, powinno być prowadzone na podstawie pisemnego pozwolenia wydanego w trybie ustalonym u danego pracodawcy.
+1. Spawanie wykonywane w ramach robót, o których mowa w [§ 82](#par-82), powinno być prowadzone na podstawie pisemnego pozwolenia wydanego w trybie ustalonym u danego pracodawcy.
 
 2. Szczegółowe wymagania bezpieczeństwa i higieny pracy przy spawaniu i cięciu metali regulują odrębne przepisy.
 
@@ -1107,7 +1341,7 @@ W pomieszczeniach, w których w wyniku awarii mogą wydzielać się substancje t
 
 4) zapewnić stosowanie przez pracowników wymagań higieny, a w szczególności niedopuszczanie do spożywania posiłków, picia i palenia tytoniu w miejscach pracy;
 
-5) określić w instrukcjach, o których mowa w § 41, odpowiednie zasady postępowania w razie powstania nieprzewidzianych sytuacji powodujących poważne zagrożenia dla pracowników;
+5) określić w instrukcjach, o których mowa w [§ 41](#par-41), odpowiednie zasady postępowania w razie powstania nieprzewidzianych sytuacji powodujących poważne zagrożenia dla pracowników;
 
 6) zapewnić oznaczenie miejsc stwarzających ryzyko dla zdrowia pracowników związane z występowaniem czynników rakotwórczych, poprzez umieszczenie w miejscach narażenia pracowników na te czynniki odpowiednich napisów i znaków ostrzegawczych;
 
@@ -1118,7 +1352,7 @@ W pomieszczeniach, w których w wyniku awarii mogą wydzielać się substancje t
 <a id="par-102"></a>
 ### § 102.
 
-1. Pracodawca jest obowiązany poinformować pracowników o możliwości powstania nieprzewidzianych sytuacji, podczas których mogłyby wystąpić poważne zagrożenia dla zdrowia lub życia, związane z występowaniem czynników, o których mowa w § 101 ust. 1.
+1. Pracodawca jest obowiązany poinformować pracowników o możliwości powstania nieprzewidzianych sytuacji, podczas których mogłyby wystąpić poważne zagrożenia dla zdrowia lub życia, związane z występowaniem czynników, o których mowa w [§ 101](#par-101) ust. 1.
 
 2. W razie powstania zagrożeń, o których mowa w ust. 1, do czasu usunięcia tych zagrożeń należy:
 
@@ -1206,7 +1440,7 @@ c) w widocznym miejscu pomostu powinny być umieszczone czytelne informacje o wi
 
 3) zapewnić stosowanie przez pracowników hełmów ochronnych przeznaczonych do prac na wysokości.
 
-2. Wymagania określone w ust. 1 dotyczą również prac wykonywanych na galeriach, pomostach, podestach i innych podwyższeniach, o których mowa w § 108, jeżeli rodzaj pracy wymaga od pracownika wychylenia się poza balustradę lub obrys urządzenia, na którym stoi, albo przyjmowania innej wymuszonej pozycji ciała grożącej upadkiem z wysokości.
+2. Wymagania określone w ust. 1 dotyczą również prac wykonywanych na galeriach, pomostach, podestach i innych podwyższeniach, o których mowa w [§ 108](#par-108), jeżeli rodzaj pracy wymaga od pracownika wychylenia się poza balustradę lub obrys urządzenia, na którym stoi, albo przyjmowania innej wymuszonej pozycji ciała grożącej upadkiem z wysokości.
 
 <a id="dzial-V"></a>
 ## Dział V. Pomieszczenia i urządzenia higienicznosanitarne oraz zaopatrzenie pracowników w napoje i środki higieny osobistej
@@ -1216,7 +1450,7 @@ c) w widocznym miejscu pomostu powinny być umieszczone czytelne informacje o wi
 
 1. Pracodawca jest obowiązany zapewnić pracownikom pomieszczenia i urządzenia higienicznosanitarne, których rodzaj, ilość i wielkość powinny być dostosowane do liczby zatrudnionych pracowników, stosowanych technologii i rodzajów pracy oraz warunków, w jakich ta praca jest wykonywana.
 
-2 [38)]. Wymagania dla pomieszczeń i urządzeń higienicznosanitarnych określa załącznik nr 3 do rozporządzenia.
+2 [38)]. Wymagania dla pomieszczeń i urządzeń higienicznosanitarnych określa załącznik nr [3](#zalacznik-nr-3-wymagania-dla-pomieszczen-i-urzadzen-higienicznosanitarnych-44-oznaczenie-zalacznika-nadane-przez-1-pkt-29-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1-45-tytul-zalacznika-ustalony-przez-1-pkt-30-lit-a-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1) do rozporządzenia.
 
 <a id="par-112"></a>
 ### § 112.
@@ -1252,7 +1486,7 @@ Pracodawca jest obowiązany zapewnić dostarczanie pracownikom środków higieny
 <a id="par-116"></a>
 ### § 116.
 
-Przepisy § 27 ust. 2 rozporządzenia oraz § 14 ust. 2 i 3, § 23 ust. 4 i § 28 załącznika do rozporządzenia [41)] nie dotyczą zakładów pracy powstałych przed dniem wejścia w życie rozporządzenia, natomiast przepisy § 55 ust. 1 i 2 rozporządzenia nie dotyczą maszyn, w które wyposażone zostały stanowiska pracy przed wejściem w życie rozporządzenia.
+Przepisy [§ 27](#par-27) ust. 2 rozporządzenia oraz [§ 14](#par-14) ust. 2 i 3, [§ 23](#par-23) ust. 4 i [§ 28](#par-28) załącznika do rozporządzenia [41)] nie dotyczą zakładów pracy powstałych przed dniem wejścia w życie rozporządzenia, natomiast przepisy [§ 55](#par-55) ust. 1 i 2 rozporządzenia nie dotyczą maszyn, w które wyposażone zostały stanowiska pracy przed wejściem w życie rozporządzenia.
 
 <a id="par-117"></a>
 ### § 117.
@@ -1268,32 +1502,32 @@ Traci moc:
 
 1. Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia [42)], z zastrzeżeniem ust. 2.
 
-2. Przepisy § 103 i § 114 ust. 1 rozporządzenia oraz § 3 ust. 1, § 34 ust. 2 i § 38 załącznika do rozporządzenia [41)] wchodzą w życie po upływie 2 lat od dnia ogłoszenia.
+2. Przepisy [§ 103](#par-103) i [§ 114](#par-114) ust. 1 rozporządzenia oraz [§ 3](#par-3) ust. 1, [§ 34](#par-34) ust. 2 i [§ 38](#par-38) załącznika do rozporządzenia [41)] wchodzą w życie po upływie 2 lat od dnia ogłoszenia.
 
 <a id="zalacznik-nr-1-szczegolowe-zasady-stosowania-znakow-i-sygnalow-bezpieczenstwa-43-dodany-przez-1-pkt-31-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1"></a>
 ## Załącznik nr 1 - Szczegółowe zasady stosowania znaków i sygnałów bezpieczeństwa 43) Dodany przez § 1 pkt 31 rozporządzenia, o którym mowa w odnośniku 1.
 
-<a id="rozdzial-1"></a>
+<a id="rozdzial-1-2"></a>
 ### Rozdział 1. Przepisy ogólne
 
-<a id="par-1"></a>
+<a id="par-1-1"></a>
 ### § 1.
 
 1. Pracodawca powinien zapewnić stosowanie znaków lub sygnałów bezpieczeństwa wszędzie tam, gdzie nie można zlikwidować zagrożenia środkami ochrony zbiorowej lub innymi środkami stosowanymi w organizacji pracy,
 
 2. W zależności od rodzaju stosowanego transportu - w zakładzie pracy powinny być stosowane znaki i sygnały używane w transporcie drogowym, kolejowym, śródlądowym, morskim i powietrznym.
 
-<a id="par-2"></a>
+<a id="par-2-1"></a>
 ### § 2.
 
 Pracodawca powinien zapewnić pracownikom instrukcje dotyczące stosowanych w zakładzie pracy znaków i sygnałów bezpieczeństwa, obejmujące w szczególności znaczenie znaków i sygnałów oraz zasady zachowania się pracowników, których mogą one dotyczyć.
 
-<a id="par-3"></a>
+<a id="par-3-1"></a>
 ### § 3.
 
 Znaki i sygnały bezpieczeństwa powinny być stosowane do przekazywania informacji określonych w niniejszym załączniku oraz powinny spełniać wymagania w nim zawarte. Wymagania dotyczące znaków bezpieczeństwa nieuregulowane w załączniku, w tym wzory tych znaków, są określone w Polskich Normach.
 
-<a id="par-4"></a>
+<a id="par-4-1"></a>
 ### § 4.
 
 1. Znaki zakazu, ostrzegawcze, nakazu, ewakuacyjne i informacyjne powinny być stosowane jako znaki stałe.
@@ -1302,7 +1536,7 @@ Znaki i sygnały bezpieczeństwa powinny być stosowane do przekazywania informa
 
 3. Drogi powinny być na stałe oznaczone barwą bezpieczeństwa.
 
-<a id="par-5"></a>
+<a id="par-5-1"></a>
 ### § 5.
 
 1. Sygnały świetlne, sygnały dźwiękowe i komunikaty słowne powinny być stosowane, gdy wymaga tego sytuacja, w celu zasygnalizowania niebezpieczeństwa i wezwania ludzi do podjęcia określonych działań albo do ewakuacji.
@@ -1315,7 +1549,7 @@ Znaki i sygnały bezpieczeństwa powinny być stosowane do przekazywania informa
 
 3) sygnały ręczne i komunikaty słowne.
 
-<a id="par-6"></a>
+<a id="par-6-1"></a>
 ### § 6.
 
 1. Stosowane znaki i sygnały powinny być odpowiednio czytelne, widoczne i słyszalne. Ich czytelność, widoczność i słyszalność nie może być zmniejszana przede wszystkim przez:
@@ -1342,12 +1576,12 @@ e) stosowania sygnałów dźwiękowych przy zbyt dużym natężeniu hałasu tła
 
 3. Liczba i umiejscowienie znaków bezpieczeństwa i urządzeń sygnalizacyjnych powinny być uzależnione od wielkości terenu, na którym są stosowane, oraz od rodzajów i poziomu występujących zagrożeń.
 
-<a id="par-7"></a>
+<a id="par-7-1"></a>
 ### § 7.
 
 Jeśli zdolność słyszenia lub widzenia pracowników jest ograniczona, w szczególności w związku ze stosowaniem środków ochrony indywidualnej, znaki i sygnały bezpieczeństwa powinny być dostosowane do możliwości percepcyjnych pracowników.
 
-<a id="par-8"></a>
+<a id="par-8-1"></a>
 ### § 8.
 
 1. Znaki i sygnały bezpieczeństwa, wymagające zasilania energią elektryczną, w razie przerwy w dopływie tej energii powinny mieć zapewnione zasilanie awaryjne, chyba że przerwa ta spowoduje ustanie zagrożenia.
@@ -1356,30 +1590,30 @@ Jeśli zdolność słyszenia lub widzenia pracowników jest ograniczona, w szcze
 
 3. Zadziałanie sygnału świetlnego lub sygnału dźwiękowego powinno nastąpić w czasie, kiedy jest to niezbędne z uwagi na bezpieczeństwo pracowników; działanie tego sygnału powinno trwać do czasu ustania zagrożenia.
 
-<a id="rozdzial-2"></a>
+<a id="rozdzial-2-2"></a>
 ### Rozdział 2. Wymagania dotyczące stosowania znaków bezpieczeństwa
 
-<a id="par-9"></a>
+<a id="par-9-1"></a>
 ### § 9.
 
 1. Znaki bezpieczeństwa powinny być umieszczone odpowiednio do linii wzroku - w miejscu lub w najbliższym otoczeniu określonego zagrożenia, a w przypadku ogólnego zagrożenia - przy wejściu na teren, na którym występuje zagrożenie.
 
 2. Miejsce, w którym znajdują się znaki bezpieczeństwa, powinno być dobrze oświetlone, łatwo dostępne i widoczne. W przypadku gdy znaki znajdują się w miejscu o niedostatecznym poziomie oświetlenia dziennego, miejsce to powinno być oświetlone światłem elektrycznym albo powinny być zastosowane znaki wykonane z materiału posiadającego zdolność emisji światła po usunięciu źródła wzbudzającego lub pokryte takim materiałem.
 
-<a id="par-10"></a>
+<a id="par-10-1"></a>
 ### § 10.
 
 Znak bezpieczeństwa powinien być usunięty, gdy przestanie istnieć zagrożenie, którego on dotyczy.
 
-<a id="par-11"></a>
+<a id="par-11-1"></a>
 ### § 11.
 
 Wymagania dotyczące stosowania znaków ewakuacyjnych i znaków dotyczących ochrony przeciwpożarowej określają odrębne przepisy i Polskie Normy.
 
-<a id="rozdzial-3"></a>
+<a id="rozdzial-3-2"></a>
 ### Rozdział 3. Wymagania dotyczące oznaczania przeszkód, niebezpiecznych miejsc i dróg
 
-<a id="par-12"></a>
+<a id="par-12-1"></a>
 ### § 12.
 
 1. Miejsca w zakładzie pracy, do których pracownicy mają dostęp podczas pracy, a w których istnieje ryzyko kolizji z przeszkodami, upadku lub spadania przedmiotów, powinny być oznakowane skośnymi pasami - na przemian żółtymi i czarnymi lub czerwonymi i białymi.
@@ -1388,7 +1622,7 @@ Wymagania dotyczące stosowania znaków ewakuacyjnych i znaków dotyczących och
 
 3. Żółte i czarne lub białe i czerwone pasy powinny być narysowane pod kątem około 45° i powinny mieć zbliżone wymiary.
 
-<a id="par-13"></a>
+<a id="par-13-1"></a>
 ### § 13.
 
 1. Drogi w budynkach powinny być wyraźnie wyznaczone za pomocą ciągłych pasów o dobrze widocznej barwie (z uwzględnieniem barwy podłoża) - najlepiej żółtej lub białej.
@@ -1397,17 +1631,17 @@ Wymagania dotyczące stosowania znaków ewakuacyjnych i znaków dotyczących och
 
 3. Przepis ust. 1 dotyczy również stałych dróg na zewnątrz budynków, o ile drogi te nie są otoczone odpowiednimi barierami lub chodnikami.
 
-<a id="rozdzial-4"></a>
+<a id="rozdzial-4-1"></a>
 ### Rozdział 4. Wymagania dotyczące sygnałów świetlnych
 
-<a id="par-14"></a>
+<a id="par-14-1"></a>
 ### § 14.
 
 1. Światło emitowane przez urządzenie sygnalizacyjne powinno kontrastować odpowiednio z otoczeniem i warunkami jego stosowania; nie może ono być zbyt silne, aby nie powodowało olśnienia, ani zbyt słabe, aby nie powodowało złej widoczności sygnału.
 
 2. Powierzchnia świecąca może być tylko w jednym kolorze lub zawierać symbol obrazkowy (piktogram) na określonym tle - zgodnie z wymaganiami określonymi w Polskich Normach.
 
-<a id="par-15"></a>
+<a id="par-15-1"></a>
 ### § 15.
 
 1. Jeżeli urządzenie może wysyłać sygnał świetlny ciągły i przerywany (migający) - sygnał przerywany powinien być używany do informowania o większym niebezpieczeństwie lub o pilniejszej potrzebie interwencji albo podjęcia określonej akcji, niż to wskazuje sygnał ciągły. Czas trwania każdego błysku i częstotliwość błysków w sygnale przerywanym powinny być tak dobrane, aby zapewnić dobrą percepcję informacji i uniknąć pomylenia z różnymi sygnałami świetlnymi przerywanymi lub z sygnałem ciągłym.
@@ -1416,10 +1650,10 @@ Wymagania dotyczące stosowania znaków ewakuacyjnych i znaków dotyczących och
 
 3. Urządzenie do wysyłania sygnałów świetlnych, używane w przypadku poważnego niebezpieczeństwa, powinno zapewniać ciągłość wysyłania sygnałów, w szczególności poprzez zainstalowanie dodatkowego źródła światła lub systematyczne kontrole urządzenia.
 
-<a id="rozdzial-5"></a>
+<a id="rozdzial-5-1"></a>
 ### Rozdział 5. Wymagania dotyczące sygnałów dźwiękowych
 
-<a id="par-16"></a>
+<a id="par-16-1"></a>
 ### § 16.
 
 1. Sygnał dźwiękowy powinien:
@@ -1432,20 +1666,20 @@ Wymagania dotyczące stosowania znaków ewakuacyjnych i znaków dotyczących och
 
 2. Jeżeli urządzenie może wysyłać sygnał dźwiękowy o zmiennej i stałej częstotliwości - sygnał o zmiennej częstotliwości powinien być używany do informowania o większym niebezpieczeństwie lub o pilniejszej potrzebie interwencji albo podjęcia określonej akcji, niż to wskazuje sygnał o stałej częstotliwości.
 
-<a id="par-17"></a>
+<a id="par-17-1"></a>
 ### § 17.
 
 Dźwiękowy sygnał wzywający do ewakuacji powinien być ciągły.
 
-<a id="par-18"></a>
+<a id="par-18-1"></a>
 ### § 18.
 
 Wymagania dotyczące projektowania sygnałów dźwiękowych określone są w Polskich Normach.
 
-<a id="rozdzial-6"></a>
+<a id="rozdzial-6-1"></a>
 ### Rozdział 6. Wymagania dotyczące stosowania komunikatów słownych
 
-<a id="par-19"></a>
+<a id="par-19-1"></a>
 ### § 19.
 
 1. Komunikat słowny wysyłany przez nadawcę lub urządzenie emitujące do jednego lub wielu odbiorców powinien mieć formę krótkich tekstów, zwrotów, stów pojedynczych lub grup stów.
@@ -1454,7 +1688,7 @@ Wymagania dotyczące projektowania sygnałów dźwiękowych określone są w Pol
 
 3. Komunikat słowny może być przekazywany bezpośrednio (wypowiadany przez człowieka) lub pośrednio (emitowany za pomocą odpowiedniego urządzenia).
 
-<a id="par-20"></a>
+<a id="par-20-1"></a>
 ### § 20.
 
 1. Osoby, będące nadawcami i odbiorcami komunikatu powinny dobrze znać język, w którym jest sformułowany, aby mogły go poprawnie wymówić oraz zrozumieć i w efekcie przyjąć odpowiednie zachowanie zgodne z wymaganiami bezpieczeństwa i ochrony zdrowia.
@@ -1464,14 +1698,14 @@ Wymagania dotyczące projektowania sygnałów dźwiękowych określone są w Pol
 <a id="rozdzial-7"></a>
 ### Rozdział 7. Wymagania dotyczące stosowania sygnałów ręcznych
 
-<a id="par-21"></a>
+<a id="par-21-1"></a>
 ### § 21.
 
 1. Sygnał ręczny powinien być precyzyjny, prosty, łatwy do wykonania i do zrozumienia, a także odróżniać się od innych sygnałów.
 
 2. Jeśli podczas sygnału ręcznego konieczne jest używanie obu rąk naraz - ich użycie powinno odbywać się w sposób symetryczny i dotyczyć tylko jednego sygnału.
 
-<a id="par-22"></a>
+<a id="par-22-1"></a>
 ### § 22.
 
 Osoba przekazująca sygnały ręczne - sygnalista lub hakowy - zwana dalej „sygnalistą”, wykonuje za pomocą rąk lub dłoni określone w poniższej tabeli gesty, przekazując w ten sposób instrukcje dotyczące określonych manewrów osobie odbierającej sygnał, zwanej dalej „operatorem”.
@@ -1480,7 +1714,7 @@ patrz oryginał
 
 Uwaga: Wszystkie zakodowane gesty, przedstawione w tabeli, nie wykluczają użycia, zwłaszcza w pewnych sektorach działalności, innych dodatkowych gestów, stosowanych na podstawie przepisów szczegółowych.
 
-<a id="par-23"></a>
+<a id="par-23-1"></a>
 ### § 23.
 
 1. Sygnalista kieruje manewrami w taki sposób, aby ich wykonywanie zapewniało bezpieczeństwo pracownikom znajdującym się w pobliżu.
@@ -1489,7 +1723,7 @@ Uwaga: Wszystkie zakodowane gesty, przedstawione w tabeli, nie wykluczają użyc
 
 3. Jeżeli operator nie może wykonać otrzymanych od sygnalisty poleceń z zachowaniem wymagań bezpieczeństwa - powinien wstrzymać wykonywanie rozpoczętego manewru i zażądać nowych instrukcji.
 
-<a id="par-24"></a>
+<a id="par-24-1"></a>
 ### § 24.
 
 Sygnalista powinien być wyposażony w jeden lub więcej elementów rozpoznawczych, takich jak kurtka, kamizelka, kask, opaska. Elementy rozpoznawcze powinny mieć jaskrawe, najlepiej jednakowe kolory, takie jak pomarańczowy, żółty lub czerwony, używane wyłącznie przez sygnalistę.
@@ -1497,12 +1731,12 @@ Sygnalista powinien być wyposażony w jeden lub więcej elementów rozpoznawczy
 <a id="zalacznik-nr-2-szczegolowe-zasady-stosowania-srodkow-ochrony-indywidualnej-43-dodany-przez-1-pkt-31-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1"></a>
 ## Załącznik nr 2 - Szczegółowe zasady stosowania środków ochrony indywidualnej 43) Dodany przez § 1 pkt 31 rozporządzenia, o którym mowa w odnośniku 1.
 
-<a id="par-1"></a>
+<a id="par-1-2"></a>
 ### § 1.
 
 Środki ochrony indywidualnej powinny być stosowane w sytuacjach, kiedy nie można uniknąć zagrożeń lub nie można ich wystarczająco ograniczyć za pomocą środków ochrony zbiorowej lub odpowiedniej organizacji pracy.
 
-<a id="par-2"></a>
+<a id="par-2-2"></a>
 ### § 2.
 
 Dostarczane pracownikom do stosowania środki ochrony indywidualnej powinny:
@@ -1515,32 +1749,32 @@ Dostarczane pracownikom do stosowania środki ochrony indywidualnej powinny:
 
 4) być odpowiednio dopasowane do użytkownika - po wykonaniu niezbędnych regulacji.
 
-<a id="par-3"></a>
+<a id="par-3-2"></a>
 ### § 3.
 
 W przypadku występowania więcej niż jednego zagrożenia i konieczności jednoczesnego stosowania kilku środków ochrony indywidualnej - środki te powinny dać się dopasować względem siebie bez zmniejszenia ich właściwości ochronnych.
 
-<a id="par-4"></a>
+<a id="par-4-2"></a>
 ### § 4.
 
 W zależności od stopnia zagrożenia, częstości narażenia na zagrożenie, cech stanowiska pracy każdego pracownika i skuteczności działania środków ochrony indywidualnej - pracodawca powinien określić warunki stosowania środków ochrony indywidualnej, a w szczególności czas i przypadki, w których powinny być używane.
 
-<a id="par-5"></a>
+<a id="par-5-2"></a>
 ### § 5.
 
 Środki ochrony indywidualnej powinny być przeznaczone do osobistego użytku. W wyjątkowych przypadkach środek ochrony indywidualnej może być używany przez więcej niż jedną osobę, o ile zastosowano działania wykluczające niepożądany wpływ takiego użytkowania na zdrowie lub higienę użytkowników.
 
-<a id="par-6"></a>
+<a id="par-6-2"></a>
 ### § 6.
 
 1. Środki ochrony indywidualnej powinny być stosowane zgodnie ze swoim przeznaczeniem, z wyłączeniem szczególnych i wyjątkowych sytuacji - zgodnie z instrukcją przekazaną przez pracodawcę. W razie potrzeby - w celu zapewnienia właściwego używania środków ochrony indywidualnej - pracodawca powinien zorganizować pokazy używania tych środków.
 
 2. Instrukcja, o której mowa w ust. 1, powinna być zrozumiała dla pracowników oraz powinna określać sposoby używania środków ochrony indywidualnej, ich kontroli i konserwacji.
 
-<a id="par-7"></a>
+<a id="par-7-2"></a>
 ### § 7.
 
-1. Przed nabyciem środków ochrony indywidualnej pracodawca powinien ocenić, czy środki, które zamierza zastosować, spełniają wymagania określone w § 2 i 3. Ocena taka powinna obejmować:
+1. Przed nabyciem środków ochrony indywidualnej pracodawca powinien ocenić, czy środki, które zamierza zastosować, spełniają wymagania określone w [§ 2](#par-2) i 3. Ocena taka powinna obejmować:
 
 1) analizę i ocenę zagrożeń, których nie można uniknąć innymi metodami;
 
@@ -1550,7 +1784,7 @@ W zależności od stopnia zagrożenia, częstości narażenia na zagrożenie, ce
 
 2. Ocena, o której mowa w ust. 1, powinna być ponawiana w sytuacji wystąpienia zmian któregokolwiek z jej elementów.
 
-<a id="par-8"></a>
+<a id="par-8-2"></a>
 ### § 8.
 
 Przy ustalaniu środków ochrony indywidualnej niezbędnych do stosowania przy określonych pracach pracodawca powinien uwzględniać wskazania zawarte w tabelach nr 1-3.
@@ -1564,13 +1798,13 @@ Tabela 3 Rodzaje środków ochrony indywidualnej
 <a id="zalacznik-nr-3-wymagania-dla-pomieszczen-i-urzadzen-higienicznosanitarnych-44-oznaczenie-zalacznika-nadane-przez-1-pkt-29-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1-45-tytul-zalacznika-ustalony-przez-1-pkt-30-lit-a-rozporzadzenia-o-ktorym-mowa-w-odnosniku-1"></a>
 ## Załącznik nr 3 - Wymagania dla pomieszczeń i urządzeń higienicznosanitarnych 44) Oznaczenie załącznika nadane przez § 1 pkt 29 rozporządzenia, o którym mowa w odnośniku 1. 45) Tytuł załącznika ustalony przez § 1 pkt 30 lit. a rozporządzenia, o którym mowa w odnośniku 1.
 
-<a id="rozdzial-1"></a>
+<a id="rozdzial-1-3"></a>
 ### Rozdział 1. Przepisy ogólne
 
-<a id="par-1"></a>
+<a id="par-1-3"></a>
 ### § 1.
 
-1 [46)]. Pomieszczenia higienicznosanitarne powinny znajdować się w budynku, w którym odbywa się praca, albo w budynku połączonym z nim obudowanym przejściem, które w przypadku przechodzenia z ogrzewanych pomieszczeń pracy powinno być również ogrzewane. Wymóg ten nie dotyczy pomieszczeń higienicznosanitarnych, o których mowa w § 27 ust. 4 i § 44.
+1 [46)]. Pomieszczenia higienicznosanitarne powinny znajdować się w budynku, w którym odbywa się praca, albo w budynku połączonym z nim obudowanym przejściem, które w przypadku przechodzenia z ogrzewanych pomieszczeń pracy powinno być również ogrzewane. Wymóg ten nie dotyczy pomieszczeń higienicznosanitarnych, o których mowa w [§ 27](#par-27) ust. 4 i [§ 44](#par-44).
 
 2. Pomieszczenia higienicznosanitarne powinny być usytuowane w sposób uniemożliwiający pracownikom korzystającym z nich przechodzenie przez pomieszczenia, w których stosowane są substancje trujące lub materiały zakaźne albo wykonywane są prace szczególnie brudzące, jeżeli nie pracują oni w kontakcie z tymi czynnikami.
 
@@ -1578,7 +1812,7 @@ Tabela 3 Rodzaje środków ochrony indywidualnej
 
 4. Wysokość pomieszczeń higienicznosanitarnych nie powinna być w świetle mniejsza niż 2,5 m. Dopuszcza się zmniejszenie wysokości pomieszczeń higienicznosanitarnych do 2,2 m w świetle - w przypadku usytuowania ich w suterenie, piwnicy lub na poddaszu.
 
-<a id="par-2"></a>
+<a id="par-2-3"></a>
 ### § 2.
 
 1. Pracodawca jest obowiązany utrzymywać pomieszczenia higienicznosanitarne oraz znajdujące się w nich urządzenia w stanie zapewniającym bezpieczne i higieniczne korzystanie z nich przez pracowników.
@@ -1587,7 +1821,7 @@ Tabela 3 Rodzaje środków ochrony indywidualnej
 
 3. W pomieszczeniach umywalni i natrysków na podłogach wykonanych z materiałów o dużym przewodnictwie ciepła należy ułożyć w miejscach mycia się podkładki izolujące (podesty).
 
-<a id="par-3"></a>
+<a id="par-3-3"></a>
 ### § 3.
 
 1 [47)]. Szatnie, umywalnie, pomieszczenia z natryskami i ustępy powinny być urządzone oddzielnie
@@ -1596,29 +1830,29 @@ dla kobiet i mężczyzn. Nie dotyczy to zakładu pracy, w którym jest zatrudnio
 
 2 [48)]. Pracodawca zatrudniający do dwudziestu pracowników powinien zapewnić im co najmniej ustępy i umywalki, a także warunki do higienicznego przechowywania odzieży własnej (domowej), roboczej i ochronnej oraz do higienicznego spożywania posiłków. Jeżeli w zakładzie pracy takiego pracodawcy nie występują czynniki szkodliwe dla zdrowia i prace brudzące lub nie występują szczególne wymagania sanitarne, miejsca do spożywania posiłków, przechowywania odzieży oraz umywalki mogą znajdować się w jednym pomieszczeniu.
 
-<a id="par-4"></a>
+<a id="par-4-3"></a>
 ### § 4.
 
-1. Odzież powinna być przechowywana w szatniach lub odpowiednio w pomieszczeniach, o których mowa w § 3 ust. 2.
+1. Odzież powinna być przechowywana w szatniach lub odpowiednio w pomieszczeniach, o których mowa w [§ 3](#par-3) ust. 2.
 
 2 [49)]. Pracownicy zatrudnieni w pomieszczeniach biurowych mogą przechowywać swoją odzież w przeznaczonych do tego miejscach w pomieszczeniach pracy.
 
-<a id="par-5"></a>
+<a id="par-5-3"></a>
 ### § 5.
 
 Pracodawca zatrudniający pracowników niepełnosprawnych powinien zapewnić dostosowanie urządzeń higienicznosanitarnych oraz dojść do nich - do potrzeb i możliwości tych pracowników wynikających ze zmniejszonej sprawności, zgodnie z przepisami techniczno-budowlanymi.
 
-<a id="rozdzial-2"></a>
+<a id="rozdzial-2-3"></a>
 ### Rozdział 2. Szatnie
 
 **Przepisy ogólne**
 
-<a id="par-6"></a>
+<a id="par-6-3"></a>
 ### § 6.
 
 Szatnie powinny być urządzone w oddzielnych lub wydzielonych pomieszczeniach.
 
-<a id="par-7"></a>
+<a id="par-7-3"></a>
 ### § 7.
 
 1. Pomieszczenia przeznaczone na szatnie powinny być suche i, w miarę możliwości, oświetlone światłem dziennym.
@@ -1629,7 +1863,7 @@ Szatnie powinny być urządzone w oddzielnych lub wydzielonych pomieszczeniach.
 
 4 [50)]. Szatnie, o których mowa w ust. 2, przeznaczone dla ponad 25 pracowników powinny być wyposażone w wentylację mechaniczną.
 
-<a id="par-8"></a>
+<a id="par-8-3"></a>
 ### § 8.
 
 1 [51)]. W szatni powinny być zapewnione miejsca siedzące dla co najmniej 50% zatrudnionych na najliczniejszej zmianie.
@@ -1638,7 +1872,7 @@ Szatnie powinny być urządzone w oddzielnych lub wydzielonych pomieszczeniach.
 
 3. Szafy na odzież powinny spełniać wymagania Polskiej Normy.
 
-<a id="par-9"></a>
+<a id="par-9-2"></a>
 ### § 9.
 
 1. Szatnie powinny być dostosowane do rodzaju prac, stopnia narażenia pracownika na zabrudzenie ciała i zanieczyszczenia jego odzieży substancjami szkodliwymi, trującymi lub materiałami zakaźnymi.
@@ -1653,7 +1887,7 @@ Szatnie powinny być urządzone w oddzielnych lub wydzielonych pomieszczeniach.
 
 4) szatnie przepustowe - składające się z części przeznaczonej na odzież własną pracowników, części przeznaczonej na odzież roboczą i środki ochrony indywidualnej oraz przepustowego zespołu sanitarnego z natryskami, łączącego obie te części.
 
-<a id="par-10"></a>
+<a id="par-10-2"></a>
 ### § 10.
 
 1. W zespole szatni przeznaczonym dla pracowników zatrudnionych przy pracach powodujących znaczne zabrudzenie odzieży (stwarzające możliwość zanieczyszczenia wnętrza szafy) lub jej zamoczenie, oraz dla pracowników, których odzież robocza, z uwagi na rodzaj wykonywanej pracy, musi spełniać szczególne wymagania higienicznosanitarne, powinny znajdować się pomieszczenia wyposażone w urządzenia do odkażania, odpylania i suszenia odzieży oraz czyszczenia obuwia - odpowiednio do potrzeb. W przypadku zainstalowania jednocześnie kilku urządzeń, każde z nich powinno być umieszczone w oddzielnym pomieszczeniu.
@@ -1664,14 +1898,14 @@ Szatnie powinny być urządzone w oddzielnych lub wydzielonych pomieszczeniach.
 
 **Szatnie odzieży własnej pracowników**
 
-<a id="par-11"></a>
+<a id="par-11-2"></a>
 ### § 11.
 
 1. Szatnia odzieży własnej pracowników powinna być wyposażona w szafy przeznaczone do indywidualnego użytku każdego pracownika.
 
 2. W pomieszczeniu szatni, o której mowa w ust.1, powinno przypadać co najmniej 0,3 m 2 wolnej powierzchni podłogi na każdego pracownika korzystającego z tej szatni.
 
-<a id="par-12"></a>
+<a id="par-12-2"></a>
 ### § 12.
 
 1. Szatnia odzieży własnej pracowników może być urządzona w formie szatni wieszakowej, jeżeli nie ma do tego przeciwwskazań ze względu na rodzaj pracy, warunki jej wykonywania, rodzaje występujących zanieczyszczeń itp. oraz jeżeli jest zapewniona szybka obsługa. Szatnia taka powinna odpowiadać następującym wymaganiom:
@@ -1692,7 +1926,7 @@ Szatnie powinny być urządzone w oddzielnych lub wydzielonych pomieszczeniach.
 
 **Szatnie odzieży roboczej i ochronnej**
 
-<a id="par-13"></a>
+<a id="par-13-2"></a>
 ### § 13.
 
 1. Szatnia odzieży roboczej i ochronnej powinna być urządzona - niezależnie od szatni odzieży własnej pracowników - dla pracowników zatrudnionych przy pracach powodujących znaczne zabrudzenie odzieży (stwarzające możliwość zanieczyszczenia wnętrz szafy do przechowywania odzieży) lub jej zamoczenie oraz dla pracowników, których odzież robocza, z uwagi na rodzaj wykonywanej pracy, musi spełniać szczególne wymagania higienicznosanitarne.
@@ -1705,7 +1939,7 @@ Szatnie powinny być urządzone w oddzielnych lub wydzielonych pomieszczeniach.
 
 **Szatnie podstawowe**
 
-<a id="par-14"></a>
+<a id="par-14-2"></a>
 ### § 14.
 
 1. Szatnia podstawowa może być urządzona zamiast osobnych szatni odzieży własnej pracowników oraz szatni odzieży roboczej i ochronnej dla zatrudnionych przy pracach, podczas których zabrudzenie odzieży roboczej i środków ochrony indywidualnej występuje w tak małym stopniu, że nie stwarza ryzyka zanieczyszczenia odzieży własnej pracowników. Szatnia ta powinna mieć bezpośrednie połączenie z umywalnią.
@@ -1714,37 +1948,37 @@ Szatnie powinny być urządzone w oddzielnych lub wydzielonych pomieszczeniach.
 
 3. Szatnia, o której mowa w ust. 1, powinna być wyposażona w dwie szafy pojedyncze lub jedną szafę podwójną dla każdego pracownika korzystającego z tej szatni. Jedna szafa pojedyncza lub jedna część szafy podwójnej powinna być przeznaczona na odzież roboczą i środki ochrony indywidualnej, zaś druga - na odzież własną pracowników.
 
-<a id="par-15"></a>
+<a id="par-15-2"></a>
 ### § 15.
 
-Do szatni podstawowej można stosować odpowiednie przepisy § 12, z tym że stojaki wieszakowe powinny być osobne na odzież własną pracowników i osobne na odzież roboczą i ochronną.
+Do szatni podstawowej można stosować odpowiednie przepisy [§ 12](#par-12), z tym że stojaki wieszakowe powinny być osobne na odzież własną pracowników i osobne na odzież roboczą i ochronną.
 
 **Szatnie przepustowe**
 
-<a id="par-16"></a>
+<a id="par-16-2"></a>
 ### § 16.
 
 1. Szatnia przepustowa powinna być urządzona dla pracowników zatrudnionych przy pracach związanych ze stosowaniem lub wydzielaniem się substancji trujących, zakaźnych, promieniotwórczych, drażniących lub uczulających oraz innych substancji o nieprzyjemnym zapachu, a także przy pracach pylących, w wilgotnym i gorącym mikroklimacie lub powodujących intensywne brudzenie.
 
 2. Szatnia przepustowa powinna spełniać następujące wymagania:
 
-1) część szatni przeznaczona na odzież roboczą i środki ochrony indywidualnej powinna odpowiadać wymaganiom określonym w § 13 ust. 2 i 3;
+1) część szatni przeznaczona na odzież roboczą i środki ochrony indywidualnej powinna odpowiadać wymaganiom określonym w [§ 13](#par-13) ust. 2 i 3;
 
-2) część szatni przeznaczona na odzież własną pracowników powinna odpowiadać wymaganiom określonym w § 11 lub § 12;
+2) część szatni przeznaczona na odzież własną pracowników powinna odpowiadać wymaganiom określonym w [§ 11](#par-11) lub [§ 12](#par-12);
 
 3) ruch użytkowników szatni przepustowej pomiędzy obu jej częściami powinien odbywać się wyłącznie przez zespół sanitarny z natryskami.
 
 3. Dla pracowników mających kontakt z substancjami trującymi lub zakaźnymi powinna być przeznaczona odrębna szatnia przepustowa, spełniająca wymagania określone w ust. 2.
 
-<a id="rozdzial-3"></a>
+<a id="rozdzial-3-3"></a>
 ### Rozdział 3. Umywalnie i pomieszczenia z natryskami
 
-<a id="par-17"></a>
+<a id="par-17-2"></a>
 ### § 17.
 
 W skład zespołu szatni powinny wchodzić umywalnie łatwo dostępne dla pracowników i zapewniające bezkolizyjny ruch pracowników już umytych i przebranych w odzież własną.
 
-<a id="par-18"></a>
+<a id="par-18-2"></a>
 ### § 18.
 
 1. Umywalnia powinna być wyposażona w umywalki emaliowane lub wykonane z materiału odpornego na korozję, zgodne z Polską Normą.
@@ -1753,33 +1987,33 @@ W skład zespołu szatni powinny wchodzić umywalnie łatwo dostępne dla pracow
 
 3. Szerokość przejścia miedzy umywalkami a ścianą przeciwległą powinna wynosić nie mniej niż 1,3 m, a między dwoma rzędami umywalek - nie mniej niż 2 m.
 
-<a id="par-19"></a>
+<a id="par-19-2"></a>
 ### § 19.
 
 1. Na każdych dziesięciu pracowników najliczniejszej zmiany powinna w umywalni przypadać co najmniej jedna umywalka indywidualna, a przy pracach brudzących i w kontakcie z substancjami szkodliwymi lub zakaźnymi - co najmniej jedna umywalka na każdych pięciu pracowników - lecz nie mniej niż jedna przy mniejszej liczbie zatrudnionych. W przypadku zastosowania umywalek szeregowych do mycia zbiorowego (np. na placach budowy) powinno przypadać co najmniej jedno stanowisko do mycia (zawór czerpalny wody) na każdych pięciu pracowników jednocześnie zatrudnionych.
 
 2. Na każdych trzydziestu mężczyzn lub na każde dwadzieścia kobiet jednocześnie zatrudnionych przy pracach biurowych lub w warunkach zbliżonych do tych prac powinna przypadać co najmniej jedna umywalka, lecz nie mniej niż jedna umywalka przy mniejszej liczbie zatrudnionych. Umywalki powinny być instalowane w pomieszczeniach ustępów lub w ich przedsionkach izolacyjnych.
 
-<a id="par-20"></a>
+<a id="par-20-2"></a>
 ### § 20.
 
 Dla pracowników narażonych na zabrudzenie nóg przy pracy powinny być instalowane w umywalniach brodziki do mycia nóg z doprowadzeniem ciepłej wody, w ilości co najmniej jeden brodzik na każdych dziesięciu użytkowników. Brodziki nie są wymagane dla pracowników zatrudnionych przy pracach na otwartej przestrzeni - poza terenem zakładu pracy.
 
-<a id="par-21"></a>
+<a id="par-21-2"></a>
 ### § 21.
 
 1. W zespole szatni powinny znajdować się pomieszczenia z natryskami, jeśli wymagają tego warunki pracy lub ochrona zdrowia pracowników.
 
 2. Pomieszczenia z natryskami powinny być łatwo dostępne dla pracowników i zapewniać bezkolizyjny ruch pracowników już umytych i ubranych w odzież własną.
 
-<a id="par-22"></a>
+<a id="par-22-2"></a>
 ### § 22.
 
-1. Na każdych ośmiu pracowników najliczniejszej zmiany wykonujących prace powodujące zabrudzenie ich ciała powinna przypadać co najmniej jedna kabina natryskowa, a przy pracach, o których mowa w § 16 ust. 1, co najmniej jedna kabina natryskowa na każdych pięciu pracowników - lecz nie mniej niż jedna przy mniejszej liczbie zatrudnionych.
+1. Na każdych ośmiu pracowników najliczniejszej zmiany wykonujących prace powodujące zabrudzenie ich ciała powinna przypadać co najmniej jedna kabina natryskowa, a przy pracach, o których mowa w [§ 16](#par-16) ust. 1, co najmniej jedna kabina natryskowa na każdych pięciu pracowników - lecz nie mniej niż jedna przy mniejszej liczbie zatrudnionych.
 
 2. Wymiary kabin natryskowych powinny być zgodne z przepisami techniczno-budowlanymi. Szerokość przejścia między dwoma rzędami kabin, przy zastosowaniu zasłon zasuwanych lub ścianek osłaniających powinna wynosić co najmniej 1,30 m, a między kabinami i ścianą - co najmniej 0,90 m.
 
-<a id="par-23"></a>
+<a id="par-23-2"></a>
 ### § 23.
 
 1. W pomieszczeniu z natryskami poszczególne sitka powinny być zainstalowane w oddzielnych kabinach i umieszczone w taki sposób, aby strumień wody spływał na ramiona, a nie na głowę.
@@ -1790,24 +2024,24 @@ Dla pracowników narażonych na zabrudzenie nóg przy pracy powinny być instalo
 
 4. Przy pomieszczeniach z natryskami powinna znajdować się wydzielona kabina z jedną miską ustępową na każde dziesięć natrysków, lecz nie mniej niż jedną.
 
-<a id="par-24"></a>
+<a id="par-24-2"></a>
 ### § 24.
 
 1. Temperatura wody ciepłej doprowadzonej do umywalek, natrysków i brodzików przy stosowaniu centralnej regulacji lub zbiorowego mieszania wody powinna wynosić od 35 °C do 40 °C (od 308 K do 313 K), a w przypadku indywidualnego mieszania wody - od 50 °C do 60 °C (323 K do 333 K).
 
 2. W pomieszczeniach umywalni należy zapewnić co najmniej dwukrotną wymianę powietrza w ciągu godziny, natomiast w pomieszczeniach z natryskami wymiana ta nie powinna być mniejsza niż pięciokrotna w ciągu godziny.
 
-<a id="rozdzial-4"></a>
+<a id="rozdzial-4-2"></a>
 ### Rozdział 4. Ustępy
 
-<a id="par-25"></a>
+<a id="par-25-1"></a>
 ### § 25.
 
 1. Ustępy powinny być zlokalizowane w odległości nie większej niż 75 m od stanowiska pracy. Odległość ta może być większa jedynie dla pracowników pracujących stale na otwartej przestrzeni, lecz nie powinna przekraczać 125 m od najdalszego stanowiska pracy.
 
 2. W budynkach ustępy powinny być urządzone na każdej kondygnacji. Jeżeli na kondygnacji pracuje mniej niż dziesięć osób, ustępy mogą znajdować się nie dalej niż na sąsiedniej kondygnacji.
 
-<a id="par-26"></a>
+<a id="par-26-1"></a>
 ### § 26.
 
 1. Wejścia do ustępów powinny prowadzić bezpośrednio z pomieszczeń, korytarzy lub dróg służących do komunikacji ogólnej.
@@ -1816,7 +2050,7 @@ Dla pracowników narażonych na zabrudzenie nóg przy pracy powinny być instalo
 
 3. Drzwi prowadzące do pomieszczenia izolującego oraz drzwi łączące je z dalszą częścią ustępu powinny zamykać się samoczynnie.
 
-<a id="par-27"></a>
+<a id="par-27-1"></a>
 ### § 27.
 
 1. Zainstalowane w ustępach miski ustępowe i pisuary powinny być spłukiwane bieżącą wodą oraz podłączone do kanalizacji.
@@ -1825,21 +2059,21 @@ Dla pracowników narażonych na zabrudzenie nóg przy pracy powinny być instalo
 
 3. W pomieszczeniach ustępów należy zapewnić wymianę powietrza w ilości nie mniejszej niż 50 m 3 na godzinę na 1 miskę ustępową i 25 m 3 na 1 pisuar.
 
-4. Dla pracowników zatrudnionych na otwartej przestrzeni poza terenem zakładu pracy przez okres nie dłuższy niż 3 miesiące oraz zatrudnionych w budynkach niewyposażonych w instalację wodociągową i kanalizacyjną mogą być urządzane ustępy wyposażone w szczelne zbiorniki nieczystości. W takim przypadku ustępy mogą nie spełniać wymagań określonych w ust. 1, 2 i 3 oraz w § 26 ust. 2.
+4. Dla pracowników zatrudnionych na otwartej przestrzeni poza terenem zakładu pracy przez okres nie dłuższy niż 3 miesiące oraz zatrudnionych w budynkach niewyposażonych w instalację wodociągową i kanalizacyjną mogą być urządzane ustępy wyposażone w szczelne zbiorniki nieczystości. W takim przypadku ustępy mogą nie spełniać wymagań określonych w ust. 1, 2 i 3 oraz w [§ 26](#par-26) ust. 2.
 
 5. Szerokość przejść wzdłuż kabin ustępowych przy jednostronnym ich rozmieszczeniu powinna wynosić co najmniej 1,3 m. Jeżeli naprzeciwko kabin są umieszczone pisuary, odległość między ścianą, na której są zainstalowane, a kabinami nie powinna być mniejsza niż 2 m. Przejście między rzędami kabin powinno mieć szerokość co najmniej 2 m.
 
-<a id="par-28"></a>
+<a id="par-28-1"></a>
 ### § 28.
 
 1. Na każdych trzydziestu mężczyzn zatrudnionych na jednej zmianie powinna przypadać co najmniej jedna miska ustępowa i jeden pisuar, lecz nie mniej niż jedna miska i jeden pisuar przy mniejszej liczbie zatrudnionych.
 
 2. Na każde dwadzieścia kobiet zatrudnionych na jednej zmianie powinna przypadać jedna miska ustępowa, lecz nie mniej niż jedna miska przy mniejszej liczbie zatrudnionych.
 
-<a id="rozdzial-5"></a>
+<a id="rozdzial-5-2"></a>
 ### Rozdział 5. Jadalnie
 
-<a id="par-29"></a>
+<a id="par-29-1"></a>
 ### § 29.
 
 1. Pracodawca zatrudniający powyżej dwudziestu pracowników na jednej zmianie powinien zapewnić pracownikom pomieszczenie do spożywania posiłków, zwane dalej „jadalnią”.
@@ -1850,7 +2084,7 @@ Dla pracowników narażonych na zabrudzenie nóg przy pracy powinny być instalo
 
 4. Przepis ust. 1 nie dotyczy zakładów pracy, w których wykonywane są prace wyłącznie o charakterze biurowym.
 
-<a id="par-30"></a>
+<a id="par-30-1"></a>
 ### § 30.
 
 Ustala się następujące typy jadalni:
@@ -1863,14 +2097,14 @@ Ustala się następujące typy jadalni:
 
 Dopuszcza się łączenie jadalni typu II i III.
 
-<a id="par-31"></a>
+<a id="par-31-1"></a>
 ### § 31.
 
 1. W pomieszczeniu jadalni typu I powinno przypadać co najmniej 1,1 m 2 powierzchni na każdego z pracowników jednocześnie spożywających posiłek.
 
 2. Powierzchnia jadalni nie powinna być mniejsza niż 8 m 2.
 
-<a id="par-32"></a>
+<a id="par-32-1"></a>
 ### § 32.
 
 Jadalnia typu II powinna składać się z dwóch części:
@@ -1879,12 +2113,12 @@ Jadalnia typu II powinna składać się z dwóch części:
 
 2) pomieszczeń do przygotowywania, wydawania napojów i zmywania naczyń stołowych.
 
-<a id="par-33"></a>
+<a id="par-33-1"></a>
 ### § 33.
 
 Jadalnia typu III powinna odpowiadać wymaganiom określonym dla jadalni typu II oraz powinna posiadać węzeł sanitarny dla konsumentów i węzeł sanitarny z szatnią dla pracowników obsługi.
 
-<a id="par-34"></a>
+<a id="par-34-1"></a>
 ### § 34.
 
 1 [55)]. Dla każdego pracownika spożywającego posiłek w jadalni należy zapewnić indywidualne miejsce siedzące przy stole.
@@ -1895,54 +2129,54 @@ Jadalnia typu III powinna odpowiadać wymaganiom określonym dla jadalni typu II
 
 4. W jadalniach typu I i II lub przy nich powinny znajdować się indywidualne zamykane szafki przeznaczone do przechowywania w higienicznych warunkach własnego posiłku pracownika.
 
-<a id="par-35"></a>
+<a id="par-35-1"></a>
 ### § 35.
 
 W pomieszczeniu jadalni należy zapewnić przynajmniej 2-krotną wymianę powietrza w ciągu godziny.
 
-<a id="par-36"></a>
+<a id="par-36-1"></a>
 ### § 36.
 
 1 [56)]. Dla pracowników zatrudnionych przy wykonywaniu prac w kontakcie z materiałami zakaźnymi lub trującymi powinny być urządzone oddzielnie jadalnie niedostępne dla innych pracowników.
 
 2. Jadalnia, o której mowa w ust. 1, powinna być oddzielona od pomieszczeń pracy pomieszczeniem izolującym, w którym należy urządzić miejsca do pozostawiania odzieży ochronnej oraz zainstalować umywalki z ciepłą bieżącą wodą.
 
-<a id="rozdzial-6"></a>
+<a id="rozdzial-6-2"></a>
 ### Rozdział 6. Pomieszczenia do wypoczynku 57) Tytuł rozdziału w brzmieniu ustalonym przez § 1 pkt 30 lit. l rozporządzenia, o którym mowa w odnośniku 1.
 
-<a id="par-37"></a>
+<a id="par-37-1"></a>
 ### § 37.
 
 (skreślony). [58)]
 
-<a id="par-38"></a>
+<a id="par-38-1"></a>
 ### § 38.
 
 1. W zakładzie pracy zatrudniającym na jedną zmianę więcej niż dwadzieścia kobiet w jednym budynku należy urządzić pomieszczenie z miejscami do wypoczynku w pozycji leżącej dla kobiet w ciąży i karmiących matek, przyjmując co najmniej jedno miejsce na każdych trzysta kobiet zatrudnionych na jednej zmianie, lecz nie mniej niż jedno miejsce.
 
 2. Powierzchnia pomieszczenia, o którym mowa w ust.1, nie może być mniejsza niż 8 m 2.
 
-<a id="par-39"></a>
+<a id="par-39-1"></a>
 ### § 39.
 
-W pomieszczeniach higieny osobistej kobiet oraz w pomieszczeniach, o których mowa w § 38, należy zapewnić przynajmniej dwukrotną wymianę powietrza w ciągu godziny.
+W pomieszczeniach higieny osobistej kobiet oraz w pomieszczeniach, o których mowa w [§ 38](#par-38), należy zapewnić przynajmniej dwukrotną wymianę powietrza w ciągu godziny.
 
-<a id="rozdzial-7"></a>
+<a id="rozdzial-7-1"></a>
 ### Rozdział 7. Palarnie
 
-<a id="par-40"></a>
+<a id="par-40-1"></a>
 ### § 40.
 
 1 [59)]. Palenie tytoniu w zakładach pracy jest dozwolone wyłącznie w odpowiednio przystosowanych pomieszczeniach (palarniach) wyposażonych w dostateczną ilość popielniczek.
 
 2 [60)]. Palarnie powinny być usytuowane w sposób nienarażający osób niepalących na wdychanie dymu tytoniowego.
 
-<a id="par-41"></a>
+<a id="par-41-1"></a>
 ### § 41 [61)].
 
 W palarni powinno przypadać co najmniej 0,1 m 2 powierzchni podłogi na każdego pracownika najliczniejszej zmiany korzystającego z tego pomieszczenia, z tym jednak, że powierzchnia poszczególnych pomieszczeń przeznaczonych na palarnie nie powinna być mniejsza niż 4 m 2.
 
-<a id="par-42"></a>
+<a id="par-42-1"></a>
 ### § 42.
 
 W palarni należy zapewnić przynajmniej dziesięciokrotną wymianę powietrza w ciągu godziny.
@@ -1950,7 +2184,7 @@ W palarni należy zapewnić przynajmniej dziesięciokrotną wymianę powietrza w
 <a id="rozdzial-8"></a>
 ### Rozdział 8. Pomieszczenia do prania, odkażania, suszenia i odpylania odzieży roboczej i ochronnej
 
-<a id="par-43"></a>
+<a id="par-43-1"></a>
 ### § 43.
 
 1. Jeżeli przeznaczona do prania odzież robocza lub ochronna może stać się powodem skażenia innej odzieży pranej jednocześnie lub jeżeli jest ona szczególnie zabrudzona, a także gdy wymagają tego specjalne względy higieny produkcji, w zakładzie pracy powinna być urządzona specjalna pralnia odzieży wyposażona w urządzenia mechaniczne do prania.
@@ -1962,7 +2196,7 @@ W palarni należy zapewnić przynajmniej dziesięciokrotną wymianę powietrza w
 <a id="rozdzial-9"></a>
 ### Rozdział 9. Pomieszczenia do ogrzewania się pracowników
 
-<a id="par-44"></a>
+<a id="par-44-1"></a>
 ### § 44.
 
 1. Przy pracach wykonywanych na otwartej przestrzeni lub w nieogrzewanych pomieszczeniach należy zapewnić pracownikom w pobliżu miejsc pracy pomieszczenia umożliwiające im schronienie się przed opadami atmosferycznymi, ogrzanie się oraz zmianę odzieży. Pomieszczenia te powinny być zaopatrzone w urządzenia do podgrzewania posiłków.

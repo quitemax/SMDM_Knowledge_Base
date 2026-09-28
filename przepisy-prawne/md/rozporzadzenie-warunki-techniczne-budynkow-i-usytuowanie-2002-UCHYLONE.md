@@ -2,6 +2,409 @@
 
 Na podstawie art. 7 ust. 2 pkt 1 [2)] ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz z 2022 r. poz. 88) zarządza się, co następuje:
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Dział I. Przepisy ogólne](#dzial-I)
+  - [§ 1.](#par-1)
+  - [§ 2.](#par-2)
+  - [§ 3.](#par-3)
+  - [§ 4.](#par-4)
+  - [§ 5.](#par-5)
+  - [§ 6.](#par-6)
+  - [§ 7.](#par-7)
+  - [§ 8.](#par-8)
+  - [§ 9.](#par-9)
+- [Dział II. Zabudowa i zagospodarowanie działki budowlanej](#dzial-II)
+  - [Rozdział 1. Usytuowanie budynku](#rozdzial-1)
+    - [§ 10.](#par-10)
+    - [§ 11.](#par-11)
+    - [§ 12.](#par-12)
+    - [§ 13.](#par-13)
+  - [Rozdział 2. Dojścia i dojazdy](#rozdzial-2)
+    - [§ 14.](#par-14)
+    - [§ 15.](#par-15)
+    - [§ 16.](#par-16)
+    - [§ 17.](#par-17)
+  - [Rozdział 3. Parkingi i garaże dla samochodów](#rozdzial-3)
+    - [§ 18.](#par-18)
+    - [§ 19.](#par-19)
+    - [§ 20.](#par-20)
+    - [§ 21.](#par-21)
+  - [Rozdział 4. Miejsca gromadzenia odpadów stałych](#rozdzial-4)
+    - [§ 22.](#par-22)
+    - [§ 23.](#par-23)
+    - [§ 24.](#par-24)
+    - [§ 25.](#par-25)
+  - [Rozdział 5. Uzbrojenie techniczne działki i odprowadzenie wód powierzchniowych](#rozdzial-5)
+    - [§ 26.](#par-26)
+    - [§ 27.](#par-27)
+    - [§ 28.](#par-28)
+    - [§ 29.](#par-29)
+    - [§ 30.](#par-30)
+  - [Rozdział 6. Studnie](#rozdzial-6)
+    - [§ 31.](#par-31)
+    - [§ 32.](#par-32)
+    - [§ 33.](#par-33)
+  - [Rozdział 7. Zbiorniki bezodpływowe na nieczystości ciekłe](#rozdzial-7)
+    - [§ 34.](#par-34)
+    - [§ 35.](#par-35)
+    - [§ 36.](#par-36)
+    - [§ 37.](#par-37)
+    - [§ 38.](#par-38)
+  - [Rozdział 8. Zieleń i urządzenia rekreacyjne](#rozdzial-8)
+    - [§ 39.](#par-39)
+    - [§ 40.](#par-40)
+  - [Rozdział 9. Ogrodzenia](#rozdzial-9)
+    - [§ 41.](#par-41)
+    - [§ 42.](#par-42)
+    - [§ 43.](#par-43)
+- [Dział III. Budynki i pomieszczenia](#dzial-III)
+  - [Rozdział 1. Wymagania ogólne](#rozdzial-1-1)
+    - [§ 44.](#par-44)
+    - [§ 45.](#par-45)
+    - [§ 46.](#par-46)
+    - [§ 47.](#par-47)
+    - [§ 48.](#par-48)
+    - [§ 49.](#par-49)
+    - [§ 50.](#par-50)
+    - [§ 51.](#par-51)
+    - [§ 52.](#par-52)
+    - [§ 53.](#par-53)
+    - [§ 54.](#par-54)
+    - [§ 55.](#par-55)
+    - [§ 56.](#par-56)
+  - [Rozdział 2. Oświetlenie i nasłonecznienie](#rozdzial-2-1)
+    - [§ 57.](#par-57)
+    - [§ 58.](#par-58)
+    - [§ 59.](#par-59)
+    - [§ 60.](#par-60)
+  - [Rozdział 3. Wejścia do budynków i mieszkań](#rozdzial-3-1)
+    - [§ 61.](#par-61)
+    - [§ 62.](#par-62)
+    - [§ 63.](#par-63)
+    - [§ 64.](#par-64)
+    - [§ 65.](#par-65)
+  - [Rozdział 4. Schody i pochylnie](#rozdzial-4-1)
+    - [§ 66.](#par-66)
+    - [§ 67.](#par-67)
+    - [§ 68.](#par-68)
+    - [§ 69.](#par-69)
+    - [§ 70.](#par-70)
+    - [§ 71.](#par-71)
+  - [Rozdział 5. Pomieszczenia przeznaczone na pobyt ludzi](#rozdzial-5-1)
+    - [§ 72.](#par-72)
+    - [§ 73.](#par-73)
+    - [§ 74.](#par-74)
+    - [§ 75.](#par-75)
+  - [Rozdział 6. Pomieszczenia higienicznosanitarne](#rozdzial-6-1)
+    - [§ 76.](#par-76)
+    - [§ 77.](#par-77)
+    - [§ 78.](#par-78)
+    - [§ 79.](#par-79)
+    - [§ 80.](#par-80)
+    - [§ 81.](#par-81)
+    - [§ 82.](#par-82)
+    - [§ 83.](#par-83)
+    - [§ 84.](#par-84)
+    - [§ 85.](#par-85)
+    - [§ 85a.](#par-85a)
+    - [§ 86.](#par-86)
+    - [§ 87.](#par-87)
+    - [§ 88.](#par-88)
+    - [§ 89.](#par-89)
+  - [Rozdział 7. Szczególne wymagania dotyczące mieszkań w budynkach wielorodzinnych](#rozdzial-7-1)
+    - [§ 90.](#par-90)
+    - [§ 91.](#par-91)
+    - [§ 92.](#par-92)
+    - [§ 93.](#par-93)
+    - [§ 94.](#par-94)
+    - [§ 95.](#par-95)
+  - [Rozdział 8. Pomieszczenia techniczne i gospodarcze](#rozdzial-8-1)
+    - [§ 96.](#par-96)
+    - [§ 97.](#par-97)
+    - [§ 98.](#par-98)
+  - [Rozdział 9. Dojścia i przejścia do urządzeń technicznych](#rozdzial-9-1)
+    - [§ 99.](#par-99)
+    - [§ 100.](#par-100)
+    - [§ 101.](#par-101)
+  - [Rozdział 10. Garaże dla samochodów osobowych](#rozdzial-10)
+    - [§ 102.](#par-102)
+    - [§ 103.](#par-103)
+    - [§ 104.](#par-104)
+    - [§ 105.](#par-105)
+    - [§ 106.](#par-106)
+    - [§ 107.](#par-107)
+    - [§ 108.](#par-108)
+  - [Rozdział 11. Szczególne wymagania dotyczące pomieszczeń inwentarskich](#rozdzial-11)
+    - [§ 109.](#par-109)
+    - [§ 110.](#par-110)
+    - [§ 111.](#par-111)
+    - [§ 112.](#par-112)
+- [Dział IV. Wyposażenie techniczne budynków](#dzial-IV)
+  - [Rozdział 1. Instalacje wodociągowe zimnej i ciepłej wody](#rozdzial-1-2)
+    - [§ 113.](#par-113)
+    - [§ 114.](#par-114)
+    - [§ 115.](#par-115)
+    - [§ 116.](#par-116)
+    - [§ 117.](#par-117)
+    - [§ 118.](#par-118)
+    - [§ 119.](#par-119)
+    - [§ 120.](#par-120)
+    - [§ 121.](#par-121)
+  - [Rozdział 2. Kanalizacja ściekowa i deszczowa](#rozdzial-2-2)
+    - [§ 122.](#par-122)
+    - [§ 123.](#par-123)
+    - [§ 124.](#par-124)
+    - [§ 125.](#par-125)
+    - [§ 126.](#par-126)
+    - [§ 127.](#par-127)
+  - [Rozdział 3. Wewnętrzne urządzenia do usuwania odpadów stałych](#rozdzial-3-2)
+    - [§ 128.](#par-128)
+    - [§ 129.](#par-129)
+    - [§ 130.](#par-130)
+    - [§ 131.](#par-131)
+  - [Rozdział 4. Instalacje ogrzewcze](#rozdzial-4-2)
+    - [§ 132.](#par-132)
+    - [§ 133.](#par-133)
+    - [§ 134.](#par-134)
+    - [§ 135.](#par-135)
+    - [§ 136.](#par-136)
+    - [§ 137.](#par-137)
+    - [§ 138.](#par-138)
+    - [§ 139.](#par-139)
+  - [Rozdział 5. Przewody kominowe](#rozdzial-5-2)
+    - [§ 140.](#par-140)
+    - [§ 141.](#par-141)
+    - [§ 142.](#par-142)
+    - [§ 143.](#par-143)
+    - [§ 144.](#par-144)
+    - [§ 145.](#par-145)
+    - [§ 146.](#par-146)
+  - [Rozdział 6. Wentylacja i klimatyzacja](#rozdzial-6-2)
+    - [§ 147.](#par-147)
+    - [§ 148.](#par-148)
+    - [§ 149.](#par-149)
+    - [§ 150.](#par-150)
+    - [§ 151.](#par-151)
+    - [§ 152.](#par-152)
+    - [§ 153.](#par-153)
+    - [§ 154.](#par-154)
+    - [§ 155.](#par-155)
+  - [Rozdział 7. Instalacja gazowa na paliwa gazowe](#rozdzial-7-2)
+    - [§ 156.](#par-156)
+    - [§ 157.](#par-157)
+    - [§ 158.](#par-158)
+    - [§ 159.](#par-159)
+    - [§ 160.](#par-160)
+    - [§ 161.](#par-161)
+    - [§ 162.](#par-162)
+    - [§ 163.](#par-163)
+    - [§ 164.](#par-164)
+    - [§ 165.](#par-165)
+    - [§ 166.](#par-166)
+    - [§ 167.](#par-167)
+    - [§ 168.](#par-168)
+    - [§ 169.](#par-169)
+    - [§ 170.](#par-170)
+    - [§ 171.](#par-171)
+    - [§ 172.](#par-172)
+    - [§ 173.](#par-173)
+    - [§ 174.](#par-174)
+    - [§ 175.](#par-175)
+    - [§ 176.](#par-176)
+    - [§ 177.](#par-177)
+    - [§ 178.](#par-178)
+    - [§ 179.](#par-179)
+  - [Rozdział 8. Instalacja elektryczna](#rozdzial-8-2)
+    - [§ 180.](#par-180)
+    - [§ 180a.](#par-180a)
+    - [§ 181.](#par-181)
+    - [§ 182.](#par-182)
+    - [§ 183.](#par-183)
+    - [§ 184.](#par-184)
+    - [§ 185.](#par-185)
+    - [§ 186.](#par-186)
+    - [§ 187.](#par-187)
+    - [§ 188.](#par-188)
+    - [§ 189.](#par-189)
+    - [§ 190.](#par-190)
+    - [§ 191.](#par-191)
+    - [§ 192.](#par-192)
+  - [Rozdział 8a. Instalacja telekomunikacyjna](#rozdzial-8a)
+    - [§ 192a.](#par-192a)
+    - [§ 192b.](#par-192b)
+    - [§ 192c.](#par-192c)
+    - [§ 192d.](#par-192d)
+    - [§ 192e.](#par-192e)
+    - [§ 192f.](#par-192f)
+  - [Rozdział 9. Urządzenia dźwigowe](#rozdzial-9-2)
+    - [§ 193.](#par-193)
+    - [§ 194.](#par-194)
+    - [§ 195.](#par-195)
+    - [§ 196.](#par-196)
+    - [§ 197.](#par-197)
+    - [§ 198.](#par-198)
+    - [§ 199.](#par-199)
+    - [§ 200.](#par-200)
+    - [§ 201.](#par-201)
+    - [§ 202.](#par-202)
+- [Dział V. Bezpieczeństwo konstrukcji](#dzial-V)
+  - [§ 203.](#par-203)
+  - [§ 204.](#par-204)
+  - [§ 205.](#par-205)
+  - [§ 206.](#par-206)
+- [Dział VI. Bezpieczeństwo pożarowe](#dzial-VI)
+  - [Rozdział 1. Zasady ogólne](#rozdzial-1-3)
+    - [§ 207.](#par-207)
+    - [§ 208.](#par-208)
+    - [§ 208a.](#par-208a)
+    - [§ 209.](#par-209)
+    - [§ 210.](#par-210)
+    - [§ 211.](#par-211)
+  - [Rozdział 2. Odporność pożarowa budynków](#rozdzial-2-3)
+    - [§ 212.](#par-212)
+    - [§ 213.](#par-213)
+    - [§ 214.](#par-214)
+    - [§ 215.](#par-215)
+    - [§ 216.](#par-216)
+    - [§ 217.](#par-217)
+    - [§ 218.](#par-218)
+    - [§ 219.](#par-219)
+    - [§ 220.](#par-220)
+    - [§ 221.](#par-221)
+    - [§ 222.](#par-222)
+    - [§ 223.](#par-223)
+    - [§ 224.](#par-224)
+    - [§ 225.](#par-225)
+  - [Rozdział 3. Strefy pożarowe i oddzielenia przeciwpożarowe](#rozdzial-3-3)
+    - [§ 226.](#par-226)
+    - [§ 227.](#par-227)
+    - [§ 228.](#par-228)
+    - [§ 229.](#par-229)
+    - [§ 230.](#par-230)
+    - [§ 231.](#par-231)
+    - [§ 232.](#par-232)
+    - [§ 233.](#par-233)
+    - [§ 234.](#par-234)
+    - [§ 235.](#par-235)
+  - [Rozdział 4. Drogi ewakuacyjne](#rozdzial-4-3)
+    - [§ 236.](#par-236)
+    - [§ 237.](#par-237)
+    - [§ 238.](#par-238)
+    - [§ 239.](#par-239)
+    - [§ 240.](#par-240)
+    - [§ 241.](#par-241)
+    - [§ 242.](#par-242)
+    - [§ 243.](#par-243)
+    - [§ 244.](#par-244)
+    - [§ 245.](#par-245)
+    - [§ 246.](#par-246)
+    - [§ 247.](#par-247)
+    - [§ 248.](#par-248)
+    - [§ 249.](#par-249)
+    - [§ 250.](#par-250)
+    - [§ 251.](#par-251)
+    - [§ 252.](#par-252)
+    - [§ 253.](#par-253)
+    - [§ 255.](#par-255)
+    - [§ 256.](#par-256)
+    - [§ 257.](#par-257)
+  - [Rozdział 5. Wymagania przeciwpożarowe dla elementów wykończenia wnętrz i wyposażenia stałego](#rozdzial-5-3)
+    - [§ 258.](#par-258)
+    - [§ 259.](#par-259)
+    - [§ 260.](#par-260)
+    - [§ 261.](#par-261)
+    - [§ 262.](#par-262)
+    - [§ 263.](#par-263)
+    - [§ 264.](#par-264)
+  - [Rozdział 6. Wymagania przeciwpożarowe dla palenisk i instalacji](#rozdzial-6-3)
+    - [§ 265.](#par-265)
+    - [§ 266.](#par-266)
+    - [§ 267.](#par-267)
+    - [§ 268.](#par-268)
+    - [§ 269.](#par-269)
+    - [§ 270.](#par-270)
+  - [Rozdział 7. Usytuowanie budynków z uwagi na bezpieczeństwo pożarowe](#rozdzial-7-3)
+    - [§ 271.](#par-271)
+    - [§ 272.](#par-272)
+    - [§ 273.](#par-273)
+  - [Rozdział 8. Wymagania przeciwpożarowe dla garaży](#rozdzial-8-3)
+    - [§ 274.](#par-274)
+    - [§ 275.](#par-275)
+    - [§ 276.](#par-276)
+    - [§ 277.](#par-277)
+    - [§ 278.](#par-278)
+    - [§ 279.](#par-279)
+    - [§ 280.](#par-280)
+    - [§ 281.](#par-281)
+  - [Rozdział 9. Wymagania przeciwpożarowe dla budynków inwentarskich](#rozdzial-9-3)
+    - [§ 282.](#par-282)
+    - [§ 283.](#par-283)
+    - [§ 284.](#par-284)
+    - [§ 285.](#par-285)
+  - [Rozdział 10. Wymagania przeciwpożarowe dla budynków tymczasowych](#rozdzial-10-1)
+    - [§ 286.](#par-286)
+    - [§ 287.](#par-287)
+    - [§ 288.](#par-288)
+    - [§ 289.](#par-289)
+    - [§ 290.](#par-290)
+- [Dział VII. Bezpieczeństwo użytkowania](#dzial-VII)
+  - [§ 291.](#par-291)
+  - [§ 292.](#par-292)
+  - [§ 293.](#par-293)
+  - [§ 294.](#par-294)
+  - [§ 295.](#par-295)
+  - [§ 296.](#par-296)
+  - [§ 297.](#par-297)
+  - [§ 298.](#par-298)
+  - [§ 299.](#par-299)
+  - [§ 300.](#par-300)
+  - [§ 301.](#par-301)
+  - [§ 302.](#par-302)
+  - [§ 303.](#par-303)
+  - [§ 304.](#par-304)
+  - [§ 305.](#par-305)
+  - [§ 306.](#par-306)
+  - [§ 307.](#par-307)
+  - [§ 308.](#par-308)
+- [Dział VIII. Higiena i zdrowie](#dzial-VIII)
+  - [Rozdział 1. Wymagania ogólne](#rozdzial-1-4)
+    - [§ 309.](#par-309)
+  - [Rozdział 2. Ochrona czystości powietrza](#rozdzial-2-4)
+    - [§ 310.](#par-310)
+    - [§ 311.](#par-311)
+    - [§ 312.](#par-312)
+  - [Rozdział 3. Ochrona przed promieniowaniem jonizującym i polami elektromagnetycznymi](#rozdzial-3-4)
+    - [§ 313.](#par-313)
+    - [§ 314.](#par-314)
+  - [Rozdział 4. Ochrona przed zawilgoceniem i korozją biologiczną](#rozdzial-4-4)
+    - [§ 315.](#par-315)
+    - [§ 316.](#par-316)
+    - [§ 317.](#par-317)
+    - [§ 318.](#par-318)
+    - [§ 319.](#par-319)
+    - [§ 320.](#par-320)
+    - [§ 321.](#par-321)
+    - [§ 322.](#par-322)
+- [Dział IX. Ochrona przed hałasem i drganiami](#dzial-IX)
+  - [§ 323.](#par-323)
+  - [§ 324.](#par-324)
+  - [§ 325.](#par-325)
+  - [§ 326.](#par-326)
+  - [§ 327.](#par-327)
+- [Dział X. Oszczędność energii i izolacyjność cieplna](#dzial-X)
+  - [§ 328.](#par-328)
+  - [§ 329.](#par-329)
+  - [§ 329a [11)].](#par-329a)
+- [Dział XI. Przepisy przejściowe i końcowe](#dzial-XI)
+  - [§ 330.](#par-330)
+  - [§ 331.](#par-331)
+  - [§ 332.](#par-332)
+- [Załącznik nr 1 - Wykaz polskich norm powołanych w rozporządzeniu](#zalacznik-nr-1-wykaz-polskich-norm-powolanych-w-rozporzadzeniu)
+- [Załącznik nr 2 - Wymagania izolacyjności cieplnej i inne wymagania związane z oszczędnością energii](#zalacznik-nr-2-wymagania-izolacyjnosci-cieplnej-i-inne-wymagania-zwiazane-z-oszczednoscia-energii)
+- [Załącznik nr 3 - Stosowane w rozporządzeniu określenia dotyczące palności i rozprzestrzeniania ognia oraz odpowiadające im klasy reakcji na ogień oraz klasy odporności dachów na ogień zewnętrzny](#zalacznik-nr-3-stosowane-w-rozporzadzeniu-okreslenia-dotyczace-palnosci-i-rozprzestrzeniania-ognia-oraz-odpowiadajace-im-klasy-reakcji-na-ogien-oraz-klasy-odpornosci-dachow-na-ogien-zewnetrzny)
+
 <a id="dzial-I"></a>
 ## Dział I. Przepisy ogólne
 
@@ -13,7 +416,7 @@ Rozporządzenie ustala warunki techniczne, jakim powinny odpowiadać budynki i z
 <a id="par-2"></a>
 ### § 2.
 
-1 [3)]. Przepisy rozporządzenia stosuje się przy projektowaniu, budowie i przebudowie oraz przy zmianie sposobu użytkowania budynków oraz budowli nadziemnych i podziemnych spełniających funkcje użytkowe budynków, a także do związanych z nimi urządzeń budowlanych, z zastrzeżeniem § 135 ust. 10 oraz § 207 ust. 2.
+1 [3)]. Przepisy rozporządzenia stosuje się przy projektowaniu, budowie i przebudowie oraz przy zmianie sposobu użytkowania budynków oraz budowli nadziemnych i podziemnych spełniających funkcje użytkowe budynków, a także do związanych z nimi urządzeń budowlanych, z zastrzeżeniem [§ 135](#par-135) ust. 10 oraz [§ 207](#par-207) ust. 2.
 
 2. Przy nadbudowie, rozbudowie, przebudowie i zmianie sposobu użytkowania:
 
@@ -21,11 +424,11 @@ Rozporządzenie ustala warunki techniczne, jakim powinny odpowiadać budynki i z
 
 2) budynków o powierzchni użytkowej przekraczającej 1000 m 2, o których mowa w art. 5 ust. 7 pkt 1-4 i 6 [4)] ustawy z dnia 7 lipca 1994 r. - Prawo budowlane
 
-- wymagania, o których mowa w § 1, mogą być spełnione w sposób inny niż określony w rozporządzeniu, stosownie do wskazań ekspertyzy technicznej właściwej jednostki badawczo-rozwojowej albo rzeczoznawcy budowlanego oraz do spraw zabezpieczeń przeciwpożarowych, uzgodnionych z właściwym komendantem wojewódzkim Państwowej Straży Pożarnej lub państwowym wojewódzkim inspektorem sanitarnym, odpowiednio do przedmiotu tej ekspertyzy.
+- wymagania, o których mowa w [§ 1](#par-1), mogą być spełnione w sposób inny niż określony w rozporządzeniu, stosownie do wskazań ekspertyzy technicznej właściwej jednostki badawczo-rozwojowej albo rzeczoznawcy budowlanego oraz do spraw zabezpieczeń przeciwpożarowych, uzgodnionych z właściwym komendantem wojewódzkim Państwowej Straży Pożarnej lub państwowym wojewódzkim inspektorem sanitarnym, odpowiednio do przedmiotu tej ekspertyzy.
 
 3. (uchylony).
 
-3a. Przy nadbudowie, rozbudowie, przebudowie i zmianie sposobu użytkowania budynków istniejących o powierzchni użytkowej przekraczającej 1000 m 2 wymagania, o których mowa w § 1, z wyłączeniem wymagań charakterystyki energetycznej, mogą być spełnione w sposób inny niż określony w rozporządzeniu, stosownie do wskazań, o których mowa w ust. 2, uzgodnionych z właściwym komendantem wojewódzkim Państwowej Straży Pożarnej lub państwowym wojewódzkim inspektorem sanitarnym, odpowiednio do przedmiotu tej ekspertyzy.
+3a. Przy nadbudowie, rozbudowie, przebudowie i zmianie sposobu użytkowania budynków istniejących o powierzchni użytkowej przekraczającej 1000 m 2 wymagania, o których mowa w [§ 1](#par-1), z wyłączeniem wymagań charakterystyki energetycznej, mogą być spełnione w sposób inny niż określony w rozporządzeniu, stosownie do wskazań, o których mowa w ust. 2, uzgodnionych z właściwym komendantem wojewódzkim Państwowej Straży Pożarnej lub państwowym wojewódzkim inspektorem sanitarnym, odpowiednio do przedmiotu tej ekspertyzy.
 
 4. Dla budynków i terenów wpisanych do rejestru zabytków lub obszarów objętych ochroną konserwatorską na podstawie ustaleń miejscowego planu zagospodarowania przestrzennego ekspertyza, o której mowa w ust. 2, podlega również uzgodnieniu z wojewódzkim konserwatorem zabytków.
 
@@ -156,7 +559,7 @@ W celu określenia wymagań technicznych i użytkowych wprowadza się następuj�
 
 4. Dla budynków istniejących dopuszcza się przyjmowanie odległości, o których mowa w ust. 3, bez uwzględnienia grubości warstw izolacji termicznej, tynków lub okładzin zewnętrznych, przy czym nie dotyczy to ściany budynku usytuowanej bezpośrednio przy granicy działki.
 
-5. Wykaz Polskich Norm powołanych w rozporządzeniu określa załącznik nr 1 do rozporządzenia.
+5. Wykaz Polskich Norm powołanych w rozporządzeniu określa załącznik nr [1](#zalacznik-nr-1-wykaz-polskich-norm-powolanych-w-rozporzadzeniu) do rozporządzenia.
 
 <a id="dzial-II"></a>
 ## Dział II. Zabudowa i zagospodarowanie działki budowlanej
@@ -193,7 +596,7 @@ W celu określenia wymagań technicznych i użytkowych wprowadza się następuj�
 <a id="par-12"></a>
 ### § 12.
 
-1. Jeżeli z przepisów § 13, 19, 23, 36, 40, 60 i 271-273 lub przepisów odrębnych określających dopuszczalne odległości niektórych budowli od budynków nie wynikają inne wymagania, budynek na działce budowlanej należy sytuować w odległości od granicy tej działki w odległości nie mniejszej niż:
+1. Jeżeli z przepisów [§ 13](#par-13), 19, 23, 36, 40, 60 i 271-273 lub przepisów odrębnych określających dopuszczalne odległości niektórych budowli od budynków nie wynikają inne wymagania, budynek na działce budowlanej należy sytuować w odległości od granicy tej działki w odległości nie mniejszej niż:
 
 1) 4 m - w przypadku budynku zwróconego ścianą z oknami lub drzwiami w stronę tej granicy;
 
@@ -201,9 +604,9 @@ W celu określenia wymagań technicznych i użytkowych wprowadza się następuj�
 
 2. Sytuowanie budynku w przypadku, o którym mowa w ust. 1 pkt 2, dopuszcza się w odległości 1,5 m od granicy lub bezpośrednio przy tej granicy, jeżeli plan miejscowy przewiduje taką możliwość.
 
-3. Dopuszcza się, uwzględniając przepisy odrębne oraz przepisy § 13, 19, 23, 36, 40, 60 i 271-273, sytuowanie budynku bezpośrednio przy granicy działki budowlanej, jeżeli będzie on przylegał swoją ścianą do ściany budynku istniejącego na sąsiedniej działce oraz jego wysokość będzie zgodna z obowiązującym na danym terenie planem miejscowym lub decyzją o warunkach zabudowy i zagospodarowania terenu.
+3. Dopuszcza się, uwzględniając przepisy odrębne oraz przepisy [§ 13](#par-13), 19, 23, 36, 40, 60 i 271-273, sytuowanie budynku bezpośrednio przy granicy działki budowlanej, jeżeli będzie on przylegał swoją ścianą do ściany budynku istniejącego na sąsiedniej działce oraz jego wysokość będzie zgodna z obowiązującym na danym terenie planem miejscowym lub decyzją o warunkach zabudowy i zagospodarowania terenu.
 
-4. W zabudowie jednorodzinnej i zagrodowej, uwzględniając przepisy odrębne oraz przepisy § 13, 19, 23, 36, 40, 60 i 271-273, dopuszcza się:
+4. W zabudowie jednorodzinnej i zagrodowej, uwzględniając przepisy odrębne oraz przepisy [§ 13](#par-13), 19, 23, 36, 40, 60 i 271-273, dopuszcza się:
 
 1) budowę budynku ścianą bez okien i drzwi bezpośrednio przy granicy działki budowlanej lub w odległości mniejszej niż określona w ust. 1 pkt 2, lecz nie mniejszej niż 1,5 m, na działce budowlanej o szerokości 16 m lub mniejszej;
 
@@ -221,7 +624,7 @@ W celu określenia wymagań technicznych i użytkowych wprowadza się następuj�
 
 7. W przypadkach, o których mowa w ust. 2 i 4, dopuszcza się zmniejszenie odległości okapu zwróconego w stronę granicy działki budowlanej do 1 m.
 
-8. Budynek inwentarski lub budynek gospodarczy, uwzględniając przepisy odrębne oraz zawarte w § 13, 60 i 271-273, nie może być sytuowany ścianą z oknami lub drzwiami w odległości mniejszej niż 8 m od ściany istniejącego na sąsiedniej działce budowlanej budynku mieszkalnego, budynku zamieszkania zbiorowego lub budynku użyteczności publicznej, lub takiego, dla którego istnieje ostateczna decyzja o pozwoleniu na budowę, z zastrzeżeniem ust. 4 pkt 3.
+8. Budynek inwentarski lub budynek gospodarczy, uwzględniając przepisy odrębne oraz zawarte w [§ 13](#par-13), 60 i 271-273, nie może być sytuowany ścianą z oknami lub drzwiami w odległości mniejszej niż 8 m od ściany istniejącego na sąsiedniej działce budowlanej budynku mieszkalnego, budynku zamieszkania zbiorowego lub budynku użyteczności publicznej, lub takiego, dla którego istnieje ostateczna decyzja o pozwoleniu na budowę, z zastrzeżeniem ust. 4 pkt 3.
 
 9. Odległości podziemnej części budynku, a także budowli podziemnej spełniającej funkcje użytkowe budynku, znajdujących się całkowicie poniżej poziomu otaczającego terenu, od granicy działki budowlanej nie ustala się.
 
@@ -238,7 +641,7 @@ a) wysokość przesłaniania - dla obiektów przesłaniających o wysokości do 
 
 b) 35 m - dla obiektów przesłaniających o wysokości ponad 35 m;
 
-2) zostały zachowane wymagania, o których mowa w § 57 i 60.
+2) zostały zachowane wymagania, o których mowa w [§ 57](#par-57) i 60.
 
 2. Wysokość przesłaniania, o której mowa w ust. 1 pkt 1, mierzy się od poziomu dolnej krawędzi najniżej położonych okien budynku przesłanianego do poziomu najwyższej zacieniającej krawędzi obiektu przesłaniającego lub jego przesłaniającej części.
 
@@ -270,9 +673,9 @@ b) 35 m - dla obiektów przesłaniających o wysokości ponad 35 m;
 <a id="par-16"></a>
 ### § 16.
 
-1. Do wejść do budynku mieszkalnego wielorodzinnego, zamieszkania zbiorowego i użyteczności publicznej powinny być doprowadzone od dojść i dojazdów, o których mowa w § 14 ust. 1 i 3, utwardzone dojścia o szerokości minimalnej 1,5 m, przy czym co najmniej jedno dojście powinno zapewniać osobom niepełnosprawnym dostęp do całego budynku lub tych jego części, z których osoby te mogą korzystać.
+1. Do wejść do budynku mieszkalnego wielorodzinnego, zamieszkania zbiorowego i użyteczności publicznej powinny być doprowadzone od dojść i dojazdów, o których mowa w [§ 14](#par-14) ust. 1 i 3, utwardzone dojścia o szerokości minimalnej 1,5 m, przy czym co najmniej jedno dojście powinno zapewniać osobom niepełnosprawnym dostęp do całego budynku lub tych jego części, z których osoby te mogą korzystać.
 
-2. Wymaganie dostępności osób niepełnosprawnych, o których mowa w ust. 1, nie dotyczy budynków na terenach zamkniętych, z wyjątkiem budynków, o których mowa w § 3 pkt 6.
+2. Wymaganie dostępności osób niepełnosprawnych, o których mowa w ust. 1, nie dotyczy budynków na terenach zamkniętych, z wyjątkiem budynków, o których mowa w [§ 3](#par-3) pkt 6.
 
 <a id="par-17"></a>
 ### § 17.
@@ -391,13 +794,13 @@ Stanowiska postojowe dla samochodów osobowych, z których korzystają wyłączn
 <a id="par-23"></a>
 ### § 23.
 
-1. Odległość miejsc do gromadzenia odpadów stałych, o których mowa w § 22 ust. 2 pkt 1, 3 i 4, powinna wynosić co najmniej:
+1. Odległość miejsc do gromadzenia odpadów stałych, o których mowa w [§ 22](#par-22) ust. 2 pkt 1, 3 i 4, powinna wynosić co najmniej:
 
 1) 10 m - od okien i drzwi do budynków z pomieszczeniami przeznaczonymi na pobyt ludzi;
 
 2) 3 m - od granicy działki budowlanej;
 
-3) 10 m - od placu zabaw dla dzieci, boisk dla dzieci i młodzieży oraz miejsc rekreacyjnych, o których mowa w § 40.
+3) 10 m - od placu zabaw dla dzieci, boisk dla dzieci i młodzieży oraz miejsc rekreacyjnych, o których mowa w [§ 40](#par-40).
 
 2. Zachowanie odległości, o której mowa w ust. 1 pkt 2, nie jest wymagane, jeżeli miejsca te stykają się z podobnymi miejscami na działce sąsiedniej.
 
@@ -405,12 +808,12 @@ Stanowiska postojowe dla samochodów osobowych, z których korzystają wyłączn
 
 4. W zabudowie jednorodzinnej, zagrodowej i rekreacji indywidualnej odległości, o których mowa w ust. 1 pkt 1 i 2, nie określa się.
 
-5. Dojście od najdalszego wejścia do obsługiwanego budynku mieszkalnego wielorodzinnego, zamieszkania zbiorowego lub użyteczności publicznej do miejsca do gromadzenia odpadów stałych, o których mowa w § 22 ust. 2 pkt 1, 3 i 4, wynosi nie więcej niż 80 m. Wymaganie to nie dotyczy budynków na terenach zamkniętych.
+5. Dojście od najdalszego wejścia do obsługiwanego budynku mieszkalnego wielorodzinnego, zamieszkania zbiorowego lub użyteczności publicznej do miejsca do gromadzenia odpadów stałych, o których mowa w [§ 22](#par-22) ust. 2 pkt 1, 3 i 4, wynosi nie więcej niż 80 m. Wymaganie to nie dotyczy budynków na terenach zamkniętych.
 
 <a id="par-24"></a>
 ### § 24.
 
-1. Na terenach niezurbanizowanych dopuszcza się stosowanie zbiorników na odpady stałe, przystosowanych do okresowego opróżniania, pod warunkiem usytuowania ich w odległościach określonych w § 23 ust. 1.
+1. Na terenach niezurbanizowanych dopuszcza się stosowanie zbiorników na odpady stałe, przystosowanych do okresowego opróżniania, pod warunkiem usytuowania ich w odległościach określonych w [§ 23](#par-23) ust. 1.
 
 2. Zbiorniki, o których mowa w ust. 1, powinny mieć nieprzepuszczalne ściany i dno, szczelne przekrycie z zamykanym otworem wsypowym oraz zamykanym otworem bocznym do usuwania odpadów. Do zbiorników tych należy doprowadzić utwardzony dojazd.
 
@@ -425,7 +828,7 @@ Stanowiska postojowe dla samochodów osobowych, z których korzystają wyłączn
 <a id="par-26"></a>
 ### § 26.
 
-1. Działka budowlana przewidziana pod zabudowę budynkami przeznaczonymi na pobyt ludzi powinna mieć zapewnioną możliwość przyłączenia uzbrojenia działki lub bezpośrednio budynku do sieci wodociągowej, kanalizacyjnej, elektroenergetycznej i ciepłowniczej, a dla budynków wymienionych w § 56 - także telekomunikacyjnej.
+1. Działka budowlana przewidziana pod zabudowę budynkami przeznaczonymi na pobyt ludzi powinna mieć zapewnioną możliwość przyłączenia uzbrojenia działki lub bezpośrednio budynku do sieci wodociągowej, kanalizacyjnej, elektroenergetycznej i ciepłowniczej, a dla budynków wymienionych w [§ 56](#par-56) - także telekomunikacyjnej.
 
 2. Za równorzędne z przyłączeniem do sieci elektroenergetycznej i ciepłowniczej uznaje się zapewnienie możliwości korzystania z indywidualnych źródeł energii elektrycznej i ciepła, odpowiadających przepisom odrębnym dotyczącym gospodarki energetycznej i ochrony środowiska.
 
@@ -491,7 +894,7 @@ Usytuowanie na działce budowlanej ujęć wody, urządzeń do gromadzenia i oczy
 <a id="par-33"></a>
 ### § 33.
 
-Przy ujęciu wód podziemnych za pomocą studni wierconej teren w promieniu co najmniej 1 m od wprowadzonej w grunt rury należy zabezpieczyć w sposób określony w § 32 ust. 4, a przejście rury studziennej przez nawierzchnię utwardzoną należy uszczelnić.
+Przy ujęciu wód podziemnych za pomocą studni wierconej teren w promieniu co najmniej 1 m od wprowadzonej w grunt rury należy zabezpieczyć w sposób określony w [§ 32](#par-32) ust. 4, a przejście rury studziennej przez nawierzchnię utwardzoną należy uszczelnić.
 
 <a id="rozdzial-7"></a>
 ### Rozdział 7. Zbiorniki bezodpływowe na nieczystości ciekłe
@@ -533,7 +936,7 @@ Zbiorniki bezodpływowe na nieczystości ciekłe, doły ustępów nieskanalizowa
 
 4. Właściwy organ w decyzji o warunkach zabudowy i zagospodarowania terenu, w porozumieniu z państwowym wojewódzkim inspektorem sanitarnym, może ustalić dla działek budowlanych położonych przy zabudowanych działkach sąsiednich odległości mniejsze niż określone w ust. 1 i 2.
 
-5. Kryte zbiorniki bezodpływowe na nieczystości ciekłe oraz doły ustępowe mogą być sytuowane w odległości mniejszej niż 2 m od granicy, w tym także przy granicy działek, jeżeli sąsiadują z podobnymi urządzeniami na działce sąsiedniej, pod warunkiem zachowania odległości określonych w § 31 i § 36.
+5. Kryte zbiorniki bezodpływowe na nieczystości ciekłe oraz doły ustępowe mogą być sytuowane w odległości mniejszej niż 2 m od granicy, w tym także przy granicy działek, jeżeli sąsiadują z podobnymi urządzeniami na działce sąsiedniej, pod warunkiem zachowania odległości określonych w [§ 31](#par-31) i [§ 36](#par-36).
 
 6. Odległości zbiorników bezodpływowych na nieczystości ciekłe i kompostowników o pojemności powyżej 50 m 3 od budynków przeznaczonych na pobyt ludzi należy przyjmować zgodnie ze wskazaniem ekspertyzy technicznej, przyjętej przez państwowego wojewódzkiego inspektora sanitarnego.
 
@@ -562,7 +965,7 @@ Na działkach budowlanych, przeznaczonych pod zabudowę wielorodzinną, budynki 
 
 2. Nasłonecznienie placu zabaw dla dzieci powinno wynosić co najmniej 4 godziny, liczone w dniach równonocy, w godzinach 10 00 -16 00. W zabudowie śródmiejskiej dopuszcza się nasłonecznienie nie krótsze niż 2 godziny.
 
-3. Odległość placów zabaw dla dzieci, boisk dla dzieci i młodzieży oraz miejsc rekreacyjnych od linii rozgraniczających ulicę, od okien pomieszczeń przeznaczonych na pobyt ludzi oraz od miejsc gromadzenia odpadów powinna wynosić co najmniej 10 m, przy zachowaniu wymogów § 19 ust. 1.
+3. Odległość placów zabaw dla dzieci, boisk dla dzieci i młodzieży oraz miejsc rekreacyjnych od linii rozgraniczających ulicę, od okien pomieszczeń przeznaczonych na pobyt ludzi oraz od miejsc gromadzenia odpadów powinna wynosić co najmniej 10 m, przy zachowaniu wymogów [§ 19](#par-19) ust. 1.
 
 <a id="rozdzial-9"></a>
 ### Rozdział 9. Ogrodzenia
@@ -591,7 +994,7 @@ Szerokość bramy powinna wynosić w świetle co najmniej 2,4 m, a w przypadku z
 <a id="dzial-III"></a>
 ## Dział III. Budynki i pomieszczenia
 
-<a id="rozdzial-1"></a>
+<a id="rozdzial-1-1"></a>
 ### Rozdział 1. Wymagania ogólne
 
 <a id="par-44"></a>
@@ -639,7 +1042,7 @@ Budynek i pomieszczenia powinny mieć zapewnioną wentylację lub klimatyzację,
 <a id="par-52"></a>
 ### § 52.
 
-Budynek z pomieszczeniami przeznaczonymi na pobyt ludzi może być zaopatrywany w gaz z sieci gazowej, baterii butli lub zbiorników stałych gazu płynnego, zgodnie z warunkami określonym w § 156 ust. 1 i § 157.
+Budynek z pomieszczeniami przeznaczonymi na pobyt ludzi może być zaopatrywany w gaz z sieci gazowej, baterii butli lub zbiorników stałych gazu płynnego, zgodnie z warunkami określonym w [§ 156](#par-156) ust. 1 i [§ 157](#par-157).
 
 <a id="par-53"></a>
 ### § 53.
@@ -662,7 +1065,7 @@ Budynek z pomieszczeniami przeznaczonymi na pobyt ludzi może być zaopatrywany 
 
 1. W budynku mieszkalnym wielorodzinnym niewyposażanym w dźwigi należy wykonać pochylnię lub zainstalować odpowiednie urządzenie techniczne, umożliwiające dostęp osobom niepełnosprawnym do mieszkań położonych na pierwszej kondygnacji nadziemnej oraz do kondygnacji podziemnej zawierającej stanowiska postojowe dla samochodów osobowych.
 
-2. W niskim budynku zamieszkania zbiorowego i budynku użyteczności publicznej, niewymagającym wyposażenia w dźwigi, o których mowa w § 54 ust. 1, należy zainstalować urządzenia techniczne zapewniające osobom niepełnosprawnym dostęp na kondygnacje z pomieszczeniami użytkowymi, z których mogą korzystać. Nie dotyczy to budynków zamieszkania zbiorowego na terenach zamkniętych.
+2. W niskim budynku zamieszkania zbiorowego i budynku użyteczności publicznej, niewymagającym wyposażenia w dźwigi, o których mowa w [§ 54](#par-54) ust. 1, należy zainstalować urządzenia techniczne zapewniające osobom niepełnosprawnym dostęp na kondygnacje z pomieszczeniami użytkowymi, z których mogą korzystać. Nie dotyczy to budynków zamieszkania zbiorowego na terenach zamkniętych.
 
 3. Dopuszcza się niewyposażenie w dźwigi budynku mieszkalnego wielorodzinnego do 5. kondygnacji nadziemnej włącznie, jeżeli wszystkie pomieszczenia na ostatniej kondygnacji są częścią mieszkań dwupoziomowych.
 
@@ -673,13 +1076,13 @@ Budynek z pomieszczeniami przeznaczonymi na pobyt ludzi może być zaopatrywany 
 
 Budynek mieszkalny wielorodzinny, budynek zamieszkania zbiorowego i budynek użyteczności publicznej powinien być wyposażony w instalację telekomunikacyjną, a w miarę potrzeby również w inne instalacje, takie jak: telewizji przemysłowej, sygnalizacji dzwonkowej lub domofonowej, w sposób umożliwiający zapewnienie ochrony instalacji przed dostępem osób nieuprawnionych.
 
-<a id="rozdzial-2"></a>
+<a id="rozdzial-2-1"></a>
 ### Rozdział 2. Oświetlenie i nasłonecznienie
 
 <a id="par-57"></a>
 ### § 57.
 
-1. Pomieszczenie przeznaczone na pobyt ludzi powinno mieć zapewnione oświetlenie dzienne, dostosowane do jego przeznaczenia, kształtu i wielkości, z uwzględnieniem warunków określonych w § 13 oraz w ogólnych przepisach bezpieczeństwa i higieny pracy.
+1. Pomieszczenie przeznaczone na pobyt ludzi powinno mieć zapewnione oświetlenie dzienne, dostosowane do jego przeznaczenia, kształtu i wielkości, z uwzględnieniem warunków określonych w [§ 13](#par-13) oraz w ogólnych przepisach bezpieczeństwa i higieny pracy.
 
 2. W pomieszczeniu przeznaczonym na pobyt ludzi stosunek powierzchni okien, liczonej w świetle ościeżnic, do powierzchni podłogi powinien wynosić co najmniej 1:8, natomiast w innym pomieszczeniu, w którym oświetlenie dzienne jest wymagane ze względów na przeznaczenie - co najmniej 1:12.
 
@@ -714,7 +1117,7 @@ Budynek mieszkalny wielorodzinny, budynek zamieszkania zbiorowego i budynek uży
 
 3. W przypadku budynków zlokalizowanych w zabudowie śródmiejskiej dopuszcza się ograniczenie wymaganego czasu nasłonecznienia, określonego w ust. 1, do 1,5 godziny, a w odniesieniu do mieszkania jednopokojowego w takiej zabudowie nie określa się wymaganego czasu nasłonecznienia.
 
-<a id="rozdzial-3"></a>
+<a id="rozdzial-3-1"></a>
 ### Rozdział 3. Wejścia do budynków i mieszkań
 
 <a id="par-61"></a>
@@ -729,7 +1132,7 @@ Budynek mieszkalny wielorodzinny, budynek zamieszkania zbiorowego i budynek uży
 
 1. Drzwi wejściowe do budynku i ogólnodostępnych pomieszczeń użytkowych oraz do mieszkań powinny mieć w świetle ościeżnicy co najmniej: szerokość 0,9 m i wysokość 2 m. W przypadku zastosowania drzwi zewnętrznych dwuskrzydłowych szerokość skrzydła głównego nie może być mniejsza niż 0,9 m.
 
-2. W wejściach do budynku i ogólnodostępnych pomieszczeń użytkowych mogą być zastosowane drzwi obrotowe lub wahadłowe, pod warunkiem usytuowania przy nich drzwi rozwieranych lub rozsuwanych, przystosowanych do ruchu osób niepełnosprawnych, oraz spełnienia wymagań § 240.
+2. W wejściach do budynku i ogólnodostępnych pomieszczeń użytkowych mogą być zastosowane drzwi obrotowe lub wahadłowe, pod warunkiem usytuowania przy nich drzwi rozwieranych lub rozsuwanych, przystosowanych do ruchu osób niepełnosprawnych, oraz spełnienia wymagań [§ 240](#par-240).
 
 3. W drzwiach, o których mowa w ust. 1, oraz w drzwiach do mieszkań i pomieszczeń mieszkalnych w budynku zamieszkania zbiorowego wysokość progów nie może przekraczać 0,02 m.
 
@@ -748,7 +1151,7 @@ Wejście do budynku i do każdej klatki schodowej powinno mieć elektryczne ośw
 
 (uchylony).
 
-<a id="rozdzial-4"></a>
+<a id="rozdzial-4-1"></a>
 ### Rozdział 4. Schody i pochylnie
 
 <a id="par-66"></a>
@@ -807,7 +1210,7 @@ Maksymalne nachylenie pochylni związanych z budynkiem nie może przekraczać wi
 <a id="par-71"></a>
 ### § 71.
 
-1. Pochylnie przeznaczone dla osób niepełnosprawnych powinny mieć szerokość płaszczyzny ruchu 1,2 m, krawężniki o wysokości co najmniej 0,07 m i obustronne poręcze odpowiadające warunkom określonym w § 298, przy czym odstęp między nimi powinien mieścić się w granicach od 1 m do 1,1 m.
+1. Pochylnie przeznaczone dla osób niepełnosprawnych powinny mieć szerokość płaszczyzny ruchu 1,2 m, krawężniki o wysokości co najmniej 0,07 m i obustronne poręcze odpowiadające warunkom określonym w [§ 298](#par-298), przy czym odstęp między nimi powinien mieścić się w granicach od 1 m do 1,1 m.
 
 2. Długość poziomej płaszczyzny ruchu na początku i na końcu pochylni powinna wynosić co najmniej 1,5 m.
 
@@ -815,7 +1218,7 @@ Maksymalne nachylenie pochylni związanych z budynkiem nie może przekraczać wi
 
 4. Krawędzie stopni schodów w budynkach mieszkalnych wielorodzinnych i użyteczności publicznej powinny wyróżniać się kolorem kontrastującym z kolorem posadzki.
 
-<a id="rozdzial-5"></a>
+<a id="rozdzial-5-1"></a>
 ### Rozdział 5. Pomieszczenia przeznaczone na pobyt ludzi
 
 <a id="par-72"></a>
@@ -850,7 +1253,7 @@ W budynku użyteczności publicznej pomieszczenia ogólnodostępne ze zróżnico
 
 3. Drzwi, o których mowa w ust. 1 i 2, nie powinny mieć progów.
 
-<a id="rozdzial-6"></a>
+<a id="rozdzial-6-1"></a>
 ### Rozdział 6. Pomieszczenia higienicznosanitarne
 
 <a id="par-76"></a>
@@ -877,7 +1280,7 @@ Wymagania dotyczące pomieszczeń higienicznosanitarnych określają przepisy ro
 <a id="par-79"></a>
 ### § 79.
 
-1. Drzwi do łazienki, umywalni i wydzielonego ustępu powinny otwierać się na zewnątrz pomieszczenia, mieć, z zastrzeżeniem § 75 ust. 2, co najmniej szerokość 0,8 m i wysokość 2 m w świetle ościeżnicy, a w dolnej części - otwory o sumarycznym przekroju nie mniejszym niż 0,022 m 2 dla dopływu powietrza.
+1. Drzwi do łazienki, umywalni i wydzielonego ustępu powinny otwierać się na zewnątrz pomieszczenia, mieć, z zastrzeżeniem [§ 75](#par-75) ust. 2, co najmniej szerokość 0,8 m i wysokość 2 m w świetle ościeżnicy, a w dolnej części - otwory o sumarycznym przekroju nie mniejszym niż 0,022 m 2 dla dopływu powietrza.
 
 2. W łazienkach i ustępach, z wyjątkiem ogólnodostępnych, dopuszcza się stosowanie drzwi przesuwnych lub składanych.
 
@@ -984,11 +1387,11 @@ Kabina ustępowa (ustęp wydzielony), nieprzeznaczona dla osób niepełnosprawny
 
 3. Dopuszcza się sytuowanie tymczasowych, nieskanalizowanych ustępów publicznych na terenach skanalizowanych, za zgodą właściwego terenowo państwowego inspektora sanitarnego.
 
-4. Ustęp publiczny powinien odpowiadać wymaganiom określonym w § 85 oraz mieć kabiny ustępowe o wymiarach co najmniej 1,5 m długości i 1 m szerokości.
+4. Ustęp publiczny powinien odpowiadać wymaganiom określonym w [§ 85](#par-85) oraz mieć kabiny ustępowe o wymiarach co najmniej 1,5 m długości i 1 m szerokości.
 
 5. W ustępie publicznym należy zainstalować co najmniej jeden wpust kanalizacyjny podłogowy z syfonem oraz armaturę czerpalną ze złączką do węża.
 
-6. W ustępie publicznym co najmniej jedna kabina powinna być przystosowana do potrzeb osób niepełnosprawnych, zgodnie z § 86.
+6. W ustępie publicznym co najmniej jedna kabina powinna być przystosowana do potrzeb osób niepełnosprawnych, zgodnie z [§ 86](#par-86).
 
 <a id="par-88"></a>
 ### § 88.
@@ -1000,11 +1403,11 @@ Kabina ustępowa (ustęp wydzielony), nieprzeznaczona dla osób niepełnosprawny
 <a id="par-89"></a>
 ### § 89.
 
-1. Przepisów § 73 ust. 1, § 75, 79 ust. 1, § 82 i 83 oraz w przypadkach przebudowy także § 77 ust. 2 niniejszego działu nie stosuje się do budynków zakwaterowania osób tymczasowo aresztowanych, skazanych lub ukaranych, zwanych dalej „osadzonymi”.
+1. Przepisów [§ 73](#par-73) ust. 1, [§ 75](#par-75), 79 ust. 1, [§ 82](#par-82) i 83 oraz w przypadkach przebudowy także [§ 77](#par-77) ust. 2 niniejszego działu nie stosuje się do budynków zakwaterowania osób tymczasowo aresztowanych, skazanych lub ukaranych, zwanych dalej „osadzonymi”.
 
-2. Przepisów § 75 i 79 ust. 1 nie stosuje się do zakładów poprawczych i schronisk dla nieletnich.
+2. Przepisów [§ 75](#par-75) i 79 ust. 1 nie stosuje się do zakładów poprawczych i schronisk dla nieletnich.
 
-<a id="rozdzial-7"></a>
+<a id="rozdzial-7-1"></a>
 ### Rozdział 7. Szczególne wymagania dotyczące mieszkań w budynkach wielorodzinnych
 
 <a id="par-90"></a>
@@ -1057,13 +1460,13 @@ Mieszkanie powinno mieć powierzchnię użytkową nie mniejszą niż 25 m 2.
 
 2. Korytarze stanowiące komunikację wewnętrzną w mieszkaniu powinny mieć szerokość w świetle co najmniej 1,2 m, z dopuszczeniem miejscowego zwężenia do 0,9 m na długości korytarza nie większej niż 1,5 m.
 
-<a id="rozdzial-8"></a>
+<a id="rozdzial-8-1"></a>
 ### Rozdział 8. Pomieszczenia techniczne i gospodarcze
 
 <a id="par-96"></a>
 ### § 96.
 
-1. Pomieszczenie techniczne, w którym są zainstalowane urządzenia emitujące hałasy lub drgania, może być sytuowane w bezpośrednim sąsiedztwie pomieszczeń przeznaczonych na stały pobyt ludzi, pod warunkiem zastosowania rozwiązań konstrukcyjno-materiałowych, zapewniających ochronę sąsiednich pomieszczeń przed uciążliwym oddziaływaniem tych urządzeń, zgodnie z wymaganiami § 323 ust. 2 pkt 2 i § 327 oraz Polskich Norm dotyczących dopuszczalnych wartości poziomu dźwięku w pomieszczeniach oraz oceny wpływu drgań na budynki i na ludzi w budynkach.
+1. Pomieszczenie techniczne, w którym są zainstalowane urządzenia emitujące hałasy lub drgania, może być sytuowane w bezpośrednim sąsiedztwie pomieszczeń przeznaczonych na stały pobyt ludzi, pod warunkiem zastosowania rozwiązań konstrukcyjno-materiałowych, zapewniających ochronę sąsiednich pomieszczeń przed uciążliwym oddziaływaniem tych urządzeń, zgodnie z wymaganiami [§ 323](#par-323) ust. 2 pkt 2 i [§ 327](#par-327) oraz Polskich Norm dotyczących dopuszczalnych wartości poziomu dźwięku w pomieszczeniach oraz oceny wpływu drgań na budynki i na ludzi w budynkach.
 
 2. Podpory, zamocowania i złącza urządzeń, o których mowa w ust. 1, powinny być wykonane w sposób uniemożliwiający przenoszenie niedopuszczalnego hałasu i drgań na elementy budynku i instalacje.
 
@@ -1072,7 +1475,7 @@ Mieszkanie powinno mieć powierzchnię użytkową nie mniejszą niż 25 m 2.
 
 1. Wysokość pomieszczenia technicznego i gospodarczego nie powinna być mniejsza niż 2 m, jeżeli inne przepisy rozporządzenia nie określają większych wymagań.
 
-2. W pomieszczeniach, o których mowa w ust. 1, wysokość drzwi i przejść pod przewodami instalacyjnymi powinna wynosić w świetle co najmniej 1,9 m, z zastrzeżeniem § 242 ust. 3.
+2. W pomieszczeniach, o których mowa w ust. 1, wysokość drzwi i przejść pod przewodami instalacyjnymi powinna wynosić w świetle co najmniej 1,9 m, z zastrzeżeniem [§ 242](#par-242) ust. 3.
 
 3. Wysokość kanałów i przestrzeni instalacyjnych w budynku oraz studzienek rewizyjnych powinna wynosić w świetle co najmniej 1,9 m, przy czym na odcinkach o długości do 4 m wysokość kanałów może być obniżona do 0,9 m.
 
@@ -1087,13 +1490,13 @@ Mieszkanie powinno mieć powierzchnię użytkową nie mniejszą niż 25 m 2.
 
 2. Pomieszczenia techniczne i gospodarcze powinny być wyposażone w instalacje i urządzenia elektryczne dostosowane do ich przeznaczenia, zgodnie z wymaganiami Polskich Norm dotyczących tych instalacji i urządzeń.
 
-<a id="rozdzial-9"></a>
+<a id="rozdzial-9-1"></a>
 ### Rozdział 9. Dojścia i przejścia do urządzeń technicznych
 
 <a id="par-99"></a>
 ### § 99.
 
-1. Dojściami i przejściami do dźwignic i innych urządzeń technicznych mogą być korytarze, pomosty, podesty, galerie, schody, z zastrzeżeniem § 68 ust. 1, drabiny i klamry, wykonane z materiałów niepalnych.
+1. Dojściami i przejściami do dźwignic i innych urządzeń technicznych mogą być korytarze, pomosty, podesty, galerie, schody, z zastrzeżeniem [§ 68](#par-68) ust. 1, drabiny i klamry, wykonane z materiałów niepalnych.
 
 2. Ogólne wymagania dotyczące dojść i przejść do dźwignic należy stosować również w razie wykonania dojść roboczych do pomieszczeń i części budynku nieprzeznaczonych na pobyt ludzi, związanych z okresową obsługą maszyn i urządzeń oraz przeglądem i utrzymaniem stanu technicznego budynku.
 
@@ -1133,7 +1536,7 @@ Garaż do przechowywania i bieżącej, niezawodowej obsługi samochodów osobowy
 
 3) elektryczną instalację oświetleniową;
 
-4) zapewnioną wymianę powietrza, zgodnie z § 108;
+4) zapewnioną wymianę powietrza, zgodnie z [§ 108](#par-108);
 
 5) wpusty podłogowe z syfonem i osadnikami w garażu z instalacją wodociągową lub przeciwpożarową tryskaczową, w garażu podziemnym przed wjazdem do niego oraz w garażu nadziemnym o pojemności powyżej 25 samochodów;
 
@@ -1142,7 +1545,7 @@ Garaż do przechowywania i bieżącej, niezawodowej obsługi samochodów osobowy
 <a id="par-103"></a>
 ### § 103.
 
-1. Do garażu położonego poniżej lub powyżej terenu należy zapewnić dojazd dla samochodów za pomocą pochylni o maksymalnym nachyleniu nie większym niż określone w § 70 lub zastosować odpowiednie urządzenia do transportu pionowego.
+1. Do garażu położonego poniżej lub powyżej terenu należy zapewnić dojazd dla samochodów za pomocą pochylni o maksymalnym nachyleniu nie większym niż określone w [§ 70](#par-70) lub zastosować odpowiednie urządzenia do transportu pionowego.
 
 2. W garażu przeznaczonym dla więcej niż 25 samochodów na każdej kondygnacji, należy stosować pochylnie o szerokości co najmniej 5,5 m, umożliwiające ruch dwukierunkowy, lub osobne, jednopasmowe pochylnie o szerokości co najmniej 2,7 m dla wjazdu i wyjazdu samochodów.
 
@@ -1176,24 +1579,24 @@ Garaż do przechowywania i bieżącej, niezawodowej obsługi samochodów osobowy
 <a id="par-105"></a>
 ### § 105.
 
-1. W garażu podziemnym i wielopoziomowym nadziemnym jako dojścia należy stosować schody odpowiadające warunkom określonym w § 68.
+1. W garażu podziemnym i wielopoziomowym nadziemnym jako dojścia należy stosować schody odpowiadające warunkom określonym w [§ 68](#par-68).
 
 2. W garażu jednopoziomowym podziemnym i nadziemnym dopuszcza się wykorzystanie jako dojścia pochylni przeznaczonych do ruchu samochodów, jeżeli ich nachylenie nie przekracza 10% oraz istnieje możliwość wydzielenia bezpiecznego pasma ruchu pieszego o szerokości co najmniej 0,75 m.
 
 3. Nie wymaga się wydzielenia pasma ruchu pieszego na pochylni dwupasmowej, a w garażu o pojemności do 25 samochodów włącznie na kondygnacji - także na pochylni jednopasmowej.
 
-4. Stanowiska postojowe dla samochodów, z których korzystają osoby niepełnosprawne, należy sytuować na poziomie terenu lub na kondygnacjach dostępnych dla tych osób z pochylni, z uwzględnieniem warunków, o których mowa w § 70.
+4. Stanowiska postojowe dla samochodów, z których korzystają osoby niepełnosprawne, należy sytuować na poziomie terenu lub na kondygnacjach dostępnych dla tych osób z pochylni, z uwzględnieniem warunków, o których mowa w [§ 70](#par-70).
 
 5. W garażu wielopoziomowym lub stanowiącym kondygnację w budynku mieszkalnym wielorodzinnym oraz budynku użyteczności publicznej należy zainstalować urządzenia dźwigowe lub inne urządzenia podnośne umożliwiające transport pionowy osobom niepełnosprawnym poruszającym się na wózkach inwalidzkich na inne kondygnacje, które wymagają dostępności dla tych osób.
 
 <a id="par-106"></a>
 ### § 106.
 
-1. Garaż znajdujący się w budynku o innym przeznaczeniu powinien mieć ściany i stropy, zapewniające wymaganą izolację akustyczną, o której mowa w § 326, oraz szczelność uniemożliwiającą przenikanie spalin lub oparów paliwa do sąsiednich pomieszczeń, przeznaczonych na pobyt ludzi, usytuowanych obok lub nad garażem.
+1. Garaż znajdujący się w budynku o innym przeznaczeniu powinien mieć ściany i stropy, zapewniające wymaganą izolację akustyczną, o której mowa w [§ 326](#par-326), oraz szczelność uniemożliwiającą przenikanie spalin lub oparów paliwa do sąsiednich pomieszczeń, przeznaczonych na pobyt ludzi, usytuowanych obok lub nad garażem.
 
 2. Dopuszcza się sytuowanie nad garażem otwartym kondygnacji z pomieszczeniami przeznaczonymi na pobyt ludzi, z wyjątkiem pomieszczeń mieszkalnych, opieki zdrowotnej oraz oświaty i nauki, przy spełnieniu jednego z warunków:
 
-1) lico ściany zewnętrznej tych kondygnacji z oknami otwieranymi jest cofnięte w stosunku do lica ściany garażu otwartego lub do krawędzi jego najwyższego stropu co najmniej o 6 m, a konstrukcja dachu i jego przekrycie nad garażem spełniają wymagania określone w § 218;
+1) lico ściany zewnętrznej tych kondygnacji z oknami otwieranymi jest cofnięte w stosunku do lica ściany garażu otwartego lub do krawędzi jego najwyższego stropu co najmniej o 6 m, a konstrukcja dachu i jego przekrycie nad garażem spełniają wymagania określone w [§ 218](#par-218);
 
 2) usytuowanie ścian zewnętrznych tych kondygnacji w jednej płaszczyźnie z licem ścian zewnętrznych części garażowej lub z krawędziami jej stropów wymaga zastosowania w tych pomieszczeniach okien nieotwieranych oraz wentylacji mechanicznej nawiewno-wywiewnej lub klimatyzacji.
 
@@ -1215,7 +1618,7 @@ Garaż do przechowywania i bieżącej, niezawodowej obsługi samochodów osobowy
 
 2) co najmniej grawitacyjną, zapewniającą 1,5-krotną wymianę powietrza na godzinę - w ogrzewanych garażach nadziemnych lub częściowo zagłębionych, mających nie więcej niż 10 stanowisk postojowych;
 
-3) mechaniczną, sterowaną czujkami niedopuszczalnego poziomu stężenia tlenku węgla - w innych garażach, niewymienionych w pkt 1 i 2, oraz w kanałach rewizyjnych, służących zawodowej obsłudze i naprawie samochodów bądź znajdujących się w garażach wielostanowiskowych, z zastrzeżeniem § 150 ust. 5;
+3) mechaniczną, sterowaną czujkami niedopuszczalnego poziomu stężenia tlenku węgla - w innych garażach, niewymienionych w pkt 1 i 2, oraz w kanałach rewizyjnych, służących zawodowej obsłudze i naprawie samochodów bądź znajdujących się w garażach wielostanowiskowych, z zastrzeżeniem [§ 150](#par-150) ust. 5;
 
 4) mechaniczną, sterowaną czujkami niedopuszczalnego poziomu stężenia gazu propan-butan - w garażach, w których dopuszcza się parkowanie samochodów zasilanych gazem propan-butan i w których poziom podłogi znajduje się poniżej poziomu terenu.
 
@@ -1267,7 +1670,7 @@ Dopuszcza się niewyposażenie pomieszczenia przeznaczonego dla inwentarza żywe
 <a id="dzial-IV"></a>
 ## Dział IV. Wyposażenie techniczne budynków
 
-<a id="rozdzial-1"></a>
+<a id="rozdzial-1-2"></a>
 ### Rozdział 1. Instalacje wodociągowe zimnej i ciepłej wody
 
 <a id="par-113"></a>
@@ -1307,7 +1710,7 @@ Dopuszcza się niewyposażenie pomieszczenia przeznaczonego dla inwentarza żywe
 
 1. Na połączeniu wewnętrznej instalacji wodociągowej zimnej wody w budynku lub zewnętrznej na terenie działki budowlanej z siecią wodociągową powinien być zainstalowany zestaw wodomierza głównego, zgodnie z wymaganiami Polskich Norm dotyczących zabudowy zestawów wodomierzowych w instalacjach wodociągowych oraz wymagań instalacyjnych dla wodomierzy.
 
-2. Za każdym zestawem wodomierza głównego od strony instalacji należy zainstalować zabezpieczenie, o którym mowa w § 113 ust. 7.
+2. Za każdym zestawem wodomierza głównego od strony instalacji należy zainstalować zabezpieczenie, o którym mowa w [§ 113](#par-113) ust. 7.
 
 3. W przypadku połączenia wewnętrznej instalacji wodociągowej zimnej wody w budynku lub zewnętrznej na terenie działki budowlanej z siecią wodociągową w więcej niż jednym miejscu należy na każdym z tych połączeń zainstalować zestaw wodomierza głównego i zabezpieczenie, o których mowa w ust. 1 i 2.
 
@@ -1338,7 +1741,7 @@ Dopuszcza się niewyposażenie pomieszczenia przeznaczonego dla inwentarza żywe
 
 2. Urządzenia do przygotowania ciepłej wody instalowane w budynkach powinny odpowiadać wymaganiom określonym w przepisie odrębnym dotyczącym efektywności energetycznej.
 
-3. Straty ciepła na przesyle ciepłej wody użytkowej i w przewodach cyrkulacyjnych powinny być na racjonalnie niskim poziomie. Izolacja cieplna tych przewodów powinna spełniać wymagania określone w załączniku nr 2 do rozporządzenia.
+3. Straty ciepła na przesyle ciepłej wody użytkowej i w przewodach cyrkulacyjnych powinny być na racjonalnie niskim poziomie. Izolacja cieplna tych przewodów powinna spełniać wymagania określone w załączniku nr [2](#zalacznik-nr-2-wymagania-izolacyjnosci-cieplnej-i-inne-wymagania-zwiazane-z-oszczednoscia-energii) do rozporządzenia.
 
 <a id="par-119"></a>
 ### § 119.
@@ -1354,7 +1757,7 @@ W budynkach, w których do przygotowania ciepłej wody korzysta się z instalacj
 
 2a. Instalacja wodociągowa ciepłej wody powinna umożliwiać przeprowadzanie ciągłej lub okresowej dezynfekcji metodą chemiczną lub fizyczną (w tym okresowe stosowanie metody dezynfekcji cieplnej), bez obniżania trwałości instalacji i zastosowanych w niej wyrobów. Do przeprowadzenia dezynfekcji cieplnej niezbędne jest zapewnienie uzyskania w punktach czerpalnych temperatury wody nie niższej niż 70°C i nie wyższej niż 80°C.
 
-3. Izolacja cieplna przewodów instalacji ciepłej wody, w których występuje stały obieg wody, powinna zapewnić spełnienie wymagań określonych w ust. 2 i § 267 ust. 8.
+3. Izolacja cieplna przewodów instalacji ciepłej wody, w których występuje stały obieg wody, powinna zapewnić spełnienie wymagań określonych w ust. 2 i [§ 267](#par-267) ust. 8.
 
 4. Instalacja ciepłej wody powinna mieć zabezpieczenie przed przekroczeniem, dopuszczalnych dla danych instalacji, ciśnienia i temperatury, zgodnie z wymaganiami Polskiej Normy dotyczącej zabezpieczeń instalacji ciepłej wody.
 
@@ -1365,11 +1768,11 @@ W budynkach, w których do przygotowania ciepłej wody korzysta się z instalacj
 
 1. W budynku mieszkalnym wielorodzinnym, zamieszkania zbiorowego i użyteczności publicznej należy stosować urządzenia do pomiaru ilości ciepła lub paliwa zużywanego do przygotowania ciepłej wody.
 
-2. W budynku mieszkalnym wielorodzinnym do pomiaru ilości zimnej i ciepłej wody, dostarczanej do poszczególnych mieszkań oraz pomieszczeń służących do wspólnego użytku mieszkańców, należy stosować zestawy wodomierzowe, zgodnie z wymaganiami Polskich Norm, o których mowa w § 115 ust. 1.
+2. W budynku mieszkalnym wielorodzinnym do pomiaru ilości zimnej i ciepłej wody, dostarczanej do poszczególnych mieszkań oraz pomieszczeń służących do wspólnego użytku mieszkańców, należy stosować zestawy wodomierzowe, zgodnie z wymaganiami Polskich Norm, o których mowa w [§ 115](#par-115) ust. 1.
 
 3. W zespołach budynków mieszkalnych wielorodzinnych, zaopatrywanych w ciepłą wodę ze wspólnej kotłowni lub grupowego węzła ciepłowniczego, urządzenie do pomiaru ilości ciepła lub paliwa zużywanego do przygotowania ciepłej wody może być umieszczone poza tymi budynkami, jeżeli w budynkach tych są zastosowane zestawy wodomierzowe, o których mowa w ust. 2.
 
-<a id="rozdzial-2"></a>
+<a id="rozdzial-2-2"></a>
 ### Rozdział 2. Kanalizacja ściekowa i deszczowa
 
 <a id="par-122"></a>
@@ -1413,7 +1816,7 @@ b) co najmniej co piąty z pozostałych pionów kanalizacyjnych w budynku.
 <a id="par-126"></a>
 ### § 126.
 
-1. Dachy i tarasy, a także zagłębienia przy ścianach zewnętrznych budynku powinny mieć odprowadzenie wody opadowej do wyodrębnionej kanalizacji deszczowej lub kanalizacji ogólnospławnej, a w przypadku braku takiej możliwości - zgodnie z § 28 ust. 2.
+1. Dachy i tarasy, a także zagłębienia przy ścianach zewnętrznych budynku powinny mieć odprowadzenie wody opadowej do wyodrębnionej kanalizacji deszczowej lub kanalizacji ogólnospławnej, a w przypadku braku takiej możliwości - zgodnie z [§ 28](#par-28) ust. 2.
 
 2. Przewody odprowadzające wody opadowe przez wnętrze budynku w przypadku przyłączenia budynku do sieci kanalizacji ogólnospławnej należy łączyć z instalacją kanalizacyjną poza budynkiem.
 
@@ -1424,7 +1827,7 @@ b) co najmniej co piąty z pozostałych pionów kanalizacyjnych w budynku.
 
 Przyłączenie drenażu terenu przy budynku do przewodów odprowadzających ścieki do kanalizacji ogólnospławnej lub deszczowej wymaga zastosowania urządzeń zapobiegających zamulaniu tych przewodów oraz przedostawaniu się ścieków i gazów z sieci kanalizacyjnej do ziemi.
 
-<a id="rozdzial-3"></a>
+<a id="rozdzial-3-2"></a>
 ### Rozdział 3. Wewnętrzne urządzenia do usuwania odpadów stałych
 
 <a id="par-128"></a>
@@ -1441,7 +1844,7 @@ Urządzenie zsypowe zainstalowane w budynku powinno odpowiadać następującym w
 
 2) powinno być zabezpieczone przed zamarzaniem;
 
-3) komora wsypowa powinna być wydzielona pełnymi ścianami, spełniającymi wymagania § 216 ust. 1, a także mieć drzwi o szerokości co najmniej 0,8 m, umieszczone w sposób umożliwiający dostęp osobom niepełnosprawnym;
+3) komora wsypowa powinna być wydzielona pełnymi ścianami, spełniającymi wymagania [§ 216](#par-216) ust. 1, a także mieć drzwi o szerokości co najmniej 0,8 m, umieszczone w sposób umożliwiający dostęp osobom niepełnosprawnym;
 
 4) otwór wsypowy powinien mieć zamknięcie chroniące przed wydzielaniem się woni z rury zsypowej;
 
@@ -1477,7 +1880,7 @@ Urządzenie zsypowe zainstalowane w budynku powinno odpowiadać następującym w
 
 Rozwiązania techniczne urządzeń zsypowych powinny spełniać wymagania Polskich Norm dotyczących tych urządzeń.
 
-<a id="rozdzial-4"></a>
+<a id="rozdzial-4-2"></a>
 ### Rozdział 4. Instalacje ogrzewcze
 
 <a id="par-132"></a>
@@ -1491,9 +1894,9 @@ Rozwiązania techniczne urządzeń zsypowych powinny spełniać wymagania Polski
 
 1) o kubaturze wynikającej ze wskaźnika 4 m 3 /kW nominalnej mocy cieplnej kominka, lecz nie mniejszej niż 30 m 3;
 
-2) spełniających wymagania dotyczące wentylacji, o których mowa w § 150 ust. 9;
+2) spełniających wymagania dotyczące wentylacji, o których mowa w [§ 150](#par-150) ust. 9;
 
-3) posiadających przewody kominowe określone w § 140 ust. 1 i 2 oraz § 145 ust. 1;
+3) posiadających przewody kominowe określone w [§ 140](#par-140) ust. 1 i 2 oraz [§ 145](#par-145) ust. 1;
 
 4) w których możliwy jest dopływ powietrza do paleniska kominka w ilości:
 
@@ -1520,9 +1923,9 @@ b) zapewniającej nie mniejszą prędkość przepływu powietrza w otworze komor
 
 8. Instalacja ogrzewcza wodna systemu zamkniętego z grzejnikami, w części albo w całości może być przystosowana do działania jako wodna instalacja chłodnicza, pod warunkiem spełnienia wymagań Polskich Norm dotyczących jakości wody w instalacjach ogrzewania i zabezpieczania instalacji ogrzewań wodnych systemu zamkniętego z naczyniami wzbiorczymi przeponowymi.
 
-9. Straty ciepła na przewodach zasilających i powrotnych instalacji wodnej centralnego ogrzewania powinny być na racjonalnie niskim poziomie. Izolacja cieplna tych przewodów powinna spełniać wymagania określone w załączniku nr 2 do rozporządzenia.
+9. Straty ciepła na przewodach zasilających i powrotnych instalacji wodnej centralnego ogrzewania powinny być na racjonalnie niskim poziomie. Izolacja cieplna tych przewodów powinna spełniać wymagania określone w załączniku nr [2](#zalacznik-nr-2-wymagania-izolacyjnosci-cieplnej-i-inne-wymagania-zwiazane-z-oszczednoscia-energii) do rozporządzenia.
 
-10. Straty ciepła na przewodach ogrzewania powietrznego powinny być na racjonalnie niskim poziomie. Izolacja cieplna tych przewodów powinna spełniać wymagania określone w załączniku nr 2 do rozporządzenia.
+10. Straty ciepła na przewodach ogrzewania powietrznego powinny być na racjonalnie niskim poziomie. Izolacja cieplna tych przewodów powinna spełniać wymagania określone w załączniku nr [2](#zalacznik-nr-2-wymagania-izolacyjnosci-cieplnej-i-inne-wymagania-zwiazane-z-oszczednoscia-energii) do rozporządzenia.
 
 <a id="par-134"></a>
 ### § 134.
@@ -1564,7 +1967,7 @@ b) zapewniającej nie mniejszą prędkość przepływu powietrza w otworze komor
 
 2) urządzenia umożliwiające indywidualne rozliczanie kosztów ogrzewania poszczególnych mieszkań lub lokali użytkowych w budynku.
 
-4. Izolacja cieplna instalacji ogrzewczej wodnej powinna odpowiadać wymaganiom Polskiej Normy dotyczącej izolacji cieplnej rurociągów, armatury i urządzeń oraz przepisom § 267 ust. 8.
+4. Izolacja cieplna instalacji ogrzewczej wodnej powinna odpowiadać wymaganiom Polskiej Normy dotyczącej izolacji cieplnej rurociągów, armatury i urządzeń oraz przepisom [§ 267](#par-267) ust. 8.
 
 5. W pomieszczeniach przeznaczonych na pobyt ludzi zabrania się stosowania ogrzewania parowego oraz wodnych instalacji ogrzewczych o temperaturze czynnika grzejnego przekraczającego 90°C.
 
@@ -1585,17 +1988,17 @@ b) zapewniającej nie mniejszą prędkość przepływu powietrza w otworze komor
 <a id="par-136"></a>
 ### § 136.
 
-1. Pomieszczenia przeznaczone do instalowania kotłów na paliwo stałe i pomieszczenia składu paliwa i żużlowni oraz pomieszczenia przeznaczone do instalowania kotłów na olej opałowy i pomieszczenia magazynu oleju opałowego powinny odpowiadać przepisom rozporządzenia, w tym określonym w § 220 ust. 1.
+1. Pomieszczenia przeznaczone do instalowania kotłów na paliwo stałe i pomieszczenia składu paliwa i żużlowni oraz pomieszczenia przeznaczone do instalowania kotłów na olej opałowy i pomieszczenia magazynu oleju opałowego powinny odpowiadać przepisom rozporządzenia, w tym określonym w [§ 220](#par-220) ust. 1.
 
 2. Kotły na paliwo stałe o mocy cieplnej nominalnej do 25 kW powinny być instalowane w wydzielonych pomieszczeniach technicznych zlokalizowanych na kondygnacji podziemnej, na poziomie ogrzewanych pomieszczeń lub w innych pomieszczeniach, w których mogą być instalowane kotły o większych mocach cieplnych nominalnych. Skład paliwa powinien być umieszczony w wydzielonym pomieszczeniu technicznym w pobliżu kotła lub w pomieszczeniu, w którym znajduje się kocioł. Pomieszczenia, w których instalowane są kotły, oraz pomieszczenia składu paliwa powinny odpowiadać wymaganiom określonym w Polskiej Normie dotyczącej kotłowni wbudowanych na paliwo stałe.
 
-2a. Kotły na paliwo stałe o mocy cieplnej nominalnej do 10 kW mogą być instalowane w budynkach, o których mowa w § 132 ust. 3, na poziomie ogrzewanych pomieszczeń, w pomieszczeniach niebędących pomieszczeniami mieszkalnymi:
+2a. Kotły na paliwo stałe o mocy cieplnej nominalnej do 10 kW mogą być instalowane w budynkach, o których mowa w [§ 132](#par-132) ust. 3, na poziomie ogrzewanych pomieszczeń, w pomieszczeniach niebędących pomieszczeniami mieszkalnymi:
 
 1) o kubaturze wynikającej ze wskaźnika 4 m 3 /kW nominalnej mocy cieplnej kotła, lecz nie mniej niż 30 m 3,
 
-2) spełniających wymagania dotyczące wentylacji, o których mowa w § 150 ust. 9,
+2) spełniających wymagania dotyczące wentylacji, o których mowa w [§ 150](#par-150) ust. 9,
 
-3) posiadających przewody kominowe określone w § 140 ust. 1 i 2 oraz § 145 ust. 1,
+3) posiadających przewody kominowe określone w [§ 140](#par-140) ust. 1 i 2 oraz [§ 145](#par-145) ust. 1,
 
 4) zapewniających dopływ powietrza do spalania w ilości co najmniej 10 m 3 /h na 1 kW nominalnej mocy cieplnej kotła - odpowiadających wymaganiom określonym w Polskiej Normie dotyczącej kotłowni wbudowanych na paliwo stałe.
 
@@ -1617,7 +2020,7 @@ b) zapewniającej nie mniejszą prędkość przepływu powietrza w otworze komor
 
 11. W pomieszczeniu, w którym zainstalowane są kotły na paliwo stałe lub olej opałowy, powinien być zapewniony nawiew niezbędnego strumienia powietrza dla prawidłowej pracy kotłów z mocą cieplną nominalną, a także nawiew i wywiew powietrza dla wentylacji kotłowni.
 
-12. Odprowadzenie spalin z kotłów na olej opałowy powinno spełniać wymagania dla urządzeń gazowych określone w § 174 ust. 1, 2, 5, 6, 8 i 9.
+12. Odprowadzenie spalin z kotłów na olej opałowy powinno spełniać wymagania dla urządzeń gazowych określone w [§ 174](#par-174) ust. 1, 2, 5, 6, 8 i 9.
 
 <a id="par-137"></a>
 ### § 137.
@@ -1660,7 +2063,7 @@ Obudowa przewodów instalacji ogrzewczej powinna umożliwiać wymianę instalacj
 
 Elementy wodnych instalacji ogrzewczych, narażone na intensywny dopływ powietrza zewnętrznego w zimie, powinny być chronione przed zamarzaniem i mieć, w miejscach tego wymagających, izolację cieplną, zabezpieczającą przed nadmiernymi stratami ciepła.
 
-<a id="rozdzial-5"></a>
+<a id="rozdzial-5-2"></a>
 ### Rozdział 5. Przewody kominowe
 
 <a id="par-140"></a>
@@ -1668,7 +2071,7 @@ Elementy wodnych instalacji ogrzewczych, narażone na intensywny dopływ powietr
 
 1. Przewody (kanały) kominowe w budynku: wentylacyjne, spalinowe i dymowe, prowadzone w ścianach budynku, w obudowach, trwale połączonych z konstrukcją lub stanowiące konstrukcje samodzielne, powinny mieć wymiary przekroju, sposób prowadzenia i wysokość, stwarzające potrzebny ciąg, zapewniający wymaganą przepustowość, oraz spełniające wymagania określone w Polskich Normach dotyczących wymagań technicznych dla przewodów kominowych oraz projektowania kominów.
 
-2. Przewody kominowe powinny być szczelne i spełniać warunki określone w § 266.
+2. Przewody kominowe powinny być szczelne i spełniać warunki określone w [§ 266](#par-266).
 
 3. (uchylony).
 
@@ -1681,7 +2084,7 @@ Elementy wodnych instalacji ogrzewczych, narażone na intensywny dopływ powietr
 
 Zabrania się stosowania:
 
-1) grawitacyjnych zbiorczych przewodów spalinowych i dymowych, z zastrzeżeniem § 174 ust. 3;
+1) grawitacyjnych zbiorczych przewodów spalinowych i dymowych, z zastrzeżeniem [§ 174](#par-174) ust. 3;
 
 2) zbiorczych przewodów wentylacji grawitacyjnej;
 
@@ -1694,12 +2097,12 @@ Zabrania się stosowania:
 
 2. Wymaganie ust. 1 uznaje się za spełnione, jeżeli wyloty przewodów kominowych zostaną wyprowadzone ponad dach w sposób określony Polską Normą dla kominów murowanych.
 
-3. Dopuszcza się wyprowadzanie przewodów spalinowych od urządzeń gazowych z zamkniętą komorą spalania bezpośrednio przez ściany zewnętrzne budynków, przy zachowaniu warunków określonych w § 175.
+3. Dopuszcza się wyprowadzanie przewodów spalinowych od urządzeń gazowych z zamkniętą komorą spalania bezpośrednio przez ściany zewnętrzne budynków, przy zachowaniu warunków określonych w [§ 175](#par-175).
 
 <a id="par-143"></a>
 ### § 143.
 
-1. W budynkach usytuowanych w II i III strefie obciążenia wiatrem, określonych Polskimi Normami, należy stosować na przewodach dymowych i spalinowych nasady kominowe zabezpieczające przed odwróceniem ciągu, przy zachowaniu wymagań § 146 ust. 1.
+1. W budynkach usytuowanych w II i III strefie obciążenia wiatrem, określonych Polskimi Normami, należy stosować na przewodach dymowych i spalinowych nasady kominowe zabezpieczające przed odwróceniem ciągu, przy zachowaniu wymagań [§ 146](#par-146) ust. 1.
 
 2. Nasady kominowe, o których mowa w ust. 1, należy również stosować na innych obszarach, jeżeli wymagają tego położenie budynków i lokalne warunki topograficzne.
 
@@ -1721,16 +2124,16 @@ Zabrania się stosowania:
 
 3. Piece, o których mowa w ust. 2, usytuowane na najwyższej kondygnacji powinny być przyłączone do odrębnego przewodu dymowego.
 
-4. Przyłączenia urządzeń gazowych do przewodów spalinowych powinny odpowiadać warunkom określonym w § 174 i 175.
+4. Przyłączenia urządzeń gazowych do przewodów spalinowych powinny odpowiadać warunkom określonym w [§ 174](#par-174) i 175.
 
 <a id="par-146"></a>
 ### § 146.
 
-1. Wyloty przewodów kominowych powinny być dostępne do czyszczenia i okresowej kontroli, z uwzględnieniem przepisów § 308.
+1. Wyloty przewodów kominowych powinny być dostępne do czyszczenia i okresowej kontroli, z uwzględnieniem przepisów [§ 308](#par-308).
 
 2. Przewody spalinowe i dymowe powinny być wyposażone, odpowiednio, w otwory wycierowe lub rewizyjne, zamykane szczelnymi drzwiczkami, a w przypadku występowania spalin mokrych - także w układ odprowadzania skroplin.
 
-<a id="rozdzial-6"></a>
+<a id="rozdzial-6-2"></a>
 ### Rozdział 6. Wentylacja i klimatyzacja
 
 <a id="par-147"></a>
@@ -1778,7 +2181,7 @@ Zabrania się stosowania:
 
 4. W pomieszczeniach przeznaczonych na stały pobyt ludzi, wentylowanych w sposób mechaniczny lub klimatyzowanych, wartości temperatury, wilgotności względnej i prędkości ruchu powietrza w pomieszczeniach należy przyjmować do obliczeń zgodnie z Polską Normą dotyczącą parametrów obliczeniowych powietrza wewnętrznego.
 
-5. Dla pomieszczeń przeznaczonych na stały pobyt ludzi, wentylowanych w sposób naturalny, wartości temperatury wewnętrznej w okresach ogrzewczych należy przyjmować do obliczeń zgodnie z tabelą w § 134 ust. 2.
+5. Dla pomieszczeń przeznaczonych na stały pobyt ludzi, wentylowanych w sposób naturalny, wartości temperatury wewnętrznej w okresach ogrzewczych należy przyjmować do obliczeń zgodnie z tabelą w [§ 134](#par-134) ust. 2.
 
 <a id="par-150"></a>
 ### § 150.
@@ -1816,7 +2219,7 @@ Zabrania się stosowania:
 
 2) 5% objętości strumienia powietrza wywiewanego z pomieszczenia - w przypadku wymiennika obrotowego, w odniesieniu do różnicy ciśnienia 400 Pa.
 
-3. Recyrkulację powietrza można stosować wówczas, gdy przeznaczenie wentylowanych pomieszczeń nie wiąże się z występowaniem bakterii chorobotwórczych, z emisją substancji szkodliwych dla zdrowia, uciążliwych zapachów, przy zachowaniu wymagań § 149 ust. 1 oraz wymagań dotyczących ochrony przeciwpożarowej.
+3. Recyrkulację powietrza można stosować wówczas, gdy przeznaczenie wentylowanych pomieszczeń nie wiąże się z występowaniem bakterii chorobotwórczych, z emisją substancji szkodliwych dla zdrowia, uciążliwych zapachów, przy zachowaniu wymagań [§ 149](#par-149) ust. 1 oraz wymagań dotyczących ochrony przeciwpożarowej.
 
 4. W budynku opieki zdrowotnej recyrkulacja powietrza może być stosowana tylko za zgodą i na warunkach określonych przez właściwego państwowego inspektora sanitarnego.
 
@@ -1886,7 +2289,7 @@ Zabrania się stosowania:
 
 5. Przewody powinny być wyposażone w otwory rewizyjne spełniające wymagania Polskiej Normy dotyczącej elementów przewodów ułatwiających konserwację, umożliwiające oczyszczenie wnętrza tych przewodów, a także innych urządzeń i elementów instalacji, o ile ich konstrukcja nie pozwala na czyszczenie w inny sposób niż poprzez te otwory, przy czym nie należy ich sytuować w pomieszczeniach o podwyższonych wymaganiach higienicznych.
 
-6. Przewody prowadzone przez pomieszczenia lub przestrzenie nieogrzewane, a w przypadku instalacji klimatyzacji - również niechłodzone, powinny mieć izolację cieplną, z uwzględnieniem wymagań określonych w § 267 ust. 1.
+6. Przewody prowadzone przez pomieszczenia lub przestrzenie nieogrzewane, a w przypadku instalacji klimatyzacji - również niechłodzone, powinny mieć izolację cieplną, z uwzględnieniem wymagań określonych w [§ 267](#par-267) ust. 1.
 
 7. Przewody instalacji klimatyzacji, przewody stosowane do recyrkulacji powietrza oraz prowadzące do urządzeń do odzyskiwania ciepła, a także przewody prowadzące powietrze zewnętrzne przez ogrzewane pomieszczenia, powinny mieć izolację cieplną i przeciwwilgociową.
 
@@ -1913,7 +2316,7 @@ określonych w Polskiej Normie dotyczącej klasyfikacji filtrów powietrza.
 
 7. Nawilżacze w instalacji wentylacji mechanicznej i klimatyzacji powinny być zabezpieczone przed przeciekaniem wody na zewnątrz oraz przed przenoszeniem kropel wody przez powietrze wentylacyjne do dalszych części instalacji.
 
-8. Połączenia wentylatorów z przewodami wentylacyjnymi powinny być wykonane za pomocą elastycznych elementów łączących, z zachowaniem wymagań określonych w § 267 ust. 7.
+8. Połączenia wentylatorów z przewodami wentylacyjnymi powinny być wykonane za pomocą elastycznych elementów łączących, z zachowaniem wymagań określonych w [§ 267](#par-267) ust. 7.
 
 9. Instalacje wentylacji mechanicznej i klimatyzacji powinny być wyposażone w przepustnice zlokalizowane w miejscach umożliwiających regulację instalacji, a także odcięcie dopływu powietrza zewnętrznego i wypływu powietrza wewnętrznego. Wymaganie to nie dotyczy instalacji mechanicznej wywiewnej, przewidzianej do okresowej pracy jako wentylacja grawitacyjna.
 
@@ -1928,7 +2331,7 @@ określonych w Polskiej Normie dotyczącej klasyfikacji filtrów powietrza.
 <a id="par-155"></a>
 ### § 155.
 
-1. W budynkach mieszkalnych, zamieszkania zbiorowego, oświaty, wychowania, opieki zdrowotnej i opieki społecznej, a także w pomieszczeniach biurowych przeznaczonych na pobyt ludzi, niewyposażonych w wentylację mechaniczną lub klimatyzację, okna, w celu okresowego przewietrzania, powinny mieć konstrukcję umożliwiającą otwieranie co najmniej 50% powierzchni wymaganej zgodnie z § 57 dla danego pomieszczenia.
+1. W budynkach mieszkalnych, zamieszkania zbiorowego, oświaty, wychowania, opieki zdrowotnej i opieki społecznej, a także w pomieszczeniach biurowych przeznaczonych na pobyt ludzi, niewyposażonych w wentylację mechaniczną lub klimatyzację, okna, w celu okresowego przewietrzania, powinny mieć konstrukcję umożliwiającą otwieranie co najmniej 50% powierzchni wymaganej zgodnie z [§ 57](#par-57) dla danego pomieszczenia.
 
 2. Skrzydła okien, świetliki oraz nawietrzaki okienne, wykorzystywane do przewietrzania pomieszczeń przeznaczonych na pobyt ludzi, powinny być zaopatrzone w urządzenia pozwalające na łatwe ich otwieranie i regulowanie wielkości otwarcia z poziomu podłogi lub pomostu, także przez osoby niepełnosprawne, jeżeli nie przewiduje się korzystania z pomocy innych współużytkowników.
 
@@ -1936,7 +2339,7 @@ określonych w Polskiej Normie dotyczącej klasyfikacji filtrów powietrza.
 
 4. Urządzenia nawiewne, o których mowa w ust. 3, powinny być stosowane zgodnie z wymaganiami określonymi w Polskiej Normie dotyczącej wentylacji w budynkach mieszkalnych, zamieszkania zbiorowego i użyteczności publicznej.
 
-<a id="rozdzial-7"></a>
+<a id="rozdzial-7-2"></a>
 ### Rozdział 7. Instalacja gazowa na paliwa gazowe
 
 <a id="par-156"></a>
@@ -2016,7 +2419,7 @@ określonych w Polskiej Normie dotyczącej klasyfikacji filtrów powietrza.
 
 2. W zabudowie jednorodzinnej, zagrodowej i rekreacji indywidualnej, gdy kurek główny jest zainstalowany w linii ogrodzenia w odległości większej niż 10 m, należy na ścianie budynku dodatkowo zastosować zawór odcinający.
 
-3. Zawory odcinające, o których mowa w ust. 1 i 2, powinny spełniać wymagania określone w § 158 ust. 6.
+3. Zawory odcinające, o których mowa w ust. 1 i 2, powinny spełniać wymagania określone w [§ 158](#par-158) ust. 6.
 
 <a id="par-161"></a>
 ### § 161.
@@ -2090,7 +2493,7 @@ Urządzenia redukcyjne mogą być instalowane wyłącznie na zewnątrz budynku i
 
 a) na klatkach schodowych lub korytarzach ogólnych,
 
-b) na zewnątrz budynku, razem z kurkiem głównym instalacji gazowej, z zachowaniem warunków określonych w § 159 i 160;
+b) na zewnątrz budynku, razem z kurkiem głównym instalacji gazowej, z zachowaniem warunków określonych w [§ 159](#par-159) i 160;
 
 2) w szybach wentylowanych przeznaczonych dla pionów instalacyjnych, z drzwiczkami bez otworów wentylacyjnych, dostępnymi od strony pomieszczeń niemieszkalnych.
 
@@ -2132,9 +2535,9 @@ Rozwiązania techniczne połączeń gazomierzy i urządzeń gazowych z instalacj
 
 1. Urządzenia gazowe mogą być instalowane wyłącznie w pomieszczeniach spełniających warunki dotyczące ich wysokości, kubatury, wentylacji i odprowadzenia spalin, a także dopływu powietrza do spalania określone w rozporządzeniu, w Polskich Normach i przepisach odrębnych.
 
-2. Urządzenia gazowe z otwartą komorą spalania, przez co rozumie się urządzenia typu A i B, nie mogą być instalowane w pomieszczeniach mieszkalnych, z zastrzeżeniem § 93 ust. 2, 4 i 5.
+2. Urządzenia gazowe z otwartą komorą spalania, przez co rozumie się urządzenia typu A i B, nie mogą być instalowane w pomieszczeniach mieszkalnych, z zastrzeżeniem [§ 93](#par-93) ust. 2, 4 i 5.
 
-3. Urządzenia gazowe z zamkniętą komorą spalania, przez co rozumie się urządzenia typu C, mogą być instalowane w pomieszczeniach mieszkalnych, niezależnie od rodzaju występującej w nich wentylacji, pod warunkiem zastosowania koncentrycznych przewodów powietrzno-spalinowych, z zachowaniem wymagań § 175.
+3. Urządzenia gazowe z zamkniętą komorą spalania, przez co rozumie się urządzenia typu C, mogą być instalowane w pomieszczeniach mieszkalnych, niezależnie od rodzaju występującej w nich wentylacji, pod warunkiem zastosowania koncentrycznych przewodów powietrzno-spalinowych, z zachowaniem wymagań [§ 175](#par-175).
 
 <a id="par-171"></a>
 ### § 171.
@@ -2156,7 +2559,7 @@ Urządzenia gazowe, pozostające bez stałego dozoru w czasie ich użytkowania, 
 
 4. Pomieszczenia, w których instaluje się urządzenia gazowe, powinny mieć wysokość co najmniej 2,2 m.
 
-5. W budynkach jednorodzinnych, mieszkalnych w zabudowie zagrodowej i rekreacji indywidualnej, wzniesionych przed dniem wejścia w życie rozporządzenia, dopuszcza się instalowanie gazowych kotłów grzewczych w pomieszczeniach technicznych o wysokości co najmniej 1,9 m, z zachowaniem warunków określonych w ust. 1 i § 170 ust. 1 i 2.
+5. W budynkach jednorodzinnych, mieszkalnych w zabudowie zagrodowej i rekreacji indywidualnej, wzniesionych przed dniem wejścia w życie rozporządzenia, dopuszcza się instalowanie gazowych kotłów grzewczych w pomieszczeniach technicznych o wysokości co najmniej 1,9 m, z zachowaniem warunków określonych w ust. 1 i [§ 170](#par-170) ust. 1 i 2.
 
 <a id="par-173"></a>
 ### § 173.
@@ -2228,7 +2631,7 @@ Urządzenia gazowe, pozostające bez stałego dozoru w czasie ich użytkowania, 
 <a id="par-176"></a>
 ### § 176.
 
-1. Pomieszczenia przeznaczone do instalowania kotłów na paliwa gazowe powinny odpowiadać wymaganiom § 172 oraz innym przepisom rozporządzenia, a także odpowiadać wymaganiom określonym w Polskiej Normie dotyczącej kotłowni wbudowanych na paliwa gazowe o gęstości względnej mniejszej niż 1.
+1. Pomieszczenia przeznaczone do instalowania kotłów na paliwa gazowe powinny odpowiadać wymaganiom [§ 172](#par-172) oraz innym przepisom rozporządzenia, a także odpowiadać wymaganiom określonym w Polskiej Normie dotyczącej kotłowni wbudowanych na paliwa gazowe o gęstości względnej mniejszej niż 1.
 
 2. Kotły na paliwa gazowe o łącznej mocy cieplnej do 30 kW mogą być instalowane w pomieszczeniach nieprzeznaczonych na stały pobyt ludzi oraz w miejscach, o których mowa w ust. 3.
 
@@ -2238,7 +2641,7 @@ Urządzenia gazowe, pozostające bez stałego dozoru w czasie ich użytkowania, 
 
 5. Kotły na paliwa gazowe o łącznej mocy cieplnej powyżej 2000 kW mogą być instalowane wyłącznie w budynku wolno stojącym przeznaczonym na kotłownię.
 
-6. Kubatura pomieszczeń z kotłami na paliwa gazowe o łącznej mocy cieplnej do 60 kW oraz z kotłami o mocy cieplnej powyżej 60 kW pobierającymi powietrze z pomieszczeń powinna odpowiadać wymaganiom określonym w § 172.
+6. Kubatura pomieszczeń z kotłami na paliwa gazowe o łącznej mocy cieplnej do 60 kW oraz z kotłami o mocy cieplnej powyżej 60 kW pobierającymi powietrze z pomieszczeń powinna odpowiadać wymaganiom określonym w [§ 172](#par-172).
 
 7. Kubatura pomieszczeń z kotłami, o których mowa w ust. 4 i 5, z zamkniętą komorą spalania, powinna być określana indywidualnie, przy uwzględnieniu warunków technicznych i technologicznych, a także wymagań eksploatacyjnych.
 
@@ -2315,7 +2718,7 @@ Instalacje gazowe w budynku lub w zespole budynków mogą być zasilane gazem p�
 
 2) 15 m - przy napięciu linii elektroenergetycznej lub sieci trakcyjnej równym lub większym od 1 kV.
 
-<a id="rozdzial-8"></a>
+<a id="rozdzial-8-2"></a>
 ### Rozdział 8. Instalacja elektryczna
 
 <a id="par-180"></a>
@@ -2376,7 +2779,7 @@ d) w wysokich i wysokościowych budynkach użyteczności publicznej i zamieszkan
 <a id="par-182"></a>
 ### § 182.
 
-Pomieszczenie stacji transformatorowej może być sytuowane w budynkach o innym przeznaczeniu, jeżeli są spełnione warunki określone w § 96 oraz:
+Pomieszczenie stacji transformatorowej może być sytuowane w budynkach o innym przeznaczeniu, jeżeli są spełnione warunki określone w [§ 96](#par-96) oraz:
 
 1) zostanie zachowana odległość pozioma i pionowa od pomieszczeń przeznaczonych na stały pobyt ludzi co najmniej 2,8 m;
 
@@ -2438,7 +2841,7 @@ Pomieszczenie stacji transformatorowej może być sytuowane w budynkach o innym 
 
 2. Dopuszcza się wykorzystywanie jako uziomy instalacji elektrycznej metalowych przewodów sieci wodociągowej, pod warunkiem zachowania wymagań Polskiej Normy dotyczącej uziemień i przewodów ochronnych oraz uzyskania zgody jednostki eksploatującej tę sieć.
 
-3. Instalacja piorunochronna, o której mowa w § 53 ust. 2, powinna być wykonana zgodnie z wymaganiami Polskich Norm dotyczących ochrony odgromowej obiektów budowlanych.
+3. Instalacja piorunochronna, o której mowa w [§ 53](#par-53) ust. 2, powinna być wykonana zgodnie z wymaganiami Polskich Norm dotyczących ochrony odgromowej obiektów budowlanych.
 
 <a id="par-185"></a>
 ### § 185.
@@ -2450,7 +2853,7 @@ Pomieszczenie stacji transformatorowej może być sytuowane w budynkach o innym 
 <a id="par-186"></a>
 ### § 186.
 
-1. Prowadzenie instalacji i rozmieszczenie urządzeń elektrycznych w budynku powinno zapewniać bezkolizyjność z innymi instalacjami w zakresie odległości i ich wzajemnego usytuowania oraz uwzględniać warunki określone w § 164.
+1. Prowadzenie instalacji i rozmieszczenie urządzeń elektrycznych w budynku powinno zapewniać bezkolizyjność z innymi instalacjami w zakresie odległości i ich wzajemnego usytuowania oraz uwzględniać warunki określone w [§ 164](#par-164).
 
 2. Główne ciągi instalacji elektrycznej w budynku mieszkalnym wielorodzinnym, budynku zamieszkania zbiorowego i budynku użyteczności publicznej należy prowadzić poza mieszkaniami i pomieszczeniami przeznaczonymi na pobyt ludzi, w wydzielonych kanałach lub szybach instalacyjnych, zgodnie z Polską Normą dotyczącą wymagań w tym zakresie.
 
@@ -2511,12 +2914,12 @@ Mieszkania w budynku mieszkalnym wielorodzinnym należy wyposażyć w instalacj�
 <a id="par-192b"></a>
 ### § 192b.
 
-Instalacją telekomunikacyjną, o której mowa w § 56, zwaną dalej „instalacją telekomunikacyjną”, jest zainstalowany i połączony pod względem technicznym i funkcjonalnym układ jej elementów wykonany zgodnie z Polską Normą dotyczącą planowania i wykonywania instalacji wewnątrz budynków.
+Instalacją telekomunikacyjną, o której mowa w [§ 56](#par-56), zwaną dalej „instalacją telekomunikacyjną”, jest zainstalowany i połączony pod względem technicznym i funkcjonalnym układ jej elementów wykonany zgodnie z Polską Normą dotyczącą planowania i wykonywania instalacji wewnątrz budynków.
 
 <a id="par-192c"></a>
 ### § 192c.
 
-Instalację telekomunikacyjną budynku zamieszkania zbiorowego i budynku użyteczności publicznej, z zastrzeżeniem § 192d, stanowi w szczególności:
+Instalację telekomunikacyjną budynku zamieszkania zbiorowego i budynku użyteczności publicznej, z zastrzeżeniem [§ 192d](#par-192d), stanowi w szczególności:
 
 1) kanalizacja telekomunikacyjna budynku, rozumiana jako ciąg elementów osłonowych umożliwiających wprowadzenie kabli do budynku oraz ich rozprowadzenie w budynku, w tym między innymi przepustów kablowych, rur instalacyjnych, szybów instalacyjnych, koryt, duktów i kanałów instalacyjnych;
 
@@ -2557,7 +2960,7 @@ Instalację telekomunikacyjną budynku mieszkalnego wielorodzinnego stanowią w 
 
 1. Punkt połączenia instalacji telekomunikacyjnej z publiczną siecią telekomunikacyjną (punkt styku) powinien:
 
-1) być usytuowany w odrębnym pomieszczeniu technicznym, zgodnym z warunkami technicznymi określonymi w § 96-98, na pierwszej kondygnacji podziemnej lub pierwszej kondygnacji nadziemnej budynku, a w przypadku braku możliwości zapewnienia takiego pomieszczenia - w szafce telekomunikacyjnej wyposażonej w odpowiednią instalację i urządzenia elektryczne;
+1) być usytuowany w odrębnym pomieszczeniu technicznym, zgodnym z warunkami technicznymi określonymi w [§ 96](#par-96)-98, na pierwszej kondygnacji podziemnej lub pierwszej kondygnacji nadziemnej budynku, a w przypadku braku możliwości zapewnienia takiego pomieszczenia - w szafce telekomunikacyjnej wyposażonej w odpowiednią instalację i urządzenia elektryczne;
 
 2) zapewniać przełącznice wyposażone w funkcjonalne pola krosowe, zapewniające pełne możliwości wielokrotnego podłączania i odłączania pomiędzy zewnętrzną siecią telekomunikacyjną i instalacjami wewnętrznymi;
 
@@ -2573,7 +2976,7 @@ Instalację telekomunikacyjną budynku mieszkalnego wielorodzinnego stanowią w 
 
 2. Prowadzenie instalacji telekomunikacyjnej i rozmieszczenie urządzeń telekomunikacyjnych w budynku powinno zapewniać bezkolizyjność z innymi instalacjami w zakresie ich wzajemnego usytuowania i niekorzystnego oddziaływania oraz zapewniać bezpieczeństwo osób korzystających z części wspólnych budynku.
 
-3. W instalacji telekomunikacyjnej należy zastosować urządzenia ochrony przed przepięciami, a gdy instalacja może być narażona na przetężenie - również w urządzenia ochrony przed przetężeniami, natomiast elementy instalacji wyprowadzone ponad dach należy umieścić w strefie chronionej przez instalację piorunochronną, o której mowa w § 184 ust. 3, lub bezpośrednio uziemić w przypadku braku instalacji piorunochronnej. Instalacje antenowe wychodzące ponad dach oraz dłuższe ciągi instalacji antenowych w budynkach (przekraczające 10 m) powinny być chronione ochronnikami zabezpieczającymi od przepięć od wyładowań bezpośrednich i pośrednich.
+3. W instalacji telekomunikacyjnej należy zastosować urządzenia ochrony przed przepięciami, a gdy instalacja może być narażona na przetężenie - również w urządzenia ochrony przed przetężeniami, natomiast elementy instalacji wyprowadzone ponad dach należy umieścić w strefie chronionej przez instalację piorunochronną, o której mowa w [§ 184](#par-184) ust. 3, lub bezpośrednio uziemić w przypadku braku instalacji piorunochronnej. Instalacje antenowe wychodzące ponad dach oraz dłuższe ciągi instalacji antenowych w budynkach (przekraczające 10 m) powinny być chronione ochronnikami zabezpieczającymi od przepięć od wyładowań bezpośrednich i pośrednich.
 
 4. Instalacja telekomunikacyjna powinna:
 
@@ -2581,11 +2984,11 @@ Instalację telekomunikacyjną budynku mieszkalnego wielorodzinnego stanowią w 
 
 2) zapewniać kompatybilność i możliwość podłączenia tej instalacji do publicznych sieci telekomunikacyjnych, przy zachowaniu zasady neutralności technologicznej;
 
-3) być wykonana w sposób gwarantujący możliwość wymiany lub instalowania odpowiedniej ilości jej elementów, o których mowa w § 192c, § 192d i § 192e, a także instalację dodatkowej infrastruktury telekomunikacyjnej, w tym anten i kabli, wraz z osprzętem instalacyjnym i urządzeniami telekomunikacyjnymi, bez naruszania konstrukcji budynku;
+3) być wykonana w sposób gwarantujący możliwość wymiany lub instalowania odpowiedniej ilości jej elementów, o których mowa w [§ 192c](#par-192c), [§ 192d](#par-192d) i [§ 192e](#par-192e), a także instalację dodatkowej infrastruktury telekomunikacyjnej, w tym anten i kabli, wraz z osprzętem instalacyjnym i urządzeniami telekomunikacyjnymi, bez naruszania konstrukcji budynku;
 
 4) umożliwiać przyłączenie i zapewnienie poprawnej transmisji sygnału urządzenia telekomunikacyjnego systemu radiowego umożliwiającego świadczenie usług telekomunikacyjnych.
 
-5. W instalacji telekomunikacyjnej, o której mowa w § 192d pkt 2 oraz § 192e pkt 3:
+5. W instalacji telekomunikacyjnej, o której mowa w [§ 192d](#par-192d) pkt 2 oraz [§ 192e](#par-192e) pkt 3:
 
 1) od przełącznicy światłowodowej zlokalizowanej w punkcie połączenia z publiczną siecią telekomunikacyjną odpowiednio do wyjścia z gniazda lub zakończeń kabli, powinny być doprowadzone i zakończone co najmniej dwa jednomodowe włókna światłowodowe o następujących parametrach:
 
@@ -2609,7 +3012,7 @@ h) tłumienność 100 zwojów o średnicy 60 mm dla długości fali 1625 nm nie 
 
 3) tłumienie toru optycznego od punktu połączenia z publiczną siecią telekomunikacyjną do wyjścia z gniazda lub zakończeń kabli nie powinno przekraczać wartości 1,2 dB przy długości fali 1310 nm i 1550 nm.
 
-6. W instalacji telekomunikacyjnej, o której mowa w § 192e pkt 4, należy stosować:
+6. W instalacji telekomunikacyjnej, o której mowa w [§ 192e](#par-192e) pkt 4, należy stosować:
 
 1) kable współosiowe kategorii RG-6 lub wyższej, wykonane w klasie A, zawierające podwójny ekran - folię aluminiową i oplot o gęstości co najmniej 77% oraz miedzianą żyłę wewnętrzną o średnicy nie mniejszej niż jeden milimetr, przy czym tłumienie każdego z torów utworzonych z kabli współosiowych nie powinno przekraczać wartości 12 dB przy częstotliwości 860 MHz, albo
 
@@ -2625,7 +3028,7 @@ c) impedancję wyjściową 75 Ω;
 
 4) wzmacniacze, przełączniki wielozakresowe (multiswitche) oraz pozostały osprzęt aktywny i pasywny służący do odbioru programów telewizyjnych i radiofonicznych rozpowszechnianych w sposób rozsiewczy naziemny.
 
-7. W instalacji telekomunikacyjnej, o której mowa w § 192e pkt 5, należy stosować:
+7. W instalacji telekomunikacyjnej, o której mowa w [§ 192e](#par-192e) pkt 5, należy stosować:
 
 1) okablowanie zgodnie z wymogami określonymi w ust. 6 pkt 1 i 2;
 
@@ -2647,21 +3050,21 @@ d) możliwość odbioru sygnału o dwóch ortogonalnych polaryzacjach
 
 9. Wszystkie urządzenia aktywne i pasywne w instalacji telewizyjnej powinny być uziemione i spełniać wymóg ekranowania w klasie A.
 
-10. W instalacji telekomunikacyjnej, o której mowa w § 192e pkt 6, do każdej telekomunikacyjnej skrzynki mieszkaniowej powinny być doprowadzone co najmniej dwa parowe kable symetryczne UTP kategorii 5 lub wyższej oraz powinny być zakończone na odpowiednim osprzęcie połączeniowym tak, aby zapewnić dla łącza lub kanału minimum charakterystykę klasy D, przy czym jedno z tych łączy powinno być przeznaczone na potrzeby instalacji, o których mowa w § 192a, lub podobnych, natomiast drugie łącze doprowadzone z punktu połączenia z publiczną siecią telekomunikacyjną powinno być przeznaczone w szczególności na potrzeby świadczenia usług telekomunikacyjnych, w tym usług szerokopasmowego dostępu do Internetu.
+10. W instalacji telekomunikacyjnej, o której mowa w [§ 192e](#par-192e) pkt 6, do każdej telekomunikacyjnej skrzynki mieszkaniowej powinny być doprowadzone co najmniej dwa parowe kable symetryczne UTP kategorii 5 lub wyższej oraz powinny być zakończone na odpowiednim osprzęcie połączeniowym tak, aby zapewnić dla łącza lub kanału minimum charakterystykę klasy D, przy czym jedno z tych łączy powinno być przeznaczone na potrzeby instalacji, o których mowa w [§ 192a](#par-192a), lub podobnych, natomiast drugie łącze doprowadzone z punktu połączenia z publiczną siecią telekomunikacyjną powinno być przeznaczone w szczególności na potrzeby świadczenia usług telekomunikacyjnych, w tym usług szerokopasmowego dostępu do Internetu.
 
-11. W instalacji telekomunikacyjnej, o której mowa w § 192e pkt 7, należy stosować kable współosiowe zgodnie z wymaganiami określonymi w ust. 6 pkt 1.
+11. W instalacji telekomunikacyjnej, o której mowa w [§ 192e](#par-192e) pkt 7, należy stosować kable współosiowe zgodnie z wymaganiami określonymi w ust. 6 pkt 1.
 
 12. Główne ciągi instalacji telekomunikacyjnej powinny być prowadzone poza mieszkaniami i lokalami użytkowymi oraz innymi pomieszczeniami, których sposób użytkowania może spowodować przerwy lub zakłócenia przekazywanego sygnału.
 
 13. W dostępnych dla ludzi miejscach, w których znajdują się zakończenia włókien światłowodowych, powinno być umieszczone, w widocznym miejscu, odpowiednie oznakowanie ostrzegające przed niewidzialnym promieniowaniem optycznym.
 
-<a id="rozdzial-9"></a>
+<a id="rozdzial-9-2"></a>
 ### Rozdział 9. Urządzenia dźwigowe
 
 <a id="par-193"></a>
 ### § 193.
 
-1. W budynkach, o których mowa w § 54 ust. 1 i 2, liczbę i parametry techniczno-użytkowe dźwigów należy ustalać z uwzględnieniem przeznaczenia budynku, jego wysokości oraz liczby i rodzaju użytkowników.
+1. W budynkach, o których mowa w [§ 54](#par-54) ust. 1 i 2, liczbę i parametry techniczno-użytkowe dźwigów należy ustalać z uwzględnieniem przeznaczenia budynku, jego wysokości oraz liczby i rodzaju użytkowników.
 
 2. Co najmniej jeden z dźwigów służących komunikacji ogólnej w budynku z pomieszczeniami przeznaczonymi na pobyt ludzi, a także w każdej wydzielonej w pionie, odrębnej części (segmencie) takiego budynku, powinien być przystosowany do przewozu mebli, chorych na noszach i osób niepełnosprawnych.
 
@@ -2669,7 +3072,7 @@ d) możliwość odbioru sygnału o dwóch ortogonalnych polaryzacjach
 
 3. W zabudowie śródmiejskiej w średniowysokim budynku mieszkalnym wielorodzinnym, mającym nie więcej niż 3 mieszkania dostępne z klatki schodowej na kondygnacji, dopuszcza się instalowanie dźwigu niespełniającego wymagań określonych w ust. 2, poza przystosowaniem go do potrzeb osób niepełnosprawnych.
 
-4. Dźwigi przeznaczone dla ekip ratowniczych powinny spełniać wymagania określone w § 253 oraz w przepisach odrębnych dotyczących ochrony przeciwpożarowej.
+4. Dźwigi przeznaczone dla ekip ratowniczych powinny spełniać wymagania określone w [§ 253](#par-253) oraz w przepisach odrębnych dotyczących ochrony przeciwpożarowej.
 
 <a id="par-194"></a>
 ### § 194.
@@ -2696,14 +3099,14 @@ Odległość pomiędzy zamkniętymi drzwiami przystankowymi dźwigu a przeciwleg
 
 2. W budynkach, o których mowa w ust. 1, dopuszcza się instalowanie dźwigów z napędem elektrycznym bez wykonywania dylatacji szybów dźwigowych, pod warunkiem ich oddzielenia od pomieszczeń mieszkalnych pomieszczeniami nieprzeznaczonymi na stały pobyt ludzi oraz zastosowania w nieoddylatowanym szybie dźwigowym zabezpieczeń przed przenoszeniem drgań z prowadnic jezdnych na konstrukcję budynku, tak aby poziomy hałasu i drgań przenikających do pomieszczeń mieszkalnych nie przekraczały wartości określonych w Polskich Normach dotyczących dopuszczalnych wartości poziomu dźwięku w pomieszczeniach oraz oceny wpływu drgań na ludzi w budynkach.
 
-3. Wymaganie, o którym mowa w ust. 1, nie dotyczy dźwigów z napędem hydraulicznym, dźwigów towarowych małych, dźwigów z maszynownią dolną lub boczną oraz dźwigów z wciągarkami bezreduktorowymi, z zastrzeżeniem § 96 ust. 1, w szczególności zastosowania w nieoddylatowanym szybie dźwigowym zabezpieczeń przed przenoszeniem drgań z prowadnic jezdnych na konstrukcję budynku, tak aby poziomy hałasu i drgań przenikających do pomieszczeń mieszkalnych nie przekraczały wartości określonych w Polskich Normach, o których mowa w ust. 2.
+3. Wymaganie, o którym mowa w ust. 1, nie dotyczy dźwigów z napędem hydraulicznym, dźwigów towarowych małych, dźwigów z maszynownią dolną lub boczną oraz dźwigów z wciągarkami bezreduktorowymi, z zastrzeżeniem [§ 96](#par-96) ust. 1, w szczególności zastosowania w nieoddylatowanym szybie dźwigowym zabezpieczeń przed przenoszeniem drgań z prowadnic jezdnych na konstrukcję budynku, tak aby poziomy hałasu i drgań przenikających do pomieszczeń mieszkalnych nie przekraczały wartości określonych w Polskich Normach, o których mowa w ust. 2.
 
 <a id="par-197"></a>
 ### § 197.
 
 1. Zespoły napędowe dźwigu powinny być zamocowane w sposób uniemożliwiający przenoszenie się drgań na konstrukcję budynku.
 
-2. Sytuowanie maszynowni dźwigów obok pokojów mieszkalnych jest zabronione. Nie dotyczy to kondygnacji nadbudowanej lub powstałej w wyniku adaptacji strychu na cele mieszkalne, z zachowaniem warunków określonych w § 96.
+2. Sytuowanie maszynowni dźwigów obok pokojów mieszkalnych jest zabronione. Nie dotyczy to kondygnacji nadbudowanej lub powstałej w wyniku adaptacji strychu na cele mieszkalne, z zachowaniem warunków określonych w [§ 96](#par-96).
 
 3. Maszynownia dźwigów powinna być wyposażona w urządzenia umożliwiające podnoszenie elementów instalacji dźwigowych.
 
@@ -2783,14 +3186,14 @@ Na terenach podlegających wpływom eksploatacji górniczej powinny być stosowa
 <a id="par-206"></a>
 ### § 206.
 
-1. W przypadku, o którym mowa w § 204 ust. 5, budowa powinna być poprzedzona ekspertyzą techniczną stanu obiektu istniejącego, stwierdzającego jego stan bezpieczeństwa i przydatności do użytkowania, uwzględniającą oddziaływania wywołane wzniesieniem nowego budynku.
+1. W przypadku, o którym mowa w [§ 204](#par-204) ust. 5, budowa powinna być poprzedzona ekspertyzą techniczną stanu obiektu istniejącego, stwierdzającego jego stan bezpieczeństwa i przydatności do użytkowania, uwzględniającą oddziaływania wywołane wzniesieniem nowego budynku.
 
 2. Rozbudowa, nadbudowa, przebudowa oraz zmiana sposobu użytkowania budynku powinny być poprzedzone ekspertyzą techniczną stanu konstrukcji i elementów budynku, z uwzględnieniem stanu podłoża gruntowego.
 
 <a id="dzial-VI"></a>
 ## Dział VI. Bezpieczeństwo pożarowe
 
-<a id="rozdzial-1"></a>
+<a id="rozdzial-1-3"></a>
 ### Rozdział 1. Zasady ogólne
 
 <a id="par-207"></a>
@@ -2808,7 +3211,7 @@ Na terenach podlegających wpływom eksploatacji górniczej powinny być stosowa
 
 5) uwzględnienie bezpieczeństwa ekip ratowniczych.
 
-2. Przepisy rozporządzenia dotyczące bezpieczeństwa pożarowego, wymiarów schodów, o których mowa w § 68 ust. 1 i 2, a także oświetlenia awaryjnego, o którym mowa w § 181, stosuje się, z uwzględnieniem § 2 ust. 2, również do użytkowanych budynków istniejących, które na podstawie przepisów odrębnych uznaje się za zagrażające życiu ludzi.
+2. Przepisy rozporządzenia dotyczące bezpieczeństwa pożarowego, wymiarów schodów, o których mowa w [§ 68](#par-68) ust. 1 i 2, a także oświetlenia awaryjnego, o którym mowa w [§ 181](#par-181), stosuje się, z uwzględnieniem [§ 2](#par-2) ust. 2, również do użytkowanych budynków istniejących, które na podstawie przepisów odrębnych uznaje się za zagrażające życiu ludzi.
 
 <a id="par-208"></a>
 ### § 208.
@@ -2827,7 +3230,7 @@ c) zasady przeciwpożarowego zaopatrzenia wodnego,
 
 d) wymagania dotyczące dróg pożarowych;
 
-2) wymagań Polskich Norm i warunków określonych w załączniku nr 3 do rozporządzenia, dotyczących w szczególności zasad ustalania:
+2) wymagań Polskich Norm i warunków określonych w załączniku nr [3](#zalacznik-nr-3-stosowane-w-rozporzadzeniu-okreslenia-dotyczace-palnosci-i-rozprzestrzeniania-ognia-oraz-odpowiadajace-im-klasy-reakcji-na-ogien-oraz-klasy-odpornosci-dachow-na-ogien-zewnetrzny) do rozporządzenia, dotyczących w szczególności zasad ustalania:
 
 a) gęstości obciążenia ogniowego pomieszczeń i stref pożarowych,
 
@@ -2846,9 +3249,9 @@ g) toksyczności produktów rozkładu spalania materiałów.
 <a id="par-208a"></a>
 ### § 208a.
 
-1. Określeniom użytym w rozporządzeniu: niepalny, niezapalny, trudno zapalny, łatwo zapalny, niekapiący, samogasnący, intensywnie dymiący odpowiadają klasy reakcji na ogień zgodnie z załącznikiem nr 3 do rozporządzenia.
+1. Określeniom użytym w rozporządzeniu: niepalny, niezapalny, trudno zapalny, łatwo zapalny, niekapiący, samogasnący, intensywnie dymiący odpowiadają klasy reakcji na ogień zgodnie z załącznikiem nr [3](#zalacznik-nr-3-stosowane-w-rozporzadzeniu-okreslenia-dotyczace-palnosci-i-rozprzestrzeniania-ognia-oraz-odpowiadajace-im-klasy-reakcji-na-ogien-oraz-klasy-odpornosci-dachow-na-ogien-zewnetrzny) do rozporządzenia.
 
-2. Elementy budynku określone w rozporządzeniu jako nierozprzestrzeniające ognia, słabo rozprzestrzeniające ogień lub silnie rozprzestrzeniające ogień powinny spełniać, z zastrzeżeniem ust. 3, wymagania zgodnie z załącznikiem nr 3 do rozporządzenia.
+2. Elementy budynku określone w rozporządzeniu jako nierozprzestrzeniające ognia, słabo rozprzestrzeniające ogień lub silnie rozprzestrzeniające ogień powinny spełniać, z zastrzeżeniem ust. 3, wymagania zgodnie z załącznikiem nr [3](#zalacznik-nr-3-stosowane-w-rozporzadzeniu-okreslenia-dotyczace-palnosci-i-rozprzestrzeniania-ognia-oraz-odpowiadajace-im-klasy-reakcji-na-ogien-oraz-klasy-odpornosci-dachow-na-ogien-zewnetrzny) do rozporządzenia.
 
 3. W przypadku ścian zewnętrznych budynku, w tym z ociepleniem i okładziną zewnętrzną lub tylko z okładziną zewnętrzną, przez elementy budynku:
 
@@ -2858,7 +3261,7 @@ g) toksyczności produktów rozkładu spalania materiałów.
 
 3) silnie rozprzestrzeniające ogień - rozumie się elementy budynku, które przy działaniu ognia z jednej strony sklasyfikowane są jako silnie rozprzestrzeniające ogień, niezależnie od klasyfikacji uzyskanej przy działaniu ognia z drugiej strony
 
-- dla których wymagania przy działaniu ognia wewnątrz budynku określa się zgodnie z załącznikiem nr 3 do rozporządzenia, a przy działaniu ognia od zewnątrz budynku określa się zgodnie z Polską Normą dotyczącą metody badania stopnia rozprzestrzeniania ognia przez ściany.
+- dla których wymagania przy działaniu ognia wewnątrz budynku określa się zgodnie z załącznikiem nr [3](#zalacznik-nr-3-stosowane-w-rozporzadzeniu-okreslenia-dotyczace-palnosci-i-rozprzestrzeniania-ognia-oraz-odpowiadajace-im-klasy-reakcji-na-ogien-oraz-klasy-odpornosci-dachow-na-ogien-zewnetrzny) do rozporządzenia, a przy działaniu ognia od zewnątrz budynku określa się zgodnie z Polską Normą dotyczącą metody badania stopnia rozprzestrzeniania ognia przez ściany.
 
 4. Występująca w rozporządzeniu klasa E I odporności ogniowej drzwi lub innych zamknięć otworów oznacza klasę E I 1 lub E I 2 zgodnie z Polską Normą dotyczącą klasyfikacji ogniowej ustalanej na podstawie badań odporności ogniowej, z wyłączeniem instalacji wentylacyjnej; dla drzwi przystankowych do dźwigu dopuszcza się określenie odporności ogniowej zgodnie z Polską Normą dotyczącą wykonywania próby odporności ogniowej drzwi przystankowych.
 
@@ -2867,7 +3270,7 @@ g) toksyczności produktów rozkładu spalania materiałów.
 <a id="par-209"></a>
 ### § 209.
 
-1. Budynki oraz części budynków, stanowiące odrębne strefy pożarowe w rozumieniu § 226, z uwagi na przeznaczenie i sposób użytkowania, dzieli się na:
+1. Budynki oraz części budynków, stanowiące odrębne strefy pożarowe w rozumieniu [§ 226](#par-226), z uwagi na przeznaczenie i sposób użytkowania, dzieli się na:
 
 1) mieszkalne, zamieszkania zbiorowego i użyteczności publicznej charakteryzowane kategorią zagrożenia ludzi, określane dalej jako ZL;
 
@@ -2901,19 +3304,19 @@ Części budynku wydzielone ścianami oddzielenia przeciwpożarowego w pionie - 
 <a id="par-211"></a>
 ### § 211.
 
-1. Przepisów § 242 ust. 1, § 243 ust. 1, § 245 pkt 2 oraz § 256 ust. 3, w zakresie kategorii ZL V, nie stosuje się do budynków i pomieszczeń przeznaczonych do zakwaterowania osób osadzonych.
+1. Przepisów [§ 242](#par-242) ust. 1, [§ 243](#par-243) ust. 1, [§ 245](#par-245) pkt 2 oraz [§ 256](#par-256) ust. 3, w zakresie kategorii ZL V, nie stosuje się do budynków i pomieszczeń przeznaczonych do zakwaterowania osób osadzonych.
 
-2. Przepisów § 236 ust. 4 oraz § 239 ust. 2 pkt 3 i 4 nie stosuje się do budynków zlokalizowanych na terenie zakładów karnych i aresztów śledczych.
+2. Przepisów [§ 236](#par-236) ust. 4 oraz [§ 239](#par-239) ust. 2 pkt 3 i 4 nie stosuje się do budynków zlokalizowanych na terenie zakładów karnych i aresztów śledczych.
 
-3. Przepisów § 239 ust. 2 pkt 3 i 4 nie stosuje się do zakładów poprawczych i schronisk dla nieletnich.
+3. Przepisów [§ 239](#par-239) ust. 2 pkt 3 i 4 nie stosuje się do zakładów poprawczych i schronisk dla nieletnich.
 
-<a id="rozdzial-2"></a>
+<a id="rozdzial-2-3"></a>
 ### Rozdział 2. Odporność pożarowa budynków
 
 <a id="par-212"></a>
 ### § 212.
 
-1. Ustanawia się pięć klas odporności pożarowej budynków lub ich części, podanych w kolejności od najwyższej do najniższej i oznaczonych literami: „A”, „B”, „C”, „D” i „E”, a scharakteryzowanych w § 216.
+1. Ustanawia się pięć klas odporności pożarowej budynków lub ich części, podanych w kolejności od najwyższej do najniższej i oznaczonych literami: „A”, „B”, „C”, „D” i „E”, a scharakteryzowanych w [§ 216](#par-216).
 
 2. Wymaganą klasę odporności pożarowej dla budynku, zaliczonego do jednej kategorii ZL, określa poniższa tabela:
 
@@ -2921,28 +3324,28 @@ Części budynku wydzielone ścianami oddzielenia przeciwpożarowego w pionie - 
 
 *) Gdy poziom stropu nad pierwszą kondygnacją nadziemną jest na wysokości nie większej niż 9 m nad poziomem terenu.
 
-4. Wymaganą klasę odporności pożarowej dla budynku PM oraz IN, z zastrzeżeniem § 282, określa poniższa tabela:
+4. Wymaganą klasę odporności pożarowej dla budynku PM oraz IN, z zastrzeżeniem [§ 282](#par-282), określa poniższa tabela:
 
-* - Zgodnie z § 228 ust. 1 nie mogą występować takie budynki.
+* - Zgodnie z [§ 228](#par-228) ust. 1 nie mogą występować takie budynki.
 
-5. Jeżeli część podziemna budynku jest zaliczona do ZL, klasę odporności pożarowej budynku ustala się, przyjmując jako liczbę jego kondygnacji lub jego wysokość odpowiednio: sumę kondygnacji lub wysokości części podziemnej i nadziemnej, przy czym do tego ustalenia nie bierze się pod uwagę tych części podziemnych budynku, które są oddzielone elementami oddzielenia przeciwpożarowego o klasie odporności ogniowej co najmniej R E I 120, zgodnie z oznaczeniem pod tabelą w § 216 ust. 1, i mają bezpośrednie wyjścia na zewnątrz.
+5. Jeżeli część podziemna budynku jest zaliczona do ZL, klasę odporności pożarowej budynku ustala się, przyjmując jako liczbę jego kondygnacji lub jego wysokość odpowiednio: sumę kondygnacji lub wysokości części podziemnej i nadziemnej, przy czym do tego ustalenia nie bierze się pod uwagę tych części podziemnych budynku, które są oddzielone elementami oddzielenia przeciwpożarowego o klasie odporności ogniowej co najmniej R E I 120, zgodnie z oznaczeniem pod tabelą w [§ 216](#par-216) ust. 1, i mają bezpośrednie wyjścia na zewnątrz.
 
 6. W budynku wielokondygnacyjnym, którego kondygnacje są zaliczone do różnych kategorii ZL lub PM, klasy odporności pożarowej określa się dla poszczególnych kondygnacji odrębnie, zgodnie z zasadami określonymi w ust. 2-4.
 
 7. Klasa odporności pożarowej części budynku nie powinna być niższa od klasy odporności pożarowej części budynku położonej nad nią, przy czym dla części podziemnej nie powinna być ona niższa niż „C”.
 
-8. Jeżeli w budynku znajdują się pomieszczenia produkcyjne, magazynowe lub techniczne, niepowiązane funkcjonalnie z częścią budynku zaliczoną do ZL, pomieszczenia te powinny stanowić odrębną strefę pożarową, dla której oddzielnie ustala się klasę odporności pożarowej, zgodnie z zasadami określonymi w ust. 4, z zastrzeżeniem § 220.
+8. Jeżeli w budynku znajdują się pomieszczenia produkcyjne, magazynowe lub techniczne, niepowiązane funkcjonalnie z częścią budynku zaliczoną do ZL, pomieszczenia te powinny stanowić odrębną strefę pożarową, dla której oddzielnie ustala się klasę odporności pożarowej, zgodnie z zasadami określonymi w ust. 4, z zastrzeżeniem [§ 220](#par-220).
 
 9. Pomieszczenia, w których są umieszczone przeciwpożarowe zbiorniki wody lub innych środków gaśniczych, pompy wodne instalacji przeciwpożarowych, maszynownie wentylacji do celów przeciwpożarowych oraz rozdzielnie elektryczne, zasilające, niezbędne podczas pożaru, instalacje i urządzenia, powinny stanowić odrębną strefę pożarową.
 
 <a id="par-213"></a>
 ### § 213.
 
-Wymagania dotyczące klasy odporności pożarowej budynków określone w § 212 oraz dotyczące klas odporności ogniowej elementów budynków i rozprzestrzeniania ognia przez te elementy określone w § 216, z zastrzeżeniem § 271 ust. 8a, nie dotyczą budynków:
+Wymagania dotyczące klasy odporności pożarowej budynków określone w [§ 212](#par-212) oraz dotyczące klas odporności ogniowej elementów budynków i rozprzestrzeniania ognia przez te elementy określone w [§ 216](#par-216), z zastrzeżeniem [§ 271](#par-271) ust. 8a, nie dotyczą budynków:
 
 1) do trzech kondygnacji nadziemnych włącznie:
 
-a) mieszkalnych: jednorodzinnych, zagrodowych i rekreacji indywidualnej, z zastrzeżeniem § 217 ust. 2,
+a) mieszkalnych: jednorodzinnych, zagrodowych i rekreacji indywidualnej, z zastrzeżeniem [§ 217](#par-217) ust. 2,
 
 b) mieszkalnych i administracyjnych w gospodarstwach leśnych;
 
@@ -2963,7 +3366,7 @@ c) o kubaturze brutto do 1000 m 3 przeznaczonych do wykonywania zawodu lub dzia�
 
 W budynkach wyposażonych w stałe samoczynne urządzenia gaśnicze wodne, z wyjątkiem budynków ZL II oraz wielokondygnacyjnych budynków wysokich (W) i wysokościowych (WW), dopuszcza się:
 
-1) obniżenie klasy odporności pożarowej budynku o jedną w stosunku do wynikającej z § 212;
+1) obniżenie klasy odporności pożarowej budynku o jedną w stosunku do wynikającej z [§ 212](#par-212);
 
 2) przyjęcie klasy „E” odporności pożarowej dla budynku jednokondygnacyjnego.
 
@@ -2976,14 +3379,14 @@ W budynkach wyposażonych w stałe samoczynne urządzenia gaśnicze wodne, z wyj
 
 2) samoczynnych urządzeń oddymiających w strefach pożarowych o powierzchni przekraczającej 1000 m 2.
 
-2. Obniżenie klasy odporności pożarowej budynku, w przypadkach wymienionych w ust. 1 oraz w § 214, nie zwalnia z zachowania wymaganej pierwotnie klasy odporności ogniowej elementów oddzielenia przeciwpożarowego, określonej w § 232.
+2. Obniżenie klasy odporności pożarowej budynku, w przypadkach wymienionych w ust. 1 oraz w [§ 214](#par-214), nie zwalnia z zachowania wymaganej pierwotnie klasy odporności ogniowej elementów oddzielenia przeciwpożarowego, określonej w [§ 232](#par-232).
 
 <a id="par-216"></a>
 ### § 216.
 
-1. Elementy budynku, odpowiednio do jego klasy odporności pożarowej, powinny spełniać, z zastrzeżeniem § 213 oraz § 237 ust. 9, co najmniej wymagania określone w poniższej tabeli:
+1. Elementy budynku, odpowiednio do jego klasy odporności pożarowej, powinny spełniać, z zastrzeżeniem [§ 213](#par-213) oraz [§ 237](#par-237) ust. 9, co najmniej wymagania określone w poniższej tabeli:
 
-*) Z zastrzeżeniem § 219 ust. 1.
+*) Z zastrzeżeniem [§ 219](#par-219) ust. 1.
 
 Oznaczenia w tabeli:
 
@@ -2999,7 +3402,7 @@ I - izolacyjność ogniowa (w minutach), określona jw.,
 
 2) Klasa odporności ogniowej dotyczy pasa międzykondygnacyjnego wraz z połączeniem ze stropem.
 
-3) Wymagania nie dotyczą naświetli dachowych, świetlików, lukarn i okien połaciowych (z zastrzeżeniem § 218), jeśli otwory w połaci dachowej nie zajmują więcej niż 20% jej powierzchni; nie dotyczą także budynku, w którym nad najwyższą kondygnacją znajduje się strop albo inna przegroda, spełniająca kryteria określone w kol. 4.
+3) Wymagania nie dotyczą naświetli dachowych, świetlików, lukarn i okien połaciowych (z zastrzeżeniem [§ 218](#par-218)), jeśli otwory w połaci dachowej nie zajmują więcej niż 20% jej powierzchni; nie dotyczą także budynku, w którym nad najwyższą kondygnacją znajduje się strop albo inna przegroda, spełniająca kryteria określone w kol. 4.
 
 4) Dla ścian komór zsypu wymaga się klasy E I 60, a dla drzwi komór zsypu klasy E I 30.
 
@@ -3025,7 +3428,7 @@ I - izolacyjność ogniowa (w minutach), określona jw.,
 
 6. Dopuszcza się stosowanie klap dymowych z materiałów łatwo zapalnych w dachach i stropodachach.
 
-7. Strop tworzący w pomieszczeniu dodatkowy poziom - antresolę, przeznaczoną do użytku dla więcej niż 10 osób, a także jej konstrukcja nośna, powinny odpowiadać wymaganiom wynikającym z klasy odporności pożarowej budynku, lecz nie mniejszym niż dla klasy „D”, z zastrzeżeniem § 214.
+7. Strop tworzący w pomieszczeniu dodatkowy poziom - antresolę, przeznaczoną do użytku dla więcej niż 10 osób, a także jej konstrukcja nośna, powinny odpowiadać wymaganiom wynikającym z klasy odporności pożarowej budynku, lecz nie mniejszym niż dla klasy „D”, z zastrzeżeniem [§ 214](#par-214).
 
 8. W budynku, na wysokości powyżej 25 m od poziomu terenu, okładzina elewacyjna i jej zamocowanie mechaniczne, a także izolacja cieplna ściany zewnętrznej, powinny być wykonane z materiałów niepalnych.
 
@@ -3034,7 +3437,7 @@ I - izolacyjność ogniowa (w minutach), określona jw.,
 <a id="par-217"></a>
 ### § 217.
 
-1. W budynkach ZL IV i ZL V klasa odporności ogniowej przegród wewnętrznych oddzielających mieszkania lub samodzielne pomieszczenia mieszkalne od dróg komunikacji ogólnej oraz od innych mieszkań i samodzielnych pomieszczeń mieszkalnych, z zastrzeżeniem § 216 ust. 1, powinna wynosić co najmniej:
+1. W budynkach ZL IV i ZL V klasa odporności ogniowej przegród wewnętrznych oddzielających mieszkania lub samodzielne pomieszczenia mieszkalne od dróg komunikacji ogólnej oraz od innych mieszkań i samodzielnych pomieszczeń mieszkalnych, z zastrzeżeniem [§ 216](#par-216) ust. 1, powinna wynosić co najmniej:
 
 1) dla ścian w budynku:
 
@@ -3046,12 +3449,12 @@ b) wysokim i wysokościowym - E I 60;
 
 2. Klasa odporności ogniowej ściany oddzielającej segmenty jednorodzinnych budynków ZL IV: bliźniaczych, szeregowych lub atrialnych, powinna wynosić co najmniej - R E I 60.
 
-3. W mieszkaniach oraz w samodzielnych pomieszczeniach mieszkalnych dopuszcza się wykonywanie ścian wewnętrznych nierozprzestrzeniających ognia, bez wymaganej w § 216 ust. 1 w kolumnie 6 tabeli klasy odporności ogniowej.
+3. W mieszkaniach oraz w samodzielnych pomieszczeniach mieszkalnych dopuszcza się wykonywanie ścian wewnętrznych nierozprzestrzeniających ognia, bez wymaganej w [§ 216](#par-216) ust. 1 w kolumnie 6 tabeli klasy odporności ogniowej.
 
 <a id="par-218"></a>
 ### § 218.
 
-1. Przekrycie dachu budynku niższego, usytuowanego bliżej niż 8 m lub przyległego do ściany z otworami budynku wyższego, z wyjątkiem przypadków wymienionych w § 273 ust. 1, w pasie o szerokości 8 m od tej ściany powinno być nierozprzestrzeniające ognia oraz w pasie tym:
+1. Przekrycie dachu budynku niższego, usytuowanego bliżej niż 8 m lub przyległego do ściany z otworami budynku wyższego, z wyjątkiem przypadków wymienionych w [§ 273](#par-273) ust. 1, w pasie o szerokości 8 m od tej ściany powinno być nierozprzestrzeniające ognia oraz w pasie tym:
 
 1) konstrukcja dachu powinna mieć klasę odporności ogniowej co najmniej R 30;
 
@@ -3081,7 +3484,7 @@ b) wysokim i wysokościowym - E I 60;
 
 *) Wymaganie nie dotyczy budynków mieszkalnych jednorodzinnych, budynków mieszkalnych w zabudowie zagrodowej oraz budynków rekreacji indywidualnej.
 
-2. Dla pomieszczeń, o których mowa w ust. 1, klasę odporności ogniowej ścian zewnętrznych należy przyjmować zgodnie z § 216.
+2. Dla pomieszczeń, o których mowa w ust. 1, klasę odporności ogniowej ścian zewnętrznych należy przyjmować zgodnie z [§ 216](#par-216).
 
 3. Nie stawia się wymagań w zakresie klasy odporności ogniowej dla przegród zewnętrznych kotłowni z kotłami na paliwo gazowe, zlokalizowanej ponad dachem budynku, przy zachowaniu warunku, iż przegrody te powinny być wykonane z materiałów niepalnych.
 
@@ -3104,7 +3507,7 @@ b) wysokim i wysokościowym - E I 60;
 <a id="par-223"></a>
 ### § 223.
 
-1. W ścianach zewnętrznych budynku wielokondygnacyjnego, z zastrzeżeniem § 224, powinny być pasy międzykondygnacyjne o wysokości co najmniej 0,8 m.
+1. W ścianach zewnętrznych budynku wielokondygnacyjnego, z zastrzeżeniem [§ 224](#par-224), powinny być pasy międzykondygnacyjne o wysokości co najmniej 0,8 m.
 
 2. Za równorzędne rozwiązania uznaje się oddzielenia poziome w formie daszków, gzymsów i balkonów o wysięgu co najmniej 0,5 m lub też inne oddzielenia poziome i pionowe o sumie wysięgu i wymiaru pionowego co najmniej 0,8 m.
 
@@ -3117,22 +3520,22 @@ b) wysokim i wysokościowym - E I 60;
 
 1. W ścianach zewnętrznych budynku wielokondygnacyjnego nad strefą pożarową PM, o gęstości obciążenia ogniowego powyżej 1000 MJ/m 2, wysokość pasa międzykondygnacyjnego powinna wynosić co najmniej 1,2 m.
 
-2. Za równorzędne rozwiązanie uznaje się oddzielenie poziome w formie daszków, gzymsów i balkonów o wysięgu co najmniej 0,8 m lub też inne oddzielenie poziome i pionowe o sumie wymiaru pionowego i wysięgu co najmniej 1,2 m, z zachowaniem warunków określonych w § 223 ust. 3.
+2. Za równorzędne rozwiązanie uznaje się oddzielenie poziome w formie daszków, gzymsów i balkonów o wysięgu co najmniej 0,8 m lub też inne oddzielenie poziome i pionowe o sumie wymiaru pionowego i wysięgu co najmniej 1,2 m, z zachowaniem warunków określonych w [§ 223](#par-223) ust. 3.
 
 <a id="par-225"></a>
 ### § 225.
 
-Elementy okładzin elewacyjnych powinny być mocowane do konstrukcji budynku w sposób uniemożliwiający ich odpadanie w przypadku pożaru w czasie krótszym niż wynikający z wymaganej klasy odporności ogniowej dla ściany zewnętrznej, określonej w § 216 ust. 1, odpowiednio do klasy odporności pożarowej budynku, w którym są one zamocowane.
+Elementy okładzin elewacyjnych powinny być mocowane do konstrukcji budynku w sposób uniemożliwiający ich odpadanie w przypadku pożaru w czasie krótszym niż wynikający z wymaganej klasy odporności ogniowej dla ściany zewnętrznej, określonej w [§ 216](#par-216) ust. 1, odpowiednio do klasy odporności pożarowej budynku, w którym są one zamocowane.
 
-<a id="rozdzial-3"></a>
+<a id="rozdzial-3-3"></a>
 ### Rozdział 3. Strefy pożarowe i oddzielenia przeciwpożarowe
 
 <a id="par-226"></a>
 ### § 226.
 
-1. Strefę pożarową stanowi budynek albo jego część oddzielona od innych budynków lub innych części budynku elementami oddzielenia przeciwpożarowego, o których mowa w § 232 ust. 4, bądź też pasami wolnego terenu o szerokości nie mniejszej niż dopuszczalne odległości od innych budynków, określone w § 271 ust. 1-7.
+1. Strefę pożarową stanowi budynek albo jego część oddzielona od innych budynków lub innych części budynku elementami oddzielenia przeciwpożarowego, o których mowa w [§ 232](#par-232) ust. 4, bądź też pasami wolnego terenu o szerokości nie mniejszej niż dopuszczalne odległości od innych budynków, określone w [§ 271](#par-271) ust. 1-7.
 
-2. Częścią budynku, o której mowa w ust. 1, jest także jego kondygnacja, jeżeli klatki schodowe i szyby dźwigowe w tym budynku spełniają co najmniej wymagania określone w § 256 ust. 2 dla klatek schodowych.
+2. Częścią budynku, o której mowa w ust. 1, jest także jego kondygnacja, jeżeli klatki schodowe i szyby dźwigowe w tym budynku spełniają co najmniej wymagania określone w [§ 256](#par-256) ust. 2 dla klatek schodowych.
 
 3. Powierzchnia strefy pożarowej jest obliczana jako powierzchnia wewnętrzna budynku lub jego części, przy czym wlicza się do niej także powierzchnię antresoli.
 
@@ -3167,7 +3570,7 @@ Przy jednoczesnym stosowaniu urządzeń wymienionych w pkt 1 i 2 dopuszcza się 
 <a id="par-229"></a>
 ### § 229.
 
-1. Dopuszcza się powiększenie powierzchni stref pożarowych, o których mowa w § 228, pod warunkiem ich ochrony:
+1. Dopuszcza się powiększenie powierzchni stref pożarowych, o których mowa w [§ 228](#par-228), pod warunkiem ich ochrony:
 
 1) stałymi samoczynnymi urządzeniami gaśniczymi wodnymi - o 100%;
 
@@ -3196,13 +3599,13 @@ Przy jednoczesnym stosowaniu urządzeń wymienionych w pkt 1 i 2 dopuszcza się 
 
 2. W ścianie oddzielenia przeciwpożarowego łączna powierzchnia otworów, o których mowa w ust. 1, nie powinna przekraczać 15% powierzchni ściany, a w stropie oddzielenia przeciwpożarowego - 0,5% powierzchni stropu. Ograniczenia nie stosuje się do otworów w ścianach oddzielenia przeciwpożarowego w garażu, które znajdują się na drogach manewrowych.
 
-3. Przedsionek przeciwpożarowy powinien mieć wymiary rzutu poziomego nie mniejsze niż 1,4 x 1,4 m, ściany i strop, a także osłony lub obudowy przewodów i kabli elektrycznych z wyjątkiem wykorzystywanych w przedsionku oraz z wyjątkiem zespołów kablowych, o których mowa w § 187 ust. 3 - o klasie odporności ogniowej co najmniej E I 60 wykonane z materiałów niepalnych oraz powinien być zamykany drzwiami i wentylowany co najmniej grawitacyjnie, z zastrzeżeniem § 246 ust. 2 i 3.
+3. Przedsionek przeciwpożarowy powinien mieć wymiary rzutu poziomego nie mniejsze niż 1,4 x 1,4 m, ściany i strop, a także osłony lub obudowy przewodów i kabli elektrycznych z wyjątkiem wykorzystywanych w przedsionku oraz z wyjątkiem zespołów kablowych, o których mowa w [§ 187](#par-187) ust. 3 - o klasie odporności ogniowej co najmniej E I 60 wykonane z materiałów niepalnych oraz powinien być zamykany drzwiami i wentylowany co najmniej grawitacyjnie, z zastrzeżeniem [§ 246](#par-246) ust. 2 i 3.
 
 4. Wymaganą klasę odporności ogniowej elementów oddzielenia przeciwpożarowego oraz zamknięć znajdujących się w nich otworów określa poniższa tabela:
 
 *) Dopuszcza się osadzenie tych drzwi w ścianie o klasie odporności ogniowej, określonej dla drzwi w kol. 6, znajdującej się między przedsionkiem a klatką schodową.
 
-5. Klasa odporności ogniowej elementów oddzielenia przeciwpożarowego oraz zamknięć znajdujących się w nich otworów w budynkach, o których mowa w § 213, powinna być nie mniejsza od określonej w ust. 4 dla budynków o klasie odporności pożarowej „D” i „E”.
+5. Klasa odporności ogniowej elementów oddzielenia przeciwpożarowego oraz zamknięć znajdujących się w nich otworów w budynkach, o których mowa w [§ 213](#par-213), powinna być nie mniejsza od określonej w ust. 4 dla budynków o klasie odporności pożarowej „D” i „E”.
 
 6. W ścianie oddzielenia przeciwpożarowego dopuszcza się wypełnienie otworów materiałem przepuszczającym światło, takim jak luksfery, cegła szklana lub inne przeszklenie, jeżeli powierzchnia wypełnionych otworów nie przekracza 10% powierzchni ściany, przy czym klasa odporności ogniowej wypełnień nie powinna być niższa niż:
 
@@ -3241,7 +3644,7 @@ Przy jednoczesnym stosowaniu urządzeń wymienionych w pkt 1 i 2 dopuszcza się 
 
 4. W budynku, z wyjątkiem zabudowy jednorodzinnej, w dachu którego znajdują się świetliki lub klapy dymowe, ściany oddzielenia przeciwpożarowego usytuowane od nich w odległości poziomej mniejszej niż 5 m, należy wyprowadzić ponad górną ich krawędź na wysokość co najmniej 0,3 m, przy czym wymaganie to nie dotyczy świetlików nieotwieranych o klasie odporności ogniowej co najmniej E 30.
 
-<a id="rozdzial-4"></a>
+<a id="rozdzial-4-3"></a>
 ### Rozdział 4. Drogi ewakuacyjne
 
 <a id="par-236"></a>
@@ -3249,13 +3652,13 @@ Przy jednoczesnym stosowaniu urządzeń wymienionych w pkt 1 i 2 dopuszcza się 
 
 1. Z pomieszczeń przeznaczonych na pobyt ludzi powinna być zapewniona możliwość ewakuacji w bezpieczne miejsce na zewnątrz budynku lub do sąsiedniej strefy pożarowej, bezpośrednio albo drogami komunikacji ogólnej, zwanymi dalej „drogami ewakuacyjnymi”.
 
-2. Ze strefy pożarowej, o której mowa w ust. 1, powinno być wyjście bezpośrednio na zewnątrz budynku lub przez inną strefę pożarową, z zastrzeżeniem § 227 ust. 5.
+2. Ze strefy pożarowej, o której mowa w ust. 1, powinno być wyjście bezpośrednio na zewnątrz budynku lub przez inną strefę pożarową, z zastrzeżeniem [§ 227](#par-227) ust. 5.
 
 3. Wyjścia z pomieszczeń na drogi ewakuacyjne powinny być zamykane drzwiami.
 
 4. Drzwi stanowiące wyjście ewakuacyjne z budynku przeznaczonego dla więcej niż 50 osób powinny otwierać się na zewnątrz. Wymaganie to nie dotyczy budynku wpisanego do rejestru zabytków.
 
-5. W wyjściu ewakuacyjnym z budynku dopuszcza się stosowanie drzwi rozsuwanych spełniających wymagania określone w § 240 ust. 4.
+5. W wyjściu ewakuacyjnym z budynku dopuszcza się stosowanie drzwi rozsuwanych spełniających wymagania określone w [§ 240](#par-240) ust. 4.
 
 6. Określając wymaganą szerokość i liczbę przejść, wyjść oraz dróg ewakuacyjnych w budynku, w którym z przeznaczenia i sposobu zagospodarowania pomieszczeń nie wynika jednoznacznie maksymalna liczba ich użytkowników, liczbę tę należy przyjmować w odniesieniu do powierzchni tych pomieszczeń, dla:
 
@@ -3298,9 +3701,9 @@ Przy jednoczesnym stosowaniu urządzeń wymienionych w pkt 1 i 2 dopuszcza się 
 
 8. Przejście, o którym mowa w ust. 1, nie powinno prowadzić łącznie przez więcej niż trzy pomieszczenia.
 
-9. Ścianek działowych oddzielających od siebie pomieszczenia, dla których określa się łącznie długość przejścia ewakuacyjnego, nie dotyczą wymagania określone w § 216 ust. 1.
+9. Ścianek działowych oddzielających od siebie pomieszczenia, dla których określa się łącznie długość przejścia ewakuacyjnego, nie dotyczą wymagania określone w [§ 216](#par-216) ust. 1.
 
-10. Szerokość przejścia ewakuacyjnego w pomieszczeniu przeznaczonym na pobyt ludzi, z zastrzeżeniem § 261, należy obliczać proporcjonalnie do liczby osób, do których ewakuacji ono służy, przyjmując co najmniej 0,6 m na 100 osób, lecz nie mniej niż 0,9 m, a w przypadku przejścia służącego do ewakuacji do 3 osób - nie mniej niż 0,8 m.
+10. Szerokość przejścia ewakuacyjnego w pomieszczeniu przeznaczonym na pobyt ludzi, z zastrzeżeniem [§ 261](#par-261), należy obliczać proporcjonalnie do liczby osób, do których ewakuacji ono służy, przyjmując co najmniej 0,6 m na 100 osób, lecz nie mniej niż 0,9 m, a w przypadku przejścia służącego do ewakuacji do 3 osób - nie mniej niż 0,8 m.
 
 <a id="par-238"></a>
 ### § 238.
@@ -3332,13 +3735,13 @@ Pomieszczenie powinno mieć co najmniej dwa wyjścia ewakuacyjne oddalone od sie
 
 4) przeznaczonych dla ponad 6 osób o ograniczonej zdolności poruszania się.
 
-3. Wyjścia ewakuacyjne z pomieszczenia zagrożonego wybuchem na drogę ewakuacyjną powinny prowadzić przez przedsionki przeciwpożarowe odpowiadające wymaganiom § 232.
+3. Wyjścia ewakuacyjne z pomieszczenia zagrożonego wybuchem na drogę ewakuacyjną powinny prowadzić przez przedsionki przeciwpożarowe odpowiadające wymaganiom [§ 232](#par-232).
 
-4. Szerokość drzwi stanowiących wyjście ewakuacyjne z budynku, z zastrzeżeniem ust. 1, a także szerokość drzwi na drodze ewakuacyjnej z klatki schodowej, prowadzących na zewnątrz budynku lub do innej strefy pożarowej, powinna być nie mniejsza niż szerokość biegu klatki schodowej, określona zgodnie z § 68 ust. 1 i 2.
+4. Szerokość drzwi stanowiących wyjście ewakuacyjne z budynku, z zastrzeżeniem ust. 1, a także szerokość drzwi na drodze ewakuacyjnej z klatki schodowej, prowadzących na zewnątrz budynku lub do innej strefy pożarowej, powinna być nie mniejsza niż szerokość biegu klatki schodowej, określona zgodnie z [§ 68](#par-68) ust. 1 i 2.
 
 5. Szerokość drzwi w świetle na drodze ewakuacyjnej, niewymienionych w ust. 4, należy obliczać proporcjonalnie do liczby osób, do których ewakuacji są one przeznaczone, przyjmując co najmniej 0,6 m szerokości na 100 osób, przy czym najmniejsza szerokość drzwi powinna wynosić 0,9 m w świetle ościeżnicy.
 
-6. Wysokość drzwi, o których mowa w ust. 1, 4 i 5, powinna odpowiadać wymaganiom § 62 ust. 1.
+6. Wysokość drzwi, o których mowa w ust. 1, 4 i 5, powinna odpowiadać wymaganiom [§ 62](#par-62) ust. 1.
 
 <a id="par-240"></a>
 ### § 240.
@@ -3364,7 +3767,7 @@ Pomieszczenie powinno mieć co najmniej dwa wyjścia ewakuacyjne oddalone od sie
 <a id="par-241"></a>
 ### § 241.
 
-1. Obudowa poziomych dróg ewakuacyjnych powinna mieć klasę odporności ogniowej wymaganą dla ścian wewnętrznych, nie mniejszą jednak niż E I 15, z uwzględnieniem § 217. Wymaganie klasy odporności ogniowej dla obudowy poziomych dróg ewakuacyjnych nie dotyczy obudowy krytego ciągu pieszego - pasażu, o którym mowa w § 247 ust. 2.
+1. Obudowa poziomych dróg ewakuacyjnych powinna mieć klasę odporności ogniowej wymaganą dla ścian wewnętrznych, nie mniejszą jednak niż E I 15, z uwzględnieniem [§ 217](#par-217). Wymaganie klasy odporności ogniowej dla obudowy poziomych dróg ewakuacyjnych nie dotyczy obudowy krytego ciągu pieszego - pasażu, o którym mowa w [§ 247](#par-247) ust. 2.
 
 2. W ścianach wewnętrznych, stanowiących obudowę dróg ewakuacyjnych w strefach pożarowych ZL III i PM, dopuszcza się umieszczenie nieotwieranych naświetli powyżej 2 m od poziomu posadzki, jeżeli przylegające pomieszczenia nie są zagrożone wybuchem i jeżeli gęstość obciążenia ogniowego w tych pomieszczeniach nie przekracza 1000 MJ/m 2.
 
@@ -3399,7 +3802,7 @@ Pomieszczenie powinno mieć co najmniej dwa wyjścia ewakuacyjne oddalone od sie
 
 2) schodów ze stopniami zabiegowymi, jeżeli schody te są jedyną drogą ewakuacyjną.
 
-2. Na drogach ewakuacyjnych dopuszcza się stosowanie schodów wachlarzowych, pod warunkiem zachowania najmniejszej szerokości stopni określonych w § 69 ust. 6.
+2. Na drogach ewakuacyjnych dopuszcza się stosowanie schodów wachlarzowych, pod warunkiem zachowania najmniejszej szerokości stopni określonych w [§ 69](#par-69) ust. 6.
 
 3. Na drogach ewakuacyjnych miejsca, w których zastosowano pochylnie lub stopnie umożliwiające pokonanie różnicy poziomów, powinny być wyraźnie oznakowane.
 
@@ -3419,7 +3822,7 @@ Klatki schodowe przeznaczone do ewakuacji ze strefy pożarowej:
 <a id="par-246"></a>
 ### § 246.
 
-1. W budynku wysokim (W) i wysokościowym (WW), z zastrzeżeniem ust. 4, należy zapewnić możliwość ewakuacji do co najmniej dwóch klatek schodowych, które powinny być obudowane i oddzielone od poziomych dróg komunikacyjnych lub ewakuacyjnych oraz pomieszczeń, przedsionkiem przeciwpożarowym, odpowiadającym wymaganiom określonym w § 232.
+1. W budynku wysokim (W) i wysokościowym (WW), z zastrzeżeniem ust. 4, należy zapewnić możliwość ewakuacji do co najmniej dwóch klatek schodowych, które powinny być obudowane i oddzielone od poziomych dróg komunikacyjnych lub ewakuacyjnych oraz pomieszczeń, przedsionkiem przeciwpożarowym, odpowiadającym wymaganiom określonym w [§ 232](#par-232).
 
 2. Klatki schodowe i przedsionki przeciwpożarowe, stanowiące drogę ewakuacyjną w budynku wysokim (W) dla stref pożarowych innych niż ZL IV i PM oraz w budynku wysokościowym (WW), powinny być wyposażone w urządzenia zapobiegające ich zadymieniu.
 
@@ -3458,7 +3861,7 @@ Schody wewnętrzne w mieszkaniach w budynku wielorodzinnym oraz w budynku jednor
 <a id="par-249"></a>
 ### § 249.
 
-1. Ściany wewnętrzne i stropy stanowiące obudowę klatki schodowej lub pochylni powinny mieć klasę odporności ogniowej określoną zgodnie z § 216, jak dla stropów budynku.
+1. Ściany wewnętrzne i stropy stanowiące obudowę klatki schodowej lub pochylni powinny mieć klasę odporności ogniowej określoną zgodnie z [§ 216](#par-216), jak dla stropów budynku.
 
 2. (uchylony).
 
@@ -3472,7 +3875,7 @@ Schody wewnętrzne w mieszkaniach w budynku wielorodzinnym oraz w budynku jednor
 
 5. W budynku niskim o klasie odporności pożarowej „D” lub „E” w obudowanych klatkach schodowych, zamykanych drzwiami o klasie odporności ogniowej co najmniej E I 30, dopuszcza się wykonanie biegów i spoczników schodów z materiałów palnych.
 
-6. Odległość między ścianą zewnętrzną, stanowiącą obudowę klatki schodowej przeznaczonej do ewakuacji, o której mowa w § 245, 246 i 256 ust. 2, a inną ścianą zewnętrzną tego samego lub innego budynku powinna być ustalona zgodnie z § 271. Przepisu nie stosuje się, jeżeli co najmniej jedna z tych ścian posiada co najmniej klasę odporności ogniowej zgodnie z § 216, jak dla stropu budynku z tą klatką schodową, w pasie terenu określonym zgodnie z § 271.
+6. Odległość między ścianą zewnętrzną, stanowiącą obudowę klatki schodowej przeznaczonej do ewakuacji, o której mowa w [§ 245](#par-245), 246 i 256 ust. 2, a inną ścianą zewnętrzną tego samego lub innego budynku powinna być ustalona zgodnie z [§ 271](#par-271). Przepisu nie stosuje się, jeżeli co najmniej jedna z tych ścian posiada co najmniej klasę odporności ogniowej zgodnie z [§ 216](#par-216), jak dla stropu budynku z tą klatką schodową, w pasie terenu określonym zgodnie z [§ 271](#par-271).
 
 <a id="par-250"></a>
 ### § 250.
@@ -3500,9 +3903,9 @@ Schodów i pochylni ruchomych nie zalicza się do dróg ewakuacyjnych.
 
 1. W budynku ZL I, ZL II, ZL III lub ZL V, mającym kondygnację z posadzką na wysokości powyżej 25 m ponad poziomem terenu przy najniżej położonym wejściu do budynku oraz w budynku wysokościowym (WW) ZL IV przynajmniej jeden dźwig powinien być przystosowany do potrzeb ekip ratowniczych, spełniając wymagania Polskiej Normy dotyczącej dźwigów dla straży pożarnej. Dźwig dla ekip ratowniczych powinien zapewniać dostęp do każdej strefy pożarowej na kondygnacji bezpośrednio lub drogami komunikacji ogólnej.
 
-2. Dojście do dźwigu dla ekip ratowniczych powinno prowadzić przez przedsionek przeciwpożarowy spełniający wymagania określone w § 232.
+2. Dojście do dźwigu dla ekip ratowniczych powinno prowadzić przez przedsionek przeciwpożarowy spełniający wymagania określone w [§ 232](#par-232).
 
-3. Ściany i stropy szybu dźwigu dla ekip ratowniczych powinny mieć klasę odporności ogniowej wymaganą jak dla stropów budynku, zgodnie z § 216.
+3. Ściany i stropy szybu dźwigu dla ekip ratowniczych powinny mieć klasę odporności ogniowej wymaganą jak dla stropów budynku, zgodnie z [§ 216](#par-216).
 
 4. Szyb dźwigu dla ekip ratowniczych powinien być wyposażony w urządzenia zapobiegające zadymieniu. **§ 254. ** (uchylony).
 
@@ -3516,7 +3919,7 @@ Schodów i pochylni ruchomych nie zalicza się do dróg ewakuacyjnych.
 
 1. Długość drogi ewakuacyjnej od wyjścia z pomieszczenia na tę drogę do wyjścia do innej strefy pożarowej lub na zewnątrz budynku, zwanej dalej „dojściem ewakuacyjnym”, mierzy się wzdłuż osi drogi ewakuacyjnej. W przypadku zakończenia dojścia ewakuacyjnego przedsionkiem przeciwpożarowym, długość tę mierzy się do pierwszych drzwi tego przedsionka.
 
-2. Za równorzędne wyjściu do innej strefy pożarowej, o którym mowa w ust. 1, uważa się wyjście do obudowanej klatki schodowej, zamykanej drzwiami o klasie odporności ogniowej co najmniej E I 30, wyposażonej w urządzenia zapobiegające zadymieniu lub służące do usuwania dymu, a w przypadku, o którym mowa w § 246 ust. 5 - zamykanej drzwiami dymoszczelnymi.
+2. Za równorzędne wyjściu do innej strefy pożarowej, o którym mowa w ust. 1, uważa się wyjście do obudowanej klatki schodowej, zamykanej drzwiami o klasie odporności ogniowej co najmniej E I 30, wyposażonej w urządzenia zapobiegające zadymieniu lub służące do usuwania dymu, a w przypadku, o którym mowa w [§ 246](#par-246) ust. 5 - zamykanej drzwiami dymoszczelnymi.
 
 3. Dopuszczalne długości dojść ewakuacyjnych w strefach pożarowych określa poniższa tabela:
 
@@ -3532,7 +3935,7 @@ Schodów i pochylni ruchomych nie zalicza się do dróg ewakuacyjnych.
 
 Przy jednoczesnym stosowaniu tych urządzeń długość dojścia może być powiększona o 100%.
 
-5. Wyjście z klatki schodowej, o której mowa w ust. 2, powinno prowadzić na zewnątrz budynku, bezpośrednio lub poziomymi drogami komunikacji ogólnej, których obudowa odpowiada wymaganiom § 249 ust. 1, a otwory w obudowie mają zamknięcia o klasie odporności ogniowej co najmniej E I 30.
+5. Wyjście z klatki schodowej, o której mowa w ust. 2, powinno prowadzić na zewnątrz budynku, bezpośrednio lub poziomymi drogami komunikacji ogólnej, których obudowa odpowiada wymaganiom [§ 249](#par-249) ust. 1, a otwory w obudowie mają zamknięcia o klasie odporności ogniowej co najmniej E I 30.
 
 6. Dopuszcza się przeprowadzenie drogi ewakuacyjnej do wyjścia na zewnątrz budynku z klatki schodowej oraz z poziomych dróg komunikacji ogólnej przez hol, mogący spełniać także funkcje uzupełniające do funkcji wynikających z przeznaczenia budynku, takie jak: recepcyjna, ochrony budynku, drobnej sprzedaży, pod warunkiem że:
 
@@ -3542,11 +3945,11 @@ Przy jednoczesnym stosowaniu tych urządzeń długość dojścia może być powi
 
 3) hol jest oddzielony od poziomych dróg komunikacji ogólnej, tak jak jest to wymagane dla klatki schodowej, o której mowa w pkt 1;
 
-4) wolna szerokość drogi ewakuacyjnej jest co najmniej o 50% większa od szerokości poziomej drogi ewakuacyjnej w budynku, prowadzącej do tego wyjścia, określonej zgodnie z § 242 ust. 1, dla kondygnacji budynku o największej liczbie przewidywanych osób, znajdujących się tam jednocześnie;
+4) wolna szerokość drogi ewakuacyjnej jest co najmniej o 50% większa od szerokości poziomej drogi ewakuacyjnej w budynku, prowadzącej do tego wyjścia, określonej zgodnie z [§ 242](#par-242) ust. 1, dla kondygnacji budynku o największej liczbie przewidywanych osób, znajdujących się tam jednocześnie;
 
 5) wysokość holu w miejscu, w którym przebiega droga ewakuacyjna, jest nie mniejsza niż 3,3 m;
 
-6) szerokość drzwi wyjściowych na zewnątrz budynku jest większa o 50% od minimalnej szerokości drzwi wyjściowych określonej zgodnie z § 239 ust. 4.
+6) szerokość drzwi wyjściowych na zewnątrz budynku jest większa o 50% od minimalnej szerokości drzwi wyjściowych określonej zgodnie z [§ 239](#par-239) ust. 4.
 
 7. Dopuszczalną długość drogi od wyjścia z klatki schodowej, o której mowa w ust. 2, do wyjścia na zewnątrz budynku określa się zgodnie z ust. 3.
 
@@ -3557,9 +3960,9 @@ Przy jednoczesnym stosowaniu tych urządzeń długość dojścia może być powi
 
 2. Drabiny ewakuacyjne należy umieszczać w miejscach łatwo dostępnych. Sytuowanie drabin naprzeciw świetlików i okien jest zabronione.
 
-3. Dopuszcza się wykonywanie drabin ewakuacyjnych bez obręczy ochronnych, gdy różnica wysokości nie przekracza 3 m, z uwzględnieniem wymagań § 101.
+3. Dopuszcza się wykonywanie drabin ewakuacyjnych bez obręczy ochronnych, gdy różnica wysokości nie przekracza 3 m, z uwzględnieniem wymagań [§ 101](#par-101).
 
-<a id="rozdzial-5"></a>
+<a id="rozdzial-5-3"></a>
 ### Rozdział 5. Wymagania przeciwpożarowe dla elementów wykończenia wnętrz i wyposażenia stałego
 
 <a id="par-258"></a>
@@ -3633,7 +4036,7 @@ Pomieszczenia przeznaczone do jednoczesnego przebywania ponad 200 osób dorosły
 
 Palne elementy wystroju wnętrz budynku, przez które lub obok których są prowadzone przewody ogrzewcze, wentylacyjne, dymowe lub spalinowe, powinny być zabezpieczone przed możliwością zapalenia lub zwęglenia.
 
-<a id="rozdzial-6"></a>
+<a id="rozdzial-6-3"></a>
 ### Rozdział 6. Wymagania przeciwpożarowe dla palenisk i instalacji
 
 <a id="par-265"></a>
@@ -3656,7 +4059,7 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 
 3. Dopuszcza się wykonanie obudowy, o której mowa w ust. 2, z cegły pełnej grubości 12 cm, murowanej na zaprawie cementowo-wapiennej, z zewnętrznym tynkiem lub spoinowaniem.
 
-4. Między wylotem przewodu spalinowego i dymowego a najbliższym skrajem korony drzew dorosłych należy zapewnić zachowanie odległości co najmniej 6 m, z zastrzeżeniem § 271 ust. 8.
+4. Między wylotem przewodu spalinowego i dymowego a najbliższym skrajem korony drzew dorosłych należy zapewnić zachowanie odległości co najmniej 6 m, z zastrzeżeniem [§ 271](#par-271) ust. 8.
 
 <a id="par-267"></a>
 ### § 267.
@@ -3740,15 +4143,15 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 
 2. Przewody wentylacji oddymiającej, obsługujące:
 
-1) wyłącznie jedną strefę pożarową, powinny mieć klasę odporności ogniowej z uwagi na szczelność ogniową i dymoszczelność - E 600 S, co najmniej taką jak klasa odporności ogniowej stropu określona w § 216, przy czym dopuszcza się stosowanie klasy E 300 S, jeżeli wynikająca z obliczeń temperatura dymu powstającego w czasie pożaru nie przekracza 300°C;
+1) wyłącznie jedną strefę pożarową, powinny mieć klasę odporności ogniowej z uwagi na szczelność ogniową i dymoszczelność - E 600 S, co najmniej taką jak klasa odporności ogniowej stropu określona w [§ 216](#par-216), przy czym dopuszcza się stosowanie klasy E 300 S, jeżeli wynikająca z obliczeń temperatura dymu powstającego w czasie pożaru nie przekracza 300°C;
 
-2) więcej niż jedną strefę pożarową, powinny mieć klasę odporności ogniowej E I S, co najmniej taką jak klasa odporności ogniowej stropu określona w § 216.
+2) więcej niż jedną strefę pożarową, powinny mieć klasę odporności ogniowej E I S, co najmniej taką jak klasa odporności ogniowej stropu określona w [§ 216](#par-216).
 
 3. Klapy odcinające do przewodów wentylacji oddymiającej, obsługujące:
 
-1) wyłącznie jedną strefę pożarową, powinny być uruchamiane automatycznie i mieć klasę odporności ogniowej z uwagi na szczelność ogniową i dymoszczelność - E 600 S AA, co najmniej taką jak klasa odporności ogniowej stropu określona w § 216, przy czym dopuszcza się stosowanie klasy E 300 S AA, jeżeli wynikająca z obliczeń temperatura dymu powstającego w czasie pożaru nie przekracza 300°C;
+1) wyłącznie jedną strefę pożarową, powinny być uruchamiane automatycznie i mieć klasę odporności ogniowej z uwagi na szczelność ogniową i dymoszczelność - E 600 S AA, co najmniej taką jak klasa odporności ogniowej stropu określona w [§ 216](#par-216), przy czym dopuszcza się stosowanie klasy E 300 S AA, jeżeli wynikająca z obliczeń temperatura dymu powstającego w czasie pożaru nie przekracza 300°C;
 
-2) więcej niż jedną strefę pożarową, powinny być uruchamiane automatycznie i mieć klasę odporności ogniowej E I S AA, co najmniej taką jak klasa odporności ogniowej stropu określona w § 216.
+2) więcej niż jedną strefę pożarową, powinny być uruchamiane automatycznie i mieć klasę odporności ogniowej E I S AA, co najmniej taką jak klasa odporności ogniowej stropu określona w [§ 216](#par-216).
 
 4. Wentylatory oddymiające powinny mieć klasę:
 
@@ -3762,21 +4165,21 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 
 2) B 600 30 - dla klap otwieranych wyłącznie w sposób ręczny.
 
-<a id="rozdzial-7"></a>
+<a id="rozdzial-7-3"></a>
 ### Rozdział 7. Usytuowanie budynków z uwagi na bezpieczeństwo pożarowe
 
 <a id="par-271"></a>
 ### § 271.
 
-1. Odległość między zewnętrznymi ścianami budynków niebędącymi ścianami oddzielenia przeciwpożarowego, a mającymi na powierzchni większej niż 65% klasę odporności ogniowej (E), określoną w § 216 ust. 1 w 5 kolumnie tabeli, nie powinna, z zastrzeżeniem ust. 2 i 3, być mniejsza niż odległość w metrach określona w poniższej tabeli:
+1. Odległość między zewnętrznymi ścianami budynków niebędącymi ścianami oddzielenia przeciwpożarowego, a mającymi na powierzchni większej niż 65% klasę odporności ogniowej (E), określoną w [§ 216](#par-216) ust. 1 w 5 kolumnie tabeli, nie powinna, z zastrzeżeniem ust. 2 i 3, być mniejsza niż odległość w metrach określona w poniższej tabeli:
 
 2. Jeżeli jedna ze ścian zewnętrznych usytuowana od strony sąsiedniego budynku lub przekrycie dachu jednego z budynków jest rozprzestrzeniające ogień, wówczas odległość określoną w ust. 1 należy zwiększyć o 50%, a jeżeli dotyczy to obu ścian zewnętrznych lub przekrycia dachu obu budynków - o 100%.
 
 3. Jeżeli co najmniej w jednym z budynków znajduje się pomieszczenie zagrożone wybuchem, wówczas odległość między ich zewnętrznymi ścianami nie powinna być mniejsza niż 20 m.
 
-4. Jeżeli ściana zewnętrzna budynku ma na powierzchni nie większej niż 65%, lecz nie mniejszej niż 30%, klasę odporności ogniowej (E), określoną w § 216 ust. 1 w 5 kolumnie tabeli, wówczas odległość między tą ścianą lub jej częścią a ścianą zewnętrzną drugiego budynku należy zwiększyć w stosunku do określonej w ust. 1 i 2 o 50%.
+4. Jeżeli ściana zewnętrzna budynku ma na powierzchni nie większej niż 65%, lecz nie mniejszej niż 30%, klasę odporności ogniowej (E), określoną w [§ 216](#par-216) ust. 1 w 5 kolumnie tabeli, wówczas odległość między tą ścianą lub jej częścią a ścianą zewnętrzną drugiego budynku należy zwiększyć w stosunku do określonej w ust. 1 i 2 o 50%.
 
-5. Jeżeli ściana zewnętrzna budynku ma na powierzchni mniejszej niż 30% klasę odporności ogniowej (E), określoną w § 216 ust. 1 w 5 kolumnie tabeli, wówczas odległość między tą ścianą lub jej częścią a ścianą zewnętrzną drugiego budynku należy zwiększyć w stosunku do określonej w ust. 1 i 2 o 100%.
+5. Jeżeli ściana zewnętrzna budynku ma na powierzchni mniejszej niż 30% klasę odporności ogniowej (E), określoną w [§ 216](#par-216) ust. 1 w 5 kolumnie tabeli, wówczas odległość między tą ścianą lub jej częścią a ścianą zewnętrzną drugiego budynku należy zwiększyć w stosunku do określonej w ust. 1 i 2 o 100%.
 
 6. Odległość między ścianami zewnętrznymi budynków lub częściami tych ścian może być zmniejszona o 50%, w stosunku do określonej w ust. 1-5, jeżeli we wszystkich strefach pożarowych budynków, przylegających odpowiednio do tych ścian lub ich części, są stosowane stałe urządzenia gaśnicze wodne.
 
@@ -3784,7 +4187,7 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 
 8. Najmniejszą odległość budynków ZL, PM, IN od granicy (konturu) lasu, rozumianego jako grunt leśny (Ls) określony na mapie ewidencyjnej lub teren przeznaczony w miejscowym planie zagospodarowania przestrzennego jako leśny, przyjmuje się jako odległość ścian tych budynków od ściany budynku ZL z przekryciem dachu rozprzestrzeniającym ogień.
 
-8a. Najmniejsza odległość budynków wymienionych w § 213, wykonanych z elementów nierozprzestrzeniających ognia, niezawierających pomieszczeń zagrożonych wybuchem oraz posiadających klasę odporności pożarowej wyższą niż wymagana zgodnie z § 212, od granicy (konturu) lasu zlokalizowanej na:
+8a. Najmniejsza odległość budynków wymienionych w [§ 213](#par-213), wykonanych z elementów nierozprzestrzeniających ognia, niezawierających pomieszczeń zagrożonych wybuchem oraz posiadających klasę odporności pożarowej wyższą niż wymagana zgodnie z [§ 212](#par-212), od granicy (konturu) lasu zlokalizowanej na:
 
 1) sąsiedniej działce - wynosi 4 m,
 
@@ -3792,15 +4195,15 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 
 - jeżeli teren, na którym znajduje się granica (kontur) lasu, przeznaczony jest w miejscowym planie zagospodarowania przestrzennego pod zabudowę niezwiązaną z produkcją leśną, a w przypadku braku planu miejscowego - grunty leśne są objęte zgodą na zmianę przeznaczenia na cele nieleśne uzyskaną przy sporządzaniu miejscowych planów zagospodarowania przestrzennego, które utraciły moc na podstawie art. 1 lit. a ustawy z dnia 21 grudnia 2001 r. o zmianie ustawy o zagospodarowaniu przestrzennym (Dz. U. poz. 1804) oraz art. 87 ust. 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2022 r. poz. 503).
 
-9. Odległości, o których mowa w ust. 1, dla budynków wymienionych w § 213, bez pomieszczeń zagrożonych wybuchem, można zmniejszyć o 25%, jeżeli są zwrócone do siebie ścianami i dachami z przekryciami nierozprzestrzeniającymi ognia, niemającymi otworów.
+9. Odległości, o których mowa w ust. 1, dla budynków wymienionych w [§ 213](#par-213), bez pomieszczeń zagrożonych wybuchem, można zmniejszyć o 25%, jeżeli są zwrócone do siebie ścianami i dachami z przekryciami nierozprzestrzeniającymi ognia, niemającymi otworów.
 
-10. W pasie terenu o szerokości określonej w ust. 1-7, otaczającym ściany zewnętrzne budynku, niebędące ścianami oddzielenia przeciwpożarowego, ściany zewnętrzne innego budynku powinny spełniać wymagania określone w § 232 ust. 4 i 5 dla ścian oddzielenia przeciwpożarowego obu budynków.
+10. W pasie terenu o szerokości określonej w ust. 1-7, otaczającym ściany zewnętrzne budynku, niebędące ścianami oddzielenia przeciwpożarowego, ściany zewnętrzne innego budynku powinny spełniać wymagania określone w [§ 232](#par-232) ust. 4 i 5 dla ścian oddzielenia przeciwpożarowego obu budynków.
 
 11. Wymaganie, o którym mowa w ust. 10, dotyczy pasa terenu o szerokości zmniejszonej o 50% w odniesieniu do tych ścian zewnętrznych obu budynków, które tworzą między sobą kąt 60° lub większy, lecz mniejszy niż 120°.
 
 12. Wymaganie, o którym mowa w ust. 10, nie dotyczy budynków, które:
 
-1) są oddzielone od siebie ścianą oddzielenia przeciwpożarowego, spełniającą dla obu budynków wymagania określone w § 232 ust. 4 i 5, z zastrzeżeniem § 218, lub
+1) są oddzielone od siebie ścianą oddzielenia przeciwpożarowego, spełniającą dla obu budynków wymagania określone w [§ 232](#par-232) ust. 4 i 5, z zastrzeżeniem [§ 218](#par-218), lub
 
 2) mają ściany zewnętrzne tworzące między sobą kąt nie mniejszy niż 120°.
 
@@ -3809,16 +4212,16 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 <a id="par-272"></a>
 ### § 272.
 
-1. Odległość ściany zewnętrznej wznoszonego budynku od granicy sąsiedniej niezabudowanej działki budowlanej powinna wynosić co najmniej połowę odległości określonej w § 271 ust. 1-7, przyjmując, że na działce niezabudowanej będzie usytuowany budynek o przeznaczeniu określonym w miejscowym planie zagospodarowania przestrzennego, przy czym dla budynków PM należy przyjmować, że będzie on miał gęstość obciążenia ogniowego strefy pożarowej Q większą od 1000 MJ/m 2, lecz nie większą niż 4000 MJ/m 2, a w przypadku braku takiego planu - budynek ZL ze ścianą zewnętrzną, o której mowa w § 271 ust. 1.
+1. Odległość ściany zewnętrznej wznoszonego budynku od granicy sąsiedniej niezabudowanej działki budowlanej powinna wynosić co najmniej połowę odległości określonej w [§ 271](#par-271) ust. 1-7, przyjmując, że na działce niezabudowanej będzie usytuowany budynek o przeznaczeniu określonym w miejscowym planie zagospodarowania przestrzennego, przy czym dla budynków PM należy przyjmować, że będzie on miał gęstość obciążenia ogniowego strefy pożarowej Q większą od 1000 MJ/m 2, lecz nie większą niż 4000 MJ/m 2, a w przypadku braku takiego planu - budynek ZL ze ścianą zewnętrzną, o której mowa w [§ 271](#par-271) ust. 1.
 
-2. Budynki mieszkalne jednorodzinne, rekreacji indywidualnej oraz budynki mieszkalne zagrodowe i gospodarcze, ze ścianami i dachami z przekryciami nierozprzestrzeniającymi ognia, powinny być sytuowane w odległości nie mniejszej od granicy sąsiedniej, niezabudowanej działki, niż jest to określone w § 12.
+2. Budynki mieszkalne jednorodzinne, rekreacji indywidualnej oraz budynki mieszkalne zagrodowe i gospodarcze, ze ścianami i dachami z przekryciami nierozprzestrzeniającymi ognia, powinny być sytuowane w odległości nie mniejszej od granicy sąsiedniej, niezabudowanej działki, niż jest to określone w [§ 12](#par-12).
 
-3. Budynek usytuowany bezpośrednio przy granicy działki powinien mieć od strony sąsiedniej działki ścianę oddzielenia przeciwpożarowego o klasie odporności ogniowej określonej w § 232 ust. 4 i 5.
+3. Budynek usytuowany bezpośrednio przy granicy działki powinien mieć od strony sąsiedniej działki ścianę oddzielenia przeciwpożarowego o klasie odporności ogniowej określonej w [§ 232](#par-232) ust. 4 i 5.
 
 <a id="par-273"></a>
 ### § 273.
 
-1. Odległości między ścianami zewnętrznymi budynków położonych na jednej działce budowlanej nie ustala się, z zastrzeżeniem § 249 ust. 6, jeżeli łączna powierzchnia wewnętrzna tych budynków nie przekracza najmniejszej dopuszczalnej powierzchni strefy pożarowej wymaganej dla każdego ze znajdujących się na tej działce rodzajów budynków.
+1. Odległości między ścianami zewnętrznymi budynków położonych na jednej działce budowlanej nie ustala się, z zastrzeżeniem [§ 249](#par-249) ust. 6, jeżeli łączna powierzchnia wewnętrzna tych budynków nie przekracza najmniejszej dopuszczalnej powierzchni strefy pożarowej wymaganej dla każdego ze znajdujących się na tej działce rodzajów budynków.
 
 2. Odległość zbiornika naziemnego oleju opałowego zasilającego kotłownię od budynku ZL powinna wynosić co najmniej 10 m.
 
@@ -3830,13 +4233,13 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 
 6. Odległości budynków PM i IN wykonanych z materiałów niepalnych od zbiorników i ich urządzeń, o których mowa w ust. 5, powinny wynosić co najmniej 3 m.
 
-<a id="rozdzial-8"></a>
+<a id="rozdzial-8-3"></a>
 ### Rozdział 8. Wymagania przeciwpożarowe dla garaży
 
 <a id="par-274"></a>
 ### § 274.
 
-1. Wymagania przeciwpożarowe, określone w niniejszym rozdziale, dotyczą garaży zamkniętych i otwartych, o których mowa w § 102-108.
+1. Wymagania przeciwpożarowe, określone w niniejszym rozdziale, dotyczą garaży zamkniętych i otwartych, o których mowa w [§ 102](#par-102)-108.
 
 2. W przypadku gdy przepis rozporządzenia nie określa rodzaju garażu, należy rozumieć, że dotyczy on garaży zamkniętych i otwartych.
 
@@ -3847,14 +4250,14 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 
 1. Klasę odporności pożarowej garażu należy przyjmować, jak dla budynku PM o gęstości obciążenia ogniowego do 500 MJ/m 2, pod warunkiem wykonania jego elementów jako nierozprzestrzeniających ognia, niekapiących i nieodpadających pod wpływem ognia, jeżeli przepisy rozporządzenia nie stanowią inaczej.
 
-2. Dopuszcza się, z zastrzeżeniem § 277 ust. 5, wykonanie nad najwyższą kondygnacją garażu otwartego, będącego budynkiem niskim (N), dodatkowego poziomu stanowisk postojowych bez zadaszenia lub z zadaszeniem spełniającym wymagania określone w § 274 ust. 3.
+2. Dopuszcza się, z zastrzeżeniem [§ 277](#par-277) ust. 5, wykonanie nad najwyższą kondygnacją garażu otwartego, będącego budynkiem niskim (N), dodatkowego poziomu stanowisk postojowych bez zadaszenia lub z zadaszeniem spełniającym wymagania określone w [§ 274](#par-274) ust. 3.
 
 3. Garaż otwarty, którego najwyższy poziom parkowania znajduje się nie wyżej niż 25 m nad poziomem otaczającego terenu, może być wykonany w klasie D odporności pożarowej, jeżeli nad kondygnacją przeznaczoną do parkowania samochodów nie znajdują się inne pomieszczenia.
 
 <a id="par-276"></a>
 ### § 276.
 
-1. Usytuowanie garażu zamkniętego i otwartego powinno odpowiadać warunkom określonym w § 271 jak dla budynków PM o gęstości obciążenia ogniowego do 1000 MJ/m 2, z zastrzeżeniem § 19.
+1. Usytuowanie garażu zamkniętego i otwartego powinno odpowiadać warunkom określonym w [§ 271](#par-271) jak dla budynków PM o gęstości obciążenia ogniowego do 1000 MJ/m 2, z zastrzeżeniem [§ 19](#par-19).
 
 2. Przepisu ust. 1 nie stosuje się do garażu o liczbie stanowisk postojowych nie większej niż 3, w zabudowie jednorodzinnej i rekreacji indywidualnej.
 
@@ -3873,7 +4276,7 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 
 4. W strefie pożarowej garażu zamkniętego należy stosować instalację wentylacji oddymiającej uruchamianą za pomocą systemu wykrywania dymu, w przypadku gdy ta strefa nie posiada bezpośredniego wjazdu lub wyjazdu z budynku lub gdy jej powierzchnia przekracza 1500 m 2.
 
-5. W przypadku zastosowania rozwiązania, o którym mowa w ust. 2 pkt 1, klasa odporności ogniowej przewodów wentylacji oddymiającej powinna odpowiadać wymaganiom określonym w § 270 ust. 2 - jedynie z uwagi na kryterium szczelności ogniowej (E).
+5. W przypadku zastosowania rozwiązania, o którym mowa w ust. 2 pkt 1, klasa odporności ogniowej przewodów wentylacji oddymiającej powinna odpowiadać wymaganiom określonym w [§ 270](#par-270) ust. 2 - jedynie z uwagi na kryterium szczelności ogniowej (E).
 
 <a id="par-278"></a>
 ### § 278.
@@ -3886,7 +4289,7 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 
 2) w garażu otwartym - 60 m.
 
-3. Długość przejścia, o którym mowa w ust. 2 pkt 1, może być powiększona zgodnie z zasadami określonymi w § 237 ust. 6 i 7. W przypadku zastosowania instalacji wentylacji oddymiającej strumieniowej nie stosuje się § 237 ust. 6 pkt 2.
+3. Długość przejścia, o którym mowa w ust. 2 pkt 1, może być powiększona zgodnie z zasadami określonymi w [§ 237](#par-237) ust. 6 i 7. W przypadku zastosowania instalacji wentylacji oddymiającej strumieniowej nie stosuje się [§ 237](#par-237) ust. 6 pkt 2.
 
 4. Wyjście ewakuacyjne powinno być dostępne także w przypadku zamknięcia wjazdu lub wyjazdu z garażu lub bramy między strefami pożarowymi.
 
@@ -3913,15 +4316,15 @@ Palne elementy wystroju wnętrz budynku, przez które lub obok których są prow
 <a id="par-281"></a>
 ### § 281.
 
-Instalowanie w garażu studzienek rewizyjnych, urządzeń i przewodów gazowych, z zastrzeżeniem § 164 ust. 6, oraz umieszczanie otworów od palenisk lub otworów rewizyjnych przeznaczonych do czyszczenia kanałów dymowych, spalinowych i wentylacyjnych, jest zabronione.
+Instalowanie w garażu studzienek rewizyjnych, urządzeń i przewodów gazowych, z zastrzeżeniem [§ 164](#par-164) ust. 6, oraz umieszczanie otworów od palenisk lub otworów rewizyjnych przeznaczonych do czyszczenia kanałów dymowych, spalinowych i wentylacyjnych, jest zabronione.
 
-<a id="rozdzial-9"></a>
+<a id="rozdzial-9-3"></a>
 ### Rozdział 9. Wymagania przeciwpożarowe dla budynków inwentarskich
 
 <a id="par-282"></a>
 ### § 282.
 
-Od wymagań dotyczących klasy odporności pożarowej budynków, określonych w § 212, zwalnia się budynki IN o kubaturze brutto do 1500 m 3.
+Od wymagań dotyczących klasy odporności pożarowej budynków, określonych w [§ 212](#par-212), zwalnia się budynki IN o kubaturze brutto do 1500 m 3.
 
 <a id="par-283"></a>
 ### § 283.
@@ -3950,7 +4353,7 @@ Dopuszcza się umieszczenie w jednym budynku części mieszkalnej i gospodarczej
 
 2) między częścią mieszkalną a gospodarczą zostanie wykonana ściana o klasie odporności ogniowej co najmniej R E I 60.
 
-<a id="rozdzial-10"></a>
+<a id="rozdzial-10-1"></a>
 ### Rozdział 10. Wymagania przeciwpożarowe dla budynków tymczasowych
 
 <a id="par-286"></a>
@@ -3958,13 +4361,13 @@ Dopuszcza się umieszczenie w jednym budynku części mieszkalnej i gospodarczej
 
 1. Budynek tymczasowy przeznaczony na stały pobyt ludzi powinien być wykonany co najmniej w klasie „E” odporności pożarowej. Budynek taki nie powinien mieć kondygnacji podziemnych i więcej niż 2 kondygnacje nadziemne.
 
-2. Do wyznaczania minimalnej odległości budynku tymczasowego od innego budynku mają zastosowanie przepisy określające odległości między budynkami ZL, PM lub IN, o których mowa w § 271 i § 273 ust. 1.
+2. Do wyznaczania minimalnej odległości budynku tymczasowego od innego budynku mają zastosowanie przepisy określające odległości między budynkami ZL, PM lub IN, o których mowa w [§ 271](#par-271) i [§ 273](#par-273) ust. 1.
 
-3. Tymczasowy budynek wykonany z materiałów palnych lub z palną izolacją należy przegradzać w odstępach nie-przekraczających 24 m ścianami oddzieleń przeciwpożarowych o klasie odporności ogniowej co najmniej R E I 60; nie dotyczy to przypadków określonych w § 287 i 288.
+3. Tymczasowy budynek wykonany z materiałów palnych lub z palną izolacją należy przegradzać w odstępach nie-przekraczających 24 m ścianami oddzieleń przeciwpożarowych o klasie odporności ogniowej co najmniej R E I 60; nie dotyczy to przypadków określonych w [§ 287](#par-287) i 288.
 
 4. Ściana oddzielenia przeciwpożarowego powinna być wysunięta co najmniej o 0,6 m poza lico ścian zewnętrznych i ponad palne pokrycie dachu.
 
-5. Dostęp do poddasza tymczasowego budynku wykonanego z materiałów palnych powinien być umożliwiony za pomocą wewnętrznego wyłazu z klapą, o której mowa w § 251 pkt 1, o wymiarach co najmniej 0,6 x 0,6 m, lub przez drabinę i drzwi zewnętrzne o wymiarach co najmniej 0,6 x 1,6 m, umieszczone w szczytowej ścianie budynku.
+5. Dostęp do poddasza tymczasowego budynku wykonanego z materiałów palnych powinien być umożliwiony za pomocą wewnętrznego wyłazu z klapą, o której mowa w [§ 251](#par-251) pkt 1, o wymiarach co najmniej 0,6 x 0,6 m, lub przez drabinę i drzwi zewnętrzne o wymiarach co najmniej 0,6 x 1,6 m, umieszczone w szczytowej ścianie budynku.
 
 6. Stosowanie instalacji elektrycznych lub gazowych na strychu tymczasowego budynku wykonanego z materiałów palnych jest zabronione.
 
@@ -4007,7 +4410,7 @@ Pomieszczenie z obudową pneumatyczną może być wykorzystywane jako tymczasowy
 <a id="par-289"></a>
 ### § 289.
 
-Pomieszczenie, o którym mowa w § 288, przeznaczone do celów widowiskowych, wystawowych, rekreacyjnych lub sportowych, powinno być dodatkowo wyposażone w:
+Pomieszczenie, o którym mowa w [§ 288](#par-288), przeznaczone do celów widowiskowych, wystawowych, rekreacyjnych lub sportowych, powinno być dodatkowo wyposażone w:
 
 1) konstrukcje umieszczone wewnątrz lub na zewnątrz budynku do awaryjnego podwieszenia powłoki pneumatycznej;
 
@@ -4017,12 +4420,12 @@ Pomieszczenie, o którym mowa w § 288, przeznaczone do celów widowiskowych, wy
 
 4) wyjścia ewakuacyjne rozmieszczone możliwie równomiernie na obwodzie;
 
-5) krzesła połączone ze sobą w sposób trwały i unieruchomione w rzędach co najmniej po 8 sztuk, ustawione zgodnie z wymaganiami określonymi w § 261.
+5) krzesła połączone ze sobą w sposób trwały i unieruchomione w rzędach co najmniej po 8 sztuk, ustawione zgodnie z wymaganiami określonymi w [§ 261](#par-261).
 
 <a id="par-290"></a>
 ### § 290.
 
-Tymczasowy budynek typu namiotowego przeznaczony do celów widowiskowych powinien spełniać wymagania określone w § 288 i 289, z wyjątkiem wymagań dotyczących urządzeń do utrzymywania ciśnienia w powłoce.
+Tymczasowy budynek typu namiotowego przeznaczony do celów widowiskowych powinien spełniać wymagania określone w [§ 288](#par-288) i 289, z wyjątkiem wymagań dotyczących urządzeń do utrzymywania ciśnienia w powłoce.
 
 <a id="dzial-VII"></a>
 ## Dział VII. Bezpieczeństwo użytkowania
@@ -4125,7 +4528,7 @@ Konstrukcja schodów, pochylni, pomostów i galerii, służących komunikacji og
 
 3) pomieszczenia przeznaczonego na pobyt ludzi w suterenie lub w budynku tymczasowym z materiałów palnych;
 
-4) pomieszczeń, o których mowa w § 239 ust. 2.
+4) pomieszczeń, o których mowa w [§ 239](#par-239) ust. 2.
 
 3. Wymagania, o których mowa w ust. 1 i 2, nie dotyczą zakładów karnych i aresztów śledczych oraz zakładów poprawczych i schronisk dla nieletnich.
 
@@ -4193,7 +4596,7 @@ W budynku produkcyjnym i magazynowym, w których mogą wystąpić zmienne obcią
 
 2. W budynkach wysokich (W) i wysokościowych (WW) wyjścia, o których mowa w ust. 1, należy zapewnić z każdej klatki schodowej.
 
-3. Jako wyjście z klatki schodowej na dach należy stosować drzwi o szerokości 0,8 m i wysokości co najmniej 1,9 m lub klapy wyłazowe o wymiarze 0,8 x 0,8 m w świetle, do których dostęp powinien odpowiadać warunkom określonym w § 101.
+3. Jako wyjście z klatki schodowej na dach należy stosować drzwi o szerokości 0,8 m i wysokości co najmniej 1,9 m lub klapy wyłazowe o wymiarze 0,8 x 0,8 m w świetle, do których dostęp powinien odpowiadać warunkom określonym w [§ 101](#par-101).
 
 4. Na dachu o spadku ponad 25% oraz na dachu pokrytym materiałami łamliwymi (tłukącymi) należy wykonać stałe dojścia do kominów, urządzeń technicznych oraz anten radiowych i telewizyjnych.
 
@@ -4204,7 +4607,7 @@ W budynku produkcyjnym i magazynowym, w których mogą wystąpić zmienne obcią
 <a id="dzial-VIII"></a>
 ## Dział VIII. Higiena i zdrowie
 
-<a id="rozdzial-1"></a>
+<a id="rozdzial-1-4"></a>
 ### Rozdział 1. Wymagania ogólne
 
 <a id="par-309"></a>
@@ -4230,7 +4633,7 @@ Budynek powinien być zaprojektowany i wykonany z takich materiałów i wyrobów
 
 9) ograniczenia nasłonecznienia i oświetlenia naturalnego.
 
-<a id="rozdzial-2"></a>
+<a id="rozdzial-2-4"></a>
 ### Rozdział 2. Ochrona czystości powietrza
 
 <a id="par-310"></a>
@@ -4254,7 +4657,7 @@ Jeżeli w powietrzu wywiewanym z pomieszczenia występują niedopuszczalne stę�
 
 2. Jeżeli związki, o których mowa w ust. 1, są emitowane przez materiały w niedopuszczalnym stężeniu jedynie przez ograniczony czas, dopuszcza się ich stosowanie pod warunkiem, że użytkowanie budynku lub pomieszczeń, w których materiały te zostały zastosowane, nastąpi dopiero po upływie terminu karencji, a w przypadku materiałów emitujących zanieczyszczenia pyliste lub włókniste - po stwierdzeniu przez właściwego państwowego inspektora sanitarnego osiągnięcia stanu zanieczyszczenia powietrza, zgodnego z przepisami odrębnymi w sprawie dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia wydzielanych przez materiały budowlane, urządzenia i elementy wyposażenia.
 
-<a id="rozdzial-3"></a>
+<a id="rozdzial-3-4"></a>
 ### Rozdział 3. Ochrona przed promieniowaniem jonizującym i polami elektromagnetycznymi
 
 <a id="par-313"></a>
@@ -4269,7 +4672,7 @@ Jeżeli w powietrzu wywiewanym z pomieszczenia występują niedopuszczalne stę�
 
 Budynek z pomieszczeniami przeznaczonymi na pobyt ludzi nie może być wzniesiony na obszarach stref, w których występuje przekroczenie dopuszczalnego poziomu oddziaływania pola elektromagnetycznego, określonego w przepisach odrębnych dotyczących ochrony przed oddziaływaniem pól elektromagnetycznych.
 
-<a id="rozdzial-4"></a>
+<a id="rozdzial-4-4"></a>
 ### Rozdział 4. Ochrona przed zawilgoceniem i korozją biologiczną
 
 <a id="par-315"></a>
@@ -4317,7 +4720,7 @@ Balkony, loggie i tarasy powinny mieć posadzki wykonane z materiałów nienasi�
 
 2. We wnętrzu przegrody, o której mowa w ust. 1, nie może występować narastające w kolejnych latach zawilgocenie spowodowane kondensacją pary wodnej.
 
-3. Warunki określone w ust. 1 i 2 uważa się za spełnione, jeśli przegrody odpowiadają wymaganiom określonym w pkt 2.2.4. załącznika nr 2 do rozporządzenia.
+3. Warunki określone w ust. 1 i 2 uważa się za spełnione, jeśli przegrody odpowiadają wymaganiom określonym w pkt 2.2.4. załącznika nr [2](#zalacznik-nr-2-wymagania-izolacyjnosci-cieplnej-i-inne-wymagania-zwiazane-z-oszczednoscia-energii) do rozporządzenia.
 
 <a id="par-322"></a>
 ### § 322.
@@ -4396,7 +4799,7 @@ c) zakładów gastronomicznych i innych prowadzących działalność rozrywkową
 <a id="par-327"></a>
 ### § 327.
 
-1. Zabrania się sytuowania przy pomieszczeniach mieszkalnych pomieszczeń technicznych o szczególnej uciążliwości, takich jak szyby i maszynownie dźwigowe lub zsypy śmieciowe. Wymaganie to nie dotyczy przypadków, o których mowa w § 196 ust. 2 oraz w § 197 ust. 2 - przy nadbudowie lub adaptacji strychu na cele mieszkalne.
+1. Zabrania się sytuowania przy pomieszczeniach mieszkalnych pomieszczeń technicznych o szczególnej uciążliwości, takich jak szyby i maszynownie dźwigowe lub zsypy śmieciowe. Wymaganie to nie dotyczy przypadków, o których mowa w [§ 196](#par-196) ust. 2 oraz w [§ 197](#par-197) ust. 2 - przy nadbudowie lub adaptacji strychu na cele mieszkalne.
 
 2. Instalacje i urządzenia, stanowiące techniczne wyposażenie budynku mieszkalnego, zamieszkania zbiorowego i użyteczności publicznej, nie mogą powodować powstawania nadmiernych hałasów i drgań, utrudniających eksploatację lub uniemożliwiających ochronę użytkowników pomieszczeń przed ich oddziaływaniem.
 
@@ -4414,9 +4817,9 @@ c) zakładów gastronomicznych i innych prowadzących działalność rozrywkową
 
 1) wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m 2 ⋅rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2021 r. poz. 497), jest mniejsza lub równa wartości maksymalnej obliczonej zgodnie ze wzorem, o którym mowa w § 329 ust. 1 lub 3;
 
-2) przegrody oraz wyposażenie techniczne budynku odpowiadają przynajmniej wymaganiom izolacyjności cieplnej określonym w załączniku nr 2 do rozporządzenia.
+2) przegrody oraz wyposażenie techniczne budynku odpowiadają przynajmniej wymaganiom izolacyjności cieplnej określonym w załączniku nr [2](#zalacznik-nr-2-wymagania-izolacyjnosci-cieplnej-i-inne-wymagania-zwiazane-z-oszczednoscia-energii) do rozporządzenia.
 
-1a. Wymagania minimalne, o których mowa w ust. 1, uznaje się za spełnione dla budynku podlegającego przebudowie, jeżeli przegrody oraz wyposażenie techniczne budynku podlegające przebudowie odpowiadają przynajmniej wymaganiom izolacyjności cieplnej określonym w załączniku nr 2 do rozporządzenia.
+1a. Wymagania minimalne, o których mowa w ust. 1, uznaje się za spełnione dla budynku podlegającego przebudowie, jeżeli przegrody oraz wyposażenie techniczne budynku podlegające przebudowie odpowiadają przynajmniej wymaganiom izolacyjności cieplnej określonym w załączniku nr [2](#zalacznik-nr-2-wymagania-izolacyjnosci-cieplnej-i-inne-wymagania-zwiazane-z-oszczednoscia-energii) do rozporządzenia.
 
 1b. Budynek, który spełnia wymagania minimalne określone w ust. 1, na dzień 31 grudnia 2020 r., a w przypadku budynku zajmowanego przez organ wymiaru sprawiedliwości, prokuraturę lub organ administracji publicznej i będącego jego własnością - na dzień 1 stycznia 2019 r., jest budynkiem o niskim zużyciu energii.
 
@@ -4455,12 +4858,12 @@ EP i - wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię 
 
 A f,i - powierzchnia pomieszczeń o regulowanej temperaturze powietrza (ogrzewana lub chłodzona) dla części budynku o jednolitej funkcji użytkowej, określona zgodnie z przepisami wydanymi na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków.
 
-4. Wymagania określone w § 328 ust. 2 uznaje się za spełnione, jeżeli okna oraz inne przegrody przeszklone i przezroczyste odpowiadają przynajmniej wymaganiom określonym w pkt 2.1.1. załącznika nr 2 do rozporządzenia.
+4. Wymagania określone w [§ 328](#par-328) ust. 2 uznaje się za spełnione, jeżeli okna oraz inne przegrody przeszklone i przezroczyste odpowiadają przynajmniej wymaganiom określonym w pkt 2.1.1. załącznika nr [2](#zalacznik-nr-2-wymagania-izolacyjnosci-cieplnej-i-inne-wymagania-zwiazane-z-oszczednoscia-energii) do rozporządzenia.
 
 <a id="par-329a"></a>
 ### § 329a [11)].
 
-1. Wymagania określone w § 328 ust. 1 stosuje się zgodnie z wymaganiami określonymi w § 329 ust. 2 oraz w załączniku nr 2 do rozporządzenia, obowiązującymi od dnia 1 stycznia 2017 r. do dnia 30 grudnia 2020 r., jeżeli przed dniem 31 grudnia 2020 r. dla zamierzenia budowlanego:
+1. Wymagania określone w [§ 328](#par-328) ust. 1 stosuje się zgodnie z wymaganiami określonymi w [§ 329](#par-329) ust. 2 oraz w załączniku nr [2](#zalacznik-nr-2-wymagania-izolacyjnosci-cieplnej-i-inne-wymagania-zwiazane-z-oszczednoscia-energii) do rozporządzenia, obowiązującymi od dnia 1 stycznia 2017 r. do dnia 30 grudnia 2020 r., jeżeli przed dniem 31 grudnia 2020 r. dla zamierzenia budowlanego:
 
 1) został złożony wniosek o pozwolenie na budowę, odrębny wniosek o zatwierdzenie projektu budowlanego, odrębny wniosek o wydanie odrębnej decyzji o zatwierdzeniu projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego, wniosek o zmianę pozwolenia na budowę, wniosek o pozwolenie na wznowienie robót budowlanych lub wniosek o zatwierdzenie zamiennego projektu budowlanego albo projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego;
 
@@ -4476,7 +4879,7 @@ A f,i - powierzchnia pomieszczeń o regulowanej temperaturze powietrza (ogrzewan
 <a id="par-330"></a>
 ### § 330.
 
-Przepisów rozporządzenia nie stosuje się, z zastrzeżeniem § 2 ust. 1 i § 207 ust. 2, jeżeli przed dniem wejścia w życie rozporządzenia:
+Przepisów rozporządzenia nie stosuje się, z zastrzeżeniem [§ 2](#par-2) ust. 1 i [§ 207](#par-207) ust. 2, jeżeli przed dniem wejścia w życie rozporządzenia:
 
 1) został złożony wniosek o pozwolenie na budowę lub odrębny wniosek o zatwierdzenie projektu budowlanego i wnioski te zostały opracowane na podstawie dotychczasowych przepisów;
 
