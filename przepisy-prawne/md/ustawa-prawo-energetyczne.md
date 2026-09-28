@@ -2,8 +2,352 @@
 
 Prawo energetyczne1)
 
+<a id="spis-tresci"></a>
+## Spis treści
+
+- [Rozdział 1. Przepisy ogólne](#rozdzial-1)
+  - [Art. 1.](#art-1)
+  - [Art. 2.](#art-2)
+  - [Art. 3.](#art-3)
+  - [Art. 3a.](#art-3a)
+  - [Art. 4.](#art-4)
+  - [Art. 4a.](#art-4a)
+  - [Art. 4b.](#art-4b)
+  - [Art. 4ba.](#art-4ba)
+  - [Art. 4c.](#art-4c)
+  - [Art. 4ca. [31)]](#art-4ca)
+  - [Art. 4d.](#art-4d)
+  - [Art. 4e.](#art-4e)
+  - [Art. 4e[1].](#art-4e1)
+  - [Art. 4e[2].](#art-4e2)
+  - [Art. 4e[3].](#art-4e3)
+  - [Art. 4f.](#art-4f)
+  - [Art. 4g.](#art-4g)
+  - [Art. 4h.](#art-4h)
+  - [Art. 4i.](#art-4i)
+  - [Art. 4ia.](#art-4ia)
+  - [Art. 4j.](#art-4j)
+  - [Art. 4k.](#art-4k)
+- [Rozdział 2. Dostarczanie paliw i energii](#rozdzial-2)
+  - [Art. 5.](#art-5)
+  - [Art. 5a.](#art-5a)
+  - [Art. 5a[1].](#art-5a1)
+  - [Art. 5aa.](#art-5aa)
+  - [Art. 5ab.](#art-5ab)
+  - [Art. 5ac.](#art-5ac)
+  - [Art. 5ad.](#art-5ad)
+  - [Art. 5ae.](#art-5ae)
+  - [Art. 5af.](#art-5af)
+  - [Art. 5ag.](#art-5ag)
+  - [Art. 5b.](#art-5b)
+  - [Art. 5b[1].](#art-5b1)
+  - [Art. 5b[2].](#art-5b2)
+  - [Art. 5b[3].](#art-5b3)
+  - [Art. 5b[4].](#art-5b4)
+  - [Art. 5c.](#art-5c)
+  - [Art. 5d.](#art-5d)
+  - [Art. 5e.](#art-5e)
+  - [Art. 5f.](#art-5f)
+  - [Art. 5g.](#art-5g)
+  - [Art. 5ga.](#art-5ga)
+  - [Art. 5gb.](#art-5gb)
+  - [Art. 5h.](#art-5h)
+  - [Art. 6.](#art-6)
+  - [Art. 6a.](#art-6a)
+  - [Art. 6b.](#art-6b)
+  - [Art. 6c.](#art-6c)
+  - [Art. 6d.](#art-6d)
+  - [Art. 6e.](#art-6e)
+  - [Art. 6f.](#art-6f)
+  - [Art. 6g.](#art-6g)
+  - [Art. 7.](#art-7)
+  - [Art. 7a.](#art-7a)
+  - [Art. 7aa.](#art-7aa)
+  - [Art. 7b.](#art-7b)
+  - [Art. 8.](#art-8)
+  - [Art. 81.](#art-81)
+  - [Art. 8a.](#art-8a)
+  - [Art. 9.](#art-9)
+  - [Art. 9a.](#art-9a)
+  - [Art. 9b.](#art-9b)
+  - [Art. 9c.](#art-9c)
+  - [Art. 9ca.](#art-9ca)
+  - [Art. 9cb.](#art-9cb)
+  - [Art. 9d.](#art-9d)
+  - [Art. 9d[1].](#art-9d1)
+  - [Art. 9d[2]. [86)]](#art-9d2)
+  - [Art. 9d[3]. [86)]](#art-9d3)
+  - [Art. 9da.](#art-9da)
+  - [Art. 9db.](#art-9db)
+  - [Art. 9dc.](#art-9dc)
+  - [Art. 9e.](#art-9e)
+  - [Art. 9e[1].](#art-9e1)
+  - [Art. 9f.](#art-9f)
+  - [Art. 9g.](#art-9g)
+  - [Art. 9ga.](#art-9ga)
+  - [Art. 9h.](#art-9h)
+  - [Art. 9h[1].](#art-9h1)
+  - [Art. 9h[2].](#art-9h2)
+  - [Art. 9h[3].](#art-9h3)
+  - [Art. 9i.](#art-9i)
+  - [Art. 9ia.](#art-9ia)
+  - [Art. 9j.](#art-9j)
+  - [Art. 9k.](#art-9k)
+  - [Art. 9l.](#art-9l)
+  - [Art. 9m.](#art-9m)
+  - [Art. 9n.](#art-9n)
+  - [Art. 9o.](#art-9o)
+  - [Art. 9p.](#art-9p)
+  - [Art. 9r.](#art-9r)
+  - [Art. 9s.](#art-9s)
+  - [Art. 9s[1].](#art-9s1)
+  - [Art. 9t.](#art-9t)
+  - [Art. 9u.](#art-9u)
+  - [Art. 9v.](#art-9v)
+  - [Art. 9w.](#art-9w)
+  - [Art. 9x.](#art-9x)
+  - [Art. 9y.](#art-9y)
+  - [Art. 9z.](#art-9z)
+  - [Art. 9za.](#art-9za)
+  - [Art. 9zb.](#art-9zb)
+  - [Art. 10.](#art-10)
+  - [Art. 10a.](#art-10a)
+  - [Art. 10b.](#art-10b)
+  - [Art. 10c.](#art-10c)
+  - [Art. 10d.](#art-10d)
+  - [Art. 11.](#art-11)
+  - [Art. 11a.](#art-11a)
+  - [Art. 11b.](#art-11b)
+  - [Art. 11c.](#art-11c)
+  - [Art. 11d.](#art-11d)
+  - [Art. 11e.](#art-11e)
+  - [Art. 11f.](#art-11f)
+- [Rozdział 2a. (uchylony)](#rozdzial-2a)
+- [Rozdział 2b. Przesyłanie dwutlenku węgla](#rozdzial-2b)
+  - [Art. 11m.](#art-11m)
+  - [Art. 11n.](#art-11n)
+  - [Art. 11o.](#art-11o)
+  - [Art. 11p.](#art-11p)
+  - [Art. 11r.](#art-11r)
+  - [Art. 11s.](#art-11s)
+- [Rozdział 2c. Zasady funkcjonowania systemu pomiarowego](#rozdzial-2c)
+  - [Art. 11t.](#art-11t)
+  - [Art. 11u.](#art-11u)
+  - [Art. 11w.](#art-11w)
+  - [Art. 11x.](#art-11x)
+- [Rozdział 2d. Zasady funkcjonowania centralnego systemu informacji rynku energii](#rozdzial-2d)
+  - [Art. 11y.](#art-11y)
+  - [Art. 11z.](#art-11z)
+  - [Art. 11za.](#art-11za)
+  - [Art. 11zb.](#art-11zb)
+  - [Art. 11zc.](#art-11zc)
+  - [Art. 11zd.](#art-11zd)
+  - [Art. 11ze.](#art-11ze)
+  - [Art. 11zf.](#art-11zf)
+  - [Art. 11zg.](#art-11zg)
+  - [Art. 11zh.](#art-11zh)
+- [Rozdział 2e. Obywatelskie społeczności energetyczne](#rozdzial-2e)
+  - [Art. 11zi.](#art-11zi)
+  - [Art. 11zj.](#art-11zj)
+  - [Art. 11zk.](#art-11zk)
+  - [Art. 11zl.](#art-11zl)
+  - [Art. 11zm.](#art-11zm)
+  - [Art. 11zn.](#art-11zn)
+  - [Art. 11zo.](#art-11zo)
+- [Rozdział 2f. Odbiorca aktywny](#rozdzial-2f)
+  - [Art. 11zp.](#art-11zp)
+  - [Art. 11zq.](#art-11zq)
+  - [Art. 11zr.](#art-11zr)
+- [Rozdział 3. Polityka energetyczna](#rozdzial-3)
+  - [Art. 12.](#art-12)
+  - [Art. 12a.](#art-12a)
+  - [Art. 12b.](#art-12b)
+  - [Art. 13.](#art-13)
+  - [Art. 14.](#art-14)
+  - [Art. 15.](#art-15)
+  - [Art. 15a.](#art-15a)
+  - [Art. 15ab.](#art-15ab)
+  - [Art. 15b.](#art-15b)
+  - [Art. 15ba.](#art-15ba)
+  - [Art. 15c.](#art-15c)
+  - [Art. 15d.](#art-15d)
+  - [Art. 15e.](#art-15e)
+  - [Art. 15f.](#art-15f)
+  - [Art. 15fa.](#art-15fa)
+  - [Art. 15g.](#art-15g)
+  - [Art. 15h.](#art-15h)
+  - [Art. 15i.](#art-15i)
+  - [Art. 16.](#art-16)
+  - [Art. 161.](#art-161)
+  - [Art. 16a.](#art-16a)
+  - [Art. 16b.](#art-16b)
+  - [Art. 16c.](#art-16c)
+  - [Art. 17.](#art-17)
+  - [Art. 18.](#art-18)
+  - [Art. 19.](#art-19)
+  - [Art. 20.](#art-20)
+- [Rozdział 3a. (uchylony)](#rozdzial-3a)
+- [Rozdział 3b. (uchylony)](#rozdzial-3b)
+- [Rozdział 4. Organ do spraw regulacji gospodarki paliwami i energią](#rozdzial-4)
+  - [Art. 21.](#art-21)
+  - [Art. 21a.](#art-21a)
+  - [Art. 22.](#art-22)
+  - [Art. 23.](#art-23)
+  - [Art. 23a.](#art-23a)
+  - [Art. 23b.](#art-23b)
+  - [Art. 23c.](#art-23c)
+  - [Art. 23d.](#art-23d)
+  - [Art. 23e.](#art-23e)
+  - [Art. 23f.](#art-23f)
+  - [Art. 23g.](#art-23g)
+  - [Art. 23h.](#art-23h)
+  - [Art. 23i.](#art-23i)
+  - [Art. 23j.](#art-23j)
+  - [Art. 23k.](#art-23k)
+  - [Art. 23l.](#art-23l)
+  - [Art. 23m.](#art-23m)
+  - [Art. 23n.](#art-23n)
+  - [Art. 23o.](#art-23o)
+  - [Art. 23p.](#art-23p)
+  - [Art. 23r.](#art-23r)
+  - [Art. 23s.](#art-23s)
+  - [Art. 23t.](#art-23t)
+  - [Art. 23u.](#art-23u)
+  - [Art. 23w.](#art-23w)
+  - [Art. 23x.](#art-23x)
+  - [Art. 24.](#art-24)
+  - [Art. 24a.](#art-24a)
+  - [Art. 24b.](#art-24b)
+  - [Art. 24c.](#art-24c)
+  - [Art. 24d.](#art-24d)
+  - [Art. 25.](#art-25)
+  - [Art. 26.](#art-26)
+  - [Art. 27.](#art-27)
+  - [Art. 28.](#art-28)
+  - [Art. 28a.](#art-28a)
+  - [Art. 28b.](#art-28b)
+  - [Art. 28c.](#art-28c)
+  - [Art. 29.](#art-29)
+  - [Art. 30.](#art-30)
+  - [Art. 30a.](#art-30a)
+  - [Art. 30b.](#art-30b)
+  - [Art. 31.](#art-31)
+- [Rozdział 4a. Koordynator do spraw negocjacji](#rozdzial-4a)
+  - [Art. 31a.](#art-31a)
+  - [Art. 31b.](#art-31b)
+  - [Art. 31c.](#art-31c)
+  - [Art. 31d.](#art-31d)
+  - [Art. 31da.](#art-31da)
+  - [Art. 31e.](#art-31e)
+  - [Art. 31f.](#art-31f)
+- [Rozdział 4b. Porównywarka ofert](#rozdzial-4b)
+  - [Art. 31g.](#art-31g)
+- [Rozdział 5. Koncesje, rejestry i taryfy](#rozdzial-5)
+  - [Art. 32.](#art-32)
+  - [Art. 32a.](#art-32a)
+  - [Art. 32b.](#art-32b)
+  - [Art. 32c.](#art-32c)
+  - [Art. 32d.](#art-32d)
+  - [Art. 33.](#art-33)
+  - [Art. 34.](#art-34)
+  - [Art. 35.](#art-35)
+  - [Art. 35a.](#art-35a)
+  - [Art. 36.](#art-36)
+  - [Art. 37.](#art-37)
+  - [Art. 37a.](#art-37a)
+  - [Art. 38.](#art-38)
+  - [Art. 38a.](#art-38a)
+  - [Art. 38b.](#art-38b)
+  - [Art. 38c.](#art-38c)
+  - [Art. 38d.](#art-38d)
+  - [Art. 38e.](#art-38e)
+  - [Art. 38f.](#art-38f)
+  - [Art. 38g.](#art-38g)
+  - [Art. 39.](#art-39)
+  - [Art. 40.](#art-40)
+  - [Art. 41.](#art-41)
+  - [Art. 42.](#art-42)
+  - [Art. 42a.](#art-42a)
+  - [Art. 42b.](#art-42b)
+  - [Art. 43.](#art-43)
+  - [Art. 43a.](#art-43a)
+  - [Art. 43aa.](#art-43aa)
+  - [Art. 43b.](#art-43b)
+  - [Art. 43c.](#art-43c)
+  - [Art. 43d.](#art-43d)
+  - [Art. 43e.](#art-43e)
+  - [Art. 43f.](#art-43f)
+  - [Art. 43f[1]. [184)]](#art-43f1)
+  - [Art. 43fa.](#art-43fa)
+  - [Art. 43g.](#art-43g)
+  - [Art. 43h. [185)]](#art-43h)
+  - [Art. 44.](#art-44)
+  - [Art. 44a.](#art-44a)
+  - [Art. 45.](#art-45)
+  - [Art. 45a.](#art-45a)
+  - [Art. 45aa.](#art-45aa)
+  - [Art. 45b.](#art-45b)
+  - [Art. 45c.](#art-45c)
+  - [Art. 45d.](#art-45d)
+  - [Art. 46.](#art-46)
+  - [Art. 47.](#art-47)
+  - [Art. 48.](#art-48)
+  - [Art. 49.](#art-49)
+  - [Art. 49a.](#art-49a)
+  - [Art. 49aa.](#art-49aa)
+  - [Art. 49b.](#art-49b)
+  - [Art. 49c.](#art-49c)
+  - [Art. 50.](#art-50)
+  - [Art. 50a.](#art-50a)
+- [Rozdział 6. Urządzenia, instalacje, sieci i ich eksploatacja](#rozdzial-6)
+  - [Art. 51.](#art-51)
+  - [Art. 52.](#art-52)
+  - [Art. 52a.](#art-52a)
+  - [Art. 53.](#art-53)
+  - [Art. 53a.](#art-53a)
+  - [Art. 54.](#art-54)
+  - [Art. 55.](#art-55)
+- [Rozdział 6a. (uchylony)](#rozdzial-6a)
+- [Rozdział 7. Kary pieniężne](#rozdzial-7)
+  - [Art. 56.](#art-56)
+  - [Art. 57.](#art-57)
+- [Rozdział 7a. Przepisy karne](#rozdzial-7a)
+  - [Art. 57a.](#art-57a)
+  - [Art. 57b.](#art-57b)
+  - [Art. 57c.](#art-57c)
+  - [Art. 57d.](#art-57d)
+  - [Art. 57e.](#art-57e)
+  - [Art. 57f.](#art-57f)
+  - [Art. 57g.](#art-57g)
+- [Rozdział 8. Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe Art. 58–62. (pominięte)](#rozdzial-8)
+  - [Art. 62a.](#art-62a)
+  - [Art. 62b.](#art-62b)
+  - [Art. 62ba.](#art-62ba)
+  - [Art. 62bb.](#art-62bb)
+  - [Art. 62bc.](#art-62bc)
+  - [Art. 62bd.](#art-62bd)
+  - [Art. 62be.](#art-62be)
+  - [Art. 62c.](#art-62c)
+  - [Art. 62d.](#art-62d)
+  - [Art. 62da.](#art-62da)
+  - [Art. 62e.](#art-62e)
+  - [Art. 62f.](#art-62f)
+  - [Art. 62g.](#art-62g)
+  - [Art. 62h.](#art-62h)
+  - [Art. 62i.](#art-62i)
+  - [Art. 62j.](#art-62j)
+  - [Art. 62k.](#art-62k)
+  - [Art. 68.](#art-68)
+  - [Art. 69.](#art-69)
+  - [Art. 69a. [208)]](#art-69a)
+  - [Art. 70.](#art-70)
+  - [Art. 71.](#art-71)
+  - [Art. 72.](#art-72)
+
+<a id="rozdzial-1"></a>
 ### Rozdział 1. Przepisy ogólne
 
+<a id="art-1"></a>
 ### Art. 1.
 
 1. Ustawa określa zasady kształtowania polityki energetycznej państwa, zasady i warunki zaopatrzenia i użytkowania paliw i energii, w tym ciepła, oraz działalności przedsiębiorstw energetycznych, a także określa organy właściwe w sprawach gospodarki paliwami i energią.
@@ -20,10 +364,12 @@ Prawo energetyczne1)
 
 2) wykorzystywania energii atomowej w zakresie uregulowanym ustawą z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907).
 
+<a id="art-2"></a>
 ### Art. 2.
 
 (uchylony)
 
+<a id="art-3"></a>
 ### Art. 3.
 
 Użyte w ustawie określenia oznaczają:
@@ -100,7 +446,7 @@ c) rozdział ciepła do odbiorców przyłączonych do sieci ciepłowniczej – z
 
 6a)[10)] sprzedaż – bezpośrednią sprzedaż paliw lub energii przez podmiot zajmujący się ich wytwarzaniem lub odsprzedaż tych paliw lub energii przez podmiot zajmujący się ich obrotem; sprzedaż ta nie obejmuje derywatu elektroenergetycznego i derywatu gazowego oraz tankowania pojazdów sprężonym gazem ziemnym (CNG) oraz skroplonym gazem ziemnym (LNG) na stacjach gazu ziemnego, a także ładowania energią elektryczną w punktach ładowania i tankowania pojazdów wodorem na stacjach wodoru;
 
-6b) sprzedaż rezerwowa paliw gazowych – sprzedaż paliw gazowych odbiorcy końcowemu przyłączonemu do sieci dystrybucyjnej gazowej lub do sieci przesyłowej gazowej dokonywana przez sprzedawcę rezerwowego paliw gazowych w przypadku zaprzestania sprzedaży paliw gazowych przez dotychczasowego sprzedawcę, realizowana na podstawie umowy sprzedaży paliw gazowych lub umowy kompleksowej, o której mowa w art. 5 ust. 3, zwanej dalej „umową kompleksową”;
+6b) sprzedaż rezerwowa paliw gazowych – sprzedaż paliw gazowych odbiorcy końcowemu przyłączonemu do sieci dystrybucyjnej gazowej lub do sieci przesyłowej gazowej dokonywana przez sprzedawcę rezerwowego paliw gazowych w przypadku zaprzestania sprzedaży paliw gazowych przez dotychczasowego sprzedawcę, realizowana na podstawie umowy sprzedaży paliw gazowych lub umowy kompleksowej, o której mowa w [art. 5](#art-5) ust. 3, zwanej dalej „umową kompleksową”;
 
 6c) sprzedaż rezerwowa energii elektrycznej – sprzedaż energii elektrycznej odbiorcy końcowemu przyłączonemu do sieci dystrybucyjnej elektroenergetycznej dokonywana przez sprzedawcę rezerwowego energii elektrycznej w przypadku nieprzekazania do centralnego systemu informacji rynku energii informacji o zawarciu umowy sprzedaży energii elektrycznej lub umowy kompleksowej dla danego punktu poboru energii;
 
@@ -144,7 +490,7 @@ b) sprowadzania, wyładunku i regazyfikacji skroplonego gazu ziemnego wraz z ins
 
 10i) stacja kontenerowa – stację paliw ciekłych o konstrukcji umożliwiającej jej przemieszczanie;
 
-10j) środek transportu paliw ciekłych – cysternę drogową, cysternę kolejową, cysternę kontenerową lub statek przystosowane do załadunku, transportu i rozładunku paliw ciekłych, wykorzystywane do sprzedaży paliw ciekłych bezpośrednio odbiorcom końcowym na podstawie koncesji, o których mowa w art. 32 ust. 1 pkt 1 i 4, lub do przywozu paliw ciekłych na podstawie wpisu do rejestru, o którym mowa w art. 32a;
+10j) środek transportu paliw ciekłych – cysternę drogową, cysternę kolejową, cysternę kontenerową lub statek przystosowane do załadunku, transportu i rozładunku paliw ciekłych, wykorzystywane do sprzedaży paliw ciekłych bezpośrednio odbiorcom końcowym na podstawie koncesji, o których mowa w [art. 32](#art-32) ust. 1 pkt 1 i 4, lub do przywozu paliw ciekłych na podstawie wpisu do rejestru, o którym mowa w [art. 32a](#art-32a);
 
 10k) magazyn energii elektrycznej – instalację umożliwiającą magazynowanie energii elektrycznej i wprowadzenie jej do sieci elektroenergetycznej;
 
@@ -182,7 +528,7 @@ b) łączący system przesyłowy z infrastrukturą gazową państwa innego niż 
 
 11fa) wydzielona jednostka wytwórcza – jednostkę wytwórczą, z której cała wytworzona energia elektryczna jest objęta bezpośrednim dostarczaniem energii elektrycznej do wydzielonego odbiorcy;
 
-11fb) wydzielony odbiorca – odbiorcę, który nie jest przyłączony do sieci elektroenergetycznej lub jest przyłączony do sieci elektroenergetycznej w sposób uniemożliwiający wprowadzanie energii elektrycznej wytworzonej w wydzielonej jednostce wytwórczej do tej sieci, lub spełnia warunki, wymagania techniczne i obowiązki, o których mowa w art. 7aa ust. 3;
+11fb) wydzielony odbiorca – odbiorcę, który nie jest przyłączony do sieci elektroenergetycznej lub jest przyłączony do sieci elektroenergetycznej w sposób uniemożliwiający wprowadzanie energii elektrycznej wytworzonej w wydzielonej jednostce wytwórczej do tej sieci, lub spełnia warunki, wymagania techniczne i obowiązki, o których mowa w [art. 7aa](#art-7aa) ust. 3;
 
 11fc) bezpośrednie dostarczanie energii elektrycznej – dostawy energii elektrycznej realizowane bez wykorzystania sieci elektroenergetycznej lub realizowane z wykorzystaniem sieci elektroenergetycznej przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną, o którym mowa w pkt 11f;
 
@@ -218,7 +564,7 @@ b) w odniesieniu do energii elektrycznej: – przesyłaniem lub – dystrybucją
 
 12c) podmiot przywożący – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która samodzielnie lub za pośrednictwem innego podmiotu dokonuje przywozu paliw ciekłych, z wyłączeniem przywozu paliw ciekłych:
 
-a) w ramach wykonywania działalności polegającej na obrocie paliwami ciekłymi z zagranicą wymagającej uzyskania koncesji, o której mowa w art. 32 ust. 1 pkt 4, lub
+a) w ramach wykonywania działalności polegającej na obrocie paliwami ciekłymi z zagranicą wymagającej uzyskania koncesji, o której mowa w [art. 32](#art-32) ust. 1 pkt 4, lub
 
 b) przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222 i 340);
 
@@ -320,9 +666,9 @@ b) przesyłowego lub dystrybucyjnego gazowego w ramach świadczonych usług prze
 
 23b) zarządzanie ograniczeniami systemowymi – działalność gospodarczą wykonywaną przez operatora systemu w ramach świadczonych odpowiednio usług przesyłania lub dystrybucji, lub przesyłania wodoru, lub dystrybucji wodoru, w celu zapewnienia bezpiecznego funkcjonowania systemu:19)
 
-a) elektroenergetycznego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie art. 9 ust. 3 i 4, wymaganych parametrów jakościowych energii elektrycznej w przypadku wystąpienia ograniczeń technicznych, w tym ograniczeń sieciowych, w pracy tego systemu,
+a) elektroenergetycznego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie [art. 9](#art-9) ust. 3 i 4, wymaganych parametrów jakościowych energii elektrycznej w przypadku wystąpienia ograniczeń technicznych, w tym ograniczeń sieciowych, w pracy tego systemu,
 
-b) gazowego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie art. 9 ust. 1 i 2, wymaganych parametrów technicznych paliw gazowych w przypadku wystąpienia ograniczeń technicznych w przepustowości tego systemu, c)20) wodorowego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie art. 9 ust. 8a, wymaganych parametrów technicznych wodoru w przypadku wystąpienia ograniczeń technicznych w przepustowości tego systemu;
+b) gazowego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie [art. 9](#art-9) ust. 1 i 2, wymaganych parametrów technicznych paliw gazowych w przypadku wystąpienia ograniczeń technicznych w przepustowości tego systemu, c)20) wodorowego oraz zapewnienia, zgodnie z przepisami wydanymi na podstawie [art. 9](#art-9) ust. 8a, wymaganych parametrów technicznych wodoru w przypadku wystąpienia ograniczeń technicznych w przepustowości tego systemu;
 
 23c) niezbilansowanie – niezbilansowanie w rozumieniu art. 2 pkt 8 rozporządzenia 2017/2195;
 
@@ -402,9 +748,9 @@ c) zlokalizowanych na obszarze działania danego operatora systemu dystrybucyjne
 
 40a) rynek bilansujący energii elektrycznej – rynek bilansujący w rozumieniu art. 2 pkt 2 rozporządzenia 2017/2195, w ramach którego operator systemu przesyłowego elektroenergetycznego:
 
-a) nabywa usługi bilansujące świadczone przez dostawców usług bilansujących w rozumieniu art. 2 pkt 6 tego rozporządzenia,
+a) nabywa usługi bilansujące świadczone przez dostawców usług bilansujących w rozumieniu [art. 2](#art-2) pkt 6 tego rozporządzenia,
 
-b) prowadzi zintegrowany proces grafikowania w rozumieniu art. 2 pkt 19 tego rozporządzenia,
+b) prowadzi zintegrowany proces grafikowania w rozumieniu [art. 2](#art-2) pkt 19 tego rozporządzenia,
 
 c) prowadzi bilansowanie systemu,
 
@@ -472,7 +818,7 @@ b) przetworzenie energii elektrycznej pobranej z sieci elektroenergetycznej lub 
 
 c) przetworzenie energii elektrycznej pobranej z systemu nieprzyłączonego do sieci elektroenergetycznej, przechowanie tej energii, a następnie wykorzystanie jej w postaci nośnika energii;
 
-60) grupy i podgrupy przyłączeniowe – grupy podmiotów ubiegające się o przyłączenie do sieci, określone w przepisach wydanych na podstawie art. 9 ust. 1–4;
+60) grupy i podgrupy przyłączeniowe – grupy podmiotów ubiegające się o przyłączenie do sieci, określone w przepisach wydanych na podstawie [art. 9](#art-9) ust. 1–4;
 
 61) dane pomiarowe – dane pozyskiwane lub wyznaczane dla punktu pomiarowego;
 
@@ -546,12 +892,14 @@ b) służy do dostarczania wodoru do odbiorców bezpośrednio przyłączonych do
 
 92)[27)] operator systemu wodorowego – operatora systemu przesyłowego wodorowego, operatora systemu dystrybucyjnego wodorowego, operatora systemu połączonego wodorowego lub operatora systemu magazynowania wodoru.
 
+<a id="art-3a"></a>
 ### Art. 3a.
 
 1.28) Korespondencja między przedsiębiorstwami energetycznymi, odbiorcami, organami administracji publicznej oraz innymi podmiotami, w tym wnioski, oświadczenia, informacje, powiadomienia, jest wymieniana w postaci papierowej, dokumentowej, elektronicznej lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513).
 
 2. Odbiorca, o którym mowa w ust. 1, może wyrazić zgodę na przekazywanie korespondencji za pomocą środków komunikacji elektronicznej.
 
+<a id="art-4"></a>
 ### Art. 4.
 
 1.29) Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii, przesyłaniem wodoru, dystrybucją wodoru, magazynowaniem energii lub paliw gazowych, w tym skroplonego gazu ziemnego, skraplaniem gazu ziemnego, regazyfikacją skroplonego gazu ziemnego lub magazynowaniem wodoru jest obowiązane utrzymywać zdolność urządzeń, instalacji i sieci do realizacji zaopatrzenia w te paliwa gazowe, tę energię lub ten wodór w sposób ciągły i niezawodny, przy zachowaniu obowiązujących wymagań jakościowych.
@@ -560,14 +908,17 @@ b) służy do dostarczania wodoru do odbiorców bezpośrednio przyłączonych do
 
 3.[30)] Przedsiębiorstwo energetyczne zajmujące się przesyłaniem wodoru lub dystrybucją wodoru jest obowiązane zapewniać odbiorcom oraz przedsiębiorcom zajmującym się sprzedażą wodoru, na zasadzie równoprawnego traktowania, świadczenie usług przesyłania wodoru lub dystrybucji wodoru, z uwzględnieniem warunków technicznych i ekonomicznych, na warunkach uzgodnionych przez strony w drodze umowy.
 
+<a id="art-4a"></a>
 ### Art. 4a.
 
 (uchylony)
 
+<a id="art-4b"></a>
 ### Art. 4b.
 
 (uchylony)
 
+<a id="art-4ba"></a>
 ### Art. 4ba.
 
 1. Przedsiębiorstwo energetyczne zajmujące się magazynowaniem, przeładunkiem, przesyłaniem lub dystrybucją paliw ciekłych prowadzi wykaz przedsiębiorstw energetycznych zajmujących się wytwarzaniem, obrotem, w tym obrotem z zagranicą paliwami ciekłymi, podmiotów przywożących i odbiorców końcowych paliw ciekłych, którym świadczyli w ciągu ostatnich 12 miesięcy odpowiednio usługi magazynowania, przeładunku, przesyłania lub dystrybucji. Wykaz ustalany jest na ostatni dzień każdego miesiąca kalendarzowego w terminie do 7 dni od ostatniego dnia miesiąca.
@@ -616,6 +967,7 @@ f) serię i numer dokumentu tożsamości w przypadku osób fizycznych;
 
 9. (uchylony)
 
+<a id="art-4c"></a>
 ### Art. 4c.
 
 1. Przedsiębiorstwo energetyczne zajmujące się magazynowaniem paliw gazowych jest obowiązane zapewniać odbiorcom oraz przedsiębiorstwom zajmującym się sprzedażą paliw gazowych, na zasadzie równoprawnego traktowania, świadczenie usług magazynowania paliw gazowych w instalacjach magazynowych. Świadczenie usług magazynowania paliw gazowych odbywa się na podstawie umowy o świadczenie tych usług.
@@ -624,6 +976,7 @@ f) serię i numer dokumentu tożsamości w przypadku osób fizycznych;
 
 3. Udostępnienie części instalacji, o której mowa w ust. 2, następuje za wynagrodzeniem, na zasadach określonych w odrębnej umowie. Ustalając wysokość wynagrodzenia należy stosować stawki opłat za usługi magazynowania paliw gazowych ustalone w taryfie przedsiębiorstwa energetycznego zajmującego się magazynowaniem tych paliw.
 
+<a id="art-4ca"></a>
 ### Art. 4ca. [31)]
 
 1. Przedsiębiorstwo energetyczne zajmujące się magazynowaniem wodoru jest obowiązane zapewniać podmiotom zajmującym się wytwarzaniem wodoru lub sprzedażą wodoru świadczenie usług magazynowania wodoru w instalacji magazynowej wodoru. Świadczenie usług magazynowania wodoru odbywa się na warunkach uzgodnionych przez strony w drodze umowy o świadczenie tych usług.
@@ -632,6 +985,7 @@ f) serię i numer dokumentu tożsamości w przypadku osób fizycznych;
 
 3. Udostępnienie części instalacji, o której mowa w ust. 2, następuje za wynagrodzeniem, na zasadach określonych w odrębnej umowie.
 
+<a id="art-4d"></a>
 ### Art. 4d.
 
 1. Przedsiębiorstwo zajmujące się transportem wydobytego gazu ziemnego jest obowiązane, przestrzegając zasad bezpieczeństwa, warunków eksploatacji podłączonych złóż, realizacji zawartych umów w zakresie sprzedaży wydobywanych kopalin oraz uwzględniając dostępną albo możliwą do uzyskania przepustowość sieci gazociągów kopalnianych i wymogi ochrony środowiska, zapewniać odbiorcom oraz przedsiębiorstwom zajmującym się sprzedażą paliw gazowych, na zasadzie równoprawnego traktowania, świadczenie usług transportu gazu ziemnego siecią gazociągów kopalnianych do miejsca ich dostarczania wybranego przez odbiorcę lub przez przedsiębiorstwo zajmujące się sprzedażą paliw gazowych; świadczenie usług transportu gazu ziemnego odbywa się na podstawie umowy o świadczenie tych usług.
@@ -652,49 +1006,56 @@ a) mogłoby spowodować obniżenie obecnego lub planowanego wydobycia gazu ziemn
 
 b) uniemożliwiałoby zaspokojenie uzasadnionych potrzeb właściciela lub użytkownika sieci gazociągów kopalnianych lub przedsiębiorstwa zajmującego się transportem wydobytego gazu ziemnego w zakresie jego transportu lub uzdatniania.
 
+<a id="art-4e"></a>
 ### Art. 4e.
 
 1. Przedsiębiorstwo energetyczne zajmujące się skraplaniem gazu ziemnego lub regazyfikacją skroplonego gazu ziemnego przy użyciu instalacji skroplonego gazu ziemnego jest obowiązane, jeżeli jest to konieczne ze względów technicznych lub ekonomicznych, zapewniać odbiorcom oraz przedsiębiorstwom zajmującym się sprzedażą paliw gazowych, na zasadzie równoprawnego traktowania, świadczenie usług polegających na skraplaniu gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego; świadczenie tych usług odbywa się na podstawie umowy o świadczenie usług skraplania gazu ziemnego.
 
 2. Przepisu ust. 1 nie stosuje się do terminali skroplonego gazu ziemnego przeznaczonych do magazynowania tego gazu.
 
+<a id="art-4e1"></a>
 ### Art. 4e[1].
 
 Usługi przesyłania, dystrybucji, magazynowania paliw gazowych, skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego mogą być świadczone wyłącznie odpowiednio przez operatora systemu przesyłowego, operatora systemu dystrybucyjnego, operatora systemu magazynowania paliw gazowych, operatora systemu skraplania gazu ziemnego lub operatora systemu połączonego.
 
+<a id="art-4e2"></a>
 ### Art. 4e[2].
 
 (uchylony)
 
+<a id="art-4e3"></a>
 ### Art. 4e[3].
 
 32) Usługi przesyłania wodoru, dystrybucji wodoru lub magazynowania wodoru mogą być świadczone wyłącznie odpowiednio przez operatora systemu przesyłowego wodorowego, operatora systemu dystrybucyjnego wodorowego, operatora systemu magazynowania wodoru lub operatora systemu połączonego wodorowego.
 
+<a id="art-4f"></a>
 ### Art. 4f.
 
-1. Świadczenie usług, o których mowa w art. 4 ust. 2, art. 4c, art. 4d ust. 1 oraz art. 4e ust. 1, nie może obniżać niezawodności dostarczania i jakości paliw gazowych lub energii poniżej poziomu określonego w odrębnych przepisach oraz powodować niekorzystnej zmiany cen lub stawek opłat za dostarczane paliwa gazowe lub energię i zakresu ich dostarczania odbiorcom przyłączonym do sieci, a także uniemożliwiać wywiązywanie się przez przedsiębiorstwa energetyczne z obowiązków w zakresie ochrony interesów odbiorców i ochrony środowiska.
+1. Świadczenie usług, o których mowa w [art. 4](#art-4) ust. 2, [art. 4c](#art-4c), [art. 4d](#art-4d) ust. 1 oraz [art. 4e](#art-4e) ust. 1, nie może obniżać niezawodności dostarczania i jakości paliw gazowych lub energii poniżej poziomu określonego w odrębnych przepisach oraz powodować niekorzystnej zmiany cen lub stawek opłat za dostarczane paliwa gazowe lub energię i zakresu ich dostarczania odbiorcom przyłączonym do sieci, a także uniemożliwiać wywiązywanie się przez przedsiębiorstwa energetyczne z obowiązków w zakresie ochrony interesów odbiorców i ochrony środowiska.
 
-2. Przepisów art. 4 ust. 2, art. 4c, art. 4d ust. 1 oraz art. 4e ust. 1 nie stosuje się do świadczenia usług przesyłania lub dystrybucji paliw gazowych lub energii, magazynowania tych paliw i skraplania gazu ziemnego odbiorcom, jeżeli te paliwa lub energia byłyby dostarczane z systemu gazowego lub systemu elektroenergetycznego innego państwa, które nie nałożyło obowiązku świadczenia tych usług na działające w tym państwie przedsiębiorstwa, lub gdy odbiorca, do którego paliwa gazowe lub energia elektryczna miałyby być dostarczane, nie jest uznany za odbiorcę uprawnionego do korzystania z tych usług w tym państwie.
+2. Przepisów [art. 4](#art-4) ust. 2, [art. 4c](#art-4c), [art. 4d](#art-4d) ust. 1 oraz [art. 4e](#art-4e) ust. 1 nie stosuje się do świadczenia usług przesyłania lub dystrybucji paliw gazowych lub energii, magazynowania tych paliw i skraplania gazu ziemnego odbiorcom, jeżeli te paliwa lub energia byłyby dostarczane z systemu gazowego lub systemu elektroenergetycznego innego państwa, które nie nałożyło obowiązku świadczenia tych usług na działające w tym państwie przedsiębiorstwa, lub gdy odbiorca, do którego paliwa gazowe lub energia elektryczna miałyby być dostarczane, nie jest uznany za odbiorcę uprawnionego do korzystania z tych usług w tym państwie.
 
-3.[33)] W przypadku odmowy świadczenia usług, o których mowa w art. 4 ust. 2, art. 4c, art. 4d ust. 1 oraz art. 4e ust. 1, z powodu nieuznania odbiorcy za uprawnionego do wyboru sprzedawcy w jednym z dwóch państw członkowskich Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – będącym stroną umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu Regulacji Energetyki może, na uzasadniony wniosek odbiorcy lub sprzedawcy, zwrócić się do Komisji Europejskiej o zobowiązanie państwa, w którym odmówiono świadczenia tych usług, do realizacji żądanej usługi, za pośrednictwem odpowiednio:
+3.[33)] W przypadku odmowy świadczenia usług, o których mowa w [art. 4](#art-4) ust. 2, [art. 4c](#art-4c), [art. 4d](#art-4d) ust. 1 oraz [art. 4e](#art-4e) ust. 1, z powodu nieuznania odbiorcy za uprawnionego do wyboru sprzedawcy w jednym z dwóch państw członkowskich Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – będącym stroną umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu Regulacji Energetyki może, na uzasadniony wniosek odbiorcy lub sprzedawcy, zwrócić się do Komisji Europejskiej o zobowiązanie państwa, w którym odmówiono świadczenia tych usług, do realizacji żądanej usługi, za pośrednictwem odpowiednio:
 
 1) ministra właściwego do spraw energii – w przypadku odmowy świadczenia usług w zakresie energii;
 
 2) ministra właściwego do spraw gospodarki surowcami energetycznymi – w przypadku odmowy świadczenia usług w zakresie paliw gazowych.
 
+<a id="art-4g"></a>
 ### Art. 4g.
 
 1. W przypadku gdy przedsiębiorstwo energetyczne lub przedsiębiorstwo zajmujące się transportem wydobytego gazu ziemnego za pomocą sieci gazociągów kopalnianych odmawia zawarcia umowy o świadczenie usług przesyłania lub dystrybucji paliw gazowych lub energii elektrycznej, umowy o świadczenie usług transportu gazu ziemnego, umowy o świadczenie usług magazynowania paliw gazowych lub umowy o świadczenie usług skraplania gazu ziemnego, jest ono obowiązane niezwłocznie przedłożyć Prezesowi Urzędu Regulacji Energetyki oraz zainteresowanemu podmiotowi powiadomienie o odmowie zawarcia umowy wraz z uzasadnieniem.
 
 2. W przypadku odmowy zawarcia umowy o świadczenie usługi przesyłania lub dystrybucji energii elektrycznej operator systemu elektroenergetycznego, na żądanie podmiotu występującego o jej zawarcie, przedstawia temu podmiotowi istotne informacje o działaniach, jakie należy podjąć, aby wzmocnić sieć w celu umożliwienia zawarcia tej umowy; za opracowanie informacji może być pobrana opłata odzwierciedlająca koszty jej przygotowania.
 
+<a id="art-4h"></a>
 ### Art. 4h.
 
-1. Przedsiębiorstwo energetyczne wchodzące w skład przedsiębiorstwa zintegrowanego pionowo może wystąpić do Prezesa Urzędu Regulacji Energetyki z wnioskiem o czasowe zwolnienie z obowiązków określonych w art. 4 ust. 2, art. 4c, art. 4d ust. 1 oraz art. 4e ust. 1 lub ograniczenie tych obowiązków, jeżeli świadczenie tych usług może spowodować dla przedsiębiorstwa zintegrowanego pionowo trudności ekonomiczne związane z realizacją zobowiązań wynikających z uprzednio zawartych umów przewidujących obowiązek zapłaty za określoną ilość gazu ziemnego, niezależnie od ilości pobranego gazu, lub gdy świadczenie tych usług uniemożliwia wywiązanie się przedsiębiorstwa zintegrowanego pionowo z obowiązków w zakresie ochrony interesów odbiorców i ochrony środowiska.
+1. Przedsiębiorstwo energetyczne wchodzące w skład przedsiębiorstwa zintegrowanego pionowo może wystąpić do Prezesa Urzędu Regulacji Energetyki z wnioskiem o czasowe zwolnienie z obowiązków określonych w [art. 4](#art-4) ust. 2, [art. 4c](#art-4c), [art. 4d](#art-4d) ust. 1 oraz [art. 4e](#art-4e) ust. 1 lub ograniczenie tych obowiązków, jeżeli świadczenie tych usług może spowodować dla przedsiębiorstwa zintegrowanego pionowo trudności ekonomiczne związane z realizacją zobowiązań wynikających z uprzednio zawartych umów przewidujących obowiązek zapłaty za określoną ilość gazu ziemnego, niezależnie od ilości pobranego gazu, lub gdy świadczenie tych usług uniemożliwia wywiązanie się przedsiębiorstwa zintegrowanego pionowo z obowiązków w zakresie ochrony interesów odbiorców i ochrony środowiska.
 
 2. (uchylony)
 
-3. Prezes Urzędu Regulacji Energetyki, na podstawie uzasadnionego wniosku, o którym mowa w ust. 1, może, w drodze decyzji, czasowo zwolnić przedsiębiorstwo energetyczne zajmujące się przesyłaniem, dystrybucją lub transportem gazu ziemnego, magazynowaniem, skraplaniem lub regazyfikacją skroplonego gazu ziemnego z nałożonych na nie obowiązków, o których mowa w art. 4 ust. 2, art. 4c, art. 4d ust. 1 oraz art. 4e ust. 1, lub ograniczyć te obowiązki.
+3. Prezes Urzędu Regulacji Energetyki, na podstawie uzasadnionego wniosku, o którym mowa w ust. 1, może, w drodze decyzji, czasowo zwolnić przedsiębiorstwo energetyczne zajmujące się przesyłaniem, dystrybucją lub transportem gazu ziemnego, magazynowaniem, skraplaniem lub regazyfikacją skroplonego gazu ziemnego z nałożonych na nie obowiązków, o których mowa w [art. 4](#art-4) ust. 2, [art. 4c](#art-4c), [art. 4d](#art-4d) ust. 1 oraz [art. 4e](#art-4e) ust. 1, lub ograniczyć te obowiązki.
 
 3a. Przedsiębiorstwo energetyczne wchodzące w skład przedsiębiorstwa zintegrowanego pionowo może odmówić świadczenia usługi przesyłania, dystrybucji lub transportu gazu ziemnego, usługi magazynowania lub usługi skraplania gazu ziemnego określonych w ust. 1, po uzyskaniu prawomocnej decyzji, o której mowa w ust. 3.
 
@@ -726,9 +1087,10 @@ Usługi przesyłania, dystrybucji, magazynowania paliw gazowych, skraplania gazu
 
 8. Decyzję, o której mowa w ust. 3, wraz z uzasadnieniem Prezes Urzędu Regulacji Energetyki ogłasza niezwłocznie w Biuletynie Urzędu Regulacji Energetyki.
 
+<a id="art-4i"></a>
 ### Art. 4i.
 
-1. Prezes Urzędu Regulacji Energetyki na uzasadniony wniosek przedsiębiorstwa energetycznego może, w drodze decyzji, zwolnić, na czas określony, przedsiębiorstwo to z obowiązków świadczenia usług, o których mowa w art. 4 ust. 2, art. 4c, art. 4d ust. 1 i art. 4e ust. 1, przedkładania taryf do zatwierdzenia, o którym mowa w art. 47 ust. 1, spełniania kryteriów niezależności, o których mowa w art. 9d ust. 1a i wydać zgodę na powierzenie przez to przedsiębiorstwo pełnienia obowiązków operatora systemu przesyłowego na podstawie art. 9h ust. 3 pkt 2, gdy świadczenie tych usług będzie się odbywać z wykorzystaniem gazociągu międzysystemowego, instalacji magazynowej lub instalacji skroplonego gazu ziemnego, których budowa nie została ukończona do dnia 4 sierpnia 2003 r. lub została rozpoczęta po tym dniu, zwanych dalej „nową infrastrukturą”.
+1. Prezes Urzędu Regulacji Energetyki na uzasadniony wniosek przedsiębiorstwa energetycznego może, w drodze decyzji, zwolnić, na czas określony, przedsiębiorstwo to z obowiązków świadczenia usług, o których mowa w [art. 4](#art-4) ust. 2, [art. 4c](#art-4c), [art. 4d](#art-4d) ust. 1 i [art. 4e](#art-4e) ust. 1, przedkładania taryf do zatwierdzenia, o którym mowa w [art. 47](#art-47) ust. 1, spełniania kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 1a i wydać zgodę na powierzenie przez to przedsiębiorstwo pełnienia obowiązków operatora systemu przesyłowego na podstawie [art. 9h](#art-9h) ust. 3 pkt 2, gdy świadczenie tych usług będzie się odbywać z wykorzystaniem gazociągu międzysystemowego, instalacji magazynowej lub instalacji skroplonego gazu ziemnego, których budowa nie została ukończona do dnia 4 sierpnia 2003 r. lub została rozpoczęta po tym dniu, zwanych dalej „nową infrastrukturą”.
 
 2. Zwolnienia, o którym mowa w ust. 1, można udzielić, jeżeli są spełnione łącznie następujące warunki:
 
@@ -792,11 +1154,12 @@ Usługi przesyłania, dystrybucji, magazynowania paliw gazowych, skraplania gazu
 
 10. Decyzję, o której mowa w ust. 1, wraz z uzasadnieniem Prezes Urzędu Regulacji Energetyki ogłasza niezwłocznie w Biuletynie Urzędu Regulacji Energetyki.
 
+<a id="art-4ia"></a>
 ### Art. 4ia.
 
 1. W przypadku zamiaru zmiany przeznaczenia gazociągu bezpośredniego lub sieci gazociągów kopalnianych na sieć dystrybucyjną gazową właściciel tego gazociągu lub tej sieci gazociągów informuje niezwłocznie o tym zamiarze Prezesa Urzędu Regulacji Energetyki oraz odbiorcę końcowego przyłączonego do tego gazociągu lub tej sieci gazociągów.
 
-2. Właściciel gazociągu lub sieci gazociągów, o których mowa w ust. 1, z wyłączeniem przedsiębiorstwa energetycznego, o którym mowa w art. 9d ust. 7 pkt 3 lub 4, przed rozpoczęciem dostarczania paliw gazowych do odbiorcy końcowego paliw gazowych:
+2. Właściciel gazociągu lub sieci gazociągów, o których mowa w ust. 1, z wyłączeniem przedsiębiorstwa energetycznego, o którym mowa w [art. 9d](#art-9d) ust. 7 pkt 3 lub 4, przed rozpoczęciem dostarczania paliw gazowych do odbiorcy końcowego paliw gazowych:
 
 1) zawiera umowę, na mocy której przekazuje tytuł prawny do tego gazociągu lub tej sieci gazociągów:
 
@@ -816,7 +1179,7 @@ d) parametrach jakościowych transportowanych paliw gazowych lub gazu ziemnego o
 
 e) dokumentacji związanej z procesem budowlanym i eksploatacją tego gazociągu lub tej sieci gazociągów.
 
-3. W przypadku gdy decyzja o udzieleniu koncesji na wykonywanie działalności gospodarczej w zakresie dystrybucji paliw gazowych wymaga zmiany, operator systemu dystrybucyjnego gazowego, o którym mowa w ust. 2 pkt 1, lub przedsiębiorstwo energetyczne, o którym mowa w art. 9d ust. 7 pkt 3 lub 4, składa do Prezesa Urzędu Regulacji Energetyki wniosek o zmianę koncesji na dystrybucję paliw gazowych, przed zmianą przeznaczenia gazociągu bezpośredniego lub sieci gazociągów kopalnianych, jednak nie później niż w terminie miesiąca od dnia zawarcia umowy, o której mowa w ust. 2 pkt 1.
+3. W przypadku gdy decyzja o udzieleniu koncesji na wykonywanie działalności gospodarczej w zakresie dystrybucji paliw gazowych wymaga zmiany, operator systemu dystrybucyjnego gazowego, o którym mowa w ust. 2 pkt 1, lub przedsiębiorstwo energetyczne, o którym mowa w [art. 9d](#art-9d) ust. 7 pkt 3 lub 4, składa do Prezesa Urzędu Regulacji Energetyki wniosek o zmianę koncesji na dystrybucję paliw gazowych, przed zmianą przeznaczenia gazociągu bezpośredniego lub sieci gazociągów kopalnianych, jednak nie później niż w terminie miesiąca od dnia zawarcia umowy, o której mowa w ust. 2 pkt 1.
 
 4. W przypadku gdy decyzja o wyznaczeniu operatora systemu dystrybucyjnego gazowego wymaga zmiany, właściciel gazociągu lub sieci gazociągów, o których mowa w ust. 1, składa do Prezesa Urzędu Regulacji Energetyki wniosek o wyznaczenie operatora systemu dystrybucyjnego gazowego na jego sieci, przed zmianą przeznaczenia gazociągu bezpośredniego lub sieci gazociągów kopalnianych, jednak nie później niż w terminie miesiąca od dnia:
 
@@ -828,17 +1191,18 @@ e) dokumentacji związanej z procesem budowlanym i eksploatacją tego gazociągu
 
 1) dotychczasowym sprzedawcą lub
 
-2) w przypadku, w którym dotychczasowym sprzedawcą było przedsiębiorstwo energetyczne, o którym mowa w art. 49b ust. 1, a odbiorca końcowy odebrał w roku poprzednim paliwa gazowe w ilości nie większej niż określona w art. 5b1 ust. 1 lub 8 – z przedsiębiorstwem energetycznym wykonującym działalność gospodarczą w zakresie obrotu paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w art. 5b1 ust. 1.
+2) w przypadku, w którym dotychczasowym sprzedawcą było przedsiębiorstwo energetyczne, o którym mowa w [art. 49b](#art-49b) ust. 1, a odbiorca końcowy odebrał w roku poprzednim paliwa gazowe w ilości nie większej niż określona w [art. 5b1](#art-5b1) ust. 1 lub 8 – z przedsiębiorstwem energetycznym wykonującym działalność gospodarczą w zakresie obrotu paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w [art. 5b1](#art-5b1) ust. 1.
 
 6. Umowa kompleksowa, o której mowa w ust. 5, zawierana jest na czas nieokreślony i obowiązuje od dnia uprawomocnienia się decyzji o wyznaczeniu operatora systemu dystrybucyjnego gazowego dla gazociągu lub sieci gazociągów, o których mowa w ust. 1, lub w przypadku braku konieczności uzyskania koncesji – od dnia ustalonego zgodnie z zasadami ustalonymi w ust. 4 pkt 1 i 2.
 
 7. Umowa z dotychczasowym sprzedawcą wygasa z dniem poprzedzającym uprawomocnienie decyzji o wyznaczeniu operatora systemu dystrybucyjnego gazowego wydanej na wniosek, o którym mowa w ust. 4.
 
+<a id="art-4j"></a>
 ### Art. 4j.
 
 1.34) Odbiorca paliw gazowych, energii lub wodoru ma prawo zakupu tych paliw, tej energii lub tego wodoru od wybranego przez siebie sprzedawcy.
 
-2.[34)] Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii, lub przesyłaniem wodoru, lub dystrybucją wodoru, stosując obiektywne i przejrzyste zasady zapewniające równe traktowanie użytkowników systemu lub użytkowników systemu wodorowego, umożliwia odbiorcy paliw gazowych, energii lub wodoru przyłączonemu do jego sieci zmianę sprzedawcy paliw gazowych, energii lub wodoru, na warunkach i w trybie określonych w przepisach wydanych na podstawie art. 9 ust. 1, 3 lub 8a.
+2.[34)] Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii, lub przesyłaniem wodoru, lub dystrybucją wodoru, stosując obiektywne i przejrzyste zasady zapewniające równe traktowanie użytkowników systemu lub użytkowników systemu wodorowego, umożliwia odbiorcy paliw gazowych, energii lub wodoru przyłączonemu do jego sieci zmianę sprzedawcy paliw gazowych, energii lub wodoru, na warunkach i w trybie określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 1, 3 lub 8a.
 
 3. Odbiorca końcowy może wypowiedzieć umowę zawartą na czas nieoznaczony, na podstawie której przedsiębiorstwo energetyczne dostarcza temu odbiorcy paliwa gazowe lub energię, bez ponoszenia kosztów, składając do przedsiębiorstwa energetycznego oświadczenie o jej wypowiedzeniu. Odbiorca, który wypowiada umowę, jest obowiązany pokryć należności za pobrane paliwo gazowe lub energię oraz świadczone usługi przesyłania lub dystrybucji paliw gazowych lub energii.
 
@@ -862,17 +1226,20 @@ e) dokumentacji związanej z procesem budowlanym i eksploatacją tego gazociągu
 
 7. Dotychczasowy sprzedawca jest obowiązany dokonać rozliczeń z odbiorcą, który skorzystał z prawa do zmiany sprzedawcy, nie później niż w okresie 42 dni od dnia dokonania tej zmiany. Operator systemu przesyłowego gazowego lub operator systemu dystrybucyjnego gazowego przekazują nieodpłatnie dotychczasowemu i nowemu sprzedawcy paliw gazowych dane dotyczące ilości zużytych paliw gazowych przez odbiorcę końcowego, w terminie umożliwiającym dotychczasowemu sprzedawcy tych paliw dokonanie rozliczeń z odbiorcą końcowym paliw gazowych.
 
+<a id="art-4k"></a>
 ### Art. 4k.
 
 1. Użytkownik systemu elektroenergetycznego, w tym operator systemu dystrybucyjnego, operator systemu przesyłowego lub sprzedawca, prowadzi rozliczenia za energię elektryczną, usługi przesyłania, dystrybucji lub usługi systemowe wyłącznie na podstawie informacji rynku energii zarejestrowanych w centralnym systemie informacji rynku energii.
 
 2. Przepisu ust. 1 nie stosuje się w przypadku awarii centralnego systemu informacji rynku energii uniemożliwiającej dokonywanie rozliczeń za energię elektryczną, usługi przesyłania, dystrybucji lub usługi systemowe.
 
+<a id="rozdzial-2"></a>
 ### Rozdział 2. Dostarczanie paliw i energii
 
+<a id="art-5"></a>
 ### Art. 5.
 
-1. Dostarczanie paliw gazowych lub energii odbywa się, po uprzednim przyłączeniu do sieci, o którym mowa w art. 7, na podstawie umowy sprzedaży i umowy o świadczenie usług przesyłania lub dystrybucji albo umowy sprzedaży, umowy o świadczenie usług przesyłania lub dystrybucji i umowy o świadczenie usług magazynowania paliw gazowych lub umowy o świadczenie usług skraplania gazu.
+1. Dostarczanie paliw gazowych lub energii odbywa się, po uprzednim przyłączeniu do sieci, o którym mowa w [art. 7](#art-7), na podstawie umowy sprzedaży i umowy o świadczenie usług przesyłania lub dystrybucji albo umowy sprzedaży, umowy o świadczenie usług przesyłania lub dystrybucji i umowy o świadczenie usług magazynowania paliw gazowych lub umowy o świadczenie usług skraplania gazu.
 
 1a. Dostarczanie energii elektrycznej do punktu ładowania w ogólnodostępnej stacji ładowania odbywa się na podstawie:
 
@@ -882,7 +1249,7 @@ e) dokumentacji związanej z procesem budowlanym i eksploatacją tego gazociągu
 
 1b. Sprzedawca jest obowiązany do zawarcia umowy o świadczenie usług przesyłania lub dystrybucji paliw gazowych lub energii elektrycznej z operatorem systemu przesyłowego lub z operatorem systemu dystrybucyjnego, do którego sieci odbiorca jest przyłączony.
 
-1c.[35)] Dostarczanie wodoru odbywa się, po uprzednim przyłączeniu do sieci, o którym mowa w art. 7, na podstawie umowy sprzedaży wodoru i umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru albo umowy sprzedaży wodoru, umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru i umowy o świadczenie usług magazynowania wodoru.
+1c.[35)] Dostarczanie wodoru odbywa się, po uprzednim przyłączeniu do sieci, o którym mowa w [art. 7](#art-7), na podstawie umowy sprzedaży wodoru i umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru albo umowy sprzedaży wodoru, umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru i umowy o świadczenie usług magazynowania wodoru.
 
 1d.[35)] Sprzedawca wodoru jest obowiązany do zawarcia umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru z operatorem systemu przesyłowego wodorowego lub z operatorem systemu dystrybucyjnego wodorowego, do którego sieci odbiorca wodoru jest przyłączony.
 
@@ -890,7 +1257,7 @@ e) dokumentacji związanej z procesem budowlanym i eksploatacją tego gazociągu
 
 1) umowa sprzedaży – postanowienia określające: miejsce dostarczenia paliw gazowych lub energii do odbiorcy i ilość tych paliw lub energii w podziale na okresy umowne, cenę lub grupę taryfową stosowane w rozliczeniach i warunki wprowadzania zmian tej ceny i grupy taryfowej, sposób prowadzenia rozliczeń, wysokość bonifikaty za niedotrzymanie standardów jakościowych obsługi odbiorców, odpowiedzialność stron za niedotrzymanie warunków umowy, okres obowiązywania umowy i warunki jej rozwiązania oraz pouczenie o konsekwencjach wyboru sprzedawcy rezerwowego paliw gazowych;
 
-2) umowa o świadczenie usług przesyłania lub dystrybucji paliw gazowych lub energii – postanowienia określające: moc umowną i warunki wprowadzania jej zmian, ilość przesyłanych paliw gazowych lub energii w podziale na okresy umowne, miejsca dostarczania paliw gazowych lub energii do sieci i ich odbioru z sieci, standardy jakościowe, warunki zapewnienia niezawodności i ciągłości dostarczania paliw gazowych lub energii, stawki opłat lub grupę taryfową stosowane w rozliczeniach oraz warunki wprowadzania zmian tych stawek i grupy taryfowej, sposób prowadzenia rozliczeń, parametry techniczne paliw gazowych lub energii oraz wysokość bonifikaty za niedotrzymanie tych parametrów oraz standardów jakościowych obsługi odbiorców, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania, a w przypadku instalacji, o których mowa w art. 7 ust. 2f – także szczegółowe zasady stosowania ograniczeń mocy wprowadzanej do sieci elektroenergetycznej, w szczególności okresy doby w poszczególnych miesiącach roku, w których ograniczenia mogą zostać wprowadzone, o których mowa w art. 7 ust. 2f pkt 1, zgodne z umową o przyłączenie, o której mowa w art. 7 ust. 2f;
+2) umowa o świadczenie usług przesyłania lub dystrybucji paliw gazowych lub energii – postanowienia określające: moc umowną i warunki wprowadzania jej zmian, ilość przesyłanych paliw gazowych lub energii w podziale na okresy umowne, miejsca dostarczania paliw gazowych lub energii do sieci i ich odbioru z sieci, standardy jakościowe, warunki zapewnienia niezawodności i ciągłości dostarczania paliw gazowych lub energii, stawki opłat lub grupę taryfową stosowane w rozliczeniach oraz warunki wprowadzania zmian tych stawek i grupy taryfowej, sposób prowadzenia rozliczeń, parametry techniczne paliw gazowych lub energii oraz wysokość bonifikaty za niedotrzymanie tych parametrów oraz standardów jakościowych obsługi odbiorców, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania, a w przypadku instalacji, o których mowa w [art. 7](#art-7) ust. 2f – także szczegółowe zasady stosowania ograniczeń mocy wprowadzanej do sieci elektroenergetycznej, w szczególności okresy doby w poszczególnych miesiącach roku, w których ograniczenia mogą zostać wprowadzone, o których mowa w [art. 7](#art-7) ust. 2f pkt 1, zgodne z umową o przyłączenie, o której mowa w [art. 7](#art-7) ust. 2f;
 
 3) umowa o świadczenie usług magazynowania paliw gazowych – postanowienia określające: moc umowną i warunki wprowadzania jej zmian, ilość paliw gazowych, miejsce, okres i sposób ich przechowywania, stawkę opłat lub grupę taryfową stosowane w rozliczeniach i warunki wprowadzania zmian tej stawki i grupy taryfowej, sposób prowadzenia rozliczeń, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania;
 
@@ -914,23 +1281,23 @@ a) oznaczenie przez sprzedawcę podmiotu odpowiedzialnego za jego bilansowanie, 
 
 b) sposób przekazywania danych pomiarowych o ilości zużytej energii elektrycznej przez odbiorców, z którymi sprzedawca ma zawarte umowy sprzedaży energii elektrycznej.
 
-2a[1]. Umowa o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, której stroną jest użytkownik systemu będący stroną umowy o przyłączenie do sieci, o której mowa w art. 7 ust. 1g, zawiera również:
+2a[1]. Umowa o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, której stroną jest użytkownik systemu będący stroną umowy o przyłączenie do sieci, o której mowa w [art. 7](#art-7) ust. 1g, zawiera również:
 
-1) szczegółowy opis sposobu zabezpieczenia przez użytkownika systemu zdolności technicznych instalacji odnawialnego źródła energii przyłączonych do sieci w jednym miejscu przyłączenia do nieprzekraczania mocy przyłączeniowej, o których mowa w art. 7 ust. 22, oraz zobowiązanie użytkownika systemu do nieprzekraczania tej mocy;
+1) szczegółowy opis sposobu zabezpieczenia przez użytkownika systemu zdolności technicznych instalacji odnawialnego źródła energii przyłączonych do sieci w jednym miejscu przyłączenia do nieprzekraczania mocy przyłączeniowej, o których mowa w [art. 7](#art-7) ust. 22, oraz zobowiązanie użytkownika systemu do nieprzekraczania tej mocy;
 
 2) wykaz punktów poboru energii każdej z instalacji odnawialnego źródła energii zlokalizowanych w jednym miejscu przyłączenia oraz oznaczenie podmiotu odpowiedzialnego za ich bilansowanie handlowe;
 
 3) postanowienia dotyczące lokalizacji układów pomiarowo-rozliczeniowych i ich parametrów dla wszystkich instalacji odnawialnego źródła energii przyłączonych w jednym miejscu przyłączenia, których dotyczy umowa o przyłączenie do sieci;
 
-4) wykaz podmiotów, które są stronami porozumienia, o którym mowa w art. 7 ust. 3de pkt 1;
+4) wykaz podmiotów, które są stronami porozumienia, o którym mowa w [art. 7](#art-7) ust. 3de pkt 1;
 
 5) postanowienia o przyjęciu przez użytkownika systemu odpowiedzialności na zasadzie ryzyka za naruszenie zobowiązań w zakresie wyprowadzania lub poboru mocy oraz innych wymagań związanych z korzystaniem z jednego przyłącza do sieci, spowodowanych działaniem lub zaniechaniem któregokolwiek z wytwórców w instalacji odnawialnego źródła energii przyłączonych do sieci w tym samym miejscu przyłączenia;
 
-6) zobowiązanie użytkownika systemu będącego stroną umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, do przyjmowania i realizacji poleceń wydawanych przez operatora systemu elektroenergetycznego, na podstawie przepisów prawa powszechnie obowiązującego oraz instrukcji, o których mowa w art. 9g, dotyczących mocy i parametrów energii elektrycznej wprowadzanej do sieci w miejscu przyłączenia.
+6) zobowiązanie użytkownika systemu będącego stroną umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, do przyjmowania i realizacji poleceń wydawanych przez operatora systemu elektroenergetycznego, na podstawie przepisów prawa powszechnie obowiązującego oraz instrukcji, o których mowa w [art. 9g](#art-9g), dotyczących mocy i parametrów energii elektrycznej wprowadzanej do sieci w miejscu przyłączenia.
 
-2a[2]. Za zobowiązania wynikające z umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, o której mowa w ust. 2a1, strony porozumienia, o którym mowa w art. 7 ust. 3de pkt 1, odpowiadają solidarnie. Odpowiedzialność za spowodowane działaniem lub zaniechaniem którejkolwiek ze stron naruszenie zobowiązań wynikających z tej umowy jest ograniczona do wysokości rzeczywistej szkody poniesionej przez operatora systemu elektroenergetycznego, powiększonej o bonifikaty i odszkodowania za szkody powstałe w wyniku tego działania lub zaniechania wytwórcy należne użytkownikom systemu przyłączonym do sieci tego operatora.
+2a[2]. Za zobowiązania wynikające z umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, o której mowa w ust. 2a1, strony porozumienia, o którym mowa w [art. 7](#art-7) ust. 3de pkt 1, odpowiadają solidarnie. Odpowiedzialność za spowodowane działaniem lub zaniechaniem którejkolwiek ze stron naruszenie zobowiązań wynikających z tej umowy jest ograniczona do wysokości rzeczywistej szkody poniesionej przez operatora systemu elektroenergetycznego, powiększonej o bonifikaty i odszkodowania za szkody powstałe w wyniku tego działania lub zaniechania wytwórcy należne użytkownikom systemu przyłączonym do sieci tego operatora.
 
-2a[3]. Zmiana stron porozumienia, o którym mowa w art. 7 ust. 3de pkt 1, powoduje konieczność zmiany w tym zakresie umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, o której mowa w ust. 2a1.
+2a[3]. Zmiana stron porozumienia, o którym mowa w [art. 7](#art-7) ust. 3de pkt 1, powoduje konieczność zmiany w tym zakresie umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, o której mowa w ust. 2a1.
 
 2b. Umowa sprzedaży energii elektrycznej, której stroną jest odbiorca niebędący podmiotem odpowiedzialnym za bilansowanie, powinna zawierać także sposób:
 
@@ -942,7 +1309,7 @@ b) standardowego profilu zużycia oraz rzeczywiście pobranej energii elektryczn
 
 2) zgłaszania grafików handlowych.
 
-2c. Umowa o świadczenie usług przesyłania lub dystrybucji energii elektrycznej lub umowa kompleksowa w przypadku odbiorców podlegających ograniczeniom, o których mowa w art. 11 ust. 1–3, zawierają adres poczty elektronicznej lub numer telefonu wskazany przez odbiorcę. Odbiorca jest obowiązany niezwłocznie informować operatora systemu elektroenergetycznego bezpośrednio, a w przypadku gdy zawarł umowę kompleksową – przez sprzedawcę, o każdej zmianie adresu poczty elektronicznej lub numeru telefonu.
+2c. Umowa o świadczenie usług przesyłania lub dystrybucji energii elektrycznej lub umowa kompleksowa w przypadku odbiorców podlegających ograniczeniom, o których mowa w [art. 11](#art-11) ust. 1–3, zawierają adres poczty elektronicznej lub numer telefonu wskazany przez odbiorcę. Odbiorca jest obowiązany niezwłocznie informować operatora systemu elektroenergetycznego bezpośrednio, a w przypadku gdy zawarł umowę kompleksową – przez sprzedawcę, o każdej zmianie adresu poczty elektronicznej lub numeru telefonu.
 
 2d. Umowa sprzedaży energii elektrycznej wytworzonej z odnawialnego źródła energii może zostać zawarta bezpośrednio między wytwórcą w rozumieniu art. 2 pkt 39 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, a odbiorcą, a transport energii elektrycznej stanowiącej przedmiot tej umowy może odbywać się:
 
@@ -990,7 +1357,7 @@ b) standardowego profilu zużycia oraz rzeczywiście pobranej energii elektryczn
 
 4d. Umowa sprzedaży energii elektrycznej oraz umowa kompleksowa, których stroną jest odbiorca końcowy energii elektrycznej, określają strony umowy i zawierają informacje o:
 
-1) prawach tego odbiorcy, a w przypadku gdy stroną umowy jest odbiorca energii elektrycznej w gospodarstwie domowym, także o sposobach pozasądowego rozstrzygania sporów, w tym o sposobie rozwiązywania sporów, o którym mowa w art. 31a ust. 1;
+1) prawach tego odbiorcy, a w przypadku gdy stroną umowy jest odbiorca energii elektrycznej w gospodarstwie domowym, także o sposobach pozasądowego rozstrzygania sporów, w tym o sposobie rozwiązywania sporów, o którym mowa w [art. 31a](#art-31a) ust. 1;
 
 2) możliwości uzyskania pomocy, w przypadku wystąpienia awarii urządzeń, instalacji lub sieci elektroenergetycznej;
 
@@ -1022,7 +1389,7 @@ b) standardowego profilu zużycia oraz rzeczywiście pobranej energii elektryczn
 
 5a. Osoba fizyczna, zawierając umowę kompleksową zawierającą elementy umowy sprzedaży energii elektrycznej, umowę sprzedaży energii elektrycznej albo umowę o świadczenie usług dystrybucji energii elektrycznej, wyraża zgodę na przetwarzanie jej danych osobowych, w tym numeru PESEL albo numeru NIP w przypadku osób fizycznych prowadzących jednoosobową działalność gospodarczą, i przekazanie ich operatorowi informacji rynku energii w zakresie niezbędnym do funkcjonowania centralnego systemu informacji rynku energii.
 
-5b. Szczegółowe zasady i warunki współpracy odbiorców końcowych przyłączonych do sieci przesyłowej gazowej z przedsiębiorstwem energetycznym zajmującym się przesyłaniem paliw gazowych są określone w instrukcji, o której mowa w art. 9g ust. 3, i w porozumieniu zawieranym z podmiotem eksploatującym instalację przyłączoną w fizycznym punkcie wejścia lub wyjścia.
+5b. Szczegółowe zasady i warunki współpracy odbiorców końcowych przyłączonych do sieci przesyłowej gazowej z przedsiębiorstwem energetycznym zajmującym się przesyłaniem paliw gazowych są określone w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 3, i w porozumieniu zawieranym z podmiotem eksploatującym instalację przyłączoną w fizycznym punkcie wejścia lub wyjścia.
 
 6. Sprzedawca:
 
@@ -1096,8 +1463,9 @@ c) zawarcia umowy z ceną dynamiczną energii elektrycznej;
 
 15. Operator systemu dystrybucyjnego i operator systemu przesyłowego informują się niezwłocznie o konieczności zaprzestania świadczenia usług dystrybucji lub usług przesyłania na rzecz sprzedawcy paliw gazowych lub energii elektrycznej oraz o zdarzeniach, które mogą skutkować wystąpieniem konieczności zaprzestania świadczenia tych usług, w szczególności związanych z brakiem odpowiednich gwarancji dotyczących wiarygodności finansowej tego sprzedawcy lub wskazanego przez tego sprzedawcę podmiotu, o którym mowa w ust. 2a pkt 3 lit. a, po powzięciu informacji o konieczności zaprzestania przez tego sprzedawcę sprzedaży paliw gazowych lub energii elektrycznej lub po wystąpieniu zdarzenia, które może skutkować koniecznością zaprzestania świadczenia tych usług. Informacje te operator systemu dystrybucyjnego i operator systemu przesyłowego przekazują niezwłocznie Prezesowi Urzędu Regulacji Energetyki.
 
-16. Przepisów ust. 14 i 15 nie stosuje się do odbiorców końcowych, o których mowa w art. 6a ust. 3 i art. 6b.
+16. Przepisów ust. 14 i 15 nie stosuje się do odbiorców końcowych, o których mowa w [art. 6a](#art-6a) ust. 3 i [art. 6b](#art-6b).
 
+<a id="art-5a"></a>
 ### Art. 5a.
 
 1. Sprzedawca z urzędu jest obowiązany do zapewnienia świadczenia usługi kompleksowej i do zawarcia umowy kompleksowej, na zasadach równoprawnego traktowania, z odbiorcą paliw gazowych lub energii elektrycznej w gospodarstwie domowym, niekorzystającym z prawa wyboru sprzedawcy i przyłączonym do sieci przedsiębiorstwa energetycznego wskazanego w koncesji sprzedawcy z urzędu.
@@ -1108,17 +1476,18 @@ c) zawarcia umowy z ceną dynamiczną energii elektrycznej;
 
 4. Odbiorca paliw gazowych lub energii elektrycznej w gospodarstwie domowym może zrezygnować z usługi kompleksowej świadczonej przez sprzedawcę z urzędu. Odbiorca paliw gazowych lub energii elektrycznej w gospodarstwie domowym, który zrezygnuje z usługi kompleksowej, zachowując przewidziany w umowie okres jej wypowiedzenia, nie może być obciążony przez sprzedawcę z urzędu żadnymi dodatkowymi kosztami z tego tytułu.
 
+<a id="art-5a1"></a>
 ### Art. 5a[1].
 
 1. Agregacja odbywa się na podstawie umowy agregacji zawartej między odbiorcą końcowym energii elektrycznej, wytwórcą energii elektrycznej lub posiadaczem magazynu energii elektrycznej a agregatorem.
 
-2. Umowa, o której mowa w ust. 1, jest zawierana niezależnie od umów, o których mowa w art. 5 ust. 1 lub 3, i nie wymaga zgody sprzedawcy energii elektrycznej lub przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją energii elektrycznej.
+2. Umowa, o której mowa w ust. 1, jest zawierana niezależnie od umów, o których mowa w [art. 5](#art-5) ust. 1 lub 3, i nie wymaga zgody sprzedawcy energii elektrycznej lub przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją energii elektrycznej.
 
 3. Umowa, o której mowa w ust. 1, zawiera co najmniej określenie stron umowy oraz postanowienia określające przedmiot i podstawowe zobowiązania stron, zasady i warunki realizacji agregacji, sposób prowadzenia rozliczeń, odpowiedzialność stron za niedotrzymanie warunków umowy, zasady komunikacji i przekazywania informacji oraz ich ochrony, okres obowiązywania umowy, warunki jej zmiany oraz warunki zakończenia jej obowiązywania.
 
 4. Umowa, o której mowa w ust. 1, może przewidywać także udostępnienie stronom tej umowy platformy partnerskiego handlu energią z odnawialnych źródeł energii, o której mowa w art. 3a ust. 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii. W takim przypadku umowa, o której mowa w ust. 1, zawiera również zasady i warunki realizacji usług udostępniania tej platformy.
 
-5. Agregator informuje operatora systemu elektroenergetycznego i sprzedawcę, w terminie określonym w art. 4j ust. 6a, o zawarciu umowy, o której mowa w ust. 1.
+5. Agregator informuje operatora systemu elektroenergetycznego i sprzedawcę, w terminie określonym w [art. 4j](#art-4j) ust. 6a, o zawarciu umowy, o której mowa w ust. 1.
 
 6. Sprzedawca energii elektrycznej nie może stosować wobec odbiorcy końcowego energii elektrycznej, który zawarł umowę, o której mowa w ust. 1, z niezależnym agregatorem, dyskryminujących wymogów technicznych, procedur, opłat lub kar.
 
@@ -1132,6 +1501,7 @@ c) zawarcia umowy z ceną dynamiczną energii elektrycznej;
 
 11. Przypisanie agregatora do odbiorcy końcowego energii elektrycznej, wytwórcy energii elektrycznej lub posiadacza magazynu energii elektrycznej, na podstawie umowy z agregatorem, następuje w dacie wskazanej w powiadomieniu, o którym mowa w ust. 10, pod warunkiem jego weryfikacji przez operatora systemu elektroenergetycznego i następuje od początku doby w dacie wskazanej w tym powiadomieniu.
 
+<a id="art-5aa"></a>
 ### Art. 5aa.
 
 1. W umowie o świadczenie usługi dystrybucji paliw gazowych lub usługi przesyłania paliw gazowych lub w umowie kompleksowej, odbiorca końcowy wskazuje sprzedawcę rezerwowego paliw gazowych spośród sprzedawców ujętych na liście, o której mowa w ust. 4, oraz upoważnia operatora systemu dystrybucyjnego gazowego lub operatora systemu przesyłowego gazowego, do którego sieci ten odbiorca końcowy jest przyłączony, do zawarcia w jego imieniu i na jego rzecz – w przypadku wygaśnięcia lub zaprzestania wykonywania umowy sprzedaży paliw gazowych lub umowy kompleksowej przez dotychczasowego sprzedawcę – umowy sprzedaży rezerwowej paliw gazowych lub umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej paliw gazowych ze wskazanym przez tego odbiorcę końcowego sprzedawcą rezerwowym paliw gazowych.
@@ -1148,9 +1518,9 @@ c) zawarcia umowy z ceną dynamiczną energii elektrycznej;
 
 1) niezwłocznie po uzyskaniu informacji o konieczności zaprzestania:
 
-a) sprzedaży paliw gazowych, o której mowa w art. 5 ust. 14,
+a) sprzedaży paliw gazowych, o której mowa w [art. 5](#art-5) ust. 14,
 
-b) świadczenia usług dystrybucji lub usług przesyłania paliw gazowych, o której mowa w art. 5 ust. 15,
+b) świadczenia usług dystrybucji lub usług przesyłania paliw gazowych, o której mowa w [art. 5](#art-5) ust. 15,
 
 2) w przypadku wygaśnięcia umowy sprzedaży paliw gazowych lub umowy kompleksowej z dotychczasowym sprzedawcą paliw gazowych – jeżeli odbiorca końcowy nie zgłosił właściwemu operatorowi informacji o zawarciu umowy sprzedaży paliw gazowych lub umowy kompleksowej z innym sprzedawcą w ramach procedury zmiany sprzedawcy, lub gdy sprzedawca wybrany przez odbiorcę końcowego nie podjął sprzedaży paliw gazowych.
 
@@ -1170,14 +1540,15 @@ b) w drodze wypowiedzenia przez odbiorcę końcowego z zachowaniem 7-dniowego ok
 
 9. Sprzedawca rezerwowy paliw gazowych przekazuje odbiorcy końcowemu jeden egzemplarz umowy sprzedaży rezerwowej paliw gazowych lub umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej paliw gazowych wraz z informacją o prawie odbiorcy końcowego do wypowiedzenia tej umowy, w terminie 30 dni od dnia otrzymania od operatora systemu dystrybucyjnego gazowego lub operatora systemu przesyłowego gazowego oświadczenia o przyjęciu oferty sprzedawcy rezerwowego paliw gazowych, o którym mowa w ust. 6.
 
-10. Operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego przekazują dotychczasowemu sprzedawcy i sprzedawcy rezerwowemu paliw gazowych dane dotyczące ilości zużytych przez odbiorcę końcowego paliw gazowych, o którym mowa w ust. 6, w terminie 14 dni od dnia rozpoczęcia sprzedaży rezerwowej paliw gazowych temu odbiorcy końcowemu, w celu umożliwienia dotychczasowemu sprzedawcy dokonania rozliczeń z tym odbiorcą końcowym. Przepis art. 4j ust. 7 stosuje się odpowiednio.
+10. Operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego przekazują dotychczasowemu sprzedawcy i sprzedawcy rezerwowemu paliw gazowych dane dotyczące ilości zużytych przez odbiorcę końcowego paliw gazowych, o którym mowa w ust. 6, w terminie 14 dni od dnia rozpoczęcia sprzedaży rezerwowej paliw gazowych temu odbiorcy końcowemu, w celu umożliwienia dotychczasowemu sprzedawcy dokonania rozliczeń z tym odbiorcą końcowym. Przepis [art. 4j](#art-4j) ust. 7 stosuje się odpowiednio.
 
-11. Przepisów ust. 1–10 nie stosuje się do odbiorców, o których mowa w art. 6a ust. 3 i art. 6b.
+11. Przepisów ust. 1–10 nie stosuje się do odbiorców, o których mowa w [art. 6a](#art-6a) ust. 3 i [art. 6b](#art-6b).
 
 12. W przypadku gdy umowa, o której mowa w ust. 7, przestała obowiązywać lub uległa rozwiązaniu, a operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego nie otrzymali informacji o zawarciu przez odbiorcę końcowego przyłączonego do ich sieci umowy sprzedaży paliw gazowych lub umowy kompleksowej z innym sprzedawcą w ramach procedury zmiany sprzedawcy, operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego zaprzestają dostarczania paliw gazowych odbiorcy końcowemu.
 
 13.[46)] W przypadku gdy na podstawie art. 529 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) jest dokonywany podział spółki będącej sprzedawcą rezerwowym paliw gazowych, z dniem podziału tej spółki sprzedawcą rezerwowym paliw gazowych staje się spółka nabywająca na podstawie planu podziału prawa i obowiązki spółki dzielonej w zakresie realizacji przez spółkę dzieloną obowiązków sprzedawcy rezerwowego paliw gazowych.
 
+<a id="art-5ab"></a>
 ### Art. 5ab.
 
 1. W przypadku gdy dotychczasowy sprzedawca zaprzestał sprzedaży paliw gazowych odbiorcy końcowemu, a:
@@ -1196,10 +1567,11 @@ b) w drodze wypowiedzenia przez odbiorcę końcowego z zachowaniem 7-dniowego ok
 
 6. Operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego przekazują dotychczasowemu sprzedawcy i sprzedawcy z urzędu dane dotyczące ilości zużytych przez odbiorcę końcowego paliw gazowych, o którym mowa w ust. 1, w terminie 14 dni od dnia rozpoczęcia sprzedaży paliw gazowych przez sprzedawcę z urzędu temu odbiorcy w celu umożliwienia dotychczasowemu sprzedawcy dokonanie rozliczeń z tym odbiorcą.
 
-7. Z chwilą uruchomienia sprzedaży rezerwowej paliw gazowych, z przyczyn leżących po stronie dotychczasowego sprzedawcy, dotychczas obowiązująca umowa sprzedaży paliw gazowych albo umowa kompleksowa ulega rozwiązaniu z mocy prawa, bez konieczności ponoszenia przez odbiorcę końcowego dodatkowych kosztów lub opłat. Przepisy art. 4j ust. 3 i 7 stosuje się odpowiednio.
+7. Z chwilą uruchomienia sprzedaży rezerwowej paliw gazowych, z przyczyn leżących po stronie dotychczasowego sprzedawcy, dotychczas obowiązująca umowa sprzedaży paliw gazowych albo umowa kompleksowa ulega rozwiązaniu z mocy prawa, bez konieczności ponoszenia przez odbiorcę końcowego dodatkowych kosztów lub opłat. Przepisy [art. 4j](#art-4j) ust. 3 i 7 stosuje się odpowiednio.
 
-8. Przepisów ust. 1 i 2 nie stosuje się do odbiorców końcowych, o których mowa w art. 6a ust. 3 i art. 6b.
+8. Przepisów ust. 1 i 2 nie stosuje się do odbiorców końcowych, o których mowa w [art. 6a](#art-6a) ust. 3 i [art. 6b](#art-6b).
 
+<a id="art-5ac"></a>
 ### Art. 5ac.
 
 1. W przypadku gdy do centralnego systemu informacji rynku energii nie została przekazana informacja o zawarciu umowy sprzedaży energii elektrycznej lub umowy kompleksowej dla danego punktu poboru energii odbiorcy przyłączonego do sieci dystrybucyjnej elektroenergetycznej, operator informacji rynku energii niezwłocznie informuje o tym sprzedawcę rezerwowego energii elektrycznej.
@@ -1214,9 +1586,9 @@ b) w drodze wypowiedzenia przez odbiorcę końcowego z zachowaniem 7-dniowego ok
 
 6. Przepisów ust. 1 i 3 nie stosuje się w przypadku, gdy:
 
-1) odbiorca pobiera energię elektryczną z wykorzystaniem przedpłatowej formy rozliczeń, o której mowa w art. 11t ust. 12;
+1) odbiorca pobiera energię elektryczną z wykorzystaniem przedpłatowej formy rozliczeń, o której mowa w [art. 11t](#art-11t) ust. 12;
 
-2) nastąpiło wstrzymanie dostaw energii elektrycznej z przyczyn, o których mowa w art. 6a ust. 3 oraz art. 6b ust. 1 i 2;
+2) nastąpiło wstrzymanie dostaw energii elektrycznej z przyczyn, o których mowa w [art. 6a](#art-6a) ust. 3 oraz [art. 6b](#art-6b) ust. 1 i 2;
 
 3) nastąpiło wygaśnięcie lub rozwiązanie umowy o świadczenie usług dystrybucji energii elektrycznej, a odbiorca nie zawarł nowej umowy o świadczenie tych usług;
 
@@ -1228,13 +1600,14 @@ b) w drodze wypowiedzenia przez odbiorcę końcowego z zachowaniem 7-dniowego ok
 
 7. Sprzedaż rezerwowa energii elektrycznej jest uruchamiana z chwilą poinformowania sprzedawcy rezerwowego energii elektrycznej przez operatora informacji rynku energii o potrzebie uruchomienia sprzedaży rezerwowej energii elektrycznej.
 
-8. Cena energii elektrycznej sprzedawanej w ramach sprzedaży rezerwowej energii elektrycznej wynosi nie więcej niż trzykrotność średniej ceny energii elektrycznej, o której mowa w art. 23 ust. 2 pkt 18a, za poprzedni kwartał.
+8. Cena energii elektrycznej sprzedawanej w ramach sprzedaży rezerwowej energii elektrycznej wynosi nie więcej niż trzykrotność średniej ceny energii elektrycznej, o której mowa w [art. 23](#art-23) ust. 2 pkt 18a, za poprzedni kwartał.
 
 9. Z chwilą uruchomienia sprzedaży rezerwowej energii elektrycznej, z przyczyn leżących po stronie dotychczasowego sprzedawcy, dotychczas obowiązująca umowa sprzedaży energii elektrycznej albo umowa kompleksowa ulega rozwiązaniu z mocy prawa, bez konieczności ponoszenia przez odbiorcę końcowego dodatkowych kosztów lub opłat.
 
+<a id="art-5ad"></a>
 ### Art. 5ad.
 
-1. Sprzedawca rezerwowy energii elektrycznej informuje odbiorcę końcowego w terminie 5 dni od dnia udostępnienia przez operatora informacji rynku energii informacji, o której mowa w art. 5ac ust. 1, o:
+1. Sprzedawca rezerwowy energii elektrycznej informuje odbiorcę końcowego w terminie 5 dni od dnia udostępnienia przez operatora informacji rynku energii informacji, o której mowa w [art. 5ac](#art-5ac) ust. 1, o:
 
 1) zawarciu umowy sprzedaży rezerwowej energii elektrycznej lub umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej energii elektrycznej, podstawie prawnej jej zawarcia oraz o dacie rozpoczęcia sprzedaży rezerwowej energii elektrycznej;
 
@@ -1266,15 +1639,15 @@ b) w drodze wypowiedzenia przez odbiorcę końcowego z zachowaniem 7-dniowego ok
 
 1) zakończeniu sprzedaży rezerwowej energii elektrycznej wraz ze wskazaniem przyczyny oraz daty tego zakończenia – niezwłocznie po utracie statusu sprzedawcy rezerwowego energii elektrycznej;
 
-2) rozliczeniu końcowym – w terminie, o którym mowa w art. 4j ust. 7, liczonym od dnia utraty statusu sprzedawcy rezerwowego energii elektrycznej;
+2) rozliczeniu końcowym – w terminie, o którym mowa w [art. 4j](#art-4j) ust. 7, liczonym od dnia utraty statusu sprzedawcy rezerwowego energii elektrycznej;
 
-3) sprzedawcy rezerwowym energii elektrycznej, wyznaczonym zgodnie z art. 5ac ust. 5 – niezwłocznie po jego wyznaczeniu.
+3) sprzedawcy rezerwowym energii elektrycznej, wyznaczonym zgodnie z [art. 5ac](#art-5ac) ust. 5 – niezwłocznie po jego wyznaczeniu.
 
 7. Sprzedawca rezerwowy energii elektrycznej, który utracił status sprzedawcy rezerwowego energii elektrycznej w związku ze zmianą sprzedawcy rezerwowego energii elektrycznej dla obszaru działania operatora systemu dystrybucyjnego elektroenergetycznego, informuje odbiorcę końcowego o:
 
 1) planowanym zakończeniu sprzedaży rezerwowej energii elektrycznej wraz ze wskazaniem przyczyny oraz daty planowanego zakończenia – w terminie 3 dni przed planowaną datą zmiany sprzedawcy rezerwowego energii elektrycznej;
 
-2) rozliczeniu końcowym – w terminie, o którym mowa w art. 4j ust. 7, liczonym od dnia utraty statusu sprzedawcy rezerwowego energii elektrycznej;
+2) rozliczeniu końcowym – w terminie, o którym mowa w [art. 4j](#art-4j) ust. 7, liczonym od dnia utraty statusu sprzedawcy rezerwowego energii elektrycznej;
 
 3) nowym sprzedawcy rezerwowym energii elektrycznej – niezwłocznie po jego wyznaczeniu.
 
@@ -1288,6 +1661,7 @@ b) w drodze wypowiedzenia przez odbiorcę końcowego z zachowaniem 7-dniowego ok
 
 10.[47)] W przypadku gdy na podstawie art. 529 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych jest dokonywany podział spółki będącej sprzedawcą rezerwowym energii elektrycznej, z dniem podziału tej spółki sprzedawcą rezerwowym energii elektrycznej staje się spółka nabywająca na podstawie planu podziału prawa i obowiązki spółki dzielonej w zakresie realizacji przez spółkę dzieloną obowiązków sprzedawcy rezerwowego energii elektrycznej.
 
+<a id="art-5ae"></a>
 ### Art. 5ae.
 
 1. Sprzedaż rezerwowa energii elektrycznej ustaje na skutek:
@@ -1300,18 +1674,21 @@ b) w drodze wypowiedzenia przez odbiorcę końcowego z zachowaniem 7-dniowego ok
 
 2. W przypadkach, o których mowa w ust. 1 pkt 1 i 3, umowa sprzedaży rezerwowej energii elektrycznej lub umowa kompleksowa zawierająca postanowienia umowy sprzedaży rezerwowej energii elektrycznej wygasa z mocy prawa.
 
-3. W przypadku zmiany sprzedawcy rezerwowego energii elektrycznej dotychczasowy sprzedawca rezerwowy energii elektrycznej jest obowiązany dokonać rozliczeń z odbiorcą końcowym nie później niż w terminie, o którym mowa w art. 4j ust. 7, liczonym od dnia dokonania tej zmiany.
+3. W przypadku zmiany sprzedawcy rezerwowego energii elektrycznej dotychczasowy sprzedawca rezerwowy energii elektrycznej jest obowiązany dokonać rozliczeń z odbiorcą końcowym nie później niż w terminie, o którym mowa w [art. 4j](#art-4j) ust. 7, liczonym od dnia dokonania tej zmiany.
 
+<a id="art-5af"></a>
 ### Art. 5af.
 
 1. Odbiorca końcowy może wypowiedzieć umowę sprzedaży rezerwowej energii elektrycznej lub umowę kompleksową zawierającą postanowienia umowy sprzedaży rezerwowej energii elektrycznej z zachowaniem 7-dniowego okresu wypowiedzenia.
 
 2. Umowa sprzedaży rezerwowej energii elektrycznej lub umowa kompleksowa zawierająca postanowienia umowy sprzedaży rezerwowej energii elektrycznej ulega rozwiązaniu z upływem 7 dni od dnia doręczenia sprzedawcy z urzędu oświadczenia odbiorcy końcowego o wypowiedzeniu umowy. Odbiorca może wskazać późniejszy termin rozwiązania umowy, o której mowa w zdaniu pierwszym.
 
+<a id="art-5ag"></a>
 ### Art. 5ag.
 
-Przepisy art. 3 pkt 6c i 29b, art. 5 ust. 14 oraz art. 5ac–5af stosuje się do przedsiębiorstwa zintegrowanego pionowo, o którym mowa w art. 9d ust. 7 pkt 1 i 2, a także do wytwórcy, który jest zaopatrywany w energię elektryczną na podstawie umowy sprzedaży energii elektrycznej albo umowy kompleksowej.
+Przepisy [art. 3](#art-3) pkt 6c i 29b, [art. 5](#art-5) ust. 14 oraz [art. 5ac](#art-5ac)–5af stosuje się do przedsiębiorstwa zintegrowanego pionowo, o którym mowa w [art. 9d](#art-9d) ust. 7 pkt 1 i 2, a także do wytwórcy, który jest zaopatrywany w energię elektryczną na podstawie umowy sprzedaży energii elektrycznej albo umowy kompleksowej.
 
+<a id="art-5b"></a>
 ### Art. 5b.
 
 1. Umowa, na podstawie której przedsiębiorstwo zintegrowane pionowo pełniące funkcję operatora systemu dystrybucyjnego sprzedaje energię elektryczną do odbiorcy końcowego oraz świadczy usługi przesyłania lub dystrybucji energii elektrycznej, z mocy prawa, z dniem wyodrębnienia z tego przedsiębiorstwa jego części niezwiązanej z działalnością dystrybucyjną i wniesienia jej, przed dniem 1 lipca 2007 r., jako wkładu niepieniężnego na pokrycie kapitału zakładowego innego przedsiębiorstwa, staje się umową, której stronami są: przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną do którego wniesiono wkład niepieniężny oraz odbiorca energii elektrycznej.
@@ -1320,21 +1697,22 @@ Przepisy art. 3 pkt 6c i 29b, art. 5 ust. 14 oraz art. 5ac–5af stosuje się do
 
 3. Za zobowiązania wynikające z umowy, na podstawie której przedsiębiorstwo zintegrowane pionowo pełniące funkcję operatora systemu dystrybucyjnego dostarcza energię elektryczną do odbiorcy końcowego, powstałe przed dniem wyodrębnienia, o którym mowa w ust. 1, odpowiadają solidarnie przedsiębiorstwo zintegrowane pionowo pełniące funkcję operatora systemu dystrybucyjnego, z którego wyodrębniono część niezwiązaną z działalnością dystrybucyjną i przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną, do którego wniesiono wkład niepieniężny, o którym mowa w ust. 1.
 
-4. Odbiorca końcowy może wypowiedzieć umowę, o której mowa w ust. 1, na zasadach i w trybie określonym w art. 4j ust. 3 i 4.
+4. Odbiorca końcowy może wypowiedzieć umowę, o której mowa w ust. 1, na zasadach i w trybie określonym w [art. 4j](#art-4j) ust. 3 i 4.
 
 5. Przedsiębiorstwo zintegrowane pionowo pełniące funkcję operatora systemu dystrybucyjnego w terminie 3 miesięcy od dnia wyodrębnienia, o którym mowa w ust. 1, poinformuje odbiorców końcowych przyłączonych do swojej sieci dystrybucyjnej o wyodrębnieniu jego części niezwiązanej z działalnością dystrybucyjną oraz możliwościach, skutkach i terminie złożenia oświadczenia, o którym mowa w ust. 4.
 
+<a id="art-5b1"></a>
 ### Art. 5b[1].
 
-1. Umowa, na podstawie której przedsiębiorstwo energetyczne, o którym mowa w art. 49b ust. 1, dostarcza gaz ziemny wysokometanowy odbiorcy, który odebrał na jej podstawie z sieci przesyłowej lub dystrybucyjnej w każdym punkcie nie więcej niż 25 mln m3 tego gazu w roku poprzedzającym dzień wyodrębnienia, z dniem wyodrębnienia z tego przedsiębiorstwa jego zorganizowanej części i wniesienia jej jako wkładu niepieniężnego na pokrycie kapitału zakładowego innego przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu paliwami gazowymi, staje się z mocy prawa umową, której stronami są: przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu paliwami gazowymi, do którego wniesiono wkład niepieniężny oraz odbiorca tego paliwa.
+1. Umowa, na podstawie której przedsiębiorstwo energetyczne, o którym mowa w [art. 49b](#art-49b) ust. 1, dostarcza gaz ziemny wysokometanowy odbiorcy, który odebrał na jej podstawie z sieci przesyłowej lub dystrybucyjnej w każdym punkcie nie więcej niż 25 mln m3 tego gazu w roku poprzedzającym dzień wyodrębnienia, z dniem wyodrębnienia z tego przedsiębiorstwa jego zorganizowanej części i wniesienia jej jako wkładu niepieniężnego na pokrycie kapitału zakładowego innego przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu paliwami gazowymi, staje się z mocy prawa umową, której stronami są: przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu paliwami gazowymi, do którego wniesiono wkład niepieniężny oraz odbiorca tego paliwa.
 
-2. Dniem wyodrębnienia, o którym mowa w ust. 1, jest dzień wniesienia wkładu niepieniężnego, o którym mowa w ust. 1. Przedsiębiorstwo energetyczne, o którym mowa w art. 49b ust. 1, informuje niezwłocznie Prezesa Urzędu Regulacji Energetyki o dniu wyodrębnienia.
+2. Dniem wyodrębnienia, o którym mowa w ust. 1, jest dzień wniesienia wkładu niepieniężnego, o którym mowa w ust. 1. Przedsiębiorstwo energetyczne, o którym mowa w [art. 49b](#art-49b) ust. 1, informuje niezwłocznie Prezesa Urzędu Regulacji Energetyki o dniu wyodrębnienia.
 
-3. Za zobowiązania wynikające z umów, o których mowa w ust. 1, powstałe przed dniem wyodrębnienia, o którym mowa w ust. 1, odpowiadają solidarnie przedsiębiorstwo energetyczne, o którym mowa w art. 49b ust. 1, z którego wyodrębniono zorganizowaną część, o której mowa w ust. 1, oraz przedsiębiorstwo energetyczne do którego wniesiono wkład niepieniężny, o którym mowa w ust. 1.
+3. Za zobowiązania wynikające z umów, o których mowa w ust. 1, powstałe przed dniem wyodrębnienia, o którym mowa w ust. 1, odpowiadają solidarnie przedsiębiorstwo energetyczne, o którym mowa w [art. 49b](#art-49b) ust. 1, z którego wyodrębniono zorganizowaną część, o której mowa w ust. 1, oraz przedsiębiorstwo energetyczne do którego wniesiono wkład niepieniężny, o którym mowa w ust. 1.
 
 4. Odbiorca w terminie 30 dni od dnia otrzymania informacji, o której mowa w ust. 5, może wypowiedzieć umowę, o której mowa w ust. 1, bez ponoszenia kosztów lub uiszczania odszkodowań, składając oświadczenie do przedsiębiorstwa energetycznego zajmującego się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w ust. 1. Umowa ulega rozwiązaniu z ostatnim dniem miesiąca kalendarzowego następującego po miesiącu, w którym oświadczenie odbiorcy dotarło do tego przedsiębiorstwa energetycznego.
 
-5. Przedsiębiorstwo energetyczne, o którym mowa w art. 49b ust. 1, z którego wyodrębniono zorganizowaną część, o której mowa w ust. 1, w terminie 3 miesięcy od dnia tego wyodrębnienia informuje odbiorców o tym wyodrębnieniu oraz o możliwości, skutkach i terminie złożenia oświadczenia, o którym mowa w ust. 4.
+5. Przedsiębiorstwo energetyczne, o którym mowa w [art. 49b](#art-49b) ust. 1, z którego wyodrębniono zorganizowaną część, o której mowa w ust. 1, w terminie 3 miesięcy od dnia tego wyodrębnienia informuje odbiorców o tym wyodrębnieniu oraz o możliwości, skutkach i terminie złożenia oświadczenia, o którym mowa w ust. 4.
 
 6. Przedsiębiorstwo energetyczne zajmujące się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w ust. 1, wstępuje z dniem wyodrębnienia, o którym mowa w ust. 1, w wynikające z przepisów podatkowych prawa i obowiązki przedsiębiorstwa energetycznego, o którym mowa w art. 49b ust. 1, pozostające w związku ze składnikami majątku wchodzącymi w skład wkładu niepieniężnego. Przepis art. 93d ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm.48)) stosuje się odpowiednio.
 
@@ -1342,24 +1720,27 @@ Przepisy art. 3 pkt 6c i 29b, art. 5 ust. 14 oraz art. 5ac–5af stosuje się do
 
 8. Przepisy ust. 1–7 stosuje się odpowiednio do umów, których przedmiotem jest:
 
-1) gaz ziemny zaazotowany, przy czym wskazane w ust. 1 ilości gazu ziemnego wysokometanowego przelicza się na odpowiednie ilości gazu ziemnego zaazotowanego, na podstawie minimalnych wartości ciepła spalania określonych w przepisach wydanych na podstawie art. 9 ust. 1;
+1) gaz ziemny zaazotowany, przy czym wskazane w ust. 1 ilości gazu ziemnego wysokometanowego przelicza się na odpowiednie ilości gazu ziemnego zaazotowanego, na podstawie minimalnych wartości ciepła spalania określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 1;
 
-2) gaz propan-butan, przy czym wskazane w ust. 1 ilości gazu ziemnego wysokometanowego przelicza się na odpowiednie ilości gazu propan-butan, na podstawie minimalnych wartości ciepła spalania określonych w taryfie przedsiębiorstwa energetycznego, o którym mowa w art. 49b ust. 1, obowiązującej w dniu wyodrębnienia.
+2) gaz propan-butan, przy czym wskazane w ust. 1 ilości gazu ziemnego wysokometanowego przelicza się na odpowiednie ilości gazu propan-butan, na podstawie minimalnych wartości ciepła spalania określonych w taryfie przedsiębiorstwa energetycznego, o którym mowa w [art. 49b](#art-49b) ust. 1, obowiązującej w dniu wyodrębnienia.
 
 9. Przepisów ust. 1–7 nie stosuje się do umów, których przedmiotem jest skroplony gaz ziemny, sprężony gaz ziemny lub umów, na podstawie których odbiorcy nabywają gaz wyłącznie w celu dalszej odsprzedaży, a także do umów zawartych z operatorem systemu przesyłowego gazowego lub operatorem systemu dystrybucyjnego gazowego.
 
-10. Przedsiębiorstwo energetyczne, o którym mowa w art. 49b ust. 1, z którego wyodrębniono zorganizowaną część, o której mowa w ust. 1, jest obowiązane sprzedawać gaz ziemny wysokometanowy na zasadach określonych w art. 49b ust. 1 na giełdach towarowych w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych lub na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany, w sposób zapewniający publiczny, równy dostęp do tego gazu.
+10. Przedsiębiorstwo energetyczne, o którym mowa w [art. 49b](#art-49b) ust. 1, z którego wyodrębniono zorganizowaną część, o której mowa w ust. 1, jest obowiązane sprzedawać gaz ziemny wysokometanowy na zasadach określonych w art. 49b ust. 1 na giełdach towarowych w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych lub na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany, w sposób zapewniający publiczny, równy dostęp do tego gazu.
 
+<a id="art-5b2"></a>
 ### Art. 5b[2].
 
-1. Agregacja odbywa się zgodnie z warunkami korzystania z sieci elektroenergetycznej i wymogami z zakresu przekazywania informacji między przedsiębiorstwami energetycznymi oraz między przedsiębiorstwami energetycznymi a odbiorcami wskazanymi w instrukcji, o której mowa w art. 9g ust. 1, określonymi przez każdego operatora systemu elektroenergetycznego, na którego obszarze działania jest prowadzona agregacja.
+1. Agregacja odbywa się zgodnie z warunkami korzystania z sieci elektroenergetycznej i wymogami z zakresu przekazywania informacji między przedsiębiorstwami energetycznymi oraz między przedsiębiorstwami energetycznymi a odbiorcami wskazanymi w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 1, określonymi przez każdego operatora systemu elektroenergetycznego, na którego obszarze działania jest prowadzona agregacja.
 
 2. Do dostawców mocy w rozumieniu art. 2 pkt 4 ustawy z dnia 8 grudnia 2017 r. o rynku mocy będących podmiotami upoważnionymi przez właścicieli jednostek fizycznych tworzących jednostkę rynku mocy w rozumieniu art. 2 pkt 5 i 12 tej ustawy, w ramach dysponowania nimi na rynku mocy przepisy dotyczące agregacji nie mają wpływu na stosunki i zobowiązania uczestników rynku mocy.
 
+<a id="art-5b3"></a>
 ### Art. 5b[3].
 
 Podmiot, który zamierza prowadzić agregację, i agregator mają prawo do wejścia na rynki energii elektrycznej i uczestniczenia w tych rynkach bez zgody innych uczestników rynku.
 
+<a id="art-5b4"></a>
 ### Art. 5b[4].
 
 1. Agregator może podjąć działalność na terytorium Rzeczypospolitej Polskiej po uzyskaniu wpisu do wykazu agregatorów prowadzonego przez Prezesa Urzędu Regulacji Energetyki.
@@ -1422,11 +1803,12 @@ Podmiot, który zamierza prowadzić agregację, i agregator mają prawo do wejś
 
 11. Wykaz agregatorów jest jawny, prowadzony w postaci elektronicznej i zamieszczany na stronie podmiotowej urzędu obsługującego Prezesa Urzędu Regulacji Energetyki, z wyłączeniem informacji podlegających ochronie danych osobowych.
 
+<a id="art-5c"></a>
 ### Art. 5c.
 
 1. Odbiorcy wrażliwemu energii elektrycznej przysługuje zryczałtowany dodatek energetyczny.
 
-2. Dodatek energetyczny wynosi rocznie nie więcej niż 30 % iloczynu limitu zużycia energii elektrycznej oraz średniej ceny energii elektrycznej dla odbiorcy energii elektrycznej w gospodarstwie domowym, ogłaszanej na podstawie art. 23 ust. 2 pkt 18 lit. d.
+2. Dodatek energetyczny wynosi rocznie nie więcej niż 30 % iloczynu limitu zużycia energii elektrycznej oraz średniej ceny energii elektrycznej dla odbiorcy energii elektrycznej w gospodarstwie domowym, ogłaszanej na podstawie [art. 23](#art-23) ust. 2 pkt 18 lit. d.
 
 3. Wysokość limitu, o którym mowa w ust. 2, wynosi:
 
@@ -1438,6 +1820,7 @@ Podmiot, który zamierza prowadzić agregację, i agregator mają prawo do wejś
 
 4. Minister właściwy do spraw energii ogłasza, w terminie do dnia 30 kwietnia każdego roku, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość dodatku energetycznego na kolejne 12 miesięcy, biorąc pod uwagę środki przewidziane na ten cel w ustawie budżetowej.
 
+<a id="art-5d"></a>
 ### Art. 5d.
 
 1. Dodatek energetyczny przyznaje wójt, burmistrz lub prezydent miasta, w drodze decyzji, na wniosek odbiorcy wrażliwego energii elektrycznej. Do wniosku dołącza się kopię umowy kompleksowej lub umowy sprzedaży energii elektrycznej.
@@ -1446,12 +1829,14 @@ Podmiot, który zamierza prowadzić agregację, i agregator mają prawo do wejś
 
 3. Dane osobowe przetwarzane w zakresie niezbędnym do wypłacenia dodatku energetycznego przechowuje się przez okres nie dłuższy niż 5 lat od dnia zaprzestania wypłacania tego dodatku.
 
+<a id="art-5e"></a>
 ### Art. 5e.
 
 1. Dodatek energetyczny wypłaca się odbiorcy wrażliwemu energii elektrycznej do dnia 10 każdego miesiąca z góry, z wyjątkiem miesiąca stycznia, w którym dodatek energetyczny wypłaca się do dnia 30 stycznia danego roku.
 
-2. Dodatek energetyczny wynosi miesięcznie 1/12 kwoty rocznej dodatku energetycznego ogłaszanej przez ministra właściwego do spraw energii, na podstawie art. 5c ust. 4.
+2. Dodatek energetyczny wynosi miesięcznie 1/12 kwoty rocznej dodatku energetycznego ogłaszanej przez ministra właściwego do spraw energii, na podstawie [art. 5c](#art-5c) ust. 4.
 
+<a id="art-5f"></a>
 ### Art. 5f.
 
 1. Wypłata dodatku energetycznego jest zadaniem z zakresu administracji rządowej. Dodatek energetyczny wypłacają gminy.
@@ -1460,6 +1845,7 @@ Podmiot, który zamierza prowadzić agregację, i agregator mają prawo do wejś
 
 3. Przy ustalaniu wysokości dotacji celowej na realizację wypłat dodatku energetycznego, uwzględnia się koszty wypłacania odbiorcom wrażliwym energii elektrycznej dodatku energetycznego, w wysokości 2 % łącznej kwoty dotacji wypłaconych w gminie.
 
+<a id="art-5g"></a>
 ### Art. 5g.
 
 1. Wojewodowie przekazują dotacje gminom w granicach kwot określonych na ten cel w budżecie państwa.
@@ -1476,6 +1862,7 @@ Podmiot, który zamierza prowadzić agregację, i agregator mają prawo do wejś
 
 7. Wojewodowie przedstawiają ministrowi właściwemu do spraw finansów publicznych zbiorcze rozliczenie dotacji do końca miesiąca następującego po każdym kwartale.
 
+<a id="art-5ga"></a>
 ### Art. 5ga.
 
 1. Odbiorca wrażliwy energii elektrycznej i odbiorca wrażliwy paliw gazowych może złożyć odpowiednio do sprzedawcy energii elektrycznej albo sprzedawcy paliw gazowych wniosek o zastosowanie programu wsparcia wobec zaległych i bieżących należności za energię elektryczną albo paliwa gazowe lub świadczone usługi, zwanego dalej „programem wsparcia”, przedkładając kopię decyzji przyznającej dodatek mieszkaniowy w rozumieniu art. 2 ust. 1 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych.
@@ -1500,6 +1887,7 @@ d) odstąpienie od naliczania odsetek za ich nieterminową zapłatę;
 
 4. Sprzedawca energii elektrycznej lub sprzedawca paliw gazowych jest obowiązany do rozpatrzenia wniosku o zastosowanie programu wsparcia w terminie 21 dni od dnia otrzymania tego wniosku i do poinformowania odbiorcy wrażliwego energii elektrycznej, odbiorcy wrażliwego paliw gazowych albo odbiorcy, o którym mowa w ust. 2, o zastosowanym rozwiązaniu, o którym mowa w ust. 3.
 
+<a id="art-5gb"></a>
 ### Art. 5gb.
 
 1. Ubóstwo energetyczne oznacza sytuację, w której gospodarstwo domowe prowadzone przez jedną osobę lub przez kilka osób wspólnie w samodzielnym lokalu mieszkalnym lub w budynku mieszkalnym jednorodzinnym, w którym nie jest wykonywana działalność gospodarcza, nie może zapewnić sobie wystarczającego poziomu ciepła, chłodu i energii elektrycznej do zasilania urządzeń i do oświetlenia, w przypadku gdy gospodarstwo domowe łącznie spełnia następujące warunki:
@@ -1512,12 +1900,14 @@ d) odstąpienie od naliczania odsetek za ich nieterminową zapłatę;
 
 2. Kryteria ubóstwa energetycznego kwalifikujące do programów redukcji ubóstwa energetycznego określa się każdorazowo w programach wprowadzających instrumenty redukcji ubóstwa energetycznego.
 
+<a id="art-5h"></a>
 ### Art. 5h.
 
 1. Rozliczanie dostarczanej energii elektrycznej, w przypadku jej zwrotu do sieci dystrybucyjnej albo sieci trakcyjnej przyłączonej do sieci dystrybucyjnej w następstwie hamowania pojazdu kolejowego, tramwaju oraz trolejbusa, następuje na podstawie różnicy ilości energii elektrycznej pobranej i zwróconej przez danego odbiorcę, ustalanej w oparciu o rzeczywiste wskazania urządzeń pomiarowo-rozliczeniowych.
 
 2. Rozliczanie strat energii elektrycznej powstałych w sieci dystrybucyjnej oraz w sieci trakcyjnej przyłączonej do sieci dystrybucyjnej podczas dostarczania lub zwrotu tej energii następuje na podstawie umowy.
 
+<a id="art-6"></a>
 ### Art. 6.
 
 1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji paliw lub energii przeprowadza kontrolę legalności pobierania paliw lub energii, kontrolę układów pomiarowo-rozliczeniowych, dotrzymania zawartych umów oraz prawidłowości rozliczeń, zwaną dalej „kontrolą”.
@@ -1564,6 +1954,7 @@ d) odstąpienie od naliczania odsetek za ich nieterminową zapłatę;
 
 3) tryb przeprowadzania kontroli.
 
+<a id="art-6a"></a>
 ### Art. 6a.
 
 1. Przedsiębiorstwo energetyczne może zainstalować przedpłatowy układ pomiarowo-rozliczeniowy służący do rozliczeń za dostarczane paliwa gazowe, energię elektryczną lub ciepło, jeżeli odbiorca:
@@ -1582,19 +1973,20 @@ d) odstąpienie od naliczania odsetek za ich nieterminową zapłatę;
 
 5. W przypadku, o którym mowa w ust. 4, operator systemu dystrybucyjnego instaluje przedpłatowy układ pomiarowo-rozliczeniowy w terminie 60 dni.
 
-6. Realizacja obowiązku, o którym mowa w ust. 5, może nastąpić przez instalację licznika zdalnego odczytu, o którym mowa w art. 11t ust. 12.
+6. Realizacja obowiązku, o którym mowa w ust. 5, może nastąpić przez instalację licznika zdalnego odczytu, o którym mowa w [art. 11t](#art-11t) ust. 12.
 
+<a id="art-6b"></a>
 ### Art. 6b.
 
-1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji paliw gazowych lub energii może wstrzymać, z zastrzeżeniem art. 6c, dostarczanie paliw gazowych lub energii, jeżeli:
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji paliw gazowych lub energii może wstrzymać, z zastrzeżeniem [art. 6c](#art-6c), dostarczanie paliw gazowych lub energii, jeżeli:
 
 1) w wyniku przeprowadzonej kontroli stwierdzono, że nastąpiło nielegalne pobieranie paliw lub energii;
 
 2) odbiorca zwleka z zapłatą za świadczone usługi, co najmniej przez okres 30 dni po upływie terminu płatności.
 
-2. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji paliw gazowych lub energii, na żądanie sprzedawcy paliw gazowych lub energii wstrzymuje, z zastrzeżeniem art. 6c i ust. 3a, dostarczanie paliw gazowych lub energii, jeżeli odbiorca zwleka z zapłatą za świadczone usługi lub za pobrane paliwo gazowe lub energię, co najmniej przez okres 30 dni po upływie terminu płatności.
+2. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji paliw gazowych lub energii, na żądanie sprzedawcy paliw gazowych lub energii wstrzymuje, z zastrzeżeniem [art. 6c](#art-6c) i ust. 3a, dostarczanie paliw gazowych lub energii, jeżeli odbiorca zwleka z zapłatą za świadczone usługi lub za pobrane paliwo gazowe lub energię, co najmniej przez okres 30 dni po upływie terminu płatności.
 
-3. Przedsiębiorstwo energetyczne, któremu odbiorca zwleka z zapłatą za usługi świadczone związane z dostarczaniem paliw gazowych lub energii, powiadamia na piśmie odbiorcę paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym lub odbiorcę paliw gazowych wykorzystującego te paliwa do produkcji energii elektrycznej lub ciepła o zamiarze wstrzymania dostarczania paliw gazowych, energii elektrycznej lub ciepła, jeżeli odbiorca ten nie ureguluje zaległych i bieżących należności w okresie 14 dni od dnia otrzymania tego powiadomienia albo nie złoży w tym terminie wniosku o zastosowanie rozwiązania alternatywnego w stosunku do wstrzymania dostaw energii elektrycznej stosowanego przez sprzedawcę, o którym mowa w ust. 3a. Przedsiębiorstwo energetyczne w powiadomieniu, o którym mowa w zdaniu pierwszym, informuje również, że wznowienie dostarczania energii elektrycznej może nastąpić pod nieobecność odbiorcy energii elektrycznej w gospodarstwie domowym w obiekcie lub lokalu, bez odrębnego powiadomienia tego odbiorcy, a także informuje odbiorcę wrażliwego energii elektrycznej o możliwości złożenia wniosku, o którym mowa w art. 6f. Urządzenia, instalacje lub sieci odbiorcy energii elektrycznej w gospodarstwie domowym powinny być przygotowane przez tego odbiorcę w sposób umożliwiający ich bezpieczną eksploatację po wznowieniu dostarczania energii elektrycznej, zgodną z odrębnymi przepisami.
+3. Przedsiębiorstwo energetyczne, któremu odbiorca zwleka z zapłatą za usługi świadczone związane z dostarczaniem paliw gazowych lub energii, powiadamia na piśmie odbiorcę paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym lub odbiorcę paliw gazowych wykorzystującego te paliwa do produkcji energii elektrycznej lub ciepła o zamiarze wstrzymania dostarczania paliw gazowych, energii elektrycznej lub ciepła, jeżeli odbiorca ten nie ureguluje zaległych i bieżących należności w okresie 14 dni od dnia otrzymania tego powiadomienia albo nie złoży w tym terminie wniosku o zastosowanie rozwiązania alternatywnego w stosunku do wstrzymania dostaw energii elektrycznej stosowanego przez sprzedawcę, o którym mowa w ust. 3a. Przedsiębiorstwo energetyczne w powiadomieniu, o którym mowa w zdaniu pierwszym, informuje również, że wznowienie dostarczania energii elektrycznej może nastąpić pod nieobecność odbiorcy energii elektrycznej w gospodarstwie domowym w obiekcie lub lokalu, bez odrębnego powiadomienia tego odbiorcy, a także informuje odbiorcę wrażliwego energii elektrycznej o możliwości złożenia wniosku, o którym mowa w [art. 6f](#art-6f). Urządzenia, instalacje lub sieci odbiorcy energii elektrycznej w gospodarstwie domowym powinny być przygotowane przez tego odbiorcę w sposób umożliwiający ich bezpieczną eksploatację po wznowieniu dostarczania energii elektrycznej, zgodną z odrębnymi przepisami.
 
 3a. Sprzedawca energii elektrycznej wraz z powiadomieniem, o którym mowa w ust. 3, przekazuje odbiorcy energii elektrycznej w gospodarstwie domowym informację o rozwiązaniu alternatywnym w stosunku do wstrzymania dostaw energii elektrycznej stosowanym przez tego sprzedawcę.
 
@@ -1602,7 +1994,7 @@ d) odstąpienie od naliczania odsetek za ich nieterminową zapłatę;
 
 3c. Rozwiązanie alternatywne, o którym mowa w ust. 3a, stosowane jest przez sprzedawcę energii elektrycznej w stosunku do odbiorcy energii elektrycznej w gospodarstwie domowym na wniosek tego odbiorcy złożony w terminie 14 dni od dnia doręczenia temu odbiorcy powiadomienia, o którym mowa w ust. 3.
 
-3d. Rozwiązaniem alternatywnym, o którym mowa w ust. 3a, stosowanym przez wszystkie przedsiębiorstwa energetyczne w stosunku do odbiorcy wrażliwego energii elektrycznej oraz odbiorcy, o którym mowa w art. 5ga ust. 2, jest zakaz wstrzymywania dostaw energii elektrycznej do tego odbiorcy w okresie od dnia 1 listopada do dnia 31 marca oraz w soboty, w dni uznane ustawowo za wolne od pracy w rozumieniu ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2025 r. poz. 296) i w dni poprzedzające te dni. W powiadomieniu, o którym mowa w ust. 3, przedsiębiorstwo energetyczne informuje odbiorcę wrażliwego energii elektrycznej o możliwości złożenia wniosku, o którym mowa w art. 6f.
+3d. Rozwiązaniem alternatywnym, o którym mowa w ust. 3a, stosowanym przez wszystkie przedsiębiorstwa energetyczne w stosunku do odbiorcy wrażliwego energii elektrycznej oraz odbiorcy, o którym mowa w [art. 5ga](#art-5ga) ust. 2, jest zakaz wstrzymywania dostaw energii elektrycznej do tego odbiorcy w okresie od dnia 1 listopada do dnia 31 marca oraz w soboty, w dni uznane ustawowo za wolne od pracy w rozumieniu ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2025 r. poz. 296) i w dni poprzedzające te dni. W powiadomieniu, o którym mowa w ust. 3, przedsiębiorstwo energetyczne informuje odbiorcę wrażliwego energii elektrycznej o możliwości złożenia wniosku, o którym mowa w art. 6f.
 
 3e. Odbiorca w gospodarstwie domowym może skorzystać raz w danym roku kalendarzowym z rozwiązania alternatywnego, o którym mowa w ust. 3a.
 
@@ -1618,42 +2010,48 @@ d) odstąpienie od naliczania odsetek za ich nieterminową zapłatę;
 
 6. Przepisów ust. 1 pkt 2 i ust. 2 nie stosuje się do obiektów służących obronności państwa.
 
+<a id="art-6c"></a>
 ### Art. 6c.
 
-1. W przypadku, gdy odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym złoży do przedsiębiorstwa energetycznego, o którym mowa w art. 6b ust. 3, reklamację dotyczącą dostarczania paliw gazowych lub energii, nie później niż w terminie 14 dni od dnia otrzymania powiadomienia, o którym mowa w art. 6b ust. 3, dostarczania paliw gazowych lub energii nie wstrzymuje się do czasu rozpatrzenia reklamacji.
+1. W przypadku, gdy odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym złoży do przedsiębiorstwa energetycznego, o którym mowa w [art. 6b](#art-6b) ust. 3, reklamację dotyczącą dostarczania paliw gazowych lub energii, nie później niż w terminie 14 dni od dnia otrzymania powiadomienia, o którym mowa w [art. 6b](#art-6b) ust. 3, dostarczania paliw gazowych lub energii nie wstrzymuje się do czasu rozpatrzenia reklamacji.
 
 1a. Prosumentowi energii odnawialnej, prosumentowi zbiorowemu energii odnawialnej i prosumentowi wirtualnemu energii odnawialnej będącymi konsumentami w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny przysługuje prawo złożenia do przedsiębiorstwa energetycznego reklamacji dotyczącej przyłączenia instalacji odnawialnego źródła energii, rozliczania i dystrybucji energii w niej wytworzonej.
 
 2. Przedsiębiorstwo energetyczne jest obowiązane rozpatrzyć reklamację, w terminie 14 dni od dnia jej złożenia. Jeżeli reklamacja nie została rozpatrzona w tym terminie, uważa się, że została uwzględniona.
 
-3. Jeżeli przedsiębiorstwo energetyczne nie uwzględniło reklamacji, a odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, w terminie 14 dni od dnia otrzymania powiadomienia o nieuwzględnieniu reklamacji, wystąpił do Koordynatora, o którym mowa w art. 31a, z wnioskiem o rozwiązanie sporu w tym zakresie, dostarczania paliw gazowych lub energii nie wstrzymuje się do czasu rozwiązania sporu przez tego Koordynatora.
+3. Jeżeli przedsiębiorstwo energetyczne nie uwzględniło reklamacji, a odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, w terminie 14 dni od dnia otrzymania powiadomienia o nieuwzględnieniu reklamacji, wystąpił do Koordynatora, o którym mowa w [art. 31a](#art-31a), z wnioskiem o rozwiązanie sporu w tym zakresie, dostarczania paliw gazowych lub energii nie wstrzymuje się do czasu rozwiązania sporu przez tego Koordynatora.
 
-4. Jeżeli przedsiębiorstwo energetyczne nie uwzględniło reklamacji prosumenta energii odnawialnej, prosumenta zbiorowego energii odnawialnej lub prosumenta wirtualnego energii odnawialnej będących konsumentami, prosument może wystąpić, w terminie 14 dni od dnia otrzymania powiadomienia o nieuwzględnieniu reklamacji, do Koordynatora do spraw negocjacji, o którym mowa w art. 31a, z wnioskiem o pozasądowe rozwiązanie sporu w tym zakresie.
+4. Jeżeli przedsiębiorstwo energetyczne nie uwzględniło reklamacji prosumenta energii odnawialnej, prosumenta zbiorowego energii odnawialnej lub prosumenta wirtualnego energii odnawialnej będących konsumentami, prosument może wystąpić, w terminie 14 dni od dnia otrzymania powiadomienia o nieuwzględnieniu reklamacji, do Koordynatora do spraw negocjacji, o którym mowa w [art. 31a](#art-31a), z wnioskiem o pozasądowe rozwiązanie sporu w tym zakresie.
 
+<a id="art-6d"></a>
 ### Art. 6d.
 
 1. Jeżeli przedsiębiorstwo energetyczne wstrzymało dostarczanie paliw gazowych lub energii odbiorcy paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, a odbiorca ten złożył reklamację na wstrzymanie dostarczania paliw gazowych lub energii, przedsiębiorstwo energetyczne jest obowiązane wznowić dostarczanie paliw gazowych lub energii w terminie 3 dni od dnia otrzymania reklamacji i kontynuować dostarczanie paliw gazowych lub energii do czasu jej rozpatrzenia.
 
 2. W przypadku gdy reklamacja, o której mowa w ust. 1, nie została pozytywnie rozpatrzona przez przedsiębiorstwo energetyczne i odbiorca wymieniony w ust. 1, wystąpił do Prezesa Urzędu Regulacji Energetyki o rozpatrzenie sporu w tym zakresie, przedsiębiorstwo, o którym mowa w ust. 1, jest obowiązane kontynuować dostarczanie paliw gazowych lub energii do czasu wydania decyzji przez Prezesa Urzędu Regulacji Energetyki.
 
-3. Przepisów ust. 1 i 2 nie stosuje się w przypadku, gdy wstrzymanie dostarczania paliw gazowych lub energii nastąpiło z przyczyn, o których mowa w art. 6b ust. 4, albo rozwiązania sporu przez Koordynatora, o którym mowa w art. 31a, na niekorzyść odbiorcy.
+3. Przepisów ust. 1 i 2 nie stosuje się w przypadku, gdy wstrzymanie dostarczania paliw gazowych lub energii nastąpiło z przyczyn, o których mowa w [art. 6b](#art-6b) ust. 4, albo rozwiązania sporu przez Koordynatora, o którym mowa w [art. 31a](#art-31a), na niekorzyść odbiorcy.
 
+<a id="art-6e"></a>
 ### Art. 6e.
 
-W przypadku wystąpienia przez odbiorcę, o którym mowa w art. 6c ust. 1, z wnioskiem o wszczęcie postępowania przed Koordynatorem, o którym mowa w art. 31a, albo z wnioskiem o rozstrzygnięcie sporu przez Prezesa Urzędu Regulacji Energetyki, przedsiębiorstwo energetyczne, o którym mowa w art. 6b ust. 1, może zainstalować przedpłatowy układ pomiarowo-rozliczeniowy temu odbiorcy. Koszt zainstalowania tego układu ponosi przedsiębiorstwo energetyczne.
+W przypadku wystąpienia przez odbiorcę, o którym mowa w [art. 6c](#art-6c) ust. 1, z wnioskiem o wszczęcie postępowania przed Koordynatorem, o którym mowa w [art. 31a](#art-31a), albo z wnioskiem o rozstrzygnięcie sporu przez Prezesa Urzędu Regulacji Energetyki, przedsiębiorstwo energetyczne, o którym mowa w [art. 6b](#art-6b) ust. 1, może zainstalować przedpłatowy układ pomiarowo-rozliczeniowy temu odbiorcy. Koszt zainstalowania tego układu ponosi przedsiębiorstwo energetyczne.
 
+<a id="art-6f"></a>
 ### Art. 6f.
 
 1. W przypadku gdy odbiorca wrażliwy paliw gazowych lub energii elektrycznej złoży wniosek w przedsiębiorstwie energetycznym zajmującym się dystrybucją paliw gazowych lub energii elektrycznej o zainstalowanie przedpłatowego układu pomiarowo-rozliczeniowego, przedsiębiorstwo to jest obowiązane zainstalować taki układ, w terminie 21 dni od dnia otrzymania wniosku.
 
 2. Koszty zainstalowania przedpłatowego układu pomiarowo-rozliczeniowego ponosi przedsiębiorstwo energetyczne, o którym mowa w ust. 1.
 
+<a id="art-6g"></a>
 ### Art. 6g.
 
-1. Przepisów art. 6a ust. 3 oraz art. 6b ust. 1 pkt 2 i ust. 2 i 3, w zakresie możliwości wstrzymania dostarczania paliw gazowych lub energii, nie stosuje się do odbiorców paliw gazowych, energii lub ciepła w gospodarstwach domowych oraz podmiotów, dla których ustanowiono ograniczenia funkcjonowania lub czasowe ograniczenia zakresu działalności na podstawie przepisów wydanych na podstawie art. 46a i art. 46b pkt 1–6 i 8–12 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675) w ciągu 6 miesięcy od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii.
+1. Przepisów [art. 6a](#art-6a) ust. 3 oraz [art. 6b](#art-6b) ust. 1 pkt 2 i ust. 2 i 3, w zakresie możliwości wstrzymania dostarczania paliw gazowych lub energii, nie stosuje się do odbiorców paliw gazowych, energii lub ciepła w gospodarstwach domowych oraz podmiotów, dla których ustanowiono ograniczenia funkcjonowania lub czasowe ograniczenia zakresu działalności na podstawie przepisów wydanych na podstawie art. 46a i art. 46b pkt 1–6 i 8–12 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675) w ciągu 6 miesięcy od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii.
 
-2. W przypadku gdy odbiorca lub podmiot, o którym mowa w ust. 1, otrzymał powiadomienie, o którym mowa w art. 6b ust. 3, przed dniem ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, termin określony w art. 6b ust. 3 przedłuża się o okres, o którym mowa w ust. 1.
+2. W przypadku gdy odbiorca lub podmiot, o którym mowa w ust. 1, otrzymał powiadomienie, o którym mowa w [art. 6b](#art-6b) ust. 3, przed dniem ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, termin określony w [art. 6b](#art-6b) ust. 3 przedłuża się o okres, o którym mowa w ust. 1.
 
+<a id="art-7"></a>
 ### Art. 7.
 
 1.50) Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii, lub przesyłaniem wodoru, lub dystrybucją wodoru jest obowiązane do zawarcia umowy o przyłączenie do sieci z podmiotami ubiegającymi się o przyłączenie do sieci, na zasadzie równoprawnego traktowania i przyłączania, w pierwszej kolejności, instalacji odnawialnego źródła energii, jeżeli istnieją techniczne i ekonomiczne warunki przyłączenia do sieci i dostarczania tych paliw gazowych, tej energii lub tego wodoru, a żądający zawarcia umowy spełnia warunki przyłączenia do sieci i odbioru, przy czym w przypadku przyłączenia źródła lub magazynu energii elektrycznej moc przyłączeniowa tego źródła lub magazynu energii elektrycznej może być mniejsza lub równa jego mocy zainstalowanej elektrycznej.
@@ -1704,7 +2102,7 @@ W przypadku wystąpienia przez odbiorcę, o którym mowa w art. 6c ust. 1, z wni
 
 2d. Umowa o przyłączenie jednostki wytwórczej lub instalacji odbiorcy końcowego do sieci elektroenergetycznej, w przypadku gdy magazyn energii elektrycznej będzie stanowił część tej jednostki lub instalacji, zawiera postanowienia określone w ust. 2 i 2b.
 
-2e. Umowa o przyłączenie jednostki wytwórczej lub magazynu energii elektrycznej, oprócz postanowień wskazanych w ust. 2–2b i 2d, zawiera postanowienia uprawniające przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej do ograniczania gwarantowanej mocy przyłączeniowej lub wprowadzania ograniczeń operacyjnych, skutkujących brakiem gwarancji niezawodnych dostaw energii elektrycznej, w celu równoważenia dostaw energii elektrycznej z zapotrzebowaniem na tę energię lub zapewnienia bezpieczeństwa pracy sieci elektroenergetycznej, zgodnie z warunkami określonymi w instrukcji, o której mowa w art. 9g ust. 1.
+2e. Umowa o przyłączenie jednostki wytwórczej lub magazynu energii elektrycznej, oprócz postanowień wskazanych w ust. 2–2b i 2d, zawiera postanowienia uprawniające przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej do ograniczania gwarantowanej mocy przyłączeniowej lub wprowadzania ograniczeń operacyjnych, skutkujących brakiem gwarancji niezawodnych dostaw energii elektrycznej, w celu równoważenia dostaw energii elektrycznej z zapotrzebowaniem na tę energię lub zapewnienia bezpieczeństwa pracy sieci elektroenergetycznej, zgodnie z warunkami określonymi w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 1.
 
 2f. W przypadku instalacji odnawialnego źródła energii służącej do wytwarzania biogazu w rozumieniu art. 2 pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, energii elektrycznej z biogazu, ciepła z biogazu lub biometanu z biogazu, wyposażonej w magazyn biogazu, dla których wydano warunki przyłączenia, zgodnie z ust. 8d2a, postanowienia umowy o przyłączenie, o których mowa w ust. 2e:
 
@@ -1716,7 +2114,7 @@ W przypadku wystąpienia przez odbiorcę, o którym mowa w art. 6c ust. 1, z wni
 
 3a. Podmiot ubiegający się o przyłączenie do sieci składa wniosek o określenie warunków przyłączenia do sieci, zwanych dalej „warunkami przyłączenia”, w przedsiębiorstwie energetycznym, do którego sieci ubiega się o przyłączenie.
 
-3b. Wniosek o określenie warunków przyłączenia zawiera w szczególności oznaczenie podmiotu ubiegającego się o przyłączenie, określenie nieruchomości, obiektu lub lokalu, o których mowa w ust. 3, oraz informacje niezbędne do zapewnienia spełnienia wymagań określonych w art. 7a.
+3b. Wniosek o określenie warunków przyłączenia zawiera w szczególności oznaczenie podmiotu ubiegającego się o przyłączenie, określenie nieruchomości, obiektu lub lokalu, o których mowa w ust. 3, oraz informacje niezbędne do zapewnienia spełnienia wymagań określonych w [art. 7a](#art-7a).
 
 3ba. W przypadku instalacji odnawialnego źródła energii służącej do wytwarzania biogazu w rozumieniu art. 2 pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, biogazu rolniczego w rozumieniu art. 2 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, energii elektrycznej z biogazu lub z biogazu rolniczego, ciepła z biogazu lub z biogazu rolniczego, lub biometanu z biogazu lub biometanu z biogazu rolniczego, wyposażonej w magazyn biogazu lub magazyn biogazu rolniczego, wniosek o określenie warunków przyłączenia do sieci elektroenergetycznej o napięciu znamionowym niższym niż 110 kV może zawierać oświadczenie podmiotu ubiegającego się o przyłączenie o zobowiązaniu do bezwarunkowego ograniczenia mocy wprowadzanej do sieci elektroenergetycznej w okresach doby i roku, na zasadach ustalonych przez przedsiębiorstwo energetyczne zajmujące się dystrybucją energii elektrycznej, o których mowa w ust. 8d3, do którego sieci elektroenergetycznej ta instalacja będzie przyłączona, przy jednoczesnym zagwarantowaniu przez to przedsiębiorstwo możliwości wprowadzania energii elektrycznej do sieci z gwarantowaną mocą przyłączeniową przez co najmniej 12 godzin w ciągu doby.
 
@@ -1748,7 +2146,7 @@ c) zasady wspólnej realizacji uprawnień i obowiązków wynikających z warunk�
 
 d) zasady współdzielenia zespołów urządzeń służących do wyprowadzania mocy do miejsca rozgraniczenia własności sieci przedsiębiorstwa energetycznego i instalacji podmiotów przyłączanych,
 
-e) zasady współpracy z podmiotem będącym stroną umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej w realizacji jego obowiązków określonych w art. 9j ust. 7,
+e) zasady współpracy z podmiotem będącym stroną umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej w realizacji jego obowiązków określonych w [art. 9j](#art-9j) ust. 7,
 
 f) zasady rozdziału środków otrzymanych w ramach rekompensaty finansowej w przypadku zastosowania przez operatora redysponowania, o którym mowa w art. 13 ust. 7 rozporządzenia 2019/943, pomiędzy stronami porozumienia,
 
@@ -1814,11 +2212,11 @@ b) istotnych informacji zawartych we wnioskach o określenie warunków przyłąc
 
 3l. W przypadku, o którym mowa w ust. 3k, podmiot, o którym mowa w ust. 3f, jest obowiązany zwrócić przedsiębiorstwu energetycznemu zajmującemu się przesyłaniem lub dystrybucją energii elektrycznej lub paliw gazowych nakłady poniesione przez to przedsiębiorstwo w związku z realizacją umowy o przyłączenie do sieci, zawartej w wyniku złożenia wniosku, o którym mowa w ust. 3f, pomniejszone o wysokość zaliczki wniesionej na podstawie ust. 8a.
 
-4.[56)] Przedsiębiorstwo, o którym mowa w ust. 1, jest obowiązane do spełniania technicznych warunków dostarczania paliw gazowych, energii lub wodoru określonych w przepisach wydanych na podstawie art. 9 ust. 1–4, 7, 8 lub 8a oraz w przepisach odrębnych lub koncesji.
+4.[56)] Przedsiębiorstwo, o którym mowa w ust. 1, jest obowiązane do spełniania technicznych warunków dostarczania paliw gazowych, energii lub wodoru określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 1–4, 7, 8 lub 8a oraz w przepisach odrębnych lub koncesji.
 
-5. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii jest obowiązane zapewnić realizację i finansowanie budowy i rozbudowy sieci, w tym na potrzeby przyłączania podmiotów ubiegających się o przyłączenie, na warunkach określonych w przepisach wydanych na podstawie art. 9 ust. 1–4, 7 i 8 i art. 46 oraz w założeniach lub planach, o których mowa w art. 19 i art. 20, oraz w przepisach odrębnych.
+5. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii jest obowiązane zapewnić realizację i finansowanie budowy i rozbudowy sieci, w tym na potrzeby przyłączania podmiotów ubiegających się o przyłączenie, na warunkach określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 1–4, 7 i 8 i [art. 46](#art-46) oraz w założeniach lub planach, o których mowa w [art. 19](#art-19) i [art. 20](#art-20), oraz w przepisach odrębnych.
 
-5a.[57)] Przedsiębiorstwo energetyczne zajmujące się przesyłaniem wodoru lub dystrybucją wodoru jest obowiązane zapewnić realizację i finansowanie budowy i rozbudowy sieci wodorowej, w tym na potrzeby przyłączania podmiotów ubiegających się o przyłączenie, na warunkach określonych w przepisach wydanych na podstawie art. 9 ust. 8a oraz w przepisach odrębnych.
+5a.[57)] Przedsiębiorstwo energetyczne zajmujące się przesyłaniem wodoru lub dystrybucją wodoru jest obowiązane zapewnić realizację i finansowanie budowy i rozbudowy sieci wodorowej, w tym na potrzeby przyłączania podmiotów ubiegających się o przyłączenie, na warunkach określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 8a oraz w przepisach odrębnych.
 
 6. Budowę i rozbudowę odcinków sieci służących do przyłączenia instalacji należących do podmiotów ubiegających się o przyłączenie do sieci zapewnia przedsiębiorstwo energetyczne, o którym mowa w ust. 1, umożliwiając ich wykonanie zgodnie z zasadami konkurencji także innym przedsiębiorcom zatrudniającym pracowników o odpowiednich kwalifikacjach i doświadczeniu w tym zakresie.
 
@@ -1832,7 +2230,7 @@ b) istotnych informacji zawartych we wnioskach o określenie warunków przyłąc
 
 1b)[58)] za przyłączenie do sieci wodorowej pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia;
 
-2) za przyłączenie do sieci dystrybucyjnej gazowej innej niż wymieniona w pkt 1, sieci elektroenergetycznej o napięciu znamionowym nie wyższym niż 1 kV oraz sieci ciepłowniczej, z wyłączeniem przyłączenia źródeł i sieci, opłatę ustala się w oparciu o stawki opłat zawarte w taryfie, kalkulowane na podstawie jednej czwartej średniorocznych nakładów inwestycyjnych na budowę odcinków sieci służących do przyłączania tych podmiotów, określonych w planie rozwoju, o którym mowa w art. 16; stawki te mogą być kalkulowane w odniesieniu do wielkości mocy przyłączeniowej, jednostki długości odcinka sieci służącego do przyłączenia lub rodzaju tego odcinka;
+2) za przyłączenie do sieci dystrybucyjnej gazowej innej niż wymieniona w pkt 1, sieci elektroenergetycznej o napięciu znamionowym nie wyższym niż 1 kV oraz sieci ciepłowniczej, z wyłączeniem przyłączenia źródeł i sieci, opłatę ustala się w oparciu o stawki opłat zawarte w taryfie, kalkulowane na podstawie jednej czwartej średniorocznych nakładów inwestycyjnych na budowę odcinków sieci służących do przyłączania tych podmiotów, określonych w planie rozwoju, o którym mowa w [art. 16](#art-16); stawki te mogą być kalkulowane w odniesieniu do wielkości mocy przyłączeniowej, jednostki długości odcinka sieci służącego do przyłączenia lub rodzaju tego odcinka;
 
 3) za przyłączenie źródeł współpracujących z siecią oraz sieci przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją paliw gazowych lub energii pobiera się opłatę ustaloną na podstawie rzeczywistych nakładów poniesionych na realizację przyłączenia, z wyłączeniem:
 
@@ -1846,7 +2244,7 @@ b) mikroinstalacji, za której przyłączenie do sieci dystrybucyjnej elektroene
 
 a) do sieci elektroenergetycznej o napięciu znamionowym wyższym niż 1 kV i nie wyższym niż 110 kV opłatę ustala się na podstawie jednej szesnastej rzeczywistych nakładów poniesionych na realizację przyłączenia,
 
-b) do sieci elektroenergetycznej o napięciu znamionowym nie wyższym niż 1 kV opłatę ustala się w oparciu o stawki opłat zawarte w taryfie, kalkulowane na podstawie jednej szesnastej średniorocznych nakładów inwestycyjnych na budowę odcinków sieci służących do przyłączania tych podmiotów, określonych w planie rozwoju, o którym mowa w art. 16; stawki te mogą być kalkulowane w odniesieniu do wielkości mocy przyłączeniowej, jednostki długości odcinka sieci służącego do przyłączenia lub rodzaju tego odcinka;
+b) do sieci elektroenergetycznej o napięciu znamionowym nie wyższym niż 1 kV opłatę ustala się w oparciu o stawki opłat zawarte w taryfie, kalkulowane na podstawie jednej szesnastej średniorocznych nakładów inwestycyjnych na budowę odcinków sieci służących do przyłączania tych podmiotów, określonych w planie rozwoju, o którym mowa w [art. 16](#art-16); stawki te mogą być kalkulowane w odniesieniu do wielkości mocy przyłączeniowej, jednostki długości odcinka sieci służącego do przyłączenia lub rodzaju tego odcinka;
 
 5) (uchylony)
 
@@ -1886,7 +2284,7 @@ b) do sieci elektroenergetycznej o napięciu znamionowym nie wyższym niż 1 kV 
 
 1) oznaczenie podmiotu ubiegającego się o przyłączenie mikroinstalacji do sieci dystrybucyjnej oraz określenie rodzaju i mocy zainstalowanej elektrycznej mikroinstalacji;
 
-2) informacje niezbędne do zapewnienia spełnienia przez mikroinstalację wymagań technicznych i eksploatacyjnych, o których mowa w art. 7a;
+2) informacje niezbędne do zapewnienia spełnienia przez mikroinstalację wymagań technicznych i eksploatacyjnych, o których mowa w [art. 7a](#art-7a);
 
 3) dane o lokalizacji mikroinstalacji.
 
@@ -1902,7 +2300,7 @@ b) do sieci elektroenergetycznej o napięciu znamionowym nie wyższym niż 1 kV 
 
 8d[9]. (uchylony)
 
-8d[10]. Operator systemu dystrybucyjnego elektroenergetycznego może ograniczyć pracę lub odłączyć od sieci mikroinstalację o mocy zainstalowanej większej niż 10 kW przyłączoną do sieci tego operatora w przypadku, gdy wytwarzanie energii elektrycznej w tej mikroinstalacji stanowi zagrożenie bezpieczeństwa pracy tej sieci lub w celu równoważenia dostaw energii elektrycznej z zapotrzebowaniem na tę energię w przypadku wydania polecenia przez operatora systemu przesyłowego elektroenergetycznego, na warunkach określonych w instrukcji, o której mowa w art. 9g ust. 1. Po ustaniu przyczyn, o których mowa w zdaniu pierwszym, operator systemu dystrybucyjnego elektroenergetycznego jest obowiązany niezwłocznie przywrócić stan poprzedni.
+8d[10]. Operator systemu dystrybucyjnego elektroenergetycznego może ograniczyć pracę lub odłączyć od sieci mikroinstalację o mocy zainstalowanej większej niż 10 kW przyłączoną do sieci tego operatora w przypadku, gdy wytwarzanie energii elektrycznej w tej mikroinstalacji stanowi zagrożenie bezpieczeństwa pracy tej sieci lub w celu równoważenia dostaw energii elektrycznej z zapotrzebowaniem na tę energię w przypadku wydania polecenia przez operatora systemu przesyłowego elektroenergetycznego, na warunkach określonych w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 1. Po ustaniu przyczyn, o których mowa w zdaniu pierwszym, operator systemu dystrybucyjnego elektroenergetycznego jest obowiązany niezwłocznie przywrócić stan poprzedni.
 
 8d[11]. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją energii elektrycznej odmawia przyłączenia do sieci, jeżeli przyłączenie źródła do sieci elektroenergetycznej może uniemożliwić przyłączenie mocy wytwórczych:
 
@@ -2042,7 +2440,7 @@ b) art. 29 ust. 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania ener
 
 10. Koszty wynikające z nakładów na realizację przyłączenia podmiotów ubiegających się o przyłączenie, w zakresie, w jakim zostały pokryte wpływami z opłat za przyłączenie do sieci, o których mowa w ust. 8 i 9, nie stanowią podstawy do ustalania w taryfie stawek opłat za przesyłanie lub dystrybucję paliw gazowych lub energii.
 
-11. W umowie o przyłączenie do sieci ciepłowniczej mogą być ustalone niższe stawki opłat za przyłączenie do sieci niż ustalone na podstawie zasad określonych w ust. 8, a w przypadku o którym mowa w art. 7b ust. 1, nie pobiera się opłaty za przyłączenie do sieci.
+11. W umowie o przyłączenie do sieci ciepłowniczej mogą być ustalone niższe stawki opłat za przyłączenie do sieci niż ustalone na podstawie zasad określonych w ust. 8, a w przypadku o którym mowa w [art. 7b](#art-7b) ust. 1, nie pobiera się opłaty za przyłączenie do sieci.
 
 12. Przyłączany podmiot jest obowiązany umożliwić przedsiębiorstwu energetycznemu, o którym mowa w ust. 1, w obrębie swojej nieruchomości budowę i rozbudowę sieci w zakresie niezbędnym do realizacji przyłączenia oraz udostępnić pomieszczenia lub miejsca na zainstalowanie układów pomiarowych, na warunkach określonych w umowie o świadczenie usługi przyłączenia do sieci.
 
@@ -2050,6 +2448,7 @@ b) art. 29 ust. 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania ener
 
 14. Przedsiębiorstwo energetyczne ma obowiązek wydać, na wniosek zainteresowanego, oświadczenie, o którym mowa w przepisach prawa budowlanego, o zapewnieniu dostaw paliw gazowych lub energii oraz warunkach przyłączenia obiektu budowlanego do sieci.
 
+<a id="art-7a"></a>
 ### Art. 7a.
 
 1. Przyłączane do sieci urządzenia, instalacje i sieci podmiotów ubiegających się o przyłączenie muszą spełniać wymagania techniczne i eksploatacyjne zapewniające:
@@ -2082,6 +2481,7 @@ b) art. 29 ust. 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania ener
 
 2) odmowę świadczenia usług przesyłania lub dystrybucji paliw gazowych istniejącą siecią gazową podmiotowi występującemu o uzyskanie zgody oraz nieuwzględnienie złożonej przez niego skargi na tę odmowę.
 
+<a id="art-7aa"></a>
 ### Art. 7aa.
 
 1. Podmiot posiadający tytuł prawny do linii bezpośredniej jest obowiązany do:
@@ -2098,15 +2498,15 @@ b) art. 29 ust. 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania ener
 
 6) złożenia zgłoszenia, o którym mowa w ust. 10, w tym w przypadku zamiaru zmiany informacji lub schematu, o których mowa odpowiednio w ust. 10 pkt 1, 2 i 4, przed dostosowaniem linii bezpośredniej do tych zmian, oraz w przypadku likwidacji linii bezpośredniej.
 
-2. Pobieranie energii elektrycznej za pomocą linii bezpośredniej nie ogranicza prawa odbiorcy do przyłączenia się do sieci elektroenergetycznej i pobierania energii elektrycznej z tej sieci na zasadach określonych w art. 4 ust. 2, o ile jego urządzenia lub instalacje uniemożliwiają wprowadzanie energii elektrycznej dostarczanej linią bezpośrednią do sieci dystrybucyjnej lub przesyłowej, do której odbiorca planuje się przyłączyć.
+2. Pobieranie energii elektrycznej za pomocą linii bezpośredniej nie ogranicza prawa odbiorcy do przyłączenia się do sieci elektroenergetycznej i pobierania energii elektrycznej z tej sieci na zasadach określonych w [art. 4](#art-4) ust. 2, o ile jego urządzenia lub instalacje uniemożliwiają wprowadzanie energii elektrycznej dostarczanej linią bezpośrednią do sieci dystrybucyjnej lub przesyłowej, do której odbiorca planuje się przyłączyć.
 
 3. Energia elektryczna dostarczana linią bezpośrednią może zostać wprowadzona do sieci elektroenergetycznej, jeżeli:
 
-1) są spełnione warunki polegające na przyłączeniu odbiorcy do sieci i zawarciu odpowiednich umów, o których mowa w art. 5 ust. 1;
+1) są spełnione warunki polegające na przyłączeniu odbiorcy do sieci i zawarciu odpowiednich umów, o których mowa w [art. 5](#art-5) ust. 1;
 
 2) są spełnione wymagania techniczne określone w przepisach wydanych na podstawie art. 9 ust. 3 i 4, w aktach prawnych wydanych na podstawie art. 59–61 rozporządzenia 2019/943 oraz w metodach, warunkach, wymogach i zasadach dotyczących wymagań technicznych dla jednostek wytwórczych, ustanowionych na podstawie tych aktów prawnych;
 
-3) została udzielona koncesja, o której mowa w art. 32 ust. 1 pkt 4.
+3) została udzielona koncesja, o której mowa w [art. 32](#art-32) ust. 1 pkt 4.
 
 4. Wydzielony odbiorca, z wyjątkiem wydzielonego odbiorcy nieprzyłączonego do sieci elektroenergetycznej, albo przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną, do którego energia elektryczna jest dostarczana z jednostki wytwórczej linią bezpośrednią w celu bezpośredniego dostarczenia energii elektrycznej do jego własnych obiektów, w tym urządzeń lub instalacji, podmiotów będących jego jednostkami podporządkowanymi w rozumieniu art. 3 ust. 1 pkt 42 ustawy z dnia 29 września 1994 r. o rachunkowości lub do odbiorców przyłączonych do sieci, urządzeń lub instalacji tego przedsiębiorstwa, za energię elektryczną dostarczoną linią bezpośrednią, wnosi do przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, do sieci którego ten odbiorca lub to przedsiębiorstwo są przyłączone, opłatę odpowiadającą udziałowi tego podmiotu w kosztach stałych za przesyłanie lub dystrybucję energii elektrycznej, w części niepokrytej innymi składnikami taryfy, o której mowa w art. 45, zwaną dalej „opłatą solidarnościową”, zależną od ilości energii dostarczanej tą linią bezpośrednią, oraz opłatę na pokrycie kosztów utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej, zależną od ilości energii dostarczanej tą linią bezpośrednią.
 
@@ -2160,7 +2560,7 @@ e) danych technicznych jednostki wytwórczej, która dostarcza energię linią b
 
 3) ekspertyzą wpływu tej linii bezpośredniej lub urządzeń, instalacji lub sieci do niej przyłączonych na system elektroenergetyczny:
 
-a) sporządzoną przez: – osobę posiadającą kwalifikacje potwierdzone świadectwem, o którym mowa w art. 54, oraz minimum 10-letnie doświadczenie w zakresie funkcjonowania systemów elektroenergetycznych, niezależną względem podmiotu składającego zgłoszenie, – osobę posiadającą stopień naukowy doktora habilitowanego w zakresie nauk inżynieryjno-technicznych specjalizującą się w funkcjonowaniu sieci elektroenergetycznej, – instytut badawczy w rozumieniu art. 1 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080), prowadzący badania naukowe lub prace rozwojowe w zakresie funkcjonowania systemu elektroenergetycznego, – uczelnię prowadzącą kształcenie i działalność naukową w zakresie nauk inżynieryjno-technicznych, właściwych dla wykonywania analiz funkcjonowania systemów elektroenergetycznych, – rzeczoznawcę w zakresie instalacji i urządzeń elektrycznych oraz sieci elektroenergetycznej,
+a) sporządzoną przez: – osobę posiadającą kwalifikacje potwierdzone świadectwem, o którym mowa w [art. 54](#art-54), oraz minimum 10-letnie doświadczenie w zakresie funkcjonowania systemów elektroenergetycznych, niezależną względem podmiotu składającego zgłoszenie, – osobę posiadającą stopień naukowy doktora habilitowanego w zakresie nauk inżynieryjno-technicznych specjalizującą się w funkcjonowaniu sieci elektroenergetycznej, – instytut badawczy w rozumieniu art. 1 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080), prowadzący badania naukowe lub prace rozwojowe w zakresie funkcjonowania systemu elektroenergetycznego, – uczelnię prowadzącą kształcenie i działalność naukową w zakresie nauk inżynieryjno-technicznych, właściwych dla wykonywania analiz funkcjonowania systemów elektroenergetycznych, – rzeczoznawcę w zakresie instalacji i urządzeń elektrycznych oraz sieci elektroenergetycznej,
 
 b) której zakres, warunki wykonania i główne założenia, w tym niezbędne dane, zostały uzgodnione z operatorem sieci elektroenergetycznej, do którego będzie przyłączony wydzielony odbiorca lub podmiot prowadzący działalność gospodarczą w zakresie obrotu energią elektryczną, do których energia elektryczna będzie dostarczana za pomocą linii bezpośredniej;
 
@@ -2242,7 +2642,7 @@ b) podmiotu wykonującego działalność gospodarczą w zakresie obrotu energią
 
 2) zamiaru zmiany mocy zainstalowanej w jednostkach wytwórczych na większą niż określona w ust. 23.
 
-27. W przypadku przyłączenia do sieci, o której mowa w ust. 26 pkt 1, wydzielonego odbiorcy dotychczas nieprzyłączonego do sieci elektroenergetycznej odbiorca ten jest obowiązany spełniać warunki, o których mowa w art. 3 pkt 11fb.
+27. W przypadku przyłączenia do sieci, o której mowa w ust. 26 pkt 1, wydzielonego odbiorcy dotychczas nieprzyłączonego do sieci elektroenergetycznej odbiorca ten jest obowiązany spełniać warunki, o których mowa w [art. 3](#art-3) pkt 11fb.
 
 28.[66)] Przedsiębiorca, w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, który:
 
@@ -2250,6 +2650,7 @@ b) podmiotu wykonującego działalność gospodarczą w zakresie obrotu energią
 
 2) jest odbiorcą przemysłowym wpisanym do wykazu odbiorców przemysłowych, o którym mowa w art. 52 ust. 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – podlega zwolnieniu z opłaty solidarnościowej za rok, w którym był wpisany do tego wykazu.
 
+<a id="art-7b"></a>
 ### Art. 7b.
 
 1. Podmiot posiadający tytuł prawny do korzystania z obiektu, który nie jest przyłączony do sieci ciepłowniczej lub wyposażony w indywidualne źródło ciepła, zlokalizowanego na terenie, na którym istnieją techniczne warunki dostarczania ciepła z systemu ciepłowniczego lub chłodniczego, zapewnia efektywne energetycznie wykorzystanie lokalnych zasobów paliw i energii przez przyłączenie obiektu do sieci ciepłowniczej, o ile istnieją techniczne i ekonomiczne warunki przyłączenia do sieci ciepłowniczej i dostarczania ciepła do tego obiektu z sieci ciepłowniczej.
@@ -2316,12 +2717,14 @@ g) podpis osoby upoważnionej;
 
 8. Minister właściwy do spraw energii, po zasięgnięciu opinii Prezesa URE, określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 5 pkt 1, kierując się koniecznością ujednolicenia formy i sposobu jego przekazywania.
 
+<a id="art-8"></a>
 ### Art. 8.
 
-1.67) W sprawach spornych dotyczących odmowy zawarcia umowy o przyłączenie do sieci, w tym dotyczących zwiększenia mocy przyłączeniowej, umowy sprzedaży, umowy o świadczenie usług przesyłania lub dystrybucji paliw gazowych lub energii, umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru, umowy o świadczenie usług transportu gazu ziemnego, umowy o świadczenie usług magazynowania paliw gazowych, umowy o świadczenie usług magazynowania wodoru, umowy, o której mowa w art. 4c ust. 3, umowy, o której mowa w art. 4ca ust. 3, umowy o świadczenie usług skraplania gazu ziemnego, umowy kompleksowej oraz umowy kompleksowej wodorowej, oraz w przypadku nieuzasadnionego wstrzymania dostarczania paliw gazowych, energii lub wodoru, odmowy przyłączenia w pierwszej kolejności instalacji odnawialnego źródła energii lub infrastruktury ładowania drogowego transportu publicznego, lub ogólnodostępnej stacji ładowania, o której mowa w art. 7 ust. 1a, a także odmowy przyłączenia mikroinstalacji, nieprzyłączenia mikroinstalacji pomimo upływu terminu, o którym mowa w art. 7 ust. 8d7 pkt 2, nieuzasadnionego ograniczenia pracy lub odłączenia od sieci mikroinstalacji, lub odmowy dokonania zmiany umowy, o której mowa w art. 7 ust. 2a, w zakresie terminu dostarczenia po raz pierwszy do sieci energii elektrycznej, rozstrzyga Prezes Urzędu Regulacji Energetyki, na wniosek strony.
+1.67) W sprawach spornych dotyczących odmowy zawarcia umowy o przyłączenie do sieci, w tym dotyczących zwiększenia mocy przyłączeniowej, umowy sprzedaży, umowy o świadczenie usług przesyłania lub dystrybucji paliw gazowych lub energii, umowy o świadczenie usług przesyłania wodoru lub dystrybucji wodoru, umowy o świadczenie usług transportu gazu ziemnego, umowy o świadczenie usług magazynowania paliw gazowych, umowy o świadczenie usług magazynowania wodoru, umowy, o której mowa w [art. 4c](#art-4c) ust. 3, umowy, o której mowa w [art. 4ca](#art-4ca) ust. 3, umowy o świadczenie usług skraplania gazu ziemnego, umowy kompleksowej oraz umowy kompleksowej wodorowej, oraz w przypadku nieuzasadnionego wstrzymania dostarczania paliw gazowych, energii lub wodoru, odmowy przyłączenia w pierwszej kolejności instalacji odnawialnego źródła energii lub infrastruktury ładowania drogowego transportu publicznego, lub ogólnodostępnej stacji ładowania, o której mowa w [art. 7](#art-7) ust. 1a, a także odmowy przyłączenia mikroinstalacji, nieprzyłączenia mikroinstalacji pomimo upływu terminu, o którym mowa w [art. 7](#art-7) ust. 8d7 pkt 2, nieuzasadnionego ograniczenia pracy lub odłączenia od sieci mikroinstalacji, lub odmowy dokonania zmiany umowy, o której mowa w [art. 7](#art-7) ust. 2a, w zakresie terminu dostarczenia po raz pierwszy do sieci energii elektrycznej, rozstrzyga Prezes Urzędu Regulacji Energetyki, na wniosek strony.
 
 2. W sprawach, o których mowa w ust. 1, Prezes Urzędu Regulacji Energetyki może wydać na wniosek jednej ze stron postanowienie, w którym określa warunki podjęcia bądź kontynuowania dostaw do czasu ostatecznego rozstrzygnięcia sporu.
 
+<a id="art-81"></a>
 ### Art. 81.
 
 1. Odbiorca końcowy, którego praw dotyczy wykonywanie obowiązków przez operatora systemu dystrybucyjnego lub operatora systemu przesyłowego paliw gazowych lub operatora systemu przesyłowego elektroenergetycznego, może zawiadomić Prezesa Urzędu Regulacji Energetyki o podejrzeniu naruszenia wykonywania przez tych operatorów obowiązków określonych w ustawie.
@@ -2344,10 +2747,12 @@ g) podpis osoby upoważnionej;
 
 4. W sprawie szczególnie skomplikowanej termin, o którym mowa w ust. 3, może zostać przedłużony o dwa miesiące. Ponowne przedłużenie tego terminu wymaga zgody zgłaszającego zawiadomienie, wyrażonej w terminie 14 dni od dnia zawiadomienia o przedłużeniu terminu. O każdym przedłużeniu terminu Prezes Urzędu Regulacji Energetyki zawiadamia odbiorcę końcowego zgłaszającego zawiadomienie. Brak odpowiedzi odbiorcy końcowego zgłaszającego zawiadomienie w terminie, o którym mowa w zdaniu drugim, uznaje się za brak wyrażenia zgody na ponowne przedłużenie terminu.
 
+<a id="art-8a"></a>
 ### Art. 8a.
 
 Operator systemu elektroenergetycznego, do którego sieci są przyłączane urządzenia, instalacje lub sieci, o których mowa odpowiednio w art. 4 ust. 2 lit. b rozporządzenia 2016/631, w art. 4 ust. 2 lit. b rozporządzenia Komisji (UE) 2016/1388 z dnia 17 sierpnia 2016 r. ustanawiającego kodeks sieci dotyczący przyłączenia odbioru (Dz. Urz. UE L 223 z 18.08.2016, str. 10), zwanego dalej „rozporządzeniem 2016/1388”, lub w art. 4 ust. 2 lit. b rozporządzenia Komisji (UE) 2016/1447 z dnia 26 sierpnia 2016 r. ustanawiającego kodeks sieci określający wymogi dotyczące przyłączenia do sieci systemów wysokiego napięcia prądu stałego oraz modułów parku energii z podłączeniem prądu stałego (Dz. Urz. UE L 241 z 08.09.2016, str. 1), zwanego dalej „rozporządzeniem 2016/1447”, może złożyć do Prezesa Urzędu Regulacji Energetyki wniosek o rozstrzygnięcie, czy te urządzenia, instalacje lub sieci spełniają wymogi uznania ich za istniejące czy nowe.
 
+<a id="art-9"></a>
 ### Art. 9.
 
 1.68) Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, szczegółowe warunki funkcjonowania systemu gazowego, biorąc pod uwagę: bezpieczeństwo i niezawodne funkcjonowanie tego systemu, równoprawne traktowanie użytkowników systemu gazowego, wymagania w zakresie ochrony środowiska oraz budowy i eksploatacji urządzeń, instalacji i sieci określone w odrębnych przepisach.
@@ -2422,7 +2827,7 @@ a) warunkach świadczenia usług przesyłania energii elektrycznej niezbędnych 
 
 b) ofertach bilansujących składanych dla jednostek wytwórczych, o których mowa w lit. a;
 
-15) zakres i sposób informowania odbiorcy przez sprzedawcę o ilości zużytej przez tego odbiorcę energii elektrycznej w poprzednim roku oraz sposób informowania o miejscu, w którym są dostępne informacje o przykładowym zużyciu energii elektrycznej dla danej grupy przyłączeniowej odbiorców, środkach poprawy efektywności energetycznej w rozumieniu ustawy, o której mowa w art. 5 ust. 6c, i charakterystykach technicznych efektywnych energetycznie urządzeń.
+15) zakres i sposób informowania odbiorcy przez sprzedawcę o ilości zużytej przez tego odbiorcę energii elektrycznej w poprzednim roku oraz sposób informowania o miejscu, w którym są dostępne informacje o przykładowym zużyciu energii elektrycznej dla danej grupy przyłączeniowej odbiorców, środkach poprawy efektywności energetycznej w rozumieniu ustawy, o której mowa w [art. 5](#art-5) ust. 6c, i charakterystykach technicznych efektywnych energetycznie urządzeń.
 
 4a. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw energii i ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe:
 
@@ -2432,7 +2837,7 @@ b) ofertach bilansujących składanych dla jednostek wytwórczych, o których mo
 
 a) wydawania warunków przyłączania dla tej instalacji,
 
-b) dokonywania zgłoszenia przyłączenia mikroinstalacji, o którym mowa w art. 7 ust. 8d4 – biorąc pod uwagę potrzebę zwiększenia udziału energii elektrycznej z mikroinstalacji prosumentów energii odnawialnej, prosumentów zbiorowych energii odnawialnej lub prosumentów wirtualnych energii odnawialnej w bilansie energetycznym państwa, bezpieczeństwo i niezawodne funkcjonowanie systemu elektroenergetycznego oraz wymagania w zakresie budowy i eksploatacji urządzeń, instalacji i sieci.
+b) dokonywania zgłoszenia przyłączenia mikroinstalacji, o którym mowa w [art. 7](#art-7) ust. 8d4 – biorąc pod uwagę potrzebę zwiększenia udziału energii elektrycznej z mikroinstalacji prosumentów energii odnawialnej, prosumentów zbiorowych energii odnawialnej lub prosumentów wirtualnych energii odnawialnej w bilansie energetycznym państwa, bezpieczeństwo i niezawodne funkcjonowanie systemu elektroenergetycznego oraz wymagania w zakresie budowy i eksploatacji urządzeń, instalacji i sieci.
 
 5. (uchylony)
 
@@ -2472,14 +2877,17 @@ b) dokonywania zgłoszenia przyłączenia mikroinstalacji, o którym mowa w art.
 
 9.[70)] Minister właściwy do spraw energii – w odniesieniu do energii elektrycznej, oraz minister właściwy do spraw gospodarki surowcami energetycznymi – w odniesieniu do paliw gazowych i wodoru, powiadamia Komisję Europejską co 2 lata, w terminie do dnia 30 czerwca danego roku, o wszelkich zmianach w działaniach mających na celu realizację obowiązków w zakresie ochrony interesów odbiorców i ochrony środowiska oraz o wpływie tych zmian na konkurencję krajową i międzynarodową.
 
+<a id="art-9a"></a>
 ### Art. 9a.
 
 (uchylony)
 
+<a id="art-9b"></a>
 ### Art. 9b.
 
-Przedsiębiorstwa energetyczne zajmujące się przesyłaniem i dystrybucją ciepła są odpowiedzialne za ruch sieciowy i zapewnienie utrzymania należących do nich sieci oraz współdziałanie z innymi przedsiębiorstwami energetycznymi i odbiorcami korzystającymi z sieci, na warunkach określonych w rozporządzeniu wydanym na podstawie art. 9 ust. 7 i 8.
+Przedsiębiorstwa energetyczne zajmujące się przesyłaniem i dystrybucją ciepła są odpowiedzialne za ruch sieciowy i zapewnienie utrzymania należących do nich sieci oraz współdziałanie z innymi przedsiębiorstwami energetycznymi i odbiorcami korzystającymi z sieci, na warunkach określonych w rozporządzeniu wydanym na podstawie [art. 9](#art-9) ust. 7 i 8.
 
+<a id="art-9c"></a>
 ### Art. 9c.
 
 1. Operator systemu: przesyłowego, dystrybucyjnego, magazynowania paliw gazowych i skraplania gazu ziemnego lub operator systemu połączonego gazowego, odpowiednio do zakresu działania, stosując obiektywne i przejrzyste zasady zapewniające równe traktowanie użytkowników tych systemów oraz uwzględniając wymogi ochrony środowiska, jest odpowiedzialny za:
@@ -2516,7 +2924,7 @@ Przedsiębiorstwa energetyczne zajmujące się przesyłaniem i dystrybucją ciep
 
 2) bilansowanie systemu przesyłowego gazowego oraz prowadzenie z użytkownikami tego systemu rozliczeń wynikających z niezbilansowania paliw gazowych dostarczanych i pobieranych z systemu przesyłowego gazowego, w tym:
 
-a) dostarczanie użytkownikom tego systemu danych dotyczących realizacji przez nich usług w zakresie niezbędnym do wykonywania ich obowiązków wynikających z instrukcji, o której mowa w art. 9g,
+a) dostarczanie użytkownikom tego systemu danych dotyczących realizacji przez nich usług w zakresie niezbędnym do wykonywania ich obowiązków wynikających z instrukcji, o której mowa w [art. 9g](#art-9g),
 
 b) zapewnienie użytkownikom tego systemu mechanizmów umożliwiających podejmowanie działań zaradczych w celu uniknięcia niezbilansowania paliw gazowych dostarczonych i odebranych z systemu gazowego,
 
@@ -2542,9 +2950,9 @@ a) budowę i eksploatację infrastruktury technicznej i informatycznej służąc
 
 b) pozyskiwanie, przechowywanie, przetwarzanie i udostępnianie wybranemu przez odbiorcę sprzedawcy paliw gazowych oraz operatorowi systemu przesyłowego gazowego lub operatorowi systemu połączonego danych pomiarowych w zakresie pobranego przez odbiorcę paliwa gazowego, w formie uzgodnionej pomiędzy użytkownikami tego systemu,
 
-c) w przypadku gdy dla obszaru dystrybucyjnego nie została przyjęta metoda, o której mowa w art. 9cb – opracowanie, aktualizację i udostępnianie odbiorcom oraz sprzedawcom ich profili obciążenia, o których mowa w art. 9cb ust. 3,
+c) w przypadku gdy dla obszaru dystrybucyjnego nie została przyjęta metoda, o której mowa w [art. 9cb](#art-9cb) – opracowanie, aktualizację i udostępnianie odbiorcom oraz sprzedawcom ich profili obciążenia, o których mowa w [art. 9cb](#art-9cb) ust. 3,
 
-d) szacowanie ilości paliw gazowych pobranych z systemu dystrybucyjnego gazowego przy wykorzystaniu profili obciążenia, o których mowa w art. 9cb ust. 3,
+d) szacowanie ilości paliw gazowych pobranych z systemu dystrybucyjnego gazowego przy wykorzystaniu profili obciążenia, o których mowa w [art. 9cb](#art-9cb) ust. 3,
 
 e) udostępnianie odpowiednim użytkownikom systemu gazowego danych dotyczących planowanego i rzeczywistego zużycia paliw gazowych wyznaczonych na podstawie profili obciążenia dla uzgodnionych okresów rozliczeniowych,
 
@@ -2664,7 +3072,7 @@ b) ofertach zintegrowanego procesu grafikowania;
 
 13) opracowywanie planów działania na wypadek zagrożenia wystąpienia awarii o znacznych rozmiarach w systemie elektroenergetycznym oraz odbudowy tego systemu po wystąpieniu awarii;
 
-14) realizację ograniczeń w dostarczaniu energii elektrycznej, wprowadzonych zgodnie z przepisami wydanymi na podstawie art. 11 ust. 6 i 7;
+14) realizację ograniczeń w dostarczaniu energii elektrycznej, wprowadzonych zgodnie z przepisami wydanymi na podstawie [art. 11](#art-11) ust. 6 i 7;
 
 15) opracowywanie normalnego układu pracy sieci przesyłowej oraz, we współpracy z operatorami systemów dystrybucyjnych elektroenergetycznych, normalnego układu pracy sieci dla koordynowanej sieci 110 kV;
 
@@ -2684,7 +3092,7 @@ b) ofertach zintegrowanego procesu grafikowania;
 
 2aa. Operator systemu przesyłowego elektroenergetycznego, w ramach wykonywanej działalności gospodarczej polegającej na przesyłaniu energii elektrycznej, może dokonywać odsprzedaży nadwyżek energii elektrycznej zakupionej w celu, o którym mowa w ust. 2 pkt 11, wynikających ze zmiany zapotrzebowania na tę energię, pod warunkiem dokonywania tej odsprzedaży na giełdach towarowych w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany, zorganizowanej platformie obrotu prowadzonej przez spółkę prowadzącą na terytorium Rzeczypospolitej Polskiej giełdę towarową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych lub w ramach jednolitego łączenia rynków dnia następnego i dnia bieżącego prowadzonych przez wyznaczonych operatorów rynku energii elektrycznej.
 
-2b. Za usługi świadczone przez operatora systemu przesyłowego gazowego oraz operatora systemu przesyłowego elektroenergetycznego w przypadku, o którym mowa w art. 9h ust. 3 pkt 2, właściciel sieci przesyłowej nie pobiera opłat.
+2b. Za usługi świadczone przez operatora systemu przesyłowego gazowego oraz operatora systemu przesyłowego elektroenergetycznego w przypadku, o którym mowa w [art. 9h](#art-9h) ust. 3 pkt 2, właściciel sieci przesyłowej nie pobiera opłat.
 
 2c. Właścicielem połączeń krajowego systemu elektroenergetycznego albo gazowego z systemami odpowiednio elektroenergetycznymi albo gazowymi innych państw może być wyłącznie operator systemu przesyłowego albo operator systemu połączonego. Operator systemu przesyłowego oraz operator systemu połączonego są wyłącznie uprawnieni do budowy, posiadania i eksploatacji tych połączeń.
 
@@ -2720,11 +3128,11 @@ a) budowę i eksploatację infrastruktury technicznej i informatycznej służąc
 
 b) pozyskiwanie, przetwarzanie i przekazywanie informacji rynku energii do centralnego systemu informacji rynku energii,
 
-c) opracowywanie i aktualizację oraz przekazywanie drogą elektroniczną operatorowi informacji rynku energii profili zużycia, a także uwzględnianie zasad ich stosowania w instrukcji, o której mowa w art. 9g,
+c) opracowywanie i aktualizację oraz przekazywanie drogą elektroniczną operatorowi informacji rynku energii profili zużycia, a także uwzględnianie zasad ich stosowania w instrukcji, o której mowa w [art. 9g](#art-9g),
 
 d) (uchylona)
 
-e) wdrażanie warunków i trybu zmiany sprzedawcy energii elektrycznej oraz ich uwzględnianie w instrukcji, o której mowa w art. 9g,
+e) wdrażanie warunków i trybu zmiany sprzedawcy energii elektrycznej oraz ich uwzględnianie w instrukcji, o której mowa w [art. 9g](#art-9g),
 
 f) zamieszczanie na swoich stronach internetowych oraz udostępnianie do publicznego wglądu w swoich siedzibach: – aktualnej listy sprzedawców energii elektrycznej, z którymi operator systemu dystrybucyjnego elektroenergetycznego zawarł umowy o świadczenie usług dystrybucji energii elektrycznej, – informacji o sprzedawcy z urzędu energii elektrycznej działającym na obszarze działania operatora systemu dystrybucyjnego elektroenergetycznego, – wzorców umów zawieranych z użytkownikami systemu, w szczególności wzorców umów zawieranych z odbiorcami końcowymi oraz ze sprzedawcami energii elektrycznej, – informacji o sprzedawcy rezerwowym energii elektrycznej działającym na obszarze działania operatora systemu dystrybucyjnego elektroenergetycznego;
 
@@ -2742,7 +3150,7 @@ f) zamieszczanie na swoich stronach internetowych oraz udostępnianie do publicz
 
 4. Operatorzy systemu, o których mowa w ust. 1–3, wykonując działalność gospodarczą, są obowiązani w szczególności przestrzegać przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
 
-4a. Operatorzy systemu, o których mowa w ust. 1–3, oraz właściciel sieci przesyłowej są obowiązani zachować poufność informacji handlowych, które uzyskali w trakcie wykonywania działalności oraz zapobiegać ujawnianiu, w sposób dyskryminacyjny, informacji o własnej działalności, które mogą powodować korzyści handlowe. W tym celu właściciel sieci przesyłowej oraz pozostała część przedsiębiorstwa nie mogą korzystać ze wspólnych służb, w szczególności wspólnej obsługi prawnej, za wyjątkiem obsługi administracyjnej lub informatycznej. Obowiązek ten nie dotyczy przedsiębiorstw, o których mowa w art. 9d ust. 7.
+4a. Operatorzy systemu, o których mowa w ust. 1–3, oraz właściciel sieci przesyłowej są obowiązani zachować poufność informacji handlowych, które uzyskali w trakcie wykonywania działalności oraz zapobiegać ujawnianiu, w sposób dyskryminacyjny, informacji o własnej działalności, które mogą powodować korzyści handlowe. W tym celu właściciel sieci przesyłowej oraz pozostała część przedsiębiorstwa nie mogą korzystać ze wspólnych służb, w szczególności wspólnej obsługi prawnej, za wyjątkiem obsługi administracyjnej lub informatycznej. Obowiązek ten nie dotyczy przedsiębiorstw, o których mowa w [art. 9d](#art-9d) ust. 7.
 
 4b. W przypadku zakupu lub sprzedaży paliw gazowych lub energii elektrycznej przez przedsiębiorstwa powiązane, operatorzy systemu, o których mowa w ust. 1–3, nie mogą wykorzystywać w niewłaściwy sposób informacji handlowych podlegających ochronie, uzyskanych od osób trzecich w trakcie wykonywanej działalności.
 
@@ -2752,7 +3160,7 @@ f) zamieszczanie na swoich stronach internetowych oraz udostępnianie do publicz
 
 1) jest spełniony, jeżeli znak towarowy zawiera co najmniej jeden element odróżniający działalność operatora systemu dystrybucyjnego lub operatora systemu magazynowania od działalności przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu paliwami gazowymi lub energią elektryczną;
 
-2) nie dotyczy przedsiębiorstw, o których mowa w art. 9d ust. 7.
+2) nie dotyczy przedsiębiorstw, o których mowa w [art. 9d](#art-9d) ust. 7.
 
 5.[73)] Jeżeli do realizacji zadań, o których mowa w ust. 1–3, jest niezbędne korzystanie przez operatora systemu przesyłowego, operatora systemu dystrybucyjnego, operatora systemu przesyłowego wodorowego lub operatora systemu dystrybucyjnego wodorowego z sieci, instalacji lub urządzeń należących do innych operatorów systemów lub przedsiębiorstw energetycznych, udostępnienie tych sieci, instalacji lub urządzeń następuje na zasadach określonych w ustawie oraz na warunkach określonych w umowie o świadczenie usług przesyłania lub dystrybucji paliw gazowych lub energii lub w umowie o świadczenie usług przesyłania wodoru lub dystrybucji wodoru.
 
@@ -2794,7 +3202,7 @@ c) większej niż 50 kW i mniejszej niż 200 kW – począwszy od jednostek wytw
 
 7d. Operator systemu dystrybucyjnego elektroenergetycznego wydając polecenie wytwórcy, o którym mowa w ust. 7b, w celu zapewnienia bezpieczeństwa pracy sieci elektroenergetycznej, kieruje się kryterium wielkości zmniejszenia mocy wytwarzanej przez jednostki wytwórcze wykorzystujące energię wiatru lub słońca, dążąc do minimalizacji tego zmniejszenia. Operator systemu dystrybucyjnego elektroenergetycznego informuje operatora systemu przesyłowego elektroenergetycznego o planowanym wyłączeniu jednostki wytwórczej lub zmniejszeniu mocy wytwarzanej przez jednostkę wytwórczą niezwłocznie po zidentyfikowaniu takiej potrzeby.
 
-7e. Operator systemu elektroenergetycznego wydając posiadaczowi magazynu energii elektrycznej polecenie, o którym mowa w ust. 7a lub 7b, kieruje się kryteriami określonymi w instrukcji, o której mowa w art. 9g ust. 1.
+7e. Operator systemu elektroenergetycznego wydając posiadaczowi magazynu energii elektrycznej polecenie, o którym mowa w ust. 7a lub 7b, kieruje się kryteriami określonymi w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 1.
 
 7f. Przepisu ust. 7a w zakresie równoważenia dostaw energii elektrycznej z zapotrzebowaniem na tę energię nie stosuje się do jednostek wytwórczych, o których mowa w:
 
@@ -2812,7 +3220,7 @@ c) większej niż 50 kW i mniejszej niż 200 kW – począwszy od jednostek wytw
 
 1) oblicza i wypłaca operator systemu elektroenergetycznego, do którego sieci jest przyłączony wytwórca lub posiadacz magazynu energii elektrycznej, którego dotyczyło polecenie, o którym mowa w ust. 7a lub 7b,
 
-2) w przypadku, o którym mowa w ust. 7a pkt 2 lub ust. 7b pkt 2, oblicza i wypłaca operator systemu elektroenergetycznego, za pośrednictwem którego jest przekazywane polecenie, o którym mowa w ust. 7a lub 7b, działając w imieniu własnym, lecz na rzecz operatora systemu elektroenergetycznego wydającego polecenie – przy czym rekompensata finansowa, o której mowa w art. 13 ust. 7 tego rozporządzenia, jest rozliczana w ramach umowy o świadczenie usług przesyłania albo umowy o świadczenie usług dystrybucji energii elektrycznej, zgodnie z warunkami określonymi w instrukcji, o której mowa w art. 9g ust. 1.
+2) w przypadku, o którym mowa w ust. 7a pkt 2 lub ust. 7b pkt 2, oblicza i wypłaca operator systemu elektroenergetycznego, za pośrednictwem którego jest przekazywane polecenie, o którym mowa w ust. 7a lub 7b, działając w imieniu własnym, lecz na rzecz operatora systemu elektroenergetycznego wydającego polecenie – przy czym rekompensata finansowa, o której mowa w [art. 13](#art-13) ust. 7 tego rozporządzenia, jest rozliczana w ramach umowy o świadczenie usług przesyłania albo umowy o świadczenie usług dystrybucji energii elektrycznej, zgodnie z warunkami określonymi w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 1.
 
 7k. Żądanie wypłaty rekompensaty finansowej, o której mowa w art. 13 ust. 7 rozporządzenia 2019/943, wraz z danymi stanowiącymi podstawę ustalenia wysokości tej rekompensaty zgłasza się operatorowi systemu elektroenergetycznego, do którego sieci jest przyłączony wytwórca lub posiadacz magazynu energii elektrycznej, w terminie i zgodnie z warunkami określonymi w instrukcji, o której mowa w art. 9g ust. 1. Roszczenie o wypłatę rekompensaty finansowej wygasa, jeżeli nie zostanie zgłoszone przed upływem 180 dni od ostatniego dnia miesiąca kalendarzowego, w którym zostało wykonane polecenie tego operatora skutkujące obowiązkiem wypłaty rekompensaty finansowej, o której mowa w art. 13 ust. 7 rozporządzenia 2019/943.
 
@@ -2822,13 +3230,13 @@ c) większej niż 50 kW i mniejszej niż 200 kW – począwszy od jednostek wytw
 
 7n. Operator systemu elektroenergetycznego, do którego sieci przyłączony jest wytwórca lub posiadacz magazynu energii elektrycznej, którego dotyczyło polecenie, przekazuje operatorowi systemu elektroenergetycznego, który wydał polecenie, dane umożliwiające weryfikację obliczania rekompensaty finansowej, o której mowa w art. 13 ust. 7 rozporządzenia 2019/943, w tym informacje, czy i w jakim zakresie umowa o przyłączenie jednostki wytwórczej lub magazynu energii elektrycznej zawiera postanowienia skutkujące brakiem gwarancji niezawodnych dostaw energii elektrycznej, o których mowa w art. 7 ust. 2e. Zakres oraz terminy przekazywania danych określa instrukcja, o której mowa w art. 9g ust. 1.
 
-7o. Operator systemu dystrybucyjnego elektroenergetycznego w terminie 14 dni od dnia zawarcia lub zmiany umowy o świadczenie usług dystrybucji energii elektrycznej z wytwórcą lub posiadaczem magazynu energii elektrycznej przekazuje operatorowi systemu przesyłowego elektroenergetycznego dane dotyczące przyłączonych do jego sieci jednostek wytwórczych lub magazynów energii elektrycznej, niezbędne do wydawania i wykonywania poleceń, o których mowa w ust. 7a, w tym informacje, czy i w jakim zakresie umowa o przyłączenie jednostki wytwórczej lub magazynu energii elektrycznej zawiera postanowienia skutkujące brakiem gwarancji niezawodnych dostaw energii elektrycznej, o których mowa w art. 7 ust. 2e.
+7o. Operator systemu dystrybucyjnego elektroenergetycznego w terminie 14 dni od dnia zawarcia lub zmiany umowy o świadczenie usług dystrybucji energii elektrycznej z wytwórcą lub posiadaczem magazynu energii elektrycznej przekazuje operatorowi systemu przesyłowego elektroenergetycznego dane dotyczące przyłączonych do jego sieci jednostek wytwórczych lub magazynów energii elektrycznej, niezbędne do wydawania i wykonywania poleceń, o których mowa w ust. 7a, w tym informacje, czy i w jakim zakresie umowa o przyłączenie jednostki wytwórczej lub magazynu energii elektrycznej zawiera postanowienia skutkujące brakiem gwarancji niezawodnych dostaw energii elektrycznej, o których mowa w [art. 7](#art-7) ust. 2e.
 
-7p. Operator systemu dystrybucyjnego elektroenergetycznego, którego sieć dystrybucyjna nie posiada bezpośrednich połączeń z siecią przesyłową, w terminie 14 dni od dnia zawarcia lub zmiany umowy o świadczenie usług dystrybucji energii elektrycznej z wytwórcą lub posiadaczem magazynu energii elektrycznej, przekazuje operatorowi systemu dystrybucyjnego elektroenergetycznego, którego sieć posiada bezpośrednie połączenie z siecią przesyłową, dane dotyczące przyłączonych do jego sieci jednostek wytwórczych oraz magazynów energii elektrycznej, niezbędne do wydawania i wykonywania poleceń, o których mowa w ust. 7a lub 7b, w tym informacje, czy i w jakim zakresie umowa o przyłączenie jednostki wytwórczej lub magazynu energii elektrycznej zawiera postanowienia skutkujące brakiem gwarancji niezawodnych dostaw energii elektrycznej, o których mowa w art. 7 ust. 2e.
+7p. Operator systemu dystrybucyjnego elektroenergetycznego, którego sieć dystrybucyjna nie posiada bezpośrednich połączeń z siecią przesyłową, w terminie 14 dni od dnia zawarcia lub zmiany umowy o świadczenie usług dystrybucji energii elektrycznej z wytwórcą lub posiadaczem magazynu energii elektrycznej, przekazuje operatorowi systemu dystrybucyjnego elektroenergetycznego, którego sieć posiada bezpośrednie połączenie z siecią przesyłową, dane dotyczące przyłączonych do jego sieci jednostek wytwórczych oraz magazynów energii elektrycznej, niezbędne do wydawania i wykonywania poleceń, o których mowa w ust. 7a lub 7b, w tym informacje, czy i w jakim zakresie umowa o przyłączenie jednostki wytwórczej lub magazynu energii elektrycznej zawiera postanowienia skutkujące brakiem gwarancji niezawodnych dostaw energii elektrycznej, o których mowa w [art. 7](#art-7) ust. 2e.
 
 7q. Operator systemu elektroenergetycznego przekazuje Prezesowi Urzędu Regulacji Energetyki sprawozdanie, o którym mowa w art. 13 ust. 4 rozporządzenia 2019/943, w terminie do dnia 1 marca każdego roku.
 
-8. Operator systemu przesyłowego lub dystrybucyjnego za korzystanie z krajowego systemu elektroenergetycznego pobiera opłaty na warunkach określonych w przepisach wydanych na podstawie art. 46 ust. 3 i 4, a także może żądać od odbiorców przyłączonych do systemu elektroenergetycznego informacji o ilości energii elektrycznej zużywanej przez tych odbiorców, służącej do obliczenia tej opłaty.
+8. Operator systemu przesyłowego lub dystrybucyjnego za korzystanie z krajowego systemu elektroenergetycznego pobiera opłaty na warunkach określonych w przepisach wydanych na podstawie [art. 46](#art-46) ust. 3 i 4, a także może żądać od odbiorców przyłączonych do systemu elektroenergetycznego informacji o ilości energii elektrycznej zużywanej przez tych odbiorców, służącej do obliczenia tej opłaty.
 
 9. Operator systemu przesyłowego, odpowiednio do zakresu działania, do dnia 31 marca każdego roku, przekazuje ministrowi właściwemu do spraw energii informacje za poprzedni rok kalendarzowy o realizacji zadań w zakresie bezpieczeństwa funkcjonowania systemu elektroenergetycznego oraz ministrowi właściwemu do spraw gospodarki surowcami energetycznymi informacje za poprzedni rok kalendarzowy o realizacji zadań w zakresie bezpieczeństwa funkcjonowania systemu gazowego, w szczególności dotyczące:74)
 
@@ -2840,9 +3248,9 @@ c) większej niż 50 kW i mniejszej niż 200 kW – począwszy od jednostek wytw
 
 4) sporządzanych planów w zakresie określonym w pkt 1–3.
 
-9a. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego, odpowiednio do zakresu działania, przekazuje ministrowi właściwemu do spraw energii, co 2 lata, w terminie do dnia 31 marca danego roku, informacje w zakresie objętym sprawozdaniem, o którym mowa w art. 15b. Sporządzając informacje dotyczące oceny połączeń międzysystemowych z sąsiednimi krajami, należy uwzględnić opinie operatorów systemów przesyłowych elektroenergetycznych tych krajów.
+9a. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego, odpowiednio do zakresu działania, przekazuje ministrowi właściwemu do spraw energii, co 2 lata, w terminie do dnia 31 marca danego roku, informacje w zakresie objętym sprawozdaniem, o którym mowa w [art. 15b](#art-15b). Sporządzając informacje dotyczące oceny połączeń międzysystemowych z sąsiednimi krajami, należy uwzględnić opinie operatorów systemów przesyłowych elektroenergetycznych tych krajów.
 
-9b. Użytkownicy systemu elektroenergetycznego, w szczególności operatorzy systemów dystrybucyjnych elektroenergetycznych, przedsiębiorstwa energetyczne i odbiorcy końcowi są obowiązani przekazywać operatorowi systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego, na jego wniosek, dane niezbędne do sporządzenia informacji, o których mowa w ust. 9a, oraz do sporządzenia oceny wystarczalności zasobów na poziomie krajowym, o której mowa w art. 15i ust. 1, z zachowaniem przepisów o ochronie informacji niejawnych lub innych informacji prawnie chronionych.
+9b. Użytkownicy systemu elektroenergetycznego, w szczególności operatorzy systemów dystrybucyjnych elektroenergetycznych, przedsiębiorstwa energetyczne i odbiorcy końcowi są obowiązani przekazywać operatorowi systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego, na jego wniosek, dane niezbędne do sporządzenia informacji, o których mowa w ust. 9a, oraz do sporządzenia oceny wystarczalności zasobów na poziomie krajowym, o której mowa w [art. 15i](#art-15i) ust. 1, z zachowaniem przepisów o ochronie informacji niejawnych lub innych informacji prawnie chronionych.
 
 9c.[75)] Operator systemu przesyłowego wodorowego lub operator systemu połączonego wodorowego w zakresie systemu przesyłowego wodorowego, odpowiednio do zakresu działania, przekazują ministrowi właściwemu do spraw gospodarki surowcami energetycznymi oraz ministrowi właściwemu do spraw klimatu, do dnia 31 marca każdego roku, informacje za poprzedni rok kalendarzowy o realizacji zadań w zakresie bezpieczeństwa funkcjonowania systemu wodorowego, w szczególności dotyczące:
 
@@ -2860,18 +3268,20 @@ c) większej niż 50 kW i mniejszej niż 200 kW – począwszy od jednostek wytw
 
 12. (uchylony)
 
-13. Operator systemu przesyłowego gazowego albo operator systemu połączonego gazowego może zawrzeć umowę dotyczącą eksploatacji gazociągu międzysystemowego, o którym mowa w art. 3 pkt 11d lit. b, w zakresie, w jakim umowa ta jest zgodna z przepisami niniejszej ustawy i decyzjami Prezesa Urzędu Regulacji Energetyki wydanymi w stosunku do tego operatora.
+13. Operator systemu przesyłowego gazowego albo operator systemu połączonego gazowego może zawrzeć umowę dotyczącą eksploatacji gazociągu międzysystemowego, o którym mowa w [art. 3](#art-3) pkt 11d lit. b, w zakresie, w jakim umowa ta jest zgodna z przepisami niniejszej ustawy i decyzjami Prezesa Urzędu Regulacji Energetyki wydanymi w stosunku do tego operatora.
 
 14. Operator systemu przesyłowego gazowego albo operator systemu połączonego gazowego przekazuje Prezesowi Urzędu Regulacji Energetyki informację o zawarciu i każdorazowej zmianie umowy, o której mowa w ust. 13, oraz kopię tej umowy lub jej każdorazowej zmiany, w terminie 14 dni od dnia zawarcia tej umowy lub dokonania jej zmiany.
 
+<a id="art-9ca"></a>
 ### Art. 9ca.
 
-1.76) Operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego i działające w formie spółki akcyjnej przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw ciekłych, o którym mowa w art. 3 pkt 4 lit. b, którego jedynym akcjonariuszem jest Skarb Państwa, obowiązane są do opracowywania z własnej inicjatywy lub po otrzymaniu wystąpienia Prezesa Urzędu Regulacji Energetyki lub odpowiednio ministra właściwego do spraw energii albo ministra właściwego do spraw gospodarki surowcami energetycznymi, o którym mowa w art. 15ba, koncepcji, metodyk, analiz, prognoz, raportów lub narzędzi, a także realizacji projektów badawczych, dotyczących społeczno-ekonomicznych aspektów transformacji energetycznej lub zapewnienia bezpieczeństwa energetycznego kraju.
+1.76) Operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego i działające w formie spółki akcyjnej przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw ciekłych, o którym mowa w [art. 3](#art-3) pkt 4 lit. b, którego jedynym akcjonariuszem jest Skarb Państwa, obowiązane są do opracowywania z własnej inicjatywy lub po otrzymaniu wystąpienia Prezesa Urzędu Regulacji Energetyki lub odpowiednio ministra właściwego do spraw energii albo ministra właściwego do spraw gospodarki surowcami energetycznymi, o którym mowa w [art. 15ba](#art-15ba), koncepcji, metodyk, analiz, prognoz, raportów lub narzędzi, a także realizacji projektów badawczych, dotyczących społeczno-ekonomicznych aspektów transformacji energetycznej lub zapewnienia bezpieczeństwa energetycznego kraju.
 
 2. W celu realizacji obowiązków, o których mowa w ust. 1, operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego i działające w formie spółki akcyjnej przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw ciekłych, o którym mowa w art. 3 pkt 4 lit. b, którego jedynym akcjonariuszem jest Skarb Państwa, tworzą wspólnie, wraz z instytutem badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, centrum naukowo-przemysłowe, o którym mowa w art. 38 tej ustawy.
 
-3. Koszty realizacji obowiązków, o których mowa w ust. 1, w tym koszty centrum naukowo-przemysłowego utworzonego zgodnie z ust. 2, ponoszone przez operatora systemu przesyłowego gazowego i operatora systemu przesyłowego elektroenergetycznego nie stanowią kosztów uzasadnionych, o których mowa w art. 45 ust. 1 pkt 2.
+3. Koszty realizacji obowiązków, o których mowa w ust. 1, w tym koszty centrum naukowo-przemysłowego utworzonego zgodnie z ust. 2, ponoszone przez operatora systemu przesyłowego gazowego i operatora systemu przesyłowego elektroenergetycznego nie stanowią kosztów uzasadnionych, o których mowa w [art. 45](#art-45) ust. 1 pkt 2.
 
+<a id="art-9cb"></a>
 ### Art. 9cb.
 
 1. Podmiot odpowiedzialny za prognozowanie, o którym mowa w art. 39 ust. 5 rozporządzenia 312/2014, zwany dalej „podmiotem odpowiedzialnym za prognozowanie”, opracowuje metodę sporządzania prognoz dotyczących mierzonych rzadziej niż codziennie ilości paliw gazowych odbieranych przez użytkowników systemu gazowego.
@@ -2890,6 +3300,7 @@ c) większej niż 50 kW i mniejszej niż 200 kW – począwszy od jednostek wytw
 
 6. Podmiot odpowiedzialny za prognozowanie publikuje na swojej stronie internetowej metodę, o której mowa w ust. 1, zatwierdzoną przez Prezesa Urzędu Regulacji Energetyki.
 
+<a id="art-9d"></a>
 ### Art. 9d.
 
 1. Operator systemu przesyłowego oraz operator systemu połączonego pozostają pod względem formy prawnej i organizacyjnej oraz podejmowania decyzji niezależni od wykonywania innych działalności niezwiązanych z:
@@ -2938,7 +3349,7 @@ c) większej niż 50 kW i mniejszej niż 200 kW – począwszy od jednostek wytw
 
 3) operator systemu dystrybucyjnego lub operator systemu dystrybucyjnego wodorowego mają prawo podejmować niezależne decyzje dotyczące majątku niezbędnego do wykonywania działalności gospodarczej w zakresie dystrybucji paliw gazowych, energii elektrycznej lub wodoru;
 
-4) organ przedsiębiorstwa zintegrowanego pionowo nie może wydawać operatorowi systemu dystrybucyjnego lub operatorowi systemu dystrybucyjnego wodorowego poleceń dotyczących ich bieżącej działalności ani podejmować decyzji w zakresie budowy sieci lub jej modernizacji, w tym przy zagwarantowaniu środków na realizację wytycznych Prezesa Urzędu Regulacji Energetyki, o których mowa w art. 16 ust. 1a, chyba że te polecenia lub te decyzje dotyczą działania operatora systemu dystrybucyjnego lub operatora systemu dystrybucyjnego wodorowego, które wykracza poza zatwierdzony plan finansowy lub inny równoważny dokument.
+4) organ przedsiębiorstwa zintegrowanego pionowo nie może wydawać operatorowi systemu dystrybucyjnego lub operatorowi systemu dystrybucyjnego wodorowego poleceń dotyczących ich bieżącej działalności ani podejmować decyzji w zakresie budowy sieci lub jej modernizacji, w tym przy zagwarantowaniu środków na realizację wytycznych Prezesa Urzędu Regulacji Energetyki, o których mowa w [art. 16](#art-16) ust. 1a, chyba że te polecenia lub te decyzje dotyczą działania operatora systemu dystrybucyjnego lub operatora systemu dystrybucyjnego wodorowego, które wykracza poza zatwierdzony plan finansowy lub inny równoważny dokument.
 
 1f.[82)] Operator systemu magazynowania lub operator systemu magazynowania wodoru będący w strukturze przedsiębiorstwa zintegrowanego pionowo pozostają pod względem formy prawnej i organizacyjnej oraz podejmowania decyzji niezależni od innych działalności niezwiązanych z magazynowaniem paliw gazowych, magazynowaniem wodoru, przesyłaniem lub dystrybucją paliw gazowych, przesyłaniem wodoru, dystrybucją wodoru, skraplaniem gazu ziemnego lub regazyfikacją skroplonego gazu ziemnego w instalacjach skroplonego gazu ziemnego.
 
@@ -2990,6 +3401,7 @@ c) większej niż 50 kW i mniejszej niż 200 kW – począwszy od jednostek wytw
 
 8. Przedsiębiorstwo energetyczne wyznaczone operatorem systemu elektroenergetycznego jest obowiązane przekazywać Prezesowi Urzędu Regulacji Energetyki informacje dotyczące zmiany zakresu wykonywanej działalności gospodarczej oraz jego powiązań kapitałowych, w terminie miesiąca od dnia wprowadzenia tych zmian.
 
+<a id="art-9d1"></a>
 ### Art. 9d[1].
 
 1. Operator systemu elektroenergetycznego nie może być posiadaczem, nie może budować, obsługiwać magazynu energii ani nim zarządzać. Operator systemu elektroenergetycznego może korzystać z usług świadczonych z wykorzystaniem magazynu energii.
@@ -3022,7 +3434,7 @@ d) w wyniku przeprowadzenia procedury, o której mowa w lit. c, nie wyłoniono �
 
 4) dokumentację poświadczającą posiadane zdolności techniczne gwarantujące prawidłowe wykonywanie działalności;
 
-5) dokumentację poświadczającą zatrudnianie osób o właściwych kwalifikacjach zawodowych, o których mowa w art. 54 ust. 1, gwarantujących prawidłowe funkcjonowanie magazynów energii;
+5) dokumentację poświadczającą zatrudnianie osób o właściwych kwalifikacjach zawodowych, o których mowa w [art. 54](#art-54) ust. 1, gwarantujących prawidłowe funkcjonowanie magazynów energii;
 
 6) inne dokumenty i informacje uprawdopodabniające możliwość uzyskania prawa do posiadania magazynu energii, jego wznoszenia, zarządzania nim lub do obsługi tego magazynu wraz z infrastrukturą towarzyszącą, niezbędną do jego prawidłowego funkcjonowania.
 
@@ -3046,9 +3458,10 @@ d) nie jest wykorzystywany do obrotu energią elektryczną na rynkach energii el
 
 e) decyzję inwestycyjną w rozumieniu art. 2 pkt 3a ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2025 r. poz. 602) podjęto przed dniem 4 lipca 2019 r. – w przypadku operatora systemu dystrybucyjnego elektroenergetycznego albo do dnia 31 grudnia 2023 r. – w przypadku operatora systemu przesyłowego elektroenergetycznego.
 
+<a id="art-9d2"></a>
 ### Art. 9d[2]. [86)]
 
-1. Prezes Urzędu Regulacji Energetyki, na wniosek właściciela sieci wodorowej ograniczonej geograficznie albo podmiotu zainteresowanego inwestowaniem w sieć wodorową ograniczoną geograficznie, udziela, w drodze decyzji, właścicielowi tej sieci albo podmiotowi zainteresowanemu inwestowaniem w tę sieć odstępstwa od obowiązków operatora systemu przesyłowego wodorowego i operatora systemu dystrybucyjnego wodorowego w zakresie rozdziału działalności, o których mowa w art. 9d ust. 13–1a, 1d i 1e, biorąc pod uwagę stopień rozwoju konkurencji na rynku wodoru, prawidłowe funkcjonowanie i rozwój tego rynku na terytorium Rzeczypospolitej Polskiej oraz wpływ tej decyzji na system wodorowy, pod warunkiem że istniejąca albo planowana sieć wodorowa ograniczona geograficznie spełnia łącznie następujące warunki:
+1. Prezes Urzędu Regulacji Energetyki, na wniosek właściciela sieci wodorowej ograniczonej geograficznie albo podmiotu zainteresowanego inwestowaniem w sieć wodorową ograniczoną geograficznie, udziela, w drodze decyzji, właścicielowi tej sieci albo podmiotowi zainteresowanemu inwestowaniem w tę sieć odstępstwa od obowiązków operatora systemu przesyłowego wodorowego i operatora systemu dystrybucyjnego wodorowego w zakresie rozdziału działalności, o których mowa w [art. 9d](#art-9d) ust. 13–1a, 1d i 1e, biorąc pod uwagę stopień rozwoju konkurencji na rynku wodoru, prawidłowe funkcjonowanie i rozwój tego rynku na terytorium Rzeczypospolitej Polskiej oraz wpływ tej decyzji na system wodorowy, pod warunkiem że istniejąca albo planowana sieć wodorowa ograniczona geograficznie spełnia łącznie następujące warunki:
 
 1) nie obejmuje połączeń międzysystemowych;
 
@@ -3078,9 +3491,10 @@ e) decyzję inwestycyjną w rozumieniu art. 2 pkt 3a ustawy z dnia 14 grudnia 20
 
 5. Odstępstwo, o którym mowa w ust. 1, może być stosowane przez okres nie dłuższy niż 6 miesięcy od dnia uprawomocnienia się decyzji o cofnięciu odstępstwa, o której mowa w ust. 3.
 
+<a id="art-9d3"></a>
 ### Art. 9d[3]. [86)]
 
-1. Prezes Urzędu Regulacji Energetyki, na wniosek operatora systemu przesyłowego wodorowego lub operatora systemu połączonego wodorowego, może, w drodze decyzji, udzielić, na czas określony, odstępstwa od obowiązku zachowania niezależności pod względem formy prawnej, o którym mowa w art. 9d ust. 13, tego operatora od wykonywania działalności związanych z przesyłaniem lub dystrybucją paliw gazowych.
+1. Prezes Urzędu Regulacji Energetyki, na wniosek operatora systemu przesyłowego wodorowego lub operatora systemu połączonego wodorowego, może, w drodze decyzji, udzielić, na czas określony, odstępstwa od obowiązku zachowania niezależności pod względem formy prawnej, o którym mowa w [art. 9d](#art-9d) ust. 13, tego operatora od wykonywania działalności związanych z przesyłaniem lub dystrybucją paliw gazowych.
 
 2. Do wniosku, o którym mowa w ust. 1, wnioskodawca dołącza analizę kosztów i korzyści, która zawiera:
 
@@ -3152,6 +3566,7 @@ e) potrzebę zachowania przejrzystości przenoszenia aktywów z sektora gazu zie
 
 9. Prezes Urzędu Regulacji Energetyki cofa, w drodze decyzji, odstępstwo, o którym mowa w ust. 1, także gdy zakończyło się przenoszenie aktywów z sektora gazu ziemnego do sektora wodorowego zgodnie z harmonogramem, o którym mowa w ust. 4.
 
+<a id="art-9da"></a>
 ### Art. 9da.
 
 1. Prezes Urzędu Regulacji Energetyki, na wniosek operatora systemu dystrybucyjnego, stwierdza, w drodze decyzji, że system dystrybucyjny na ograniczonym geograficznie obszarze zakładu przemysłowego, obiektu handlowego lub miejsca świadczenia usług wspólnych, do którego sieci przyłączonych jest nie więcej niż 100 odbiorców paliw gazowych lub energii elektrycznej w gospodarstwach domowych, jest zamkniętym systemem dystrybucyjnym, jeżeli w odniesieniu do całego zakresu prowadzonej działalności w zakresie dystrybucji energii elektrycznej lub paliw gazowych:
@@ -3164,40 +3579,46 @@ e) potrzebę zachowania przejrzystości przenoszenia aktywów z sektora gazu zie
 
 3. Decyzja, o której mowa w ust. 1, wydawana jest na czas oznaczony, nie dłuższy niż 10 lat. W przypadku gdy koncesja na prowadzenie działalności gospodarczej w zakresie dystrybucji energii elektrycznej lub paliw gazowych lub decyzja o wyznaczeniu operatora, dotycząca operatora, o którym mowa w ust. 1, została wydana na czas krótszy – decyzję, o której mowa w ust. 1, wydaje się na czas nie dłuższy niż okres obowiązywania takiej decyzji.
 
+<a id="art-9db"></a>
 ### Art. 9db.
 
-1. Prezes Urzędu Regulacji Energetyki uchyla z urzędu decyzję, o której mowa w art. 9da ust. 1, jeżeli system dystrybucyjny przestał spełniać co najmniej jeden z warunków określonych w art. 9da ust. 1 lub mimo wezwania operator systemu dystrybucyjnego nie dokonał zmian pozwalających na spełnienie warunków lub obowiązków, o których mowa w art. 9dc ust. 2–4.
+1. Prezes Urzędu Regulacji Energetyki uchyla z urzędu decyzję, o której mowa w [art. 9da](#art-9da) ust. 1, jeżeli system dystrybucyjny przestał spełniać co najmniej jeden z warunków określonych w [art. 9da](#art-9da) ust. 1 lub mimo wezwania operator systemu dystrybucyjnego nie dokonał zmian pozwalających na spełnienie warunków lub obowiązków, o których mowa w [art. 9dc](#art-9dc) ust. 2–4.
 
-2. Operator systemu dystrybucyjnego jest obowiązany poinformować Prezesa Urzędu Regulacji Energetyki o okolicznościach, w wyniku których system dystrybucyjny przestał spełniać warunki, o których mowa w art. 9da ust. 1, w terminie miesiąca od dnia zaistnienia tych okoliczności.
+2. Operator systemu dystrybucyjnego jest obowiązany poinformować Prezesa Urzędu Regulacji Energetyki o okolicznościach, w wyniku których system dystrybucyjny przestał spełniać warunki, o których mowa w [art. 9da](#art-9da) ust. 1, w terminie miesiąca od dnia zaistnienia tych okoliczności.
 
+<a id="art-9dc"></a>
 ### Art. 9dc.
 
-1. Operator systemu dystrybucyjnego, który uzyskał decyzję, o której mowa w art. 9da ust. 1, w zakresie prowadzenia działalności w systemie objętym decyzją jest zwolniony z obowiązku:
+1. Operator systemu dystrybucyjnego, który uzyskał decyzję, o której mowa w [art. 9da](#art-9da) ust. 1, w zakresie prowadzenia działalności w systemie objętym decyzją jest zwolniony z obowiązku:
 
 1) przedkładania do zatwierdzenia taryf;
 
-2) sporządzania planów rozwoju, o których mowa w art. 16.
+2) sporządzania planów rozwoju, o których mowa w [art. 16](#art-16).
 
 2. Operator systemu dystrybucyjnego jest zwolniony z obowiązku, o którym mowa w ust. 1 pkt 1, pod warunkiem, że należność za energię elektryczną lub paliwa gazowe dostarczone każdemu z odbiorców końcowych, którzy są użytkownikami zamkniętego systemu dystrybucyjnego, obliczona na podstawie skalkulowanych przez tego operatora stawek opłat dla usług dystrybucji, nie będzie wyższa niż płatność obliczona według stawek opłat wynikających z zatwierdzonej przez Prezesa Urzędu Regulacji Energetyki taryfy przedsiębiorstwa energetycznego, do którego sieci jest przyłączony albo w przypadku braku takiego przyłączenia, na którego obszarze działania zamknięty system dystrybucyjny jest położony, oraz zasady rozliczeń i warunki stosowania tej taryfy są takie same, jak w taryfie tego przedsiębiorstwa energetycznego.
 
-3. Operator systemu dystrybucyjnego, który uzyskał decyzję, o której mowa w art. 9da ust. 1, w przypadku gdy oprócz działalności gospodarczej w zakresie dystrybucji energii elektrycznej lub paliw gazowych prowadzi działalność w zakresie obrotu energią elektryczną lub paliwami gazowymi, w rozliczeniach z odbiorcami paliw gazowych lub energii elektrycznej w gospodarstwach domowych stosuje ceny energii elektrycznej lub paliw gazowych nie wyższe niż zawarte w taryfie, o której mowa w ust. 2, ale nie wyższe niż ceny zawarte w taryfie sprzedawcy z urzędu działającego na obszarze, na którym prowadzi działalność ten operator, zatwierdzanej przez Prezesa Urzędu Regulacji Energetyki, jeżeli sprzedawca z urzędu nie został zwolniony z obowiązku przedłożenia taryfy do zatwierdzenia.
+3. Operator systemu dystrybucyjnego, który uzyskał decyzję, o której mowa w [art. 9da](#art-9da) ust. 1, w przypadku gdy oprócz działalności gospodarczej w zakresie dystrybucji energii elektrycznej lub paliw gazowych prowadzi działalność w zakresie obrotu energią elektryczną lub paliwami gazowymi, w rozliczeniach z odbiorcami paliw gazowych lub energii elektrycznej w gospodarstwach domowych stosuje ceny energii elektrycznej lub paliw gazowych nie wyższe niż zawarte w taryfie, o której mowa w ust. 2, ale nie wyższe niż ceny zawarte w taryfie sprzedawcy z urzędu działającego na obszarze, na którym prowadzi działalność ten operator, zatwierdzanej przez Prezesa Urzędu Regulacji Energetyki, jeżeli sprzedawca z urzędu nie został zwolniony z obowiązku przedłożenia taryfy do zatwierdzenia.
 
-4. Do kalkulacji cen i stawek opłat operator systemu dystrybucyjnego, o którym mowa w ust. 1, jest obowiązany stosować przepisy wydane odpowiednio na podstawie art. 46 ust. 1–4.
+4. Do kalkulacji cen i stawek opłat operator systemu dystrybucyjnego, o którym mowa w ust. 1, jest obowiązany stosować przepisy wydane odpowiednio na podstawie [art. 46](#art-46) ust. 1–4.
 
 5. Prezes Urzędu Regulacji Energetyki, z urzędu lub na pisemny wniosek użytkownika zamkniętego systemu dystrybucyjnego, może przeprowadzić kontrolę cen i stawek opłat oraz warunków ich stosowania ustalonych przez operatora, o którym mowa w ust. 1. W przypadku gdy w wyniku przeprowadzonej kontroli Prezes Urzędu Regulacji Energetyki stwierdzi, że operator ten stosuje ceny lub stawki opłat oraz warunki ich stosowania niezgodnie z ust. 2–4, wzywa tego operatora do ich skalkulowania lub zmiany w sposób zgodny z tymi przepisami.
 
+<a id="art-9e"></a>
 ### Art. 9e.
 
 (utracił moc)
 
+<a id="art-9e1"></a>
 ### Art. 9e[1].
 
 (utracił moc)
 
+<a id="art-9f"></a>
 ### Art. 9f.
 
 (uchylony)
 
+<a id="art-9g"></a>
 ### Art. 9g.
 
 1.87) Operator systemu przesyłowego, operator systemu przesyłowego wodorowego, operator systemu dystrybucyjnego, operator systemu dystrybucyjnego wodorowego, operator systemu magazynowania, operator systemu magazynowania wodoru lub operator systemu skraplania gazu ziemnego są obowiązani do opracowania odpowiednio instrukcji ruchu i eksploatacji sieci przesyłowej, instrukcji ruchu i eksploatacji sieci przesyłowej wodorowej, instrukcji ruchu i eksploatacji sieci dystrybucyjnej, instrukcji ruchu i eksploatacji sieci dystrybucyjnej wodorowej, instrukcji ruchu i eksploatacji instalacji magazynowej, instrukcji ruchu i eksploatacji instalacji magazynowej wodoru lub instrukcji ruchu i eksploatacji instalacji skroplonego gazu ziemnego, zwanych dalej „instrukcjami”.
@@ -3312,13 +3733,13 @@ e) potrzebę zachowania przejrzystości przenoszenia aktywów z sektora gazu zie
 
 2d) wymagań technicznych dla podmiotów świadczących usługi elastyczności;
 
-3) kryteriów bezpieczeństwa funkcjonowania systemu elektroenergetycznego, w tym uzgadniania planów, o których mowa w art. 9c ust. 2 pkt 13;
+3) kryteriów bezpieczeństwa funkcjonowania systemu elektroenergetycznego, w tym uzgadniania planów, o których mowa w [art. 9c](#art-9c) ust. 2 pkt 13;
 
 4) współpracy między operatorami systemów elektroenergetycznych, w tym w zakresie koordynowanej sieci 110 kV i niezbędnego układu połączeń sieci oraz zakresu, sposobu i harmonogramu przekazywania informacji;
 
 5) przekazywania informacji między przedsiębiorstwami energetycznymi a odbiorcami, w tym wydzielonymi odbiorcami;
 
-5a) procedur, sposobu postępowania i zakresu wymiany informacji niezbędnych w przypadku wprowadzenia ograniczeń, o których mowa w art. 11 ust. 1, i opracowania planów wprowadzania ograniczeń w dostarczaniu i poborze energii elektrycznej;
+5a) procedur, sposobu postępowania i zakresu wymiany informacji niezbędnych w przypadku wprowadzenia ograniczeń, o których mowa w [art. 11](#art-11) ust. 1, i opracowania planów wprowadzania ograniczeń w dostarczaniu i poborze energii elektrycznej;
 
 6) parametrów jakościowych energii elektrycznej, standardów jakościowych obsługi użytkowników systemu oraz zasad prowadzenia rozliczeń, w tym ustalania terminów wnoszenia opłat przez użytkowników systemu;
 
@@ -3364,11 +3785,11 @@ e) innych istotnych dla prawidłowego funkcjonowania sieci elektroenergetycznej 
 
 5aaa.[89)] Operator systemu magazynowania wodoru, który jest przyłączony do sieci przesyłowej wodorowej, uwzględnia w instrukcji ruchu i eksploatacji instalacji magazynowej wodoru wymagania określone w opracowanej przez operatora systemu przesyłowego wodorowego instrukcji ruchu i eksploatacji sieci przesyłowej wodorowej.
 
-5ab. Operator systemu dystrybucyjnego gazowego uwzględnia w instrukcji ruchu i eksploatacji sieci dystrybucyjnej zasady stosowania profili obciążenia opracowane przez podmiot odpowiedzialny za prognozowanie lub opracowane przez tego operatora, zgodnie z metodą, o której mowa w art. 9cb ust. 1.
+5ab. Operator systemu dystrybucyjnego gazowego uwzględnia w instrukcji ruchu i eksploatacji sieci dystrybucyjnej zasady stosowania profili obciążenia opracowane przez podmiot odpowiedzialny za prognozowanie lub opracowane przez tego operatora, zgodnie z metodą, o której mowa w [art. 9cb](#art-9cb) ust. 1.
 
 5ac. Operator systemu dystrybucyjnego, w przypadku gdy dla danego obszaru dystrybucyjnego nie została przyjęta metoda sporządzania prognoz dotyczących mierzonych rzadziej niż codziennie ilości paliw lub energii odbieranych przez użytkowników sieci, dołącza do instrukcji ruchu i eksploatacji sieci dystrybucyjnej zasady opracowania, aktualizacji i udostępniania odbiorcom oraz sprzedawcom ich profili obciążenia.
 
-5b. Operator systemu dystrybucyjnego gazowego w instrukcji ruchu i eksploatacji sieci dystrybucyjnej, a operator systemu przesyłowego gazowego w instrukcji ruchu i eksploatacji sieci przesyłowej, określa procedurę wymiany informacji, o których mowa w art. 5 ust. 14 i 15, oraz tryb, warunki i terminy uruchamiania sprzedaży rezerwowej paliw gazowych, o której mowa w art. 5aa, i sprzedaży, o której mowa w art. 5ab, w tym procedurę wymiany informacji.
+5b. Operator systemu dystrybucyjnego gazowego w instrukcji ruchu i eksploatacji sieci dystrybucyjnej, a operator systemu przesyłowego gazowego w instrukcji ruchu i eksploatacji sieci przesyłowej, określa procedurę wymiany informacji, o których mowa w [art. 5](#art-5) ust. 14 i 15, oraz tryb, warunki i terminy uruchamiania sprzedaży rezerwowej paliw gazowych, o której mowa w [art. 5aa](#art-5aa), i sprzedaży, o której mowa w [art. 5ab](#art-5ab), w tym procedurę wymiany informacji.
 
 5ba. Operator systemu przesyłowego elektroenergetycznego określa w instrukcji, o której mowa w ust. 5c, tryb i warunki uruchomiania i obsługi sprzedaży rezerwowej energii elektrycznej, w tym procedurę wymiany informacji.
 
@@ -3392,7 +3813,7 @@ c) przekazywania informacji do centralnego systemu informacji rynku energii i ic
 
 5a) zakres oraz sposób przekazania informacji rynku energii niezbędnych do uruchomienia i funkcjonowania centralnego systemu informacji rynku energii;
 
-6) wzór umowy, o którym mowa w art. 11zg ust. 2.
+6) wzór umowy, o którym mowa w [art. 11zg](#art-11zg) ust. 2.
 
 5d. Operator systemu dystrybucyjnego oraz operator systemu przesyłowego dołącza do instrukcji, jako jej integralną część, istotne postanowienia odpowiednio umowy o świadczenie usług przesyłania albo dystrybucji, której przedmiotem jest umożliwienie sprzedawcom sprzedaży paliw gazowych lub energii elektrycznej lub świadczenie usługi kompleksowej odbiorcom przyłączonym do sieci tego operatora. Postanowienia te są wiążące dla operatorów przy zawieraniu umów ze sprzedawcami.
 
@@ -3450,11 +3871,11 @@ e) awaryjne,
 
 8a. Przepisów ust. 8, 8c i 8d nie stosuje się do instrukcji opracowanej przez:
 
-1) przedsiębiorstwo, o którym mowa w art. 9d ust. 7;
+1) przedsiębiorstwo, o którym mowa w [art. 9d](#art-9d) ust. 7;
 
 2) operatora systemu skraplania gazu ziemnego, który jest operatorem na instalacjach skroplonego gazu ziemnego o łącznej zdolności regazyfikacji lub skraplania nie wyższej niż 150 mln m3 rocznie, co odpowiada 1 650 GWh rocznie.
 
-8b. Przedsiębiorstwo, o którym mowa w art. 9d ust. 7, lub operator, o którym mowa w ust. 8a, w terminie 90 dni od dnia ogłoszenia zatwierdzonej instrukcji, o której mowa w ust. 7, zamieszcza na swojej stronie internetowej oraz udostępnia w swojej siedzibie do publicznego wglądu opracowaną instrukcję wraz z informacją o zgłoszonych przez użytkowników systemu uwagach oraz sposobie ich uwzględnienia.
+8b. Przedsiębiorstwo, o którym mowa w [art. 9d](#art-9d) ust. 7, lub operator, o którym mowa w ust. 8a, w terminie 90 dni od dnia ogłoszenia zatwierdzonej instrukcji, o której mowa w ust. 7, zamieszcza na swojej stronie internetowej oraz udostępnia w swojej siedzibie do publicznego wglądu opracowaną instrukcję wraz z informacją o zgłoszonych przez użytkowników systemu uwagach oraz sposobie ich uwzględnienia.
 
 8c. Prezes Urzędu Regulacji Energetyki, po przeprowadzeniu analizy informacji o zgłoszonych przez użytkowników systemu uwagach oraz sposobie ich uwzględnienia lub w przypadku istotnej zmiany projektu instrukcji lub jej zmian, w uzasadnionym przypadku, może wezwać operatora systemu przesyłowego, operatora systemu dystrybucyjnego, operatora systemu magazynowania lub operatora systemu skraplania gazu ziemnego do powtórzenia możliwości zgłaszania uwag, o której mowa w ust. 2, określając termin udostępnienia projektu instrukcji lub jej zmian.
 
@@ -3482,6 +3903,7 @@ e) awaryjne,
 
 13.[95)] Użytkownicy systemu wodorowego, w tym odbiorcy, których urządzenia, instalacje lub sieci są przyłączone do sieci wodorowej operatora systemu przesyłowego wodorowego, operatora systemu dystrybucyjnego wodorowego, operatora systemu magazynowania wodoru lub operatora systemu połączonego wodorowego, lub korzystający z usług świadczonych przez tych operatorów, są obowiązani stosować się do warunków i wymagań oraz procedur postępowania i wymiany informacji określonych w instrukcjach.
 
+<a id="art-9ga"></a>
 ### Art. 9ga.
 
 1. Operator systemu przesyłowego elektroenergetycznego określa wymogi ogólnego stosowania w rozumieniu art. 7 rozporządzenia 2016/631, w art. 6 rozporządzenia 2016/1388 oraz w art. 5 rozporządzenia 2016/1447.
@@ -3492,6 +3914,7 @@ e) awaryjne,
 
 4. Zatwierdzone przez Prezesa Urzędu Regulacji Energetyki wymogi ogólnego stosowania, o których mowa w ust. 1, operator systemu przesyłowego elektroenergetycznego zamieszcza na swojej stronie internetowej.
 
+<a id="art-9h"></a>
 ### Art. 9h.
 
 1.96) Prezes Urzędu Regulacji Energetyki, na wniosek właściciela sieci przesyłowej, sieci dystrybucyjnej, instalacji magazynowej lub instalacji skroplonego gazu ziemnego, wyznacza, w drodze decyzji, na czas określony, operatora systemu przesyłowego, systemu dystrybucyjnego, systemu magazynowania, systemu skraplania gazu ziemnego lub operatora systemu połączonego oraz określa obszar, sieci lub instalacje, na których będzie wykonywana działalność gospodarcza, z zastrzeżeniem ust. 1a, 1b i 2.
@@ -3536,7 +3959,7 @@ e) awaryjne,
 
 2) właściciel instalacji magazynowej wodoru posiadający koncesję na wykonywanie działalności gospodarczej z wykorzystaniem tej instalacji.
 
-3a. Powierzenie pełnienia obowiązków operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego na podstawie ust. 3 pkt 2 jest możliwe wyłącznie, jeżeli system przesyłowy, którego dotyczy powierzenie należał w dniu 3 września 2009 r. do przedsiębiorstwa zintegrowanego pionowo, albo jeżeli Prezes Urzędu Regulacji Energetyki wydał zgodę na powierzenie przez właściciela sieci przesyłowej pełnienia obowiązków operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego na podstawie art. 4i ust. 1.
+3a. Powierzenie pełnienia obowiązków operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego na podstawie ust. 3 pkt 2 jest możliwe wyłącznie, jeżeli system przesyłowy, którego dotyczy powierzenie należał w dniu 3 września 2009 r. do przedsiębiorstwa zintegrowanego pionowo, albo jeżeli Prezes Urzędu Regulacji Energetyki wydał zgodę na powierzenie przez właściciela sieci przesyłowej pełnienia obowiązków operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego na podstawie [art. 4i](#art-4i) ust. 1.
 
 3aa. Operator systemu przesyłowego gazowego albo operator systemu połączonego gazowego wyznaczony na sieci przesyłowej gazowej wchodzącej w skład systemu przesyłowego, który w dniu 3 września 2009 r. należał do przedsiębiorstwa zintegrowanego pionowo, ma prawo do wyłącznego korzystania z majątku właściciela tej sieci niezbędnego do pełnienia obowiązków operatora z jej wykorzystaniem, w tym wykonywania działalności gospodarczej w zakresie przesyłania paliw gazowych.
 
@@ -3580,7 +4003,7 @@ e) awaryjne,
 
 1) obszar, na którym operator systemu przesyłowego, operator systemu dystrybucyjnego, operator systemu magazynowania paliw gazowych, operator systemu skraplania gazu ziemnego, operator systemu połączonego, operator systemu dystrybucyjnego wodorowego lub operator systemu magazynowania wodoru będzie wykonywał działalność gospodarczą;
 
-2) zasady realizacji obowiązków, o których mowa w art. 9c, w szczególności obowiązków powierzonych do wykonywania bezpośrednio operatorowi systemu dystrybucyjnego, operatorowi systemu dystrybucyjnego wodorowego, operatorowi systemu magazynowania paliw gazowych, operatorowi systemu magazynowania wodoru, operatorowi systemu skraplania gazu ziemnego, operatorowi systemu połączonego lub operatorowi systemu połączonego wodorowego.
+2) zasady realizacji obowiązków, o których mowa w [art. 9c](#art-9c), w szczególności obowiązków powierzonych do wykonywania bezpośrednio operatorowi systemu dystrybucyjnego, operatorowi systemu dystrybucyjnego wodorowego, operatorowi systemu magazynowania paliw gazowych, operatorowi systemu magazynowania wodoru, operatorowi systemu skraplania gazu ziemnego, operatorowi systemu połączonego lub operatorowi systemu połączonego wodorowego.
 
 5a. Umowa powierzająca pełnienie obowiązków operatora systemu przesyłowego gazowego powinna określać także:
 
@@ -3596,7 +4019,7 @@ e) awaryjne,
 
 6) zasady odpowiedzialności stron z tytułu niewykonania lub nienależytego wykonania zobowiązań wynikających z tej umowy, w tym kary umowne.
 
-5b. Sposób ustalenia wynagrodzenia, o którym mowa w ust. 5a pkt 3, określa się tak, aby wysokość tego wynagrodzenia odpowiadała kosztom działalności operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego, o których mowa w art. 45 ust. 1k, zweryfikowanym przez Prezesa Urzędu Regulacji Energetyki w postępowaniu w sprawie zatwierdzenia taryfy dla paliw gazowych przedłożonej przez tego operatora.
+5b. Sposób ustalenia wynagrodzenia, o którym mowa w ust. 5a pkt 3, określa się tak, aby wysokość tego wynagrodzenia odpowiadała kosztom działalności operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego, o których mowa w [art. 45](#art-45) ust. 1k, zweryfikowanym przez Prezesa Urzędu Regulacji Energetyki w postępowaniu w sprawie zatwierdzenia taryfy dla paliw gazowych przedłożonej przez tego operatora.
 
 5c. Właściciel sieci przesyłowej gazowej jest obowiązany pokrywać koszty poniesione przez operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego w związku z pełnieniem obowiązków operatora z jej wykorzystaniem, w tym wykonywaniem działalności gospodarczej w zakresie przesyłania paliw gazowych, w części, w jakiej nie zostały one pokryte przychodami ze świadczonych przez tego operatora usług przesyłania paliw gazowych tą siecią.
 
@@ -3610,7 +4033,7 @@ e) awaryjne,
 
 6. Właściciel, o którym mowa w ust. 1, występuje z wnioskiem do Prezesa Urzędu Regulacji Energetyki o wyznaczenie:
 
-1) operatora systemu przesyłowego lub operatora systemu połączonego, w terminie 30 dni od dnia uzyskania przez przedsiębiorstwo energetyczne certyfikatu niezależności, o którym mowa w art. 9h1 ust. 1, albo od dnia upływu terminu, o którym mowa w art. 9h1 ust. 6;
+1) operatora systemu przesyłowego lub operatora systemu połączonego, w terminie 30 dni od dnia uzyskania przez przedsiębiorstwo energetyczne certyfikatu niezależności, o którym mowa w [art. 9h1](#art-9h1) ust. 1, albo od dnia upływu terminu, o którym mowa w [art. 9h1](#art-9h1) ust. 6;
 
 2) operatora systemu dystrybucyjnego lub operatora systemu skraplania gazu ziemnego, w terminie 30 dni od dnia:
 
@@ -3618,11 +4041,11 @@ a) doręczenia decyzji Prezesa Urzędu Regulacji Energetyki o udzieleniu temu w�
 
 b) w którym właściciel zawarł umowę o powierzenie wykonywania obowiązków operatora z przedsiębiorstwem, o którym mowa w ust. 3 pkt 2, w odniesieniu do sieci lub instalacji będących jego własnością;
 
-3) operatora systemu magazynowania w terminie 30 dni od dnia uzyskania przez przedsiębiorstwo energetyczne certyfikatu, o którym mowa w art. 9h3 ust. 1, albo od dnia upływu terminu, o którym mowa w art. 9h3 ust. 7.
+3) operatora systemu magazynowania w terminie 30 dni od dnia uzyskania przez przedsiębiorstwo energetyczne certyfikatu, o którym mowa w [art. 9h3](#art-9h3) ust. 1, albo od dnia upływu terminu, o którym mowa w [art. 9h3](#art-9h3) ust. 7.
 
 6a.[103)] Właściciel, o którym mowa w ust. 1c, występuje z wnioskiem do Prezesa Urzędu Regulacji Energetyki o wyznaczenie:
 
-1) operatora systemu przesyłowego wodorowego albo operatora systemu połączonego wodorowego w terminie 30 dni od dnia uzyskania przez przedsiębiorstwo energetyczne certyfikatu niezależności, o którym mowa w art. 9h1 ust. 1, albo od dnia upływu terminów, o których mowa w art. 9h1 ust. 6;
+1) operatora systemu przesyłowego wodorowego albo operatora systemu połączonego wodorowego w terminie 30 dni od dnia uzyskania przez przedsiębiorstwo energetyczne certyfikatu niezależności, o którym mowa w [art. 9h1](#art-9h1) ust. 1, albo od dnia upływu terminów, o których mowa w [art. 9h1](#art-9h1) ust. 6;
 
 2) operatora systemu dystrybucyjnego wodorowego lub operatora systemu magazynowania wodoru w terminie 6 miesięcy od dnia:
 
@@ -3640,7 +4063,7 @@ c) każdorazowego przeniesienia własności sieci dystrybucyjnej wodorowej lub i
 
 3) bezpieczeństwo dostarczania paliw gazowych lub energii elektrycznej;
 
-4)[104)] spełnianie przez operatora warunków i kryteriów niezależności, o których mowa w art. 9d ust. 1–12 i 1a–2;
+4)[104)] spełnianie przez operatora warunków i kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 1–12 i 1a–2;
 
 5) okres obowiązywania koncesji;
 
@@ -3654,7 +4077,7 @@ c) każdorazowego przeniesienia własności sieci dystrybucyjnej wodorowej lub i
 
 2) bezpieczeństwo dostarczania wodoru;
 
-3) spełnianie przez tego operatora warunków i kryteriów niezależności, o których mowa w art. 9d ust. 13–2;
+3) spełnianie przez tego operatora warunków i kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 13–2;
 
 4) wnioskowany okres obowiązywania wyznaczenia.
 
@@ -3692,7 +4115,7 @@ c) każdorazowego przeniesienia własności sieci dystrybucyjnej wodorowej lub i
 
 5) szczególne warunki wykonywania działalności objętej wyznaczeniem, mające na celu właściwą obsługę odbiorców, w zakresie:
 
-a) zapewnienia zdolności do dostarczania wodoru w sposób ciągły i niezawodny, przy zachowaniu parametrów jakościowych wodoru określonych w przepisach wydanych na podstawie art. 9 ust. 8a,
+a) zapewnienia zdolności do dostarczania wodoru w sposób ciągły i niezawodny, przy zachowaniu parametrów jakościowych wodoru określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 8a,
 
 b) powiadamiania Prezesa Urzędu Regulacji Energetyki o niepodjęciu, zaprzestaniu lub ograniczeniu wykonywania działalności objętej wyznaczeniem, w okresie obowiązywania tego wyznaczenia;
 
@@ -3710,13 +4133,13 @@ b) powiadamiania Prezesa Urzędu Regulacji Energetyki o niepodjęciu, zaprzestan
 
 2) przedsiębiorstwo to nie gwarantuje skutecznego zarządzania systemem;
 
-3)[106)] przedsiębiorstwo to nie spełnia warunków i kryteriów niezależności, o których mowa w art. 9d ust. 1–12 i 1a–2, z zastrzeżeniem art. 9d ust. 7;
+3)[106)] przedsiębiorstwo to nie spełnia warunków i kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 1–12 i 1a–2, z zastrzeżeniem [art. 9d](#art-9d) ust. 7;
 
-4)[107)] nie został spełniony warunek, o którym mowa w art. 9k ust. 1;
+4)[107)] nie został spełniony warunek, o którym mowa w [art. 9k](#art-9k) ust. 1;
 
 5) przedsiębiorstwo to nie wykazało zdolności do wypełniania obowiązków wynikających z rozporządzeń, o których mowa w ust. 7 pkt 6;
 
-6) umowa, o której mowa w ust. 3 pkt 2, nie zapewnia operatorowi systemu przesyłowego lub operatorowi systemu połączonego możliwości wykonywania obowiązków, o których mowa w art. 9c i w art. 16 ust. 2;
+6) umowa, o której mowa w ust. 3 pkt 2, nie zapewnia operatorowi systemu przesyłowego lub operatorowi systemu połączonego możliwości wykonywania obowiązków, o których mowa w [art. 9c](#art-9c) i w [art. 16](#art-16) ust. 2;
 
 7) właściciel sieci przesyłowej nie wykazał zdolności do realizacji obowiązków, o których mowa w ust. 11 i 12;
 
@@ -3728,15 +4151,15 @@ b) powiadamiania Prezesa Urzędu Regulacji Energetyki o niepodjęciu, zaprzestan
 
 2) przedsiębiorstwo to nie gwarantuje skutecznego zarządzania siecią lub systemem wodorowym;
 
-3) przedsiębiorstwo to nie spełnia warunków i kryteriów niezależności, o których mowa w art. 9d ust. 13–2, z zastrzeżeniem art. 9d ust. 7a;
+3) przedsiębiorstwo to nie spełnia warunków i kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 13–2, z zastrzeżeniem [art. 9d](#art-9d) ust. 7a;
 
-4) nie został spełniony warunek, o którym mowa w art. 9k ust. 2 albo 3;
+4) nie został spełniony warunek, o którym mowa w [art. 9k](#art-9k) ust. 2 albo 3;
 
 5) przedsiębiorstwo to nie ma siedziby na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Turcji;
 
-6) przedsiębiorstwo to nie zapewnia zatrudnienia osób o właściwych kwalifikacjach zawodowych, o których mowa w art. 54 ust. 1;
+6) przedsiębiorstwo to nie zapewnia zatrudnienia osób o właściwych kwalifikacjach zawodowych, o których mowa w [art. 54](#art-54) ust. 1;
 
-7) przedsiębiorstwu temu w okresie ostatnich 3 lat cofnięto koncesję na działalność określoną ustawą z przyczyn wymienionych w art. 41 ust. 3 lub cofnięto wyznaczenie operatora systemu przesyłowego wodorowego, operatora systemu dystrybucyjnego wodorowego, operatora systemu magazynowania wodoru lub operatora systemu połączonego wodorowego, lub przedsiębiorstwo to w okresie ostatnich 3 lat wykreślono z rejestru działalności regulowanej z powodu wydania decyzji o zakazie wykonywania przez wnioskodawcę działalności objętej wpisem, ze względu na:
+7) przedsiębiorstwu temu w okresie ostatnich 3 lat cofnięto koncesję na działalność określoną ustawą z przyczyn wymienionych w [art. 41](#art-41) ust. 3 lub cofnięto wyznaczenie operatora systemu przesyłowego wodorowego, operatora systemu dystrybucyjnego wodorowego, operatora systemu magazynowania wodoru lub operatora systemu połączonego wodorowego, lub przedsiębiorstwo to w okresie ostatnich 3 lat wykreślono z rejestru działalności regulowanej z powodu wydania decyzji o zakazie wykonywania przez wnioskodawcę działalności objętej wpisem, ze względu na:
 
 a) złożenie oświadczenia o spełnieniu warunków wymaganych prawem do wykonywania tej działalności niezgodnego ze stanem faktycznym lub
 
@@ -3804,9 +4227,9 @@ c) rażące naruszenie warunków wymaganych prawem do wykonywania tej działalno
 
 9a.[109)] Prezes Urzędu Regulacji Energetyki z urzędu wyznacza, w drodze decyzji, operatora systemu dystrybucyjnego wodorowego lub operatora systemu magazynowania wodoru, w przypadku gdy odmówił wyznaczenia operatora, który wykonywałby działalność, korzystając z sieci lub instalacji określonych we wniosku, o którym mowa w ust. 1c.
 
-10.[110)] Wydając decyzję, o której mowa w ust. 9, Prezes Urzędu Regulacji Energetyki określa obszar, instalacje lub sieci, na których operator będzie wykonywał działalność gospodarczą, warunki realizacji kryteriów niezależności, o których mowa w art. 9d ust. 1–12 i 1a–2, niezbędne do realizacji zadań operatorów systemów, o których mowa w art. 9c.
+10.[110)] Wydając decyzję, o której mowa w ust. 9, Prezes Urzędu Regulacji Energetyki określa obszar, instalacje lub sieci, na których operator będzie wykonywał działalność gospodarczą, warunki realizacji kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 1–12 i 1a–2, niezbędne do realizacji zadań operatorów systemów, o których mowa w [art. 9c](#art-9c).
 
-101.[111)] Wydając decyzję, o której mowa w ust. 9a, Prezes Urzędu Regulacji Energetyki określa obszar, sieci lub instalacje, na których operator systemu dystrybucyjnego wodorowego lub operator systemu magazynowania wodoru będą wykonywać działalność, warunki realizacji kryteriów niezależności, o których mowa w art. 9d ust. 13–2, niezbędne do realizacji przez tych operatorów zadań, o których mowa w art. 9c ust. 1e, 1g lub 1h.
+101.[111)] Wydając decyzję, o której mowa w ust. 9a, Prezes Urzędu Regulacji Energetyki określa obszar, sieci lub instalacje, na których operator systemu dystrybucyjnego wodorowego lub operator systemu magazynowania wodoru będą wykonywać działalność, warunki realizacji kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 13–2, niezbędne do realizacji przez tych operatorów zadań, o których mowa w [art. 9c](#art-9c) ust. 1e, 1g lub 1h.
 
 10a. W przypadku gdy po wyznaczeniu operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego na sieci przesyłowej gazowej wchodzącej w skład systemu przesyłowego, który w dniu 3 września 2009 r. należał do przedsiębiorstwa zintegrowanego pionowo, dojdzie do zmiany okresu ważności udzielonej temu operatorowi koncesji na wykonywanie działalności gospodarczej w zakresie przesyłania paliw gazowych, z dniem uprawomocnienia się decyzji o udzieleniu koncesji albo o zmianie decyzji o udzieleniu koncesji okres wyznaczenia operatora na tej sieci z mocy prawa ulega zrównaniu z okresem ważności udzielonej mu koncesji na wykonywanie działalności gospodarczej w zakresie przesyłania paliw gazowych.
 
@@ -3814,9 +4237,9 @@ c) rażące naruszenie warunków wymaganych prawem do wykonywania tej działalno
 
 12. Właściciel sieci przesyłowej gazowej w przypadku, o którym mowa w ust. 3 pkt 2, jest obowiązany do:
 
-1) uzgodnienia z operatorem zasad finansowania inwestycji związanych z systemem, którego jest właścicielem, określonych w planie, o którym mowa w art. 16 ust. 2;
+1) uzgodnienia z operatorem zasad finansowania inwestycji związanych z systemem, którego jest właścicielem, określonych w planie, o którym mowa w [art. 16](#art-16) ust. 2;
 
-2) finansowania inwestycji, o których mowa w pkt 1, lub wyrażenia zgody na ich finansowanie przez operatora lub inny podmiot, po uzgodnieniu, o którym mowa w art. 16 ust. 13;
+2) finansowania inwestycji, o których mowa w pkt 1, lub wyrażenia zgody na ich finansowanie przez operatora lub inny podmiot, po uzgodnieniu, o którym mowa w [art. 16](#art-16) ust. 13;
 
 3) przyjęcia na siebie odpowiedzialności związanej z majątkiem zarządzanym przez operatora, z wyłączeniem odpowiedzialności wynikającej z realizacji zadań przez operatora;
 
@@ -3824,7 +4247,7 @@ c) rażące naruszenie warunków wymaganych prawem do wykonywania tej działalno
 
 13. W przypadku wyznaczenia operatora systemu przesyłowego Prezes Urzędu Regulacji Energetyki jest uprawniony do przeprowadzenia kontroli w zakresie wypełniania przez właściciela sieci przesyłowej lub operatora systemu przesyłowego obowiązków, o których mowa w ust. 11 i 12 oraz art. 9c, a także w zakresie wypełniania przez operatora systemu przesyłowego obowiązków, o których mowa w art. 16 i art. 47. Do kontroli nie stosuje się przepisów art. 48 ust. 1–10 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, zwanej dalej „ustawą – Prawo przedsiębiorców”.
 
-14. Prezes Urzędu Regulacji Energetyki może w uzasadnionych przypadkach, w drodze decyzji, zobowiązać właściciela sieci do podjęcia określonych działań mających na celu spełnienie przez wyznaczonego na jego sieci operatora systemu warunków i kryteriów niezależności, o których mowa w art. 9d ust. 1–1c, oraz warunków, o których mowa w art. 9h1 ust. 7 pkt 2–4, oraz wyznaczyć termin na ich podjęcie. Wydając decyzję, Prezes Urzędu Regulacji Energetyki w szczególności bierze pod uwagę warunki uzyskania certyfikatu spełniania kryteriów niezależności przez tego operatora.
+14. Prezes Urzędu Regulacji Energetyki może w uzasadnionych przypadkach, w drodze decyzji, zobowiązać właściciela sieci do podjęcia określonych działań mających na celu spełnienie przez wyznaczonego na jego sieci operatora systemu warunków i kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 1–1c, oraz warunków, o których mowa w [art. 9h1](#art-9h1) ust. 7 pkt 2–4, oraz wyznaczyć termin na ich podjęcie. Wydając decyzję, Prezes Urzędu Regulacji Energetyki w szczególności bierze pod uwagę warunki uzyskania certyfikatu spełniania kryteriów niezależności przez tego operatora.
 
 15.[113)] Prezes Urzędu Regulacji Energetyki może nakazać, w drodze decyzji, przedsiębiorstwu energetycznemu, w tym także w upadłości, dalsze wykonywanie działalności objętej wyznaczeniem operatora systemu przesyłowego wodorowego, operatora systemu dystrybucyjnego wodorowego, operatora systemu magazynowania wodoru lub operatora systemu połączonego wodorowego przez okres nie dłuższy niż 2 lata, jeżeli wymaga tego interes społeczny.
 
@@ -3852,27 +4275,28 @@ b) miejsce wykonywania działalności albo siedzibę oraz ich adres;
 
 3) aktualną treść wyznaczenia.
 
+<a id="art-9h1"></a>
 ### Art. 9h[1].
 
-1.114) Prezes Urzędu Regulacji Energetyki może wyznaczyć operatorem systemu przesyłowego, operatorem systemu połączonego, operatorem systemu przesyłowego wodorowego lub operatorem systemu połączonego wodorowego wyłącznie przedsiębiorstwo energetyczne, które uzyskało certyfikat spełniania kryteriów niezależności, o których mowa w art. 9d ust. 1a, zwany dalej „certyfikatem niezależności”, albo w przypadku wskazanym w ust. 6.
+1.114) Prezes Urzędu Regulacji Energetyki może wyznaczyć operatorem systemu przesyłowego, operatorem systemu połączonego, operatorem systemu przesyłowego wodorowego lub operatorem systemu połączonego wodorowego wyłącznie przedsiębiorstwo energetyczne, które uzyskało certyfikat spełniania kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 1a, zwany dalej „certyfikatem niezależności”, albo w przypadku wskazanym w ust. 6.
 
 2. Prezes Urzędu Regulacji Energetyki przyznaje certyfikat niezależności:
 
-1) na wniosek właściciela sieci przesyłowej, o którym mowa w art. 9h ust. 3 pkt 1, albo przedsiębiorstwa energetycznego, o którym mowa w art. 9h ust. 3 pkt 2, złożony w terminie 30 dni od dnia:
+1) na wniosek właściciela sieci przesyłowej, o którym mowa w [art. 9h](#art-9h) ust. 3 pkt 1, albo przedsiębiorstwa energetycznego, o którym mowa w [art. 9h](#art-9h) ust. 3 pkt 2, złożony w terminie 30 dni od dnia:
 
 a) doręczenia decyzji Prezesa Urzędu Regulacji Energetyki o udzieleniu temu właścicielowi koncesji na wykonywanie działalności gospodarczej z wykorzystaniem tych sieci lub instalacji, albo
 
-b) w którym właściciel zawarł umowę o powierzenie wykonywania obowiązków operatora z przedsiębiorstwem energetycznym, o którym mowa w art. 9h ust. 3 pkt 2, w odniesieniu do sieci lub instalacji będących jego własnością;
+b) w którym właściciel zawarł umowę o powierzenie wykonywania obowiązków operatora z przedsiębiorstwem energetycznym, o którym mowa w [art. 9h](#art-9h) ust. 3 pkt 2, w odniesieniu do sieci lub instalacji będących jego własnością;
 
-1a)[115)] na wniosek właściciela sieci przesyłowej wodorowej, o którym mowa w art. 9h ust. 31 albo ust. 34 pkt 1;
+1a)[115)] na wniosek właściciela sieci przesyłowej wodorowej, o którym mowa w [art. 9h](#art-9h) ust. 31 albo ust. 34 pkt 1;
 
-1b)[115)] na wniosek operatora systemu przesyłowego wodorowego złożony łącznie z wnioskiem o udzielenie odstępstwa zgodnie z art. 9d3 ust. 1;
+1b)[115)] na wniosek operatora systemu przesyłowego wodorowego złożony łącznie z wnioskiem o udzielenie odstępstwa zgodnie z [art. 9d3](#art-9d3) ust. 1;
 
 2)[116)] z urzędu, w przypadku braku wniosków, o których mowa w pkt 1–1b;
 
 3) na wniosek Komisji Europejskiej.
 
-3. Prezes Urzędu Regulacji Energetyki przed przyznaniem certyfikatu niezależności zajmuje stanowisko w sprawie jego przyznania i przekazuje je Komisji Europejskiej wraz z wnioskiem o wydanie opinii w sprawie spełniania warunków i kryteriów niezależności, o których mowa w art. 9d ust. 1a.
+3. Prezes Urzędu Regulacji Energetyki przed przyznaniem certyfikatu niezależności zajmuje stanowisko w sprawie jego przyznania i przekazuje je Komisji Europejskiej wraz z wnioskiem o wydanie opinii w sprawie spełniania warunków i kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 1a.
 
 4. Jeżeli Komisja Europejska nie wyda opinii, o której mowa w ust. 3, w terminie:
 
@@ -3880,7 +4304,7 @@ b) w którym właściciel zawarł umowę o powierzenie wykonywania obowiązków 
 
 2) czterech miesięcy od dnia wystąpienia o jej wydanie – w przypadku zwrócenia się Komisji Europejskiej do Agencji, danego państwa członkowskiego Unii Europejskiej lub innego zainteresowanego podmiotu z wnioskiem o zajęcie stanowiska – przyjmuje się, że opinia Komisji Europejskiej jest pozytywna.
 
-5.[117)] Prezes Urzędu Regulacji Energetyki po stwierdzeniu, że przedsiębiorstwo energetyczne spełnia kryteria niezależności, o których mowa w art. 9d ust. 1a, przyznaje temu przedsiębiorstwu, w drodze decyzji, certyfikat niezależności, w terminie 100 dni roboczych od dnia złożenia wniosku, o którym mowa w ust. 2 pkt 1–1b, albo od dnia złożenia wniosku Komisji Europejskiej, o którym mowa w ust. 2 pkt 3.
+5.[117)] Prezes Urzędu Regulacji Energetyki po stwierdzeniu, że przedsiębiorstwo energetyczne spełnia kryteria niezależności, o których mowa w [art. 9d](#art-9d) ust. 1a, przyznaje temu przedsiębiorstwu, w drodze decyzji, certyfikat niezależności, w terminie 100 dni roboczych od dnia złożenia wniosku, o którym mowa w ust. 2 pkt 1–1b, albo od dnia złożenia wniosku Komisji Europejskiej, o którym mowa w ust. 2 pkt 3.
 
 6.[118)] Jeżeli Prezes Urzędu Regulacji Energetyki nie wyda decyzji, o której mowa w ust. 5:
 
@@ -3890,13 +4314,13 @@ b) w którym właściciel zawarł umowę o powierzenie wykonywania obowiązków 
 
 7. Prezes Urzędu Regulacji Energetyki przyznaje certyfikat niezależności przedsiębiorstwu energetycznemu, z którym właściciel sieci przesyłowej zawarł umowę o powierzenie wykonywania obowiązków operatora systemu przesyłowego gazowego albo operatora systemu połączonego gazowego, jeżeli:
 
-1) przedsiębiorstwo to spełnia kryteria niezależności, o których mowa w art. 9d ust. 1a;
+1) przedsiębiorstwo to spełnia kryteria niezależności, o których mowa w [art. 9d](#art-9d) ust. 1a;
 
-2) przedsiębiorstwo to wykazało zdolność do wypełniania obowiązków wynikających z art. 9c oraz rozporządzenia, o którym mowa w art. 9h ust. 7 pkt 6, w tym dysponuje odpowiednimi środkami ekonomicznymi i technicznymi;
+2) przedsiębiorstwo to wykazało zdolność do wypełniania obowiązków wynikających z art. 9c oraz rozporządzenia, o którym mowa w [art. 9h](#art-9h) ust. 7 pkt 6, w tym dysponuje odpowiednimi środkami ekonomicznymi i technicznymi;
 
-3) umowa, o której mowa w art. 9h ust. 3 pkt 2, zapewnia temu przedsiębiorstwu wykonywanie obowiązków, o których mowa w art. 9c i w art. 16 ust. 2;
+3) umowa, o której mowa w [art. 9h](#art-9h) ust. 3 pkt 2, zapewnia temu przedsiębiorstwu wykonywanie obowiązków, o których mowa w [art. 9c](#art-9c) i w [art. 16](#art-16) ust. 2;
 
-4) właściciel sieci przesyłowej wykazał zdolność do wykonywania obowiązków, o których mowa w art. 9h ust. 11 i 12.
+4) właściciel sieci przesyłowej wykazał zdolność do wykonywania obowiązków, o których mowa w [art. 9h](#art-9h) ust. 11 i 12.
 
 8. Prezes Urzędu Regulacji Energetyki niezwłocznie powiadamia Komisję Europejską o przyznaniu certyfikatu niezależności, o odmowie przyznania certyfikatu niezależności, albo w przypadku wskazanym w ust. 6.
 
@@ -3912,15 +4336,16 @@ b) w którym właściciel zawarł umowę o powierzenie wykonywania obowiązków 
 
 3) na uzasadniony wniosek Komisji Europejskiej.
 
-12. W przypadku odmowy wydania certyfikatu niezależności lub stwierdzenia, po sprawdzeniu, o którym mowa w ust. 11, że operator systemu przesyłowego, operator systemu połączonego, operator systemu przesyłowego wodorowego albo operator systemu połączonego wodorowego nie spełnia kryteriów niezależności, o których mowa w art. 9d ust. 1a, lub kryteriów, o których mowa w ust. 7, Prezes Urzędu Regulacji Energetyki określa, w drodze decyzji, kryteria, które nie są spełnione, oraz wyznacza termin na podjęcie działań mających na celu spełnienie tych kryteriów.119) W przypadku niepodjęcia działań w wyznaczonym terminie, Prezes Urzędu Regulacji Energetyki może uchylić decyzję o wyznaczeniu tego przedsiębiorstwa operatorem.
+12. W przypadku odmowy wydania certyfikatu niezależności lub stwierdzenia, po sprawdzeniu, o którym mowa w ust. 11, że operator systemu przesyłowego, operator systemu połączonego, operator systemu przesyłowego wodorowego albo operator systemu połączonego wodorowego nie spełnia kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 1a, lub kryteriów, o których mowa w ust. 7, Prezes Urzędu Regulacji Energetyki określa, w drodze decyzji, kryteria, które nie są spełnione, oraz wyznacza termin na podjęcie działań mających na celu spełnienie tych kryteriów.119) W przypadku niepodjęcia działań w wyznaczonym terminie, Prezes Urzędu Regulacji Energetyki może uchylić decyzję o wyznaczeniu tego przedsiębiorstwa operatorem.
 
+<a id="art-9h2"></a>
 ### Art. 9h[2].
 
 1.120) W przypadku:
 
-1) gdy o przyznanie certyfikatu niezależności wystąpi właściciel sieci przesyłowej, właściciel sieci przesyłowej wodorowej lub przedsiębiorstwo energetyczne, na które podmiot z państwa niebędącego państwem członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym wywiera decydujący wpływ, o którym mowa w art. 9d ust. 1c,
+1) gdy o przyznanie certyfikatu niezależności wystąpi właściciel sieci przesyłowej, właściciel sieci przesyłowej wodorowej lub przedsiębiorstwo energetyczne, na które podmiot z państwa niebędącego państwem członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym wywiera decydujący wpływ, o którym mowa w [art. 9d](#art-9d) ust. 1c,
 
-2) wystąpienia okoliczności, w wyniku których podmiot, o którym mowa w pkt 1, może wywierać decydujący wpływ, o którym mowa w art. 9d ust. 1c, na operatora systemu przesyłowego lub operatora systemu przesyłowego wodorowego albo na sieć przesyłową lub sieć przesyłową wodorową – Prezes Urzędu Regulacji Energetyki, w terminie 100 dni roboczych od dnia złożenia wniosku o przyznanie certyfikatu niezależności lub wystąpienia okoliczności, przekazuje Komisji Europejskiej stanowisko wraz z wnioskiem o wydanie opinii w sprawie spełniania przez właściciela sieci przesyłowej, właściciela sieci przesyłowej wodorowej lub przedsiębiorstwo energetyczne wymagań określonych w art. 9d ust. 1 albo ust. 13 i 14 oraz ust. 1a oraz wpływu przyznania im certyfikatu niezależności na bezpieczeństwo dostaw paliw gazowych, energii elektrycznej lub wodoru w Unii Europejskiej lub na istotne interesy dotyczące bezpieczeństwa Rzeczypospolitej Polskiej lub Unii Europejskiej.
+2) wystąpienia okoliczności, w wyniku których podmiot, o którym mowa w pkt 1, może wywierać decydujący wpływ, o którym mowa w [art. 9d](#art-9d) ust. 1c, na operatora systemu przesyłowego lub operatora systemu przesyłowego wodorowego albo na sieć przesyłową lub sieć przesyłową wodorową – Prezes Urzędu Regulacji Energetyki, w terminie 100 dni roboczych od dnia złożenia wniosku o przyznanie certyfikatu niezależności lub wystąpienia okoliczności, przekazuje Komisji Europejskiej stanowisko wraz z wnioskiem o wydanie opinii w sprawie spełniania przez właściciela sieci przesyłowej, właściciela sieci przesyłowej wodorowej lub przedsiębiorstwo energetyczne wymagań określonych w [art. 9d](#art-9d) ust. 1 albo ust. 13 i 14 oraz ust. 1a oraz wpływu przyznania im certyfikatu niezależności na bezpieczeństwo dostaw paliw gazowych, energii elektrycznej lub wodoru w Unii Europejskiej lub na istotne interesy dotyczące bezpieczeństwa Rzeczypospolitej Polskiej lub Unii Europejskiej.
 
 2. Prezes Urzędu Regulacji Energetyki przed przyznaniem certyfikatu niezależności występuje do ministra właściwego do spraw zagranicznych o opinię dotyczącą:
 
@@ -3942,7 +4367,7 @@ b) w którym właściciel zawarł umowę o powierzenie wykonywania obowiązków 
 
 5.[125)] Prezes Urzędu Regulacji Energetyki odmawia przyznania certyfikatu niezależności, w przypadku gdy nie wykazano, że:
 
-1) właściciel sieci przesyłowej, właściciel sieci przesyłowej wodorowej lub przedsiębiorstwo energetyczne, o którym mowa w ust. 1 pkt 1, spełniają wymagania określone w art. 9d ust. 1 albo ust. 13 i 14 oraz ust. 1a;
+1) właściciel sieci przesyłowej, właściciel sieci przesyłowej wodorowej lub przedsiębiorstwo energetyczne, o którym mowa w ust. 1 pkt 1, spełniają wymagania określone w [art. 9d](#art-9d) ust. 1 albo ust. 13 i 14 oraz ust. 1a;
 
 2) przyznanie certyfikatu niezależności nie spowoduje zagrożenia:
 
@@ -3958,6 +4383,7 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 9.[127)] Operator systemu przesyłowego i operator systemu przesyłowego wodorowego niezwłocznie informują Prezesa Urzędu Regulacji Energetyki o wystąpieniu okoliczności, o których mowa w ust. 1 pkt 2.
 
+<a id="art-9h3"></a>
 ### Art. 9h[3].
 
 1. Prezes Urzędu Regulacji Energetyki może wyznaczyć operatorem systemu magazynowania wyłącznie przedsiębiorstwo energetyczne, które uzyskało certyfikat, zgodnie z procedurą określoną w art. 3a rozporządzenia 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005.
@@ -4008,6 +4434,7 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 12. W przypadku odmowy wydania certyfikatu lub stwierdzenia, po sprawdzeniu, o którym mowa w ust. 11, że operator systemu magazynowania nie spełnia kryteriów, o których mowa w art. 3a rozporządzenia 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005, Prezes Urzędu Regulacji Energetyki określa w drodze decyzji kryteria, które nie są spełnione, oraz wyznacza termin na podjęcie działań mających na celu spełnienie tych kryteriów, zgodnie z art. 3a ust. 4 i 5 tego rozporządzenia. W przypadku niepodjęcia działań w wyznaczonym terminie Prezes Urzędu Regulacji Energetyki może uchylić decyzję o wyznaczeniu tego przedsiębiorstwa operatorem systemu magazynowania.
 
+<a id="art-9i"></a>
 ### Art. 9i.
 
 1. Sprzedawców z urzędu wyłania Prezes Urzędu Regulacji Energetyki w drodze przetargu. W przetargu mogą uczestniczyć przedsiębiorstwa energetyczne posiadające koncesje na obrót paliwami gazowymi lub energią elektryczną.
@@ -4052,120 +4479,141 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 12.[49)] Minister właściwy do spraw energii w porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, tryb ogłaszania przetargu zapewniający właściwe poinformowanie o przetargu podmiotów nim zainteresowanych oraz szczegółowe wymagania co do zawartości dokumentacji przetargowej, a także warunki i tryb organizowania i przeprowadzania przetargu, kierując się potrzebą zapewnienia przejrzystych warunków i kryteriów przetargu oraz równoprawnego traktowania jego uczestników.
 
+<a id="art-9ia"></a>
 ### Art. 9ia.
 
 128) W przypadku gdy na podstawie art. 529 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych jest dokonywany podział spółki wyznaczonej na sprzedawcę z urzędu na zasadach określonych w art. 9i, prawa i obowiązki sprzedawcy z urzędu przechodzą, do czasu wyznaczenia przez Prezesa URE sprzedawcy z urzędu na zasadach określonych w art. 9i, na wskazaną w planie podziału spółkę nabywającą od spółki dzielonej prawa i obowiązki sprzedawcy z urzędu.
 
+<a id="art-9j"></a>
 ### Art. 9j.
 
 1. Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem energii elektrycznej w źródłach przyłączonych do sieci, uwzględniając możliwości techniczne, jeżeli jest to konieczne do zapewnienia bezpieczeństwa dostaw energii elektrycznej, a w szczególności zapewnienia jakości dostarczanej energii, ciągłości i niezawodności jej dostarczania lub uniknięcia zagrożenia bezpieczeństwa osób lub strat materialnych, jest obowiązane do:
 
 1) wytwarzania energii elektrycznej lub pozostawania w gotowości do jej wytwarzania;
 
-2) utrzymywania rezerw mocy wytwórczych lub zapewnienia innych usług systemowych, w wysokości i w sposób określony w umowie zawartej z operatorem systemu przesyłowego elektroenergetycznego, a w przypadkach wynikających z art. 9c ust. 3 – z operatorem systemu dystrybucyjnego elektroenergetycznego;
+2) utrzymywania rezerw mocy wytwórczych lub zapewnienia innych usług systemowych, w wysokości i w sposób określony w umowie zawartej z operatorem systemu przesyłowego elektroenergetycznego, a w przypadkach wynikających z [art. 9c](#art-9c) ust. 3 – z operatorem systemu dystrybucyjnego elektroenergetycznego;
 
 3) utrzymywania zdolności źródeł do wytwarzania energii elektrycznej w ilości i jakości wynikającej z zawartych umów sprzedaży oraz umów o świadczenie usług przesyłania lub dystrybucji energii elektrycznej;
 
-4) współpracy z operatorem systemu elektroenergetycznego, do którego sieci źródło jest przyłączone, w szczególności do przekazywania temu operatorowi niezbędnych informacji o stanie urządzeń wytwórczych i wykonywania jego poleceń, na zasadach i warunkach określonych w ustawie, przepisach wydanych na podstawie art. 9 ust. 3, instrukcji, o której mowa w art. 9g ust. 1, i umowie zawartej z operatorem systemu elektroenergetycznego.
+4) współpracy z operatorem systemu elektroenergetycznego, do którego sieci źródło jest przyłączone, w szczególności do przekazywania temu operatorowi niezbędnych informacji o stanie urządzeń wytwórczych i wykonywania jego poleceń, na zasadach i warunkach określonych w ustawie, przepisach wydanych na podstawie [art. 9](#art-9) ust. 3, instrukcji, o której mowa w [art. 9g](#art-9g) ust. 1, i umowie zawartej z operatorem systemu elektroenergetycznego.
 
-2. W celu zapewnienia bezpieczeństwa dostaw energii elektrycznej, operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego wydaje, stosownie do planów działania, procedur i planów wprowadzania ograniczeń, o których mowa w przepisach wydanych na podstawie art. 9 ust. 3 i art. 11 ust. 6, instrukcji, o której mowa w art. 9g ust. 1, oraz postanowień umów o świadczenie usług przesyłania energii elektrycznej zawartych z użytkownikami systemu, w tym z odbiorcami, polecenia dyspozytorskie wytwórcy, operatorowi systemu dystrybucyjnego elektroenergetycznego oraz odbiorcom.
+2. W celu zapewnienia bezpieczeństwa dostaw energii elektrycznej, operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego wydaje, stosownie do planów działania, procedur i planów wprowadzania ograniczeń, o których mowa w przepisach wydanych na podstawie [art. 9](#art-9) ust. 3 i [art. 11](#art-11) ust. 6, instrukcji, o której mowa w [art. 9g](#art-9g) ust. 1, oraz postanowień umów o świadczenie usług przesyłania energii elektrycznej zawartych z użytkownikami systemu, w tym z odbiorcami, polecenia dyspozytorskie wytwórcy, operatorowi systemu dystrybucyjnego elektroenergetycznego oraz odbiorcom.
 
 3. Podczas wystąpienia zagrożenia bezpieczeństwa dostaw energii elektrycznej polecenia operatora systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego są nadrzędne wobec poleceń operatora systemu dystrybucyjnego elektroenergetycznego.
 
-4. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, jest obowiązane do uzgadniania z operatorem systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego planowanych postojów związanych z remontem jednostek wytwórczych, o których mowa w art. 9c ust. 2 pkt 6.
+4. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, jest obowiązane do uzgadniania z operatorem systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego planowanych postojów związanych z remontem jednostek wytwórczych, o których mowa w [art. 9c](#art-9c) ust. 2 pkt 6.
 
-5. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, jest obowiązane niezwłocznie zgłosić operatorowi systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego dane o ograniczeniach możliwości wytwarzania energii elektrycznej lub ubytkach mocy jednostek wytwórczych, o których mowa w art. 9c ust. 2 pkt 6, w stosunku do możliwości wytwarzania lub mocy osiągalnej wynikających z aktualnego stanu technicznego tych jednostek, wraz z podaniem przyczyn tych ograniczeń lub ubytków.
+5. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, jest obowiązane niezwłocznie zgłosić operatorowi systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego dane o ograniczeniach możliwości wytwarzania energii elektrycznej lub ubytkach mocy jednostek wytwórczych, o których mowa w [art. 9c](#art-9c) ust. 2 pkt 6, w stosunku do możliwości wytwarzania lub mocy osiągalnej wynikających z aktualnego stanu technicznego tych jednostek, wraz z podaniem przyczyn tych ograniczeń lub ubytków.
 
-6. Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem energii elektrycznej w jednostce wytwórczej przyłączonej do sieci przesyłowej lub koordynowanej sieci 110 kV jest obowiązane udostępniać informacje niezbędne operatorowi systemu przesyłowego elektroenergetycznego lub operatorowi systemu połączonego elektroenergetycznego do zapewnienia bezpieczeństwa pracy krajowego systemu elektroenergetycznego oraz wypełnienia obowiązków, o których mowa w art. 9c ust. 2 pkt 12.
+6. Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem energii elektrycznej w jednostce wytwórczej przyłączonej do sieci przesyłowej lub koordynowanej sieci 110 kV jest obowiązane udostępniać informacje niezbędne operatorowi systemu przesyłowego elektroenergetycznego lub operatorowi systemu połączonego elektroenergetycznego do zapewnienia bezpieczeństwa pracy krajowego systemu elektroenergetycznego oraz wypełnienia obowiązków, o których mowa w [art. 9c](#art-9c) ust. 2 pkt 12.
 
-7. Użytkownik systemu będący stroną umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, o której mowa w art. 5 ust. 2a1, w odniesieniu do każdej instalacji odnawialnego źródła energii przyłączonej do sieci zgodnie z art. 7 ust. 1f wykonuje:
+7. Użytkownik systemu będący stroną umowy o świadczenie usług przesyłania lub dystrybucji energii elektrycznej, o której mowa w [art. 5](#art-5) ust. 2a1, w odniesieniu do każdej instalacji odnawialnego źródła energii przyłączonej do sieci zgodnie z [art. 7](#art-7) ust. 1f wykonuje:
 
 1) obowiązki związane z udziałem w bilansowaniu systemu i zarządzaniu ograniczeniami systemowymi określone w ustawie, w przepisach wydanych na podstawie art. 9 ust. 3 i 4 lub w warunkach dotyczących bilansowania, o których mowa w art. 18 rozporządzenia 2017/2195;
 
-2) pozostałe obowiązki wynikające z ustawy i przepisów wydanych na podstawie art. 9 ust. 3 i 4 oraz aktów prawnych i dokumentów określonych w art. 9g ust. 12.
+2) pozostałe obowiązki wynikające z ustawy i przepisów wydanych na podstawie [art. 9](#art-9) ust. 3 i 4 oraz aktów prawnych i dokumentów określonych w [art. 9g](#art-9g) ust. 12.
 
 8. Obowiązki wynikające z ust. 7 nie naruszają prawa każdej ze stron porozumienia, o którym mowa w art. 7 ust. 3de pkt 1, do zawierania umowy sprzedaży energii elektrycznej, a także zawierania transakcji, o których mowa w art. 50b ust. 1 ustawy z dnia 26 października 2000 r. o giełdach towarowych, w odniesieniu do każdej instalacji odnawialnego źródła energii przyłączonej do sieci zgodnie z art. 7 ust. 1f. Zawarcie umowy o świadczenie usług przesyłania lub dystrybucji, o której mowa w art. 5 ust. 2a1, uznaje się, zgodnie z art. 5 ust. 1, za podstawę do dostarczania energii elektrycznej z tych instalacji odnawialnego źródła energii.
 
+<a id="art-9k"></a>
 ### Art. 9k.
 
 1.129) Operator systemu przesyłowego działa w formie spółki akcyjnej, której jedynym akcjonariuszem jest Skarb Państwa.
 
 2.[130)] Operator systemu przesyłowego gazowego oraz
 
-1) operator systemu przesyłowego wodorowego, któremu udzielono odstępstwa, o którym mowa w art. 9d3 ust. 1, albo
+1) operator systemu przesyłowego wodorowego, któremu udzielono odstępstwa, o którym mowa w [art. 9d3](#art-9d3) ust. 1, albo
 
-2) operator systemu połączonego wodorowego wyznaczony na sieci przesyłowej wodorowej, któremu udzielono odstępstwa, o którym mowa w art. 9d3 ust. 1 – działają w formie jednej spółki akcyjnej, której jedynym akcjonariuszem jest Skarb Państwa.
+2) operator systemu połączonego wodorowego wyznaczony na sieci przesyłowej wodorowej, któremu udzielono odstępstwa, o którym mowa w [art. 9d3](#art-9d3) ust. 1 – działają w formie jednej spółki akcyjnej, której jedynym akcjonariuszem jest Skarb Państwa.
 
-3.[130)] Operator systemu przesyłowego wodorowego albo operator systemu połączonego wodorowego wyznaczony na sieci przesyłowej wodorowej, któremu nie udzielono odstępstwa, o którym mowa w art. 9d3 ust. 1, działa w formie spółki akcyjnej, której jedynym akcjonariuszem jest operator systemu przesyłowego gazowego.
+3.[130)] Operator systemu przesyłowego wodorowego albo operator systemu połączonego wodorowego wyznaczony na sieci przesyłowej wodorowej, któremu nie udzielono odstępstwa, o którym mowa w [art. 9d3](#art-9d3) ust. 1, działa w formie spółki akcyjnej, której jedynym akcjonariuszem jest operator systemu przesyłowego gazowego.
 
+<a id="art-9l"></a>
 ### Art. 9l.
 
 (uchylony)
 
+<a id="art-9m"></a>
 ### Art. 9m.
 
 (uchylony)
 
+<a id="art-9n"></a>
 ### Art. 9n.
 
 (uchylony)
 
+<a id="art-9o"></a>
 ### Art. 9o.
 
 (uchylony)
 
+<a id="art-9p"></a>
 ### Art. 9p.
 
 (uchylony)
 
+<a id="art-9r"></a>
 ### Art. 9r.
 
 (uchylony)
 
+<a id="art-9s"></a>
 ### Art. 9s.
 
 (uchylony)
 
+<a id="art-9s1"></a>
 ### Art. 9s[1].
 
 (uchylony)
 
+<a id="art-9t"></a>
 ### Art. 9t.
 
 (uchylony)
 
+<a id="art-9u"></a>
 ### Art. 9u.
 
 (uchylony)
 
+<a id="art-9v"></a>
 ### Art. 9v.
 
 (uchylony)
 
+<a id="art-9w"></a>
 ### Art. 9w.
 
 (uchylony)
 
+<a id="art-9x"></a>
 ### Art. 9x.
 
 (uchylony)
 
+<a id="art-9y"></a>
 ### Art. 9y.
 
 (uchylony)
 
+<a id="art-9z"></a>
 ### Art. 9z.
 
 (uchylony)
 
+<a id="art-9za"></a>
 ### Art. 9za.
 
 (uchylony)
 
+<a id="art-9zb"></a>
 ### Art. 9zb.
 
 (uchylony)
 
+<a id="art-10"></a>
 ### Art. 10.
 
 1. Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem energii elektrycznej lub ciepła jest obowiązane utrzymywać zapasy paliw w ilości zapewniającej utrzymanie ciągłości dostaw energii elektrycznej lub ciepła do odbiorców, z zastrzeżeniem ust. 1a–1d.
@@ -4218,6 +4666,7 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 6. Minister właściwy do spraw energii określi, w drodze rozporządzenia, wielkości zapasów paliw, o których mowa w ust. 1, sposób ich gromadzenia oraz szczegółowy tryb przeprowadzania kontroli stanu zapasów, uwzględniając rodzaj działalności gospodarczej, możliwości techniczne i organizacyjne w zakresie gromadzenia zapasów.
 
+<a id="art-10a"></a>
 ### Art. 10a.
 
 1. Przedsiębiorstwa energetyczne zajmujące się wytwarzaniem energii elektrycznej lub ciepła, przesyłaniem i dystrybucją ciepła oraz inni przedsiębiorcy, planujący budowę, przebudowę lub znaczną modernizację po dniu 5 czerwca 2014 r. jednostki wytwórczej o mocy nominalnej cieplnej powyżej 20 MW, sieci ciepłowniczej lub sieci chłodniczej, sporządzają analizę kosztów i korzyści budowy, przebudowy lub znacznej modernizacji tej jednostki lub sieci ciepłowniczej, lub sieci chłodniczej, mającą na celu określenie najbardziej efektywnych pod względem zasobów oraz opłacalnych rozwiązań umożliwiających spełnienie wymogów w zakresie ogrzewania i chłodzenia, zwaną dalej „analizą kosztów i korzyści”.
@@ -4242,9 +4691,10 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 6. Minister właściwy do spraw energii określi, w drodze rozporządzenia, metody analizy ekonomicznej kosztów i korzyści oraz dane lub źródła danych do celów tej analizy, uwzględniając okres cyklu życia, o którym mowa w ust. 5, okres zwrotu nakładów, wymagane stopy zwrotu z inwestycji, przewidywane ceny paliw i energii elektrycznej, podatki i opłaty ponoszone przez przedsiębiorstwa energetyczne oraz innych przedsiębiorców, o których mowa w ust. 1, i poziomy wsparcia przedsięwzięć, o których mowa w ust. 1, ze środków publicznych, w celu zapewnienia porównywalności tych przedsięwzięć.
 
+<a id="art-10b"></a>
 ### Art. 10b.
 
-1. Przedsiębiorstwa energetyczne oraz inni przedsiębiorcy, o których mowa w art. 10a ust. 1, planujący:
+1. Przedsiębiorstwa energetyczne oraz inni przedsiębiorcy, o których mowa w [art. 10a](#art-10a) ust. 1, planujący:
 
 1) budowę jednostki wytwórczej o mocy nominalnej cieplnej przekraczającej 20 MW – sporządzają analizę kosztów i korzyści wybudowania nowej jednostki kogeneracji w miejsce pracującej jednostki wytwórczej;
 
@@ -4266,10 +4716,11 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 4. Jeżeli jest planowana budowa lub przebudowa, lub znaczna modernizacja jednostki wytwórczej energii elektrycznej lub elektrowni przemysłowej, analiza kosztów i korzyści zawiera porównanie tej jednostki lub elektrowni z jednostką wytwórczą lub elektrociepłownią przemysłową wytwarzającą taką samą ilość energii elektrycznej w procesie wytwarzania ciepła odpadowego w instalacji przemysłowej lub w wysokosprawnej kogeneracji albo zaopatrującą użytkowników systemu w wytworzone ciepło lub chłód za pomocą sieci ciepłowniczych lub chłodniczych.
 
-5. W przypadkach, o których mowa w ust. 1 pkt 3 i 4, przedsiębiorstwa energetyczne oraz przedsiębiorcy, o których mowa w art. 10a ust. 1, sporządzają analizę kosztów i korzyści we współpracy z przedsiębiorstwem energetycznym zajmującym się przesyłaniem i dystrybucją ciepła lub chłodu.
+5. W przypadkach, o których mowa w ust. 1 pkt 3 i 4, przedsiębiorstwa energetyczne oraz przedsiębiorcy, o których mowa w [art. 10a](#art-10a) ust. 1, sporządzają analizę kosztów i korzyści we współpracy z przedsiębiorstwem energetycznym zajmującym się przesyłaniem i dystrybucją ciepła lub chłodu.
 
-6. Przez moc nominalną cieplną, o której mowa w ust. 1 oraz w art. 10a ust. 1, rozumie się ilość energii wprowadzonej w paliwie do źródła spalania paliw w jednostce czasu przy jego nominalnym obciążeniu.
+6. Przez moc nominalną cieplną, o której mowa w ust. 1 oraz w [art. 10a](#art-10a) ust. 1, rozumie się ilość energii wprowadzonej w paliwie do źródła spalania paliw w jednostce czasu przy jego nominalnym obciążeniu.
 
+<a id="art-10c"></a>
 ### Art. 10c.
 
 1. Minister właściwy do spraw energii sporządza ocenę potencjału wytwarzania energii elektrycznej w wysokosprawnej kogeneracji oraz efektywnych energetycznie systemów ciepłowniczych lub chłodniczych i o jej sporządzeniu powiadamia Komisję Europejską.
@@ -4278,6 +4729,7 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 3. Minister właściwy do spraw energii co pięć lat lub na żądanie Komisji Europejskiej aktualizuje ocenę, o której mowa w ust. 1, i o tej aktualizacji powiadamia Komisję Europejską.
 
+<a id="art-10d"></a>
 ### Art. 10d.
 
 1. Operator systemu dystrybucyjnego elektroenergetycznego sporządza ocenę potencjału systemów ciepłowniczych lub chłodniczych znajdujących się w obszarze jego działania, w zakresie:
@@ -4296,6 +4748,7 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 5. Operator systemu dystrybucyjnego elektroenergetycznego przekazuje sporządzoną ocenę, o której mowa w ust. 1, operatorowi systemu przesyłowego elektroenergetycznego, Prezesowi URE oraz przedsiębiorstwom energetycznym, o których mowa w ust. 3.
 
+<a id="art-11"></a>
 ### Art. 11.
 
 1. W przypadku zagrożenia:
@@ -4338,7 +4791,7 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 2) w dostarczaniu ciepła, opracowywane przez podmioty prowadzące działalność w zakresie zaopatrzenia w ciepło – podlegają uzgodnieniu z wojewodą właściwym dla lokalizacji sieci.
 
-3a. Odbiorcom, którzy zastosowali się do ograniczeń w dostarczaniu i poborze energii elektrycznej, przysługuje wynagrodzenie w przypadkach określonych w przepisach wydanych na podstawie ust. 6, które jest należne za każdą kilowatogodzinę niepobranej energii elektrycznej w danej godzinie, ustalanej na podstawie obowiązującego odbiorcę planu wprowadzania ograniczeń w dostarczaniu i poborze energii elektrycznej oraz nie wyższe niż pięciokrotność średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym ogłaszanej na podstawie art. 23 ust. 2 pkt 18 lit. b.
+3a. Odbiorcom, którzy zastosowali się do ograniczeń w dostarczaniu i poborze energii elektrycznej, przysługuje wynagrodzenie w przypadkach określonych w przepisach wydanych na podstawie ust. 6, które jest należne za każdą kilowatogodzinę niepobranej energii elektrycznej w danej godzinie, ustalanej na podstawie obowiązującego odbiorcę planu wprowadzania ograniczeń w dostarczaniu i poborze energii elektrycznej oraz nie wyższe niż pięciokrotność średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym ogłaszanej na podstawie [art. 23](#art-23) ust. 2 pkt 18 lit. b.
 
 3b. Wynagrodzenie, o którym mowa w ust. 3a, wypłaca:
 
@@ -4354,9 +4807,9 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 2) wojewodowie – w odniesieniu do paliw stałych oraz ciepła;
 
-3) organy właściwe w sprawach regulacji gospodarki paliwami i energią, o których mowa w art. 21a – w odniesieniu do jednostek wymienionych w tym przepisie.
+3) organy właściwe w sprawach regulacji gospodarki paliwami i energią, o których mowa w [art. 21a](#art-21a) – w odniesieniu do jednostek wymienionych w tym przepisie.
 
-6. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb wprowadzania ograniczeń, o których mowa w ust. 1, oraz wypłaty wynagrodzenia, o którym mowa w ust. 3a, biorąc pod uwagę znaczenie odbiorców dla gospodarki i funkcjonowania państwa, w szczególności zadania wykonywane przez tych odbiorców, oraz mając na względzie pokrycie uzasadnionych kosztów ponoszonych przez odbiorców, którzy dostosowują się do ograniczeń, zachętę dla odbiorców do uczestniczenia w mechanizmach rynkowych oraz średnią cenę sprzedaży energii elektrycznej na rynku konkurencyjnym ogłaszaną na podstawie art. 23 ust. 2 pkt 18 lit. b.
+6. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb wprowadzania ograniczeń, o których mowa w ust. 1, oraz wypłaty wynagrodzenia, o którym mowa w ust. 3a, biorąc pod uwagę znaczenie odbiorców dla gospodarki i funkcjonowania państwa, w szczególności zadania wykonywane przez tych odbiorców, oraz mając na względzie pokrycie uzasadnionych kosztów ponoszonych przez odbiorców, którzy dostosowują się do ograniczeń, zachętę dla odbiorców do uczestniczenia w mechanizmach rynkowych oraz średnią cenę sprzedaży energii elektrycznej na rynku konkurencyjnym ogłaszaną na podstawie [art. 23](#art-23) ust. 2 pkt 18 lit. b.
 
 6a. Rozporządzenie, o którym mowa w ust. 6, określa w szczególności:
 
@@ -4398,16 +4851,19 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 1) wprowadzonych ograniczeniach, o których mowa w ust. 7, w zakresie dostarczania i poboru energii elektrycznej;
 
-2) podjętych działaniach i środkach dla usunięcia stanu zagrożenia bezpieczeństwa dostaw energii elektrycznej, o których mowa w art. 11c ust. 2 i 3.
+2) podjętych działaniach i środkach dla usunięcia stanu zagrożenia bezpieczeństwa dostaw energii elektrycznej, o których mowa w [art. 11c](#art-11c) ust. 2 i 3.
 
+<a id="art-11a"></a>
 ### Art. 11a.
 
 (uchylony)
 
+<a id="art-11b"></a>
 ### Art. 11b.
 
 (uchylony)
 
+<a id="art-11c"></a>
 ### Art. 11c.
 
 1. Zagrożenie bezpieczeństwa dostaw energii elektrycznej może powstać w szczególności w następstwie:
@@ -4420,25 +4876,26 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 4) strajku lub niepokojów społecznych;
 
-5) obniżenia dostępnych rezerw zdolności wytwórczych poniżej niezbędnych wielkości, o których mowa w art. 9g ust. 4 pkt 9, lub braku możliwości ich wykorzystania.
+5) obniżenia dostępnych rezerw zdolności wytwórczych poniżej niezbędnych wielkości, o których mowa w [art. 9g](#art-9g) ust. 4 pkt 9, lub braku możliwości ich wykorzystania.
 
 2. W przypadku powstania zagrożenia bezpieczeństwa dostaw energii elektrycznej, operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego:
 
 1) podejmuje we współpracy z użytkownikami systemu elektroenergetycznego, w tym z odbiorcami energii elektrycznej, wszelkie możliwe działania przy wykorzystaniu dostępnych środków mających na celu usunięcie tego zagrożenia i zapobieżenie jego negatywnym skutkom;
 
-2) może wprowadzić ograniczenia w dostarczaniu i poborze energii elektrycznej na terytorium Rzeczypospolitej Polskiej lub jego części do czasu wejścia w życie przepisów wydanych na podstawie art. 11 ust. 7, lecz nie dłużej niż na okres 72 godzin.
+2) może wprowadzić ograniczenia w dostarczaniu i poborze energii elektrycznej na terytorium Rzeczypospolitej Polskiej lub jego części do czasu wejścia w życie przepisów wydanych na podstawie [art. 11](#art-11) ust. 7, lecz nie dłużej niż na okres 72 godzin.
 
-3. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego niezwłocznie powiadamia ministra właściwego do spraw energii oraz Prezesa Urzędu Regulacji Energetyki o wystąpieniu zagrożenia bezpieczeństwa dostaw energii elektrycznej, podjętych działaniach i środkach w celu usunięcia tego zagrożenia i zapobieżenia jego negatywnym skutkom oraz zgłasza konieczność wprowadzenia ograniczeń na podstawie art. 11 ust. 7.
+3. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego niezwłocznie powiadamia ministra właściwego do spraw energii oraz Prezesa Urzędu Regulacji Energetyki o wystąpieniu zagrożenia bezpieczeństwa dostaw energii elektrycznej, podjętych działaniach i środkach w celu usunięcia tego zagrożenia i zapobieżenia jego negatywnym skutkom oraz zgłasza konieczność wprowadzenia ograniczeń na podstawie [art. 11](#art-11) ust. 7.
 
 4. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego, w terminie 60 dni od dnia zniesienia ograniczeń, przedkłada ministrowi właściwemu do spraw energii i Prezesowi Urzędu Regulacji Energetyki raport zawierający ustalenia dotyczące przyczyn powstałego zagrożenia bezpieczeństwa dostaw energii elektrycznej, zasadności podjętych działań i zastosowanych środków w celu jego usunięcia, staranności i dbałości operatorów systemu elektroenergetycznego oraz użytkowników systemu, w tym odbiorców energii elektrycznej, o zapewnienie bezpieczeństwa dostaw energii elektrycznej.
 
 5. Raport, o którym mowa w ust. 4, zawiera także wnioski i propozycje działań oraz określa środki mające zapobiec w przyszłości wystąpieniu zagrożenia bezpieczeństwa dostaw energii elektrycznej.
 
-6. Prezes Urzędu Regulacji Energetyki, w terminie 30 dni od dnia otrzymania raportu, o którym mowa w ust. 4, przedstawia ministrowi właściwemu do spraw energii opinię do tego raportu, zawierającą w szczególności ocenę wystąpienia okoliczności, o których mowa w art. 11e ust. 1.
+6. Prezes Urzędu Regulacji Energetyki, w terminie 30 dni od dnia otrzymania raportu, o którym mowa w ust. 4, przedstawia ministrowi właściwemu do spraw energii opinię do tego raportu, zawierającą w szczególności ocenę wystąpienia okoliczności, o których mowa w [art. 11e](#art-11e) ust. 1.
 
+<a id="art-11d"></a>
 ### Art. 11d.
 
-1. W sytuacji wystąpienia zagrożenia bezpieczeństwa dostaw energii elektrycznej w następstwie zdarzeń, o których mowa w art. 11c ust. 1, operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego podejmuje w szczególności następujące działania:
+1. W sytuacji wystąpienia zagrożenia bezpieczeństwa dostaw energii elektrycznej w następstwie zdarzeń, o których mowa w [art. 11c](#art-11c) ust. 1, operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego podejmuje w szczególności następujące działania:
 
 1) wydaje wytwórcy lub posiadaczowi magazynu energii elektrycznej polecenia uruchomienia, odstawienia, zmiany obciążenia lub odłączenia od sieci jednostki wytwórczej lub magazynu energii elektrycznej przyłączonych do sieci przesyłowej lub jednostki wytwórczej lub magazynu energii elektrycznej przyłączonych do koordynowanej sieci 110 kV;
 
@@ -4462,13 +4919,14 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 4a. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego pokrywa koszty opłaty podwyższonej, o której mowa w art. 280 pkt 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535), poniesione przez przedsiębiorstwa energetyczne zajmujące się wytwarzaniem energii elektrycznej lub ciepła w związku z działaniami, o których mowa w ust. 1 pkt 1 i 3.
 
-5. Koszty poniesione przez operatorów systemu elektroenergetycznego w związku z działaniami, o których mowa w ust. 1, stanowią koszty uzasadnione działalności, o których mowa w art. 45 ust. 1 pkt 2.
+5. Koszty poniesione przez operatorów systemu elektroenergetycznego w związku z działaniami, o których mowa w ust. 1, stanowią koszty uzasadnione działalności, o których mowa w [art. 45](#art-45) ust. 1 pkt 2.
 
+<a id="art-11e"></a>
 ### Art. 11e.
 
-1. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego, który w następstwie okoliczności za które ponosi odpowiedzialność wprowadził ograniczenia lub dopuścił się niedbalstwa przy dokonywaniu oceny zasadności wprowadzenia tych ograniczeń, odpowiada na zasadach określonych w ust. 2–4 za szkody powstałe u użytkowników krajowego systemu elektroenergetycznego, w tym odbiorców energii elektrycznej przyłączonych do sieci na terytorium Rzeczypospolitej Polskiej objętym ograniczeniami, w wyniku zastosowania środków i działań, o których mowa w art. 11c i art. 11d, w szczególności z powodu przerw lub ograniczeń w dostarczaniu energii elektrycznej.
+1. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego, który w następstwie okoliczności za które ponosi odpowiedzialność wprowadził ograniczenia lub dopuścił się niedbalstwa przy dokonywaniu oceny zasadności wprowadzenia tych ograniczeń, odpowiada na zasadach określonych w ust. 2–4 za szkody powstałe u użytkowników krajowego systemu elektroenergetycznego, w tym odbiorców energii elektrycznej przyłączonych do sieci na terytorium Rzeczypospolitej Polskiej objętym ograniczeniami, w wyniku zastosowania środków i działań, o których mowa w [art. 11c](#art-11c) i [art. 11d](#art-11d), w szczególności z powodu przerw lub ograniczeń w dostarczaniu energii elektrycznej.
 
-2. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego odpowiada za szkody powstałe w wyniku wprowadzonych ograniczeń wyłącznie w granicach szkody rzeczywistej poniesionej przez użytkowników systemu elektroenergetycznego, w tym odbiorców energii elektrycznej, w związku z uszkodzeniem, zniszczeniem lub utratą przez nich rzeczy ruchomej, lub uszkodzeniem albo zniszczeniem nieruchomości, z zastrzeżeniem ust. 3–9 oraz art. 11 ust. 8.
+2. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego odpowiada za szkody powstałe w wyniku wprowadzonych ograniczeń wyłącznie w granicach szkody rzeczywistej poniesionej przez użytkowników systemu elektroenergetycznego, w tym odbiorców energii elektrycznej, w związku z uszkodzeniem, zniszczeniem lub utratą przez nich rzeczy ruchomej, lub uszkodzeniem albo zniszczeniem nieruchomości, z zastrzeżeniem ust. 3–9 oraz [art. 11](#art-11) ust. 8.
 
 3. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego ponosi odpowiedzialność z tytułu szkód, o których mowa w ust. 1, w stosunku do odbiorcy energii elektrycznej w gospodarstwie domowym do wysokości 5000 zł (pięć tysięcy zł).
 
@@ -4484,20 +4942,21 @@ b) istotnych interesów dotyczących bezpieczeństwa Rzeczypospolitej Polskiej l
 
 5) ponad 1 000 000 odbiorców – nie może być wyższa niż 250 000 000 zł (dwieście pięćdziesiąt milionów zł).
 
-5. Operatorzy systemu dystrybucyjnego elektroenergetycznego, w odniesieniu do systemu dystrybucyjnego, w zakresie objętym ograniczeniami, sporządzają i przekazują niezwłocznie operatorowi systemu przesyłowego elektroenergetycznego lub operatorowi systemu połączonego elektroenergetycznego informacje o liczbie użytkowników systemu dystrybucyjnego elektroenergetycznego, w tym odbiorców energii elektrycznej przyłączonych do sieci dystrybucyjnej objętych ograniczeniami, wraz z wykazem udokumentowanych szkód poniesionych przez tych użytkowników, w tym odbiorców, powstałych w wyniku zastosowania środków, o których mowa w art. 11c i art. 11d, z uwzględnieniem ust. 3 i 7–9.
+5. Operatorzy systemu dystrybucyjnego elektroenergetycznego, w odniesieniu do systemu dystrybucyjnego, w zakresie objętym ograniczeniami, sporządzają i przekazują niezwłocznie operatorowi systemu przesyłowego elektroenergetycznego lub operatorowi systemu połączonego elektroenergetycznego informacje o liczbie użytkowników systemu dystrybucyjnego elektroenergetycznego, w tym odbiorców energii elektrycznej przyłączonych do sieci dystrybucyjnej objętych ograniczeniami, wraz z wykazem udokumentowanych szkód poniesionych przez tych użytkowników, w tym odbiorców, powstałych w wyniku zastosowania środków, o których mowa w [art. 11c](#art-11c) i [art. 11d](#art-11d), z uwzględnieniem ust. 3 i 7–9.
 
 6. W przypadku gdy łączna wartość szkód przekracza odpowiednią kwotę całkowitej odpowiedzialności, o której mowa w ust. 4, kwotę odszkodowania należnego użytkownikowi systemu elektroenergetycznego, w tym odbiorcy energii elektrycznej, o których mowa w ust. 1, obniża się proporcjonalnie w takim samym stosunku, w jakim całkowita kwota odszkodowania, która znajduje zastosowanie zgodnie z ust. 4, pozostaje do łącznej wartości szkód powstałych u tych użytkowników, w tym odbiorców.
 
 7. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego nie ponosi odpowiedzialności z tytułu szkód, o których mowa w ust. 1, powstałych u użytkownika systemu elektroenergetycznego, w tym odbiorcy energii elektrycznej, jeżeli kwota odszkodowania byłaby niższa niż 100 zł.
 
-8. W zakresie wynikającym z podjętych działań i zastosowanych środków, o których mowa w art. 11c i art. 11d, w szczególności z przerw i ograniczeń w dostarczaniu i poborze energii elektrycznej, bonifikaty za niedotrzymanie standardów jakościowych obsługi odbiorców lub parametrów jakościowych energii elektrycznej, określonych w przepisach wydanych na podstawie art. 9 ust. 3 i 4 – nie przysługują.
+8. W zakresie wynikającym z podjętych działań i zastosowanych środków, o których mowa w [art. 11c](#art-11c) i [art. 11d](#art-11d), w szczególności z przerw i ograniczeń w dostarczaniu i poborze energii elektrycznej, bonifikaty za niedotrzymanie standardów jakościowych obsługi odbiorców lub parametrów jakościowych energii elektrycznej, określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 3 i 4 – nie przysługują.
 
 9. Użytkownik systemu dystrybucyjnego elektroenergetycznego, w tym odbiorca energii elektrycznej, zgłasza żądanie naprawienia szkody operatorowi systemu dystrybucyjnego elektroenergetycznego, do sieci którego dany użytkownik, w tym odbiorca, jest przyłączony.
 
 10. Żądanie naprawienia szkód, o których mowa w ust. 1, należy zgłosić właściwemu operatorowi systemu elektroenergetycznego przed upływem 180 dni od dnia zniesienia ograniczeń. Po upływie tego terminu roszczenie o naprawienie tych szkód wygasa.
 
-11. Wypłacone przez operatora systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego kwoty odszkodowania za szkody poniesione przez użytkowników tego systemu, w tym odbiorców energii elektrycznej, w wyniku podjętych działań i zastosowanych środków, o których mowa w art. 11c i art. 11d, pomniejszone o kwoty, które operator ten uzyskał od użytkowników, w tym odbiorców, którzy przyczynili się do powstania stanu zagrożenia, nie stanowią dla tego operatora kosztu uzasadnionego, o którym mowa w art. 45 ust. 1 pkt 2.
+11. Wypłacone przez operatora systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego w zakresie systemu przesyłowego kwoty odszkodowania za szkody poniesione przez użytkowników tego systemu, w tym odbiorców energii elektrycznej, w wyniku podjętych działań i zastosowanych środków, o których mowa w [art. 11c](#art-11c) i [art. 11d](#art-11d), pomniejszone o kwoty, które operator ten uzyskał od użytkowników, w tym odbiorców, którzy przyczynili się do powstania stanu zagrożenia, nie stanowią dla tego operatora kosztu uzasadnionego, o którym mowa w [art. 45](#art-45) ust. 1 pkt 2.
 
+<a id="art-11f"></a>
 ### Art. 11f.
 
 Ograniczenia w dostarczaniu i poborze energii elektrycznej, o których mowa w art. 11, lub działania i środki, o których mowa w art. 11c i art. 11d niniejszej ustawy oraz w art. 16 ust. 2 rozporządzenia 2019/943, powinny:
@@ -4512,18 +4971,22 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 3) być podejmowane w uzgodnieniu z właściwymi operatorami systemów przesyłowych elektroenergetycznych, stosownie do postanowień umów, w szczególności dotyczących wymiany informacji.
 
+<a id="rozdzial-2a"></a>
 ### Rozdział 2a. (uchylony)
 
+<a id="rozdzial-2b"></a>
 ### Rozdział 2b. Przesyłanie dwutlenku węgla
 
+<a id="art-11m"></a>
 ### Art. 11m.
 
 1. Przesyłanie dwutlenku węgla odbywa się po uprzednim przyłączeniu do sieci transportowej dwutlenku węgla, na podstawie umowy o świadczenie usług przesyłania dwutlenku węgla.
 
 2. Umowa o świadczenie usług przesyłania dwutlenku węgla powinna zawierać co najmniej postanowienia określające: ilość przesyłanego dwutlenku węgla w podziale na okresy umowne, miejsce dostarczenia dwutlenku węgla do sieci transportowej dwutlenku węgla i jego odbioru z sieci, warunki zapewnienia niezawodności przesyłania dwutlenku węgla, stawki opłat stosowane w rozliczeniach oraz warunki wprowadzania zmian tych stawek, sposób prowadzenia rozliczeń, parametry techniczne i jakościowe przesyłanego dwutlenku węgla, w szczególności w zakresie zgodności przesyłanego dwutlenku węgla z kryteriami akceptacji składu jego strumienia określonymi w przepisach ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze oraz wysokość bonifikaty za niedotrzymanie tych parametrów, odpowiedzialność stron za niedotrzymanie warunków umowy oraz okres obowiązywania umowy i warunki jej rozwiązania.
 
-3. Przesyłanie dwutlenku węgla może odbywać się z wykorzystaniem bezpośredniego gazociągu transportu dwutlenku węgla, po uzyskaniu zgody Prezesa Urzędu Regulacji Energetyki. W takim przypadku przepisów ust. 2, art. 11n, art. 11o i art. 11p nie stosuje się.
+3. Przesyłanie dwutlenku węgla może odbywać się z wykorzystaniem bezpośredniego gazociągu transportu dwutlenku węgla, po uzyskaniu zgody Prezesa Urzędu Regulacji Energetyki. W takim przypadku przepisów ust. 2, [art. 11n](#art-11n), [art. 11o](#art-11o) i [art. 11p](#art-11p) nie stosuje się.
 
+<a id="art-11n"></a>
 ### Art. 11n.
 
 1. Operatora sieci transportowej dwutlenku węgla wyznacza, w drodze decyzji, na czas określony, Prezes Urzędu Regulacji Energetyki.
@@ -4542,11 +5005,12 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 8. W sprawach, o których mowa w ust. 7, Prezes Urzędu Regulacji Energetyki może wydać na wniosek jednej ze stron postanowienie, w którym określa warunki przesyłania dwutlenku węgla do czasu ostatecznego rozstrzygnięcia sporu.
 
+<a id="art-11o"></a>
 ### Art. 11o.
 
 1. Operator sieci transportowej dwutlenku węgla jest obowiązany zapewnić:
 
-1) realizację i finansowanie budowy i rozbudowy sieci transportowej dwutlenku węgla, w tym połączeń transgranicznych, na potrzeby przyłączania podmiotów ubiegających się o przyłączenie do sieci na warunkach określonych w przepisach wydanych na podstawie art. 11r;
+1) realizację i finansowanie budowy i rozbudowy sieci transportowej dwutlenku węgla, w tym połączeń transgranicznych, na potrzeby przyłączania podmiotów ubiegających się o przyłączenie do sieci na warunkach określonych w przepisach wydanych na podstawie [art. 11r](#art-11r);
 
 2) bezpieczeństwo funkcjonowania sieci transportowej dwutlenku węgla;
 
@@ -4570,6 +5034,7 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 7) współpracy transgranicznej.
 
+<a id="art-11p"></a>
 ### Art. 11p.
 
 1. Przyłączane do sieci transportowej dwutlenku węgla urządzenia i instalacje podmiotu ubiegającego się o przyłączenie do sieci muszą spełniać wymagania techniczne i eksploatacyjne zapewniające:
@@ -4590,15 +5055,17 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 4. Za przyłączenie do sieci transportowej dwutlenku węgla pobiera się opłatę ustaloną w oparciu o rzeczywiste nakłady poniesione na realizację przyłączenia.
 
+<a id="art-11r"></a>
 ### Art. 11r.
 
 68) Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, szczegółowe warunki, w tym wymagania techniczne, przyłączenia do sieci transportowej dwutlenku węgla, biorąc pod uwagę bezpieczeństwo i niezawodne funkcjonowanie tej sieci, równoprawne traktowanie jej użytkowników, wymagania w zakresie ochrony środowiska oraz budowy i eksploatacji urządzeń, instalacji i sieci określone w odrębnych przepisach.
 
+<a id="art-11s"></a>
 ### Art. 11s.
 
 1. Upoważnieni przedstawiciele operatora sieci transportowej dwutlenku węgla wykonują kontrole urządzeń i instalacji przyłączonych do sieci oraz stanu technicznego sieci transportowej dwutlenku węgla oraz dotrzymywania zawartych umów o świadczenie usług przesyłania dwutlenku węgla, a także prawidłowości rozliczeń.
 
-2. Do przedstawicieli operatora sieci transportowej dwutlenku węgla przepisy art. 6 ust. 2–4 stosuje się odpowiednio.
+2. Do przedstawicieli operatora sieci transportowej dwutlenku węgla przepisy [art. 6](#art-6) ust. 2–4 stosuje się odpowiednio.
 
 3. Operator sieci transportowej dwutlenku węgla może wstrzymać przesyłanie dwutlenku węgla, w przypadku gdy:
 
@@ -4610,8 +5077,10 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 5.[68)] Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, szczegółowy tryb przeprowadzania kontroli, wzory protokołów kontroli i upoważnień do kontroli oraz wzór legitymacji, mając na względzie potrzebę zapewnienia sprawnego i skutecznego przeprowadzenia kontroli, uwzględniając zakres i rodzaj przeprowadzonej kontroli oraz zapewniając możliwość identyfikacji osób wykonujących czynności kontrolne.
 
+<a id="rozdzial-2c"></a>
 ### Rozdział 2c. Zasady funkcjonowania systemu pomiarowego
 
+<a id="art-11t"></a>
 ### Art. 11t.
 
 1. Operator systemu dystrybucyjnego elektroenergetycznego, do dnia 31 grudnia 2028 r., zainstaluje liczniki zdalnego odczytu skomunikowane z systemem zdalnego odczytu w punktach poboru energii stanowiących co najmniej 80 % łącznej liczby punktów poboru energii u odbiorców końcowych, w tym stanowiących co najmniej 80 % łącznej liczby punktów poboru energii u odbiorców końcowych w gospodarstwach domowych, posiadających układ pomiarowo-rozliczeniowy bez przekładników prądowych lub napięciowych, przyłączonych do sieci o napięciu znamionowym nie wyższym niż 1 kV, zgodnie z harmonogramem określonym w ust. 2.
@@ -4634,7 +5103,7 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 1) zainstalowanie licznika zdalnego odczytu;
 
-2) umożliwienie komunikacji licznika zdalnego odczytu z urządzeniami tego odbiorcy, o ile spełniają one wymagania określone w przepisach wydanych na podstawie art. 11x ust. 4;
+2) umożliwienie komunikacji licznika zdalnego odczytu z urządzeniami tego odbiorcy, o ile spełniają one wymagania określone w przepisach wydanych na podstawie [art. 11x](#art-11x) ust. 4;
 
 3) wyposażenie punktu ładowania w rozumieniu art. 2 pkt 17 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych należącego do odbiorcy końcowego w licznik zdalnego odczytu w instalacji tego odbiorcy.
 
@@ -4642,7 +5111,7 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 1) zainstaluje licznik zdalnego odczytu w terminie 4 miesięcy od dnia wystąpienia o to odbiorcy końcowego, o którym mowa w ust. 6;
 
-2) umożliwi komunikację licznika zdalnego odczytu z urządzeniami odbiorcy końcowego, o którym mowa w ust. 6, w terminie 2 miesięcy od dnia wystąpienia o to tego odbiorcy, o ile spełniają one wymagania określone w przepisach wydanych na podstawie art. 11x ust. 4;
+2) umożliwi komunikację licznika zdalnego odczytu z urządzeniami odbiorcy końcowego, o którym mowa w ust. 6, w terminie 2 miesięcy od dnia wystąpienia o to tego odbiorcy, o ile spełniają one wymagania określone w przepisach wydanych na podstawie [art. 11x](#art-11x) ust. 4;
 
 3) wyposaży punkt ładowania w rozumieniu art. 2 pkt 17 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych należący do odbiorcy końcowego, o którym mowa w ust. 6, w licznik zdalnego odczytu w terminie miesiąca od dnia wystąpienia o to tego odbiorcy.
 
@@ -4650,7 +5119,7 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 9. Odbiorca końcowy ponosi koszty zainstalowania i uruchomienia licznika zdalnego odczytu na wniosek, o którym mowa w ust. 6 pkt 1 i 3. Operator systemu dystrybucyjnego elektroenergetycznego publikuje na swojej stronie internetowej informację o możliwości instalacji licznika zdalnego odczytu zgodnie z ust. 6, i uśredniony łączny koszt instalacji i uruchomienia licznika zdalnego odczytu.
 
-10. Operator systemu dystrybucyjnego elektroenergetycznego przekazuje odbiorcy końcowemu, o którym mowa w ust. 1 lub 6, podczas lub przed instalacją licznika zdalnego odczytu, informacje dotyczące tego licznika, określone w przepisach wydanych na podstawie art. 11x ust. 2, w tym informacje o:
+10. Operator systemu dystrybucyjnego elektroenergetycznego przekazuje odbiorcy końcowemu, o którym mowa w ust. 1 lub 6, podczas lub przed instalacją licznika zdalnego odczytu, informacje dotyczące tego licznika, określone w przepisach wydanych na podstawie [art. 11x](#art-11x) ust. 2, w tym informacje o:
 
 1) funkcjach licznika zdalnego odczytu;
 
@@ -4658,22 +5127,23 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 3) uśrednionych oraz długoterminowych kosztach i korzyściach związanych z taką instalacją;
 
-4) pokryciu i uwzględnieniu kosztów określonych w ust. 4 oraz w art. 45 ust. 1i w kosztach działalności przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją energii elektrycznej, o których mowa w art. 45 ust. 1 pkt 1, i ujęciu ich w taryfie ogłaszanej w sposób określony w art. 47 ust. 3.
+4) pokryciu i uwzględnieniu kosztów określonych w ust. 4 oraz w [art. 45](#art-45) ust. 1i w kosztach działalności przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją energii elektrycznej, o których mowa w [art. 45](#art-45) ust. 1 pkt 1, i ujęciu ich w taryfie ogłaszanej w sposób określony w [art. 47](#art-47) ust. 3.
 
-11. Licznik zdalnego odczytu spełnia wymagania określone w przepisach wydanych na podstawie art. 11x ust. 2.
+11. Licznik zdalnego odczytu spełnia wymagania określone w przepisach wydanych na podstawie [art. 11x](#art-11x) ust. 2.
 
-12. Licznik zdalnego odczytu zainstalowany u odbiorcy energii elektrycznej w gospodarstwie domowym może być wykorzystany do przedpłatowej formy rozliczeń w ramach umowy kompleksowej. W takim przypadku informacje niezbędne do dokonywania tych rozliczeń są prowadzone w systemie informacyjnym sprzedawcy, który jest obowiązany przekazywać je do centralnego systemu informacji rynku energii oraz do odbiorcy energii elektrycznej w gospodarstwie domowym, z uwzględnieniem art. 4k.
+12. Licznik zdalnego odczytu zainstalowany u odbiorcy energii elektrycznej w gospodarstwie domowym może być wykorzystany do przedpłatowej formy rozliczeń w ramach umowy kompleksowej. W takim przypadku informacje niezbędne do dokonywania tych rozliczeń są prowadzone w systemie informacyjnym sprzedawcy, który jest obowiązany przekazywać je do centralnego systemu informacji rynku energii oraz do odbiorcy energii elektrycznej w gospodarstwie domowym, z uwzględnieniem [art. 4k](#art-4k).
 
 13. Zmiana formy rozliczeń na formę przedpłatową, o której mowa w ust. 12, jest bezpłatna.
 
-14. Operatorzy systemów elektroenergetycznych są obowiązani dostosować użytkowane przed dniem 4 lipca 2019 r. systemy zdalnego odczytu oraz liczniki zdalnego odczytu do wymagań określonych w ustawie oraz w przepisach wydanych na podstawie art. 11x ust. 2, w terminie do dnia 4 lipca 2031 r.
+14. Operatorzy systemów elektroenergetycznych są obowiązani dostosować użytkowane przed dniem 4 lipca 2019 r. systemy zdalnego odczytu oraz liczniki zdalnego odczytu do wymagań określonych w ustawie oraz w przepisach wydanych na podstawie [art. 11x](#art-11x) ust. 2, w terminie do dnia 4 lipca 2031 r.
 
 15. Na poczet wykonania przez operatora systemu dystrybucyjnego elektroenergetycznego obowiązków, o których mowa w ust. 1–3, zalicza się liczniki zdalnego odczytu:
 
-1) zainstalowane lub zmodernizowane do dnia wejścia w życie przepisów wydanych na podstawie art. 11x ust. 2 i 3 oraz
+1) zainstalowane lub zmodernizowane do dnia wejścia w życie przepisów wydanych na podstawie [art. 11x](#art-11x) ust. 2 i 3 oraz
 
-2) instalowane po dniu wejścia w życie przepisów wydanych na podstawie art. 11x ust. 2 i 3, które zostały zakupione lub były objęte postępowaniem przetargowym wszczętym przed tym dniem.
+2) instalowane po dniu wejścia w życie przepisów wydanych na podstawie [art. 11x](#art-11x) ust. 2 i 3, które zostały zakupione lub były objęte postępowaniem przetargowym wszczętym przed tym dniem.
 
+<a id="art-11u"></a>
 ### Art. 11u.
 
 1. Operator systemu dystrybucyjnego elektroenergetycznego oraz operator systemu przesyłowego elektroenergetycznego pozyskuje z licznika zdalnego odczytu:
@@ -4686,18 +5156,19 @@ b) na podstawie kryteriów przyjętych dla bieżącego bilansowania systemu elek
 
 1) operatora systemu przesyłowego elektroenergetycznego, w przypadku:
 
-a) wprowadzenia ograniczeń, o których mowa w art. 11 ust. 7 lub art. 11c ust. 2 pkt 2,
+a) wprowadzenia ograniczeń, o których mowa w [art. 11](#art-11) ust. 7 lub [art. 11c](#art-11c) ust. 2 pkt 2,
 
-b) o którym mowa w art. 11d ust. 1,
+b) o którym mowa w [art. 11d](#art-11d) ust. 1,
 
 c) zawarcia umowy, w szczególności umowy o świadczenie usług systemowych – w zakresie poleceń wpływających na wielkość wprowadzanej lub pobieranej energii elektrycznej;
 
-2) sprzedawcę energii elektrycznej – w zakresie i na zasadach określonych w umowie zawartej z tym sprzedawcą lub w instrukcji, o której mowa w art. 9g ust. 5c;
+2) sprzedawcę energii elektrycznej – w zakresie i na zasadach określonych w umowie zawartej z tym sprzedawcą lub w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 5c;
 
-3) odbiorcę końcowego – na zasadach określonych w umowie zawartej z tym odbiorcą lub w instrukcji, o której mowa w art. 9g ust. 5c;
+3) odbiorcę końcowego – na zasadach określonych w umowie zawartej z tym odbiorcą lub w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 5c;
 
-4) podmiot upoważniony przez odbiorcę końcowego – w zakresie określonym w upoważnieniu lub w instrukcji, o której mowa w art. 9g ust. 5c.
+4) podmiot upoważniony przez odbiorcę końcowego – w zakresie określonym w upoważnieniu lub w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 5c.
 
+<a id="art-11w"></a>
 ### Art. 11w.
 
 W przypadku:
@@ -4706,6 +5177,7 @@ W przypadku:
 
 2) gdy dane pomiarowe pozyskane z licznika konwencjonalnego lub z licznika zdalnego odczytu są błędne – wyznacza się skorygowane dane pomiarowe.
 
+<a id="art-11x"></a>
 ### Art. 11x.
 
 1. System pomiarowy działa w sposób niezawodny, zapewniając użytkownikom systemu elektroenergetycznego prawidłowe rozliczenie za energię elektryczną oraz świadczone usługi, jak również pozyskiwanie, przetwarzanie i udostępnianie danych pomiarowych i innych informacji z zachowaniem zasad bezpieczeństwa tych danych i informacji, w szczególności ich poufności.
@@ -4738,7 +5210,7 @@ d) dane pomiarowe oraz polecenia wysyłane przez licznik zdalnego odczytu do urz
 
 9) wymagania, jakie spełnia licznik zdalnego odczytu, aby umożliwić skomunikowanie z urządzeniami odbiorcy energii elektrycznej w gospodarstwie domowym;
 
-10) informacje przekazywane odbiorcy końcowemu, o którym mowa w art. 11t ust. 1 lub 6, o liczniku zdalnego odczytu oraz o przetwarzaniu jego danych osobowych.
+10) informacje przekazywane odbiorcy końcowemu, o którym mowa w [art. 11t](#art-11t) ust. 1 lub 6, o liczniku zdalnego odczytu oraz o przetwarzaniu jego danych osobowych.
 
 3. Minister właściwy do spraw energii, wydając rozporządzenie, o którym mowa w ust. 2, bierze pod uwagę:
 
@@ -4766,8 +5238,10 @@ d) dane pomiarowe oraz polecenia wysyłane przez licznik zdalnego odczytu do urz
 
 2) urządzenia w gospodarstwie domowym na potrzeby komunikacji z licznikiem zdalnego odczytu – uwzględniając konieczność zapewnienia bezpieczeństwa funkcjonowania systemu pomiarowego, niezawodnej komunikacji pomiędzy licznikiem zdalnego odczytu a urządzeniami odbiorcy energii elektrycznej w gospodarstwie domowym, zakres informacji niezbędnych użytkownikowi systemu w gospodarstwie domowym w celu efektywnego zarządzania zużyciem energii elektrycznej, interoperacyjność systemu pomiarowego, równoprawne traktowanie użytkowników systemu pomiarowego, stan rozwoju technologii informacyjnych, efektywność kosztową dostępnych technologii oraz poufność danych i informacji w systemie pomiarowym.
 
+<a id="rozdzial-2d"></a>
 ### Rozdział 2d. Zasady funkcjonowania centralnego systemu informacji rynku energii
 
+<a id="art-11y"></a>
 ### Art. 11y.
 
 1. Operator informacji rynku energii, stosując obiektywne i przejrzyste zasady zapewniające równoprawne traktowanie użytkowników systemu:
@@ -4782,11 +5256,11 @@ d) dane pomiarowe oraz polecenia wysyłane przez licznik zdalnego odczytu do urz
 
 5) opracowuje standardy wymiany informacji centralnego systemu informacji rynku energii;
 
-6) udostępnia uprawnionym użytkownikom systemu informacje rynku energii w zakresie przewidzianym w ustawie i w przepisach wydanych na podstawie art. 11zh i w sposób określony w instrukcji opracowanej na podstawie art. 9g ust. 5c;
+6) udostępnia uprawnionym użytkownikom systemu informacje rynku energii w zakresie przewidzianym w ustawie i w przepisach wydanych na podstawie [art. 11zh](#art-11zh) i w sposób określony w instrukcji opracowanej na podstawie [art. 9g](#art-9g) ust. 5c;
 
 7) oblicza wartość cen energii elektrycznej, o których mowa w art. 4b ust. 4 i 6 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
 
-8)[131)] oblicza skorygowaną wartość cen energii elektrycznej, o których mowa w pkt 7, w przypadku zmiany danych wykorzystywanych do ustalenia tych cen wynikającą z korekt przekazywanych przez operatorów systemów dystrybucyjnych elektroenergetycznych lub podmioty, o których mowa w art. 11zb ust. 6, jeżeli skorygowana cena różni się od poprzednio obliczonej o więcej niż 2 %.
+8)[131)] oblicza skorygowaną wartość cen energii elektrycznej, o których mowa w pkt 7, w przypadku zmiany danych wykorzystywanych do ustalenia tych cen wynikającą z korekt przekazywanych przez operatorów systemów dystrybucyjnych elektroenergetycznych lub podmioty, o których mowa w [art. 11zb](#art-11zb) ust. 6, jeżeli skorygowana cena różni się od poprzednio obliczonej o więcej niż 2 %.
 
 2. Operator informacji rynku energii zamieszcza na swojej stronie internetowej:
 
@@ -4810,15 +5284,16 @@ d) dane pomiarowe oraz polecenia wysyłane przez licznik zdalnego odczytu do urz
 
 3. Zadania operatora informacji rynku energii wykonuje operator systemu przesyłowego elektroenergetycznego.
 
-4. Terminy publikacji cen, o których mowa w ust. 1 pkt 7 i 8, określa instrukcja, o której mowa w art. 9g ust. 1, opracowana przez operatora systemu przesyłowego elektroenergetycznego.
+4. Terminy publikacji cen, o których mowa w ust. 1 pkt 7 i 8, określa instrukcja, o której mowa w [art. 9g](#art-9g) ust. 1, opracowana przez operatora systemu przesyłowego elektroenergetycznego.
 
+<a id="art-11z"></a>
 ### Art. 11z.
 
-1. Użytkownik systemu elektroenergetycznego, w szczególności sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego oraz podmiot odpowiedzialny za bilansowanie realizują wymianę informacji rynku energii dotyczącą umowy sprzedaży, umowy kompleksowej, umowy o świadczeniu usług dystrybucji oraz dotyczącą informacji o punkcie pomiarowym i o podmiocie odpowiedzialnym za bilansowanie, a także procesy rynku energii, o których mowa w przepisach wydanych na podstawie art. 11zh, za pośrednictwem centralnego systemu informacji rynku energii.
+1. Użytkownik systemu elektroenergetycznego, w szczególności sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego oraz podmiot odpowiedzialny za bilansowanie realizują wymianę informacji rynku energii dotyczącą umowy sprzedaży, umowy kompleksowej, umowy o świadczeniu usług dystrybucji oraz dotyczącą informacji o punkcie pomiarowym i o podmiocie odpowiedzialnym za bilansowanie, a także procesy rynku energii, o których mowa w przepisach wydanych na podstawie [art. 11zh](#art-11zh), za pośrednictwem centralnego systemu informacji rynku energii.
 
-2. Centralny system informacji rynku energii umożliwia wymianę informacji rynku energii pomiędzy użytkownikami systemu elektroenergetycznego w celu realizacji procesów rynku energii, o których mowa w przepisach wydanych na podstawie art. 11zh.
+2. Centralny system informacji rynku energii umożliwia wymianę informacji rynku energii pomiędzy użytkownikami systemu elektroenergetycznego w celu realizacji procesów rynku energii, o których mowa w przepisach wydanych na podstawie [art. 11zh](#art-11zh).
 
-3. Centralny system informacji rynku energii może umożliwiać wymianę informacji rynku energii pomiędzy użytkownikami systemu elektroenergetycznego w celu realizacji procesów rynku energii innych niż wymienione w przepisach wydanych na podstawie art. 11zh.
+3. Centralny system informacji rynku energii może umożliwiać wymianę informacji rynku energii pomiędzy użytkownikami systemu elektroenergetycznego w celu realizacji procesów rynku energii innych niż wymienione w przepisach wydanych na podstawie [art. 11zh](#art-11zh).
 
 3a.[133)] Centralny system informacji rynku energii umożliwia określanie, przekazywanie i udostępnianie danych zgodnie z art. 5 ust. 5–5b i 6 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii oraz art. 6g ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2024 r. poz. 317).
 
@@ -4830,10 +5305,12 @@ d) dane pomiarowe oraz polecenia wysyłane przez licznik zdalnego odczytu do urz
 
 5. Procesy rynku energii nie dotyczą działań realizowanych w ramach centralnego mechanizmu bilansowania handlowego ani działań realizowanych na giełdach towarowych w rozumieniu art. 2 pkt 1 ustawy z dnia 26 października 2000 r. o giełdach towarowych, na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany lub na zorganizowanej platformie obrotu prowadzonej przez spółkę prowadzącą na terytorium Rzeczypospolitej Polskiej taką giełdę towarową lub w ramach jednolitego łączenia rynków dnia następnego i dnia bieżącego prowadzonych przez wyznaczonych operatorów rynku energii elektrycznej.
 
+<a id="art-11za"></a>
 ### Art. 11za.
 
-Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego oraz inne podmioty w celu realizacji procesów rynku energii i wymiany informacji rynku energii za pośrednictwem centralnego systemu informacji rynku energii w zakresie realizacji tych procesów wykorzystują systemy informacyjne współpracujące z centralnym systemem informacji rynku energii w sposób określony w instrukcji, o której mowa w art. 9g ust. 5c.
+Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego oraz inne podmioty w celu realizacji procesów rynku energii i wymiany informacji rynku energii za pośrednictwem centralnego systemu informacji rynku energii w zakresie realizacji tych procesów wykorzystują systemy informacyjne współpracujące z centralnym systemem informacji rynku energii w sposób określony w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 5c.
 
+<a id="art-11zb"></a>
 ### Art. 11zb.
 
 1. Operator systemu elektroenergetycznego przekazuje w postaci elektronicznej informacje rynku energii do centralnego systemu informacji rynku energii, w szczególności:
@@ -4864,7 +5341,7 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 4. Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego, operator systemu przesyłowego elektroenergetycznego, podmiot odpowiedzialny za bilansowanie oraz inne podmioty, realizujące procesy rynku energii lub wymieniające informacje za pośrednictwem centralnego systemu informacji rynku energii, zapewniają poprawność i kompletność informacji przekazywanych przez nich do centralnego systemu informacji rynku energii.
 
-5. Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego oraz operator systemu przesyłowego elektroenergetycznego mogą prowadzić własny rejestr odbiorców lub punktów pomiarowych, przechowywać informacje rynku energii i przetwarzać je w celu wykonywania obowiązków ustawowych, z wyłączeniem prowadzenia rozliczeń zgodnie z art. 4k.
+5. Sprzedawca energii elektrycznej, operator systemu dystrybucyjnego elektroenergetycznego oraz operator systemu przesyłowego elektroenergetycznego mogą prowadzić własny rejestr odbiorców lub punktów pomiarowych, przechowywać informacje rynku energii i przetwarzać je w celu wykonywania obowiązków ustawowych, z wyłączeniem prowadzenia rozliczeń zgodnie z [art. 4k](#art-4k).
 
 6. Podmiot, o którym mowa w art. 4b ust. 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, przekazuje operatorowi informacji rynku energii dane dotyczące:
 
@@ -4872,6 +5349,7 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 2) ilości energii elektrycznej stanowiącej wolumen obrotu na sesji notowań rynku dnia następnego z określaniem ceny energii w systemie kursu jednolitego [MWh] – do godziny 15.00 doby, w której odbyły się sesje notowań na dzień następny.
 
+<a id="art-11zc"></a>
 ### Art. 11zc.
 
 1. Operator informacji rynku energii udostępnia informacje rynku energii w postaci elektronicznej za pośrednictwem centralnego systemu informacji rynku energii:
@@ -4896,7 +5374,7 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 9) innym podmiotom uprawnionym na podstawie przepisów odrębnych przyznających im dostęp do informacji rynku energii z tego systemu – bez możliwości dalszego ich udostępniania innym podmiotom przez podmioty wskazane w pkt 2–5 i 6a–9.
 
-2. Podmioty, o których mowa w art. 11zg ust. 1, mogą zlecać przetwarzanie informacji rynku energii w ich imieniu podmiotom trzecim.
+2. Podmioty, o których mowa w [art. 11zg](#art-11zg) ust. 1, mogą zlecać przetwarzanie informacji rynku energii w ich imieniu podmiotom trzecim.
 
 3. Informacje rynku energii, o których mowa w ust. 1, mogą być przetwarzane przez podmioty, o których mowa w ust. 1 pkt 3–5 i 7–9, wyłącznie w celu:
 
@@ -4944,11 +5422,12 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 9) innym podmiotom na podstawie odrębnych przepisów lub podmiotom, które wykazały interes prawny.
 
-6. Dostęp uprawnionych użytkowników systemu do informacji zgromadzonych w centralnym systemie informacji rynku energii, przekazywanie do niego lub odbieranie z niego informacji oraz korzystanie z tego systemu w celu realizacji przez tych użytkowników systemu procesów, o których mowa w przepisach wydanych na podstawie art. 11zh, odbywają się w postaci elektronicznej i są nieodpłatne.
+6. Dostęp uprawnionych użytkowników systemu do informacji zgromadzonych w centralnym systemie informacji rynku energii, przekazywanie do niego lub odbieranie z niego informacji oraz korzystanie z tego systemu w celu realizacji przez tych użytkowników systemu procesów, o których mowa w przepisach wydanych na podstawie [art. 11zh](#art-11zh), odbywają się w postaci elektronicznej i są nieodpłatne.
 
+<a id="art-11zd"></a>
 ### Art. 11zd.
 
-1. Podmioty wskazane w art. 11zc ust. 1 pkt 3–5 i 7–9 oraz operator informacji rynku energii, w zakresie, w jakim przetwarzają informacje rynku energii, zapewniają ochronę przed działaniami zagrażającymi poufności, integralności, dostępności i autentyczności przetwarzanych danych.
+1. Podmioty wskazane w [art. 11zc](#art-11zc) ust. 1 pkt 3–5 i 7–9 oraz operator informacji rynku energii, w zakresie, w jakim przetwarzają informacje rynku energii, zapewniają ochronę przed działaniami zagrażającymi poufności, integralności, dostępności i autentyczności przetwarzanych danych.
 
 2. Podmioty, o których mowa w ust. 1, odpowiednio do wykonywanych zadań:
 
@@ -4956,6 +5435,7 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 2) zapewniają właściwą ochronę informacji rynku energii.
 
+<a id="art-11ze"></a>
 ### Art. 11ze.
 
 1. Operator informacji rynku energii wypełnia w stosunku do osób fizycznych, których dane osobowe będą przetwarzane w celach związanych z budową i funkcjonowaniem centralnego systemu informacji rynku energii, obowiązki informacyjne określone w art. 13 i art. 14 rozporządzenia nr 2016/679 przez zamieszczenie stosownych informacji na swoich stronach internetowych, a także na stronie Biuletynu Informacji Publicznej.
@@ -4980,12 +5460,14 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 9. Przy przetwarzaniu danych osobowych w centralnym systemie informacji rynku energii operator informacji rynku energii wdraża odpowiednie zabezpieczenia techniczne i organizacyjne praw i wolności osób fizycznych, których dane osobowe są przetwarzane, zgodnie z rozporządzeniem 2016/679, w szczególności przez nadawanie uprawnień do przetwarzania minimalnej liczbie osób uprawnionych do dostępu do centralnego systemu informacji rynku energii oraz opracowanie procedury określającej sposób zabezpieczenia danych.
 
+<a id="art-11zf"></a>
 ### Art. 11zf.
 
 1. Jednostkowe dane pomiarowe w centralnym systemie informacji rynku energii są przechowywane przez okres 7 lat od dnia, w którym dane te zostały przekazane do centralnego systemu informacji rynku energii.
 
 2. Po upływie okresu, o którym mowa w ust. 1, operator informacji rynku energii anonimizuje jednostkowe dane pomiarowe.
 
+<a id="art-11zg"></a>
 ### Art. 11zg.
 
 1. W celu realizacji procesów rynku energii oraz wymiany informacji rynku energii za pośrednictwem centralnego systemu informacji rynku energii:
@@ -5002,11 +5484,11 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 6) inny podmiot realizujący procesy rynku energii lub wymieniający informacje rynku energii za pośrednictwem centralnego systemu informacji rynku energii – zawiera z operatorem informacji rynku energii umowę.
 
-2. Umowę, o której mowa w ust. 1, zawiera się w formie elektronicznej przy użyciu wzorca umowy określonego w instrukcji, o której mowa w art. 9g ust. 5c.
+2. Umowę, o której mowa w ust. 1, zawiera się w formie elektronicznej przy użyciu wzorca umowy określonego w instrukcji, o której mowa w [art. 9g](#art-9g) ust. 5c.
 
 3. Umowa, o której mowa w ust. 1, zawiera w szczególności:
 
-1) zobowiązanie stron do przestrzegania i stosowania instrukcji, o której mowa w art. 9g ust. 5c;
+1) zobowiązanie stron do przestrzegania i stosowania instrukcji, o której mowa w [art. 9g](#art-9g) ust. 5c;
 
 2) zobowiązanie stron do przetwarzania informacji rynku energii oraz innych informacji na zasadach określonych w przepisach prawa;
 
@@ -5022,6 +5504,7 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 8) warunki i terminy wypowiedzenia umowy.
 
+<a id="art-11zh"></a>
 ### Art. 11zh.
 
 1. Minister właściwy do spraw energii określi, w drodze rozporządzenia:
@@ -5064,8 +5547,10 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 11) wymagania dotyczące danych osobowych.
 
+<a id="rozdzial-2e"></a>
 ### Rozdział 2e. Obywatelskie społeczności energetyczne
 
+<a id="art-11zi"></a>
 ### Art. 11zi.
 
 1. Obywatelska społeczność energetyczna może wykonywać działalność w formie:
@@ -5088,10 +5573,12 @@ e) sprzedawcy rezerwowym energii elektrycznej, oferującym na jego obszarze dzia
 
 2) podmiotom, o którym mowa w art. 7 ust. 1 pkt 1, 2, 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm.135)).
 
+<a id="art-11zj"></a>
 ### Art. 11zj.
 
 Członek, udziałowiec lub wspólnik obywatelskiej społeczności energetycznej zachowuje prawa i obowiązki wynikające z jego statusu jako odbiorcy końcowego lub odbiorcy aktywnego, w tym odbiorcy energii elektrycznej w gospodarstwie domowym, wynikające z przepisów ustawy.
 
+<a id="art-11zk"></a>
 ### Art. 11zk.
 
 1. Obywatelska społeczność energetyczna prowadzi działalność na obszarze działania jednego operatora systemu dystrybucyjnego elektroenergetycznego, do którego sieci są przyłączone instalacje należące do członków, udziałowców lub wspólników tej społeczności.
@@ -5100,6 +5587,7 @@ Członek, udziałowiec lub wspólnik obywatelskiej społeczności energetycznej 
 
 3. Działalność obywatelskiej społeczności energetycznej nie może obejmować połączeń z innymi państwami.
 
+<a id="art-11zl"></a>
 ### Art. 11zl.
 
 1. Statut lub umowa obywatelskiej społeczności energetycznej określa sposób prowadzenia rozliczeń oraz podział energii elektrycznej, która jest wytwarzana przez będące własnością tej społeczności jednostki wytwórcze w ramach obywatelskiej społeczności energetycznej.
@@ -5110,13 +5598,14 @@ Członek, udziałowiec lub wspólnik obywatelskiej społeczności energetycznej 
 
 2) nie ma wpływu na obowiązujące opłaty sieciowe i taryfy.
 
+<a id="art-11zm"></a>
 ### Art. 11zm.
 
 1. Obywatelska społeczność energetyczna może podjąć działalność po uzyskaniu wpisu do wykazu obywatelskich społeczności energetycznych prowadzonego przez Prezesa Urzędu Regulacji Energetyki.
 
 2. Wykaz obywatelskich społeczności energetycznych zawiera:
 
-1) dane, o których mowa w art. 11zn ust. 2 pkt 1–4;
+1) dane, o których mowa w [art. 11zn](#art-11zn) ust. 2 pkt 1–4;
 
 2) numer wpisu;
 
@@ -5128,6 +5617,7 @@ Członek, udziałowiec lub wspólnik obywatelskiej społeczności energetycznej 
 
 4. Uzyskanie wpisu do wykazu obywatelskich społeczności energetycznych nie zwalnia z obowiązków uzyskania koncesji lub wpisu do rejestru działalności regulowanej, w przypadku podjęcia przez obywatelską społeczność energetyczną działalności podlegającej obowiązkowi uzyskania koncesji lub wpisu do rejestru działalności regulowanej.
 
+<a id="art-11zn"></a>
 ### Art. 11zn.
 
 1. Prezes Urzędu Regulacji Energetyki wpisuje obywatelską społeczność energetyczną do wykazu obywatelskich społeczności energetycznych, na jej wniosek.
@@ -5168,7 +5658,7 @@ e) liczby, rodzajów i lokalizacji instalacji odnawialnego źródła energii, w 
 
 1) wniosek, o którym mowa w ust. 1 – pod względem poprawności i prawidłowości przekazanych danych;
 
-2) statut lub umowę obywatelskiej społeczności energetycznej – pod względem zgodności z celem i przedmiotem działalności, o których mowa w art. 3 pkt 13f oraz art. 11zi–11zl.
+2) statut lub umowę obywatelskiej społeczności energetycznej – pod względem zgodności z celem i przedmiotem działalności, o których mowa w [art. 3](#art-3) pkt 13f oraz [art. 11zi](#art-11zi)–11zl.
 
 6. W przypadku gdy wniosek, o którym mowa w ust. 1, nie zawiera danych, o których mowa w ust. 2, lub do wniosku nie dołączono statutu lub umowy obywatelskiej społeczności energetycznej, lub oświadczeń, zgodnie z ust. 3 pkt 1 i 2, a w przypadku gdy obywatelska społeczność energetyczna będzie prowadzić działalność wyłącznie w zakresie odnawialnych źródeł energii – zgodnie z ust. 3, Prezes Urzędu Regulacji Energetyki niezwłocznie wzywa wnioskodawcę do uzupełnienia braków w terminie 14 dni od dnia doręczenia wezwania wraz z pouczeniem, że nieuzupełnienie braków w tym terminie spowoduje pozostawienie wniosku bez rozpatrzenia.
 
@@ -5186,38 +5676,42 @@ e) liczby, rodzajów i lokalizacji instalacji odnawialnego źródła energii, w 
 
 2) złożono wniosek, o którym mowa w ust. 1, niezgodny ze stanem faktycznym;
 
-3) statut lub umowa obywatelskiej społeczności energetycznej są niezgodne z celem i przedmiotem działalności, o których mowa w art. 3 pkt 13f oraz art. 11zi–11zl.
+3) statut lub umowa obywatelskiej społeczności energetycznej są niezgodne z celem i przedmiotem działalności, o których mowa w [art. 3](#art-3) pkt 13f oraz [art. 11zi](#art-11zi)–11zl.
 
 12. Prezes Urzędu Regulacji Energetyki wykreśla obywatelską społeczność energetyczną z wykazu obywatelskich społeczności energetycznych w przypadku:
 
 1) złożenia wniosku o wykreślenie z wykazu przez obywatelską społeczność energetyczną;
 
-2) uzyskania informacji o wykreśleniu podmiotu, o którym mowa w art. 11zi ust. 1, z Krajowego Rejestru Sądowego;
+2) uzyskania informacji o wykreśleniu podmiotu, o którym mowa w [art. 11zi](#art-11zi) ust. 1, z Krajowego Rejestru Sądowego;
 
-3) uzyskania informacji o wydaniu wobec podmiotu, o którym mowa w art. 11zi ust. 1, prawomocnego orzeczenia zakazującego wykonywania działalności objętej wpisem do wykazu.
+3) uzyskania informacji o wydaniu wobec podmiotu, o którym mowa w [art. 11zi](#art-11zi) ust. 1, prawomocnego orzeczenia zakazującego wykonywania działalności objętej wpisem do wykazu.
 
 13. Wykreślenie z wykazu obywatelskich społeczności energetycznych z przyczyn, o których mowa w ust. 11 pkt 2 i 3, następuje z urzędu.
 
+<a id="art-11zo"></a>
 ### Art. 11zo.
 
 1. Obywatelska społeczność energetyczna informuje Prezesa Urzędu Regulacji Energetyki o:
 
-1) zmianie danych, o których mowa w art. 11zn ust. 2 pkt 1, 2 i pkt 4 lit. a, c i d,
+1) zmianie danych, o których mowa w [art. 11zn](#art-11zn) ust. 2 pkt 1, 2 i pkt 4 lit. a, c i d,
 
 2) zakończeniu lub zawieszeniu wykonywania działalności gospodarczej,
 
-3) wykreśleniu podmiotu, o którym mowa w art. 11zi ust. 1, z Krajowego Rejestru Sądowego,
+3) wykreśleniu podmiotu, o którym mowa w [art. 11zi](#art-11zi) ust. 1, z Krajowego Rejestru Sądowego,
 
-4) wydaniu wobec podmiotu, o którym mowa w art. 11zi ust. 1, prawomocnego orzeczenia zakazującego wykonywania działalności objętej wpisem do wykazu – w terminie 14 dni od dnia wystąpienia tego zdarzenia.
+4) wydaniu wobec podmiotu, o którym mowa w [art. 11zi](#art-11zi) ust. 1, prawomocnego orzeczenia zakazującego wykonywania działalności objętej wpisem do wykazu – w terminie 14 dni od dnia wystąpienia tego zdarzenia.
 
 2. Na podstawie informacji, o której mowa w ust. 1, Prezes Urzędu Regulacji Energetyki dokonuje zmiany wpisu do wykazu obywatelskich społeczności energetycznych albo wykreślenia obywatelskiej społeczności energetycznej z tego wykazu w terminie 14 dni od dnia otrzymania tej informacji.
 
+<a id="rozdzial-2f"></a>
 ### Rozdział 2f. Odbiorca aktywny
 
+<a id="art-11zp"></a>
 ### Art. 11zp.
 
 Odbiorca aktywny może działać samodzielnie albo za pośrednictwem agregatora.
 
+<a id="art-11zq"></a>
 ### Art. 11zq.
 
 1. Odbiorca aktywny ma prawo do powierzenia innemu podmiotowi zarządzania instalacją tego odbiorcy.
@@ -5226,12 +5720,15 @@ Odbiorca aktywny może działać samodzielnie albo za pośrednictwem agregatora.
 
 3. Inny podmiot, o którym mowa w ust. 1, nie jest odbiorcą aktywnym.
 
+<a id="art-11zr"></a>
 ### Art. 11zr.
 
 Odbiorca aktywny nie może zostać obciążony dyskryminacyjnymi wymaganiami technicznymi, procedurami oraz dodatkowymi opłatami, w tym opłatami sieciowymi nieodzwierciedlającymi kosztów związanych z dostępem do sieci.
 
+<a id="rozdzial-3"></a>
 ### Rozdział 3. Polityka energetyczna
 
+<a id="art-12"></a>
 ### Art. 12.
 
 1. (uchylony)
@@ -5254,26 +5751,31 @@ Odbiorca aktywny nie może zostać obciążony dyskryminacyjnymi wymaganiami tec
 
 3. (uchylony)
 
+<a id="art-12a"></a>
 ### Art. 12a.
 
 1. Prezes Rady Ministrów powołuje Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej. Przepisy art. 10 ust. 2–5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780) stosuje się odpowiednio.
 
 2. Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej wykonuje uprawnienia z akcji należących do Skarbu Państwa w stosunku do operatora systemu przesyłowego elektroenergetycznego i operatora systemu przesyłowego gazowego oraz PERN S.A.
 
-3. Do wykonywania uprawnień, o których mowa w ust. 2, nie stosuje się przepisów art. 7 ust. 1, art. 19 ust. 1 w zakresie wymogu wskazywania jako kandydata na członka organu nadzorczego osoby posiadającej pozytywną opinię Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych oraz art. 45 ust. 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940).
+3. Do wykonywania uprawnień, o których mowa w ust. 2, nie stosuje się przepisów [art. 7](#art-7) ust. 1, [art. 19](#art-19) ust. 1 w zakresie wymogu wskazywania jako kandydata na członka organu nadzorczego osoby posiadającej pozytywną opinię Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych oraz art. 45 ust. 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940).
 
+<a id="art-12b"></a>
 ### Art. 12b.
 
 (uchylony)
 
+<a id="art-13"></a>
 ### Art. 13.
 
 Celem polityki energetycznej państwa jest zapewnienie bezpieczeństwa energetycznego kraju, wzrostu konkurencyjności gospodarki i jej efektywności energetycznej, a także ochrony środowiska, w tym klimatu.
 
+<a id="art-14"></a>
 ### Art. 14.
 
 (uchylony)
 
+<a id="art-15"></a>
 ### Art. 15.
 
 Polityka energetyczna państwa jest opracowywana zgodnie z zasadą zrównoważonego rozwoju kraju i zawiera w szczególności:
@@ -5284,12 +5786,14 @@ Polityka energetyczna państwa jest opracowywana zgodnie z zasadą zrównoważon
 
 3) część prognostyczną obejmującą okres nie krótszy niż 10 lat, w tym prognozy zmian bilansu paliwowo-energetycznego.
 
+<a id="art-15a"></a>
 ### Art. 15a.
 
 1. Rada Ministrów, w drodze uchwały, co 5 lat, przyjmuje politykę energetyczną państwa.
 
 2. (uchylony)
 
+<a id="art-15ab"></a>
 ### Art. 15ab.
 
 1. Minister właściwy do spraw energii, we współpracy z ministrem właściwym do spraw klimatu, opracowuje zintegrowany krajowy plan w dziedzinie energii i klimatu, o którym mowa w art. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, z późn. zm.), zwany dalej „krajowym planem”, oraz jego aktualizację i zintegrowane krajowe sprawozdanie z postępów w dziedzinie energii i klimatu.
@@ -5300,6 +5804,7 @@ Polityka energetyczna państwa jest opracowywana zgodnie z zasadą zrównoważon
 
 2) przekazuje Komisji Europejskiej.
 
+<a id="art-15b"></a>
 ### Art. 15b.
 
 1.68) Minister właściwy do spraw gospodarki surowcami energetycznymi opracowuje co roku sprawozdanie z wyników monitorowania bezpieczeństwa dostaw paliw gazowych.
@@ -5354,45 +5859,53 @@ Polityka energetyczna państwa jest opracowywana zgodnie z zasadą zrównoważon
 
 8. (uchylony)
 
+<a id="art-15ba"></a>
 ### Art. 15ba.
 
-138) Minister właściwy do spraw energii, minister właściwy do spraw gospodarki surowcami energetycznymi lub Prezes Urzędu Regulacji Energetyki może wystąpić do centrum naukowo-przemysłowego utworzonego zgodnie z art. 9ca ust. 2 o opracowanie koncepcji, metodyk, analiz, prognoz, raportów lub narzędzi, a także realizację projektów badawczych, dotyczących społeczno-ekonomicznych aspektów transformacji energetycznej lub zapewnienia bezpieczeństwa energetycznego kraju.
+138) Minister właściwy do spraw energii, minister właściwy do spraw gospodarki surowcami energetycznymi lub Prezes Urzędu Regulacji Energetyki może wystąpić do centrum naukowo-przemysłowego utworzonego zgodnie z [art. 9ca](#art-9ca) ust. 2 o opracowanie koncepcji, metodyk, analiz, prognoz, raportów lub narzędzi, a także realizację projektów badawczych, dotyczących społeczno-ekonomicznych aspektów transformacji energetycznej lub zapewnienia bezpieczeństwa energetycznego kraju.
 
+<a id="art-15c"></a>
 ### Art. 15c.
 
 (uchylony)
 
+<a id="art-15d"></a>
 ### Art. 15d.
 
 (uchylony)
 
+<a id="art-15e"></a>
 ### Art. 15e.
 
 (uchylony)
 
+<a id="art-15f"></a>
 ### Art. 15f.
 
 1.139) Prezes Urzędu Regulacji Energetyki oraz minister właściwy do spraw gospodarki surowcami energetycznymi i minister właściwy do spraw energii, w zakresie swojej właściwości, współpracują z organami innych państw członkowskich Unii Europejskiej, w celu stworzenia w pełni konkurencyjnego rynku paliw gazowych i energii elektrycznej w Unii Europejskiej, w szczególności promują i ułatwiają współpracę operatorów systemów przesyłowych w zakresie połączeń transgranicznych.
 
 2.[68)] Minister właściwy do spraw gospodarki surowcami energetycznymi współpracuje z organami innych państw członkowskich Unii Europejskiej w celu zapewnienia bezpieczeństwa dostarczania paliw gazowych i promowania solidarności regionalnej w zakresie zapewnienia tego bezpieczeństwa. Współpraca ta obejmuje w szczególności podejmowanie działań mających na celu zapobieganie powstaniu zagrożenia bezpieczeństwa dostarczania paliw gazowych oraz współdziałanie w przypadku wystąpienia stanów kryzysowych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącym środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającym rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1, z późn. zm.140)), zwanego dalej „rozporządzeniem 2017/1938”.
 
-3. Prezes Urzędu Regulacji Energetyki, w sprawach dotyczących gazociągu międzysystemowego, o którym mowa w art. 3 pkt 11d lit. b, w tym eksploatacji tego gazociągu, może współpracować z organami do spraw regulacji gospodarki paliwami i energią lub innymi właściwymi organami państwa innego niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, których infrastruktura gazowa jest połączona tym gazociągiem z systemem przesyłowym, w celu zapewnienia spójnego stosowania prawa Unii Europejskiej i zapobieżenia zakłóceniom konkurencji na wewnętrznym rynku gazu ziemnego oraz negatywnemu wpływowi tego gazociągu na bezpieczeństwo dostaw gazu ziemnego w Unii Europejskiej.
+3. Prezes Urzędu Regulacji Energetyki, w sprawach dotyczących gazociągu międzysystemowego, o którym mowa w [art. 3](#art-3) pkt 11d lit. b, w tym eksploatacji tego gazociągu, może współpracować z organami do spraw regulacji gospodarki paliwami i energią lub innymi właściwymi organami państwa innego niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, których infrastruktura gazowa jest połączona tym gazociągiem z systemem przesyłowym, w celu zapewnienia spójnego stosowania prawa Unii Europejskiej i zapobieżenia zakłóceniom konkurencji na wewnętrznym rynku gazu ziemnego oraz negatywnemu wpływowi tego gazociągu na bezpieczeństwo dostaw gazu ziemnego w Unii Europejskiej.
 
-4. Przed podjęciem współpracy, o której mowa w ust. 3, dotyczącej gazociągu międzysystemowego, o którym mowa w art. 3 pkt 11d lit. b, który znajduje się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu Regulacji Energetyki konsultuje się z organami regulacyjnymi tego państwa.
+4. Przed podjęciem współpracy, o której mowa w ust. 3, dotyczącej gazociągu międzysystemowego, o którym mowa w [art. 3](#art-3) pkt 11d lit. b, który znajduje się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu Regulacji Energetyki konsultuje się z organami regulacyjnymi tego państwa.
 
+<a id="art-15fa"></a>
 ### Art. 15fa.
 
 1.68) Minister właściwy do spraw gospodarki surowcami energetycznymi jest właściwym organem w rozumieniu art. 2 pkt 7 rozporządzenia 2017/1938.
 
 2.[68)] Minister właściwy do spraw gospodarki surowcami energetycznymi przeprowadza krajową ocenę ryzyka oraz opracowuje plan działań zapobiegawczych i plan na wypadek sytuacji nadzwyczajnej, o których mowa odpowiednio w art. 7 ust. 3 i art. 8 ust. 2 rozporządzenia 2017/1938, w sposób i w terminach określonych w tym rozporządzeniu.
 
+<a id="art-15g"></a>
 ### Art. 15g.
 
 Minister właściwy do spraw energii jest właściwym organem krajowym odpowiedzialnym za ułatwianie i koordynowanie procesu wydawania pozwoleń i decyzji dla projektów infrastruktury energetycznej będących przedmiotem wspólnego zainteresowania Unii Europejskiej, zgodnie z art. 8 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/869 z dnia 30 maja 2022 r. w sprawie wytycznych dotyczących transeuropejskiej infrastruktury energetycznej, zmiany rozporządzeń (WE) nr 715/2009, (UE) 2019/942 i (UE) 2019/943 oraz dyrektyw 2009/73/WE i (UE) 2019/944 oraz uchylenia rozporządzenia (UE) nr 347/2013 (Dz. Urz. UE L 152 z 03.06.2022, str. 45), działającym w trybie współpracy, o którym mowa w art. 8 ust. 3 lit. c tego rozporządzenia.
 
+<a id="art-15h"></a>
 ### Art. 15h.
 
-1.68) Minister właściwy do spraw gospodarki surowcami energetycznymi przed rozpoczęciem negocjacji umowy międzynarodowej w sprawie eksploatacji gazociągu międzysystemowego, o którym mowa w art. 3 pkt 11d lit. b, w zakresie, w jakim umowa ta dotyczy rynku wewnętrznego gazu ziemnego Unii Europejskiej, powiadamia o tym pisemnie Komisję Europejską nie później niż pięć miesięcy przed planowanym rozpoczęciem negocjacji.
+1.68) Minister właściwy do spraw gospodarki surowcami energetycznymi przed rozpoczęciem negocjacji umowy międzynarodowej w sprawie eksploatacji gazociągu międzysystemowego, o którym mowa w [art. 3](#art-3) pkt 11d lit. b, w zakresie, w jakim umowa ta dotyczy rynku wewnętrznego gazu ziemnego Unii Europejskiej, powiadamia o tym pisemnie Komisję Europejską nie później niż pięć miesięcy przed planowanym rozpoczęciem negocjacji.
 
 2. Powiadomienie, o którym mowa w ust. 1, zawiera informacje o celach i zakresie negocjacji oraz informacje niezbędne do oceny ich:
 
@@ -5414,6 +5927,7 @@ c) konkurencję w Unii Europejskiej, w tym w Rzeczypospolitej Polskiej.
 
 3) informacje o zawarciu, zmianie mocy obowiązującej i zmianie zakresu obowiązywania umowy, o której mowa w ust. 1 – niezwłocznie.
 
+<a id="art-15i"></a>
 ### Art. 15i.
 
 1. Operator systemu przesyłowego elektroenergetycznego opracowuje ocenę wystarczalności zasobów na poziomie krajowym, o której mowa w art. 24 rozporządzenia 2019/943, i dokonuje jej aktualizacji na podstawie metody oceny wystarczalności zasobów na poziomie europejskim, o której mowa w art. 23 ust. 5 rozporządzenia 2019/943, stosując ją odpowiednio w takim zakresie, w jakim została zastosowana przez ENTSO energii elektrycznej w danym okresie oceny wystarczalności zasobów na poziomie europejskim oraz w zakresie właściwym dla wykonywania oceny wystarczalności zasobów na poziomie krajowym:
@@ -5426,6 +5940,7 @@ c) konkurencję w Unii Europejskiej, w tym w Rzeczypospolitej Polskiej.
 
 3. W przypadku stwierdzenia w ocenie wystarczalności zasobów na poziomie krajowym występowania problemu z wystarczalnością zasobów, który nie został stwierdzony w ocenie wystarczalności zasobów na poziomie europejskim, operator systemu przesyłowego elektroenergetycznego powiadamia o tym ministra właściwego do spraw energii oraz Prezesa Urzędu Regulacji Energetyki, przekazując uzasadnienie stwierdzonej rozbieżności.
 
+<a id="art-16"></a>
 ### Art. 16.
 
 1. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii, lub przesyłaniem wodoru, lub dystrybucją wodoru sporządza, dla obszaru swojego działania, plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe, energię lub wodór, na okres nie krótszy niż 3 lata, uwzględniając:142)
@@ -5440,7 +5955,7 @@ c) konkurencję w Unii Europejskiej, w tym w Rzeczypospolitej Polskiej.
 
 5) politykę rozwoju infrastruktury i rynku paliw alternatywnych w transporcie;
 
-6) plan działań zapobiegawczych opracowywany zgodnie z art. 15fa ust. 2 – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją paliw gazowych;
+6) plan działań zapobiegawczych opracowywany zgodnie z [art. 15fa](#art-15fa) ust. 2 – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją paliw gazowych;
 
 7) krajowy plan w dziedzinie energii i klimatu, o którym mowa w art. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (UE) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 321 z 21.12.2018, str. 1) – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem energii elektrycznej;
 
@@ -5524,7 +6039,7 @@ b) informacje dotyczące lokalizacji odbiorców końcowych w sektorach, o który
 
 9. Operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego albo operator systemu przesyłowego wodorowego, określając w planie, o którym mowa w ust. 2, poziom połączeń międzysystemowych gazowych, elektroenergetycznych albo wodorowych, biorą w szczególności pod uwagę:152)
 
-1) krajowe, regionalne i europejskie cele w zakresie zrównoważonego rozwoju, w tym projekty stanowiące element osi projektów priorytetowych określonych w załączniku I do decyzji, o której mowa w art. 15b ust. 5 pkt 4;
+1) krajowe, regionalne i europejskie cele w zakresie zrównoważonego rozwoju, w tym projekty stanowiące element osi projektów priorytetowych określonych w załączniku I do decyzji, o której mowa w [art. 15b](#art-15b) ust. 5 pkt 4;
 
 2)[153)] istniejące połączenia międzysystemowe gazowe, elektroenergetyczne albo wodorowe oraz ich wykorzystanie w sposób najbardziej efektywny;
 
@@ -5538,7 +6053,7 @@ b) informacje dotyczące lokalizacji odbiorców końcowych w sektorach, o który
 
 1)[157)] przekazywaniu podmiotom przyłączonym do sieci, na ich wniosek, informacji o planowanych przedsięwzięciach w takim zakresie, w jakim przedsięwzięcia te będą miały wpływ na pracę urządzeń przyłączonych do sieci albo na zmianę warunków przyłączenia lub dostawy paliw gazowych, energii elektrycznej lub wodoru;
 
-2)[158)] zapewnieniu spójności pomiędzy planami przedsiębiorstw energetycznych i założeniami, strategiami oraz planami, o których mowa w art. 19 i art. 20, a w przypadku przedsiębiorstw energetycznych zajmujących się przesyłaniem paliw gazowych, energii elektrycznej lub wodoru zapewnienie tej spójności dotyczy planów przedsiębiorstw energetycznych i założeń, strategii i planów sporządzanych przez samorząd województwa.
+2)[158)] zapewnieniu spójności pomiędzy planami przedsiębiorstw energetycznych i założeniami, strategiami oraz planami, o których mowa w [art. 19](#art-19) i [art. 20](#art-20), a w przypadku przedsiębiorstw energetycznych zajmujących się przesyłaniem paliw gazowych, energii elektrycznej lub wodoru zapewnienie tej spójności dotyczy planów przedsiębiorstw energetycznych i założeń, strategii i planów sporządzanych przez samorząd województwa.
 
 13. Projekt planu, o którym mowa w ust. 1, podlega uzgodnieniu z Prezesem Urzędu Regulacji Energetyki działającym w porozumieniu odpowiednio z ministrem właściwym do spraw energii albo ministrem właściwym do spraw gospodarki surowcami energetycznymi, z wyłączeniem planów rozwoju przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją:159)
 
@@ -5568,7 +6083,7 @@ b) informacje dotyczące lokalizacji odbiorców końcowych w sektorach, o który
 
 18. Przedsiębiorstwo energetyczne obowiązane do uzgadniania projektu planu, o którym mowa w ust. 1, z Prezesem Urzędu Regulacji Energetyki corocznie, do dnia 30 kwietnia, przedkłada Prezesowi Urzędu Regulacji Energetyki sprawozdanie z realizacji tego planu.
 
-18a. Przedsiębiorstwo energetyczne obowiązane do uzgadniania projektu planu, o którym mowa w ust. 1, z Prezesem Urzędu Regulacji Energetyki, które stosuje się do wytycznych Prezesa Urzędu Regulacji Energetyki co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych oraz korzysta ze środków ustalonych w sposób, o którym mowa w art. 23 ust. 2 pkt 3 lit. g lub h, wraz ze sprawozdaniem, o którym mowa w ust. 18, przedkłada:
+18a. Przedsiębiorstwo energetyczne obowiązane do uzgadniania projektu planu, o którym mowa w ust. 1, z Prezesem Urzędu Regulacji Energetyki, które stosuje się do wytycznych Prezesa Urzędu Regulacji Energetyki co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych oraz korzysta ze środków ustalonych w sposób, o którym mowa w [art. 23](#art-23) ust. 2 pkt 3 lit. g lub h, wraz ze sprawozdaniem, o którym mowa w ust. 18, przedkłada:
 
 1) informacje o zakresie zrealizowania harmonogramu inwestycji priorytetowych, o których mowa w ust. 1a;
 
@@ -5626,6 +6141,7 @@ b) informacji dotyczących zapotrzebowania na wodór przedsiębiorstw przyłącz
 
 26.[162)] Prezes Urzędu Regulacji Energetyki uwzględnia plan rozwoju, o którym mowa w ust. 1, sporządzany przez operatora systemu przesyłowego wodorowego lub operatora systemu dystrybucyjnego wodorowego przy zatwierdzaniu specjalnej opłaty, o której mowa w art. 5 ust. 4 rozporządzenia 2024/1789.
 
+<a id="art-161"></a>
 ### Art. 161.
 
 1. Operator systemu magazynowania sporządza plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na pojemności instalacji magazynowych na okres 10 lat. Plan ten podlega aktualizacji co 2 lata.
@@ -5636,9 +6152,9 @@ b) informacji dotyczących zapotrzebowania na wodór przedsiębiorstw przyłącz
 
 2) politykę energetyczną państwa;
 
-3) plan działań zapobiegawczych opracowywany zgodnie z art. 15fa ust. 2;
+3) plan działań zapobiegawczych opracowywany zgodnie z [art. 15fa](#art-15fa) ust. 2;
 
-4) plan rozwoju sporządzony przez operatora systemu przesyłowego gazowego, o którym mowa w art. 16 ust. 2.
+4) plan rozwoju sporządzony przez operatora systemu przesyłowego gazowego, o którym mowa w [art. 16](#art-16) ust. 2.
 
 3. Plan obejmuje w szczególności:
 
@@ -5668,13 +6184,14 @@ b) informacji dotyczących zapotrzebowania na wodór przedsiębiorstw przyłącz
 
 12.[68)] Operator systemu magazynowania corocznie, do dnia 30 kwietnia, przedkłada ministrowi właściwemu do spraw gospodarki surowcami energetycznymi oraz Prezesowi Urzędu Regulacji Energetyki sprawozdanie z realizacji planu.
 
+<a id="art-16a"></a>
 ### Art. 16a.
 
-1. W przypadku możliwości wystąpienia długookresowego zagrożenia bezpieczeństwa dostaw energii elektrycznej, po stwierdzeniu przez ministra właściwego do spraw energii na podstawie sprawozdania, o którym mowa w art. 15b ust. 3, że istniejące i będące w trakcie budowy moce wytwórcze energii elektrycznej oraz przedsięwzięcia racjonalizujące jej zużycie nie zapewniają długookresowego bezpieczeństwa dostaw energii elektrycznej, Prezes Urzędu Regulacji Energetyki ogłasza, organizuje i przeprowadza przetarg na budowę nowych mocy wytwórczych energii elektrycznej lub realizację przedsięwzięć zmniejszających zapotrzebowanie na tę energię.
+1. W przypadku możliwości wystąpienia długookresowego zagrożenia bezpieczeństwa dostaw energii elektrycznej, po stwierdzeniu przez ministra właściwego do spraw energii na podstawie sprawozdania, o którym mowa w [art. 15b](#art-15b) ust. 3, że istniejące i będące w trakcie budowy moce wytwórcze energii elektrycznej oraz przedsięwzięcia racjonalizujące jej zużycie nie zapewniają długookresowego bezpieczeństwa dostaw energii elektrycznej, Prezes Urzędu Regulacji Energetyki ogłasza, organizuje i przeprowadza przetarg na budowę nowych mocy wytwórczych energii elektrycznej lub realizację przedsięwzięć zmniejszających zapotrzebowanie na tę energię.
 
 2. W ogłoszeniu o przetargu określa się przedmiot przetargu, jego zakres, warunki uczestnictwa, rodzaje instrumentów ekonomiczno-finansowych określone w odrębnych przepisach, umożliwiających budowę nowych mocy wytwórczych lub realizację przedsięwzięć zmniejszających zapotrzebowanie na energię elektryczną na warunkach preferencyjnych, oraz miejsce i termin udostępnienia dokumentacji przetargowej.
 
-3. Do przetargu stosuje się odpowiednio przepisy art. 9i ust. 4–9.
+3. Do przetargu stosuje się odpowiednio przepisy [art. 9i](#art-9i) ust. 4–9.
 
 3a. W przetargu mogą uczestniczyć także podmioty niebędące przedsiębiorstwami energetycznymi.
 
@@ -5694,7 +6211,7 @@ b) informacji dotyczących zapotrzebowania na wodór przedsiębiorstw przyłącz
 
 6) rodzajem paliw przeznaczonych do wykorzystania w nowych mocach wytwórczych energii elektrycznej;
 
-7) wynikami oceny, o której mowa w art. 10c ust. 1, oraz analizą kosztów i korzyści.
+7) wynikami oceny, o której mowa w [art. 10c](#art-10c) ust. 1, oraz analizą kosztów i korzyści.
 
 6. Prezes Urzędu Regulacji Energetyki przekazuje Komisji Europejskiej warunki przetargu w terminie umożliwiającym ich opublikowanie w Dzienniku Urzędowym Unii Europejskiej co najmniej na 6 miesięcy przed dniem zamknięcia składania ofert o przystąpieniu do przetargu.
 
@@ -5702,6 +6219,7 @@ b) informacji dotyczących zapotrzebowania na wodór przedsiębiorstw przyłącz
 
 8. Minister właściwy do spraw energii określi, w drodze rozporządzenia, szczegółowe wymagania co do zawartości dokumentacji przetargowej na budowę nowych mocy wytwórczych energii elektrycznej lub na realizację przedsięwzięć zmniejszających zapotrzebowanie na energię elektryczną oraz warunki i tryb organizowania i przeprowadzania przetargu, w tym powoływania i pracy komisji przetargowej, kierując się potrzebą zapewnienia przejrzystych warunków i kryteriów przetargu oraz równoprawnego traktowania jego uczestników.
 
+<a id="art-16b"></a>
 ### Art. 16b.
 
 1. Operator systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego realizuje w pierwszej kolejności działania niezbędne w celu zapewnienia bezpieczeństwa dostaw energii elektrycznej, ochrony interesów odbiorców i ochrony środowiska.
@@ -5712,15 +6230,16 @@ b) informacji dotyczących zapotrzebowania na wodór przedsiębiorstw przyłącz
 
 4. Środki, o których mowa w ust. 3, operator systemu przesyłowego elektroenergetycznego przekazuje do dnia 30 czerwca każdego roku.
 
+<a id="art-16c"></a>
 ### Art. 16c.
 
 1. Operator systemu dystrybucyjnego gazowego albo przesyłowego gazowego, w przypadku planowanej zmiany rodzaju dostarczanego paliwa gazowego w sieci gazowej z gazu ziemnego zaazotowanego na gaz ziemny wysokometanowy, informuje odbiorcę końcowego paliw gazowych, przyłączonego odpowiednio do sieci dystrybucyjnej albo przesyłowej gazowej, o terminie tej zmiany oraz o konieczności dostosowania lub wymiany instalacji i urządzeń do odbioru gazu ziemnego zaazotowanego na instalacje i urządzenia do odbioru gazu ziemnego wysokometanowego.
 
 2. Odbiorca końcowy paliw gazowych, po otrzymaniu informacji, o której mowa w ust. 1, dostosowuje lub wymienia instalacje i urządzenia, o których mowa w ust. 1, we własnym zakresie oraz pokrywa koszty ich dostosowania lub wymiany, z wyłączeniem ust. 3.
 
-3. W przypadku odbiorców paliw gazowych, o których mowa w art. 62b ust. 1 pkt 2 lit. a–c, operator systemu dystrybucyjnego gazowego, do którego przyłączony jest ten odbiorca, dostosowuje lub wymienia instalacje i urządzenia, o których mowa w ust. 1, oraz pokrywa koszty tego dostosowania lub wymiany, po uprzednim otrzymaniu zgody od:
+3. W przypadku odbiorców paliw gazowych, o których mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. a–c, operator systemu dystrybucyjnego gazowego, do którego przyłączony jest ten odbiorca, dostosowuje lub wymienia instalacje i urządzenia, o których mowa w ust. 1, oraz pokrywa koszty tego dostosowania lub wymiany, po uprzednim otrzymaniu zgody od:
 
-1) odbiorcy paliw gazowych, o którym mowa w art. 62b ust. 1 pkt 2 lit. a–c;
+1) odbiorcy paliw gazowych, o którym mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. a–c;
 
 2) właściciela instalacji i urządzeń do odbioru gazu ziemnego zaazotowanego, który nie jest odbiorcą paliw gazowych.
 
@@ -5736,10 +6255,12 @@ b) informacji dotyczących zapotrzebowania na wodór przedsiębiorstw przyłącz
 
 6. W przypadkach, o których mowa w ust. 4 i 5, sprzedawca paliw gazowych, z którym dany odbiorca zawarł umowę sprzedaży paliw gazowych albo umowę kompleksową, może rozwiązać tę umowę w zakresie, w jakim nie może ona być wykonywana z powodu zmiany rodzaju paliwa gazowego w sieci, do której odbiorca jest przyłączony.
 
+<a id="art-17"></a>
 ### Art. 17.
 
-Samorząd województwa uczestniczy w planowaniu zaopatrzenia w energię i paliwa na obszarze województwa w zakresie określonym w art. 19 ust. 5 oraz bada zgodność planów zaopatrzenia w energię i paliwa z polityką energetyczną państwa.
+Samorząd województwa uczestniczy w planowaniu zaopatrzenia w energię i paliwa na obszarze województwa w zakresie określonym w [art. 19](#art-19) ust. 5 oraz bada zgodność planów zaopatrzenia w energię i paliwa z polityką energetyczną państwa.
 
+<a id="art-18"></a>
 ### Art. 18.
 
 1. Do zadań własnych gminy w zakresie zaopatrzenia w energię elektryczną, ciepło i paliwa gazowe należy:
@@ -5784,6 +6305,7 @@ e) części dróg krajowych, innych niż autostrady i drogi ekspresowe w rozumie
 
 4. (uchylony)
 
+<a id="art-19"></a>
 ### Art. 19.
 
 1. Wójt (burmistrz, prezydent miasta) opracowuje projekt założeń do planu zaopatrzenia w ciepło, energię elektryczną i paliwa gazowe, zwany dalej „projektem założeń”.
@@ -5802,7 +6324,7 @@ e) części dróg krajowych, innych niż autostrady i drogi ekspresowe w rozumie
 
 4) zakres współpracy z innymi gminami.
 
-4. Przedsiębiorstwa energetyczne udostępniają nieodpłatnie wójtowi (burmistrzowi, prezydentowi miasta) plany, o których mowa w art. 16 ust. 1, w zakresie dotyczącym terenu tej gminy oraz propozycje niezbędne do opracowania projektu założeń.
+4. Przedsiębiorstwa energetyczne udostępniają nieodpłatnie wójtowi (burmistrzowi, prezydentowi miasta) plany, o których mowa w [art. 16](#art-16) ust. 1, w zakresie dotyczącym terenu tej gminy oraz propozycje niezbędne do opracowania projektu założeń.
 
 5.[163)] Projekt założeń podlega opiniowaniu przez samorząd województwa w zakresie koordynacji współpracy z innymi gminami, planem obszaru przyspieszonego rozwoju instalacji odnawialnego źródła energii, o którym mowa w art. 160g ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, oraz w zakresie zgodności z polityką energetyczną państwa.
 
@@ -5812,9 +6334,10 @@ e) części dróg krajowych, innych niż autostrady i drogi ekspresowe w rozumie
 
 8. Rada gminy uchwala założenia do planu zaopatrzenia w ciepło, energię elektryczną i paliwa gazowe, rozpatrując jednocześnie wnioski, zastrzeżenia i uwagi zgłoszone w czasie wyłożenia projektu założeń do publicznego wglądu.
 
+<a id="art-20"></a>
 ### Art. 20.
 
-1. W przypadku gdy plany przedsiębiorstw energetycznych nie zapewniają realizacji założeń, o których mowa w art. 19 ust. 8, wójt (burmistrz, prezydent miasta) opracowuje projekt planu zaopatrzenia w ciepło, energię elektryczną i paliwa gazowe, dla obszaru gminy lub jej części. Projekt planu opracowywany jest na podstawie uchwalonych przez radę tej gminy założeń i winien być z nim zgodny.
+1. W przypadku gdy plany przedsiębiorstw energetycznych nie zapewniają realizacji założeń, o których mowa w [art. 19](#art-19) ust. 8, wójt (burmistrz, prezydent miasta) opracowuje projekt planu zaopatrzenia w ciepło, energię elektryczną i paliwa gazowe, dla obszaru gminy lub jej części. Projekt planu opracowywany jest na podstawie uchwalonych przez radę tej gminy założeń i winien być z nim zgodny.
 
 2. Projekt planu, o którym mowa w ust. 1, powinien zawierać:
 
@@ -5838,12 +6361,16 @@ e) części dróg krajowych, innych niż autostrady i drogi ekspresowe w rozumie
 
 6. W przypadku gdy nie jest możliwa realizacja planu na podstawie umów, rada gminy – dla zapewnienia zaopatrzenia w ciepło, energię elektryczną i paliwa gazowe – może wskazać w drodze uchwały tę część planu, z którą prowadzone na obszarze gminy działania muszą być zgodne.
 
+<a id="rozdzial-3a"></a>
 ### Rozdział 3a. (uchylony)
 
+<a id="rozdzial-3b"></a>
 ### Rozdział 3b. (uchylony)
 
+<a id="rozdzial-4"></a>
 ### Rozdział 4. Organ do spraw regulacji gospodarki paliwami i energią
 
+<a id="art-21"></a>
 ### Art. 21.
 
 1. Zadania z zakresu spraw regulacji gospodarki paliwami i energią oraz promowania konkurencji realizuje Prezes Urzędu Regulacji Energetyki, zwany dalej „Prezesem URE”.
@@ -5940,7 +6467,7 @@ e) części dróg krajowych, innych niż autostrady i drogi ekspresowe w rozumie
 
 3) stwierdzenia nieważności powołania Prezesa URE lub innych przyczyn nieobjęcia urzędu po dokonaniu powołania.
 
-2o. Osoba wykonująca obowiązki Prezesa URE nie może dokonać zwolnienia, o którym mowa w art. 49 ust. 1.
+2o. Osoba wykonująca obowiązki Prezesa URE nie może dokonać zwolnienia, o którym mowa w [art. 49](#art-49) ust. 1.
 
 3. (uchylony)
 
@@ -5958,6 +6485,7 @@ e) części dróg krajowych, innych niż autostrady i drogi ekspresowe w rozumie
 
 6. Prezes Rady Ministrów, w drodze zarządzenia, nadaje statut URE, określający jego organizację wewnętrzną oraz strukturę terenową.
 
+<a id="art-21a"></a>
 ### Art. 21a.
 
 Organami właściwymi w sprawach regulacji gospodarki paliwami i energią dla:
@@ -5966,10 +6494,12 @@ Organami właściwymi w sprawach regulacji gospodarki paliwami i energią dla:
 
 2) jednostek organizacyjnych Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego są inspekcje gospodarki energetycznej powoływane przez Szefów tych Agencji w uzgodnieniu z Prezesem URE.
 
+<a id="art-22"></a>
 ### Art. 22.
 
 (uchylony)
 
+<a id="art-23"></a>
 ### Art. 23.
 
 1. Prezes URE reguluje działalność przedsiębiorstw energetycznych zgodnie z ustawą i polityką energetyczną państwa, zmierzając do równoważenia interesów przedsiębiorstw energetycznych i odbiorców paliw i energii.
@@ -5980,7 +6510,7 @@ Organami właściwymi w sprawach regulacji gospodarki paliwami i energią dla:
 
 1) udzielanie i cofanie koncesji;
 
-2) zatwierdzanie i kontrolowanie stosowania taryf paliw gazowych, energii elektrycznej i ciepła pod względem zgodności z zasadami określonymi w art. 44, 45 i 46, w tym analizowanie i weryfikowanie kosztów przyjmowanych przez przedsiębiorstwa energetyczne jako uzasadnione do kalkulacji cen i stawek opłat w taryfach;
+2) zatwierdzanie i kontrolowanie stosowania taryf paliw gazowych, energii elektrycznej i ciepła pod względem zgodności z zasadami określonymi w [art. 44](#art-44), 45 i 46, w tym analizowanie i weryfikowanie kosztów przyjmowanych przez przedsiębiorstwa energetyczne jako uzasadnione do kalkulacji cen i stawek opłat w taryfach;
 
 3) ustalanie:
 
@@ -5988,41 +6518,41 @@ a) współczynników korekcyjnych określających projektowaną poprawę efektyw
 
 b) okresu obowiązywania taryf i współczynników korekcyjnych, o których mowa w lit. a,
 
-c) wysokości uzasadnionego zwrotu z kapitału, o którym mowa w art. 45 ust. 1 pkt 1, dla przedsiębiorstw energetycznych przedkładających taryfy do zatwierdzenia,
+c) wysokości uzasadnionego zwrotu z kapitału, o którym mowa w [art. 45](#art-45) ust. 1 pkt 1, dla przedsiębiorstw energetycznych przedkładających taryfy do zatwierdzenia,
 
 d) maksymalnego udziału opłat stałych w łącznych opłatach za świadczenie usług przesyłania lub dystrybucji dla poszczególnych grup odbiorców w taryfach dla paliw gazowych i energii, w przypadkach gdy wymaga tego ochrona interesów odbiorców,
 
 e) (uchylona)
 
-f) wskaźnika referencyjnego, o którym mowa w art. 47 ust. 2f,
+f) wskaźnika referencyjnego, o którym mowa w [art. 47](#art-47) ust. 2f,
 
 g) uzasadnionej stopy zwrotu z kapitału zaangażowanego w realizację zadań określonych w wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych,
 
 h) uzasadnionej stopy zwrotu z wkładu własnego niezbędnego do pozyskania finansowania zadań określonych w wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych przyznanego subwencją, dotacją, pożyczką bezzwrotną lub wsparciem w innej formie z krajowych, unijnych lub międzynarodowych funduszy lub programów;
 
-3a) opracowywanie i zamieszczanie, nie później niż 9 miesięcy przed terminem określonym w art. 16 ust. 15b, w Biuletynie Urzędu Regulacji Energetyki wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych oraz wytycznych i zaleceń zapewniających jednolitą formę planów, o których mowa w art. 16 ust. 1;
+3a) opracowywanie i zamieszczanie, nie później niż 9 miesięcy przed terminem określonym w [art. 16](#art-16) ust. 15b, w Biuletynie Urzędu Regulacji Energetyki wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych oraz wytycznych i zaleceń zapewniających jednolitą formę planów, o których mowa w [art. 16](#art-16) ust. 1;
 
-3b) kontrolowanie wykonania realizacji planu w zakresie, o którym mowa w art. 16 ust. 18a –18d;
+3b) kontrolowanie wykonania realizacji planu w zakresie, o którym mowa w [art. 16](#art-16) ust. 18a –18d;
 
 4) (uchylony)
 
-4a) kontrolowanie wykonywania obowiązków, o których mowa w art. 49b ust. 1;
+4a) kontrolowanie wykonywania obowiązków, o których mowa w [art. 49b](#art-49b) ust. 1;
 
-5) uzgadnianie projektów planów, o których mowa w art. 16 i art. 161;
+5) uzgadnianie projektów planów, o których mowa w [art. 16](#art-16) i [art. 161](#art-161);
 
-6)[164)] wyznaczanie operatorów, o których mowa w art. 9h ust. 1, 1c, 9 i 9a, i cofanie wyznaczenia operatorów, o których mowa w art. 9h ust. 8d–8f, oraz publikowanie w Biuletynie Urzędu Regulacji Energetyki i zamieszczanie na swojej stronie internetowej w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki informacji o danych adresowych, obszarze działania, okresie wyznaczenia tych operatorów, a także o dacie wydania decyzji o cofnięciu wyznaczenia operatorów, o których mowa w art. 9h ust. 8d–8f;
+6)[164)] wyznaczanie operatorów, o których mowa w [art. 9h](#art-9h) ust. 1, 1c, 9 i 9a, i cofanie wyznaczenia operatorów, o których mowa w [art. 9h](#art-9h) ust. 8d–8f, oraz publikowanie w Biuletynie Urzędu Regulacji Energetyki i zamieszczanie na swojej stronie internetowej w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki informacji o danych adresowych, obszarze działania, okresie wyznaczenia tych operatorów, a także o dacie wydania decyzji o cofnięciu wyznaczenia operatorów, o których mowa w [art. 9h](#art-9h) ust. 8d–8f;
 
 6a) przyznawanie certyfikatu niezależności;
 
-6b) kontrolowanie wypełniania przez właściciela sieci przesyłowej oraz operatora systemu przesyłowego gazowego obowiązków określonych w niniejszej ustawie oraz umowie, o której mowa w art. 9h ust. 3 pkt 2, w tym monitorowanie powiązań pomiędzy właścicielem sieci przesyłowej a operatorem systemu przesyłowego gazowego oraz przepływu informacji między nimi;
+6b) kontrolowanie wypełniania przez właściciela sieci przesyłowej oraz operatora systemu przesyłowego gazowego obowiązków określonych w niniejszej ustawie oraz umowie, o której mowa w [art. 9h](#art-9h) ust. 3 pkt 2, w tym monitorowanie powiązań pomiędzy właścicielem sieci przesyłowej a operatorem systemu przesyłowego gazowego oraz przepływu informacji między nimi;
 
 6c) informowanie Komisji Europejskiej o wyznaczeniu operatorów systemów przesyłowych;
 
-6d) wydawanie decyzji, o której mowa w art. 9h ust. 3e;
+6d) wydawanie decyzji, o której mowa w [art. 9h](#art-9h) ust. 3e;
 
-7) udzielanie i cofanie zwolnienia z obowiązku świadczenia usług, o których mowa w art. 4 ust. 2, art. 4c, art. 4d ust. 1 i art. 4e ust. 1;
+7) udzielanie i cofanie zwolnienia z obowiązku świadczenia usług, o których mowa w [art. 4](#art-4) ust. 2, [art. 4c](#art-4c), [art. 4d](#art-4d) ust. 1 i [art. 4e](#art-4e) ust. 1;
 
-8) zatwierdzanie instrukcji ruchu i eksploatacji sieci oraz instrukcji ruchu i eksploatacji instalacji, o których mowa w art. 9g, oraz ich zmiany;
+8) zatwierdzanie instrukcji ruchu i eksploatacji sieci oraz instrukcji ruchu i eksploatacji instalacji, o których mowa w [art. 9g](#art-9g), oraz ich zmiany;
 
 9) organizowanie i przeprowadzanie przetargów dotyczących:
 
@@ -6038,9 +6568,9 @@ b) budowy nowych mocy wytwórczych energii elektrycznej i realizacji przedsięwz
 
 11b) zatwierdzanie metod alokacji zdolności przesyłowych i zarządzania ograniczeniami, opracowanych zgodnie z przepisami rozporządzenia 2019/943 oraz aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia lub rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowej gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 oraz aktów prawnych wydanych na podstawie art. 6 ust. 11 akapit drugi i art. 23 ust. 2 akapit drugi rozporządzenia 715/2009;
 
-11c) rozstrzyganie spraw w zakresie określonym w art. 8a;
+11c) rozstrzyganie spraw w zakresie określonym w [art. 8a](#art-8a);
 
-11d) zatwierdzanie wymogów ogólnego stosowania, o których mowa w art. 9ga ust. 1;
+11d) zatwierdzanie wymogów ogólnego stosowania, o których mowa w [art. 9ga](#art-9ga) ust. 1;
 
 11e) rozstrzyganie spraw w zakresie określonym w art. 7 ust. 8 rozporządzenia 2016/631, art. 6 ust. 8 rozporządzenia 2016/1388 oraz art. 5 ust. 8 rozporządzenia 2016/1447;
 
@@ -6052,7 +6582,7 @@ b) budowy nowych mocy wytwórczych energii elektrycznej i realizacji przedsięwz
 
 11i)[166)] zatwierdzanie specjalnej opłaty, o której mowa w art. 5 ust. 4 rozporządzenia 2024/1789;
 
-12) rozstrzyganie sporów w zakresie określonym w art. 8 ust. 1;
+12) rozstrzyganie sporów w zakresie określonym w [art. 8](#art-8) ust. 1;
 
 13) nakładanie kar pieniężnych na zasadach określonych w ustawie;
 
@@ -6114,7 +6644,7 @@ i) występowania restrykcyjnych praktyk umownych, w tym klauzul wyłączności, 
 
 j) usuwania nieuzasadnionych przeszkód i ograniczeń w rozwijaniu zużycia wytworzonej we własnym zakresie energii elektrycznej i rozwoju obywatelskich społeczności energetycznych,
 
-k) realizacji projektów, o których mowa w art. 24d ust. 1,
+k) realizacji projektów, o których mowa w [art. 24d](#art-24d) ust. 1,
 
 l) funkcjonowania partnerskiego handlu energią z odnawialnych źródeł energii, w tym w zakresie prawnych i organizacyjnych barier jego rozwoju;
 
@@ -6140,7 +6670,7 @@ f) bezpieczeństwa dostarczania paliw gazowych i energii elektrycznej,
 
 g) wypełniania przez operatorów systemów przesyłowych i dystrybucyjnych ich zadań,
 
-h) wypełniania przez przedsiębiorstwo energetyczne obowiązków wymienionych w art. 44;
+h) wypełniania przez przedsiębiorstwo energetyczne obowiązków wymienionych w [art. 44](#art-44);
 
 20a)[167)] monitorowanie funkcjonowania systemu wodorowego w zakresie:
 
@@ -6154,7 +6684,7 @@ d) bezpieczeństwa dostarczania wodoru,
 
 e) wypełniania przez operatorów systemu wodorowego ich zadań,
 
-f) wypełniania przez przedsiębiorstwo energetyczne obowiązków wymienionych w art. 44;
+f) wypełniania przez przedsiębiorstwo energetyczne obowiązków wymienionych w [art. 44](#art-44);
 
 21) (uchylony)
 
@@ -6182,15 +6712,15 @@ h) wykazu agregatorów,
 
 i) wykazu linii bezpośrednich,
 
-j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o których mowa w art. 9h ust. 8g, l)168) rejestru, o którym mowa w art. 9h ust. 19;
+j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o których mowa w [art. 9h](#art-9h) ust. 8g, l)168) rejestru, o którym mowa w [art. 9h](#art-9h) ust. 19;
 
 21d) podejmowanie działań informacyjnych mających na celu ochronę uzasadnionych interesów odbiorców paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, w szczególności publikowanie na stronie internetowej URE informacji dotyczących powtarzających się lub istotnych problemów prowadzących do sporów między przedsiębiorstwami energetycznymi a odbiorcami paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, a także o przedsiębiorstwach energetycznych, na które zostały złożone uzasadnione skargi tych odbiorców dotyczące tych problemów;
 
 21e) wydawanie decyzji w sprawie uznania systemu dystrybucyjnego za zamknięty oraz kontrolowanie cen i stawek opłat stosowanych w tym systemie;
 
-21f) przyznawanie certyfikatu, o którym mowa w art. 9h3,
+21f) przyznawanie certyfikatu, o którym mowa w [art. 9h3](#art-9h3),
 
-21g) wydawanie decyzji, o których mowa w art. 9d1 ust. 2;
+21g) wydawanie decyzji, o których mowa w [art. 9d1](#art-9d1) ust. 2;
 
 22) wykonywanie innych zadań określonych w ustawie lub ustawach odrębnych.
 
@@ -6198,15 +6728,15 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 1) warunki podejmowania i wykonywania działalności gospodarczej w zakresie wytwarzania, przesyłania lub dystrybucji energii elektrycznej;
 
-2) realizację planów, o których mowa w art. 16 ust. 2 i 4, z uwzględnieniem zamierzeń inwestycyjnych wynikających ze sprawozdania, o którym mowa w art. 15b ust. 3.
+2) realizację planów, o których mowa w [art. 16](#art-16) ust. 2 i 4, z uwzględnieniem zamierzeń inwestycyjnych wynikających ze sprawozdania, o którym mowa w [art. 15b](#art-15b) ust. 3.
 
-2b. Raport, o którym mowa w ust. 2a, może zawierać także propozycje zmian przepisów określających warunki funkcjonowania systemu elektroenergetycznego, o których mowa w art. 9 ust. 3, i szczegółowych zasad kształtowania taryf dla energii elektrycznej, określonych w przepisach wydanych na podstawie art. 46 ust. 3, służących rozwojowi zdolności wytwórczych i przesyłowych energii elektrycznej, zgodnie z przyjętą polityką energetyczną państwa, o której mowa w art. 15a, i wnioskami wynikającymi ze sprawozdania, o którym mowa w art. 15b ust. 3.
+2b. Raport, o którym mowa w ust. 2a, może zawierać także propozycje zmian przepisów określających warunki funkcjonowania systemu elektroenergetycznego, o których mowa w [art. 9](#art-9) ust. 3, i szczegółowych zasad kształtowania taryf dla energii elektrycznej, określonych w przepisach wydanych na podstawie [art. 46](#art-46) ust. 3, służących rozwojowi zdolności wytwórczych i przesyłowych energii elektrycznej, zgodnie z przyjętą polityką energetyczną państwa, o której mowa w [art. 15a](#art-15a), i wnioskami wynikającymi ze sprawozdania, o którym mowa w [art. 15b](#art-15b) ust. 3.
 
 2c.[169)] Prezes URE przekazuje raport, o którym mowa w ust. 2a, ministrowi właściwemu do spraw energii oraz ministrowi właściwemu do spraw gospodarki surowcami energetycznymi, co 2 lata, w terminie do dnia 30 czerwca danego roku.
 
 2d. Raport, o którym mowa w ust. 2a, Prezes URE udostępnia w Biuletynie Informacji Publicznej obsługującego go urzędu.
 
-3.[170)] W sprawach, o których mowa w ust. 2 pkt 1 i 5, z wyjątkiem spraw wymienionych w art. 32 ust. 1 pkt 4 oraz ust. 1b, niezbędna jest opinia właściwego miejscowo zarządu województwa.
+3.[170)] W sprawach, o których mowa w ust. 2 pkt 1 i 5, z wyjątkiem spraw wymienionych w [art. 32](#art-32) ust. 1 pkt 4 oraz ust. 1b, niezbędna jest opinia właściwego miejscowo zarządu województwa.
 
 3a. W sprawach z wniosku o udzielenie, przedłużenie albo cofnięcie koncesji na wytwarzanie paliw ciekłych, magazynowanie lub przeładunek paliw ciekłych oraz obrót paliwami ciekłymi z zagranicą z wyłączeniem spraw o zmianę tych koncesji, Prezes URE zasięga opinii Prezesa Rządowej Agencji Rezerw Strategicznych, Szefa Krajowej Administracji Skarbowej, Prokuratora Generalnego oraz Komendanta Głównego Policji.
 
@@ -6222,27 +6752,30 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 6. Prezes URE współpracując z organami regulacyjnymi państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz z Agencją zapewnia taki sam stopień poufności otrzymanych informacji, jaki jest wymagany od organu udostępniającego informacje.
 
-7. Prezes URE kontroluje zapewnienie równego i otwartego dostępu do sieci transportowej dwutlenku węgla i podziemnych składowisk dwutlenku węgla oraz rozstrzyga spory w zakresie określonym w art. 11n ust. 7.
+7. Prezes URE kontroluje zapewnienie równego i otwartego dostępu do sieci transportowej dwutlenku węgla i podziemnych składowisk dwutlenku węgla oraz rozstrzyga spory w zakresie określonym w [art. 11n](#art-11n) ust. 7.
 
 8. Prezes URE, co najmniej raz w roku, zamieszcza w Biuletynie Urzędu Regulacji Energetyki zalecenia dotyczące zapewnienia zgodności cen sprzedaży energii elektrycznej z wymogami konkurencyjnego rynku energii i przekazuje te zalecenia, w przypadku gdy uzna to za konieczne, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów.
 
 9. W przypadku gdy Prezes URE nie osiągnie porozumienia z organami regulacyjnymi w celu wspólnego wskazywania przypadków niewykonywania przez ENTSO energii elektrycznej i organizację OSD UE ich obowiązków wynikających z rozporządzenia 2019/943 oraz aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia oraz w innych przepisach prawa Unii Europejskiej w terminie 4 miesięcy od dnia rozpoczęcia konsultacji, sprawę przekazuje się do decyzji Agencji zgodnie z art. 6 ust. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/942 z dnia 5 czerwca 2019 r. ustanawiającego Agencję Unii Europejskiej ds. Współpracy Organów Regulacji Energetyki (Dz. Urz. UE L 158 z 14.06.2019, str. 22).
 
+<a id="art-23a"></a>
 ### Art. 23a.
 
 1. Uczestnik rynku rejestruje się, zgodnie z art. 9 ust. 1 rozporządzenia 1227/2011, w krajowym rejestrze uczestników rynku, o którym mowa w art. 9 ust. 2 tego rozporządzenia.
 
 2. Rejestracji, o której mowa w ust. 1, dokonuje się na formularzu rejestracyjnym, o którym mowa w art. 9 ust. 4 rozporządzenia 1227/2011, udostępnianym na stronie internetowej URE.
 
+<a id="art-23b"></a>
 ### Art. 23b.
 
 1. Prezes URE przeprowadza kontrolę lub prowadzi postępowanie wyjaśniające w sprawach manipulacji na rynku lub próby manipulacji na rynku oraz niezgodnego z prawem wykorzystywania informacji wewnętrznej w zakresie produktów energetycznych sprzedawanych w obrocie hurtowym, które nie są instrumentami finansowymi.
 
 2. Przez niezgodne z prawem wykorzystywanie informacji wewnętrznej rozumie się działania wbrew zakazom określonym w art. 3 ust. 1 rozporządzenia 1227/2011.
 
+<a id="art-23c"></a>
 ### Art. 23c.
 
-1. Kontrola, o której mowa w art. 23b, zwana dalej „kontrolą REMIT”, jest prowadzona przez upoważnionego pracownika URE, zwanego dalej „pracownikiem kontrolującym”, u każdego uczestnika rynku lub podmiotu działającego w imieniu uczestnika rynku, zwanych dalej „podmiotami kontrolowanymi”.
+1. Kontrola, o której mowa w [art. 23b](#art-23b), zwana dalej „kontrolą REMIT”, jest prowadzona przez upoważnionego pracownika URE, zwanego dalej „pracownikiem kontrolującym”, u każdego uczestnika rynku lub podmiotu działającego w imieniu uczestnika rynku, zwanych dalej „podmiotami kontrolowanymi”.
 
 2. Prezes URE może upoważnić do udziału w kontroli REMIT osoby posiadające wiadomości specjalne, jeżeli do jej przeprowadzenia niezbędne są tego rodzaju wiadomości.
 
@@ -6270,6 +6803,7 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 5. W razie nieobecności podmiotu kontrolowanego lub osoby przez niego upoważnionej, upoważnienie do przeprowadzenia kontroli REMIT może być okazane innemu pracownikowi podmiotu kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, lub przywołanemu świadkowi, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę. W takim przypadku upoważnienie doręcza się niezwłocznie podmiotowi kontrolowanemu, nie później jednak niż trzeciego dnia od dnia wszczęcia tej kontroli.
 
+<a id="art-23d"></a>
 ### Art. 23d.
 
 1. W toku kontroli REMIT pracownik kontrolujący ma prawo:
@@ -6278,21 +6812,22 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 2) żądania udostępnienia akt, ksiąg, wszelkiego rodzaju dokumentów i nośników informacji związanych z przedmiotem kontroli oraz ich odpisów i wyciągów, a także sporządzania z nich notatek i kopii;
 
-3) żądania od osób, o których mowa w art. 23e ust. 1, ustnych wyjaśnień dotyczących przedmiotu kontroli;
+3) żądania od osób, o których mowa w [art. 23e](#art-23e) ust. 1, ustnych wyjaśnień dotyczących przedmiotu kontroli;
 
 4) żądania informacji od osób, które biorą lub brały udział w sposób pośredni lub bezpośredni w zawieraniu kontrolowanych transakcji;
 
 5) przeprowadzania kontroli w siedzibie podmiotu kontrolowanego.
 
-2. Osobie upoważnionej do udziału w kontroli REMIT na podstawie art. 23c ust. 2 przysługują uprawnienia pracownika kontrolującego, o których mowa w ust. 1 pkt 1 i 2, oraz uprawnienie do udziału wraz z pracownikiem kontrolującym w przeszukaniu, o którym mowa w art. 23g.
+2. Osobie upoważnionej do udziału w kontroli REMIT na podstawie [art. 23c](#art-23c) ust. 2 przysługują uprawnienia pracownika kontrolującego, o których mowa w ust. 1 pkt 1 i 2, oraz uprawnienie do udziału wraz z pracownikiem kontrolującym w przeszukaniu, o którym mowa w [art. 23g](#art-23g).
 
 3. W toku kontroli REMIT pracownik kontrolujący może korzystać z pomocy funkcjonariuszy innych organów kontroli państwowej lub Policji. Organy kontroli państwowej lub Policja wykonują czynności na polecenie kontrolującego.
 
 4. W uzasadnionych przypadkach przebieg kontroli REMIT lub poszczególne czynności w jej toku, po uprzednim poinformowaniu podmiotu kontrolowanego, mogą być utrwalane przy pomocy urządzeń rejestrujących obraz lub dźwięk. Informatyczne nośniki danych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, na których zarejestrowano przebieg kontroli lub poszczególne czynności w jej toku, stanowią załącznik do protokołu kontroli.
 
+<a id="art-23e"></a>
 ### Art. 23e.
 
-1. W toku kontroli REMIT podmiot kontrolowany, osoba przez niego upoważniona, posiadacz lokalu mieszkalnego, pomieszczenia, nieruchomości lub środka transportu, o których mowa w art. 23g ust. 1, są obowiązani do współdziałania z pracownikiem kontrolującym polegającego na:
+1. W toku kontroli REMIT podmiot kontrolowany, osoba przez niego upoważniona, posiadacz lokalu mieszkalnego, pomieszczenia, nieruchomości lub środka transportu, o których mowa w [art. 23g](#art-23g) ust. 1, są obowiązani do współdziałania z pracownikiem kontrolującym polegającego na:
 
 1) udzielaniu żądanych informacji;
 
@@ -6302,6 +6837,7 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 2. Osoby, o których mowa w ust. 1, mogą odmówić współdziałania, gdy naraziłoby to je lub ich małżonka, wstępnych, zstępnych, rodzeństwo oraz powinowatych w tej samej linii lub stopniu, jak również osoby pozostające w stosunku przysposobienia, opieki lub kurateli, a także osobę pozostającą we wspólnym pożyciu, na odpowiedzialność karną. Prawo odmowy współdziałania w toku kontroli REMIT trwa po ustaniu małżeństwa lub rozwiązaniu stosunku przysposobienia, opieki lub kurateli, a także po ustaniu wspólnego pożycia.
 
+<a id="art-23f"></a>
 ### Art. 23f.
 
 1. Podmiot kontrolowany zapewnia pracownikowi kontrolującemu oraz osobom upoważnionym do udziału w kontroli REMIT warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, a w szczególności:
@@ -6318,6 +6854,7 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 3. Czynności kontrolne mogą być podejmowane również poza siedzibą podmiotu kontrolowanego, w szczególności w siedzibie URE, jeżeli jest to uzasadnione charakterem tych czynności oraz może przyczynić się do szybszego i skuteczniejszego przeprowadzenia kontroli.
 
+<a id="art-23g"></a>
 ### Art. 23g.
 
 1. Jeżeli istnieją uzasadnione podstawy do przypuszczenia, że w lokalu mieszkalnym lub w jakimkolwiek innym pomieszczeniu, nieruchomości lub środku transportu są przechowywane przedmioty, akta, księgi, dokumenty i inne informatyczne nośniki danych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, mogące mieć wpływ na ustalenie stanu faktycznego istotnego dla prowadzonego postępowania, pracownik kontrolujący w toku kontroli REMIT może również dokonać przeszukania tych pomieszczeń lub rzeczy, za zgodą sądu ochrony konkurencji i konsumentów, udzieloną na wniosek Prezesa URE.
@@ -6328,6 +6865,7 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 4. W sprawach nieuregulowanych w ustawie przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420) mające zastosowanie do przeszukania stosuje się odpowiednio.
 
+<a id="art-23h"></a>
 ### Art. 23h.
 
 1. Pracownik kontrolujący lub osoby upoważnione do udziału w kontroli REMIT ustalają stan faktyczny na podstawie dowodów zebranych w toku tej kontroli, a w szczególności dokumentów, przedmiotów, oględzin oraz ustnych lub pisemnych wyjaśnień i oświadczeń oraz innych nośników informacji.
@@ -6338,6 +6876,7 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 2) złożenie, za pokwitowaniem udzielonym podmiotowi kontrolowanemu, na przechowanie w wyznaczonym miejscu.
 
+<a id="art-23i"></a>
 ### Art. 23i.
 
 1. Prezes URE w toku kontroli REMIT może wydać postanowienie o zajęciu akt, ksiąg, innych wszelkiego rodzaju dokumentów lub informatycznych nośników danych, w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, oraz innych przedmiotów mogących stanowić dowód w sprawie, na czas niezbędny do przeprowadzenia kontroli, nie dłuższy niż 7 dni.
@@ -6348,16 +6887,18 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 4. Do zabezpieczenia na miejscu kontroli, w celu wykonywania czynności w toku kontroli, akt, ksiąg, innych wszelkiego rodzaju dokumentów lub informatycznych nośników danych oraz innych przedmiotów mogących stanowić dowód w sprawie, jak również pomieszczeń podmiotu kontrolowanego, w których znajdują się te dokumenty lub przedmioty, nie stosuje się przepisów ust. 1–3.
 
+<a id="art-23j"></a>
 ### Art. 23j.
 
-1. Przedmioty podlegające zajęciu, o którym mowa w art. 23i ust. 1, w czasie kontroli REMIT należy, po dokonaniu oględzin i sporządzeniu protokołu zajęcia, zabrać albo oddać na przechowanie osobie godnej zaufania z zaznaczeniem obowiązku ich przedstawienia na każde żądanie Prezesa URE.
+1. Przedmioty podlegające zajęciu, o którym mowa w [art. 23i](#art-23i) ust. 1, w czasie kontroli REMIT należy, po dokonaniu oględzin i sporządzeniu protokołu zajęcia, zabrać albo oddać na przechowanie osobie godnej zaufania z zaznaczeniem obowiązku ich przedstawienia na każde żądanie Prezesa URE.
 
 2. Protokół zajęcia przedmiotów powinien zawierać: oznaczenie sprawy, z którą zajęcie ma związek, podanie dokładnej godziny rozpoczęcia i zakończenia czynności, dokładną listę zajętych przedmiotów i, w miarę potrzeby, ich opis, a ponadto wskazanie postanowienia Prezesa URE o zajęciu. Protokół podpisuje dokonujący zajęcia i przedstawiciel podmiotu kontrolowanego.
 
 3. Dokonujący zajęcia przedmiotów jest obowiązany do natychmiastowego wręczenia osobom zainteresowanym pokwitowania stwierdzającego, jakie przedmioty i przez kogo zostały zajęte, oraz do niezwłocznego powiadomienia osoby, której przedmioty zostały zajęte.
 
-4. Zajęte przedmioty należy zwrócić niezwłocznie po stwierdzeniu, że są zbędne dla prowadzonego postępowania, albo po uchyleniu przez sąd ochrony konkurencji i konsumentów postanowienia o zajęciu przedmiotów, jednak nie później niż po upływie terminu, o którym mowa w art. 23i ust. 1.
+4. Zajęte przedmioty należy zwrócić niezwłocznie po stwierdzeniu, że są zbędne dla prowadzonego postępowania, albo po uchyleniu przez sąd ochrony konkurencji i konsumentów postanowienia o zajęciu przedmiotów, jednak nie później niż po upływie terminu, o którym mowa w [art. 23i](#art-23i) ust. 1.
 
+<a id="art-23k"></a>
 ### Art. 23k.
 
 1. Przebieg przeprowadzonej kontroli REMIT pracownik kontrolujący przedstawia w protokole kontroli.
@@ -6380,6 +6921,7 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 3. Materiał dowodowy zgromadzony w toku kontroli REMIT stanowi załącznik do protokołu kontroli.
 
+<a id="art-23l"></a>
 ### Art. 23l.
 
 1. Protokół kontroli REMIT podpisują pracownik kontrolujący i podmiot kontrolowany.
@@ -6402,6 +6944,7 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 10. Podmiot kontrolowany niezwłocznie, nie później niż w dniu następnym po upływie terminu do usunięcia nieprawidłowości wskazanych w zaleceniach, przekazuje Prezesowi URE informację o sposobie ich uwzględnienia, wskazując szczegółowy sposób usunięcia stwierdzonych nieprawidłowości.
 
+<a id="art-23m"></a>
 ### Art. 23m.
 
 1. Prezes URE, Przewodniczący Komisji Nadzoru Finansowego oraz Prezes Urzędu Ochrony Konkurencji i Konsumentów współpracują i wzajemnie przekazują informacje, w tym informacje prawnie chronione na podstawie odrębnych przepisów, w zakresie niezbędnym do wykonywania zadań wynikających z rozporządzenia 1227/2011, w tym na potrzeby prowadzonej kontroli lub postępowania wyjaśniającego, o których mowa w art. 23b. Organy te są obowiązane zapewnić ochronę informacji przekazywanych na podstawie rozporządzenia 1227/2011 oraz zapobiegać ich niezgodnemu z prawem wykorzystywaniu.
@@ -6410,6 +6953,7 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 3. Organy, o których mowa w ust. 1, mogą zawierać porozumienia o współpracy i wymianie informacji.
 
+<a id="art-23n"></a>
 ### Art. 23n.
 
 1. Prezes URE może przekazać do publicznej wiadomości informację o środkach lub sankcjach zastosowanych za naruszenie obowiązków określonych w rozporządzeniu 1227/2011.
@@ -6420,23 +6964,25 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 4. Informacje, o których mowa w ust. 1, są podawane poprzez zamieszczenie na stronie internetowej Prezesa URE.
 
+<a id="art-23o"></a>
 ### Art. 23o.
 
-1. W przypadku gdy w związku z podejrzeniem popełnienia przestępstwa określonego w art. 57a–57d postępowanie przygotowawcze jest prowadzone z urzędu lub na podstawie zawiadomienia Prezesa URE lub innego podmiotu, prokurator zawiadamia o tym Prezesa URE, wskazując w zawiadomieniu firmę (nazwę) lub inne oznaczenie podmiotu, pod którym prowadzi on działalność, w związku z którą jest prowadzone postępowanie.
+1. W przypadku gdy w związku z podejrzeniem popełnienia przestępstwa określonego w [art. 57a](#art-57a)–57d postępowanie przygotowawcze jest prowadzone z urzędu lub na podstawie zawiadomienia Prezesa URE lub innego podmiotu, prokurator zawiadamia o tym Prezesa URE, wskazując w zawiadomieniu firmę (nazwę) lub inne oznaczenie podmiotu, pod którym prowadzi on działalność, w związku z którą jest prowadzone postępowanie.
 
-2. Prokurator lub sąd w sprawach o przestępstwa określone w art. 57a–57d przekazują Prezesowi URE informacje o prawomocnej odmowie wszczęcia postępowania przygotowawczego albo o prawomocnym umorzeniu postępowania przygotowawczego, a w przypadku wniesienia aktu oskarżenia informację o prawomocnym orzeczeniu sądu.
+2. Prokurator lub sąd w sprawach o przestępstwa określone w [art. 57a](#art-57a)–57d przekazują Prezesowi URE informacje o prawomocnej odmowie wszczęcia postępowania przygotowawczego albo o prawomocnym umorzeniu postępowania przygotowawczego, a w przypadku wniesienia aktu oskarżenia informację o prawomocnym orzeczeniu sądu.
 
+<a id="art-23p"></a>
 ### Art. 23p.
 
-1. W celu ustalenia, czy istnieją podstawy do złożenia zawiadomienia o podejrzeniu popełnienia przestępstwa określonego w art. 57a–57d, Prezes URE może zarządzić przeprowadzenie postępowania wyjaśniającego. Postępowanie wyjaśniające nie może trwać dłużej niż 6 miesięcy.
+1. W celu ustalenia, czy istnieją podstawy do złożenia zawiadomienia o podejrzeniu popełnienia przestępstwa określonego w [art. 57a](#art-57a)–57d, Prezes URE może zarządzić przeprowadzenie postępowania wyjaśniającego. Postępowanie wyjaśniające nie może trwać dłużej niż 6 miesięcy.
 
-2. Postępowanie wyjaśniające prowadzi pracownik URE pisemnie upoważniony przez Prezesa URE. W zakresie upoważnienia przepisy art. 23c ust. 3–5 stosuje się odpowiednio.
+2. Postępowanie wyjaśniające prowadzi pracownik URE pisemnie upoważniony przez Prezesa URE. W zakresie upoważnienia przepisy [art. 23c](#art-23c) ust. 3–5 stosuje się odpowiednio.
 
-3. Do złożenia pisemnych lub ustnych wyjaśnień oraz do wydania dokumentu lub innego nośnika informacji można wezwać każdego, kto dysponuje określoną wiedzą, dokumentem lub nośnikiem. Przepis art. 23e stosuje się odpowiednio.
+3. Do złożenia pisemnych lub ustnych wyjaśnień oraz do wydania dokumentu lub innego nośnika informacji można wezwać każdego, kto dysponuje określoną wiedzą, dokumentem lub nośnikiem. Przepis [art. 23e](#art-23e) stosuje się odpowiednio.
 
-4. Do czynności podejmowanych w toku postępowania wyjaśniającego przepisy art. 23d ust. 1 i 4, art. 23f oraz art. 23i stosuje się odpowiednio.
+4. Do czynności podejmowanych w toku postępowania wyjaśniającego przepisy [art. 23d](#art-23d) ust. 1 i 4, [art. 23f](#art-23f) oraz [art. 23i](#art-23i) stosuje się odpowiednio.
 
-5. W toku postępowania wyjaśniającego, w granicach koniecznych do sprawdzenia, czy zachodzi uzasadnione podejrzenie popełnienia przestępstwa określonego w art. 57a–57d, Prezes URE może zażądać od:
+5. W toku postępowania wyjaśniającego, w granicach koniecznych do sprawdzenia, czy zachodzi uzasadnione podejrzenie popełnienia przestępstwa określonego w [art. 57a](#art-57a)–57d, Prezes URE może zażądać od:
 
 1) Szefa Krajowej Administracji Skarbowej – udostępnienia określonych informacji stanowiących tajemnicę skarbową;
 
@@ -6448,48 +6994,54 @@ j) wykazu obywatelskich społeczności energetycznych, k)168) wykazów, o który
 
 8. Zamknięcie postępowania wyjaśniającego nie stanowi przeszkody do ponownego jego przeprowadzenia o ten sam czyn, chyba że nastąpiło przedawnienie karalności przestępstwa.
 
+<a id="art-23r"></a>
 ### Art. 23r.
 
 1. Prezes URE przeprowadza kontrolę lub prowadzi postępowanie wyjaśniające w sprawie naruszenia:
 
-1) warunków prowadzenia działalności objętej koncesjami, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych, albo wpisem do rejestru podmiotów przywożących lub
+1) warunków prowadzenia działalności objętej koncesjami, o których mowa w [art. 32](#art-32) ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych, albo wpisem do rejestru podmiotów przywożących lub
 
-2) warunków udzielonych koncesji, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych.
+2) warunków udzielonych koncesji, o których mowa w [art. 32](#art-32) ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych.
 
 2. Kontrole, o których mowa w ust. 1, prowadzone są zgodnie z planem kontroli, przygotowywanym corocznie przez Prezesa URE.
 
 3. W ramach realizacji zadań lub kontroli prowadzonych na zasadach i w trybach określonych w odrębnych przepisach: Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Krajowej Administracji Skarbowej, Prezes Rządowej Agencji Rezerw Strategicznych, Prezes Urzędu Dozoru Technicznego, Dyrektor Transportowego Dozoru Technicznego, Inspekcja Handlowa, Państwowa Inspekcja Pracy oraz organy: Policji, Prokuratury, Inspekcji Ochrony Środowiska, Państwowej Straży Pożarnej, nadzoru budowlanego, administracji miar i Państwowej Inspekcji Sanitarnej kontrolują spełnienie obowiązku:
 
-1) posiadania koncesji, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych;
+1) posiadania koncesji, o których mowa w [art. 32](#art-32) ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych;
 
-2) wpisu do rejestru, o którym mowa w art. 32a;
+2) wpisu do rejestru, o którym mowa w [art. 32a](#art-32a);
 
-3) zgłoszenia infrastruktury paliw ciekłych, o którym mowa w art. 43e.
+3) zgłoszenia infrastruktury paliw ciekłych, o którym mowa w [art. 43e](#art-43e).
 
-4. Organy, o których mowa w ust. 3, mogą kontrolować spełnienie wymogu prowadzenia sprzedaży paliw ciekłych i świadczenia usług magazynowania lub przeładunku paliw ciekłych, przesyłania lub dystrybucji paliw ciekłych w sposób zgodny z art. 43a.
+4. Organy, o których mowa w ust. 3, mogą kontrolować spełnienie wymogu prowadzenia sprzedaży paliw ciekłych i świadczenia usług magazynowania lub przeładunku paliw ciekłych, przesyłania lub dystrybucji paliw ciekłych w sposób zgodny z [art. 43a](#art-43a).
 
 5. W toku postępowania kontrolnego lub wyjaśniającego, Prezes URE współpracuje z organami, o których mowa w ust. 3, które zobowiązane są do przekazywania Prezesowi URE wszelkich posiadanych informacji i dokumentów, które mogą posłużyć do stwierdzenia, czy nastąpiło naruszenie warunków, o których mowa w ust. 1.
 
+<a id="art-23s"></a>
 ### Art. 23s.
 
-1. W celu wsparcia właściwej realizacji postępowań kontrolnych, o których mowa w art. 23r ust. 3 i 4, Prezes URE publikuje w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki informator kontroli, zawierający opis wymagań i obowiązków wynikających z przepisów, które powinny być sprawdzane w toku kontroli przeprowadzanej na podstawie przepisów odrębnych.
+1. W celu wsparcia właściwej realizacji postępowań kontrolnych, o których mowa w [art. 23r](#art-23r) ust. 3 i 4, Prezes URE publikuje w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki informator kontroli, zawierający opis wymagań i obowiązków wynikających z przepisów, które powinny być sprawdzane w toku kontroli przeprowadzanej na podstawie przepisów odrębnych.
 
 2. Prezes URE co najmniej raz w roku przekazuje organom kontroli aktualny informator, o którym mowa w ust. 1.
 
+<a id="art-23t"></a>
 ### Art. 23t.
 
-Do prowadzenia kontroli, o której mowa w art. 23r ust. 1, przepisy art. 23c–23l stosuje się odpowiednio.
+Do prowadzenia kontroli, o której mowa w [art. 23r](#art-23r) ust. 1, przepisy [art. 23c](#art-23c)–23l stosuje się odpowiednio.
 
+<a id="art-23u"></a>
 ### Art. 23u.
 
-1. W przypadku gdy w związku z podejrzeniem popełnienia przestępstwa określonego w art. 57g postępowanie przygotowawcze jest prowadzone z urzędu lub na podstawie zawiadomienia Prezesa URE lub innego podmiotu, prokurator zawiadamia o tym Prezesa URE, wskazując w zawiadomieniu firmę (nazwę) lub inne oznaczenie podmiotu, pod którym prowadzi on działalność, w związku z którą jest prowadzone postępowanie.
+1. W przypadku gdy w związku z podejrzeniem popełnienia przestępstwa określonego w [art. 57g](#art-57g) postępowanie przygotowawcze jest prowadzone z urzędu lub na podstawie zawiadomienia Prezesa URE lub innego podmiotu, prokurator zawiadamia o tym Prezesa URE, wskazując w zawiadomieniu firmę (nazwę) lub inne oznaczenie podmiotu, pod którym prowadzi on działalność, w związku z którą jest prowadzone postępowanie.
 
-2. Prokurator lub sąd w sprawach o przestępstwo określone w art. 57g przekazują Prezesowi URE informacje o prawomocnej odmowie wszczęcia postępowania przygotowawczego albo o prawomocnym umorzeniu postępowania przygotowawczego, a w przypadku wniesienia aktu oskarżenia informację o prawomocnym orzeczeniu sądu.
+2. Prokurator lub sąd w sprawach o przestępstwo określone w [art. 57g](#art-57g) przekazują Prezesowi URE informacje o prawomocnej odmowie wszczęcia postępowania przygotowawczego albo o prawomocnym umorzeniu postępowania przygotowawczego, a w przypadku wniesienia aktu oskarżenia informację o prawomocnym orzeczeniu sądu.
 
+<a id="art-23w"></a>
 ### Art. 23w.
 
-W celu ustalenia, czy istnieją podstawy do złożenia zawiadomienia o podejrzeniu popełnienia przestępstwa określonego w art. 57g, Prezes URE może zarządzić przeprowadzenie postępowania wyjaśniającego. Przepisy art. 23p ust. 1–4 oraz 6–8 stosuje się odpowiednio.
+W celu ustalenia, czy istnieją podstawy do złożenia zawiadomienia o podejrzeniu popełnienia przestępstwa określonego w [art. 57g](#art-57g), Prezes URE może zarządzić przeprowadzenie postępowania wyjaśniającego. Przepisy [art. 23p](#art-23p) ust. 1–4 oraz 6–8 stosuje się odpowiednio.
 
+<a id="art-23x"></a>
 ### Art. 23x.
 
 1. W przypadku gdy na terytorium Rzeczypospolitej Polskiej zostanie utworzona siedziba regionalnego centrum koordynacyjnego, Prezes URE we współpracy z organami regulacyjnymi regionu pracy systemu jest organem właściwym do:
@@ -6512,7 +7064,7 @@ W celu ustalenia, czy istnieją podstawy do złożenia zawiadomienia o podejrzen
 
 3. W przypadku gdy na terytorium Rzeczypospolitej Polskiej zostanie utworzona siedziba regionalnego centrum koordynacyjnego, Prezes URE we współpracy z organami regulacyjnymi z danego regionu pracy systemu jest obowiązany do corocznego przedkładania Agencji sprawozdania z monitorowania działania koordynacji systemu zgodnie z art. 46 rozporządzenia 2019/943.
 
-4. Koszty ponoszone przez operatora systemu przesyłowego elektroenergetycznego związane z działalnością regionalnego centrum koordynacyjnego stanowią koszty uzasadnione działalności, o których mowa w art. 45 ust. 1 pkt 2.
+4. Koszty ponoszone przez operatora systemu przesyłowego elektroenergetycznego związane z działalnością regionalnego centrum koordynacyjnego stanowią koszty uzasadnione działalności, o których mowa w [art. 45](#art-45) ust. 1 pkt 2.
 
 5. Prezes URE we współpracy z organami regulacyjnymi danego regionu pracy systemu, gdzie siedzibę ma regionalne centrum koordynacyjne, realizuje uprawnienia, o których mowa w ust. 1 i 2, również w przypadku, gdy siedziba tego regionalnego centrum koordynacyjnego zostanie ustanowiona na terytorium innego państwa członkowskiego Unii Europejskiej z danego regionu pracy systemu.
 
@@ -6524,41 +7076,46 @@ W celu ustalenia, czy istnieją podstawy do złożenia zawiadomienia o podejrzen
 
 3) wydawać decyzje, w uzgodnieniu z organami regulacyjnymi z danego regionu pracy systemu, w sprawach regionalnych centrów koordynacyjnych.
 
+<a id="art-24"></a>
 ### Art. 24.
 
-1.171) Prezes URE składa ministrowi właściwemu do spraw energii oraz ministrowi właściwemu do spraw gospodarki surowcami energetycznymi corocznie, w terminie do dnia 30 kwietnia każdego roku, sprawozdanie ze swojej działalności, w tym ocenę bezpieczeństwa dostarczania paliw gazowych, energii elektrycznej i wodoru, stosownie do zakresu działania określonego w art. 23 ust. 2, oraz przedstawia, na jego żądanie, informacje z zakresu swojej działalności.
+1.171) Prezes URE składa ministrowi właściwemu do spraw energii oraz ministrowi właściwemu do spraw gospodarki surowcami energetycznymi corocznie, w terminie do dnia 30 kwietnia każdego roku, sprawozdanie ze swojej działalności, w tym ocenę bezpieczeństwa dostarczania paliw gazowych, energii elektrycznej i wodoru, stosownie do zakresu działania określonego w [art. 23](#art-23) ust. 2, oraz przedstawia, na jego żądanie, informacje z zakresu swojej działalności.
 
 2. (uchylony)
 
+<a id="art-24a"></a>
 ### Art. 24a.
 
 W celu dokonania oceny spełniania przez wyznaczonego operatora rynku energii elektrycznej kryteriów określonych w art. 6 rozporządzenia 2015/1222 oraz przestrzegania przez tego operatora przepisów tego rozporządzenia oraz przepisów dotyczących obrotu energią obowiązujących na terytorium Rzeczypospolitej Polskiej, Prezes URE może żądać od wyznaczonego operatora rynku energii elektrycznej przedstawienia informacji lub dokumentów dotyczących wykonywanej działalności wyznaczonego operatora rynku energii elektrycznej.
 
+<a id="art-24b"></a>
 ### Art. 24b.
 
 W sprawach, o których mowa w art. 9 ust. 6 rozporządzenia 2015/1222, wyznaczonemu operatorowi rynku energii elektrycznej przysługuje liczba głosów równa ułamkowi wyrażającemu udział obrotu energią elektryczną dokonanego przez tego operatora na terytorium Rzeczypospolitej Polskiej w ogólnej wielkości obrotu energią elektryczną na terytorium Rzeczypospolitej Polskiej przez wyznaczonych operatorów rynku energii elektrycznej w poprzednim roku budżetowym.
 
+<a id="art-24c"></a>
 ### Art. 24c.
 
-Prezes URE składa Komisji Europejskiej i Agencji, w terminie do dnia 31 lipca każdego roku, sprawozdanie ze swojej działalności stosownie do zakresu działania w zakresie energii elektrycznej, określonego w art. 23 ust. 2, w tym z zastosowanych przez siebie środków oraz uzyskanych na skutek ich zastosowania wyników.
+Prezes URE składa Komisji Europejskiej i Agencji, w terminie do dnia 31 lipca każdego roku, sprawozdanie ze swojej działalności stosownie do zakresu działania w zakresie energii elektrycznej, określonego w [art. 23](#art-23) ust. 2, w tym z zastosowanych przez siebie środków oraz uzyskanych na skutek ich zastosowania wyników.
 
+<a id="art-24d"></a>
 ### Art. 24d.
 
 1. Prezes URE, na uzasadniony wniosek osoby prawnej, jednostki organizacyjnej niebędącej osobą prawną, której odrębna ustawa przyznaje zdolność prawną, przedsiębiorcy w rozumieniu art. 4 ust. 1 ustawy – Prawo przedsiębiorców lub wspólnika spółki w rozumieniu art. 860 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny może, w drodze decyzji, udzielić odstępstwa od stosowania określonych we wniosku przepisów, o których mowa w ust. 2, w celu realizacji projektu mającego na celu wdrożenie innowacyjnych technologii, usług, produktów, modeli współpracy użytkowników systemu, rozwiązań technologicznych lub teleinformatycznych na korzyść transformacji energetycznej, inteligentnych sieci i infrastruktury, rozwoju lokalnego bilansowania oraz wzrostu efektywności wykorzystania istniejącej infrastruktury energetycznej, w zakresie niezbędnym do jego przeprowadzenia.
 
 2. Odstępstwo, o którym mowa w ust. 1, może dotyczyć:
 
-1) obowiązku przedkładania Prezesowi URE do zatwierdzenia instrukcji ruchu i eksploatacji sieci, o której mowa w art. 9g ust. 8, o ile działalność podmiotu w zakresie objętym decyzją, o której mowa w ust. 1, nie obejmuje połączeń z innymi krajami;
+1) obowiązku przedkładania Prezesowi URE do zatwierdzenia instrukcji ruchu i eksploatacji sieci, o której mowa w [art. 9g](#art-9g) ust. 8, o ile działalność podmiotu w zakresie objętym decyzją, o której mowa w ust. 1, nie obejmuje połączeń z innymi krajami;
 
-2) obowiązku uzgadniania z Prezesem URE projektu planu, o którym mowa w art. 16 ust. 13;
+2) obowiązku uzgadniania z Prezesem URE projektu planu, o którym mowa w [art. 16](#art-16) ust. 13;
 
-3) warunków uzyskania i prowadzenia działalności objętej koncesją, o których mowa w art. 32 i art. 35–37;
+3) warunków uzyskania i prowadzenia działalności objętej koncesją, o których mowa w [art. 32](#art-32) i [art. 35](#art-35)–37;
 
-4) obowiązku przedłożenia do zatwierdzenia Prezesowi URE taryfy, o którym mowa w art. 47 ust. 1, w przypadku gdy wnioskodawca nie jest operatorem systemu dystrybucyjnego.
+4) obowiązku przedłożenia do zatwierdzenia Prezesowi URE taryfy, o którym mowa w [art. 47](#art-47) ust. 1, w przypadku gdy wnioskodawca nie jest operatorem systemu dystrybucyjnego.
 
 3. Odstępstwo, o którym mowa w ust. 1, może zostać udzielone, jeżeli są spełnione łącznie następujące warunki:
 
-1) projekt przyczyni się do osiągnięcia celów polityki energetycznej państwa, określonych w art. 13;
+1) projekt przyczyni się do osiągnięcia celów polityki energetycznej państwa, określonych w [art. 13](#art-13);
 
 2) wnioskodawca uprawdopodobni oczekiwane korzyści wynikające z realizacji projektu dla funkcjonowania systemu elektroenergetycznego, użytkowników tych systemów albo inne korzyści środowiskowe, gospodarcze lub społeczne;
 
@@ -6608,25 +7165,29 @@ c) ten podmiot i członkowie zespołu sporządzającego niezależną ekspertyzę
 
 5) informuje Prezesa URE o wszelkich zmianach okoliczności prawnych lub faktycznych mających związek z uzyskaniem odstępstwa, o którym mowa w ust. 1.
 
-15. W sprawozdaniu, o którym mowa w art. 24, Prezes URE przedstawia postępy z realizacji projektów, wnioski wynikające z zakończonych projektów oraz dokonuje oceny wpływu udzielonych odstępstw, o których mowa w ust. 1, na realizację celów tych projektów.
+15. W sprawozdaniu, o którym mowa w [art. 24](#art-24), Prezes URE przedstawia postępy z realizacji projektów, wnioski wynikające z zakończonych projektów oraz dokonuje oceny wpływu udzielonych odstępstw, o których mowa w ust. 1, na realizację celów tych projektów.
 
+<a id="art-25"></a>
 ### Art. 25.
 
 (uchylony)
 
+<a id="art-26"></a>
 ### Art. 26.
 
 (uchylony)
 
+<a id="art-27"></a>
 ### Art. 27.
 
 (uchylony)
 
+<a id="art-28"></a>
 ### Art. 28.
 
 1. Prezes URE ma prawo wglądu do ksiąg rachunkowych przedsiębiorstwa energetycznego i podmiotu przywożącego oraz może żądać przedstawienia informacji dotyczących wykonywanej przez to przedsiębiorstwo działalności gospodarczej, w tym informacji o jego projektach inwestycyjnych, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
 
-1a. Prezes URE ma prawo wglądu do dokumentów oraz żądania przedstawienia dokumentów lub informacji mających znaczenie w postępowaniu w sprawie wydania decyzji, o której mowa w art. 9h ust. 3e, lub dla wykonywania umowy powierzającej pełnienie obowiązków operatora systemu przesyłowego gazowego, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
+1a. Prezes URE ma prawo wglądu do dokumentów oraz żądania przedstawienia dokumentów lub informacji mających znaczenie w postępowaniu w sprawie wydania decyzji, o której mowa w [art. 9h](#art-9h) ust. 3e, lub dla wykonywania umowy powierzającej pełnienie obowiązków operatora systemu przesyłowego gazowego, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
 
 2. (uchylony)
 
@@ -6638,10 +7199,12 @@ c) ten podmiot i członkowie zespołu sporządzającego niezależną ekspertyzę
 
 3) realizacji obowiązków Prezesa URE wynikających z art. 16 ust. 4 lit. a rozporządzenia 1227/2011 – z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
 
+<a id="art-28a"></a>
 ### Art. 28a.
 
 Organ przeprowadzający kontrolę przedsiębiorstwa energetycznego, informuje Prezesa URE o stwierdzonych naruszeniach prawa, mogących stanowić naruszenia warunków wykonywania działalności określonych w koncesji lub w przepisach regulujących działalność gospodarczą objętą koncesją, z wyłączeniem informacji, do których otrzymania Prezes URE nie jest uprawniony.
 
+<a id="art-28b"></a>
 ### Art. 28b.
 
 Tajemnica służbowa, o której mowa w art. 17 rozporządzenia 1227/2011, może być ujawniana wyłącznie na żądanie:
@@ -6680,6 +7243,7 @@ b) popełnione w zakresie działalności osoby prawnej lub jednostki organizacyj
 
 12) administracyjnego organu egzekucyjnego – w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym.
 
+<a id="art-28c"></a>
 ### Art. 28c.
 
 Zakazu ujawniania tajemnicy służbowej, o której mowa w art. 17 rozporządzenia 1227/2011, nie narusza przekazywanie takiej informacji:
@@ -6696,10 +7260,12 @@ Zakazu ujawniania tajemnicy służbowej, o której mowa w art. 17 rozporządzeni
 
 6) w wykonaniu obowiązków, o których mowa w art. 16 rozporządzenia 1227/2011.
 
+<a id="art-29"></a>
 ### Art. 29.
 
 Prezes Rady Ministrów określa, w drodze rozporządzenia, zasady wynagradzania pracowników URE.
 
+<a id="art-30"></a>
 ### Art. 30.
 
 1. Do postępowania przed Prezesem URE stosuje się, z zastrzeżeniem ust. 2–4, przepisy Kodeksu postępowania administracyjnego.
@@ -6710,19 +7276,22 @@ Prezes Rady Ministrów określa, w drodze rozporządzenia, zasady wynagradzania 
 
 4. Do postanowień Prezesa URE, od których służy zażalenie, przepisy ust. 2 i 3 stosuje się odpowiednio, z tym że zażalenie wnosi się w terminie 7 dni.
 
+<a id="art-30a"></a>
 ### Art. 30a.
 
 Do postępowania wyjaśniającego, o którym mowa w art. 23p, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
+<a id="art-30b"></a>
 ### Art. 30b.
 
 W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wniosek, przysługują uprawnienia pokrzywdzonego w postępowaniu karnym.
 
+<a id="art-31"></a>
 ### Art. 31.
 
 1. URE wydaje Biuletyn Urzędu Regulacji Energetyki, zwany dalej „Biuletynem URE”.
 
-2. URE ogłasza w Biuletynie URE sprawozdania, o których mowa w art. 24 ust. 1.
+2. URE ogłasza w Biuletynie URE sprawozdania, o których mowa w [art. 24](#art-24) ust. 1.
 
 3. URE ogłasza w Biuletynie URE informacje o:
 
@@ -6732,22 +7301,24 @@ W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wnio
 
 3) rozstrzygnięciach w sprawach spornych podjętych przez Prezesa URE;
 
-4) średnich cenach, o których mowa w art. 23 ust. 2 pkt 18;
+4) średnich cenach, o których mowa w [art. 23](#art-23) ust. 2 pkt 18;
 
-5) stawkach opłaty przejściowej, o której mowa w ustawie wymienionej w art. 44 ust. 2a;
+5) stawkach opłaty przejściowej, o której mowa w ustawie wymienionej w [art. 44](#art-44) ust. 2a;
 
-6) zaktualizowanych kwotach kosztów osieroconych, o których mowa w ustawie wymienionej w art. 44 ust. 2a;
+6) zaktualizowanych kwotach kosztów osieroconych, o których mowa w ustawie wymienionej w [art. 44](#art-44) ust. 2a;
 
-7) średnioważonym koszcie węgla, zużywanego przez jednostki wytwórcze przyłączone do sieci przesyłowej oraz jednostki wytwórcze o mocy osiągalnej nie mniejszej niż 50 MW przyłączone do koordynowanej sieci 110 kV na wytworzenie jednej megawatogodziny energii elektrycznej w poprzedzającym roku kalendarzowym, z uwzględnieniem kosztów jego transportu wyrażonym w złotych na megawatogodzinę, o którym mowa w ustawie wymienionej w art. 44 ust. 2a;
+7) średnioważonym koszcie węgla, zużywanego przez jednostki wytwórcze przyłączone do sieci przesyłowej oraz jednostki wytwórcze o mocy osiągalnej nie mniejszej niż 50 MW przyłączone do koordynowanej sieci 110 kV na wytworzenie jednej megawatogodziny energii elektrycznej w poprzedzającym roku kalendarzowym, z uwzględnieniem kosztów jego transportu wyrażonym w złotych na megawatogodzinę, o którym mowa w ustawie wymienionej w [art. 44](#art-44) ust. 2a;
 
-8) średniej cenie wytwarzanej energii elektrycznej przez wytwórców eksploatujących jednostki centralnie dysponowane opalane węglem, o której mowa w ustawie wymienionej w art. 44 ust. 2a.
+8) średniej cenie wytwarzanej energii elektrycznej przez wytwórców eksploatujących jednostki centralnie dysponowane opalane węglem, o której mowa w ustawie wymienionej w [art. 44](#art-44) ust. 2a.
 
 4. (uchylony)
 
 5. Prezes URE może ustanowić, w drodze zarządzenia, regionalne lub branżowe wydania Biuletynu URE oraz określić ich zakres, zasięg i warunki publikacji ogłoszeń.
 
+<a id="rozdzial-4a"></a>
 ### Rozdział 4a. Koordynator do spraw negocjacji
 
+<a id="art-31a"></a>
 ### Art. 31a.
 
 1. Przy Prezesie URE działa Koordynator do spraw negocjacji, zwany dalej „Koordynatorem”, prowadzący postępowania w sprawie pozasądowego rozwiązywania sporów między odbiorcami paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym a przedsiębiorstwami energetycznymi, agregatorem lub obywatelskimi społecznościami energetycznymi, a także między prosumentami energii odnawialnej, prosumentami wirtualnymi energii odnawialnej lub prosumentami zbiorowymi energii odnawialnej oraz odbiorcami aktywnymi będącymi konsumentami a przedsiębiorstwami energetycznymi, agregatorem lub obywatelskimi społecznościami energetycznymi wynikłych z umów:
@@ -6772,8 +7343,9 @@ W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wnio
 
 2) przedstawia stronom propozycję rozwiązania sporu.
 
-3. Przepisy art. 31d i art. 31e stosuje się odpowiednio do prosumentów wirtualnych energii odnawialnej oraz prosumentów zbiorowych energii odnawialnej, będących konsumentami.
+3. Przepisy [art. 31d](#art-31d) i [art. 31e](#art-31e) stosuje się odpowiednio do prosumentów wirtualnych energii odnawialnej oraz prosumentów zbiorowych energii odnawialnej, będących konsumentami.
 
+<a id="art-31b"></a>
 ### Art. 31b.
 
 1. W zakresie nieuregulowanym w niniejszym rozdziale:
@@ -6784,6 +7356,7 @@ W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wnio
 
 2. Koordynator jest podmiotem uprawnionym do prowadzenia postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich w rozumieniu ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich oraz osobą prowadzącą to postępowanie w rozumieniu tej ustawy.
 
+<a id="art-31c"></a>
 ### Art. 31c.
 
 1. Koordynatora powołuje Prezes URE spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru.
@@ -6846,6 +7419,7 @@ W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wnio
 
 8. Obsługę organizacyjną Koordynatora zapewnia URE.
 
+<a id="art-31d"></a>
 ### Art. 31d.
 
 1. Postępowanie przed Koordynatorem wszczyna się na wniosek odbiorcy paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, prosumenta energii odnawialnej będącego konsumentem albo odbiorcy aktywnego będącego konsumentem.
@@ -6856,7 +7430,7 @@ W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wnio
 
 4. Do wniosku o wszczęcie postępowania przed Koordynatorem dołącza się:
 
-1) informację, czy występowano do Prezesa URE z wnioskiem o rozstrzygnięcie sporu w trybie art. 8 ust. 1;
+1) informację, czy występowano do Prezesa URE z wnioskiem o rozstrzygnięcie sporu w trybie [art. 8](#art-8) ust. 1;
 
 2) oświadczenie, że sprawa o to samo roszczenie między tymi samymi stronami nie jest w toku albo nie została już rozpatrzona przez Koordynatora, inny właściwy podmiot albo sąd;
 
@@ -6870,19 +7444,20 @@ W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wnio
 
 2) odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, prosument energii odnawialnej będący konsumentem albo odbiorca aktywny będący konsumentem nie podjął przed złożeniem wniosku o wszczęcie postępowania przed Koordynatorem próby kontaktu z przedsiębiorstwem energetycznym, agregatorem lub obywatelską społecznością energetyczną i bezpośredniego rozwiązania sporu;
 
-3) sprawa o to samo roszczenie między tymi samymi stronami jest w toku, z zastrzeżeniem art. 31e ust. 2, albo została już rozpatrzona przez Koordynatora, inny właściwy podmiot albo sąd;
+3) sprawa o to samo roszczenie między tymi samymi stronami jest w toku, z zastrzeżeniem [art. 31e](#art-31e) ust. 2, albo została już rozpatrzona przez Koordynatora, inny właściwy podmiot albo sąd;
 
-4) wartość przedmiotu sporu jest wyższa albo niższa od progów finansowych określonych w przepisach wykonawczych wydanych na podstawie art. 31f ust. 2.
+4) wartość przedmiotu sporu jest wyższa albo niższa od progów finansowych określonych w przepisach wykonawczych wydanych na podstawie [art. 31f](#art-31f) ust. 2.
 
 7. Udział przedsiębiorstwa energetycznego, agregatora lub obywatelskiej społeczności energetycznej w postępowaniu przed Koordynatorem jest obowiązkowy w przypadku, gdy wnioskodawcą jest odbiorca energii elektrycznej w gospodarstwie domowym lub odbiorca aktywny będący konsumentem.
 
+<a id="art-31da"></a>
 ### Art. 31da.
 
 1. Koordynator wykonuje swoje zadania przy pomocy zespołu, którego prace koordynuje samodzielnie, albo przy pomocy upoważnionego członka zespołu.
 
 2. Koordynator może upoważnić, na czas określony nie dłuższy niż 4 lata, na piśmie, członka zespołu do prowadzenia postępowań w sprawie pozasądowego rozwiązywania sporów konsumenckich w rozumieniu ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich między odbiorcami paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym a przedsiębiorstwami energetycznymi oraz między prosumentami energii odnawialnej będącymi konsumentami a przedsiębiorstwami energetycznymi wynikłych z umów, o których mowa w art. 31a ust. 1.
 
-3. Członkiem zespołu może być wyłącznie osoba spełniająca warunki, o których mowa w art. 31c ust. 2 pkt 1, 2 i 6, oraz która nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+3. Członkiem zespołu może być wyłącznie osoba spełniająca warunki, o których mowa w [art. 31c](#art-31c) ust. 2 pkt 1, 2 i 6, oraz która nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
 4. Upoważniony członek zespołu jest osobą prowadzącą postępowanie, o którym mowa w ust. 2.
 
@@ -6896,19 +7471,21 @@ W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wnio
 
 4) złożenia rezygnacji.
 
+<a id="art-31e"></a>
 ### Art. 31e.
 
-1. Jeżeli z informacji, o której mowa w art. 31d ust. 4 pkt 1, wynika, że odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, prosument energii odnawialnej będący konsumentem albo odbiorca aktywny będący konsumentem wystąpił do Prezesa URE z wnioskiem o rozstrzygnięcie sporu w trybie art. 8 ust. 1, Koordynator przekazuje Prezesowi URE tę informację.
+1. Jeżeli z informacji, o której mowa w [art. 31d](#art-31d) ust. 4 pkt 1, wynika, że odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, prosument energii odnawialnej będący konsumentem albo odbiorca aktywny będący konsumentem wystąpił do Prezesa URE z wnioskiem o rozstrzygnięcie sporu w trybie [art. 8](#art-8) ust. 1, Koordynator przekazuje Prezesowi URE tę informację.
 
-2. W przypadku wystąpienia z wnioskiem o wszczęcie postępowania przed Koordynatorem Prezes URE zawiesza z urzędu toczące się przed nim postępowanie prowadzone w trybie art. 8 ust. 1 w sprawie tego sporu.
+2. W przypadku wystąpienia z wnioskiem o wszczęcie postępowania przed Koordynatorem Prezes URE zawiesza z urzędu toczące się przed nim postępowanie prowadzone w trybie [art. 8](#art-8) ust. 1 w sprawie tego sporu.
 
-3. Jeżeli odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, prosument energii odnawialnej będący konsumentem albo odbiorca aktywny będący konsumentem wystąpi z wnioskiem o rozstrzygnięcie sporu w trybie art. 8 ust. 1 w trakcie toczącego się postępowania przed Koordynatorem, Prezes URE zawiesza z urzędu postępowanie prowadzone w trybie art. 8 ust. 1, po jego wszczęciu.
+3. Jeżeli odbiorca paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, prosument energii odnawialnej będący konsumentem albo odbiorca aktywny będący konsumentem wystąpi z wnioskiem o rozstrzygnięcie sporu w trybie [art. 8](#art-8) ust. 1 w trakcie toczącego się postępowania przed Koordynatorem, Prezes URE zawiesza z urzędu postępowanie prowadzone w trybie [art. 8](#art-8) ust. 1, po jego wszczęciu.
 
+<a id="art-31f"></a>
 ### Art. 31f.
 
 1. Minister właściwy do spraw energii w porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia:172)
 
-1) szczegółowy tryb prowadzenia postępowania w sprawie pozasądowego rozwiązywania sporów, o których mowa w art. 31a ust. 1, w tym termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej,
+1) szczegółowy tryb prowadzenia postępowania w sprawie pozasądowego rozwiązywania sporów, o których mowa w [art. 31a](#art-31a) ust. 1, w tym termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej,
 
 2) sposób wnoszenia wniosków o wszczęcie postępowania,
 
@@ -6916,8 +7493,10 @@ W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wnio
 
 2.[49)] Minister właściwy do spraw energii w porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi może określić, w drodze rozporządzenia, wysokość progów finansowych wartości przedmiotu sporu, których przekroczenie uprawnia do odmowy rozpatrzenia sporu, uwzględniając określenie ich wysokości na poziomie, który nie utrudnia znacząco odbiorcy paliw gazowych, energii elektrycznej lub ciepła w gospodarstwie domowym, prosumentowi energii odnawialnej będącemu konsumentem albo odbiorcy aktywnemu będącemu konsumentem dostępu do postępowania.
 
+<a id="rozdzial-4b"></a>
 ### Rozdział 4b. Porównywarka ofert
 
+<a id="art-31g"></a>
 ### Art. 31g.
 
 1. Odbiorcy energii elektrycznej w gospodarstwie domowym i mikroprzedsiębiorcy w rozumieniu art. 7 ust. 1 pkt 1 ustawy – Prawo przedsiębiorców o przewidywanym rocznym zużyciu poniżej 100 000 kWh, zapewnia się dostęp do narzędzia porównywania ofert sprzedaży energii, zwanego dalej „porównywarką ofert”. Dostęp do porównywarki ofert jest nieodpłatny.
@@ -6952,8 +7531,10 @@ W sprawach o przestępstwa określone w rozdziale 7a Prezesowi URE, na jego wnio
 
 6. W przypadku gdy porównywarka ofert zawiera obok ofert sprzedaży energii elektrycznej oferty innych usług oferowane przez sprzedawców energii elektrycznej, przepis ust. 5 stosuje się odpowiednio w stosunku do ofert tych usług.
 
+<a id="rozdzial-5"></a>
 ### Rozdział 5. Koncesje, rejestry i taryfy
 
+<a id="art-32"></a>
 ### Art. 32.
 
 1. Uzyskania koncesji wymaga wykonywanie działalności gospodarczej w zakresie:
@@ -6970,7 +7551,7 @@ d) energii elektrycznej: – (uchylone) – wyłącznie z biogazu rolniczego, w 
 
 e) ciepła w źródłach o łącznej mocy zainstalowanej cieplnej nieprzekraczającej 5 MW,
 
-f) energii elektrycznej wprowadzonej do sieci trakcyjnej przyłączonej do sieci dystrybucyjnej operatora systemu dystrybucyjnego elektroenergetycznego albo sieci dystrybucyjnej operatora systemu dystrybucyjnego elektroenergetycznego w następstwie hamowania pojazdów, o których mowa w art. 5h ust. 1, g)174) wodoru;
+f) energii elektrycznej wprowadzonej do sieci trakcyjnej przyłączonej do sieci dystrybucyjnej operatora systemu dystrybucyjnego elektroenergetycznego albo sieci dystrybucyjnej operatora systemu dystrybucyjnego elektroenergetycznego w następstwie hamowania pojazdów, o których mowa w [art. 5h](#art-5h) ust. 1, g)174) wodoru;
 
 2) magazynowania:
 
@@ -7008,23 +7589,23 @@ e) obrotu paliwami gazowymi oraz energią elektryczną przez spółdzielnię ene
 
 2) magazynowania energii elektrycznej w magazynach energii elektrycznej wchodzących w skład instalacji, o której mowa w pkt 1, o łącznej mocy zainstalowanej elektrycznej większej niż 10 MW,
 
-3) wytwarzania ciepła przy użyciu pompy ciepła o mocy zainstalowanej elektrycznej nie większej niż 50 MW – nie może być dłuższy niż 30 dni, przy czym termin ten jest liczony od dnia otrzymania przez Prezesa URE kompletnego wniosku o udzielenie lub zmianę tej koncesji; art. 35 ust. 2a i 2b stosuje się.
+3) wytwarzania ciepła przy użyciu pompy ciepła o mocy zainstalowanej elektrycznej nie większej niż 50 MW – nie może być dłuższy niż 30 dni, przy czym termin ten jest liczony od dnia otrzymania przez Prezesa URE kompletnego wniosku o udzielenie lub zmianę tej koncesji; [art. 35](#art-35) ust. 2a i 2b stosuje się.
 
 2. Koncesje na prowadzenie działalności, o której mowa w ust. 1 pkt 4, w zakresie obrotu gazem ziemnym z zagranicą, będą wydawane z uwzględnieniem dywersyfikacji dostaw gazu ziemnego oraz bezpieczeństwa energetycznego. Przedsiębiorstwo energetyczne zajmujące się obrotem gazem ziemnym z zagranicą jest obowiązane do dywersyfikacji dostaw gazu ziemnego z zagranicy.
 
 2a. W przypadku zmiany wykazu paliw ciekłych określonego w przepisach wydanych na podstawie ust. 6, której skutkiem jest powstanie obowiązku uzyskania koncesji lub zmiany zakresu posiadanej koncesji, o której mowa w ust. 1 pkt 1–4, przez podmioty wykonujące działalność polegającą na wytwarzaniu, magazynowaniu, przeładunku, przesyłaniu lub dystrybucji paliw ciekłych, lub obrocie tymi paliwami, w tym obrocie z zagranicą, podmioty te składają wniosek o udzielenie lub zmianę koncesji w terminie 30 dni od dnia wejścia w życie przepisów wprowadzających taką zmianę. Niezłożenie wniosku w tym terminie przez podmiot obowiązany oznacza prowadzenie przez ten podmiot działalności bez wymaganej koncesji w zakresie wynikającym ze zmiany wykazu określonego w przepisach wydanych na podstawie ust. 6.
 
-2b. Podmioty, które złożyły wniosek, o którym mowa w ust. 2a, który spełnia warunki określone w art. 35, a w przypadku braków – uzupełniły go w terminie wyznaczonym przez Prezesa URE w wezwaniu, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia wymagane warunki, do dnia doręczenia decyzji Prezesa URE mogą prowadzić działalność na zasadach dotychczasowych, w zakresie wskazanym we wniosku.
+2b. Podmioty, które złożyły wniosek, o którym mowa w ust. 2a, który spełnia warunki określone w [art. 35](#art-35), a w przypadku braków – uzupełniły go w terminie wyznaczonym przez Prezesa URE w wezwaniu, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia wymagane warunki, do dnia doręczenia decyzji Prezesa URE mogą prowadzić działalność na zasadach dotychczasowych, w zakresie wskazanym we wniosku.
 
-2c. W przypadku zmiany wykazu paliw ciekłych określonego w przepisach wydanych na podstawie ust. 6, której skutkiem jest powstanie obowiązku wpisu lub zmiany zakresu posiadanego wpisu do rejestru podmiotów przywożących, o którym mowa w art. 32a, podmioty wykonujące działalność polegającą na przywozie paliw ciekłych składają wniosek o wpis lub zmianę zakresu wpisu do rejestru podmiotów przywożących w terminie 30 dni od dnia wejścia w życie przepisów wprowadzających taką zmianę. Niezłożenie wniosku w tym terminie przez podmiot obowiązany oznacza prowadzenie przez ten podmiot działalności bez wymaganego wpisu do rejestru podmiotów przywożących w zakresie wynikającym ze zmiany wykazu określonego w przepisach wydanych na podstawie ust. 6.
+2c. W przypadku zmiany wykazu paliw ciekłych określonego w przepisach wydanych na podstawie ust. 6, której skutkiem jest powstanie obowiązku wpisu lub zmiany zakresu posiadanego wpisu do rejestru podmiotów przywożących, o którym mowa w [art. 32a](#art-32a), podmioty wykonujące działalność polegającą na przywozie paliw ciekłych składają wniosek o wpis lub zmianę zakresu wpisu do rejestru podmiotów przywożących w terminie 30 dni od dnia wejścia w życie przepisów wprowadzających taką zmianę. Niezłożenie wniosku w tym terminie przez podmiot obowiązany oznacza prowadzenie przez ten podmiot działalności bez wymaganego wpisu do rejestru podmiotów przywożących w zakresie wynikającym ze zmiany wykazu określonego w przepisach wydanych na podstawie ust. 6.
 
-2d. Podmioty, które złożyły wniosek, o którym mowa w ust. 2c, który spełnia warunki określone w art. 32a ust. 4, a w przypadku braków – uzupełniły go w terminie wyznaczonym przez Prezesa URE w wezwaniu, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia wymagane warunki, do dnia doręczenia decyzji Prezesa URE mogą prowadzić działalność na zasadach dotychczasowych, w zakresie wskazanym we wniosku.
+2d. Podmioty, które złożyły wniosek, o którym mowa w ust. 2c, który spełnia warunki określone w [art. 32a](#art-32a) ust. 4, a w przypadku braków – uzupełniły go w terminie wyznaczonym przez Prezesa URE w wezwaniu, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia wymagane warunki, do dnia doręczenia decyzji Prezesa URE mogą prowadzić działalność na zasadach dotychczasowych, w zakresie wskazanym we wniosku.
 
 3.[68)] Rada Ministrów, na wniosek ministra właściwego do spraw gospodarki surowcami energetycznymi, określi, w drodze rozporządzenia, minimalny poziom dywersyfikacji dostaw gazu ziemnego z zagranicy na okres co najmniej 10 lat oraz szczegółowy sposób ustalania tego poziomu, biorąc pod uwagę politykę energetyczną państwa oraz konieczność zapewnienia bezpieczeństwa energetycznego kraju.
 
 31. Rada Ministrów w rozporządzeniu, o którym mowa w ust. 3, może określić wyłączenia z obowiązku dywersyfikacji dostaw gazu ziemnego z zagranicy, biorąc pod uwagę stan infrastruktury technicznej w sektorze gazu ziemnego oraz jej wpływ na dywersyfikację źródeł i kierunków dostaw gazu oraz zwiększenie konkurencyjności w zakresie dostarczania paliw gazowych i bezpieczeństwa ich dostarczania.
 
-3a. Koncesje na prowadzenie działalności, o której mowa w ust. 1 pkt 4, w zakresie obrotu paliwami ciekłymi z zagranicą, wydaje się pod warunkiem złożenia zabezpieczenia majątkowego, o którym mowa w art. 38a.
+3a. Koncesje na prowadzenie działalności, o której mowa w ust. 1 pkt 4, w zakresie obrotu paliwami ciekłymi z zagranicą, wydaje się pod warunkiem złożenia zabezpieczenia majątkowego, o którym mowa w [art. 38a](#art-38a).
 
 4. Uzyskania koncesji, o której mowa w ust. 1 pkt 1, nie wymaga wykonywanie działalności gospodarczej w zakresie wytwarzania ciepła uzyskiwanego w przemysłowych procesach technologicznych, a także gdy wielkość mocy zamówionej przez odbiorców nie przekracza 5 MW.
 
@@ -7034,6 +7615,7 @@ e) obrotu paliwami gazowymi oraz energią elektryczną przez spółdzielnię ene
 
 7.[68)] Minister właściwy do spraw gospodarki surowcami energetycznymi, wydając rozporządzenie, o którym mowa w ust. 6, kieruje się potrzebą zapewnienia prawidłowego funkcjonowania krajowego rynku paliw, bezpieczeństwem paliwowym państwa i ochroną konkurencji.
 
+<a id="art-32a"></a>
 ### Art. 32a.
 
 1. Prezes URE prowadzi rejestr podmiotów przywożących.
@@ -7066,6 +7648,7 @@ f) serię i numer dokumentu tożsamości w przypadku osób fizycznych;
 
 5) wskazanie planowanej daty rozpoczęcia działalności polegającej na przywozie paliw ciekłych.
 
+<a id="art-32b"></a>
 ### Art. 32b.
 
 1. Do rejestru podmiotów przywożących nie może zostać wpisany podmiot, który:
@@ -7076,38 +7659,41 @@ f) serię i numer dokumentu tożsamości w przypadku osób fizycznych;
 
 2. W przypadku wnioskodawcy będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej albo przedsiębiorcą zagranicznym lub przedsiębiorcą zagranicznym prowadzącym działalność na terytorium Rzeczypospolitej Polskiej w ramach oddziału z siedzibą na terytorium Rzeczypospolitej Polskiej utworzonego na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621), warunek, o którym mowa w ust. 1 pkt 1, dotyczy również osób uprawnionych do reprezentowania tego wnioskodawcy, a także członków rady nadzorczej tego wnioskodawcy.
 
+<a id="art-32c"></a>
 ### Art. 32c.
 
 1. Podmiot przywożący może dokonywać przywozu paliw ciekłych po wpisaniu do rejestru podmiotów przywożących.
 
-2. Wniosek o wpis do rejestru podmiotów przywożących zawiera dane, o których mowa w art. 32a ust. 4.
+2. Wniosek o wpis do rejestru podmiotów przywożących zawiera dane, o których mowa w [art. 32a](#art-32a) ust. 4.
 
 2a. Wzór wniosku, o którym mowa w ust. 2, opracowuje i udostępnia Prezes URE na stronie internetowej Urzędu Regulacji Energetyki.
 
-3. W przypadku gdy wniosek nie zawiera danych, o których mowa w art. 32a ust. 4, Prezes URE niezwłocznie wzywa wnioskodawcę do uzupełnienia wniosku w terminie 7 dni od dnia doręczenia wezwania. Wniosek nieuzupełniony w wyznaczonym terminie pozostawia się bez rozpoznania.
+3. W przypadku gdy wniosek nie zawiera danych, o których mowa w [art. 32a](#art-32a) ust. 4, Prezes URE niezwłocznie wzywa wnioskodawcę do uzupełnienia wniosku w terminie 7 dni od dnia doręczenia wezwania. Wniosek nieuzupełniony w wyznaczonym terminie pozostawia się bez rozpoznania.
 
 4. Prezes URE dokonuje wpisu do rejestru podmiotów przywożących w drodze decyzji.
 
-5. Decyzja o wpisie do rejestru podmiotów przywożących zawiera dane, o których mowa w art. 32a ust. 4, a także dzień wpisu do rejestru oraz numer w rejestrze.
+5. Decyzja o wpisie do rejestru podmiotów przywożących zawiera dane, o których mowa w [art. 32a](#art-32a) ust. 4, a także dzień wpisu do rejestru oraz numer w rejestrze.
 
 6. (uchylony)
 
+<a id="art-32d"></a>
 ### Art. 32d.
 
 1. Zmiana wpisu lub wykreślenie z rejestru podmiotów przywożących następują na wniosek podmiotu przywożącego lub z urzędu.
 
 2. Podmiot przywożący składa wniosek o:
 
-1) zmianę wpisu w rejestrze – w terminie 7 dni od dnia zmiany danych, o których mowa w art. 32a ust. 4;
+1) zmianę wpisu w rejestrze – w terminie 7 dni od dnia zmiany danych, o których mowa w [art. 32a](#art-32a) ust. 4;
 
 2) wykreślenie wpisu z rejestru – w terminie 7 dni od dnia zaprzestania wykonywania działalności polegającej na przywozie paliw ciekłych.
 
-3. Prezes URE, w drodze decyzji, wykreśla z rejestru podmiot przywożący, który w okresie kolejnych 6 miesięcy nie dokonał przywozu paliw ciekłych lub zaistniały okoliczności, o których mowa w art. 32b ust. 1, lub w przypadku naruszenia przez podmiot przywożący obowiązku sprawozdawczego, o którym mowa w art. 43d ust. 1, przez 6 kolejnych następujących po sobie okresów sprawozdawczych.
+3. Prezes URE, w drodze decyzji, wykreśla z rejestru podmiot przywożący, który w okresie kolejnych 6 miesięcy nie dokonał przywozu paliw ciekłych lub zaistniały okoliczności, o których mowa w [art. 32b](#art-32b) ust. 1, lub w przypadku naruszenia przez podmiot przywożący obowiązku sprawozdawczego, o którym mowa w [art. 43d](#art-43d) ust. 1, przez 6 kolejnych następujących po sobie okresów sprawozdawczych.
 
-4.[68)] Na podstawie prowadzonego rejestru, o którym mowa w art. 32a ust. 1, Prezes URE udostępnia w formie elektronicznej, co najmniej raz na kwartał, ministrowi właściwemu do spraw finansów publicznych, ministrowi właściwemu do spraw gospodarki surowcami energetycznymi, Komendantowi Głównemu Policji, Prezesowi Rządowej Agencji Rezerw Strategicznych, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, Prezesowi Urzędu Dozoru Technicznego, Dyrektorowi Generalnemu Transportowego Dozoru Technicznego, Prezesowi Głównego Urzędu Miar, Głównemu Inspektorowi Nadzoru Budowlanego, Głównemu Inspektorowi Ochrony Środowiska oraz Głównego Inspektorowi Sanitarnemu, aktualny wykaz podmiotów przywożących zawierający oznaczenie podmiotów przywożących oraz informacje o rodzajach, przeznaczeniu przywożonego paliwa ciekłego, a także rodzaju i lokalizacji infrastruktury paliw ciekłych wykorzystywanej przez ten podmiot.
+4.[68)] Na podstawie prowadzonego rejestru, o którym mowa w [art. 32a](#art-32a) ust. 1, Prezes URE udostępnia w formie elektronicznej, co najmniej raz na kwartał, ministrowi właściwemu do spraw finansów publicznych, ministrowi właściwemu do spraw gospodarki surowcami energetycznymi, Komendantowi Głównemu Policji, Prezesowi Rządowej Agencji Rezerw Strategicznych, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, Prezesowi Urzędu Dozoru Technicznego, Dyrektorowi Generalnemu Transportowego Dozoru Technicznego, Prezesowi Głównego Urzędu Miar, Głównemu Inspektorowi Nadzoru Budowlanego, Głównemu Inspektorowi Ochrony Środowiska oraz Głównego Inspektorowi Sanitarnemu, aktualny wykaz podmiotów przywożących zawierający oznaczenie podmiotów przywożących oraz informacje o rodzajach, przeznaczeniu przywożonego paliwa ciekłego, a także rodzaju i lokalizacji infrastruktury paliw ciekłych wykorzystywanej przez ten podmiot.
 
 5. Wpis, wykreślenie i zmiana wpisu do rejestru podmiotów przywożących są zwolnione z opłaty skarbowej w rozumieniu ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2025 r. poz. 1154).
 
+<a id="art-33"></a>
 ### Art. 33.
 
 1. Prezes URE udziela koncesji wnioskodawcy, który:
@@ -7118,7 +7704,7 @@ f) serię i numer dokumentu tożsamości w przypadku osób fizycznych;
 
 3) ma możliwości techniczne gwarantujące prawidłowe wykonywanie działalności;
 
-4) zapewni zatrudnienie osób o właściwych kwalifikacjach zawodowych, o których mowa w art. 54;
+4) zapewni zatrudnienie osób o właściwych kwalifikacjach zawodowych, o których mowa w [art. 54](#art-54);
 
 5) uzyskał decyzję o warunkach zabudowy i zagospodarowania terenu albo decyzję o ustaleniu lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej, o której mowa w ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących;
 
@@ -7132,7 +7718,7 @@ f) serię i numer dokumentu tożsamości w przypadku osób fizycznych;
 
 1) ma siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej i nabywa paliwa ciekłe na potrzeby prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej albo prowadzi działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w ramach oddziału z siedzibą na terytorium Rzeczypospolitej Polskiej utworzonego na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej i nabywa paliwa ciekłe na potrzeby prowadzenia działalności gospodarczej przez ten oddział;
 
-2) złożył zabezpieczenie majątkowe, o którym mowa w art. 38a;
+2) złożył zabezpieczenie majątkowe, o którym mowa w [art. 38a](#art-38a);
 
 3) jest zarejestrowany jako podatnik podatku od towarów i usług zgodnie z art. 97 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203 i 1541);
 
@@ -7152,7 +7738,7 @@ f) serię i numer dokumentu tożsamości w przypadku osób fizycznych;
 
 1) który znajduje się w postępowaniu upadłościowym lub likwidacji;
 
-2) któremu w ciągu ostatnich 3 lat cofnięto koncesję na działalność określoną ustawą z przyczyn wymienionych w art. 41 ust. 3 lub którego w ciągu ostatnich 3 lat wykreślono z rejestru działalności regulowanej z przyczyny wydania decyzji o zakazie wykonywania przez wnioskodawcę działalności objętej wpisem, ze względu na:
+2) któremu w ciągu ostatnich 3 lat cofnięto koncesję na działalność określoną ustawą z przyczyn wymienionych w [art. 41](#art-41) ust. 3 lub którego w ciągu ostatnich 3 lat wykreślono z rejestru działalności regulowanej z przyczyny wydania decyzji o zakazie wykonywania przez wnioskodawcę działalności objętej wpisem, ze względu na:
 
 a) złożenie oświadczenia o spełnieniu warunków wymaganych prawem do wykonywania tej działalności niezgodnego ze stanem faktycznym lub
 
@@ -7188,6 +7774,7 @@ c) rażące naruszenie warunków wymaganych prawem do wykonywania tej działalno
 
 2) ministra właściwego do spraw gospodarki surowcami energetycznymi, w przypadku koncesji w zakresie działalności gospodarczej prowadzonej na rynku paliw.
 
+<a id="art-34"></a>
 ### Art. 34.
 
 1. Przedsiębiorstwo energetyczne, któremu została udzielona koncesja, wnosi coroczną opłatę do budżetu państwa, obciążającą koszty jego działalności, zwaną dalej „opłatą koncesyjną”.
@@ -7232,13 +7819,14 @@ c) rażące naruszenie warunków wymaganych prawem do wykonywania tej działalno
 
 9. W przypadku wniesienia odwołania od decyzji Prezesa URE określającej prawidłową wysokość opłaty koncesyjnej, zgodnie z zasadami określonymi w przepisach wydanych na podstawie ust. 6, opłatę tę wnosi się w terminie 14 dni od dnia, w którym decyzja Prezesa URE stała się prawomocna.
 
+<a id="art-35"></a>
 ### Art. 35.
 
 1. Wniosek o udzielenie koncesji powinien zawierać w szczególności:
 
 1) oznaczenie wnioskodawcy, jego siedziby, siedziby oddziału na terytorium Rzeczypospolitej Polskiej lub miejsca zamieszkania oraz ich adres oraz imiona i nazwiska pełnomocników ustanowionych do dokonywania czynności prawnych w imieniu przedsiębiorcy;
 
-2) określenie przedmiotu oraz zakresu prowadzonej działalności, na którą ma być wydana koncesja, oraz projekt planu, o którym mowa w art. 16;
+2) określenie przedmiotu oraz zakresu prowadzonej działalności, na którą ma być wydana koncesja, oraz projekt planu, o którym mowa w [art. 16](#art-16);
 
 3) informacje o dotychczasowej działalności wnioskodawcy, w tym sprawozdania finansowe z ostatnich 3 lat, jeżeli podmiot prowadzi działalność gospodarczą;
 
@@ -7278,17 +7866,17 @@ f) adres zamieszkania;
 
 5) listę wspólników lub akcjonariuszy, posiadających co najmniej 20 % udziałów lub akcji, w przypadku wnioskodawcy innego niż osoba fizyczna;
 
-6) wskazanie miejsca magazynowania zapasów, o których mowa w pkt 2, oraz tytułu prawnego do instalacji magazynowania paliw ciekłych lub kopie umów, o których mowa w art. 33 ust. 1b pkt 4;
+6) wskazanie miejsca magazynowania zapasów, o których mowa w pkt 2, oraz tytułu prawnego do instalacji magazynowania paliw ciekłych lub kopie umów, o których mowa w [art. 33](#art-33) ust. 1b pkt 4;
 
 7) zaświadczenie o zarejestrowaniu wnioskodawcy jako podatnika podatku od towarów i usług;
 
-8) postanowienie w sprawie przyjęcia zabezpieczenia majątkowego, o którym mowa w art. 38e ust. 1.
+8) postanowienie w sprawie przyjęcia zabezpieczenia majątkowego, o którym mowa w [art. 38e](#art-38e) ust. 1.
 
-1d. Wniosek o udzielenie koncesji na magazynowanie energii elektrycznej ponadto zawiera dane określone w art. 43g ust. 6 pkt 2.
+1d. Wniosek o udzielenie koncesji na magazynowanie energii elektrycznej ponadto zawiera dane określone w [art. 43g](#art-43g) ust. 6 pkt 2.
 
-1e.[180)] Wniosek o udzielenie koncesji na magazynowanie wodoru zawiera ponadto dane określone w art. 43h ust. 4 pkt 2.
+1e.[180)] Wniosek o udzielenie koncesji na magazynowanie wodoru zawiera ponadto dane określone w [art. 43h](#art-43h) ust. 4 pkt 2.
 
-2. Przedsiębiorstwo energetyczne wykonujące działalność polegającą na wytwarzaniu paliw ciekłych lub obrocie paliwami ciekłymi z zagranicą jest zobowiązane złożyć, przed udzieleniem koncesji, zabezpieczenie majątkowe, o którym mowa w art. 38a.
+2. Przedsiębiorstwo energetyczne wykonujące działalność polegającą na wytwarzaniu paliw ciekłych lub obrocie paliwami ciekłymi z zagranicą jest zobowiązane złożyć, przed udzieleniem koncesji, zabezpieczenie majątkowe, o którym mowa w [art. 38a](#art-38a).
 
 2a. W przypadku gdy wniosek o udzielenie koncesji lub jej zmianę nie zawiera wszystkich wymaganych ustawą informacji lub dokumentów, poświadczających, że wnioskodawca spełnia warunki określone przepisami prawa, wymagane do wykonywania określonej działalności gospodarczej, Prezes URE niezwłocznie wzywa wnioskodawcę do uzupełnienia wniosku w terminie nie krótszym niż 21 dni od dnia doręczenia wezwania.
 
@@ -7296,14 +7884,17 @@ f) adres zamieszkania;
 
 3. Prezes URE odmawia udzielenia koncesji, gdy wnioskodawca nie spełnia wymaganych przepisami warunków.
 
+<a id="art-35a"></a>
 ### Art. 35a.
 
 Przed podjęciem decyzji w sprawie udzielenia koncesji lub jej zmiany Prezes URE może dokonać sprawdzenia faktów podanych we wniosku o udzielenie koncesji lub jej zmianę w celu stwierdzenia, czy przedsiębiorca spełnia warunki wykonywania działalności gospodarczej objętej koncesją oraz czy daje rękojmię prawidłowego wykonywania działalności objętej koncesją.
 
+<a id="art-36"></a>
 ### Art. 36.
 
 Koncesji udziela się na czas oznaczony, nie krótszy niż 10 lat i nie dłuższy niż 50 lat, chyba że przedsiębiorca wnioskuje o udzielenie koncesji na czas krótszy.
 
+<a id="art-37"></a>
 ### Art. 37.
 
 1. Koncesja powinna określać:
@@ -7318,13 +7909,13 @@ Koncesji udziela się na czas oznaczony, nie krótszy niż 10 lat i nie dłuższ
 
 5) szczególne warunki wykonywania działalności objętej koncesją, mające na celu właściwą obsługę odbiorców, w zakresie:
 
-a) zapewnienia zdolności do dostarczania paliw lub energii w sposób ciągły i niezawodny, przy zachowaniu wymagań jakościowych, określonych w przepisach wydanych na podstawie art. 9 ust. 1–4, 7 i 8,
+a) zapewnienia zdolności do dostarczania paliw lub energii w sposób ciągły i niezawodny, przy zachowaniu wymagań jakościowych, określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 1–4, 7 i 8,
 
 b) powiadamiania Prezesa URE o niepodjęciu lub zaprzestaniu bądź ograniczeniu prowadzenia działalności objętej koncesją, w okresie jej obowiązywania;
 
 6) zabezpieczenie ochrony środowiska w trakcie oraz po zaprzestaniu koncesjonowanej działalności;
 
-6a) szczegółowe zasady odnawiania zabezpieczenia majątkowego, o których mowa w art. 38 ust. 5, w przypadku gdy zabezpieczenie to zostało ustanowione;
+6a) szczegółowe zasady odnawiania zabezpieczenia majątkowego, o których mowa w [art. 38](#art-38) ust. 5, w przypadku gdy zabezpieczenie to zostało ustanowione;
 
 7) numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, lub numer równoważnego rejestru państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Turcji oraz numer identyfikacji podatkowej (NIP).
 
@@ -7336,16 +7927,17 @@ b) powiadamiania Prezesa URE o niepodjęciu lub zaprzestaniu bądź ograniczeniu
 
 2. Koncesja powinna ponadto określać warunki zaprzestania działalności przedsiębiorstwa energetycznego po wygaśnięciu koncesji lub po jej cofnięciu.
 
-2a. Koncesje na obrót paliwami ciekłymi w sytuacji, o której mowa w art. 33 ust. 1d, obrót paliwami ciekłymi z zagranicą oraz wytwarzanie paliw ciekłych określają ponadto numer, za pomocą którego podmiot jest identyfikowany w obrocie paliwami ciekłymi na potrzeby podatku od towarów i usług, nadany zgodnie z art. 97 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
+2a. Koncesje na obrót paliwami ciekłymi w sytuacji, o której mowa w [art. 33](#art-33) ust. 1d, obrót paliwami ciekłymi z zagranicą oraz wytwarzanie paliw ciekłych określają ponadto numer, za pomocą którego podmiot jest identyfikowany w obrocie paliwami ciekłymi na potrzeby podatku od towarów i usług, nadany zgodnie z art. 97 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
 
-2b. W przypadku gdy ustawa wymaga spełnienia warunku, o którym mowa w art. 33 ust. 1b pkt 1, dane wskazane w ust. 1 pkt 1, 2 i 7 oraz ust. 2a dotyczą oddziału przedsiębiorcy zagranicznego prowadzącego działalność na terytorium Rzeczypospolitej Polskiej w ramach oddziału z siedzibą na terytorium Rzeczypospolitej Polskiej utworzonego na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej.
+2b. W przypadku gdy ustawa wymaga spełnienia warunku, o którym mowa w [art. 33](#art-33) ust. 1b pkt 1, dane wskazane w ust. 1 pkt 1, 2 i 7 oraz ust. 2a dotyczą oddziału przedsiębiorcy zagranicznego prowadzącego działalność na terytorium Rzeczypospolitej Polskiej w ramach oddziału z siedzibą na terytorium Rzeczypospolitej Polskiej utworzonego na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej.
 
 2c. W przypadku zmiany danych, o których mowa w ust. 1 pkt 1 i 7 oraz ust. 2a, przedsiębiorstwo energetyczne jest obowiązane złożyć wniosek o zmianę koncesji najpóźniej w terminie 7 dni od dnia zaistnienia tych zmian.
 
-2d. Przedsiębiorstwo energetyczne posiadające koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą jest obowiązane zgłaszać Prezesowi URE zmiany danych, o których mowa w art. 35 ust. 1c pkt 4 i 5, w terminie 14 dni od dnia zaistnienia tych zmian.
+2d. Przedsiębiorstwo energetyczne posiadające koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą jest obowiązane zgłaszać Prezesowi URE zmiany danych, o których mowa w [art. 35](#art-35) ust. 1c pkt 4 i 5, w terminie 14 dni od dnia zaistnienia tych zmian.
 
 3. (uchylony)
 
+<a id="art-37a"></a>
 ### Art. 37a.
 
 1. Zmiana w strukturze kapitału zakładowego spółek prowadzących działalność w zakresie wytwarzania paliw ciekłych, obrotu paliwami ciekłymi oraz obrotu paliwami ciekłymi z zagranicą, która powoduje przekroczenie odpowiednio 20 %, 30 %, 40 %, 50 %, 60 %, 70 %, 80 % i 90 % ogólnej liczby głosów na walnym zgromadzeniu lub udziału w kapitale zakładowym, wymaga zawiadomienia Prezesa URE w terminie 7 dni od dnia zarejestrowania tych zmian w Krajowym Rejestrze Sądowym.
@@ -7380,6 +7972,7 @@ a) w przypadku spółki handlowej, o której mowa w ust. 2 pkt 2 lit. a – spra
 
 b) w przypadku osoby fizycznej, o której mowa w ust. 2 pkt 2 lit. b – zaświadczenie właściwego naczelnika urzędu skarbowego o pokryciu środków z ujawnionych źródeł przychodów.
 
+<a id="art-38"></a>
 ### Art. 38.
 
 1. Udzielenie koncesji może być uzależnione od złożenia przez wnioskodawcę zabezpieczenia majątkowego w celu zaspokojenia roszczeń osób trzecich, mogących powstać wskutek niewłaściwego wykonywania działalności gospodarczej objętej koncesją, w tym szkód w środowisku.
@@ -7418,13 +8011,14 @@ b) w przypadku osoby fizycznej, o której mowa w ust. 2 pkt 2 lit. b – zaświa
 
 18. Do działalności gospodarczej w zakresie wytwarzania paliw ciekłych oraz obrotu paliwami ciekłymi z zagranicą nie stosuje się przepisów ust. 1–17.
 
+<a id="art-38a"></a>
 ### Art. 38a.
 
 1. Udzielenie koncesji na wytwarzanie paliw ciekłych oraz koncesji na obrót paliwami ciekłymi z zagranicą wymaga złożenia przez wnioskodawcę zabezpieczenia majątkowego w wysokości 10 000 000 złotych, w celu zabezpieczenia powstałych albo mogących powstać należności związanych z wykonywaną działalnością koncesjonowaną, z tytułu:
 
-1) opłat, o których mowa w art. 34 ust. 1;
+1) opłat, o których mowa w [art. 34](#art-34) ust. 1;
 
-2) kar, o których mowa w art. 56 ust. 1 pkt 12;
+2) kar, o których mowa w [art. 56](#art-56) ust. 1 pkt 12;
 
 3) opłaty zapasowej, o której mowa w art. 21b i kar, o których mowa w art. 63 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym;
 
@@ -7436,7 +8030,7 @@ b) w przypadku osoby fizycznej, o której mowa w ust. 2 pkt 2 lit. b – zaświa
 
 7) odsetek za zwłokę w zapłacie należności wymienionych w pkt 1–6.
 
-1a.[181)] W przypadku gdy koncesja na wytwarzanie paliw ciekłych dotyczy działalności jedynie w zakresie wytwarzania paliw ciekłych w procesie, o którym mowa w art. 3 pkt 45 lit. b tiret czwarte, wysokość zabezpieczenia majątkowego, o którym mowa w ust. 1, wynosi 1 000 000 złotych.
+1a.[181)] W przypadku gdy koncesja na wytwarzanie paliw ciekłych dotyczy działalności jedynie w zakresie wytwarzania paliw ciekłych w procesie, o którym mowa w [art. 3](#art-3) pkt 45 lit. b tiret czwarte, wysokość zabezpieczenia majątkowego, o którym mowa w ust. 1, wynosi 1 000 000 złotych.
 
 2. Zabezpieczenie majątkowe ustanawia się na okresy nie krótsze niż 12 miesięcy wykonywania działalności objętej wnioskiem pod warunkiem, że będzie odnawiane na zasadach określonych w ust. 6.
 
@@ -7460,34 +8054,38 @@ b) w przypadku osoby fizycznej, o której mowa w ust. 2 pkt 2 lit. b – zaświa
 
 6. W przypadku ograniczenia terminem końcowym zabezpieczenia majątkowego, przedsiębiorstwo energetyczne obowiązane jest każdorazowo, na miesiąc przed upływem terminu wygaśnięcia tego zabezpieczenia, do przedstawienia zabezpieczenia na kolejny okres wykonywania działalności, nie krótszy niż 12 miesięcy.
 
+<a id="art-38b"></a>
 ### Art. 38b.
 
-Jeżeli złożone zabezpieczenie majątkowe, o którym mowa w art. 38a ust. 1, nie spełnia wymagań dotyczących wysokości lub okresu, na które jest składane, właściwy naczelnik urzędu skarbowego żąda przedłużenia okresu, którego dotyczy zabezpieczenie majątkowe, lub uzupełnienia zabezpieczenia majątkowego.
+Jeżeli złożone zabezpieczenie majątkowe, o którym mowa w [art. 38a](#art-38a) ust. 1, nie spełnia wymagań dotyczących wysokości lub okresu, na które jest składane, właściwy naczelnik urzędu skarbowego żąda przedłużenia okresu, którego dotyczy zabezpieczenie majątkowe, lub uzupełnienia zabezpieczenia majątkowego.
 
+<a id="art-38c"></a>
 ### Art. 38c.
 
 1. Naczelnik urzędu skarbowego, z urzędu lub na wniosek właściwego organu, wydaje decyzję o pokryciu należności z zabezpieczenia majątkowego, gdy:
 
-1) kwota należności, o których mowa w art. 38a ust. 1, nie została zapłacona w terminie;
+1) kwota należności, o których mowa w [art. 38a](#art-38a) ust. 1, nie została zapłacona w terminie;
 
-2) przedsiębiorstwo energetyczne nie może pokryć z własnych środków kosztów zapłaty należności, o których mowa w art. 38a ust. 1.
+2) przedsiębiorstwo energetyczne nie może pokryć z własnych środków kosztów zapłaty należności, o których mowa w [art. 38a](#art-38a) ust. 1.
 
 2. Decyzja, o której mowa w ust. 1, jest natychmiast wykonalna.
 
-3. W przypadku zaspokojenia należności z zabezpieczenia majątkowego, o których mowa w art. 38a ust. 1, przedsiębiorstwo energetyczne ma obowiązek każdorazowego uzupełnienia zabezpieczenia do wymaganej kwoty w terminie 30 dni od dnia wykorzystania zabezpieczenia.
+3. W przypadku zaspokojenia należności z zabezpieczenia majątkowego, o których mowa w [art. 38a](#art-38a) ust. 1, przedsiębiorstwo energetyczne ma obowiązek każdorazowego uzupełnienia zabezpieczenia do wymaganej kwoty w terminie 30 dni od dnia wykorzystania zabezpieczenia.
 
 4. Jeżeli zabezpieczenie majątkowe nie pokrywa w całości należności, należności te pokrywa się stosunkowo do wysokości każdej z nich.
 
 5. W przypadku zaspokojenia z zabezpieczenia majątkowego należności z tytułu opłaty zapasowej, o której mowa w art. 21b ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, należność z tytułu kary, o której mowa w art. 63 ust. 1 pkt 1a tej ustawy, pokrywa się tylko do wysokości różnicy między nimi.
 
+<a id="art-38d"></a>
 ### Art. 38d.
 
-1. Jeżeli należność, o której mowa w art. 38a ust. 1, nie może powstać lub wygaśnie do czasu zakończenia działalności koncesjonowanej, zabezpieczenie majątkowe, o którym mowa w art. 38a ust. 1, jest zwalniane przez naczelnika urzędu skarbowego, w drodze postanowienia, w terminie miesiąca od dnia zakończenia działalności koncesjonowanej.
+1. Jeżeli należność, o której mowa w [art. 38a](#art-38a) ust. 1, nie może powstać lub wygaśnie do czasu zakończenia działalności koncesjonowanej, zabezpieczenie majątkowe, o którym mowa w [art. 38a](#art-38a) ust. 1, jest zwalniane przez naczelnika urzędu skarbowego, w drodze postanowienia, w terminie miesiąca od dnia zakończenia działalności koncesjonowanej.
 
-2. Zabezpieczenie majątkowe nie może zostać zwolnione, dopóki należność, o której mowa w art. 38a ust. 1, nie wygaśnie lub będzie mogła powstać, nie dłużej jednak niż do 6 miesięcy od dnia zakończenia działalności koncesjonowanej.
+2. Zabezpieczenie majątkowe nie może zostać zwolnione, dopóki należność, o której mowa w [art. 38a](#art-38a) ust. 1, nie wygaśnie lub będzie mogła powstać, nie dłużej jednak niż do 6 miesięcy od dnia zakończenia działalności koncesjonowanej.
 
-3. Naczelnik urzędu skarbowego doręcza postanowienie, o którym mowa w ust. 1, także podmiotowi udzielającemu zabezpieczenia majątkowego, o którym mowa w art. 38a ust. 1.
+3. Naczelnik urzędu skarbowego doręcza postanowienie, o którym mowa w ust. 1, także podmiotowi udzielającemu zabezpieczenia majątkowego, o którym mowa w [art. 38a](#art-38a) ust. 1.
 
+<a id="art-38e"></a>
 ### Art. 38e.
 
 1. W sprawie przyjęcia, przedłużenia terminu ważności, podwyższenia wysokości, zmiany formy, zwrotu lub zwolnienia zabezpieczenia majątkowego, naczelnik urzędu skarbowego wydaje postanowienie, na które służy zażalenie.
@@ -7496,18 +8094,22 @@ Jeżeli złożone zabezpieczenie majątkowe, o którym mowa w art. 38a ust. 1, n
 
 3. Naczelnik urzędu skarbowego niezwłocznie informuje Prezesa URE o wydaniu postanowienia, o którym mowa w ust. 1.
 
+<a id="art-38f"></a>
 ### Art. 38f.
 
 W przypadku zmiany naczelnika urzędu skarbowego właściwego dla przyjęcia zabezpieczenia majątkowego naczelnik urzędu skarbowego właściwy przed zmianą właściwości przekazuje niezwłocznie właściwemu naczelnikowi urzędu skarbowego zabezpieczenie majątkowe.
 
+<a id="art-38g"></a>
 ### Art. 38g.
 
-Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzory treści gwarancji bankowych i ubezpieczeniowych, poręczenia i upoważnienia do wyłącznego dysponowania lokatą, składanych jako zabezpieczenie majątkowe, uwzględniając konieczność zapewnienia prawidłowej realizacji przez gwaranta zobowiązania, o którym mowa w art. 38a ust. 1.
+Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzory treści gwarancji bankowych i ubezpieczeniowych, poręczenia i upoważnienia do wyłącznego dysponowania lokatą, składanych jako zabezpieczenie majątkowe, uwzględniając konieczność zapewnienia prawidłowej realizacji przez gwaranta zobowiązania, o którym mowa w [art. 38a](#art-38a) ust. 1.
 
+<a id="art-39"></a>
 ### Art. 39.
 
 Przedsiębiorstwo energetyczne może złożyć wniosek o przedłużenie ważności koncesji, nie później niż na 18 miesięcy przed jej wygaśnięciem.
 
+<a id="art-40"></a>
 ### Art. 40.
 
 1. Prezes URE może nakazać, w drodze decyzji, przedsiębiorstwu energetycznemu, w tym także w upadłości, dalsze prowadzenie działalności objętej koncesją przez okres nie dłuższy niż 2 lata, jeśli wymaga tego interes społeczny.
@@ -7518,6 +8120,7 @@ Przedsiębiorstwo energetyczne może złożyć wniosek o przedłużenie ważnoś
 
 4. Koszty działalności, o których mowa w ust. 3, są ustalane przez Prezesa URE po zakończeniu okresu objętego decyzją, o której mowa w ust. 1 lub 2.
 
+<a id="art-41"></a>
 ### Art. 41.
 
 1. Prezes URE może zmienić warunki wydanej koncesji.
@@ -7532,17 +8135,17 @@ Przedsiębiorstwo energetyczne może złożyć wniosek o przedłużenie ważnoś
 
 3) w przypadku zmiany, w zakresie określonym w ustawie, warunków wykonywanej działalności gospodarczej objętej koncesją;
 
-4) niespełniania któregokolwiek z warunków, o których mowa w art. 33 ust. 1, lub w przypadku wystąpienia okoliczności, których mowa w art. 33 ust. 3 pkt 2–7 lub ust. 3a.
+4) niespełniania któregokolwiek z warunków, o których mowa w [art. 33](#art-33) ust. 1, lub w przypadku wystąpienia okoliczności, których mowa w [art. 33](#art-33) ust. 3 pkt 2–7 lub ust. 3a.
 
 2a. Prezes URE cofa koncesję na obrót gazem ziemnym z zagranicą, również w przypadku gdy przedsiębiorstwo energetyczne nie utrzymuje zapasów obowiązkowych gazu ziemnego lub nie zapewnia ich dostępności zgodnie z art. 24 ust. 1 i 2, art. 24a oraz art. 25 ust. 2 albo ust. 5 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym.
 
 2b. Prezes URE cofa koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą również w przypadku, gdy przedsiębiorstwo energetyczne:
 
-1) nie spełnia któregokolwiek z warunków, o których mowa w art. 33 ust. 1b pkt 1–3, lub występują wobec tego przedsiębiorstwa okoliczności, o których mowa w art. 33 ust. 3 pkt 1;
+1) nie spełnia któregokolwiek z warunków, o których mowa w [art. 33](#art-33) ust. 1b pkt 1–3, lub występują wobec tego przedsiębiorstwa okoliczności, o których mowa w [art. 33](#art-33) ust. 3 pkt 1;
 
 2) nie spełnia warunku, o którym mowa w art. 33 ust. 1b pkt 4, chyba że zawarło jedną z umów, o których mowa w art. 10 lub art. 11 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym;
 
-3) posługuje się przy sprzedaży albo obrocie paliwami ciekłymi numerem identyfikacyjnym innym, niż określony w koncesji zgodnie z art. 37 ust. 2a;
+3) posługuje się przy sprzedaży albo obrocie paliwami ciekłymi numerem identyfikacyjnym innym, niż określony w koncesji zgodnie z [art. 37](#art-37) ust. 2a;
 
 4) pomimo wezwania ze strony Prezesa Rządowej Agencji Rezerw Strategicznych nie utrzymuje zapasów obowiązkowych ropy lub paliw, o których mowa w art. 5 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, w przewidzianym terminie i wymaganej ilości lub nie wnosi opłaty zapasowej, o której mowa w art. 21b ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, w należnej wysokości albo w terminie;
 
@@ -7556,11 +8159,11 @@ Przedsiębiorstwo energetyczne może złożyć wniosek o przedłużenie ważnoś
 
 a) z powodu wydania prawomocnego orzeczenia zakazującego wykonywania działalności gospodarczej w tym zakresie,
 
-b) z przyczyn określonych w ust. 2 pkt 4 w zakresie art. 33 ust. 3 pkt 3, 6 lub 7 lub ust. 3a;
+b) z przyczyn określonych w ust. 2 pkt 4 w zakresie [art. 33](#art-33) ust. 3 pkt 3, 6 lub 7 lub ust. 3a;
 
-3) przedsiębiorstwo energetyczne nie spełnia warunków, o których mowa w art. 33 ust. 1b pkt 1 i 3, jeżeli są wymagane zgodnie z art. 33 ust. 1d;
+3) przedsiębiorstwo energetyczne nie spełnia warunków, o których mowa w [art. 33](#art-33) ust. 1b pkt 1 i 3, jeżeli są wymagane zgodnie z [art. 33](#art-33) ust. 1d;
 
-4) wobec przedsiębiorstwa energetycznego występują okoliczności, o których mowa w art. 33 ust. 3 pkt 1.
+4) wobec przedsiębiorstwa energetycznego występują okoliczności, o których mowa w [art. 33](#art-33) ust. 3 pkt 1.
 
 3. Prezes URE cofa koncesję albo zmienia jej zakres, w przypadku gdy przedsiębiorstwo energetyczne:
 
@@ -7574,25 +8177,25 @@ b) z przyczyn określonych w ust. 2 pkt 4 w zakresie art. 33 ust. 3 pkt 3, 6 lub
 
 2) w przypadku podziału przedsiębiorstwa energetycznego lub jego łączenia z innymi podmiotami;
 
-3) w przypadku niewykonania obowiązku, o którym mowa w art. 37 ust. 2c, w zakresie art. 37 ust. 1 pkt 1 i 7;
+3) w przypadku niewykonania obowiązku, o którym mowa w [art. 37](#art-37) ust. 2c, w zakresie [art. 37](#art-37) ust. 1 pkt 1 i 7;
 
 4) w przypadku wydania przez Prezesa Urzędu Ochrony Konkurencji i Konsumentów wobec przedsiębiorstwa energetycznego prawomocnej decyzji o uznaniu praktyki za naruszającą zbiorowe interesy konsumentów w rozumieniu art. 24 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów;
 
-5) w przypadku nieprzedstawienia przez wnioskodawcę zabezpieczenia majątkowego, o którym mowa w art. 38 ust. 5;
+5) w przypadku nieprzedstawienia przez wnioskodawcę zabezpieczenia majątkowego, o którym mowa w [art. 38](#art-38) ust. 5;
 
-6) w przypadku nieuzupełnienia przez przedsiębiorstwo energetyczne zabezpieczenia majątkowego, o którym mowa w art. 38 ust. 1;
+6) w przypadku nieuzupełnienia przez przedsiębiorstwo energetyczne zabezpieczenia majątkowego, o którym mowa w [art. 38](#art-38) ust. 1;
 
 7) w przypadku stwierdzenia, że koncesjonariusz nie daje rękojmi prawidłowego wykonywania działalności objętej koncesją.
 
 4a. Prezes URE może cofnąć koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą również w przypadku, gdy przedsiębiorstwo energetyczne:
 
-1) nie wykona jednego z obowiązków, o których mowa w art. 33 ust. 1c, art. 37 ust. 2c w zakresie art. 37 ust. 2a lub art. 37 ust. 2d;
+1) nie wykona jednego z obowiązków, o których mowa w [art. 33](#art-33) ust. 1c, [art. 37](#art-37) ust. 2c w zakresie [art. 37](#art-37) ust. 2a lub [art. 37](#art-37) ust. 2d;
 
 2) przez dwa kolejne miesiące nie przedstawi w terminie informacji, o których mowa w art. 22 ust. 1 i 3 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, albo przedstawi w tych informacjach dane nieprawdziwe;
 
 3) nie przekaże sprawozdania, o którym mowa w art. 30b ust. 1 ustawy o biokomponentach i biopaliwach ciekłych.
 
-4b. Prezes URE może cofnąć koncesję na obrót paliwami ciekłymi poza przypadkami określonymi w ust. 4 również w przypadku, gdy przedsiębiorstwo energetyczne nie wykona obowiązku, o którym mowa w art. 37 ust. 2c w zakresie art. 37 ust. 2a.
+4b. Prezes URE może cofnąć koncesję na obrót paliwami ciekłymi poza przypadkami określonymi w ust. 4 również w przypadku, gdy przedsiębiorstwo energetyczne nie wykona obowiązku, o którym mowa w [art. 37](#art-37) ust. 2c w zakresie [art. 37](#art-37) ust. 2a.
 
 5. W przypadku, o którym mowa w ust. 2 pkt 2, Prezes URE powiadamia o cofnięciu koncesji właściwego dla podatnika naczelnika urzędu skarbowego.
 
@@ -7612,22 +8215,26 @@ b) z przyczyn określonych w ust. 2 pkt 4 w zakresie art. 33 ust. 3 pkt 3, 6 lub
 
 4) podmiotów, którym wygasła koncesja, wraz z podaniem podstawy i daty wygaśnięcia koncesji.
 
+<a id="art-42"></a>
 ### Art. 42.
 
 Koncesja udzielona przedsiębiorstwu energetycznemu na podstawie ustawy wygasa przed upływem czasu, na jaki została wydana, z dniem wykreślenia tego przedsiębiorstwa z właściwego rejestru lub wykreślenia tego przedsiębiorstwa z ewidencji z innej przyczyny niż śmierć przedsiębiorcy.
 
+<a id="art-42a"></a>
 ### Art. 42a.
 
-1. Koncesja na wytwarzanie paliw ciekłych lub koncesja na obrót paliwami ciekłymi z zagranicą wygasa, jeżeli przedsiębiorstwo energetyczne przez kolejne 12 miesięcy nie wykaże w sprawozdaniach, o których mowa w art. 43d, prowadzenia działalności objętej koncesją.
+1. Koncesja na wytwarzanie paliw ciekłych lub koncesja na obrót paliwami ciekłymi z zagranicą wygasa, jeżeli przedsiębiorstwo energetyczne przez kolejne 12 miesięcy nie wykaże w sprawozdaniach, o których mowa w [art. 43d](#art-43d), prowadzenia działalności objętej koncesją.
 
 2. W przypadku określonym w ust. 1 Prezes URE, w drodze decyzji, stwierdza wygaśnięcie koncesji.
 
+<a id="art-42b"></a>
 ### Art. 42b.
 
 1. Koncesja na obrót gazem ziemnym z zagranicą wygasa, jeżeli przedsiębiorstwo energetyczne, w zakresie udzielonej koncesji, nie dokona obrotu gazem ziemnym z zagranicą przez kolejne następujące po sobie 12 miesięcy.
 
 2. W przypadku określonym w ust. 1 Prezes URE, w drodze decyzji, stwierdza wygaśnięcie koncesji.
 
+<a id="art-43"></a>
 ### Art. 43.
 
 1.182) Kto zamierza wykonywać działalność gospodarczą polegającą na wytwarzaniu, przetwarzaniu, magazynowaniu, przesyłaniu, dystrybucji oraz obrocie paliwami lub energią, magazynowaniu wodoru, skraplaniu gazu ziemnego i regazyfikacji skroplonego gazu ziemnego, podlegającą koncesjonowaniu, albo zmienić jej zakres, może ubiegać się o wydanie promesy koncesji albo promesy zmiany koncesji.
@@ -7650,7 +8257,7 @@ Koncesja udzielona przedsiębiorstwu energetycznemu na podstawie ustawy wygasa p
 
 2) stan faktyczny lub prawny podany we wniosku o wydanie promesy nie uległ zmianie w innym zakresie.
 
-5. Do wniosku o wydanie promesy stosuje się odpowiednio art. 35.
+5. Do wniosku o wydanie promesy stosuje się odpowiednio [art. 35](#art-35).
 
 6. (uchylony)
 
@@ -7678,20 +8285,23 @@ Koncesja udzielona przedsiębiorstwu energetycznemu na podstawie ustawy wygasa p
 
 3) datę wydania promesy oraz okres, na jaki została wydana.
 
+<a id="art-43a"></a>
 ### Art. 43a.
 
-1. Działalność gospodarcza w zakresie obrotu paliwami ciekłymi może być prowadzona wyłącznie pomiędzy przedsiębiorstwami energetycznymi posiadającymi wymagane koncesje, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie wytwarzania i obrotu paliwami ciekłymi, z wyłączeniem sprzedaży dla odbiorcy końcowego.
+1. Działalność gospodarcza w zakresie obrotu paliwami ciekłymi może być prowadzona wyłącznie pomiędzy przedsiębiorstwami energetycznymi posiadającymi wymagane koncesje, o których mowa w [art. 32](#art-32) ust. 1 pkt 1–4, w zakresie wytwarzania i obrotu paliwami ciekłymi, z wyłączeniem sprzedaży dla odbiorcy końcowego.
 
-2. Usługi w zakresie magazynowania lub przeładunku, przesyłania lub dystrybucji paliw ciekłych mogą być świadczone wyłącznie na rzecz przedsiębiorców energetycznych posiadających koncesje, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych, jeżeli są wymagane, lub na rzecz podmiotów przywożących wpisanych do rejestru, o którym mowa w art. 32a, jeżeli jest wymagany, oraz wpisanych do rejestru zapasów interwencyjnych, o którym mowa w art. 13 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, jeżeli wpis do tego rejestru jest wymagany, z wyłączeniem usług świadczonych na rzecz odbiorców końcowych paliw ciekłych.
+2. Usługi w zakresie magazynowania lub przeładunku, przesyłania lub dystrybucji paliw ciekłych mogą być świadczone wyłącznie na rzecz przedsiębiorców energetycznych posiadających koncesje, o których mowa w [art. 32](#art-32) ust. 1 pkt 1–4, w zakresie, w jakim dotyczą paliw ciekłych, jeżeli są wymagane, lub na rzecz podmiotów przywożących wpisanych do rejestru, o którym mowa w art. 32a, jeżeli jest wymagany, oraz wpisanych do rejestru zapasów interwencyjnych, o którym mowa w art. 13 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, jeżeli wpis do tego rejestru jest wymagany, z wyłączeniem usług świadczonych na rzecz odbiorców końcowych paliw ciekłych.
 
-3. Działalność gospodarcza w zakresie wytwarzania paliw ciekłych, magazynowania lub przeładunku paliw ciekłych, przesyłania lub dystrybucji paliw ciekłych oraz obrotu paliwami ciekłymi, w tym obrotu nimi z zagranicą, a także przywóz paliw ciekłych realizowany na podstawie wpisu do rejestru, o którym mowa w art. 32a, są prowadzone zgodnie z nazwą oraz klasyfikacją Nomenklatury Scalonej (kody CN), jaką posiadają paliwa ciekłe stosownie do przepisów wydanych na podstawie art. 32 ust. 6.
+3. Działalność gospodarcza w zakresie wytwarzania paliw ciekłych, magazynowania lub przeładunku paliw ciekłych, przesyłania lub dystrybucji paliw ciekłych oraz obrotu paliwami ciekłymi, w tym obrotu nimi z zagranicą, a także przywóz paliw ciekłych realizowany na podstawie wpisu do rejestru, o którym mowa w [art. 32a](#art-32a), są prowadzone zgodnie z nazwą oraz klasyfikacją Nomenklatury Scalonej (kody CN), jaką posiadają paliwa ciekłe stosownie do przepisów wydanych na podstawie [art. 32](#art-32) ust. 6.
 
 4. Sprzedaż paliw ciekłych z wykorzystaniem stacji kontenerowej jest dozwolona wyłącznie w celu zaopatrzenia w paliwa ciekłe Sił Zbrojnych, jednostek pływających żeglugi morskiej i śródlądowej, kolejnictwa oraz statków powietrznych lotnictwa cywilnego, a także w celu realizacji inwestycji o znaczeniu krajowym.
 
+<a id="art-43aa"></a>
 ### Art. 43aa.
 
 Za udzielenie koncesji lub jej zmianę oraz za udzielenie promesy lub jej zmianę pobiera się opłatę skarbową.
 
+<a id="art-43b"></a>
 ### Art. 43b.
 
 1. Prezes URE prowadzi rejestr przedsiębiorstw energetycznych posiadających koncesję.
@@ -7720,20 +8330,22 @@ f) seria i numer dokumentu tożsamości w przypadku osób fizycznych;
 
 3) aktualną treść koncesji.
 
-5. Rejestr, o którym mowa w ust. 1, w części, w jakiej dotyczy przedsiębiorstw energetycznych posiadających koncesje, o których mowa w art. 32 ust. 1 pkt 1–4, w zakresie paliw ciekłych, poza danymi, o których mowa w ust. 4, zawiera dodatkowo:
+5. Rejestr, o którym mowa w ust. 1, w części, w jakiej dotyczy przedsiębiorstw energetycznych posiadających koncesje, o których mowa w [art. 32](#art-32) ust. 1 pkt 1–4, w zakresie paliw ciekłych, poza danymi, o których mowa w ust. 4, zawiera dodatkowo:
 
 1) informacje o rodzajach paliw ciekłych objętych koncesją;
 
-2) informacje o złożonym zabezpieczeniu majątkowym, o którym mowa w art. 38a, oraz okresie jego ważności, jeżeli jest wymagane;
+2) informacje o złożonym zabezpieczeniu majątkowym, o którym mowa w [art. 38a](#art-38a), oraz okresie jego ważności, jeżeli jest wymagane;
 
 3) informacje o rodzajach i lokalizacji infrastruktury paliw ciekłych;
 
-4) numer, za pomocą którego podmiot identyfikowany jest na potrzeby podatku od towarów i usług, o którym mowa w art. 37 ust. 2a.
+4) numer, za pomocą którego podmiot identyfikowany jest na potrzeby podatku od towarów i usług, o którym mowa w [art. 37](#art-37) ust. 2a.
 
+<a id="art-43c"></a>
 ### Art. 43c.
 
 Prezes URE, co najmniej raz do roku, przekazuje w formie elektronicznej aktualny wykaz przedsiębiorstw energetycznych posiadających koncesje w zakresie, w jakim dotyczą paliw ciekłych: ministrowi właściwemu do spraw finansów publicznych, Prokuratorowi Generalnemu, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Komendantowi Głównemu Policji, Komendantowi Głównemu Państwowej Straży Pożarnej, Prezesowi Rządowej Agencji Rezerw Strategicznych, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, Prezesowi Urzędu Dozoru Technicznego, Dyrektorowi Transportowego Dozoru Technicznego, Prezesowi Głównego Urzędu Miar, Głównemu Inspektorowi Nadzoru Budowlanego, Głównemu Inspektorowi Ochrony Środowiska, Głównemu Inspektorowi Sanitarnemu oraz Głównemu Inspektorowi Pracy.
 
+<a id="art-43d"></a>
 ### Art. 43d.
 
 1. Przedsiębiorstwo energetyczne posiadające koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą, a także podmiot przywożący stosownie do swojej działalności, przekazuje Prezesowi URE miesięczne sprawozdanie o rodzajach oraz ilości wytworzonych, przywiezionych i wywiezionych paliw ciekłych, a także ich przeznaczeniu – w terminie 20 dni od dnia zakończenia miesiąca, którego dotyczy sprawozdanie.
@@ -7752,9 +8364,10 @@ Prezes URE, co najmniej raz do roku, przekazuje w formie elektronicznej aktualny
 
 6. (uchylony)
 
+<a id="art-43e"></a>
 ### Art. 43e.
 
-1.183) Przedsiębiorstwo energetyczne wykonujące działalność polegającą na wytwarzaniu paliw ciekłych, magazynowaniu lub przeładunku paliw ciekłych, przesyłaniu lub dystrybucji paliw ciekłych, obrocie paliwami ciekłymi, w tym obrocie nimi z zagranicą, a także podmiot przywożący przekazują Prezesowi URE przy użyciu formularza elektronicznego udostępnionego w systemie teleinformatycznym, o którym mowa w art. 43f ust. 1, informacje o rodzajach i lokalizacji infrastruktury paliw ciekłych wykorzystywanej do prowadzonej działalności w terminie 7 dni od dnia rozpoczęcia eksploatacji infrastruktury lub trwałego zaprzestania eksploatacji tej infrastruktury.
+1.183) Przedsiębiorstwo energetyczne wykonujące działalność polegającą na wytwarzaniu paliw ciekłych, magazynowaniu lub przeładunku paliw ciekłych, przesyłaniu lub dystrybucji paliw ciekłych, obrocie paliwami ciekłymi, w tym obrocie nimi z zagranicą, a także podmiot przywożący przekazują Prezesowi URE przy użyciu formularza elektronicznego udostępnionego w systemie teleinformatycznym, o którym mowa w [art. 43f](#art-43f) ust. 1, informacje o rodzajach i lokalizacji infrastruktury paliw ciekłych wykorzystywanej do prowadzonej działalności w terminie 7 dni od dnia rozpoczęcia eksploatacji infrastruktury lub trwałego zaprzestania eksploatacji tej infrastruktury.
 
 1a. W sprawozdaniu, o którym mowa w ust. 1, zamieszcza się także nazwę przedsiębiorstwa albo nazwę albo imię i nazwisko podmiotu, o których mowa w ust. 1, adres siedziby albo miejsca zamieszkania oraz numer identyfikacji podatkowej (NIP) albo numer PESEL, a także imię i nazwisko oraz numer telefonu, o ile taki numer posiada, osoby podpisującej sprawozdanie.
 
@@ -7762,15 +8375,16 @@ Prezes URE, co najmniej raz do roku, przekazuje w formie elektronicznej aktualny
 
 2. (uchylony)
 
-3. W celu zapewniania kontroli nad przedsiębiorstwami energetycznymi i podmiotami przywożącymi Prezes URE oraz organy, o których mowa w art. 23r ust. 3, w zakresie, w jakim wynika to z zakresu ich działania, są zobowiązane do stałej wymiany informacji o eksploatowanej lub trwale wycofanej z eksploatacji infrastrukturze paliw ciekłych na terytorium Rzeczypospolitej Polskiej, posiadanych przez te organy w związku z wykonywanymi przez nie zadaniami na podstawie przepisów odrębnych.
+3. W celu zapewniania kontroli nad przedsiębiorstwami energetycznymi i podmiotami przywożącymi Prezes URE oraz organy, o których mowa w [art. 23r](#art-23r) ust. 3, w zakresie, w jakim wynika to z zakresu ich działania, są zobowiązane do stałej wymiany informacji o eksploatowanej lub trwale wycofanej z eksploatacji infrastrukturze paliw ciekłych na terytorium Rzeczypospolitej Polskiej, posiadanych przez te organy w związku z wykonywanymi przez nie zadaniami na podstawie przepisów odrębnych.
 
+<a id="art-43f"></a>
 ### Art. 43f.
 
 1. Prezes Rządowej Agencji Rezerw Strategicznych:
 
 1) prowadzi portal Platforma Paliwowa, który umożliwia złożenie do:
 
-a) Prezesa URE: – sprawozdania, o którym mowa w art. 4ba ust. 4, – sprawozdania, o którym mowa w art. 43d ust. 1, – informacji, o których mowa w art. 43e ust. 1,
+a) Prezesa URE: – sprawozdania, o którym mowa w [art. 4ba](#art-4ba) ust. 4, – sprawozdania, o którym mowa w [art. 43d](#art-43d) ust. 1, – informacji, o których mowa w [art. 43e](#art-43e) ust. 1,
 
 b) Prezesa Rządowej Agencji Rezerw Strategicznych: – deklaracji, o której mowa w art. 22 ust. 1 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, – informacji, o której mowa w art. 22 ust. 1c ustawy, o której mowa w tiret pierwszym, – informacji, o której mowa w art. 22 ust. 3 ustawy, o której mowa w tiret pierwszym, – informacji, o której mowa w art. 22 ust. 3a ustawy, o której mowa w tiret pierwszym, – informacji, o której mowa w art. 38 ust. 1 ustawy, o której mowa w tiret pierwszym – oraz zapewnia przetwarzanie, wyszukiwanie, sortowanie, filtrowanie, przeglądanie, wydruk i korektę zgromadzonych w nim danych, a także ochronę przed nieuprawnionym dostępem osób trzecich, zniszczeniem oraz utratą danych;
 
@@ -7798,26 +8412,29 @@ e) wybrane przez użytkownika hasło.
 
 4. Administratorem danych osobowych w portalu Platforma Paliwowa jest Prezes Rządowej Agencji Rezerw Strategicznych.
 
-5.[68)] Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia szczegółowe dane umieszczane w sprawozdaniach, o których mowa w art. 4ba ust. 4 i art. 43d ust. 1, oraz informacjach, o których mowa w art. 43e ust. 1, kierując się koniecznością zachowania integralności danych sprawozdań, o których mowa w art. 4ba ust. 4 i art. 43d ust. 1, oraz informacji, o których mowa w art. 43e ust. 1, a w przypadku sprawozdania, o którym mowa w art. 4ba ust. 4, mając także na względzie zakres informacji i danych, określonych w art. 4ba ust. 5.
+5.[68)] Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia szczegółowe dane umieszczane w sprawozdaniach, o których mowa w [art. 4ba](#art-4ba) ust. 4 i [art. 43d](#art-43d) ust. 1, oraz informacjach, o których mowa w [art. 43e](#art-43e) ust. 1, kierując się koniecznością zachowania integralności danych sprawozdań, o których mowa w [art. 4ba](#art-4ba) ust. 4 i [art. 43d](#art-43d) ust. 1, oraz informacji, o których mowa w [art. 43e](#art-43e) ust. 1, a w przypadku sprawozdania, o którym mowa w [art. 4ba](#art-4ba) ust. 4, mając także na względzie zakres informacji i danych, określonych w [art. 4ba](#art-4ba) ust. 5.
 
 6. Prezes Rządowej Agencji Rezerw Strategicznych określa sposób korzystania z portalu Platforma Paliwowa w regulaminie. Prezes Rządowej Agencji Rezerw Strategicznych udostępnia regulamin w portalu Platforma Paliwowa oraz w Biuletynie Informacji Publicznej na stronie podmiotowej Rządowej Agencji Rezerw Strategicznych.
 
+<a id="art-43f1"></a>
 ### Art. 43f[1]. [184)]
 
-1. Portal Platforma Paliwowa jest niedostępny, jeżeli użytkownicy nie mają możliwości złożenia sprawozdań, informacji, deklaracji lub zestawień, o których mowa w art. 43f ust. 1 pkt 1.
+1. Portal Platforma Paliwowa jest niedostępny, jeżeli użytkownicy nie mają możliwości złożenia sprawozdań, informacji, deklaracji lub zestawień, o których mowa w [art. 43f](#art-43f) ust. 1 pkt 1.
 
 2. W przypadku stwierdzenia niedostępności Portalu Platforma Paliwowa, Prezes Rządowej Agencji Rezerw Strategicznych niezwłocznie ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Rządowej Agencji Rezerw Strategicznych informację o czasie wystąpienia i przyczynie niedostępności.
 
-3. Jeżeli niedostępność, o której mowa w ust. 2, będzie trwała w ostatnim dniu terminu, do upływu którego istnieje obowiązek złożenia dokumentów, o których mowa w art. 43f ust. 1 pkt 1, termin na złożenie dokumentów wydłuża się o trzy dni od dnia następującego po przywróceniu dostępności Portalu Platforma Paliwowa.
+3. Jeżeli niedostępność, o której mowa w ust. 2, będzie trwała w ostatnim dniu terminu, do upływu którego istnieje obowiązek złożenia dokumentów, o których mowa w [art. 43f](#art-43f) ust. 1 pkt 1, termin na złożenie dokumentów wydłuża się o trzy dni od dnia następującego po przywróceniu dostępności Portalu Platforma Paliwowa.
 
-4. Złożenie dokumentów, o których mowa w art. 43f ust. 1 pkt 1, w terminie określonym w ust. 3 uznaje się za złożenie z zachowaniem terminu.
+4. Złożenie dokumentów, o których mowa w [art. 43f](#art-43f) ust. 1 pkt 1, w terminie określonym w ust. 3 uznaje się za złożenie z zachowaniem terminu.
 
 5. Po przywróceniu funkcjonalności Portalu Platforma Paliwowa, Prezes Rządowej Agencji Rezerw Strategicznych niezwłocznie ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Rządowej Agencji Rezerw Strategicznych informację o czasie przywrócenia dostępności tego portalu.
 
+<a id="art-43fa"></a>
 ### Art. 43fa.
 
-68) Dane zgromadzone w portalu Platforma Paliwowa, w zakresie, o którym mowa w art. 43f ust. 1 pkt 1, mogą być przetwarzane przez Prezesa Rządowej Agencji Rezerw Strategicznych, Prezesa URE, ministra właściwego do spraw gospodarki surowcami energetycznymi oraz ministra właściwego do spraw finansów publicznych wyłącznie w zakresie niezbędnym dla zrealizowania uprawnienia lub spełnienia obowiązku wynikającego z przepisów prawa.
+68) Dane zgromadzone w portalu Platforma Paliwowa, w zakresie, o którym mowa w [art. 43f](#art-43f) ust. 1 pkt 1, mogą być przetwarzane przez Prezesa Rządowej Agencji Rezerw Strategicznych, Prezesa URE, ministra właściwego do spraw gospodarki surowcami energetycznymi oraz ministra właściwego do spraw finansów publicznych wyłącznie w zakresie niezbędnym dla zrealizowania uprawnienia lub spełnienia obowiązku wynikającego z przepisów prawa.
 
+<a id="art-43g"></a>
 ### Art. 43g.
 
 1. Operator systemu elektroenergetycznego prowadzi, w postaci elektronicznej, rejestr magazynów energii elektrycznej przyłączonych do jego sieci, stanowiących jej część lub wchodzących w skład jednostki wytwórczej lub instalacji odbiorcy końcowego przyłączonej do jego sieci, zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 9.
@@ -7866,6 +8483,7 @@ h) wskazanie, czy magazyn energii elektrycznej stanowi część jednostki wytwó
 
 9. Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór rejestru magazynów energii elektrycznej, wzór informacji, o której mowa w ust. 5, oraz jej aktualizacji, a także format danych zamieszczanych w rejestrze magazynów energii elektrycznej, kierując się koniecznością ujednolicenia formy przekazywania informacji dotyczących magazynów energii elektrycznej oraz możliwością agregowania informacji zawartej w rejestrach magazynów energii elektrycznej prowadzonych przez operatorów systemu elektroenergetycznego.
 
+<a id="art-43h"></a>
 ### Art. 43h. [185)]
 
 1. Operator systemu wodorowego prowadzi, w postaci elektronicznej, rejestr instalacji magazynowych wodoru przyłączonych do jego sieci, stanowiącej część tej sieci lub wchodzących w skład jednostki wytwórczej lub instalacji odbiorcy końcowego przyłączonej do tej sieci, zgodnie ze wzorem określonym w przepisach wydanych na podstawie ust. 8, w celu zapewnienia możliwości monitorowania rozwoju rynku instalacji magazynowych wodoru.
@@ -7916,6 +8534,7 @@ c) wchodzi w skład jednostki wytwórczej lub instalacji odbiorcy końcowego prz
 
 8. Minister właściwy do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia, wzór rejestru instalacji magazynowych wodoru, wzór informacji, o której mowa w ust. 3, oraz jej aktualizacji, a także format danych zamieszczanych w rejestrze instalacji magazynowych wodoru, kierując się koniecznością ujednolicenia formy przekazywania informacji dotyczących instalacji magazynowych wodoru oraz możliwością agregowania informacji zawartej w rejestrach instalacji magazynowych wodoru prowadzonych przez operatora systemu wodorowego.
 
+<a id="art-44"></a>
 ### Art. 44.
 
 1. Przedsiębiorstwo energetyczne, zapewniając równoprawne traktowanie odbiorców oraz eliminowanie subsydiowania skrośnego, jest obowiązane prowadzić ewidencję księgową w sposób umożliwiający odrębne obliczenie kosztów i przychodów, zysków i strat dla wykonywanej działalności gospodarczej w zakresie:
@@ -7944,13 +8563,15 @@ c) wchodzi w skład jednostki wytwórczej lub instalacji odbiorcy końcowego prz
 
 6. Przedsiębiorstwo energetyczne, które nie jest obowiązane na podstawie odrębnych przepisów do publikowania sprawozdań finansowych, udostępnia te sprawozdania do publicznego wglądu w swojej siedzibie.
 
+<a id="art-44a"></a>
 ### Art. 44a.
 
-Niezależnie od obowiązków wskazanych w art. 44 ust. 1, operator systemu przesyłowego gazowego jest obowiązany prowadzić ewidencję księgową w sposób umożliwiający odrębne obliczanie przychodów i kosztów, zysków i strat dla wykonywanej działalności w zakresie bilansowania systemu przesyłowego gazowego oraz dla zarządzania ograniczeniami systemowymi.
+Niezależnie od obowiązków wskazanych w [art. 44](#art-44) ust. 1, operator systemu przesyłowego gazowego jest obowiązany prowadzić ewidencję księgową w sposób umożliwiający odrębne obliczanie przychodów i kosztów, zysków i strat dla wykonywanej działalności w zakresie bilansowania systemu przesyłowego gazowego oraz dla zarządzania ograniczeniami systemowymi.
 
+<a id="art-45"></a>
 ### Art. 45.
 
-1. Przedsiębiorstwa energetyczne ustalają taryfy dla paliw gazowych lub energii, stosownie do zakresu wykonywanej działalności gospodarczej, o którym mowa w art. 32 ust. 1, z wyłączeniem magazynowania energii elektrycznej i agregacji, które należy kalkulować w sposób zapewniający:
+1. Przedsiębiorstwa energetyczne ustalają taryfy dla paliw gazowych lub energii, stosownie do zakresu wykonywanej działalności gospodarczej, o którym mowa w [art. 32](#art-32) ust. 1, z wyłączeniem magazynowania energii elektrycznej i agregacji, które należy kalkulować w sposób zapewniający:
 
 1) pokrycie kosztów uzasadnionych działalności gospodarczej przedsiębiorstw energetycznych w zakresie wytwarzania, przetwarzania, przesyłania, dystrybucji lub obrotu paliwami gazowymi i energią oraz magazynowania, skraplania lub regazyfikacji paliw gazowych, wraz z uzasadnionym zwrotem z kapitału zaangażowanego w tę działalność;
 
@@ -7962,13 +8583,13 @@ Niezależnie od obowiązków wskazanych w art. 44 ust. 1, operator systemu przes
 
 2a) pokrycie kosztów uzasadnionych działalności gospodarczej przedsiębiorstw energetycznych w zakresie budowy i przyłączania infrastruktury ładowania drogowego transportu publicznego i powiązanych z nią instalacji magazynowania energii lub budowy i przyłączania stacji gazu ziemnego, o których mowa w art. 21 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, wraz z uzasadnionym zwrotem z kapitału zaangażowanego w tę działalność w wysokości nie mniejszej niż stopa zwrotu na poziomie 6 %;
 
-2b) pokrycie kosztów uzasadnionych ponoszonych przez operatorów systemów przesyłowych i dystrybucyjnych w związku z realizacją zadań i inwestycji priorytetowych, o których mowa w art. 16 ust. 1a, ustalonych w sposób, o którym mowa w art. 23 ust. 2 pkt 3 lit. g oraz h, wraz z uzasadnionym zwrotem z kapitału zaangażowanego w te zadania;
+2b) pokrycie kosztów uzasadnionych ponoszonych przez operatorów systemów przesyłowych i dystrybucyjnych w związku z realizacją zadań i inwestycji priorytetowych, o których mowa w [art. 16](#art-16) ust. 1a, ustalonych w sposób, o którym mowa w [art. 23](#art-23) ust. 2 pkt 3 lit. g oraz h, wraz z uzasadnionym zwrotem z kapitału zaangażowanego w te zadania;
 
 3) ochronę interesów odbiorców przed nieuzasadnionym poziomem cen i stawek opłat;
 
 4) w odniesieniu do taryf dla energii elektrycznej – realizację przedsięwzięć z zakresu ochrony przeciwpożarowej.
 
-1a. W kosztach działalności przedsiębiorstw energetycznych zajmujących się przesyłaniem i dystrybucją energii elektrycznej, o których mowa w ust. 1 pkt 1, uwzględnia się koszty, które wynikają z nakładów ponoszonych na przedsięwzięcia inwestycyjne podjęte przez przedsiębiorstwa energetyczne zajmujące się wytwarzaniem energii elektrycznej w latach 1993–1998, służące poprawie ochrony środowiska i efektywności wytwarzania energii elektrycznej, w części, jaką zatwierdzi Prezes URE, z uwzględnieniem przychodów uzyskanych ze sprzedaży energii elektrycznej na rynku konkurencyjnym, o którym mowa w art. 49 ust. 1.
+1a. W kosztach działalności przedsiębiorstw energetycznych zajmujących się przesyłaniem i dystrybucją energii elektrycznej, o których mowa w ust. 1 pkt 1, uwzględnia się koszty, które wynikają z nakładów ponoszonych na przedsięwzięcia inwestycyjne podjęte przez przedsiębiorstwa energetyczne zajmujące się wytwarzaniem energii elektrycznej w latach 1993–1998, służące poprawie ochrony środowiska i efektywności wytwarzania energii elektrycznej, w części, jaką zatwierdzi Prezes URE, z uwzględnieniem przychodów uzyskanych ze sprzedaży energii elektrycznej na rynku konkurencyjnym, o którym mowa w [art. 49](#art-49) ust. 1.
 
 1b. Przepisów ust. 1a nie stosuje się od dnia powstania obowiązku uiszczania opłaty przejściowej, o której mowa w ustawie z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311).
 
@@ -7984,7 +8605,7 @@ Niezależnie od obowiązków wskazanych w art. 44 ust. 1, operator systemu przes
 
 1g. Koszty związane z budową stacji gazu ziemnego, o której mowa w art. 21 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, w liczbie, o której mowa w art. 60 ust. 2 tej ustawy, ogólnodostępnej stacji ładowania, o której mowa w art. 64 ust. 1 tej ustawy, lub infrastruktury ładowania drogowego transportu publicznego, przedsiębiorstwo energetyczne zajmujące się dystrybucją paliw gazowych lub energii elektrycznej uwzględnia w kosztach swojej działalności.
 
-1h. W kosztach działalności operatora systemu przesyłowego elektroenergetycznego, o których mowa w ust. 1 pkt 1, uwzględnia się koszty wykonania obowiązku, o którym mowa w art. 16b ust. 3.
+1h. W kosztach działalności operatora systemu przesyłowego elektroenergetycznego, o których mowa w ust. 1 pkt 1, uwzględnia się koszty wykonania obowiązku, o którym mowa w [art. 16b](#art-16b) ust. 3.
 
 1i. W kosztach działalności przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją energii elektrycznej, o których mowa w ust. 1 pkt 1, uwzględnia się koszty uzasadnione związane z tworzeniem i funkcjonowaniem systemu pomiarowego, systemu zdalnego odczytu lub centralnego systemu informacji rynku energii oraz wykonywania innych zadań wynikających z ustawy, w szczególności wykonywania zadań operatora informacji rynku energii.
 
@@ -7998,9 +8619,9 @@ Niezależnie od obowiązków wskazanych w art. 44 ust. 1, operator systemu przes
 
 3) danin publicznoprawnych związanych bezpośrednio z majątkiem, o którym mowa w pkt 2,
 
-4) ustanowienia zabezpieczenia, o którym mowa w art. 9h ust. 5e – wraz z przysługującym właścicielowi zwrotem z kapitału zaangażowanego przez niego w majątek, o którym mowa w pkt 2.
+4) ustanowienia zabezpieczenia, o którym mowa w [art. 9h](#art-9h) ust. 5e – wraz z przysługującym właścicielowi zwrotem z kapitału zaangażowanego przez niego w majątek, o którym mowa w pkt 2.
 
-1l. W kosztach działalności przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją paliw gazowych, o których mowa w ust. 1 pkt 1, uwzględnia się koszty dostosowania lub wymiany sieci, instalacji i urządzeń gazowych do odbioru gazu ziemnego wysokometanowego, w szczególności koszty, o których mowa w art. 16c ust. 3.
+1l. W kosztach działalności przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją paliw gazowych, o których mowa w ust. 1 pkt 1, uwzględnia się koszty dostosowania lub wymiany sieci, instalacji i urządzeń gazowych do odbioru gazu ziemnego wysokometanowego, w szczególności koszty, o których mowa w [art. 16c](#art-16c) ust. 3.
 
 1m. W kosztach działalności operatorów systemów dystrybucyjnych elektroenergetycznych, o których mowa w ust. 1 pkt 2, uwzględnia się koszty uzasadnione związane z działalnością w organizacji OSD UE, zgodnie z art. 53 ust. 7 rozporządzenia 2019/943.
 
@@ -8012,11 +8633,11 @@ Niezależnie od obowiązków wskazanych w art. 44 ust. 1, operator systemu przes
 
 3. Taryfy dla paliw gazowych, energii elektrycznej i ciepła mogą uwzględniać koszty współfinansowania przez przedsiębiorstwa energetyczne przedsięwzięć związanych z rozwojem instalacji odnawialnego źródła energii.
 
-3a. Ustalając stopę zwrotu z kapitału, o której mowa w art. 23 ust. 2 pkt 3 lit. g oraz h, Prezes URE bierze pod uwagę w szczególności zakres wykorzystania nowych technologii oraz ryzyko związane z niepełnym zwrotem kosztów.
+3a. Ustalając stopę zwrotu z kapitału, o której mowa w [art. 23](#art-23) ust. 2 pkt 3 lit. g oraz h, Prezes URE bierze pod uwagę w szczególności zakres wykorzystania nowych technologii oraz ryzyko związane z niepełnym zwrotem kosztów.
 
-3b. W taryfach dla paliw gazowych i energii elektrycznej uwzględnia się stopień niewykonania harmonogramu inwestycji priorytetowych, o których mowa w art. 16 ust. 1a, odpowiadający kwotom wynikającym z niewykonanego zakresu tych inwestycji, o którym mowa w tym harmonogramie.
+3b. W taryfach dla paliw gazowych i energii elektrycznej uwzględnia się stopień niewykonania harmonogramu inwestycji priorytetowych, o których mowa w [art. 16](#art-16) ust. 1a, odpowiadający kwotom wynikającym z niewykonanego zakresu tych inwestycji, o którym mowa w tym harmonogramie.
 
-3c. W kosztach działalności operatora systemu przesyłowego gazowego, o których mowa w ust. 1 pkt 1, uwzględnia się koszty poniesione w związku z wykonaniem umowy, o której mowa w art. 4c ust. 3.
+3c. W kosztach działalności operatora systemu przesyłowego gazowego, o których mowa w ust. 1 pkt 1, uwzględnia się koszty poniesione w związku z wykonaniem umowy, o której mowa w [art. 4c](#art-4c) ust. 3.
 
 4. Przedsiębiorstwa energetyczne różnicują ceny i stawki opłat określone w taryfach dla paliw gazowych, energii elektrycznej i ciepła dla różnych grup odbiorców wyłącznie ze względu na koszty uzasadnione spowodowane realizacją świadczenia, o ile przepisy nie stanowią inaczej.
 
@@ -8028,7 +8649,7 @@ Niezależnie od obowiązków wskazanych w art. 44 ust. 1, operator systemu przes
 
 6a. Taryfy dla energii elektrycznej uwzględniają charakterystykę poboru przez infrastrukturę ładowania drogowego transportu publicznego oraz konieczność rozwoju zbiorowego transportu publicznego wykorzystującego pojazdy elektryczne.
 
-6b. Taryfy dla energii elektrycznej i paliw gazowych uwzględniają przychody z działalności niezwiązanej z działalnością, o której mowa w art. 44 ust. 1 pkt 1, związane z przychodami odpowiednio ogólnodostępnych stacji ładowania, lub punktów tankowania sprężonego gazu ziemnego (CNG), o których mowa odpowiednio w art. 64 ust. 1 lub art. 60 ust. 2 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
+6b. Taryfy dla energii elektrycznej i paliw gazowych uwzględniają przychody z działalności niezwiązanej z działalnością, o której mowa w [art. 44](#art-44) ust. 1 pkt 1, związane z przychodami odpowiednio ogólnodostępnych stacji ładowania, lub punktów tankowania sprężonego gazu ziemnego (CNG), o których mowa odpowiednio w art. 64 ust. 1 lub art. 60 ust. 2 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
 
 7. Płatnik, o którym mowa w art. 95 ust. 2 ustawy wymienionej w ust. 1d, uwzględnia w taryfie za usługi przesyłania lub dystrybucji energii elektrycznej w rozumieniu przepisów prawa energetycznego opłatę, o której mowa w art. 95 ust. 1 ustawy wymienionej w ust. 1d, ustalaną na podstawie stawki, o której mowa w art. 98 ust. 1 ustawy wymienionej w ust. 1d, obowiązującej w danym roku. Opłata, o której mowa w art. 95 ust. 1 ustawy wymienionej w ust. 1d, pomniejszona o kwotę podatku od towarów i usług stanowi u płatnika, o którym mowa w art. 95 ust. 2 ustawy wymienionej w ust. 1d, podstawę opodatkowania świadczonych przez niego usług w rozumieniu art. 29a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
 
@@ -8044,9 +8665,10 @@ Niezależnie od obowiązków wskazanych w art. 44 ust. 1, operator systemu przes
 
 13. Magazyn energii elektrycznej będący częścią jednostki wytwórczej lub instalacji odbiorcy końcowego wyposaża się w układ pomiarowo-rozliczeniowy rejestrujący ilość energii elektrycznej wprowadzonej do magazynu energii elektrycznej i wyprowadzonej z tego magazynu, z tym że w przypadku jednostki wytwórczej – niezależnie od układu pomiarowo-rozliczeniowego rejestrującego ilość energii elektrycznej pobranej z sieci i wprowadzonej do sieci przez tę jednostkę.
 
+<a id="art-45a"></a>
 ### Art. 45a.
 
-1. Przedsiębiorstwo energetyczne na podstawie cen i stawek opłat zawartych w taryfie lub cen i stawek opłat ustalanych na rynku konkurencyjnym, o którym mowa w art. 49 ust. 1, lub w przypadku sprzedaży energii elektrycznej na podstawie umowy z ceną dynamiczną energii elektrycznej, publikowanych przez podmiot, o którym mowa w art. 5 ust. 4f, wylicza opłaty za dostarczane do odbiorcy paliwa gazowe, energię elektryczną lub ciepło.
+1. Przedsiębiorstwo energetyczne na podstawie cen i stawek opłat zawartych w taryfie lub cen i stawek opłat ustalanych na rynku konkurencyjnym, o którym mowa w [art. 49](#art-49) ust. 1, lub w przypadku sprzedaży energii elektrycznej na podstawie umowy z ceną dynamiczną energii elektrycznej, publikowanych przez podmiot, o którym mowa w [art. 5](#art-5) ust. 4f, wylicza opłaty za dostarczane do odbiorcy paliwa gazowe, energię elektryczną lub ciepło.
 
 2. Opłaty, o których mowa w ust. 1, z uwzględnieniem udzielonych odbiorcy upustów i bonifikat, stanowią koszty zakupu paliw gazowych, energii elektrycznej lub ciepła dostarczanych do budynku, w którym znajdują się lokale mieszkalne i użytkowe, zamieszkane lub użytkowane przez osoby niebędące odbiorcami.
 
@@ -8132,38 +8754,43 @@ b) m2 powierzchni budynku wielolokalowego i powierzchni lokalu użytkowanego.
 
 13. W przypadku gdy ilość ciepła dostarczonego do budynku wielolokalowego w ciągu kolejnych 12 miesięcy przekracza 0,40 GJ w odniesieniu do m3 ogrzewanej kubatury budynku lub 0,30 GJ w odniesieniu do m3 przygotowanej ciepłej wody, właściciel lub zarządca budynku wykonuje audyt energetyczny tego budynku w celu określenia przyczyn nadmiernej energochłonności i wskazania sposobów ograniczenia zużycia ciepła przez ten budynek lub zmiany zamówionej mocy cieplnej.
 
+<a id="art-45aa"></a>
 ### Art. 45aa.
 
-191) Prezes URE ma prawo wglądu do dokumentów oraz żądania przedstawienia dokumentów lub informacji od właściciela lub zarządcy budynku wielolokalowego, o których mowa w art. 45a ust. 6, dotyczących wyposażenia lokali budynku wielolokalowego w przyrządy pomiarowe lub urządzenia umożliwiające rozliczanie kosztów ciepła według zużycia kosztów ogrzewania oraz zużycia ciepłej wody w tych lokalach, a także stosowania rozliczania kosztów według zużycia oraz wypełniania obowiązków informacyjnych, o których mowa w art. 45a ust. 4a i art. 45c.
+191) Prezes URE ma prawo wglądu do dokumentów oraz żądania przedstawienia dokumentów lub informacji od właściciela lub zarządcy budynku wielolokalowego, o których mowa w [art. 45a](#art-45a) ust. 6, dotyczących wyposażenia lokali budynku wielolokalowego w przyrządy pomiarowe lub urządzenia umożliwiające rozliczanie kosztów ciepła według zużycia kosztów ogrzewania oraz zużycia ciepłej wody w tych lokalach, a także stosowania rozliczania kosztów według zużycia oraz wypełniania obowiązków informacyjnych, o których mowa w [art. 45a](#art-45a) ust. 4a i [art. 45c](#art-45c).
 
+<a id="art-45b"></a>
 ### Art. 45b.
 
 (uchylony)
 
+<a id="art-45c"></a>
 ### Art. 45c.
 
 1. Właściciel lub zarządca budynku wielolokalowego dostarcza nieodpłatnie informację o rozliczeniach kosztów zakupu ciepła wszystkim użytkownikom lokali zaopatrywanym w energię cieplną, chłodniczą lub ciepłą wodę użytkową z centralnego źródła w budynku nie rzadziej niż raz w roku.
 
-2. Właściciel lub zarządca budynku wielolokalowego nieodpłatnie umożliwia raz w miesiącu uzyskanie informacji o zużyciu ciepła wszystkim użytkownikom lokali zaopatrywanym w energię cieplną, chłodniczą lub ciepłą wodę użytkową z centralnego źródła w budynku, jeżeli rozliczenie dokonywane jest na podstawie wskazań urządzeń, o których mowa w art. 45a ust. 7 pkt 2.
+2. Właściciel lub zarządca budynku wielolokalowego nieodpłatnie umożliwia raz w miesiącu uzyskanie informacji o zużyciu ciepła wszystkim użytkownikom lokali zaopatrywanym w energię cieplną, chłodniczą lub ciepłą wodę użytkową z centralnego źródła w budynku, jeżeli rozliczenie dokonywane jest na podstawie wskazań urządzeń, o których mowa w [art. 45a](#art-45a) ust. 7 pkt 2.
 
+<a id="art-45d"></a>
 ### Art. 45d.
 
 1. Minister właściwy do spraw energii określi, w drodze rozporządzenia:
 
-1) szczegółowe warunki ustalania technicznej możliwości i opłacalności zastosowania urządzeń, o których mowa w art. 45a ust. 7 pkt 2;
+1) szczegółowe warunki ustalania technicznej możliwości i opłacalności zastosowania urządzeń, o których mowa w [art. 45a](#art-45a) ust. 7 pkt 2;
 
-2) szczegółowe warunki wyboru metody, o której mowa w art. 45a ust. 9;
+2) szczegółowe warunki wyboru metody, o której mowa w [art. 45a](#art-45a) ust. 9;
 
-3) zakres informacji, o których mowa w art. 45c, zawartych w indywidualnych rozliczeniach.
+3) zakres informacji, o których mowa w [art. 45c](#art-45c), zawartych w indywidualnych rozliczeniach.
 
 2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw energii bierze pod uwagę:
 
-1) sposób doprowadzenia ciepła do budynku i do lokali, efektywność energetyczną budynku oraz efektywność kosztową zastosowania urządzeń, o których mowa w art. 45a ust. 7 pkt 2;
+1) sposób doprowadzenia ciepła do budynku i do lokali, efektywność energetyczną budynku oraz efektywność kosztową zastosowania urządzeń, o których mowa w [art. 45a](#art-45a) ust. 7 pkt 2;
 
 2) promowanie energooszczędnych zachowań, zapewnienie ustalania opłat za zakupione ciepło w sposób odpowiadający zużyciu ciepła na ogrzewanie i przygotowanie ciepłej wody użytkowej oraz uwzględnienie współczynników wyrównawczych zużycia ciepła na ogrzewanie, wynikających z położenia lokalu w bryle budynku;
 
 3) zakres informacji niezbędnych do dokonania indywidualnych rozliczeń oraz zapewnienia czytelności danych.
 
+<a id="art-46"></a>
 ### Art. 46.
 
 1.68) Minister właściwy do spraw gospodarki surowcami energetycznymi, po zasięgnięciu opinii Prezesa URE, określi, w drodze rozporządzenia, szczegółowe zasady kształtowania i kalkulacji taryf dla paliw gazowych oraz szczegółowe zasady rozliczeń w obrocie paliwami gazowymi, biorąc pod uwagę: politykę energetyczną państwa, zapewnienie pokrycia uzasadnionych kosztów przedsiębiorstw energetycznych, w tym kosztów ich rozwoju, ochronę interesów odbiorców przed nieuzasadnionym poziomem cen i opłat, poprawę efektywności dostarczania i wykorzystywania paliw gazowych, równoprawne traktowanie odbiorców, eliminowanie subsydiowania skrośnego oraz przejrzystość cen i stawek opłat.
@@ -8178,7 +8805,7 @@ b) m2 powierzchni budynku wielolokalowego i powierzchni lokalu użytkowanego.
 
 4) sposób uwzględniania w taryfach poprawy efektywności i zmiany warunków działalności wykonywanej przez przedsiębiorstwa energetyczne;
 
-4a) sposób uwzględniania w taryfach stopnia niewykonania harmonogramu inwestycji priorytetowych, o których mowa w art. 16 ust. 1a;
+4a) sposób uwzględniania w taryfach stopnia niewykonania harmonogramu inwestycji priorytetowych, o których mowa w [art. 16](#art-16) ust. 1a;
 
 5) sposób prowadzenia rozliczeń z odbiorcami oraz rozliczeń między przedsiębiorstwami energetycznymi, w tym w ramach sprzedaży rezerwowej paliw gazowych;
 
@@ -8212,19 +8839,19 @@ b) (uchylona)
 
 c) rekompensat, o których mowa w art. 49 rozporządzenia 2019/943,
 
-d) kosztów, o których mowa w art. 45 ust. 1a,
+d) kosztów, o których mowa w [art. 45](#art-45) ust. 1a,
 
-e) kosztów związanych z wykorzystaniem usług systemowych nabywanych od odbiorców energii na podstawie art. 9c ust. 2 pkt 8, kosztów wskazanych w art. 11d ust. 5, kosztów wynikających ze stosowania przepisów wydanych na podstawie art. 11 ust. 6 i 7 oraz kosztów działań, o których mowa w art. 11c ust. 2, poniesionych w roku poprzedzającym rok kalkulacji taryfy,
+e) kosztów związanych z wykorzystaniem usług systemowych nabywanych od odbiorców energii na podstawie [art. 9c](#art-9c) ust. 2 pkt 8, kosztów wskazanych w [art. 11d](#art-11d) ust. 5, kosztów wynikających ze stosowania przepisów wydanych na podstawie [art. 11](#art-11) ust. 6 i 7 oraz kosztów działań, o których mowa w [art. 11c](#art-11c) ust. 2, poniesionych w roku poprzedzającym rok kalkulacji taryfy,
 
-f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
+f) kosztów, o których mowa w [art. 45](#art-45) ust. 1m i 1n;
 
 6) sposób uwzględniania w taryfach poprawy efektywności, instalowania u odbiorców końcowych liczników zdalnego odczytu i zmiany warunków wykonywanej działalności przez przedsiębiorstwa energetyczne;
 
-6a) sposób uwzględniania w taryfach stopnia niewykonania harmonogramu inwestycji priorytetowych, o których mowa w art. 16 ust. 1a;
+6a) sposób uwzględniania w taryfach stopnia niewykonania harmonogramu inwestycji priorytetowych, o których mowa w [art. 16](#art-16) ust. 1a;
 
-7) sposób prowadzenia rozliczeń z odbiorcami oraz między przedsiębiorstwami energetycznymi, w tym w zakresie określonym w art. 45 ust. 1a oraz w ramach sprzedaży rezerwowej energii elektrycznej;
+7) sposób prowadzenia rozliczeń z odbiorcami oraz między przedsiębiorstwami energetycznymi, w tym w zakresie określonym w [art. 45](#art-45) ust. 1a oraz w ramach sprzedaży rezerwowej energii elektrycznej;
 
-7a) sposób prowadzenia rozliczeń za energię elektryczną pobieraną z sieci i wprowadzaną do sieci przez magazyn energii elektrycznej, w tym sposób obliczania współczynnika, o którym mowa w art. 45 ust. 10;
+7a) sposób prowadzenia rozliczeń za energię elektryczną pobieraną z sieci i wprowadzaną do sieci przez magazyn energii elektrycznej, w tym sposób obliczania współczynnika, o którym mowa w [art. 45](#art-45) ust. 10;
 
 8) sposób ustalania bonifikat za niedotrzymanie parametrów jakościowych energii elektrycznej i standardów jakościowych obsługi, w tym w ramach sprzedaży rezerwowej energii elektrycznej;
 
@@ -8238,7 +8865,7 @@ f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
 
 13) sposób ustalania opłaty solidarnościowej;
 
-14) sposób określania wysokości opłaty na pokrycie kosztów utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej, o której mowa w art. 7aa ust. 4.
+14) sposób określania wysokości opłaty na pokrycie kosztów utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej, o której mowa w [art. 7aa](#art-7aa) ust. 4.
 
 5. Minister właściwy do spraw energii, po zasięgnięciu opinii Prezesa URE, określi, w drodze rozporządzenia, szczegółowe zasady kształtowania i kalkulacji taryf dla ciepła oraz szczegółowe zasady rozliczeń z tytułu zaopatrzenia w ciepło, biorąc pod uwagę: politykę energetyczną państwa, zapewnienie pokrycia uzasadnionych kosztów przedsiębiorstw energetycznych, w tym kosztów ich rozwoju, ochronę interesów odbiorców przed nieuzasadnionym poziomem cen i opłat, poprawę efektywności dostarczania i wykorzystywania ciepła, równoprawne traktowanie odbiorców, eliminowanie subsydiowania skrośnego oraz przejrzystość cen i stawek opłat.
 
@@ -8250,7 +8877,7 @@ f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
 
 3) rodzaje cen i stawek opłat dla każdej koncesjonowanej działalności gospodarczej oraz sposób ich kalkulowania;
 
-4) uproszczony sposób kalkulacji cen i stawek dla ciepła wytwarzanego w jednostkach kogeneracji z zastosowaniem wskaźnika referencyjnego, o którym mowa w art. 47 ust. 2f;
+4) uproszczony sposób kalkulacji cen i stawek dla ciepła wytwarzanego w jednostkach kogeneracji z zastosowaniem wskaźnika referencyjnego, o którym mowa w [art. 47](#art-47) ust. 2f;
 
 5) sposób ustalania wskaźnika referencyjnego, o którym mowa w pkt 4;
 
@@ -8268,21 +8895,22 @@ f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
 
 1) połowy wysokości składnika zmiennego stawki sieciowej w przypadku przyłączenia do sieci dystrybucyjnej elektroenergetycznej oraz
 
-2) stawki opłaty na pokrycie kosztów utrzymania systemowych standardów jakości i niezawodności bieżących dostaw energii w przypadku przyłączenia do sieci dystrybucyjnej elektroenergetycznej lub przesyłowej elektroenergetycznej – o których mowa w przepisach wydanych na podstawie ust. 3, przewidzianych w taryfie danego operatora systemu elektroenergetycznego, przeznaczonych dla grupy taryfowej, do której jest zaliczany wydzielony odbiorca lub przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie wytwarzania energii elektrycznej, o którym mowa w art. 3 pkt 11f.
+2) stawki opłaty na pokrycie kosztów utrzymania systemowych standardów jakości i niezawodności bieżących dostaw energii w przypadku przyłączenia do sieci dystrybucyjnej elektroenergetycznej lub przesyłowej elektroenergetycznej – o których mowa w przepisach wydanych na podstawie ust. 3, przewidzianych w taryfie danego operatora systemu elektroenergetycznego, przeznaczonych dla grupy taryfowej, do której jest zaliczany wydzielony odbiorca lub przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie wytwarzania energii elektrycznej, o którym mowa w [art. 3](#art-3) pkt 11f.
 
+<a id="art-47"></a>
 ### Art. 47.
 
 1. Przedsiębiorstwa energetyczne posiadające koncesje ustalają taryfy dla paliw gazowych i energii, które podlegają zatwierdzeniu przez Prezesa URE, oraz proponują okres ich obowiązywania. Przedsiębiorstwa energetyczne posiadające koncesje przedkładają Prezesowi URE taryfy oraz ich zmiany z własnej inicjatywy nie później niż w terminie dwóch miesięcy przed upływem okresu obowiązywania taryfy poprzedniej lub na żądanie Prezesa URE.
 
-1a. Taryfy ustalane przez przedsiębiorstwa energetyczne posiadające koncesję na obrót paliwami gazowymi lub na obrót gazem ziemnym z zagranicą w zakresie określonym w tej koncesji nie podlegają zatwierdzeniu przez Prezesa URE, z zastrzeżeniem art. 62b ust. 1.
+1a. Taryfy ustalane przez przedsiębiorstwa energetyczne posiadające koncesję na obrót paliwami gazowymi lub na obrót gazem ziemnym z zagranicą w zakresie określonym w tej koncesji nie podlegają zatwierdzeniu przez Prezesa URE, z zastrzeżeniem [art. 62b](#art-62b) ust. 1.
 
 1aa. Operator systemu przesyłowego gazowego albo operator systemu połączonego gazowego wyznaczony na sieci przesyłowej gazowej niebędącej jego własnością dokonuje ustalenia taryf dla paliw gazowych dla tej sieci, które podlegają zatwierdzeniu przez Prezesa URE, oraz zaproponowania okresu ich obowiązywania. Operator, o którym mowa w zdaniu pierwszym, przedkłada Prezesowi URE taryfy dla tej sieci oraz ich zmiany z własnej inicjatywy nie później niż w terminie 9 miesięcy przed upływem okresu obowiązywania taryfy poprzedniej lub na żądanie Prezesa URE.
 
 1b. Przedsiębiorstwo energetyczne niezwłocznie po uzyskaniu koncesji i nie później niż po upływie 30 dni od dnia jej uzyskania występuje do Prezesa URE z wnioskiem o zatwierdzenie taryfy. Przedsiębiorstwo to do czasu zatwierdzenia przez Prezesa URE taryfy i wprowadzenia jej do stosowania w rozliczeniach z odbiorcami może stosować zaliczkowy sposób rozliczeń z odbiorcami, pod warunkiem złożenia wniosku w tym terminie. Przedsiębiorstwo energetyczne jest obowiązane do rozliczenia z odbiorcami nadpłaconych kwot za cały okres stosowania zaliczek, zgodnie z zatwierdzoną taryfą.
 
-1c. Taryfy ustalane przez przedsiębiorstwa energetyczne posiadające koncesję na wytwarzanie ciepła, w części dla każdego ze źródeł ciepła o mocy zainstalowanej cieplnej nieprzekraczającej 5 MW, które spełnia warunki określone w art. 7b ust. 3, nie podlegają zatwierdzeniu przez Prezesa URE.
+1c. Taryfy ustalane przez przedsiębiorstwa energetyczne posiadające koncesję na wytwarzanie ciepła, w części dla każdego ze źródeł ciepła o mocy zainstalowanej cieplnej nieprzekraczającej 5 MW, które spełnia warunki określone w [art. 7b](#art-7b) ust. 3, nie podlegają zatwierdzeniu przez Prezesa URE.
 
-2. Prezes URE zatwierdza taryfę bądź odmawia jej zatwierdzenia w przypadku stwierdzenia niezgodności taryfy z zasadami i przepisami, o których mowa w art. 44–46.
+2. Prezes URE zatwierdza taryfę bądź odmawia jej zatwierdzenia w przypadku stwierdzenia niezgodności taryfy z zasadami i przepisami, o których mowa w [art. 44](#art-44)–46.
 
 2a. Prezes URE, na wniosek przedsiębiorstwa energetycznego, może zatwierdzić, na okres nie dłuższy niż 3 lata, taryfę zawierającą ceny i stawki opłat w wysokości nie wyższej niż ceny i stawki opłat obowiązujące przed jej przedłożeniem Prezesowi URE, jeżeli są spełnione łącznie następujące warunki:
 
@@ -8290,9 +8918,9 @@ f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
 
 2) udokumentowane i opisane we wniosku zmiany zewnętrznych warunków wykonywania przez przedsiębiorstwo energetyczne działalności gospodarczej, której dotyczy taryfa, nie uzasadniają obniżenia cen i stawek opłat zawartych w taryfie;
 
-3) dla proponowanego we wniosku okresu obowiązywania taryfy lub dla części tego okresu nie został ustalony współczynnik korekcyjny, o którym mowa w art. 23 ust. 2 pkt 3 lit. a.
+3) dla proponowanego we wniosku okresu obowiązywania taryfy lub dla części tego okresu nie został ustalony współczynnik korekcyjny, o którym mowa w [art. 23](#art-23) ust. 2 pkt 3 lit. a.
 
-2b. W przypadku udokumentowanej zmiany zewnętrznych warunków wykonywania przez przedsiębiorstwo energetyczne działalności gospodarczej Prezes URE może ustalić z urzędu, w drodze decyzji, współczynniki korekcyjne, o których mowa w art. 23 ust. 2 pkt 3 lit. a, wynikające wyłącznie ze zmiany warunków zewnętrznych, które przedsiębiorstwo energetyczne jest obowiązane stosować w odniesieniu do cen i stawek opłat określonych w taryfie, o której mowa w ust. 2a, do czasu wejścia w życie nowej taryfy wprowadzonej w trybie określonym w ust. 2.
+2b. W przypadku udokumentowanej zmiany zewnętrznych warunków wykonywania przez przedsiębiorstwo energetyczne działalności gospodarczej Prezes URE może ustalić z urzędu, w drodze decyzji, współczynniki korekcyjne, o których mowa w [art. 23](#art-23) ust. 2 pkt 3 lit. a, wynikające wyłącznie ze zmiany warunków zewnętrznych, które przedsiębiorstwo energetyczne jest obowiązane stosować w odniesieniu do cen i stawek opłat określonych w taryfie, o której mowa w ust. 2a, do czasu wejścia w życie nowej taryfy wprowadzonej w trybie określonym w ust. 2.
 
 2c. W przypadku upływu okresu, na jaki została ustalona taryfa, do dnia wejścia w życie nowej taryfy stosuje się taryfę dotychczasową, jeżeli:
 
@@ -8302,15 +8930,15 @@ f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
 
 2d. Taryfy dotychczasowej, o której mowa w ust. 2c, nie stosuje się, jeżeli decyzja Prezesa URE odmawiająca zatwierdzenia taryfy jest uzasadniona koniecznością obniżenia cen i stawek opłat poniżej cen i stawek opłat zawartych w dotychczasowej taryfie i wynika z udokumentowanych i opisanych zmian warunków wykonywania przez przedsiębiorstwo energetyczne działalności gospodarczej.
 
-2e. Prezes URE analizuje i weryfikuje koszty uzasadnione, o których mowa w art. 45 ust. 1 pkt 1 i 2, w zakresie ich zgodności z przepisami ustawy, na podstawie sprawozdań finansowych i planów rzeczowo-finansowych przedsiębiorstw energetycznych, biorąc pod uwagę tworzenie warunków do konkurencji i promocji efektywności wykonywanej działalności gospodarczej, a w szczególności stosując metody porównawcze oceny efektywności przedsiębiorstw energetycznych wykonujących w zbliżonych warunkach działalność gospodarczą tego samego rodzaju.
+2e. Prezes URE analizuje i weryfikuje koszty uzasadnione, o których mowa w [art. 45](#art-45) ust. 1 pkt 1 i 2, w zakresie ich zgodności z przepisami ustawy, na podstawie sprawozdań finansowych i planów rzeczowo-finansowych przedsiębiorstw energetycznych, biorąc pod uwagę tworzenie warunków do konkurencji i promocji efektywności wykonywanej działalności gospodarczej, a w szczególności stosując metody porównawcze oceny efektywności przedsiębiorstw energetycznych wykonujących w zbliżonych warunkach działalność gospodarczą tego samego rodzaju.
 
-2f. Planowane przychody ze sprzedaży ciepła przyjmowane do kalkulacji cen i stawek opłat w taryfie dla ciepła dla jednostek kogeneracji, oblicza się przy zastosowaniu wskaźnika referencyjnego ustalanego przez Prezesa URE zgodnie z metodologią określoną w przepisach wydanych na podstawie art. 46 ust. 5 i 6 i średnich cen sprzedaży ciepła, o których mowa w art. 23 ust. 2 pkt 18 lit. c. W odniesieniu do ciepła wytworzonego w instalacjach termicznego przekształcania odpadów, przyjmuje się średnią cenę ciepła wskazaną w art. 23 ust. 2 pkt 18 lit. c tiret czwarte.
+2f. Planowane przychody ze sprzedaży ciepła przyjmowane do kalkulacji cen i stawek opłat w taryfie dla ciepła dla jednostek kogeneracji, oblicza się przy zastosowaniu wskaźnika referencyjnego ustalanego przez Prezesa URE zgodnie z metodologią określoną w przepisach wydanych na podstawie [art. 46](#art-46) ust. 5 i 6 i średnich cen sprzedaży ciepła, o których mowa w [art. 23](#art-23) ust. 2 pkt 18 lit. c. W odniesieniu do ciepła wytworzonego w instalacjach termicznego przekształcania odpadów, przyjmuje się średnią cenę ciepła wskazaną w [art. 23](#art-23) ust. 2 pkt 18 lit. c tiret czwarte.
 
-2f[1]. Przedsiębiorstwo energetyczne może odstąpić od sposobu kalkulacji cen i stawek opłat w taryfie dla ciepła, o którym mowa w ust. 2f, opracowując taryfę w sposób zapewniający pokrycie kosztów uzasadnionych w zakresie określonym w art. 45 ust. 1 pkt 1, 1b i 3 oraz w przepisach wydanych na podstawie art. 46 ust. 5 i 6. Odstępując od tego sposobu kalkulacji, przy opracowywaniu kolejnych taryf dla ciepła, przedsiębiorstwo to nie stosuje sposobu kształtowania cen i stawek opłat w taryfie dla ciepła, o którym mowa w ust. 2f.
+2f[1]. Przedsiębiorstwo energetyczne może odstąpić od sposobu kalkulacji cen i stawek opłat w taryfie dla ciepła, o którym mowa w ust. 2f, opracowując taryfę w sposób zapewniający pokrycie kosztów uzasadnionych w zakresie określonym w [art. 45](#art-45) ust. 1 pkt 1, 1b i 3 oraz w przepisach wydanych na podstawie [art. 46](#art-46) ust. 5 i 6. Odstępując od tego sposobu kalkulacji, przy opracowywaniu kolejnych taryf dla ciepła, przedsiębiorstwo to nie stosuje sposobu kształtowania cen i stawek opłat w taryfie dla ciepła, o którym mowa w ust. 2f.
 
 2g.[192)] W terminach do dnia 31 marca i do dnia 30 września każdego roku Prezes URE ogłasza w Biuletynie Urzędu Regulacji Energetyki wysokość wskaźnika referencyjnego, o którym mowa w ust. 2f.
 
-2h. W taryfach zatwierdzanych lub zmienianych po upływie okresu rozliczeniowego, o którym mowa w art. 16 ust. 18d i 18e, uwzględnia się zakres niewykonania harmonogramu inwestycji priorytetowych, o których mowa w art. 16 ust. 1a. Prezes URE może wezwać przedsiębiorstwo energetyczne do korekty obowiązującej taryfy po upływie okresu rozliczeniowego, o którym mowa w zdaniu pierwszym.
+2h. W taryfach zatwierdzanych lub zmienianych po upływie okresu rozliczeniowego, o którym mowa w [art. 16](#art-16) ust. 18d i 18e, uwzględnia się zakres niewykonania harmonogramu inwestycji priorytetowych, o których mowa w [art. 16](#art-16) ust. 1a. Prezes URE może wezwać przedsiębiorstwo energetyczne do korekty obowiązującej taryfy po upływie okresu rozliczeniowego, o którym mowa w zdaniu pierwszym.
 
 3. Prezes URE ogłasza w Biuletynie URE:
 
@@ -8322,12 +8950,14 @@ f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
 
 5. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem paliw gazowych wprowadza taryfę do stosowania w terminie określonym przez Prezesa URE w decyzji o zatwierdzeniu tej taryfy, nie wcześniejszym niż po upływie 14 dni od dnia jej opublikowania.
 
-6. W przypadku gdy w związku z prowadzonym postępowaniem w sprawie zatwierdzenia taryfy dla energii elektrycznej występuje ryzyko niewypełnienia obowiązku, o którym mowa w art. 5 ust. 6 pkt 2, w terminie wskazanym w tym przepisie, przedsiębiorstwo energetyczne, którego dotyczy to postępowanie, wypełnia ten obowiązek niezwłocznie po zakończeniu tego postępowania.
+6. W przypadku gdy w związku z prowadzonym postępowaniem w sprawie zatwierdzenia taryfy dla energii elektrycznej występuje ryzyko niewypełnienia obowiązku, o którym mowa w [art. 5](#art-5) ust. 6 pkt 2, w terminie wskazanym w tym przepisie, przedsiębiorstwo energetyczne, którego dotyczy to postępowanie, wypełnia ten obowiązek niezwłocznie po zakończeniu tego postępowania.
 
+<a id="art-48"></a>
 ### Art. 48.
 
 (uchylony)
 
+<a id="art-49"></a>
 ### Art. 49.
 
 1. Prezes URE może zwolnić przedsiębiorstwo energetyczne z obowiązku przedkładania taryf do zatwierdzenia, jeżeli stwierdzi, że działa ono w warunkach konkurencji, albo cofnąć udzielone zwolnienie w przypadku ustania warunków uzasadniających zwolnienie.
@@ -8336,16 +8966,19 @@ f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
 
 3. Przy podejmowaniu decyzji, o których mowa w ust. 1, Prezes URE bierze pod uwagę takie cechy rynku paliw lub energii, jak: liczba uczestników i wielkości ich udziałów w rynku, przejrzystość struktury i zasad funkcjonowania rynku, istnienie barier dostępu do rynku, równoprawne traktowanie uczestników rynku, dostęp do informacji rynkowej, skuteczność kontroli i zabezpieczeń przed wykorzystywaniem pozycji ograniczającej konkurencję, dostępność do wysoko wydajnych technologii.
 
+<a id="art-49a"></a>
 ### Art. 49a.
 
 (uchylony)
 
+<a id="art-49aa"></a>
 ### Art. 49aa.
 
 1. Przedsiębiorstwo energetyczne zajmujące się wytwarzaniem energii elektrycznej przekazuje Prezesowi URE informacje o zawartych umowach lub porozumieniach dotyczących rozliczeń w grupach kapitałowych, na podstawie których sprzedaje, kupuje lub rozlicza energię elektryczną, w terminie 7 dni od dnia ich zawarcia. W informacji wskazuje się strony umowy lub porozumienia, ilość i cenę energii elektrycznej oraz okres, na jaki umowa lub porozumienie zostało zawarte.
 
 2. Na podstawie danych zgromadzonych w trybie określonym w ust. 1, Prezes URE publikuje w Biuletynie Urzędu Regulacji Energetyki średnią kwartalną cenę energii elektrycznej w terminie 21 dni od dnia zakończenia kwartału.
 
+<a id="art-49b"></a>
 ### Art. 49b.
 
 1. Przedsiębiorstwo energetyczne zajmujące się obrotem paliwami gazowymi jest obowiązane sprzedawać nie mniej niż 55 % gazu ziemnego wysokometanowego wprowadzonego w danym roku do sieci przesyłowej:
@@ -8374,6 +9007,7 @@ f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
 
 6. W przypadku ogłoszenia stanu nadzwyczajnego na terytorium Rzeczypospolitej Polskiej zgodnie z art. 49a ust. 2 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym realizacja obowiązku, o którym mowa w ust. 1, ulega zawieszeniu na czas obowiązywania tego stanu.
 
+<a id="art-49c"></a>
 ### Art. 49c.
 
 1. Przedsiębiorstwo energetyczne zajmujące się obrotem gazem ziemnym z zagranicą oraz podmiot dokonujący przywozu gazu ziemnego przekazują Prezesowi URE informacje o realizacji umów dotyczących zakupu gazu ziemnego z zagranicy za ostatni kwartał, w tym o cenach i ilościach zakupionego gazu ziemnego, w terminie 30 dni od dnia zakończenia kwartału.
@@ -8382,16 +9016,20 @@ f) kosztów, o których mowa w art. 45 ust. 1m i 1n;
 
 3. Przedsiębiorstwo energetyczne zajmujące się obrotem gazem ziemnym z zagranicą przekazuje Prezesowi URE informacje o realizacji umów dotyczących sprzedaży gazu ziemnego za granicę za ostatni kwartał, w tym o cenach i ilościach sprzedanego gazu ziemnego, w terminie 30 dni od dnia zakończenia kwartału.
 
+<a id="art-50"></a>
 ### Art. 50.
 
 W sprawach nieuregulowanych przepisami niniejszej ustawy w zakresie działalności gospodarczej przedsiębiorstw energetycznych, w tym przeprowadzania przez Prezesa URE kontroli zgodności wykonywanej działalności gospodarczej przedsiębiorstw energetycznych z udzieloną koncesją, stosuje się przepisy ustawy – Prawo przedsiębiorców.
 
+<a id="art-50a"></a>
 ### Art. 50a.
 
-Do operatora sieci transportowej dwutlenku węgla przepisów art. 44–47 i art. 49 nie stosuje się.
+Do operatora sieci transportowej dwutlenku węgla przepisów [art. 44](#art-44)–47 i [art. 49](#art-49) nie stosuje się.
 
+<a id="rozdzial-6"></a>
 ### Rozdział 6. Urządzenia, instalacje, sieci i ich eksploatacja
 
+<a id="art-51"></a>
 ### Art. 51.
 
 1. Projektowanie, produkcja, import, budowa oraz eksploatacja urządzeń, instalacji i sieci powinny zapewniać racjonalne i oszczędne zużycie paliw lub energii przy zachowaniu:
@@ -8404,19 +9042,20 @@ Do operatora sieci transportowej dwutlenku węgla przepisów art. 44–47 i art.
 
 2. Projektowanie, produkcja, import, budowa oraz eksploatacja urządzeń i instalacji wykorzystujących do wytwarzania energii biomasę zastosowanych w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali, zapewniają sprawność przemiany energetycznej wynoszącą co najmniej 85 %, a zastosowanych w instalacjach przemysłowych co najmniej 70 %, o ile jest to uzasadnione technicznie lub ekonomicznie. Przepis ust. 1 stosuje się.
 
+<a id="art-52"></a>
 ### Art. 52.
 
 1. Producenci i importerzy urządzeń, w tym urządzeń wykorzystujących energię z odnawialnych źródeł energii, określają w dokumentacji technicznej wielkość zużycia paliw i energii, odniesioną do uzyskiwanej wielkości efektu użytkowego urządzenia w typowych warunkach użytkowania, zwaną dalej „efektywnością energetyczną”.
 
-1a. W przypadku instalacji wykorzystujących do wytwarzania energii biomasę, dokumentacja, o której mowa w ust. 1, wskazuje czy w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy, o której mowa w art. 51 ust. 2, zapewni sprawność przemiany energetycznej wynoszącą co najmniej 85 %, a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70 %.
+1a. W przypadku instalacji wykorzystujących do wytwarzania energii biomasę, dokumentacja, o której mowa w ust. 1, wskazuje czy w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy, o której mowa w [art. 51](#art-51) ust. 2, zapewni sprawność przemiany energetycznej wynoszącą co najmniej 85 %, a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70 %.
 
 2. Producenci i importerzy urządzeń wprowadzanych do obrotu:
 
-1) informują na etykiecie i w charakterystyce technicznej o efektywności energetycznej urządzeń, a w przypadku urządzeń, o których mowa w ust. 1a, o sprawności przemiany energetycznej wynoszącej co najmniej 85 % w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy, o której mowa w art. 51 ust. 2, a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70 %;
+1) informują na etykiecie i w charakterystyce technicznej o efektywności energetycznej urządzeń, a w przypadku urządzeń, o których mowa w ust. 1a, o sprawności przemiany energetycznej wynoszącej co najmniej 85 % w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy, o której mowa w [art. 51](#art-51) ust. 2, a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70 %;
 
 2) umieszczają oznaczenia ekologiczne na pompach ciepła zasilanych elektrycznie lub gazowo, na absorpcyjnych pompach ciepła oraz na urządzeniach i instalacjach wykorzystujących do wytworzenia energii elektrycznej lub ciepła energię promieniowania słonecznego;
 
-3) zapewniają w dokumentacji technicznej urządzeń i systemów wytwarzających energię z odnawialnych źródeł energii spełnienie wymagań wynikających z europejskich norm w zakresie oznaczeń ekologicznych i etykiet, o których mowa w pkt 2, oraz z innych systemów referencji technicznych ustanowionych przez europejskie organy normalizacji, w celu skorzystania z uprawnień, o których mowa w art. 9e ust. 3 i art. 9o ust. 3.
+3) zapewniają w dokumentacji technicznej urządzeń i systemów wytwarzających energię z odnawialnych źródeł energii spełnienie wymagań wynikających z europejskich norm w zakresie oznaczeń ekologicznych i etykiet, o których mowa w pkt 2, oraz z innych systemów referencji technicznych ustanowionych przez europejskie organy normalizacji, w celu skorzystania z uprawnień, o których mowa w [art. 9e](#art-9e) ust. 3 i [art. 9o](#art-9o) ust. 3.
 
 3. (uchylony)
 
@@ -8430,11 +9069,12 @@ Do operatora sieci transportowej dwutlenku węgla przepisów art. 44–47 i art.
 
 6. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw energii może określić, w drodze rozporządzenia, wymagania dotyczące oznaczenia ekologicznego, o którym mowa w ust. 2 pkt 2, uwzględniając konieczność zapewnienia efektywnego użytkowania urządzeń poprzez powszechny dostęp do informacji o tych urządzeniach.
 
+<a id="art-52a"></a>
 ### Art. 52a.
 
 1. W przypadku gdy wsparcie finansowe pochodzące ze środków publicznych, w tym środków funduszy Unii Europejskiej, jest przeznaczone na wspieranie rozwoju:
 
-1) instalacji wykorzystujących do wytwarzania energii biomasę, wsparciem obejmuje się w szczególności technologie o sprawności przemiany energetycznej wynoszącej co najmniej 85 % w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy, o której mowa w art. 51 ust. 2, a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70 %;
+1) instalacji wykorzystujących do wytwarzania energii biomasę, wsparciem obejmuje się w szczególności technologie o sprawności przemiany energetycznej wynoszącej co najmniej 85 % w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy, o której mowa w [art. 51](#art-51) ust. 2, a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70 %;
 
 2) pomp ciepła, wsparciem obejmuje się w szczególności pompy ciepła spełniające minimalne wymagania dotyczące oznakowania ekologicznego określone w decyzji Komisji 2007/742/WE z dnia 9 listopada 2007 r. określającej kryteria ekologiczne dotyczące przyznawania wspólnotowego oznakowania ekologicznego pompom ciepła zasilanym elektrycznie, gazowo lub absorpcyjnym pompom ciepła (Dz. Urz. L 301 z 20.11.2007, str. 14, z późn. zm.);
 
@@ -8442,14 +9082,17 @@ Do operatora sieci transportowej dwutlenku węgla przepisów art. 44–47 i art.
 
 2. Przy ocenie sprawności przemiany energetycznej oraz stosunku mocy wejściowej do mocy wyjściowej instalacji, o których mowa w ust. 1, zastosowanie mają w szczególności procedury obowiązujące w prawie Unii Europejskiej lub prawie międzynarodowym.
 
+<a id="art-53"></a>
 ### Art. 53.
 
-Zakazuje się wprowadzania do obrotu na obszarze kraju urządzeń niespełniających wymagań określonych w art. 52.
+Zakazuje się wprowadzania do obrotu na obszarze kraju urządzeń niespełniających wymagań określonych w [art. 52](#art-52).
 
+<a id="art-53a"></a>
 ### Art. 53a.
 
-Przepisów art. 52 i 53 nie stosuje się do urządzeń i instalacji oraz obiektów związanych z obronnością lub bezpieczeństwem państwa, stanowiących integralne części systemów techniki wojskowej lub uzbrojenia, ratowniczo-gaśniczych oraz ochrony granic lub stosowanych w więziennictwie, należących do jednostek, o których mowa w art. 21a.
+Przepisów [art. 52](#art-52) i 53 nie stosuje się do urządzeń i instalacji oraz obiektów związanych z obronnością lub bezpieczeństwem państwa, stanowiących integralne części systemów techniki wojskowej lub uzbrojenia, ratowniczo-gaśniczych oraz ochrony granic lub stosowanych w więziennictwie, należących do jednostek, o których mowa w [art. 21a](#art-21a).
 
+<a id="art-54"></a>
 ### Art. 54.
 
 1. Osoby zajmujące się eksploatacją sieci oraz urządzeń i instalacji określonych w przepisach, o których mowa w ust. 6, obowiązane są posiadać kwalifikacje potwierdzone świadectwem wydanym przez komisje kwalifikacyjne.
@@ -8458,7 +9101,7 @@ Przepisów art. 52 i 53 nie stosuje się do urządzeń i instalacji oraz obiekt�
 
 1aa. Świadectwa kwalifikacyjne wydane osobom zajmującym się eksploatacją urządzeń, instalacji lub sieci tracą ważność po upływie 5 lat od dnia ich wydania.
 
-1b. W razie stwierdzenia, że eksploatacja urządzeń, instalacji lub sieci jest prowadzona niezgodnie z przepisami dotyczącymi ich eksploatacji, na wniosek pracodawcy, inspektora pracy, Prezesa URE lub innego organu właściwego w sprawach regulacji gospodarki paliwami i energią, o których mowa w art. 21a, sprawdzenie spełnienia wymagań kwalifikacyjnych należy powtórzyć.
+1b. W razie stwierdzenia, że eksploatacja urządzeń, instalacji lub sieci jest prowadzona niezgodnie z przepisami dotyczącymi ich eksploatacji, na wniosek pracodawcy, inspektora pracy, Prezesa URE lub innego organu właściwego w sprawach regulacji gospodarki paliwami i energią, o których mowa w [art. 21a](#art-21a), sprawdzenie spełnienia wymagań kwalifikacyjnych należy powtórzyć.
 
 1c. (uchylony)
 
@@ -8486,9 +9129,9 @@ a) w przedsiębiorstwach energetycznych zatrudniających co najmniej 200 osób w
 
 b) przy stowarzyszeniach naukowo-technicznych zrzeszających co najmniej 200 członków posiadających kwalifikacje do zajmowania się eksploatacją urządzeń, instalacji i sieci, jeżeli statuty tych stowarzyszeń zawierają postanowienia określające zakres wykonywanej działalności na rzecz gospodarki energetycznej,
 
-2) właściwych ministrów oraz Szefów Agencji, o których mowa w art. 21a,
+2) właściwych ministrów oraz Szefów Agencji, o których mowa w [art. 21a](#art-21a),
 
-3) ministra właściwego do spraw transportu – na wniosek przedsiębiorcy, stowarzyszenia naukowo-technicznego lub jednostki organizacyjnej podległej lub nadzorowanej przez właściwych ministrów oraz Szefów Agencji, o których mowa w art. 21a, lub ministra właściwego do spraw transportu.
+3) ministra właściwego do spraw transportu – na wniosek przedsiębiorcy, stowarzyszenia naukowo-technicznego lub jednostki organizacyjnej podległej lub nadzorowanej przez właściwych ministrów oraz Szefów Agencji, o których mowa w [art. 21a](#art-21a), lub ministra właściwego do spraw transportu.
 
 31. Wniosek, o którym mowa w ust. 3, określa w szczególności nazwę i adres komisji kwalifikacyjnej oraz zakres sprawdzanych kwalifikacji.
 
@@ -8536,177 +9179,181 @@ b) przy stowarzyszeniach naukowo-technicznych zrzeszających co najmniej 200 cz�
 
 7) wzór świadectwa kwalifikacyjnego – biorąc pod uwagę zapewnienie bezpieczeństwa technicznego i niezawodności funkcjonowania oraz bezpiecznej eksploatacji urządzeń, instalacji lub sieci elektroenergetycznych, ciepłowniczych, gazowych i wodorowych, bezpieczeństwa ludzi i mienia oraz bezstronnego i niezależnego postępowania w sprawie wydania świadectwa kwalifikacyjnego dla osób wykonujących czynności związane z eksploatacją urządzeń, instalacji lub sieci.196)
 
+<a id="art-55"></a>
 ### Art. 55.
 
 (uchylony)
 
+<a id="rozdzial-6a"></a>
 ### Rozdział 6a. (uchylony)
 
+<a id="rozdzial-7"></a>
 ### Rozdział 7. Kary pieniężne
 
+<a id="art-56"></a>
 ### Art. 56.
 
 1. Karze pieniężnej podlega ten, kto:
 
 1)[197)] nie przestrzega obowiązków wynikających ze współpracy z jednostkami upoważnionymi do dysponowania:
 
-a) energią elektryczną i paliwami gazowymi, określonych w przepisach wydanych na podstawie art. 9 ust. 1–4,
+a) energią elektryczną i paliwami gazowymi, określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 1–4,
 
-b) wodorem, określonych w przepisach wydanych na podstawie art. 9 ust. 8a;
+b) wodorem, określonych w przepisach wydanych na podstawie [art. 9](#art-9) ust. 8a;
 
 1a) (uchylony)
 
-1b) nie przedkłada Prezesowi URE do zatwierdzenia instrukcji, o której mowa w art. 9g ust. 7 i 8, lub mimo wezwania przedkłada instrukcję niespełniającą wymagań określonych w ustawie;
+1b) nie przedkłada Prezesowi URE do zatwierdzenia instrukcji, o której mowa w [art. 9g](#art-9g) ust. 7 i 8, lub mimo wezwania przedkłada instrukcję niespełniającą wymagań określonych w ustawie;
 
-1c)[198)] nie przedstawia informacji, o których mowa w art. 7 ust. 8l, art. 9c ust. 3 pkt 9a lit. f, ust. 9–9c i 14, art. 9d ust. 8, art. 11c ust. 3, art. 11e ust. 5 i art. 16 ust. 21 i 22, lub nie przekazuje kopii umowy, o której mowa w art. 9c ust. 13, lub jej każdorazowej zmiany;
+1c)[198)] nie przedstawia informacji, o których mowa w [art. 7](#art-7) ust. 8l, [art. 9c](#art-9c) ust. 3 pkt 9a lit. f, ust. 9–9c i 14, [art. 9d](#art-9d) ust. 8, [art. 11c](#art-11c) ust. 3, [art. 11e](#art-11e) ust. 5 i [art. 16](#art-16) ust. 21 i 22, lub nie przekazuje kopii umowy, o której mowa w [art. 9c](#art-9c) ust. 13, lub jej każdorazowej zmiany;
 
-1d) nie przestrzega obowiązków wynikających z art. 6 ust. 12, art. 7 ust. 1, art. 8 ust. 1–3, art. 9 ust. 1, art. 10 ust. 2–4, art. 11 ust. 2, art. 13 ust. 4, art. 15 ust. 4, art. 16 ust. 8, art. 17, art. 19 ust. 5, art. 24, art. 26 ust. 10, art. 28 ust. 1, art. 29 ust. 1, art. 34 ust. 1 i 2, art. 37 ust. 3, art. 42 ust. 1–3, art. 50 i art. 57 rozporządzenia 2019/943;
+1d) nie przestrzega obowiązków wynikających z [art. 6](#art-6) ust. 12, [art. 7](#art-7) ust. 1, [art. 8](#art-8) ust. 1–3, [art. 9](#art-9) ust. 1, [art. 10](#art-10) ust. 2–4, [art. 11](#art-11) ust. 2, [art. 13](#art-13) ust. 4, [art. 15](#art-15) ust. 4, art. 16 ust. 8, art. 17, art. 19 ust. 5, art. 24, art. 26 ust. 10, art. 28 ust. 1, art. 29 ust. 1, art. 34 ust. 1 i 2, art. 37 ust. 3, art. 42 ust. 1–3, art. 50 i art. 57 rozporządzenia 2019/943;
 
 1e) nie przestrzega obowiązków wynikających z przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005;
 
 1f) (uchylony)
 
-1g) ustala instrukcję, o której mowa w art. 9g ust. 8b, niespełniającą wymagań określonych w ustawie;
+1g) ustala instrukcję, o której mowa w [art. 9g](#art-9g) ust. 8b, niespełniającą wymagań określonych w ustawie;
 
-1h) nie publikuje aktualnych wykazów, o których mowa w art. 4ba ust. 1;
+1h) nie publikuje aktualnych wykazów, o których mowa w [art. 4ba](#art-4ba) ust. 1;
 
-1i) nie przekazuje w terminie sprawozdania, o którym mowa w art. 4ba ust. 4;
+1i) nie przekazuje w terminie sprawozdania, o którym mowa w [art. 4ba](#art-4ba) ust. 4;
 
-1j) przekazuje sprawozdanie, o którym mowa w art. 4ba ust. 4, zawierające nieprawdziwe dane;
+1j) przekazuje sprawozdanie, o którym mowa w [art. 4ba](#art-4ba) ust. 4, zawierające nieprawdziwe dane;
 
-1k) nie wykonuje w terminie wezwania, o którym mowa w art. 9g ust. 8c lub 8e;
+1k) nie wykonuje w terminie wezwania, o którym mowa w [art. 9g](#art-9g) ust. 8c lub 8e;
 
-2) nie przestrzega obowiązku utrzymywania zapasów paliw, o którym mowa w art. 10 ust. 1, lub nie uzupełnia ich w terminie, o którym mowa w art. 10 ust. 1b lub 1c, obniża je w innych przypadkach niż wymienione w art. 10 ust. 1a, lub nie przekazuje informacji, o których mowa w art. 10 ust. 1e;
+2) nie przestrzega obowiązku utrzymywania zapasów paliw, o którym mowa w [art. 10](#art-10) ust. 1, lub nie uzupełnia ich w terminie, o którym mowa w [art. 10](#art-10) ust. 1b lub 1c, obniża je w innych przypadkach niż wymienione w [art. 10](#art-10) ust. 1a, lub nie przekazuje informacji, o których mowa w [art. 10](#art-10) ust. 1e;
 
 3) (uchylony)
 
-3a) nie stosuje się do ograniczeń w dostarczaniu i poborze energii elektrycznej, wprowadzonych na podstawie art. 11, art. 11c ust. 2 pkt 2 lub art. 11d ust. 3;
+3a) nie stosuje się do ograniczeń w dostarczaniu i poborze energii elektrycznej, wprowadzonych na podstawie [art. 11](#art-11), [art. 11c](#art-11c) ust. 2 pkt 2 lub [art. 11d](#art-11d) ust. 3;
 
-4) z nieuzasadnionych powodów odmawia zawarcia umowy, o której mowa w art. 7 ust. 1;
+4) z nieuzasadnionych powodów odmawia zawarcia umowy, o której mowa w [art. 7](#art-7) ust. 1;
 
-5) stosuje ceny i taryfy, nie przestrzegając obowiązku ich przedstawienia Prezesowi URE do zatwierdzenia, o którym mowa w art. 47;
+5) stosuje ceny i taryfy, nie przestrzegając obowiązku ich przedstawienia Prezesowi URE do zatwierdzenia, o którym mowa w [art. 47](#art-47);
 
-5a) nie przedkłada do zatwierdzenia taryfy lub jej zmiany w terminie, o którym mowa w art. 47 ust. 1 zdanie drugie albo ust. 1aa zdanie drugie, lub wbrew żądaniu Prezesa URE, o którym mowa w tych przepisach;
+5a) nie przedkłada do zatwierdzenia taryfy lub jej zmiany w terminie, o którym mowa w [art. 47](#art-47) ust. 1 zdanie drugie albo ust. 1aa zdanie drugie, lub wbrew żądaniu Prezesa URE, o którym mowa w tych przepisach;
 
-5b) nie publikuje informacji, o których mowa w art. 7b ust. 5 pkt 1 lit. a–c, lub nie przekazuje w określonym terminie sprawozdania, o którym mowa w art. 7b ust. 5 pkt 1;
+5b) nie publikuje informacji, o których mowa w [art. 7b](#art-7b) ust. 5 pkt 1 lit. a–c, lub nie przekazuje w określonym terminie sprawozdania, o którym mowa w [art. 7b](#art-7b) ust. 5 pkt 1;
 
 6) stosuje ceny lub stawki opłat wyższe od zatwierdzonych lub stosuje taryfę niezgodnie z określonymi w niej warunkami;
 
-6a) będąc właścicielem lub zarządcą budynku wielolokalowego, o którym mowa w art. 45a ust. 6, narusza obowiązek wyposażenia lokali budynku wielolokalowego w przyrządy pomiarowe lub urządzenia umożliwiające rozliczanie kosztów ciepła według zużycia kosztów ogrzewania oraz zużycia ciepłej wody w takich lokalach budynku wielolokalowego lub nie stosuje rozliczania kosztów według zużycia albo odmawia wypełnienia obowiązków informacyjnych, o których mowa w art. 45a ust. 4a i art. 45c, lub pobiera opłaty za wypełnienie tych obowiązków informacyjnych;
+6a) będąc właścicielem lub zarządcą budynku wielolokalowego, o którym mowa w [art. 45a](#art-45a) ust. 6, narusza obowiązek wyposażenia lokali budynku wielolokalowego w przyrządy pomiarowe lub urządzenia umożliwiające rozliczanie kosztów ciepła według zużycia kosztów ogrzewania oraz zużycia ciepłej wody w takich lokalach budynku wielolokalowego lub nie stosuje rozliczania kosztów według zużycia albo odmawia wypełnienia obowiązków informacyjnych, o których mowa w [art. 45a](#art-45a) ust. 4a i [art. 45c](#art-45c), lub pobiera opłaty za wypełnienie tych obowiązków informacyjnych;
 
-6aa) bez poinformowania Prezesa URE lub odbiorcy końcowego, o którym mowa w art. 4ia ust. 1, zmienia przeznaczenie gazociągu bezpośredniego lub sieci gazociągów kopalnianych na sieć dystrybucyjną gazową;
+6aa) bez poinformowania Prezesa URE lub odbiorcy końcowego, o którym mowa w [art. 4ia](#art-4ia) ust. 1, zmienia przeznaczenie gazociągu bezpośredniego lub sieci gazociągów kopalnianych na sieć dystrybucyjną gazową;
 
-6b) bez zgody Prezesa URE, o której mowa w art. 7a ust. 3 pkt 1, wybudował gazociąg bezpośredni lub linię bezpośrednią;
+6b) bez zgody Prezesa URE, o której mowa w [art. 7a](#art-7a) ust. 3 pkt 1, wybudował gazociąg bezpośredni lub linię bezpośrednią;
 
-6ba) w przypadku, o którym mowa w art. 7aa ust. 23, nie przekazuje Prezesowi URE informacji, o których mowa w art. 7aa ust. 10 pkt 1, 2 i 4;
+6ba) w przypadku, o którym mowa w [art. 7aa](#art-7aa) ust. 23, nie przekazuje Prezesowi URE informacji, o których mowa w [art. 7aa](#art-7aa) ust. 10 pkt 1, 2 i 4;
 
-6bb) bez uzyskania wpisu do wykazu, o którym mowa w art. 7aa ust. 9, lub wpisu do tego wykazu na podstawie zgłoszenia, o którym mowa w art. 7aa ust. 26, buduje linię bezpośrednią lub korzysta z linii bezpośredniej;
+6bb) bez uzyskania wpisu do wykazu, o którym mowa w [art. 7aa](#art-7aa) ust. 9, lub wpisu do tego wykazu na podstawie zgłoszenia, o którym mowa w [art. 7aa](#art-7aa) ust. 26, buduje linię bezpośrednią lub korzysta z linii bezpośredniej;
 
-6bc) wprowadza energię elektryczną wytworzoną w wydzielonej jednostce wytwórczej do sieci elektroenergetycznej pomimo braku spełnienia warunków i wymagań technicznych, o których mowa w art. 7aa ust. 3, w tym braku uzgodnienia warunków z właściwym operatorem systemu elektroenergetycznego, o którym mowa w art. 5 ust. 1;
+6bc) wprowadza energię elektryczną wytworzoną w wydzielonej jednostce wytwórczej do sieci elektroenergetycznej pomimo braku spełnienia warunków i wymagań technicznych, o których mowa w [art. 7aa](#art-7aa) ust. 3, w tym braku uzgodnienia warunków z właściwym operatorem systemu elektroenergetycznego, o którym mowa w [art. 5](#art-5) ust. 1;
 
-6bd) wprowadzając energię elektryczną dostarczaną linią bezpośrednią przekracza moc umowną określoną w umowie, o której mowa w art. 5 ust. 1;
+6bd) wprowadzając energię elektryczną dostarczaną linią bezpośrednią przekracza moc umowną określoną w umowie, o której mowa w [art. 5](#art-5) ust. 1;
 
-6be) nie realizuje obowiązków, o których mowa w art. 7aa ust. 1;
+6be) nie realizuje obowiązków, o których mowa w [art. 7aa](#art-7aa) ust. 1;
 
-6c) bez zgody Prezesa URE, o której mowa w art. 7a ust. 3 pkt 2, zmienia przeznaczenie sieci gazociągów kopalnianych na gazociąg bezpośredni;
+6c) bez zgody Prezesa URE, o której mowa w [art. 7a](#art-7a) ust. 3 pkt 2, zmienia przeznaczenie sieci gazociągów kopalnianych na gazociąg bezpośredni;
 
-6d) nie przekazuje Prezesowi URE w terminie informacji, o których mowa w art. 9db ust. 2;
+6d) nie przekazuje Prezesowi URE w terminie informacji, o których mowa w [art. 9db](#art-9db) ust. 2;
 
-6e) stosuje ceny lub stawki, nie przestrzegając warunków lub obowiązków wynikających z art. 9dc ust. 2–4;
+6e) stosuje ceny lub stawki, nie przestrzegając warunków lub obowiązków wynikających z [art. 9dc](#art-9dc) ust. 2–4;
 
-7) odmawia udzielenia informacji, o których mowa w art. 28;
+7) odmawia udzielenia informacji, o których mowa w [art. 28](#art-28);
 
-7a) świadomie lub w wyniku niedbalstwa wprowadza w błąd Prezesa URE w zakresie przedstawianych na jego żądanie informacji, o których mowa w art. 28;
+7a) świadomie lub w wyniku niedbalstwa wprowadza w błąd Prezesa URE w zakresie przedstawianych na jego żądanie informacji, o których mowa w [art. 28](#art-28);
 
-8) prowadzi ewidencję księgową niezgodnie z zasadami określonymi w art. 44;
+8) prowadzi ewidencję księgową niezgodnie z zasadami określonymi w [art. 44](#art-44);
 
 9) zatrudnia osoby bez wymaganych ustawą kwalifikacji;
 
 10) nie utrzymuje w należytym stanie technicznym obiektów, instalacji i urządzeń;
 
-11) wprowadza do obrotu na obszarze kraju urządzenia niespełniające wymagań określonych w art. 52;
+11) wprowadza do obrotu na obszarze kraju urządzenia niespełniające wymagań określonych w [art. 52](#art-52);
 
 12) nie przestrzega obowiązków wynikających z koncesji;
 
 12a) (uchylony)
 
-12b) nie przekazuje w terminie sprawozdania, o którym mowa w art. 43d;
+12b) nie przekazuje w terminie sprawozdania, o którym mowa w [art. 43d](#art-43d);
 
-12c) przekazuje sprawozdanie, o którym mowa w art. 43d, zawierające nieprawdziwe dane;
+12c) przekazuje sprawozdanie, o którym mowa w [art. 43d](#art-43d), zawierające nieprawdziwe dane;
 
-12d) nie przestrzega obowiązku dywersyfikacji dostaw gazu ziemnego z zagranicy, o którym mowa w art. 32 ust. 2;
+12d) nie przestrzega obowiązku dywersyfikacji dostaw gazu ziemnego z zagranicy, o którym mowa w [art. 32](#art-32) ust. 2;
 
-13) realizuje działania niezgodne z częścią planu, o której mowa w art. 20 ust. 6;
+13) realizuje działania niezgodne z częścią planu, o której mowa w [art. 20](#art-20) ust. 6;
 
 14) z nieuzasadnionych powodów wstrzymuje lub ogranicza dostarczanie paliw gazowych, energii elektrycznej lub ciepła do odbiorców;
 
-15) z nieuzasadnionych powodów zwleka z powiadomieniem Prezesa URE lub zainteresowanego podmiotu o odmowie zawarcia umów, o których mowa w art. 4g ust. 1 lub art. 7 ust. 11;
+15) z nieuzasadnionych powodów zwleka z powiadomieniem Prezesa URE lub zainteresowanego podmiotu o odmowie zawarcia umów, o których mowa w [art. 4g](#art-4g) ust. 1 lub [art. 7](#art-7) ust. 11;
 
-15a) nie realizuje obowiązku, o którym mowa w art. 7 ust. 12, ust. 8d2 lub ust. 8d3;
+15a) nie realizuje obowiązku, o którym mowa w [art. 7](#art-7) ust. 12, ust. 8d2 lub ust. 8d3;
 
 16) (uchylony)
 
-16a) wbrew obowiązkowi, o którym mowa w art. 4j ust. 4a, nie informuje poprzedniego sprzedawcy lub przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją paliw gazowych lub energii elektrycznej o dniu rozpoczęcia sprzedaży tych paliw lub energii na rzecz odbiorcy końcowego;
+16a) wbrew obowiązkowi, o którym mowa w [art. 4j](#art-4j) ust. 4a, nie informuje poprzedniego sprzedawcy lub przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją paliw gazowych lub energii elektrycznej o dniu rozpoczęcia sprzedaży tych paliw lub energii na rzecz odbiorcy końcowego;
 
-16aa) nie przestrzega obowiązków, o których mowa w art. 5 ust. 4e, 6ca i 6h;
+16aa) nie przestrzega obowiązków, o których mowa w [art. 5](#art-5) ust. 4e, 6ca i 6h;
 
-16b) nie przestrzega zakazu zawierania umowy sprzedaży lub umowy kompleksowej z odbiorcą energii elektrycznej lub paliw gazowych w gospodarstwie domowym poza lokalem przedsiębiorstwa, o którym mowa w art. 5 ust. 4c;
+16b) nie przestrzega zakazu zawierania umowy sprzedaży lub umowy kompleksowej z odbiorcą energii elektrycznej lub paliw gazowych w gospodarstwie domowym poza lokalem przedsiębiorstwa, o którym mowa w [art. 5](#art-5) ust. 4c;
 
-16c) wbrew obowiązkowi, o którym mowa w art. 5 ust. 6e zdanie pierwsze, nie dostarcza odbiorcy paliw gazowych lub energii elektrycznej w gospodarstwie domowym kopii aktualnego zbioru praw konsumenta odpowiednio paliw gazowych lub energii elektrycznej lub nie zamieszcza jej na swojej stronie internetowej wraz z informacją o aktualnym stanie prawnym;
+16c) wbrew obowiązkowi, o którym mowa w [art. 5](#art-5) ust. 6e zdanie pierwsze, nie dostarcza odbiorcy paliw gazowych lub energii elektrycznej w gospodarstwie domowym kopii aktualnego zbioru praw konsumenta odpowiednio paliw gazowych lub energii elektrycznej lub nie zamieszcza jej na swojej stronie internetowej wraz z informacją o aktualnym stanie prawnym;
 
-16d) nie przestrzega obowiązku, o którym mowa w art. 9c ust. 4c;
+16d) nie przestrzega obowiązku, o którym mowa w [art. 9c](#art-9c) ust. 4c;
 
-17) nie przestrzega obowiązków, o których mowa w art. 5 ust. 3b lub art. 5a ust. 1–3;
+17) nie przestrzega obowiązków, o których mowa w [art. 5](#art-5) ust. 3b lub [art. 5a](#art-5a) ust. 1–3;
 
-17a) nie informuje odbiorcy końcowego lub operatora systemu dystrybucyjnego, lub operatora systemu przesyłowego, lub Prezesa URE w terminie określonym w art. 5 ust. 14 o konieczności zaprzestania sprzedaży paliw gazowych lub energii elektrycznej;
+17a) nie informuje odbiorcy końcowego lub operatora systemu dystrybucyjnego, lub operatora systemu przesyłowego, lub Prezesa URE w terminie określonym w [art. 5](#art-5) ust. 14 o konieczności zaprzestania sprzedaży paliw gazowych lub energii elektrycznej;
 
-17b) będąc operatorem systemu dystrybucyjnego gazowego lub operatorem systemu przesyłowego gazowego, nie zawrze umowy sprzedaży rezerwowej paliw gazowych lub umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej paliw gazowych zgodnie z art. 5aa ust. 6 lub umowy kompleksowej zgodnie z art. 5ab ust. 1;
+17b) będąc operatorem systemu dystrybucyjnego gazowego lub operatorem systemu przesyłowego gazowego, nie zawrze umowy sprzedaży rezerwowej paliw gazowych lub umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej paliw gazowych zgodnie z [art. 5aa](#art-5aa) ust. 6 lub umowy kompleksowej zgodnie z [art. 5ab](#art-5ab) ust. 1;
 
-17ba) nie wykonuje zadań sprzedawcy z urzędu, o których mowa w art. 62c;
+17ba) nie wykonuje zadań sprzedawcy z urzędu, o których mowa w [art. 62c](#art-62c);
 
-17c) będąc sprzedawcą rezerwowym energii elektrycznej, nie realizuje obowiązków informacyjnych określonych w art. 5ad;
+17c) będąc sprzedawcą rezerwowym energii elektrycznej, nie realizuje obowiązków informacyjnych określonych w [art. 5ad](#art-5ad);
 
 17d) będąc sprzedawcą rezerwowym energii elektrycznej, nie realizuje sprzedaży rezerwowej energii elektrycznej;
 
-17e) będąc sprzedawcą rezerwowym paliw gazowych, nie realizuje wobec odbiorcy końcowego obowiązków, o których mowa w art. 5aa ust. 8 i 9 oraz art. 5ab ust. 4 i 5, w terminach określonych w tych przepisach;
+17e) będąc sprzedawcą rezerwowym paliw gazowych, nie realizuje wobec odbiorcy końcowego obowiązków, o których mowa w [art. 5aa](#art-5aa) ust. 8 i 9 oraz [art. 5ab](#art-5ab) ust. 4 i 5, w terminach określonych w tych przepisach;
 
-18) nie wydaje warunków przyłączenia do sieci w terminach określonych w art. 7 ust. 8g–8g3, 8g6 i 8g7;
+18) nie wydaje warunków przyłączenia do sieci w terminach określonych w [art. 7](#art-7) ust. 8g–8g3, 8g6 i 8g7;
 
-18a) z nieuzasadnionych powodów, nie dokonuje w terminie określonym w art. 7 ust. 8d7 pkt 2 przyłączenia mikroinstalacji;
+18a) z nieuzasadnionych powodów, nie dokonuje w terminie określonym w [art. 7](#art-7) ust. 8d7 pkt 2 przyłączenia mikroinstalacji;
 
-19) nie przestrzega warunków i wymagań technicznych korzystania z systemu elektroenergetycznego lub gazowego, procedur postępowania i wymiany informacji, a także nie stosuje się do zasad i obowiązków w zakresie bezpieczeństwa pracy sieci elektroenergetycznej, planów i procedur stosowanych w sytuacji zagrożenia bezpieczeństwa dostaw energii elektrycznej, instrukcji, o której mowa w art. 9g ust. 9, metod, warunków, wymogów lub zasad przyjętych na podstawie rozporządzenia 2019/943 lub aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia, metod, warunków, wymogów lub zasad przyjętych na podstawie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 lub rozporządzeń wydanych na podstawie art. 6 lub art. 23 tego rozporządzenia, a także poleceń operatora systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego, o których mowa w art. 11d ust. 1 i 2;
+19) nie przestrzega warunków i wymagań technicznych korzystania z systemu elektroenergetycznego lub gazowego, procedur postępowania i wymiany informacji, a także nie stosuje się do zasad i obowiązków w zakresie bezpieczeństwa pracy sieci elektroenergetycznej, planów i procedur stosowanych w sytuacji zagrożenia bezpieczeństwa dostaw energii elektrycznej, instrukcji, o której mowa w art. 9g ust. 9, metod, warunków, wymogów lub zasad przyjętych na podstawie rozporządzenia 2019/943 lub aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia, metod, warunków, wymogów lub zasad przyjętych na podstawie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 lub rozporządzeń wydanych na podstawie art. 6 lub art. 23 tego rozporządzenia, a także poleceń operatora systemu przesyłowego elektroenergetycznego lub systemu połączonego elektroenergetycznego, o których mowa w [art. 11d](#art-11d) ust. 1 i 2;
 
-20) nie przestrzega warunków i kryteriów niezależności operatora systemu, o którym mowa w art. 9d ust. 1–2;
+20) nie przestrzega warunków i kryteriów niezależności operatora systemu, o którym mowa w [art. 9d](#art-9d) ust. 1–2;
 
-21) nie zapewnia wyznaczonemu dla swojej sieci operatorowi systemu spełnienia warunków i kryteriów niezależności, o których mowa w art. 9d ust. 1–2;
+21) nie zapewnia wyznaczonemu dla swojej sieci operatorowi systemu spełnienia warunków i kryteriów niezależności, o których mowa w [art. 9d](#art-9d) ust. 1–2;
 
-21a) nie przedkłada do zatwierdzenia metody, o której mowa w art. 9cb ust. 1, przedkłada metodę niespełniającą wymogów, o których mowa w art. 9cb ust. 2–5, lub nie publikuje zatwierdzonej metody zgodnie z art. 9cb ust. 6;
+21a) nie przedkłada do zatwierdzenia metody, o której mowa w [art. 9cb](#art-9cb) ust. 1, przedkłada metodę niespełniającą wymogów, o których mowa w [art. 9cb](#art-9cb) ust. 2–5, lub nie publikuje zatwierdzonej metody zgodnie z [art. 9cb](#art-9cb) ust. 6;
 
-22) nie przedkłada do zatwierdzenia programu określającego przedsięwzięcia, jakie należy podjąć w celu zapewnienia niedyskryminacyjnego traktowania użytkowników systemu, o którym mowa w art. 9d ust. 4, lub nie przedkłada nowego programu, o którym mowa w art. 9d ust. 4b;
+22) nie przedkłada do zatwierdzenia programu określającego przedsięwzięcia, jakie należy podjąć w celu zapewnienia niedyskryminacyjnego traktowania użytkowników systemu, o którym mowa w [art. 9d](#art-9d) ust. 4, lub nie przedkłada nowego programu, o którym mowa w [art. 9d](#art-9d) ust. 4b;
 
-23) będąc operatorem, o którym mowa w art. 9d ust. 1d lub 1f, nie realizuje programu określającego przedsięwzięcia, jakie należy podjąć w celu zapewnienia niedyskryminacyjnego traktowania użytkowników systemu, o którym mowa w art. 9d ust. 4;
+23) będąc operatorem, o którym mowa w [art. 9d](#art-9d) ust. 1d lub 1f, nie realizuje programu określającego przedsięwzięcia, jakie należy podjąć w celu zapewnienia niedyskryminacyjnego traktowania użytkowników systemu, o którym mowa w [art. 9d](#art-9d) ust. 4;
 
-24) będąc operatorem wyznaczonym na podstawie art. 9h, nie realizuje obowiązków operatora wynikających z ustawy;
+24) będąc operatorem wyznaczonym na podstawie [art. 9h](#art-9h), nie realizuje obowiązków operatora wynikających z ustawy;
 
-24a)[199)] nie będąc operatorem systemu przesyłowego, operatorem systemu dystrybucyjnego, operatorem systemu magazynowania paliw gazowych, operatorem systemu skraplania gazu ziemnego, operatorem systemu połączonego, operatorem systemu przesyłowego wodorowego, operatorem systemu dystrybucyjnego wodorowego, operatorem systemu magazynowania wodoru lub operatorem systemu połączonego wodorowego wyznaczonym na podstawie art. 9h świadczy usługi przesyłania, dystrybucji, magazynowania paliw gazowych, skraplania gazu ziemnego, regazyfikacji skroplonego gazu ziemnego, przesyłania wodoru, dystrybucji wodoru, z wyłączeniem dystrybucji wodoru siecią wodorową ograniczoną geograficznie, lub magazynowania wodoru;
+24a)[199)] nie będąc operatorem systemu przesyłowego, operatorem systemu dystrybucyjnego, operatorem systemu magazynowania paliw gazowych, operatorem systemu skraplania gazu ziemnego, operatorem systemu połączonego, operatorem systemu przesyłowego wodorowego, operatorem systemu dystrybucyjnego wodorowego, operatorem systemu magazynowania wodoru lub operatorem systemu połączonego wodorowego wyznaczonym na podstawie [art. 9h](#art-9h) świadczy usługi przesyłania, dystrybucji, magazynowania paliw gazowych, skraplania gazu ziemnego, regazyfikacji skroplonego gazu ziemnego, przesyłania wodoru, dystrybucji wodoru, z wyłączeniem dystrybucji wodoru siecią wodorową ograniczoną geograficznie, lub magazynowania wodoru;
 
-24b) wbrew obowiązkom, o których mowa w art. 9h ust. 5e–5g, nie składa operatorowi systemu przesyłowego gazowego lub operatorowi systemu połączonego gazowego zabezpieczenia majątkowego zgodnego z wymaganiami określonymi w tych przepisach;
+24b) wbrew obowiązkom, o których mowa w [art. 9h](#art-9h) ust. 5e–5g, nie składa operatorowi systemu przesyłowego gazowego lub operatorowi systemu połączonego gazowego zabezpieczenia majątkowego zgodnego z wymaganiami określonymi w tych przepisach;
 
-25) z nieuzasadnionych powodów nie występuje do Prezesa URE z wnioskiem, o którym mowa w art. 9h ust. 1 i 6, oraz nie dopełnia warunków określonych w decyzji wydanej na podstawie art. 9h ust. 9;
+25) z nieuzasadnionych powodów nie występuje do Prezesa URE z wnioskiem, o którym mowa w [art. 9h](#art-9h) ust. 1 i 6, oraz nie dopełnia warunków określonych w decyzji wydanej na podstawie [art. 9h](#art-9h) ust. 9;
 
 25a) z nieuzasadnionych przyczyn nie występuje do Prezesa URE z wnioskiem o przyznanie:
 
-a) certyfikatu niezależności lub nie dopełnia warunków określonych w decyzji, o której mowa w art. 9h1 ust. 12,
+a) certyfikatu niezależności lub nie dopełnia warunków określonych w decyzji, o której mowa w [art. 9h1](#art-9h1) ust. 12,
 
-b) certyfikatu, o którym mowa w art. 9h3, lub nie dopełnia warunków określonych w decyzji, o której mowa w art. 9h3 ust. 12;
+b) certyfikatu, o którym mowa w [art. 9h3](#art-9h3), lub nie dopełnia warunków określonych w decyzji, o której mowa w [art. 9h3](#art-9h3) ust. 12;
 
-26) nie przestrzega obowiązków, o których mowa w art. 9h ust. 11 i 12;
+26) nie przestrzega obowiązków, o których mowa w [art. 9h](#art-9h) ust. 11 i 12;
 
-26a) nie wykonuje w terminie obowiązków wynikających z decyzji, o której mowa w art. 9h ust. 14;
+26a) nie wykonuje w terminie obowiązków wynikających z decyzji, o której mowa w [art. 9h](#art-9h) ust. 14;
 
-27) nie przestrzega obowiązków, o których mowa w art. 9j ust. 1, 4 lub 5;
+27) nie przestrzega obowiązków, o których mowa w [art. 9j](#art-9j) ust. 1, 4 lub 5;
 
-27a) nie stosuje się do poleceń, o których mowa w art. 9c ust. 7a lub 7b;
+27a) nie stosuje się do poleceń, o których mowa w [art. 9c](#art-9c) ust. 7a lub 7b;
 
 28) (uchylony)
 
@@ -8714,53 +9361,53 @@ b) certyfikatu, o którym mowa w art. 9h3, lub nie dopełnia warunków określon
 
 30) (uchylony)
 
-30a) utrudnia przeprowadzenie kontroli, o której mowa w art. 11s ust. 1;
+30a) utrudnia przeprowadzenie kontroli, o której mowa w [art. 11s](#art-11s) ust. 1;
 
-30b) prowadzi rozliczenia za energię elektryczną, usługi przesyłania, dystrybucji lub usługi systemowe niezgodnie z art. 4k;
+30b) prowadzi rozliczenia za energię elektryczną, usługi przesyłania, dystrybucji lub usługi systemowe niezgodnie z [art. 4k](#art-4k);
 
-30c) nie instaluje przedpłatowego układu pomiarowo-rozliczeniowego w terminie, o którym mowa w art. 6a ust. 5;
+30c) nie instaluje przedpłatowego układu pomiarowo-rozliczeniowego w terminie, o którym mowa w [art. 6a](#art-6a) ust. 5;
 
-30d) z nieuzasadnionych powodów nie instaluje liczników zdalnego odczytu zgodnie z harmonogramem określonym w art. 11t ust. 1–3;
+30d) z nieuzasadnionych powodów nie instaluje liczników zdalnego odczytu zgodnie z harmonogramem określonym w [art. 11t](#art-11t) ust. 1–3;
 
-30e) nie realizuje wniosku odbiorcy końcowego, o którym mowa w art. 11t ust. 6, w terminie i w sposób określony w art. 11t ust. 7 i 8;
+30e) nie realizuje wniosku odbiorcy końcowego, o którym mowa w [art. 11t](#art-11t) ust. 6, w terminie i w sposób określony w [art. 11t](#art-11t) ust. 7 i 8;
 
-30f) nie przekazuje informacji, o których mowa w art. 11t ust. 10;
+30f) nie przekazuje informacji, o których mowa w [art. 11t](#art-11t) ust. 10;
 
-30g) nie dostosuje użytkowanych przed dniem 4 lipca 2019 r. systemów zdalnego odczytu oraz liczników zdalnego odczytu do wymagań określonych w ustawie oraz w przepisach wydanych na podstawie art. 11x ust. 2, w terminie określonym w art. 11t ust. 14;
+30g) nie dostosuje użytkowanych przed dniem 4 lipca 2019 r. systemów zdalnego odczytu oraz liczników zdalnego odczytu do wymagań określonych w ustawie oraz w przepisach wydanych na podstawie [art. 11x](#art-11x) ust. 2, w terminie określonym w [art. 11t](#art-11t) ust. 14;
 
-30h) wbrew obowiązkowi, o którym mowa w art. 11u ust. 1 pkt 1, nie pozyskuje z licznika zdalnego odczytu danych pomiarowych lub nie przekazuje ich w postaci elektronicznej do centralnego systemu informacji rynku energii;
+30h) wbrew obowiązkowi, o którym mowa w [art. 11u](#art-11u) ust. 1 pkt 1, nie pozyskuje z licznika zdalnego odczytu danych pomiarowych lub nie przekazuje ich w postaci elektronicznej do centralnego systemu informacji rynku energii;
 
-30i) nie pozyskuje z licznika zdalnego odczytu informacji, o których mowa w art. 11u ust. 1 pkt 2;
+30i) nie pozyskuje z licznika zdalnego odczytu informacji, o których mowa w [art. 11u](#art-11u) ust. 1 pkt 2;
 
-30j) nie realizuje obowiązków, o których mowa w art. 11y ust. 1 lub 2;
+30j) nie realizuje obowiązków, o których mowa w [art. 11y](#art-11y) ust. 1 lub 2;
 
-30k) realizuje proces wymiany informacji w sposób niezgodny z art. 11z ust. 1;
+30k) realizuje proces wymiany informacji w sposób niezgodny z [art. 11z](#art-11z) ust. 1;
 
-30l) uniemożliwia pomiędzy użytkownikami systemu elektroenergetycznego wymianę informacji rynku energii, o której mowa w art. 11z ust. 2;
+30l) uniemożliwia pomiędzy użytkownikami systemu elektroenergetycznego wymianę informacji rynku energii, o której mowa w [art. 11z](#art-11z) ust. 2;
 
-30m) nie przestrzega obowiązku przekazywania informacji rynku energii do centralnego systemu informacji rynku energii w postaci i w sposób określony w art. 11zb ust. 1–4;
+30m) nie przestrzega obowiązku przekazywania informacji rynku energii do centralnego systemu informacji rynku energii w postaci i w sposób określony w [art. 11zb](#art-11zb) ust. 1–4;
 
-30ma) nie przestrzega obowiązku przekazywania danych zgodnie z art. 11zb ust. 6;
+30ma) nie przestrzega obowiązku przekazywania danych zgodnie z [art. 11zb](#art-11zb) ust. 6;
 
-30n) nie udostępnia podmiotom, o których mowa w art. 11zc ust. 1, informacji rynku energii w postaci, w zakresie lub w sposób określony w tym przepisie, lub udostępnia te informacje innym podmiotom niż wskazane w tym przepisie;
+30n) nie udostępnia podmiotom, o których mowa w [art. 11zc](#art-11zc) ust. 1, informacji rynku energii w postaci, w zakresie lub w sposób określony w tym przepisie, lub udostępnia te informacje innym podmiotom niż wskazane w tym przepisie;
 
-30o) przetwarza informacje rynku energii w celu innym niż określony w art. 11zc ust. 3;
+30o) przetwarza informacje rynku energii w celu innym niż określony w [art. 11zc](#art-11zc) ust. 3;
 
-30p) nie udostępnia podmiotom, o których mowa w art. 11zc ust. 5, zagregowanych danych pomiarowych w postaci i w sposób określony w tym przepisie, lub udostępnia te dane innym podmiotom niż wskazane w tym przepisie;
+30p) nie udostępnia podmiotom, o których mowa w [art. 11zc](#art-11zc) ust. 5, zagregowanych danych pomiarowych w postaci i w sposób określony w tym przepisie, lub udostępnia te dane innym podmiotom niż wskazane w tym przepisie;
 
-30r) przetwarzając informacje rynku energii, nie zapewnia ochrony, o której mowa w art. 11zd ust. 1 lub ust. 2 pkt 2;
+30r) przetwarzając informacje rynku energii, nie zapewnia ochrony, o której mowa w [art. 11zd](#art-11zd) ust. 1 lub ust. 2 pkt 2;
 
-30s)[200)] nie realizuje obowiązku, o którym mowa w art. 11zd ust. 2 pkt 1;
+30s)[200)] nie realizuje obowiązku, o którym mowa w [art. 11zd](#art-11zd) ust. 2 pkt 1;
 
-30t) przechowuje dane pomiarowe w sposób niezgodny z art. 11zf ust. 1 lub nie anonimizuje jednostkowych danych pomiarowych w sposób określony w art. 11zf ust. 2;
+30t) przechowuje dane pomiarowe w sposób niezgodny z [art. 11zf](#art-11zf) ust. 1 lub nie anonimizuje jednostkowych danych pomiarowych w sposób określony w [art. 11zf](#art-11zf) ust. 2;
 
-30u) nie zawiera albo odmawia zawarcia umowy, o której mowa w art. 11zg ust. 1;
+30u) nie zawiera albo odmawia zawarcia umowy, o której mowa w [art. 11zg](#art-11zg) ust. 1;
 
-31) nie przedkłada sprawozdań, o których mowa w art. 9d ust. 5a i art. 16 ust. 18, lub planów, o których mowa w art. 16 ust. 2 i 4, lub aktualizacji tych planów;
+31) nie przedkłada sprawozdań, o których mowa w [art. 9d](#art-9d) ust. 5a i [art. 16](#art-16) ust. 18, lub planów, o których mowa w [art. 16](#art-16) ust. 2 i 4, lub aktualizacji tych planów;
 
-32) nie przestrzega obowiązków, o których mowa w art. 49b ust. 1, art. 49c ust. 1, lub podaje nieprawdziwe informacje, o których mowa w art. 49c ust. 1;
+32) nie przestrzega obowiązków, o których mowa w [art. 49b](#art-49b) ust. 1, [art. 49c](#art-49c) ust. 1, lub podaje nieprawdziwe informacje, o których mowa w [art. 49c](#art-49c) ust. 1;
 
-32a) nie realizuje w terminie obowiązku, o którym mowa w art. 49aa ust. 1;
+32a) nie realizuje w terminie obowiązku, o którym mowa w [art. 49aa](#art-49aa) ust. 1;
 
 33) (uchylony)
 
@@ -8770,15 +9417,15 @@ b) certyfikatu, o którym mowa w art. 9h3, lub nie dopełnia warunków określon
 
 36) z nieuzasadnionych powodów:
 
-a) odmawia zawarcia umowy, o której mowa w art. 11m,
+a) odmawia zawarcia umowy, o której mowa w [art. 11m](#art-11m),
 
-b) odmawia dostępu, o którym mowa w art. 11o ust. 1 pkt 4,
+b) odmawia dostępu, o którym mowa w [art. 11o](#art-11o) ust. 1 pkt 4,
 
 c) wstrzymuje lub ogranicza przesyłanie dwutlenku węgla;
 
-37) będąc operatorem, o którym mowa w art. 11n, nie realizuje obowiązków operatora sieci transportowej dwutlenku węgla wynikających z ustawy;
+37) będąc operatorem, o którym mowa w [art. 11n](#art-11n), nie realizuje obowiązków operatora sieci transportowej dwutlenku węgla wynikających z ustawy;
 
-38) nie wydaje w terminie, o którym mowa w art. 11p ust. 3, warunków przyłączenia;
+38) nie wydaje w terminie, o którym mowa w [art. 11p](#art-11p) ust. 3, warunków przyłączenia;
 
 39) wbrew obowiązkowi, o którym mowa w art. 4 rozporządzenia 1227/2011, nie podaje informacji wewnętrznej do publicznej wiadomości;
 
@@ -8790,43 +9437,43 @@ c) wstrzymuje lub ogranicza przesyłanie dwutlenku węgla;
 
 42) zawiera transakcje na hurtowym rynku energii bez wymaganego wpisu do rejestru uczestników rynku, o którym mowa w art. 9 rozporządzenia 1227/2011, lub nie dokonuje aktualizacji danych podanych w formularzu rejestracyjnym, lub podaje w formularzu rejestracyjnym dane niepełne lub nieprawdziwe;
 
-42a) wbrew żądaniu Prezesa URE, nie przedstawia w wyznaczonym terminie informacji lub dokumentów, o których mowa w art. 24a, lub przedstawia dokumenty lub informacje nieprawdziwe lub niepełne;
+42a) wbrew żądaniu Prezesa URE, nie przedstawia w wyznaczonym terminie informacji lub dokumentów, o których mowa w [art. 24a](#art-24a), lub przedstawia dokumenty lub informacje nieprawdziwe lub niepełne;
 
-43) utrudnia przeprowadzanie czynności w postępowaniu, o którym mowa w art. 23c ust. 1 lub w art. 23p ust. 1;
+43) utrudnia przeprowadzanie czynności w postępowaniu, o którym mowa w [art. 23c](#art-23c) ust. 1 lub w [art. 23p](#art-23p) ust. 1;
 
-44) nie przekazuje w terminie informacji, o których mowa w art. 33 ust. 1c;
+44) nie przekazuje w terminie informacji, o których mowa w [art. 33](#art-33) ust. 1c;
 
-45) sprzedaje paliwa ciekłe z naruszeniem wymogów, o których mowa w art. 43a ust. 1 lub 4;
+45) sprzedaje paliwa ciekłe z naruszeniem wymogów, o których mowa w [art. 43a](#art-43a) ust. 1 lub 4;
 
-46) świadczy usługi magazynowania lub przeładunku paliw ciekłych, przesyłania, lub dystrybucji paliw ciekłych z naruszeniem wymagań, o których mowa w art. 43a ust. 2;
+46) świadczy usługi magazynowania lub przeładunku paliw ciekłych, przesyłania, lub dystrybucji paliw ciekłych z naruszeniem wymagań, o których mowa w [art. 43a](#art-43a) ust. 2;
 
-47) prowadzi działalność z naruszeniem art. 43a ust. 3;
+47) prowadzi działalność z naruszeniem [art. 43a](#art-43a) ust. 3;
 
-48) nie przekazuje w terminie informacji, lub przekazuje nieprawdziwe informacje, o których mowa w art. 43e;
+48) nie przekazuje w terminie informacji, lub przekazuje nieprawdziwe informacje, o których mowa w [art. 43e](#art-43e);
 
-49) nie realizuje obowiązku, o którym mowa w art. 37 ust. 2c lub 2d;
+49) nie realizuje obowiązku, o którym mowa w [art. 37](#art-37) ust. 2c lub 2d;
 
-50) nie wykonuje lub nienależycie wykonuje obowiązek stosowania formularza w sprawie opłaty koncesyjnej, o którym mowa w art. 34 ust. 4, lub obowiązek, o którym mowa w art. 34 ust. 5;
+50) nie wykonuje lub nienależycie wykonuje obowiązek stosowania formularza w sprawie opłaty koncesyjnej, o którym mowa w [art. 34](#art-34) ust. 4, lub obowiązek, o którym mowa w [art. 34](#art-34) ust. 5;
 
-51) nie przestrzega obowiązków wynikających z art. 4 ust. 5, art. 7 ust. 1–4, art. 9 ust. 1, 12 i 14, art. 10, art. 12, art. 36, art. 37, art. 39–41, art. 46 ust. 2, art. 47 ust. 4, art. 48 ust. 1, 3 i 4, art. 50, art. 52 ust. 1 i 2, art. 53, art. 54, art. 58 ust. 3, art. 59 ust. 5, art. 60, art. 62, art. 75 ust. 3 oraz art. 80 ust. 1 i 4 rozporządzenia 2015/1222, w tym przekazuje informacje nieprawdziwe lub niepełne;
+51) nie przestrzega obowiązków wynikających z [art. 4](#art-4) ust. 5, [art. 7](#art-7) ust. 1–4, [art. 9](#art-9) ust. 1, 12 i 14, [art. 10](#art-10), [art. 12](#art-12), [art. 36](#art-36), [art. 37](#art-37), [art. 39](#art-39)–41, [art. 46](#art-46) ust. 2, art. 47 ust. 4, art. 48 ust. 1, 3 i 4, art. 50, art. 52 ust. 1 i 2, art. 53, art. 54, art. 58 ust. 3, art. 59 ust. 5, art. 60, art. 62, art. 75 ust. 3 oraz art. 80 ust. 1 i 4 rozporządzenia 2015/1222, w tym przekazuje informacje nieprawdziwe lub niepełne;
 
-51a) nie przekazuje Prezesowi URE w terminie informacji, o których mowa w art. 5 ust. 11a;
+51a) nie przekazuje Prezesowi URE w terminie informacji, o których mowa w [art. 5](#art-5) ust. 11a;
 
-52) utrudnia lub uniemożliwia przeprowadzenie kontroli, o których mowa w art. 23r;
+52) utrudnia lub uniemożliwia przeprowadzenie kontroli, o których mowa w [art. 23r](#art-23r);
 
-53) nie wykonuje w terminie obowiązku zawiadomienia, o którym mowa w art. 37a ust. 1;
+53) nie wykonuje w terminie obowiązku zawiadomienia, o którym mowa w [art. 37a](#art-37a) ust. 1;
 
-54) nie przekazuje Prezesowi URE w terminie, w formie pisemnej informacji, o której mowa w art. 38 ust. 11;
+54) nie przekazuje Prezesowi URE w terminie, w formie pisemnej informacji, o której mowa w [art. 38](#art-38) ust. 11;
 
-55) z nieuzasadnionych powodów nie realizuje obowiązku, o którym mowa w art. 31g ust. 5 i 6;
+55) z nieuzasadnionych powodów nie realizuje obowiązku, o którym mowa w [art. 31g](#art-31g) ust. 5 i 6;
 
-56) z nieuzasadnionych powodów nie przestrzega obowiązku, o którym mowa w art. 31d ust. 7;
+56) z nieuzasadnionych powodów nie przestrzega obowiązku, o którym mowa w [art. 31d](#art-31d) ust. 7;
 
 57) będąc regionalnym centrum koordynacyjnym, nie wykonuje obowiązków określonych w decyzjach organów regulacyjnych lub Agencji;
 
-58) nie przestrzega obowiązków wynikających z decyzji Prezesa URE, o której mowa w art. 24d ust. 1;
+58) nie przestrzega obowiązków wynikających z decyzji Prezesa URE, o której mowa w [art. 24d](#art-24d) ust. 1;
 
-59) będąc obywatelską społecznością energetyczną, nie przekazuje informacji, o których mowa w art. 11zo ust. 1.
+59) będąc obywatelską społecznością energetyczną, nie przekazuje informacji, o których mowa w [art. 11zo](#art-11zo) ust. 1.
 
 1a. Wpływy z tytułu kar pieniężnych, o których mowa w ust. 1, stanowią dochód budżetu państwa.
 
@@ -8914,6 +9561,7 @@ c) wstrzymuje lub ogranicza przesyłanie dwutlenku węgla;
 
 8. Prezes URE niezwłocznie powiadamia Komisję Europejską o zmianach przepisów w zakresie kar pieniężnych i o działaniach podejmowanych w przypadku naruszeń przepisów rozporządzenia 2019/943, a także przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005.
 
+<a id="art-57"></a>
 ### Art. 57.
 
 1. W razie nielegalnego pobierania paliw, z wyłączeniem wodoru, lub energii, przedsiębiorstwo energetyczne może:202)
@@ -8930,61 +9578,72 @@ c) wstrzymuje lub ogranicza przesyłanie dwutlenku węgla;
 
 2.[204)] Należności z tytułu opłat, o których mowa w ust. 1 pkt 1 lub ust. 1a pkt 1, stwierdzone prawomocnym wyrokiem sądu podlegają ściągnięciu w trybie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
+<a id="rozdzial-7a"></a>
 ### Rozdział 7a. Przepisy karne
 
+<a id="art-57a"></a>
 ### Art. 57a.
 
 1. Kto dokonuje manipulacji na rynku, podlega grzywnie do 5000 stawek dziennych albo karze pozbawienia wolności od roku do lat 10, albo obu tym karom łącznie.
 
 2. Kto wchodzi w porozumienie z inną osobą mające na celu manipulację na rynku, podlega grzywnie do 2500 stawek dziennych.
 
+<a id="art-57b"></a>
 ### Art. 57b.
 
 1. Kto wbrew zakazowi, o którym mowa w art. 3 ust. 1 lit. a rozporządzenia 1227/2011, wykorzystuje informację wewnętrzną poprzez nabywanie lub zbywanie lub próbę nabycia lub zbycia, na rachunek własny lub na rachunek osoby trzeciej, bezpośrednio lub pośrednio, produktów energetycznych sprzedawanych w obrocie hurtowym, których informacja ta dotyczy, podlega grzywnie do 5000 stawek dziennych albo karze pozbawienia wolności od roku do lat 10, albo obu tym karom łącznie.
 
 2. Jeżeli czynu określonego w ust. 1 dopuszcza się osoba, o której mowa w art. 3 ust. 2 lit. a lub c rozporządzenia 1227/2011, podlega ona grzywnie do 5000 stawek dziennych albo karze pozbawienia wolności od lat 2 do 12, albo obu tym karom łącznie.
 
+<a id="art-57c"></a>
 ### Art. 57c.
 
 Kto wbrew zakazowi, o którym mowa w art. 3 ust. 1 lit. b rozporządzenia 1227/2011, ujawnia informację wewnętrzną jakiejkolwiek innej osobie, podlega grzywnie do 2500 stawek dziennych, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy do lat 5.
 
+<a id="art-57d"></a>
 ### Art. 57d.
 
 Kto wbrew zakazowi, o którym mowa w art. 3 ust. 1 lit. c rozporządzenia 1227/2011, zaleca innej osobie w oparciu o informację wewnętrzną nabycie lub zbycie produktów energetycznych sprzedawanych w obrocie hurtowym, do których odnosi się ta informacja, lub nakłania inną osobę w oparciu o informację wewnętrzną do nabycia lub zbycia takich produktów, podlega grzywnie do 2500 stawek dziennych, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy do lat 5.
 
+<a id="art-57e"></a>
 ### Art. 57e.
 
 Kto wbrew obowiązkowi, o którym mowa w art. 17 rozporządzenia 1227/2011, ujawnia tajemnicę służbową w rozumieniu tego przepisu, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy do lat 5.
 
+<a id="art-57f"></a>
 ### Art. 57f.
 
 Kto zawodowo zajmując się pośredniczeniem w zawieraniu transakcji, wbrew obowiązkowi, o którym mowa w art. 15 rozporządzenia 1227/2011, nie przekazuje Prezesowi URE informacji o każdym uzasadnionym podejrzeniu manipulacji na rynku lub próbie manipulacji na rynku lub informacji o każdym uzasadnionym podejrzeniu niewłaściwego wykorzystywania informacji wewnętrznej, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy do lat 5.
 
+<a id="art-57g"></a>
 ### Art. 57g.
 
 1. Kto prowadzi działalność gospodarczą w zakresie wytwarzania, magazynowania lub przeładunku, skraplania, regazyfikacji, przesyłania lub dystrybucji, obrotu paliwami ciekłymi, gazowymi lub energią, w tym obrotu paliwami ciekłymi z zagranicą, bez wymaganej koncesji, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5.
 
 1a.[205)] Kto wykonuje działalność gospodarczą w zakresie magazynowania wodoru lub obrotu wodorem bez wymaganej koncesji, podlega grzywnie do 2500 stawek dziennych albo karze pozbawienia wolności od 3 miesięcy do lat 5.
 
-2. Kto dokonuje przywozu paliw ciekłych bez wymaganego wpisu do rejestru, o którym mowa w art. 32a, podlega grzywnie do 2 500 000 zł.
+2. Kto dokonuje przywozu paliw ciekłych bez wymaganego wpisu do rejestru, o którym mowa w [art. 32a](#art-32a), podlega grzywnie do 2 500 000 zł.
 
 3.[206)] Za przestępstwa określone w ust. 1 lub 1a odpowiada jak wykonujący działalność bez koncesji, kto, na podstawie przepisu prawnego, decyzji właściwego organu, umowy lub faktycznego wykonywania, zajmuje się sprawami majątkowymi innej osoby prawnej, fizycznej, grupy osób lub podmiotu niemającego osobowości prawnej.
 
 4. W przypadku odpowiedzialności przewidzianej w ust. 3, nie podlega karze za przestępstwo określone w ust. 1, kto dobrowolnie ujawnił wobec organu powołanego do ścigania przestępstw informacje dotyczące osób uczestniczących w popełnieniu przestępstwa oraz okoliczności jego popełnienia, jeżeli zapobiegło to popełnieniu albo umożliwiło wykrycie innego przestępstwa lub przestępstwa skarbowego mających związek z prowadzeniem działalności w zakresie paliw ciekłych; jeżeli sprawca czynił starania zmierzające do ujawnienia tych informacji i okoliczności, sąd stosuje nadzwyczajne złagodzenie kary.
 
+<a id="rozdzial-8"></a>
 ### Rozdział 8. Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe Art. 58–62. (pominięte)
 
+<a id="art-62a"></a>
 ### Art. 62a.
 
 Przedsiębiorstwo energetyczne może udostępniać dane o odbiorcy na zasadach i w trybie określonym w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2025 r. poz. 85).
 
+<a id="art-62b"></a>
 ### Art. 62b.
 
 1. Taryfy ustalane dla:
 
 1) odbiorców końcowych, z wyjątkiem odbiorców, którzy dokonują zakupu paliw gazowych:
 
-a) w punkcie wirtualnym w rozumieniu przepisów wydanych na podstawie art. 9 ust. 1 i 2,
+a) w punkcie wirtualnym w rozumieniu przepisów wydanych na podstawie [art. 9](#art-9) ust. 1 i 2,
 
 b) w postaci skroplonego gazu ziemnego (LNG) lub sprężonego gazu ziemnego (CNG),
 
@@ -8996,136 +9655,146 @@ a) w gospodarstwach domowych,
 
 b) będących wspólnotami mieszkaniowymi, o których mowa w ustawie z dnia 24 czerwca 1994 r. o własności lokali, albo spółdzielniami mieszkaniowymi, o których mowa w ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych, które z mocy ustawy, umowy lub innego tytułu prawnego są uprawnione lub zobowiązane do zapewnienia paliwa gazowego w lokalach mieszkalnych na potrzeby zużycia przez gospodarstwa domowe, w lokalach podmiotów, o których mowa w lit. d, w zakresie, w jakim zużywają paliwo gazowe na potrzeby określone w tym przepisie lub do lokalnej produkcji ciepła zużywanego w gospodarstwach domowych znajdujących się w budynkach wielolokalowych należących do podmiotów, o których mowa w tym przepisie lub w lokalach podmiotów określonych w lit. d, oraz będących lokalami mieszkalnymi stanowiącymi gospodarstwa domowe, które są zlokalizowane w budynkach wielomieszkaniowych, które nie wchodzą w skład zasobu spółdzielni mieszkaniowej, wspólnoty mieszkaniowej lub nie stanowią lokali mieszkalnych zaliczanych do gospodarstw domowych, w lokalach podmiotów, o których mowa w lit. d,
 
-c) innych niż podmioty, o których mowa w lit. b, które z mocy ustawy, umowy lub innego tytułu prawnego są uprawnione lub zobowiązane do zapewnienia paliwa gazowego w lokalach mieszkalnych na potrzeby zużycia przez gospodarstwa domowe, w lokalach podmiotów, o których mowa w lit. d, w zakresie, w jakim zużywają paliwo gazowe na potrzeby określone w tym przepisie lub do lokalnej produkcji ciepła zużywanego w gospodarstwach domowych znajdujących się w budynkach wielolokalowych lub w lokalach podmiotów określonych w lit. d, pod warunkiem złożenia oświadczenia, o którym mowa w art. 62ba,
+c) innych niż podmioty, o których mowa w lit. b, które z mocy ustawy, umowy lub innego tytułu prawnego są uprawnione lub zobowiązane do zapewnienia paliwa gazowego w lokalach mieszkalnych na potrzeby zużycia przez gospodarstwa domowe, w lokalach podmiotów, o których mowa w lit. d, w zakresie, w jakim zużywają paliwo gazowe na potrzeby określone w tym przepisie lub do lokalnej produkcji ciepła zużywanego w gospodarstwach domowych znajdujących się w budynkach wielolokalowych lub w lokalach podmiotów określonych w lit. d, pod warunkiem złożenia oświadczenia, o którym mowa w [art. 62ba](#art-62ba),
 
-d) o ile złożą oświadczenie, o którym mowa w art. 62bb, będących: – podmiotami udzielającymi świadczeń opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, w jakim zużywają paliwo gazowe na potrzeby udzielania tych świadczeń, – jednostkami organizacyjnymi pomocy społecznej w rozumieniu art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302), w zakresie, w jakim zużywają paliwo gazowe na potrzeby świadczenia pomocy społecznej, – noclegowniami i ogrzewalniami, o których mowa w art. 48a ust. 3 i 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – jednostkami organizacyjnymi wspierania rodziny i systemu pieczy zastępczej w rozumieniu art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301), w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – podmiotami systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – podmiotami tworzącymi system szkolnictwa wyższego i nauki, o których mowa w art. 7 ust. 1 pkt 1–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – podmiotami prowadzącymi żłobki i kluby dziecięce, a także dziennymi opiekunami, o których mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2025 r. poz. 798), w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – kościołami i innymi związkami wyznaniowymi, o których mowa w ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2023 r. poz. 265), w zakresie, w jakim zużywają paliwo gazowe na potrzeby działalności niegospodarczej, – podmiotami prowadzącymi działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87 oraz z 2025 r. poz. 1173), w zakresie, w jakim zużywają paliwo gazowe na potrzeby tej działalności, – podmiotami prowadzącymi działalność archiwalną, o której mowa w art. 22 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173), w zakresie, w jakim zużywają paliwo gazowe na potrzeby tej działalności, – ochotniczymi strażami pożarnymi w rozumieniu art. 1 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych, w zakresie, w jakim zużywają paliwo gazowe na potrzeby realizacji zadań określonych w tej ustawie, – placówkami zapewniającymi całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o których mowa w art. 67 i art. 69 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – rodzinnymi domami pomocy, o których mowa w art. 52 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, oraz mieszkaniami treningowymi lub wspomaganymi, o których mowa w art. 53 tej ustawy, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – centrami integracji społecznej, o których mowa w art. 3 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 83 i 620), w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – klubami integracji społecznej, o których mowa w art. 18 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – warsztatami terapii zajęciowej, o których mowa w art. 10a ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301 i 1665), oraz zakładami aktywności zawodowej, o których mowa w art. 29 ust. 1 tej ustawy, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – organizacjami pozarządowymi w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338) oraz podmiotami, o których mowa w art. 3 ust. 3 tej ustawy, w zakresie, w jakim zużywają paliwo gazowe na potrzeby działalności pożytku publicznego, – spółdzielniami socjalnymi, o których mowa w ustawie z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. z 2025 r. poz. 178, 620 i 1556), w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – związkami zawodowymi, o których mowa w ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440 i 1661), w zakresie, w jakim zużywają paliwa gazowe na potrzeby podstawowej działalności – które stosuje się do dnia 31 grudnia 2027 r. – przez przedsiębiorstwa energetyczne posiadające koncesję na obrót paliwami gazowymi lub na obrót gazem ziemnym z zagranicą podlegają zatwierdzeniu przez Prezesa URE.
+d) o ile złożą oświadczenie, o którym mowa w [art. 62bb](#art-62bb), będących: – podmiotami udzielającymi świadczeń opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, w jakim zużywają paliwo gazowe na potrzeby udzielania tych świadczeń, – jednostkami organizacyjnymi pomocy społecznej w rozumieniu art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302), w zakresie, w jakim zużywają paliwo gazowe na potrzeby świadczenia pomocy społecznej, – noclegowniami i ogrzewalniami, o których mowa w art. 48a ust. 3 i 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – jednostkami organizacyjnymi wspierania rodziny i systemu pieczy zastępczej w rozumieniu art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301), w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – podmiotami systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – podmiotami tworzącymi system szkolnictwa wyższego i nauki, o których mowa w art. 7 ust. 1 pkt 1–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – podmiotami prowadzącymi żłobki i kluby dziecięce, a także dziennymi opiekunami, o których mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2025 r. poz. 798), w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – kościołami i innymi związkami wyznaniowymi, o których mowa w ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2023 r. poz. 265), w zakresie, w jakim zużywają paliwo gazowe na potrzeby działalności niegospodarczej, – podmiotami prowadzącymi działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87 oraz z 2025 r. poz. 1173), w zakresie, w jakim zużywają paliwo gazowe na potrzeby tej działalności, – podmiotami prowadzącymi działalność archiwalną, o której mowa w art. 22 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173), w zakresie, w jakim zużywają paliwo gazowe na potrzeby tej działalności, – ochotniczymi strażami pożarnymi w rozumieniu art. 1 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych, w zakresie, w jakim zużywają paliwo gazowe na potrzeby realizacji zadań określonych w tej ustawie, – placówkami zapewniającymi całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o których mowa w art. 67 i art. 69 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – rodzinnymi domami pomocy, o których mowa w art. 52 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, oraz mieszkaniami treningowymi lub wspomaganymi, o których mowa w art. 53 tej ustawy, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – centrami integracji społecznej, o których mowa w art. 3 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 83 i 620), w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – klubami integracji społecznej, o których mowa w art. 18 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – warsztatami terapii zajęciowej, o których mowa w art. 10a ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301 i 1665), oraz zakładami aktywności zawodowej, o których mowa w art. 29 ust. 1 tej ustawy, w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – organizacjami pozarządowymi w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338) oraz podmiotami, o których mowa w art. 3 ust. 3 tej ustawy, w zakresie, w jakim zużywają paliwo gazowe na potrzeby działalności pożytku publicznego, – spółdzielniami socjalnymi, o których mowa w ustawie z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. z 2025 r. poz. 178, 620 i 1556), w zakresie, w jakim zużywają paliwo gazowe na potrzeby podstawowej działalności, – związkami zawodowymi, o których mowa w ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440 i 1661), w zakresie, w jakim zużywają paliwa gazowe na potrzeby podstawowej działalności – które stosuje się do dnia 31 grudnia 2027 r. – przez przedsiębiorstwa energetyczne posiadające koncesję na obrót paliwami gazowymi lub na obrót gazem ziemnym z zagranicą podlegają zatwierdzeniu przez Prezesa URE.
 
-1a. Przez lokalną produkcję ciepła, o której mowa w ust. 1 pkt 2 lit. b oraz c, rozumie się wytwarzanie ciepła przez odbiorcę, o którym mowa w ust. 1 pkt 2 lit. b lub c, na potrzeby budynków zasilanych w ciepło przez tego odbiorcę, przy wykorzystaniu źródła ciepła, nieprzyłączonego do zewnętrznej sieci ciepłowniczej, do którego to źródła ciepła tytuł prawny ma ten odbiorca, oraz zlokalizowanego w budynku zasilanym przez to źródło ciepła lub zlokalizowanego w takiej jego bliskości, że stanowią one technologiczny i funkcjonalny system zamknięty. Opłaty za ciepło wytworzone przy wykorzystaniu tego źródła ciepła rozliczane są zgodnie z zasadami przewidzianymi w art. 45a ust. 4.
+1a. Przez lokalną produkcję ciepła, o której mowa w ust. 1 pkt 2 lit. b oraz c, rozumie się wytwarzanie ciepła przez odbiorcę, o którym mowa w ust. 1 pkt 2 lit. b lub c, na potrzeby budynków zasilanych w ciepło przez tego odbiorcę, przy wykorzystaniu źródła ciepła, nieprzyłączonego do zewnętrznej sieci ciepłowniczej, do którego to źródła ciepła tytuł prawny ma ten odbiorca, oraz zlokalizowanego w budynku zasilanym przez to źródło ciepła lub zlokalizowanego w takiej jego bliskości, że stanowią one technologiczny i funkcjonalny system zamknięty. Opłaty za ciepło wytworzone przy wykorzystaniu tego źródła ciepła rozliczane są zgodnie z zasadami przewidzianymi w [art. 45a](#art-45a) ust. 4.
 
 2. Jeżeli umowa sprzedaży paliw gazowych lub umowa kompleksowa nie określają ceny paliw gazowych lub sposobu jej ustalania po ustaniu obowiązku przedkładania taryf do zatwierdzenia Prezesowi URE, przedsiębiorstwo energetyczne zajmujące się sprzedażą paliw gazowych przesyła odbiorcy projekt zmiany umowy w zakresie proponowanych cen paliw gazowych lub sposobu ich ustalania, w terminie umożliwiającym dostosowanie tej umowy przed upływem terminów, o których mowa w ust. 1, nie później jednak niż na 2 miesiące przed upływem tych terminów. Wraz z projektem zmiany umowy przedsiębiorstwo energetyczne jest obowiązane przesłać odbiorcy pisemną informację o prawie do wypowiedzenia umowy.
 
 3. W przypadku, o którym mowa w ust. 2, odbiorca może wypowiedzieć umowę sprzedaży paliw gazowych lub umowę kompleksową, bez ponoszenia kosztów, składając do przedsiębiorstwa energetycznego pisemne oświadczenie. Umowa ta ulega rozwiązaniu z ostatnim dniem miesiąca następującego po miesiącu, w którym oświadczenie o wypowiedzeniu umowy dotarło do przedsiębiorstwa energetycznego. Odbiorca może wskazać późniejszy termin rozwiązania tej umowy.
 
+<a id="art-62ba"></a>
 ### Art. 62ba.
 
-1. Odbiorcy, o których mowa w art. 62b ust. 1 pkt 2 lit. b i c, przed zawarciem ze sprzedawcą paliw gazowych umowy sprzedaży paliwa gazowego lub umowy kompleksowej składają temu sprzedawcy oświadczenie, o którym mowa w ust. 2.
+1. Odbiorcy, o których mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. b i c, przed zawarciem ze sprzedawcą paliw gazowych umowy sprzedaży paliwa gazowego lub umowy kompleksowej składają temu sprzedawcy oświadczenie, o którym mowa w ust. 2.
 
 2. Oświadczenie składane przez odbiorcę zawiera:
 
-1) oświadczenie o spełnianiu warunków pozwalających na uznanie go za odbiorcę, o którym mowa w art. 62b ust. 1 pkt 2 lit. b lub c;
+1) oświadczenie o spełnianiu warunków pozwalających na uznanie go za odbiorcę, o którym mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. b lub c;
 
 2) wskazanie danych służących określeniu szacowanej części paliwa gazowego, która będzie zużywana na potrzeby:
 
 a) odbiorców w gospodarstwach domowych w lokalach mieszkalnych lub na potrzeby wytwarzania ciepła zużywanego przez odbiorców w gospodarstwach domowych w lokalach mieszkalnych oraz na potrzeby części wspólnych budynków wielolokalowych, oraz
 
-b) odbiorców, o których mowa w art. 62b ust. 1 pkt 2 lit. d, prowadzących działalność w lokalach odbiorcy, o którym mowa w ust. 1,
+b) odbiorców, o których mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. d, prowadzących działalność w lokalach odbiorcy, o którym mowa w ust. 1,
 
 c) inne niż określone w lit. a i b;
 
 3) określenie szacowanej części paliwa gazowego, która będzie zużywana na potrzeby, o których mowa w pkt 2.
 
-3. Określenie szacunkowej części paliwa gazowego w oświadczeniu, o którym mowa w ust. 2, jest dokonywane przez odbiorcę zgodnie z zasadami określonymi w art. 45a lub z uwzględnieniem powierzchni lokali mieszkalnych i użytkowych, charakteru prowadzonej w nich działalności oraz posiadanych danych historycznych.
+3. Określenie szacunkowej części paliwa gazowego w oświadczeniu, o którym mowa w ust. 2, jest dokonywane przez odbiorcę zgodnie z zasadami określonymi w [art. 45a](#art-45a) lub z uwzględnieniem powierzchni lokali mieszkalnych i użytkowych, charakteru prowadzonej w nich działalności oraz posiadanych danych historycznych.
 
 4. Osoba działająca w imieniu i na rzecz odbiorcy, o którym mowa w ust. 1, która mimo ciążącego na niej obowiązku nie złożyła oświadczenia, o którym mowa w ust. 2, albo w oświadczeniu tym określi szacowaną część paliwa gazowego, która będzie zużywana na potrzeby, o których mowa w ust. 2 pkt 2 lit. c, w sposób rażąco sprzeczny z ust. 3, ponosi na zasadzie winy odpowiedzialność wobec sprzedawcy paliw gazowych do kwoty stanowiącej iloczyn różnicy w cenie paliwa gazowego zawartej w cenniku sprzedawcy paliw gazowych a ceną w taryfie tego sprzedawcy oraz ilością paliwa gazowego zużytego na potrzeby, o których mowa w ust. 2 pkt 2 lit. c.
 
-5. Niezłożenie przez odbiorcę, o którym mowa w art. 62b ust. 1 pkt 2 lit. c, oświadczenia, o którym mowa w ust. 2, uprawnia sprzedawcę paliw gazowych do niestosowania wobec tego odbiorcy taryfy, o której mowa w art. 62b ust. 1 pkt 2.
+5. Niezłożenie przez odbiorcę, o którym mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. c, oświadczenia, o którym mowa w ust. 2, uprawnia sprzedawcę paliw gazowych do niestosowania wobec tego odbiorcy taryfy, o której mowa w [art. 62b](#art-62b) ust. 1 pkt 2.
 
 6. W przypadku umów, o których mowa w ust. 1, zawartych na okres dłuższy niż rok odbiorca składa oświadczenia, o których mowa w ust. 2, nie rzadziej niż raz w roku.
 
+<a id="art-62bb"></a>
 ### Art. 62bb.
 
-1. Odbiorca paliw gazowych, o którym mowa w art. 62b ust. 1 pkt 2 lit. d, przed zawarciem ze sprzedawcą paliw gazowych umowy sprzedaży paliwa gazowego lub umowy kompleksowej składa temu sprzedawcy oświadczenie, które zawiera:
+1. Odbiorca paliw gazowych, o którym mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. d, przed zawarciem ze sprzedawcą paliw gazowych umowy sprzedaży paliwa gazowego lub umowy kompleksowej składa temu sprzedawcy oświadczenie, które zawiera:
 
-1) oświadczenie o spełnieniu warunków pozwalających na uznanie go za odbiorcę, o którym mowa w art. 62b ust. 1 pkt 2 lit. d;
+1) oświadczenie o spełnieniu warunków pozwalających na uznanie go za odbiorcę, o którym mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. d;
 
 2) wskazanie danych służących określeniu szacunkowej części paliwa gazowego, które będzie zużywane na potrzeby:
 
-a) o których mowa w art. 62b ust. 1 pkt 2 lit. d, oraz
+a) o których mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. d, oraz
 
 b) inne niż określone w tym przepisie;
 
 3) określenie szacowanej części paliwa gazowego, która będzie zużywana na potrzeby, o których mowa w pkt 2.
 
-2. Określenie szacunkowej części paliwa gazowego w oświadczeniu, o którym mowa w ust. 1, jest dokonywane przez odbiorcę zgodnie z zasadami określonymi w art. 45a lub z uwzględnieniem powierzchni lokali, charakteru prowadzonej w nich działalności oraz posiadanych danych historycznych.
+2. Określenie szacunkowej części paliwa gazowego w oświadczeniu, o którym mowa w ust. 1, jest dokonywane przez odbiorcę zgodnie z zasadami określonymi w [art. 45a](#art-45a) lub z uwzględnieniem powierzchni lokali, charakteru prowadzonej w nich działalności oraz posiadanych danych historycznych.
 
 3. Osoba działająca w imieniu i na rzecz odbiorcy, o którym mowa w ust. 1, która w oświadczeniu, o którym mowa w ust. 1, określi szacowaną część paliwa gazowego, która będzie zużywana na potrzeby, o których mowa w ust. 1 pkt 2 lit. b, w sposób rażąco sprzeczny z ust. 2, ponosi na zasadzie winy odpowiedzialność wobec sprzedawcy paliw gazowych do kwoty stanowiącej iloczyn różnicy w cenie paliwa gazowego zawartej w cenniku sprzedawcy paliw gazowych a ceną w taryfie tego sprzedawcy oraz ilością paliwa gazowego zużytego na potrzeby, o których mowa w ust. 1 pkt 2 lit. b.
 
-4. Niezłożenie przez odbiorcę, o którym mowa w art. 62b ust. 1 pkt 2 lit. d, oświadczenia, o którym mowa w ust. 1, uprawnia sprzedawcę paliw gazowych do niestosowania wobec tego odbiorcy taryfy, o której mowa w art. 62b ust. 1 pkt 2.
+4. Niezłożenie przez odbiorcę, o którym mowa w [art. 62b](#art-62b) ust. 1 pkt 2 lit. d, oświadczenia, o którym mowa w ust. 1, uprawnia sprzedawcę paliw gazowych do niestosowania wobec tego odbiorcy taryfy, o której mowa w [art. 62b](#art-62b) ust. 1 pkt 2.
 
+<a id="art-62bc"></a>
 ### Art. 62bc.
 
-1. Oświadczenia, o których mowa w art. 62ba ust. 2 pkt 1 i 2 oraz art. 62bb ust. 1 pkt 1 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+1. Oświadczenia, o których mowa w [art. 62ba](#art-62ba) ust. 2 pkt 1 i 2 oraz [art. 62bb](#art-62bb) ust. 1 pkt 1 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-2. Oświadczenia, o których mowa w art. 62ba ust. 2 i art. 62bb ust. 1, podpisuje się własnoręcznie lub podpisem posiadającym kwalifikowany certyfikat podpisu elektronicznego wystawiony przez dostawcę usług zaufania, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725), osoby uprawnionej do reprezentacji podmiotu.
+2. Oświadczenia, o których mowa w [art. 62ba](#art-62ba) ust. 2 i art. 62bb ust. 1, podpisuje się własnoręcznie lub podpisem posiadającym kwalifikowany certyfikat podpisu elektronicznego wystawiony przez dostawcę usług zaufania, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725), osoby uprawnionej do reprezentacji podmiotu.
 
+<a id="art-62bd"></a>
 ### Art. 62bd.
 
-68) Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa w art. 62ba ust. 2 i art. 62bb ust. 1, mając na względzie zapewnienie przejrzystości i komunikatywności tych oświadczeń oraz potrzebę ujednolicenia ich formy.
+68) Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa w [art. 62ba](#art-62ba) ust. 2 i [art. 62bb](#art-62bb) ust. 1, mając na względzie zapewnienie przejrzystości i komunikatywności tych oświadczeń oraz potrzebę ujednolicenia ich formy.
 
+<a id="art-62be"></a>
 ### Art. 62be.
 
-1. Kto nie dopełnia obowiązku złożenia oświadczenia, o którym mowa w art. 62ba, w imieniu i na rzecz podmiotów określonych w art. 62b ust. 1 pkt 2 lit. b, podlega karze grzywny od 500 do 50 000 złotych.
+1. Kto nie dopełnia obowiązku złożenia oświadczenia, o którym mowa w [art. 62ba](#art-62ba), w imieniu i na rzecz podmiotów określonych w [art. 62b](#art-62b) ust. 1 pkt 2 lit. b, podlega karze grzywny od 500 do 50 000 złotych.
 
 2. W przypadku ukarania za czyn określony w ust. 1 sąd może orzec zakaz zajmowania stanowiska członka zarządu wspólnoty mieszkaniowej lub spółdzielni mieszkaniowej.
 
 3. Orzekanie w sprawach określonych w ust. 1 następuje w trybie przewidzianym przepisami Kodeksu postępowania w sprawach o wykroczenia.
 
+<a id="art-62c"></a>
 ### Art. 62c.
 
-1. Przedsiębiorstwo energetyczne zajmujące się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w art. 5b1, wykonuje zadania sprzedawcy z urzędu do czasu wyznaczenia przez Prezesa URE lub wyłonienia w drodze przetargu sprzedawcy z urzędu, na zasadach określonych w art. 9i, dla odbiorców przyłączonych do sieci operatora systemu dystrybucyjnego wyodrębnionego z przedsiębiorstwa zintegrowanego pionowo w celu zapewnienia mu niezależności pod względem formy prawnej w rozumieniu art. 9d ust. 1d i 1e oraz dla odbiorców końcowych, o których mowa w art. 5ab ust. 1, przyłączonych do sieci operatora systemu przesyłowego gazowego.
+1. Przedsiębiorstwo energetyczne zajmujące się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w [art. 5b1](#art-5b1), wykonuje zadania sprzedawcy z urzędu do czasu wyznaczenia przez Prezesa URE lub wyłonienia w drodze przetargu sprzedawcy z urzędu, na zasadach określonych w [art. 9i](#art-9i), dla odbiorców przyłączonych do sieci operatora systemu dystrybucyjnego wyodrębnionego z przedsiębiorstwa zintegrowanego pionowo w celu zapewnienia mu niezależności pod względem formy prawnej w rozumieniu [art. 9d](#art-9d) ust. 1d i 1e oraz dla odbiorców końcowych, o których mowa w [art. 5ab](#art-5ab) ust. 1, przyłączonych do sieci operatora systemu przesyłowego gazowego.
 
-2. Dla odbiorców przyłączonych do systemu dystrybucyjnego gazowego lub systemu dystrybucyjnego elektroenergetycznego, o którym mowa w art. 9d ust. 7, do czasu wyznaczenia przez Prezesa URE lub wyłonienia w drodze przetargu sprzedawcy z urzędu, na zasadach określonych w art. 9i, zadania sprzedawcy z urzędu wykonuje przedsiębiorstwo zintegrowane pionowo, w skład którego wchodzi ten system dystrybucyjny.
+2. Dla odbiorców przyłączonych do systemu dystrybucyjnego gazowego lub systemu dystrybucyjnego elektroenergetycznego, o którym mowa w [art. 9d](#art-9d) ust. 7, do czasu wyznaczenia przez Prezesa URE lub wyłonienia w drodze przetargu sprzedawcy z urzędu, na zasadach określonych w [art. 9i](#art-9i), zadania sprzedawcy z urzędu wykonuje przedsiębiorstwo zintegrowane pionowo, w skład którego wchodzi ten system dystrybucyjny.
 
-3. W przypadku gdy sprzedawca z urzędu zaprzestał sprzedaży paliw gazowych do odbiorców końcowych przyłączonych do systemu dystrybucyjnego, o którym mowa w art. 9d ust. 7, zadania sprzedawcy z urzędu pełni przedsiębiorstwo energetyczne zajmujące się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w art. 5b1.
+3. W przypadku gdy sprzedawca z urzędu zaprzestał sprzedaży paliw gazowych do odbiorców końcowych przyłączonych do systemu dystrybucyjnego, o którym mowa w [art. 9d](#art-9d) ust. 7, zadania sprzedawcy z urzędu pełni przedsiębiorstwo energetyczne zajmujące się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w [art. 5b1](#art-5b1).
 
 4. W przypadku gdy sprzedawca z urzędu zaprzestał sprzedaży energii elektrycznej do odbiorców końcowych przyłączonych do systemu dystrybucyjnego, o którym mowa w art. 9d ust. 7, zadania sprzedawcy z urzędu dla tych odbiorców pełni przedsiębiorstwo energetyczne będące sprzedawcą energii elektrycznej, o którym mowa w art. 40 ust. 3 pkt 2 ustawy z dnia 20 lutego 2020 r. o odnawialnych źródłach energii.
 
 5. Dla odbiorców końcowych, do których nie znajdują zastosowania rozwiązania zawarte w ust. 1–4, zadania sprzedawcy z urzędu wykonuje:
 
-1) w zakresie sprzedaży paliw gazowych – przedsiębiorstwo energetyczne zajmujące się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w art. 5b1 ust. 1;
+1) w zakresie sprzedaży paliw gazowych – przedsiębiorstwo energetyczne zajmujące się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w [art. 5b1](#art-5b1) ust. 1;
 
 2) w zakresie sprzedaży energii elektrycznej – przedsiębiorstwo energetyczne będące sprzedawcą energii elektrycznej, o którym mowa w art. 40 ust. 3 pkt 2 ustawy z dnia 20 lutego 2020 r. o odnawialnych źródłach energii.
 
+<a id="art-62d"></a>
 ### Art. 62d.
 
 Od dnia 1 stycznia 2020 r. do dnia 30 czerwca 2021 r.:
 
-1) przedsiębiorstwo energetyczne świadczące usługi, o których mowa w art. 4ba ust. 1, przekazuje Prezesowi URE miesięczne sprawozdanie zawierające informacje o podmiotach zlecających usługi, o których mowa w art. 4ba ust. 1, w terminie 14 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
+1) przedsiębiorstwo energetyczne świadczące usługi, o których mowa w [art. 4ba](#art-4ba) ust. 1, przekazuje Prezesowi URE miesięczne sprawozdanie zawierające informacje o podmiotach zlecających usługi, o których mowa w [art. 4ba](#art-4ba) ust. 1, w terminie 14 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
 
 2) na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii, Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 1, do wnioskującego organu;
 
-3) Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienie danych, o których mowa w art. 4ba ust. 8, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych;
+3) Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienie danych, o których mowa w [art. 4ba](#art-4ba) ust. 8, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych;
 
 4) przedsiębiorstwo energetyczne posiadające koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą, a także podmiot przywożący stosownie do swojej działalności przekazuje Prezesowi URE miesięczne sprawozdanie o rodzajach oraz ilości wytworzonych, przywiezionych i wywiezionych paliw ciekłych, a także ich przeznaczeniu – w terminie 20 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
 
 5) na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii, Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 4, do wnioskującego organu;
 
-6) Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienia danych, o których mowa w art. 43d ust. 5, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych.
+6) Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienia danych, o których mowa w [art. 43d](#art-43d) ust. 5, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych.
 
+<a id="art-62da"></a>
 ### Art. 62da.
 
 Od dnia 1 lipca 2021 r. do dnia 30 czerwca 2023 r.:
 
-1) przedsiębiorstwo energetyczne świadczące usługi, o których mowa w art. 4ba ust. 1, przekazuje Prezesowi URE miesięczne sprawozdanie zawierające informacje o podmiotach zlecających usługi, o których mowa w art. 4ba ust. 1, w terminie 14 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
+1) przedsiębiorstwo energetyczne świadczące usługi, o których mowa w [art. 4ba](#art-4ba) ust. 1, przekazuje Prezesowi URE miesięczne sprawozdanie zawierające informacje o podmiotach zlecających usługi, o których mowa w [art. 4ba](#art-4ba) ust. 1, w terminie 14 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
 
 2) na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 1, do wnioskującego organu;
 
-3) Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienie danych, o których mowa w art. 4ba ust. 8, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych;
+3) Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienie danych, o których mowa w [art. 4ba](#art-4ba) ust. 8, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych;
 
 4) przedsiębiorstwo energetyczne posiadające koncesję na wytwarzanie paliw ciekłych lub koncesję na obrót paliwami ciekłymi z zagranicą, a także podmiot przywożący stosownie do swojej działalności przekazuje Prezesowi URE miesięczne sprawozdanie o rodzajach oraz ilości wytworzonych, przywiezionych i wywiezionych paliw ciekłych, a także ich przeznaczeniu – w terminie 20 dni od dnia zakończenia miesiąca, którego dotyczy to sprawozdanie;
 
 5) na wniosek Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw energii Prezes URE przekazuje kopie sprawozdań, o których mowa w pkt 4, do wnioskującego organu;
 
-6) Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienia danych, o których mowa w art. 43d ust. 5, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych.
+6) Prezes URE przekazuje drogą elektroniczną do Prezesa Rządowej Agencji Rezerw Strategicznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw energii zestawienia danych, o których mowa w [art. 43d](#art-43d) ust. 5, w terminie 45 dni od dnia zakończenia miesiąca, którego dotyczy to zestawienie danych.
 
+<a id="art-62e"></a>
 ### Art. 62e.
 
 1. Przedsiębiorstwo energetyczne wykonujące działalność polegającą na wytwarzaniu paliw ciekłych, magazynowaniu lub przeładunku paliw ciekłych, przesyłaniu lub dystrybucji paliw ciekłych, obrocie paliwami ciekłymi, w tym obrocie nimi z zagranicą, a także podmiot przywożący, które nie wykonały obowiązku, o którym mowa w art. 31 ust. 1 i 2 ustawy z dnia 22 lipca 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1165 i 1986 oraz z 2017 r. poz. 1387), przekazują do Prezesa URE informacje o rodzajach i lokalizacji infrastruktury paliw ciekłych wykorzystywanej do prowadzonej działalności, zgodnie z wzorem określonym w przepisach wydanych na podstawie art. 43e ust. 2, w terminie do dnia 31 grudnia 2021 r.
 
 2. Kto nie przekazuje w terminie informacji lub przekazuje nieprawdziwą informację, o której mowa w ust. 1, podlega karze pieniężnej w wysokości 10 000 zł oddzielnie dla każdego rodzaju i lokalizacji infrastruktury paliw ciekłych.
 
-3. Karę, o której mowa w ust. 2, nakłada Prezes URE, z uwzględnieniem art. 56 ust. 4 i 5–7a.
+3. Karę, o której mowa w ust. 2, nakłada Prezes URE, z uwzględnieniem [art. 56](#art-56) ust. 4 i 5–7a.
 
+<a id="art-62f"></a>
 ### Art. 62f.
 
 1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu paliwami gazowymi może do dnia 30 czerwca 2022 r. przedłożyć Prezesowi URE do zatwierdzenia taryfę skalkulowaną na podstawie części kosztów uzasadnionych zakupu paliwa gazowego planowanych do poniesienia w okresie obowiązywania taryfy. W przypadku gdy ta taryfa została skalkulowana zgodnie z ust. 2, koszty uzasadnione zakupu paliw gazowych w części, w jakiej nie zostały pokryte w zatwierdzonej taryfie, są uwzględniane przez przedsiębiorstwo energetyczne w kolejnych taryfach tego przedsiębiorstwa na zasadach określonych w ust. 3–9.
@@ -9136,55 +9805,33 @@ Od dnia 1 lipca 2021 r. do dnia 30 czerwca 2023 r.:
 
 4. W przypadku zatwierdzenia przez Prezesa URE taryfy skalkulowanej przez przedsiębiorstwo energetyczne, o którym mowa w ust. 1, zgodnie z ust. 1, przy zatwierdzeniu kolejnych taryf tego przedsiębiorstwa uwzględnia się, jako koszty uzasadnione zakupu paliw gazowych, wartość korekty kosztów zakupu paliw gazowych, ustaloną w sposób określony w ust. 5.
 
-5. Wartość korekty, o której mowa w ust. 4, ustala się jako iloczyn ilości dostarczonych paliw gazowych za okres objęty korektą (megawatogodzin) i różnicy pomiędzy faktycznie poniesionymi przez przedsiębiorstwo energetyczne, o którym mowa w ust. 1, średnimi jednostkowymi kosztami ich zakupu wyrażonymi w złotych na megawatogodzinę, udokumentowanymi zgodnie z prowadzoną przez to przedsiębiorstwo energetyczne ewidencją księgową, o której mowa w art. 44 ust. 1, a średnim jednostkowym kosztem zakupu paliw gazowych, o którym mowa w ust. 3, przyjętym przy zatwierdzeniu taryfy. Wartość korekty powiększa się o koszty uzasadnione finansowania wartości tej korekty.
+5. Wartość korekty, o której mowa w ust. 4, ustala się jako iloczyn ilości dostarczonych paliw gazowych za okres objęty korektą (megawatogodzin) i różnicy pomiędzy faktycznie poniesionymi przez przedsiębiorstwo energetyczne, o którym mowa w ust. 1, średnimi jednostkowymi kosztami ich zakupu wyrażonymi w złotych na megawatogodzinę, udokumentowanymi zgodnie z prowadzoną przez to przedsiębiorstwo energetyczne ewidencją księgową, o której mowa w [art. 44](#art-44) ust. 1, a średnim jednostkowym kosztem zakupu paliw gazowych, o którym mowa w ust. 3, przyjętym przy zatwierdzeniu taryfy. Wartość korekty powiększa się o koszty uzasadnione finansowania wartości tej korekty.
 
 6. Wartość faktycznie poniesionego średniego jednostkowego kosztu zakupu paliwa gazowego, o którym mowa w ust. 5, ustala się w odniesieniu do całkowitego wolumenu paliwa gazowego dostarczonego przez przedsiębiorstwo energetyczne, o którym mowa w ust. 1, wszystkim odbiorcom w okresie stosowania taryfy, o której mowa w ust. 1.
 
-7. Uwzględnienie wartości korekty, o której mowa w ust. 4, możliwe jest również po upływie terminu, o którym mowa w art. 62b ust. 1 pkt 2, w kolejnych wprowadzanych przez przedsiębiorstwo energetyczne, o którym mowa w ust. 1, do stosowania: taryfach lub cenach i stawkach opłat ustalonych na rynkach konkurencyjnych.
+7. Uwzględnienie wartości korekty, o której mowa w ust. 4, możliwe jest również po upływie terminu, o którym mowa w [art. 62b](#art-62b) ust. 1 pkt 2, w kolejnych wprowadzanych przez przedsiębiorstwo energetyczne, o którym mowa w ust. 1, do stosowania: taryfach lub cenach i stawkach opłat ustalonych na rynkach konkurencyjnych.
 
 8. Wzrost średniej ceny sprzedaży paliwa gazowego spowodowany uwzględnieniem rozliczenia części korekty, o której mowa w ust. 4, w kolejnej taryfie ustalonej na zasadach określonych w ust. 4–6, w okresie 12 miesięcy następujących po okresie stosowania taryfy, o której mowa w ust. 1, nie może przekroczyć 25 % poziomu średniej ceny, która zostałaby ustalona bez rozliczania tej korekty.
 
-9. Korektę, o której mowa w ust. 4, uwzględnia się w okresie nieprzekraczającym 36 miesięcy począwszy od dnia 1 stycznia 2023 r., po zakończeniu weryfikacji, o której mowa w art. 62i ust. 11, i przekazaniu informacji, o której mowa w art. 62i ust. 12a.
+9. Korektę, o której mowa w ust. 4, uwzględnia się w okresie nieprzekraczającym 36 miesięcy począwszy od dnia 1 stycznia 2023 r., po zakończeniu weryfikacji, o której mowa w [art. 62i](#art-62i) ust. 11, i przekazaniu informacji, o której mowa w [art. 62i](#art-62i) ust. 12a.
 
+<a id="art-62g"></a>
 ### Art. 62g.
 
-1. W przypadku zatwierdzenia przez Prezesa URE taryfy skalkulowanej przez przedsiębiorstwo energetyczne zgodnie z art. 62f ust. 1, zwane dalej „podmiotem uprawnionym”, podmiotowi uprawionemu przysługuje z tego tytułu rekompensata ustalana na zasadach określonych w art. 62h–62j.
+1. W przypadku zatwierdzenia przez Prezesa URE taryfy skalkulowanej przez przedsiębiorstwo energetyczne zgodnie z [art. 62f](#art-62f) ust. 1, zwane dalej „podmiotem uprawnionym”, podmiotowi uprawionemu przysługuje z tego tytułu rekompensata ustalana na zasadach określonych w [art. 62h](#art-62h)–62j.
 
-2. Rekompensata, o której mowa w ust. 1, przysługuje podmiotowi uprawnionemu za każdy miesiąc kalendarzowy począwszy od dnia wprowadzenia przez podmiot uprawniony do stosowania taryfy skalkulowanej na zasadach określonych w art. 62f, nie wcześniej niż od dnia 1 stycznia 2022 r.
+2. Rekompensata, o której mowa w ust. 1, przysługuje podmiotowi uprawnionemu za każdy miesiąc kalendarzowy począwszy od dnia wprowadzenia przez podmiot uprawniony do stosowania taryfy skalkulowanej na zasadach określonych w [art. 62f](#art-62f), nie wcześniej niż od dnia 1 stycznia 2022 r.
 
+<a id="art-62h"></a>
 ### Art. 62h.
 
-1. Rekompensata, o której mowa w art. 62g ust. 1, przysługuje podmiotowi uprawnionemu za każdy miesiąc kalendarzowy okresu, o którym mowa w art. 62g ust. 2, w kwocie stanowiącej sumę:
+1. Rekompensata, o której mowa w [art. 62g](#art-62g) ust. 1, przysługuje podmiotowi uprawnionemu za każdy miesiąc kalendarzowy okresu, o którym mowa w [art. 62g](#art-62g) ust. 2, w kwocie stanowiącej sumę:
 
-1) faktycznych kosztów zakupu paliwa gazowego poniesionych na potrzeby odbiorców w gospodarstwach domowych dla dostaw w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty, pomniejszonych o koszty uzasadnione w kosztach przyjętych do kalkulacji taryfy zgodnie z art. 62f ust. 2 i 3 oraz o kwotę zaliczki na poczet rekompensaty ustalonej zgodnie z pkt 2, która została wypłacona podmiotowi uprawnionemu na poczet miesiąca poprzedzającego miesiąc złożenia wniosku o rekompensatę;
+1) faktycznych kosztów zakupu paliwa gazowego poniesionych na potrzeby odbiorców w gospodarstwach domowych dla dostaw w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty, pomniejszonych o koszty uzasadnione w kosztach przyjętych do kalkulacji taryfy zgodnie z [art. 62f](#art-62f) ust. 2 i 3 oraz o kwotę zaliczki na poczet rekompensaty ustalonej zgodnie z pkt 2, która została wypłacona podmiotowi uprawnionemu na poczet miesiąca poprzedzającego miesiąc złożenia wniosku o rekompensatę;
 
-2) zaliczki na poczet rekompensaty należnej za miesiąc następujący po miesiącu złożenia wniosku o wypłatę rekompensaty, w kwocie stanowiącej różnicę między kosztami planowanymi do poniesienia przez podmiot uprawniony w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty a kosztami uzasadnionymi w kosztach przyjętych do kalkulacji taryfy zgodnie z art. 62f ust. 2 i 3.
+2) zaliczki na poczet rekompensaty należnej za miesiąc następujący po miesiącu złożenia wniosku o wypłatę rekompensaty, w kwocie stanowiącej różnicę między kosztami planowanymi do poniesienia przez podmiot uprawniony w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty a kosztami uzasadnionymi w kosztach przyjętych do kalkulacji taryfy zgodnie z [art. 62f](#art-62f) ust. 2 i 3.
 
-2. Wysokość rekompensaty miesięcznej, o której mowa w ust. 1, ustala się zgodnie z następującym wzorem: R = (KF – KT-1 – R2(m-1)) + (KP – KT+1) gdzie: R – oznacza kwotę rekompensaty miesięcznej (zł), KF – oznacza faktyczny koszt zakupu paliwa gazowego na potrzeby odbiorców w gospodarstwach domowych dla dostaw w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty, udokumentowany zgodnie z prowadzoną przez podmiot uprawniony ewidencją księgową (zł), KT-1 – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa URE w decyzji zatwierdzającej taryfę skalkulowaną przez podmiot uprawniony zgodnie z art. 62f, oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f i stanowiącą dla miesiąca:
-
-1) stycznia 2022 r. – 15 % tej ilości;
-
-2) lutego 2022 r. – 15 % tej ilości;
-
-3) marca 2022 r. – 10 % tej ilości;
-
-4) kwietnia 2022 r. – 10 % tej ilości;
-
-5) maja 2022 r. – 5 % tej ilości;
-
-6) czerwca 2022 r. – 3 % tej ilości;
-
-7) lipca 2022 r. – 3 % tej ilości;
-
-8) sierpnia 2022 r. – 3 % tej ilości;
-
-9) września 2022 r. – 4 % tej ilości;
-
-10) października 2022 r. – 8 % tej ilości;
-
-11) listopada 2022 r. – 10 % tej ilości;
-
-12) grudnia 2022 r. – 14 % tej ilości, R2(m-1) – oznacza kwotę zaliczki na poczet rekompensaty wypłaconej podmiotowi uprawnionemu na poczet miesiąca poprzedzającego miesiąc złożenia wniosku o wypłatę rekompensaty (zł), KP – oznacza planowany koszt zakupu paliwa gazowego dla dostaw w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty, według oświadczenia podmiotu uprawnionego (zł), z tym że do wyliczenia kosztów uzasadnionych przyjmuje się iloczyn stawki referencyjnej w wysokości 310 zł za megawatogodzinę oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej na zasadach określonych w art. 62f i stanowiącą dla miesiąca:
+2. Wysokość rekompensaty miesięcznej, o której mowa w ust. 1, ustala się zgodnie z następującym wzorem: R = (KF – KT-1 – R2(m-1)) + (KP – KT+1) gdzie: R – oznacza kwotę rekompensaty miesięcznej (zł), KF – oznacza faktyczny koszt zakupu paliwa gazowego na potrzeby odbiorców w gospodarstwach domowych dla dostaw w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty, udokumentowany zgodnie z prowadzoną przez podmiot uprawniony ewidencją księgową (zł), KT-1 – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa URE w decyzji zatwierdzającej taryfę skalkulowaną przez podmiot uprawniony zgodnie z [art. 62f](#art-62f), oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z [art. 62f](#art-62f) i stanowiącą dla miesiąca:
 
 1) stycznia 2022 r. – 15 % tej ilości;
 
@@ -9208,7 +9855,31 @@ Od dnia 1 lipca 2021 r. do dnia 30 czerwca 2023 r.:
 
 11) listopada 2022 r. – 10 % tej ilości;
 
-12) grudnia 2022 r. – 14 % tej ilości, KT+1 – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa URE w decyzji zatwierdzającej taryfę skalkulowaną przez podmiot uprawniony zgodnie z art. 62f, oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f i stanowiącą dla miesiąca:
+12) grudnia 2022 r. – 14 % tej ilości, R2(m-1) – oznacza kwotę zaliczki na poczet rekompensaty wypłaconej podmiotowi uprawnionemu na poczet miesiąca poprzedzającego miesiąc złożenia wniosku o wypłatę rekompensaty (zł), KP – oznacza planowany koszt zakupu paliwa gazowego dla dostaw w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty, według oświadczenia podmiotu uprawnionego (zł), z tym że do wyliczenia kosztów uzasadnionych przyjmuje się iloczyn stawki referencyjnej w wysokości 310 zł za megawatogodzinę oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej na zasadach określonych w [art. 62f](#art-62f) i stanowiącą dla miesiąca:
+
+1) stycznia 2022 r. – 15 % tej ilości;
+
+2) lutego 2022 r. – 15 % tej ilości;
+
+3) marca 2022 r. – 10 % tej ilości;
+
+4) kwietnia 2022 r. – 10 % tej ilości;
+
+5) maja 2022 r. – 5 % tej ilości;
+
+6) czerwca 2022 r. – 3 % tej ilości;
+
+7) lipca 2022 r. – 3 % tej ilości;
+
+8) sierpnia 2022 r. – 3 % tej ilości;
+
+9) września 2022 r. – 4 % tej ilości;
+
+10) października 2022 r. – 8 % tej ilości;
+
+11) listopada 2022 r. – 10 % tej ilości;
+
+12) grudnia 2022 r. – 14 % tej ilości, KT+1 – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa URE w decyzji zatwierdzającej taryfę skalkulowaną przez podmiot uprawniony zgodnie z [art. 62f](#art-62f), oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z [art. 62f](#art-62f) i stanowiącą dla miesiąca:
 
 1) stycznia 2022 r. – 15 % tej ilości;
 
@@ -9236,8 +9907,9 @@ Od dnia 1 lipca 2021 r. do dnia 30 czerwca 2023 r.:
 
 3. Rekompensata miesięczna, o której mowa w ust. 1, jest wypłacana na wniosek podmiotu uprawnionego. Ostatni wniosek o wypłatę rekompensaty miesięcznej składa się w terminie do dnia 25 stycznia 2023 r.
 
-4. Wypłacone rekompensaty miesięczne, o których mowa w ust. 1, pomniejszają wysokość korekty, o której mowa w art. 62f ust. 4.
+4. Wypłacone rekompensaty miesięczne, o których mowa w ust. 1, pomniejszają wysokość korekty, o której mowa w [art. 62f](#art-62f) ust. 4.
 
+<a id="art-62i"></a>
 ### Art. 62i.
 
 1. Podmiotem odpowiedzialnym za wypłatę rekompensat, o których mowa w art. 62g, jest Zarządca Rozliczeń S.A., o którym mowa w rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej, zwany dalej „zarządcą rozliczeń”.
@@ -9254,7 +9926,7 @@ Od dnia 1 lipca 2021 r. do dnia 30 czerwca 2023 r.:
 
 7. Odmowa, o której mowa w ust. 6, nie pozbawia podmiotu uprawnionego możliwości ponownego złożenia wniosku o wypłatę rekompensaty. Przepisy ust. 1–6 stosuje się odpowiednio.
 
-8. Zarządca rozliczeń może żądać od podmiotu uprawnionego przedłożenia dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty w terminie 12 miesięcy od dnia wypłaty kwoty rekompensaty za ostatni miesiąc, za który została wypłacona rekompensata, o której mowa w art. 62g ust. 1.
+8. Zarządca rozliczeń może żądać od podmiotu uprawnionego przedłożenia dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty w terminie 12 miesięcy od dnia wypłaty kwoty rekompensaty za ostatni miesiąc, za który została wypłacona rekompensata, o której mowa w [art. 62g](#art-62g) ust. 1.
 
 9. Jeżeli podmiot uprawniony w okresie 12 miesięcy od dnia wypłaty ostatniej z rekompensat miesięcznych, o której mowa w 62h ust. 1, zaprzestał prowadzenia działalności gospodarczej w zakresie obrotu paliwami gazowymi, kwotę rekompensaty uznaje się za pobraną nienależnie i podmiot uprawniony jest obowiązany do jej zwrotu w całości wraz z odsetkami. W przypadku gdy nie zostanie dokonany zwrot, zarządca rozliczeń wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
 
@@ -9268,7 +9940,7 @@ Od dnia 1 lipca 2021 r. do dnia 30 czerwca 2023 r.:
 
 11c. W przypadku gdy kwota otrzymanych rekompensat jest niższa od kwoty ostatecznej rekompensaty wynikającej z wniosku o rozliczenie rekompensaty zarządca rozliczeń dokonuje wypłaty środków wynikających z tej różnicy na rzecz podmiotu uprawnionego w terminie 14 dni od dnia określenia kwoty ostatecznej rekompensaty, z uwzględnieniem ust. 12 i 12a.
 
-11d. W przypadku gdy kwota ostatecznej rekompensaty przekracza kwotę korekty, o której mowa w art. 62f ust. 4, nadpłata ponad kwotę tej korekty podlega zwrotowi do zarządcy rozliczeń w terminie 14 dni od dnia otrzymania przez podmiot uprawniony żądania zwrotu od zarządcy rozliczeń. Zwrot nadpłaty nie może przekraczać sumy wypłaconych podmiotowi uprawnionemu kwot rekompensat miesięcznych.
+11d. W przypadku gdy kwota ostatecznej rekompensaty przekracza kwotę korekty, o której mowa w [art. 62f](#art-62f) ust. 4, nadpłata ponad kwotę tej korekty podlega zwrotowi do zarządcy rozliczeń w terminie 14 dni od dnia otrzymania przez podmiot uprawniony żądania zwrotu od zarządcy rozliczeń. Zwrot nadpłaty nie może przekraczać sumy wypłaconych podmiotowi uprawnionemu kwot rekompensat miesięcznych.
 
 11e. W przypadku gdy nie zostanie dokonany zwrot, o którym mowa w ust. 11d, zarządca rozliczeń wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki ustawowe za opóźnienie od dnia jej otrzymania.
 
@@ -9282,16 +9954,19 @@ Od dnia 1 lipca 2021 r. do dnia 30 czerwca 2023 r.:
 
 15. Zarządca rozliczeń informuje Prezesa URE o wypłaconych podmiotowi uprawnionemu kwotach rekompensat, w terminie 7 dni od dnia dokonania wypłaty.
 
+<a id="art-62j"></a>
 ### Art. 62j.
 
 Rekompensaty, o których mowa w art. 62g, są finansowane z Funduszu Wypłaty Różnicy Ceny, o którym mowa w art. 11 ust. 1 ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm.207)).
 
+<a id="art-62k"></a>
 ### Art. 62k.
 
 Środki wypłacone z tytułu rekompensat, o których mowa w art. 62g oraz art. 62h, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172).
 
 Art. 63–67. (pominięte)
 
+<a id="art-68"></a>
 ### Art. 68.
 
 1. Z dniem wejścia w życie ustawy znosi się Okręgowe Inspektoraty Gospodarki Energetycznej, utworzone ustawą z dnia 6 kwietnia 1984 r. o gospodarce energetycznej (Dz. U. poz. 96, z 1987 r. poz. 180, z 1988 r. poz. 132, z 1989 r. poz. 192 oraz z 1990 r. poz. 89 i 198).
@@ -9300,26 +9975,30 @@ Art. 63–67. (pominięte)
 
 3. Likwidator sporządza bilans zamknięcia.
 
+<a id="art-69"></a>
 ### Art. 69.
 
 (pominięty)
 
+<a id="art-69a"></a>
 ### Art. 69a. [208)]
 
-1. Do dnia 31 grudnia 2026 r., w przypadku gdy wytwarzanie paliw ciekłych dotyczy działalności jedynie w zakresie wytwarzania paliw ciekłych w procesie, o którym mowa w art. 3 pkt 45 lit. b tiret czwarte, udzielenie koncesji na wytwarzanie paliw ciekłych nie wymaga złożenia zabezpieczenia majątkowego, o którym mowa w art. 38a ust. 1.
+1. Do dnia 31 grudnia 2026 r., w przypadku gdy wytwarzanie paliw ciekłych dotyczy działalności jedynie w zakresie wytwarzania paliw ciekłych w procesie, o którym mowa w [art. 3](#art-3) pkt 45 lit. b tiret czwarte, udzielenie koncesji na wytwarzanie paliw ciekłych nie wymaga złożenia zabezpieczenia majątkowego, o którym mowa w [art. 38a](#art-38a) ust. 1.
 
-2. Przedsiębiorstwo energetyczne posiadające przed dniem 1 stycznia 2027 r. koncesję na wytwarzanie paliw ciekłych obejmującą wyłącznie wytwarzanie paliw ciekłych w procesie, o którym mowa w art. 3 pkt 45 lit. b tiret czwarte, składa zabezpieczenie majątkowe, o którym mowa w art. 38a ust. 1a, w terminie do dnia 31 marca 2027 r.
+2. Przedsiębiorstwo energetyczne posiadające przed dniem 1 stycznia 2027 r. koncesję na wytwarzanie paliw ciekłych obejmującą wyłącznie wytwarzanie paliw ciekłych w procesie, o którym mowa w [art. 3](#art-3) pkt 45 lit. b tiret czwarte, składa zabezpieczenie majątkowe, o którym mowa w [art. 38a](#art-38a) ust. 1a, w terminie do dnia 31 marca 2027 r.
 
-3. W przypadku niezłożenia zabezpieczenia majątkowego, o którym mowa w art. 38a ust. 1a, w terminie, o którym mowa w ust. 2, koncesja na wytwarzanie paliw ciekłych, obejmująca wyłącznie wytwarzanie paliw ciekłych w procesie, o którym mowa w art. 3 pkt 45 lit. b tiret czwarte, wygasa z upływem ostatniego dnia tego terminu.
+3. W przypadku niezłożenia zabezpieczenia majątkowego, o którym mowa w [art. 38a](#art-38a) ust. 1a, w terminie, o którym mowa w ust. 2, koncesja na wytwarzanie paliw ciekłych, obejmująca wyłącznie wytwarzanie paliw ciekłych w procesie, o którym mowa w [art. 3](#art-3) pkt 45 lit. b tiret czwarte, wygasa z upływem ostatniego dnia tego terminu.
 
 4. Utrata mocy koncesji, o której mowa w ust. 3, nie wymaga stwierdzenia jej wygaśnięcia w trybie określonym w art. 162 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
+<a id="art-70"></a>
 ### Art. 70.
 
 1. (pominięty)
 
 2. Zaświadczenia kwalifikacyjne wydane na podstawie przepisów dotychczasowych zachowują moc przez okres w nich oznaczony.
 
+<a id="art-71"></a>
 ### Art. 71.
 
 Tracą moc:
@@ -9328,9 +10007,10 @@ Tracą moc:
 
 2) ustawa z dnia 6 kwietnia 1984 r. o gospodarce energetycznej (Dz. U. poz. 96, z 1987 r. poz. 180, z 1988 r. poz. 132, z 1989 r. poz. 192 oraz z 1990 r. poz. 89 i 198).
 
+<a id="art-72"></a>
 ### Art. 72.
 
-Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia209), z wyjątkiem art. 21, który wchodzi w życie z dniem ogłoszenia ustawy oraz art. 18 ust. 3 i 4, który wchodzi w życie z dniem 1 stycznia 1999 r.
+Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia209), z wyjątkiem [art. 21](#art-21), który wchodzi w życie z dniem ogłoszenia ustawy oraz [art. 18](#art-18) ust. 3 i 4, który wchodzi w życie z dniem 1 stycznia 1999 r.
 
 
 

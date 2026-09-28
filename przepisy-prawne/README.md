@@ -547,3 +547,66 @@ Zweryfikowane pełną regresją na wszystkich 31 wcześniej zatwierdzonych plika
 
 Gotowe dodatkowo: `ustawa-o-rachunkowosci`, `ustawa-prawo-budowlane`, `kodeks-cywilny`
 (33 z 36).
+
+**Batch 9** (ostatnie 3 pliki: `ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`,
+`ustawa-prawo-zamowien-publicznych`, `ustawa-prawo-energetyczne`) zamknęła całość — 36 z 36
+plików ma teraz spis treści i linkowane odniesienia. Znalezione przy okazji:
+- **Luka w rozpoznawaniu tytułu skróconego aktu**: wzorzec `ustaw[ya]\s+o\s+\w+`
+  (rozpoznający „ustawy o X”/„ustawa o X”) obejmował tylko mianownik/dopełniacz, nie
+  celownik/miejscownik („w **ustawie** o partnerstwie publiczno-prywatnym” — bardzo częsta
+  forma po „w”) — znalezione na `ustawa-o-podatku-dochodowym-od-osob-prawnych-cit`, gdzie
+  „art. 14 ... tej ustawy” błędnie linkowało do własnego Art. 14 mimo że chodziło o ustawę o
+  partnerstwie publiczno-prywatnym. Naprawione przez rozszerzenie do `ustaw\w*\s+o\s+\w+`
+  (każda odmiana). **Przy tej samej zmianie omyłkowo rozszerzyłem też sąsiedni wzorzec**
+  „ustawy – Prawo budowlane” (`ustaw[ya]\s*[-–]\s*[A-Z...]`) do tego samego `\w*` — to
+  akurat było błędem: w połączeniu z `re.IGNORECASE` całego wyrażenia zaczęło łapać zwykłe
+  myślniki przestankowe po „ustawą” (np. „niniejszą ustawą – jednak niedłużej niż...” w
+  `ustawa-o-dozorze-technicznym-nowelizacja-2026-252`, gdzie „jednak” to zwykłe małe słowo,
+  nie tytuł aktu), psując 2 już zatwierdzone linki. Wychwycone przez pełną regresję i
+  cofnięte do wąskiego `ustaw[ya]` dla TEGO konkretnego wzorca.
+- **Kolejny wariant frazy wyłączającej**: „ustawy wymienionej w ust. N pkt M” (CIT, „art. 4
+  ustawy wymienionej w ust. 1 pkt 1”) i „rozporządzenia wymienionego w pkt N” (Prawo
+  energetyczne, definicje „manipulacji na rynku” wskazujące na rozporządzenie REMIT nazwane
+  w pkt 50) — inny wariant niż dotychczasowe „zmienianej/uchylanej w art. N”: tu fraza
+  wskazuje na „ust.”/goły „pkt”, nie na „art.”/„§”, więc nie ma tu numeru do wyjątkowego
+  zwolnienia — cała fraza ma tylko ustanowić obcy kontekst dla wszystkiego, co ją poprzedza
+  w tej samej klauzuli. Dodane jako trzecia alternatywa w `EXEMPTING_RE`, obejmująca też
+  „rozporządzeni\w*” (nie tylko „ustaw\w*”) i „wymienion\w*” w pierwszej alternatywie
+  (obok zmienian/zmienion/uchylan/uchylon), żeby „ustawie wymienionej w art. 44” (Prawo
+  energetyczne, x4) trafiało w tę samą, już istniejącą regułę „numer w środku frazy zostaje
+  własny”.
+- **Wielolinijkowy kontekst obcego aktu — znana, świadomie nienaprawiona granica** (Prawo
+  energetyczne, definicja „rynku bilansującego”): akt bywa nazwany w linii nadrzędnej
+  wyliczenia („40a) rynek bilansujący ... rozporządzenia 2017/2195, w ramach którego...”), a
+  odwołanie do niego przez „tego rozporządzenia” pojawia się w OSOBNYCH, zagnieżdżonych
+  podpunktach literowych („a) ... w rozumieniu art. 2 pkt 6 tego rozporządzenia,”) — osobnych
+  linach Markdown. Ponieważ `link_references` śledzi kontekst per linia, podpunkt „a)” nie
+  widzi przełącznika kontekstu z linii nadrzędnej i błędnie linkuje „art. 2” do własnego
+  Art. 2. Próbowano naprawić przez „przenoszenie” stanu obcości do kolejnej linii, gdy ta
+  zaczyna się literą („a)”, „b)”...) — ale litery list w polskich aktach prawnych są
+  ogólnym znacznikiem podpunktu w DOWOLNYM wyliczeniu, nie sygnałem „kontynuuję zdanie z
+  poprzedniej linii”, więc ten mechanizm zepsuł 8 już zatwierdzonych, poprawnych linków w
+  innych plikach (m.in. `rodo-rozporzadzenie-2016-679`, `kodeks-cywilny` przez pochodne
+  ustawy-o-rachunkowosci itd. — podpunkty „b)”/„e)”/„i)” które są zwykłymi, SAMODZIELNYMI
+  podpunktami własnego wyliczenia, nie kontynuacją cudzego). Wychwycone przez pełną
+  regresję i **cofnięte całkowicie** — 2 odosobnione podpunkty w Prawie energetycznym
+  (`art. 2 pkt 6/19 tego rozporządzenia`) zostają świadomie błędnie zalinkowane do własnego
+  Art. 2 (uszkodzenie kosmetyczne: czytelnik klikający trafi we własną definicję zamiast do
+  treści rozporządzenia UE 2017/2195, którego i tak nie ma w tym repozytorium) — zgodne z
+  zasadą „niedolinkowanie/błędny link tam, gdzie nie da się tego rozstrzygnąć bez ryzyka dla
+  reszty dokumentu, jest akceptowalny, jeśli koszt naprawy przewyższa 2 odosobnione
+  przypadki”.
+- Podczas pracy dwa razy omyłkowo uruchomiłem `toc_and_links.py` bezpośrednio na już
+  przetworzonym (mającym TOC) pliku jako źródle zamiast na jego surowej wersji — skutek: plik
+  dostawał DRUGI spis treści i podwójnie zagnieżdżone linki. Oba razy wychwycone od razu przez
+  `git diff --stat`/`git status` (nietypowo duża liczba zmian) i naprawione przez
+  `git checkout --` do stanu z ostatniego commita, a następnie ponowne, poprawne uruchomienie
+  skryptu na czystej wersji. Żaden z tych przypadków nie trafił do finalnego commita.
+
+Zweryfikowane pełną regresją na wszystkich 36 plików (identyczne po rozpakowaniu istniejących
+linków i ponownym przepuszczeniu przez `toc_and_links.py`) oraz dwukierunkowym audytem
+fałszywych trafień na każdym z ostatnich 3 plików z osobna.
+
+**Całość zakończona: 36 z 36 plików w `przepisy-prawne/md/` ma spis treści z linkami do
+Działów/Rozdziałów/Oddziałów/Art./§/Załączników oraz zamienione na linki odniesienia w
+treści (tylko do tego samego aktu, tylko gdy cel istnieje).**
