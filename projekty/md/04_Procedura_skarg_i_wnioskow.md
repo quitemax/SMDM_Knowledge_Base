@@ -39,10 +39,8 @@ Procedura zapewnia jednolity, możliwy do odtworzenia sposób obsługi skarg i w
 2. Skargi na członka Rady rozpatruje organ właściwy, czyli Rada Nadzorcza, z wyłączeniem zainteresowanego.
 
 3. Skargi dotyczące całego organu wymagają wskazania niezależnego
-   trybu rozpatrzenia [●] — **to samo nierozstrzygnięte pytanie co w
-   Procedurze zgłaszania nieprawidłowości** § 3 ust. 3. Oba dokumenty
-   powinny dostać **tę samą odpowiedź** — nie rozstrzygać tego osobno
-   w każdym z nich.
+   trybu rozpatrzenia [●] — to samo co w Procedurze zgłaszania
+   nieprawidłowości § 3 ust. 3.
 
 ## § 5. Powtarzające się sprawy i zachowania agresywne
 

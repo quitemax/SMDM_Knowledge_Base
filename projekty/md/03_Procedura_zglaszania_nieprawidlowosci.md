@@ -58,9 +58,8 @@ rozmowy, który zgłaszający może sprawdzić i podpisać (art. 26 ust.
 2. Jeżeli zgłoszenie dotyczy osoby odpowiedzialnej za przyjmowanie zgłoszeń, kieruje się je do osoby zastępczej [●].
 
 3. Należy przewidzieć kanał dla zgłoszeń dotyczących całego Zarządu
-   lub całej Rady [●] — **to samo pytanie co w Procedurze skarg i
-   wniosków** § 4 ust. 3; oba dokumenty powinny dostać spójną
-   odpowiedź.
+   lub całej Rady [●] — to samo co w Procedurze skarg i wniosków § 4
+   ust. 3.
 
 4. **Zgłoszenia zewnętrzne, niezależne od tej Procedury.** Zgłaszający
 może, bez uprzedniego zgłoszenia wewnętrznego, dokonać zgłoszenia do
