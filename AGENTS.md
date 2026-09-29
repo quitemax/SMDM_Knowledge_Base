@@ -39,6 +39,23 @@ redagowanie treści, nie programowanie.
 - Jeśli podczas poprawek natrafisz na fragment nieczytelny nawet w PDF,
   zaznacz to w tekście (np. `[nieczytelne]`) zamiast zgadywać.
 
+## Praca z przepisami prawa (`przepisy-prawne/`)
+
+- **Nowy akt prawny, na który się powołujesz — zaciągnij go, nie cytuj
+  z pamięci.** Jeśli w toku pracy trzeba przywołać ustawę/rozporządzenie,
+  którego jeszcze nie ma w `przepisy-prawne/`, pobierz jego oficjalny
+  tekst jako PDF (i HTML, jeśli dostępny na ISAP/api.sejm.gov.pl — wtedy
+  preferowane jako źródło konwersji) do `przepisy-prawne/pdf/` (i
+  `przepisy-prawne/html/`), przekonwertuj do `przepisy-prawne/md/`
+  narzędziami z [`tools/`](tools/README.md) (`pdf_to_md.py` /
+  `html_to_md.py` + `toc_and_links.py`), i dopisz wpis w
+  `przepisy-prawne/README.md` oraz `zrodla/przepisy-prawne-zewnetrzne.md`.
+  Cytowanie konkretnych artykułów bez tej konwersji (np. tylko na
+  podstawie doraźnego sprawdzenia) jest tymczasowo dopuszczalne przy
+  szybkiej weryfikacji faktu, ale przed użyciem tego cytatu w
+  jakimkolwiek dokumencie, który ma być podstawą decyzji, akt powinien
+  przejść pełną konwersję jak reszta.
+
 ## Styl
 
 - Pisz po polsku, w stylu istniejących plików (rzeczowo, bez ozdobników).

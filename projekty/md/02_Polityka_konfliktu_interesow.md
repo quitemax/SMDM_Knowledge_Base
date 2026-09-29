@@ -5,8 +5,6 @@
 
 **UWAGA: **Projekt wykonawczy do Kodeksu. Zakres danych i procedur wymaga weryfikacji pod kątem prawa, Statutu oraz ochrony danych osobowych.
 
-**Poprawki po świeżym przeglądzie**: § 3 (wskazano PM jako naturalnego kandydata na prowadzącego rejestr), § 4 (rozstrzygnięcie remisu głosów przy wyłączeniu), § 6 (przypomnienie o statutowym zakazie łączenia funkcji RN/Zarząd).
-
 **Tryb przyjęcia (propozycja)**: jako dokument wykonawczy dotyczący
 głównie postępowania w konkretnych sprawach (nie samego funkcjonowania
 organu), może zostać przyjęty uchwałą Rady Nadzorczej na podstawie
@@ -53,8 +51,7 @@ Celem Polityki jest zapobieganie sytuacjom, w których interes osobisty, majątk
    udziału zainteresowanego. **Przy remisie głosów** (możliwym właśnie
    dlatego, że wyłączenie zainteresowanego zmienia parzystość składu)
    **rozstrzyga się na korzyść wyłączenia** — jako rozwiązanie
-   ostrożniejsze i spójne z celem Polityki. *(Dodane po audycie —
-   pierwotny tekst nie przewidywał żadnego rozstrzygnięcia remisu.)*
+   ostrożniejsze i spójne z celem Polityki.
 
 5. Członek może dobrowolnie wyłączyć się także wtedy, gdy uznaje, że jego udział może istotnie podważyć zaufanie do bezstronności.
 

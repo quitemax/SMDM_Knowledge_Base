@@ -5,13 +5,7 @@
 
 **UWAGA: **Procedura nie zastępuje obowiązków ustawowych ani zewnętrznych kanałów zgłaszania. Przed przyjęciem należy zweryfikować jej zgodność z aktualnymi przepisami.
 
-**Tryb przyjęcia (propozycja)**: uchwała Rady Nadzorczej na podstawie
-§ 49 ust. 1 pkt 21 Statutu — do potwierdzenia łącznie z trybem
-przyjęcia Kodeksu, patrz „Kodeks odpowiedzialnego sprawowania
-mandatu" § 15.
-
-**Podstawa ustawowa (dodana po audycie, zaktualizowana po pełnej
-konwersji ustawy).** Jeżeli Spółdzielnia zatrudnia **co najmniej 50
+**Podstawa ustawowa.** Jeżeli Spółdzielnia zatrudnia **co najmniej 50
 osób** w przeliczeniu na pełne etaty (stan na 1 stycznia lub 1 lipca
 danego roku — ustawa o ochronie sygnalistów z 14 czerwca 2024 r.,
 Dz. U. 2024 poz. 928, art. 23 ust. 1–2), niniejsza Procedura musi
@@ -19,18 +13,17 @@ spełniać wymogi tej ustawy — niezależnie od tego, czy Spółdzielnia
 przyjmie własny dokument, ustawa i tak obowiązuje. Poniżej tego progu
 ustanowienie procedury jest fakultatywne (art. 24 ust. 2), ale jeśli
 Spółdzielnia ją ma, powinna i tak spełniać te same wymogi jakościowe.
-**Do zweryfikowania: czy SMDM przekracza ten próg zatrudnienia** — ta
-baza wiedzy nie zawiera liczby etatów.
+**Do ustalenia przed przyjęciem: czy SMDM przekracza ten próg
+zatrudnienia.**
 
-**Konsultacje przed ustanowieniem procedury — krok pominięty w tym
-projekcie.** Ustawa wymaga, żeby procedurę zgłoszeń wewnętrznych
-ustalić **po konsultacji** z zakładową organizacją związkową (albo
-z przedstawicielami pracowników, jeśli związek nie działa), trwającej
-**5–10 dni** od przedstawienia projektu, a sama procedura wchodzi w
-życie dopiero **7 dni** po podaniu jej do wiadomości osób wykonujących
-pracę (art. 24 ust. 3–5). To dotyczy więc też Związku Zawodowego
-„Budowlani" — ten krok trzeba dodać do trybu przyjęcia w § 15 Kodeksu,
-nie tylko do tego dokumentu.
+**Tryb przyjęcia (propozycja)**: uchwała Rady Nadzorczej na podstawie
+§ 49 ust. 1 pkt 21 Statutu, poprzedzona **konsultacją z zakładową
+organizacją związkową** (albo z przedstawicielami pracowników, jeśli
+związek nie działa) trwającą **5–10 dni** od przedstawienia projektu —
+wymóg ustawowy (art. 24 ust. 3–5). Procedura wchodzi w życie **7 dni**
+po podaniu jej do wiadomości osób wykonujących pracę. Tryb przyjęcia
+całego pakietu dokumentów — patrz „Kodeks odpowiedzialnego
+sprawowania mandatu" § 15.
 
 ## § 1. Cel
 

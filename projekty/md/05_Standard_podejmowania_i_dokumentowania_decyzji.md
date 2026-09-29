@@ -2,8 +2,6 @@
 
 **PROJEKT ROBOCZY — do dyskusji i weryfikacji prawnej**
 
-**Poprawki po świeżym przeglądzie**: § 2 (orientacyjny próg „istotności" powiązany z progiem regulaminu zakupowego), nowy § 5a (archiwizacja kart decyzji).
-
 **Tryb przyjęcia (propozycja)**: uchwała Rady Nadzorczej na podstawie
 § 49 ust. 1 pkt 21 Statutu — do potwierdzenia łącznie z trybem
 przyjęcia Kodeksu, patrz „Kodeks odpowiedzialnego sprawowania
@@ -17,7 +15,7 @@ Standard ma zapewnić, aby istotne decyzje były oparte na wystarczających info
 
 Standard stosuje się w szczególności do istotnych inwestycji, zakupów, zmian systemów obsługi, zobowiązań długoterminowych, projektów IT i decyzji o znaczącym wpływie na członków.
 
-**Orientacyjny próg „istotności" (dodane po audycie)**: pojęcie nie
+**Orientacyjny próg „istotności"**: pojęcie nie
 jest zdefiniowane liczbowo, co w praktyce zostawia ocenę Zarządowi/
 Radzie za każdym razem od nowa. Jako punkt odniesienia proponuje się
 wartość **50 000 zł** — próg, od którego regulamin zakupowy Spółdzielni
@@ -65,8 +63,7 @@ odtworzenie historii sprawy — analogicznie do innych dokumentów
 organizacyjnych Spółdzielni (np. protokoły Walnego Zgromadzenia — **10
 lat**, Statut § 37 ust. 6). Właściciela tego obowiązku (np. PM) i
 dokładny okres przechowywania ustala się w uchwale przyjmującej
-Standard [●]. *(Dodane po audycie — pierwotna wersja nie precyzowała,
-kto i jak długo przechowuje karty.)*
+Standard [●].
 
 ## § 6. Przegląd po realizacji
 

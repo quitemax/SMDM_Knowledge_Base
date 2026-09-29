@@ -7,12 +7,6 @@
 
 **UWAGA: **Projekt powstał przez przebudowę pierwotnego Kodeksu Etyki Organów Spółdzielni. Przed przyjęciem wymaga weryfikacji przez radcę prawnego Spółdzielni oraz sprawdzenia zgodności ze Statutem i regulaminami organów.
 
-**Wersja 2 (po audycie)** — poprawiono § 6 (uogólniono zapis o ekspertyzie specjalistycznej, tak by dotyczył każdej dziedziny wiedzy fachowej w Radzie, nie tylko IT) oraz § 15 (dodano konkretną propozycję trybu przyjęcia).
-
-**Wersja 3 (świeży przegląd)** — doprecyzowano § 4 ust. 3 (zdanie odrębne — brak tej podstawy w Regulaminie Rady Nadzorczej) i ust. 4 (niejasne pojęcie „sabotowania" zastąpione konkretnymi przykładami); § 13 uzupełniono o wskazanie realnych, już istniejących środków (odwołanie z funkcji), zamiast pozostawiać temat całkowicie abstrakcyjnym; § 15 dodano zasadę braku działania wstecz; § 8 dodano odesłanie do polityki RODO.
-
-Pełny audyt — patrz odrębny dokument „Audyt pakietu dokumentów etycznych (projekty robocze)".
-
 # Preambuła
 
 Członkowie Rady Nadzorczej i Zarządu pełnią swoje funkcje w interesie Spółdzielni i z poszanowaniem praw jej członków. Celem Kodeksu jest ustanowienie wspólnego standardu odpowiedzialnego, przejrzystego i profesjonalnego wykonywania mandatu.
@@ -62,15 +56,7 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
 2. Stanowisko organu powstaje w trybie właściwym dla tego organu. Pojedynczy członek nie przedstawia własnego stanowiska jako stanowiska organu bez odpowiedniego upoważnienia.
 
 3. Członek, który głosował przeciw uchwale, może zgłosić zdanie odrębne
-   na zasadach określonych w regulaminie organu. **Uwaga po audycie**:
-   dla Zarządu taka podstawa istnieje wprost (protokół zawiera „ew.
-   zdanie odrębne" — Regulamin Zarządu, § 13),
-   ale **Regulamin Rady Nadzorczej nie zawiera dziś przepisu o zdaniu
-   odrębnym** (sprawdzone — brak tego pojęcia w całym dokumencie). Ten
-   ustęp Kodeksu zakłada więc mechanizm, który dla Rady faktycznie nie
-   istnieje. Przed przyjęciem Kodeksu należy albo uzupełnić Regulamin
-   Rady Nadzorczej o tę instytucję, albo usunąć/przeformułować ten
-   ustęp tak, by nie sugerował uprawnienia, którego nie ma.
+   na zasadach określonych w regulaminie organu.
 
 4. Po prawidłowym podjęciu decyzji członek nie podejmuje działań
    **sprzecznych z jej wykonaniem** — w szczególności nie instruuje
@@ -79,10 +65,7 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
    utrudnia jej realizacji poza trybem przewidzianym prawem i
    Statutem — zachowując przy tym prawo do korzystania ze środków
    przewidzianych prawem i Statutem (odwołanie, zaskarżenie uchwały do
-   sądu, zdanie odrębne). *(Doprecyzowane po audycie — pierwotne
-   „sabotowanie" nie miało definicji, co czyniło ten przepis trudnym do
-   stosowania i podatnym na nadużycie jako niejasny zarzut wobec osoby
-   głosującej mniejszościowo.)*
+   sądu, zdanie odrębne).
 
 ## § 5. Standard świadomego wykonywania mandatu
 
@@ -245,10 +228,7 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
    wejścia w życie. Nie służy do wstecznej kwalifikacji zachowań
    sprzed tej daty jako „naruszenia Kodeksu" — co nie ogranicza oceny
    takich zachowań na podstawie przepisów i regulaminów już wcześniej
-   obowiązujących. *(Dodane po audycie — dokument w kilku miejscach
-   wyraźnie nawiązuje do doświadczeń niedawnego okresu; jasna reguła
-   nieretroakcji zapobiega odbiorowi Kodeksu jako narzędzia do
-   rozliczania przeszłości, a nie ustanawiania standardu na przyszłość.)*
+   obowiązujących.
 
 5. Data wejścia w życie: [●].
 

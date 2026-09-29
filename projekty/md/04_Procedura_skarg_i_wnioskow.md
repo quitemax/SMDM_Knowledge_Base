@@ -2,8 +2,6 @@
 
 **PROJEKT ROBOCZY — do dyskusji i weryfikacji prawnej**
 
-**Poprawki po świeżym przeglądzie**: § 3 ust. 5 (termin odpowiedzi zgrany ze Statutem § 26 — 1 miesiąc, zamiast ustalania od nowa), § 4 ust. 3 (powiązane z tym samym otwartym pytaniem w Procedurze zgłaszania nieprawidłowości).
-
 **Tryb przyjęcia (propozycja)**: uchwała Rady Nadzorczej na podstawie
 § 49 ust. 1 pkt 21 Statutu — do potwierdzenia łącznie z trybem
 przyjęcia Kodeksu, patrz „Kodeks odpowiedzialnego sprawowania
@@ -31,11 +29,8 @@ Procedura zapewnia jednolity, możliwy do odtworzenia sposób obsługi skarg i w
 
 5. **Termin odpowiedzi: 1 miesiąc** od dnia wpływu — zgodny z
    terminem już obowiązującym dla wniosków członków kierowanych do
-   Zarządu (Statut § 26 ust. 1), nie ustalany od nowa niezależnie.
-   Jeżeli termin nie może zostać
+   Zarządu (Statut § 26 ust. 1). Jeżeli termin nie może zostać
    zachowany, informuje się o przyczynie i przewidywanym terminie.
-   *(Doprecyzowane po audycie — pierwotnie `[●]`, mimo że statut już
-   ten termin określa dla części spraw objętych tą Procedurą.)*
 
 ## § 4. Skargi na organy
 
