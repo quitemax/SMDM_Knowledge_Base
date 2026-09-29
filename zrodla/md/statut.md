@@ -933,9 +933,7 @@ Zarząd kieruje działalnością Spółdzielni oraz reprezentuje ją na zewnątr
 #### § 55
 
 1. Zarząd składa się z dwóch do trzech członków, w tym prezesa i jego
-zastępców. *(Zmienione uchwałą Walnego Zgromadzenia z 29.06.2026 r. —
-pierwotne brzmienie: „Zarząd składa się z trzech członków, w tym prezesa
-i jego zastępców.")*
+zastępców.
 
 2. Członków Zarządu, w tym prezesa i jego zastępców, wybiera na czas nieokreślony
 i odwołuje Rada Nadzorcza. Odwołanie wymaga pisemnego uzasadnienia.
@@ -1080,10 +1078,7 @@ powinowactwa w linii prostej i w drugim stopniu linii bocznej.
 2. Do Rady Nadzorczej nie może kandydować osoba uprzednio odwołana z funkcji
 członka Rady Nadzorczej Spółdzielni Mieszkaniowej „Doły-Marysińska”.
 
-3. (skreślony). *(Skreślony uchwałą Walnego Zgromadzenia z 29.06.2026 r. —
-pierwotne brzmienie: „Rada Nadzorcza nie może powołać na funkcję członka
-Zarządu Spółdzielni osoby uprzednio odwołanej z wyżej wymienionej
-funkcji.")*
+3. (skreślony).
 
 4. Do Rady Nadzorczej nie mogą kandydować osoby zadłużone wobec Spółdzielni oraz
 osoby prawomocnie skazane za popełnienie przestępstwa. Koszt zaświadczenia z
