@@ -88,6 +88,19 @@ losowych i katastrof (§ 3 ust. 6) — te są zlecane poza tą procedurą.
   zapytaniu o cenę → co do zasady unieważnienie postępowania (§ 19
   ust. 1), z wyjątkiem szczególnego trybu za zgodą Zarządu
   (§ 19 ust. 2).
+- **BHP przy robotach budowlanych obciąża formalnie wykonawcę, nie
+  Spółdzielnię** — ale SMDM jako zamawiający odpowiada za dobór
+  wykonawcy i treść umowy. Dla robót spełniających którykolwiek z
+  warunków: szczególnie wysokie ryzyko (m.in. prace na wysokości, w
+  wykopach, przy substancjach niebezpiecznych) **lub** trwających
+  dłużej niż 30 dni roboczych przy ≥20 pracownikach **lub** o
+  pracochłonności >500 osobodni, wykonawca (jego kierownik budowy) musi
+  sporządzić **plan bezpieczeństwa i ochrony zdrowia (BIOZ)** przed
+  rozpoczęciem robót —
+  [Prawo budowlane art. 21a](../przepisy-prawne/md/ustawa-prawo-budowlane.md#art-21a).
+  Warto to zastrzec wprost w warunkach zamówienia/umowie, razem z
+  wymogiem odpowiednich uprawnień budowlanych kierownika robót i
+  ubezpieczenia OC wykonawcy.
 
 <a id="pzp"></a>
 **Czy Prawo zamówień publicznych (PZP) dotyczy tej procedury? Co do
