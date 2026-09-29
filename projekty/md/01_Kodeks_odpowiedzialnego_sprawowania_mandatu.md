@@ -161,29 +161,11 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
 
 1. Kodeks nie ustanawia sankcji wykraczających poza kompetencje właściwego organu wynikające z prawa, Statutu i regulaminów.
 
-1a. **Istniejące, statutowe środki** (dla jasności, nie jako nowe
-   uprawnienie — patrz § 1 ust. 2): naruszenie Kodeksu przez członka
-   Zarządu może stanowić podstawę **odwołania go z Zarządu przez Radę
-   Nadzorczą**, z pisemnym uzasadnieniem (Statut § 55 ust. 2); naruszenie
-   przez członka Rady Nadzorczej może stanowić podstawę **odwołania go
-   z Rady przez Walne Zgromadzenie** większością 2/3 głosów (Statut
-   § 48). **Kodeks nie przewiduje dziś żadnej sankcji pośredniej**
-   (upomnienie, nagana) — jedynym dostępnym środkiem pozostaje pełne
-   odwołanie z organu, co jest krokiem poważnym i niewspółmiernym do
-   drobniejszych naruszeń. Warto rozważyć w toku dalszych prac, czy
-   pakiet dokumentów powinien przewidywać także łagodniejsze reakcje
-   (np. formalne zwrócenie uwagi przez Prezydium/Przewodniczącego), czy
-   pozostać przy zasadzie „albo nic, albo odwołanie".
-
-1b. **Ogólne „wykluczenie ze Spółdzielni" (utrata członkostwa)
-   nie jest tu adekwatnym środkiem** i nie powinno być z tym mylone —
-   niezależnie od wątpliwości co do jego dzisiejszej podstawy prawnej
-   w ogóle (patrz zastrzeżenie prawne w wewnętrznej dokumentacji
-   procedury windykacyjnej Spółdzielni dot. wykluczenia),
-   naruszenie Kodeksu przez sprawowanie mandatu nie jest tym samym co
-   niewykonywanie obowiązków członkowskich, więc nawet gdyby ta
-   podstawa istniała, nie byłaby tu naturalnym środkiem — właściwym jest
-   odwołanie z funkcji (ust. 1a), nie utrata członkostwa.
+1a. Naruszenie Kodeksu przez członka Zarządu może stanowić podstawę
+   odwołania go z Zarządu przez Radę Nadzorczą, z pisemnym uzasadnieniem
+   (Statut § 55 ust. 2). Naruszenie przez członka Rady Nadzorczej może
+   stanowić podstawę odwołania go z Rady przez Walne Zgromadzenie
+   większością 2/3 głosów (Statut § 48).
 
 2. Postępowanie dotyczące naruszenia powinno zapewniać bezstronność, możliwość przedstawienia wyjaśnień oraz wyłączenie osoby, której dotyczy sprawa.
 
@@ -216,28 +198,20 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
    Rozwiązanie „WZ przyjmuje całość" jest prostsze i mniej podatne na
    zarzut obejścia kompetencji WZ.
 
-2. Jeżeli obowiązywał wcześniej odrębny „Kodeks Etyki Organów
-   Spółdzielni", należy ustalić, jakim trybem został przyjęty, i
-   uchylić go tym samym trybem równolegle z przyjęciem niniejszego
-   Kodeksu — inaczej może dojść do jednoczesnego obowiązywania dwóch
-   dokumentów.
+2. Członkowie organów potwierdzają zapoznanie się z Kodeksem.
 
-3. Członkowie organów potwierdzają zapoznanie się z Kodeksem.
-
-4. **Brak działania wstecz**: Kodeks ocenia zachowania od dnia jego
+3. **Brak działania wstecz**: Kodeks ocenia zachowania od dnia jego
    wejścia w życie. Nie służy do wstecznej kwalifikacji zachowań
-   sprzed tej daty jako „naruszenia Kodeksu" — co nie ogranicza oceny
-   takich zachowań na podstawie przepisów i regulaminów już wcześniej
-   obowiązujących.
+   sprzed tej daty jako „naruszenia Kodeksu".
 
-5. Data wejścia w życie: [●].
+4. Data wejścia w życie: [●].
 
 # Załącznik — podstawowe reguły praktyczne
 
 | Dobre działanie | Działanie niewłaściwe |
 | --- | --- |
 | Zadaję pytania i żądam informacji w ramach kompetencji | Wydaję polecenia pracownikowi |
-| Wskazuję ryzyko i proponuję audyt | Samodzielnie prowadzę projekt |
+| Wskazuję ryzyko i proponuję audyt | Sam wykonuję prace projektu zamiast go nadzorować (np. administruję systemem, negocjuję z wykonawcą, wydaję mu polecenia) |
 | Zgłaszam konflikt interesów | Ukrywam powiązanie |
 | Oddzielam własne stanowisko od stanowiska Rady | Przedstawiam własne zdanie jako decyzję Rady |
 | Głosuję i mogę zgłosić zdanie odrębne | Po głosowaniu sabotuję wykonanie uchwały |
