@@ -413,6 +413,21 @@ konwersji i napotkane błędy.
 | `ustawa-o-zakladowym-funduszu-swiadczen-socjalnych-nowelizacja-2026-25.pdf` | 2026 poz. 25 | nowelizacja (razem z Kodeksem pracy) z 4.12.2025, weszła w życie 27.01.2026 — **nie jest jeszcze wliczona** do tekstu jednolitego ZFŚS powyżej (Kodeksu pracy dotyczy, ale tam już wliczona, bo jego tekst jednolity jest nowszy) |
 | `ustawa-o-zwiazkach-zawodowych.pdf` | 2026 poz. 549 | tekst jednolity, stan na dzień ogłoszenia 17.04.2026 |
 
+### 11. Zgodność / zgłaszanie nieprawidłowości
+
+Dodane 29.09.2026 — gap ujawnił się przy audycie pakietu dokumentów etycznych w
+[`../projekty/`](../projekty/): „Procedura zgłaszania nieprawidłowości" (dok. 03) była
+pisana bez odniesienia do tej ustawy, mimo że jest to dokładnie ten rodzaj wewnętrznego
+kanału, którego ustawa wymaga dla podmiotów z ≥50 zatrudnionymi.
+
+| Plik | Źródło (Dz.U.) | Uwagi |
+|---|---|---|
+| `ustawa-o-ochronie-sygnalistow.pdf` | 2024 poz. 928 | tekst oryginalny (ustawa z 14.06.2024, brak jeszcze tekstu jednolitego); weszła w życie 25.09.2024, część przepisów 25.12.2024. Konwersja z HTML (`html_to_md.py`), bez problemów konwersji. |
+
+**Do zweryfikowania przed wykorzystaniem w SMDM**: czy Spółdzielnia zatrudnia ≥50 osób
+(art. 23 ust. 1–2) — od tego zależy, czy ustawa wiąże ją obowiązkowo, czy tylko fakultatywnie
+(art. 24 ust. 2). Próg liczy się wg stanu na 1 stycznia lub 1 lipca danego roku.
+
 ## Interwały sprawdzania aktualizacji
 
 Nie ma jednego uniwersalnego okresu — zależy od tego, jak często dany akt jest
@@ -432,8 +447,9 @@ nowelizowany i jak krytyczny jest dla bieżącej działalności Spółdzielni:
 - **Raz w roku:** pozostałe ustawy i rozporządzenia z listy (BHP, ochrona
   przeciwpożarowa, dozór techniczny, media/woda/odpady, Kodeks cywilny, RODO/ochrona
   danych osobowych, ochrona praw lokatorów, ustawa o ZFŚS, ustawa o związkach
-  zawodowych) — chyba że pojawi się konkretny sygnał (np. wiadomość o nowelizacji),
-  wtedy sprawdzić od razu.
+  zawodowych, ustawa o ochronie sygnalistów — nowa z 2024 r., brak jeszcze tekstu
+  jednolitego, warto sprawdzać czy się pojawił) — chyba że pojawi się konkretny sygnał
+  (np. wiadomość o nowelizacji), wtedy sprawdzić od razu.
 - **Rozporządzenia bez formalnego tekstu jednolitego** (BHP przy robotach budowlanych
   z 2003 r., audyt energetyczny z 2009 r., dozór dla dźwigów z 2018 r.) — Kancelaria
   Sejmu nie republikuje ich w całości po każdej zmianie, więc trzeba samodzielnie

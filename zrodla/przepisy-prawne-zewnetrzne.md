@@ -112,3 +112,15 @@ prawnego i konwersji.
 | Ustawa z 26.06.1974 r. — Kodeks pracy | podstawa całego `regulamin-pracy.pdf`; też przywoływany w `regulamin-wynagradzania-2024.pdf` (art. 77² § 4) i `regulamin-rady-nadzorczej.pdf` (ochrona członków Rady przed wypowiedzeniem — § 45 § 6 Prawa spółdzielczego odsyła do K.p.) |
 | Ustawa z 4.03.1994 r. o zakładowym funduszu świadczeń socjalnych | podstawa `regulamin-zakladowego-funduszu-swiadczen-socjalnych.pdf` |
 | Ustawa z 23.05.1991 r. o związkach zawodowych | `regulamin-pracy.pdf` wymaga konsultacji/uzgodnienia ze związkiem zawodowym „Budowlani" przy planie urlopów, ZFŚS, karach porządkowych |
+
+## 11. Zgodność / zgłaszanie nieprawidłowości
+
+**Kategoria dodana 2026-09-29** — gap ujawnił się przy audycie pakietu dokumentów
+etycznych w [`../projekty/`](../projekty/): projekt „Procedury zgłaszania
+nieprawidłowości" nie odnosił się do tej ustawy, mimo że opisuje dokładnie ten rodzaj
+wewnętrznego kanału zgłoszeń, którego ustawa wymaga. **Pobrane i skonwertowane tego
+samego dnia** — patrz `przepisy-prawne/README.md`, kategoria 11.
+
+| Akt | Uwagi |
+|---|---|
+| Ustawa z 14.06.2024 r. o ochronie sygnalistów | wiąże obowiązkowo podmioty zatrudniające ≥50 osób (art. 23) — **nieustalone, czy SMDM przekracza ten próg**; jeśli nie, ustanowienie procedury jest fakultatywne (art. 24 ust. 2), ale i tak musiałaby spełniać wymogi ustawy, gdyby SMDM zdecydowała się ją mieć |

@@ -70,18 +70,28 @@ Dodatkowo: § 8 dostał odesłanie do
 **Pozostałych 6 dokumentów nie przeglądałem ponownie w tej turze** —
 jeśli chcesz, mogę zrobić to samo świeże spojrzenie na każdy z nich.
 
-## Status: ustawa o ochronie sygnalistów — tylko zweryfikowana, nie wdrożona do bazy
+## Status: ustawa o ochronie sygnalistów — teraz w pełni wdrożona do bazy
 
-Artykuły cytowane w poprawce dok. 03 (art. 23, 25, 26, 30) zostały
-zweryfikowane **doraźnie**, pojedynczym zapytaniem do tekstu ustawy
-(Dz.U. 2024 poz. 928) — **nie przeszły przez pełny proces konwersji**
-stosowany dla pozostałych ~40 aktów w `przepisy-prawne/` (pobranie PDF,
-konwersja z zachowaniem struktury artykułów i kotwic, wpis do
-`przepisy-prawne/README.md` i `zrodla/przepisy-prawne-zewnetrzne.md`).
-Cytaty są wiarygodne (zweryfikowane wprost z tekstu ustawy), ale **nie
-można jeszcze linkować** do tej ustawy tak, jak do pozostałych aktów w
-tej bazie. Do zrobienia osobno, jeśli pakiet dokumentów etycznych ma
-być traktowany na równi z resztą bazy wiedzy.
+**Zaktualizowane.** Ustawa (Dz.U. 2024 poz. 928) przeszła pełny proces
+konwersji identyczny jak pozostałe ~40 aktów: PDF i HTML pobrane z
+`api.sejm.gov.pl`, skonwertowane skryptami `html_to_md.py` +
+`toc_and_links.py` do
+[`przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md`](../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md)
+(spis treści + kotwice + linkowanie wewnętrznych odniesień), wpisana do
+`przepisy-prawne/README.md` (kategoria 11, nowa) i
+`zrodla/przepisy-prawne-zewnetrzne.md`. Wszystkie cytaty w dok. 03
+zamienione na prawdziwe linki do konkretnych artykułów.
+
+Pełny tekst ujawnił dwa dodatkowe wymogi, których doraźna weryfikacja
+nie złapała — oba już dopisane do dok. 03:
+- **Konsultacje przed ustanowieniem procedury** — ustawa wymaga
+  konsultacji ze związkiem zawodowym (5–10 dni) przed ustaleniem
+  procedury, a ta wchodzi w życie dopiero 7 dni po ogłoszeniu (art. 24
+  ust. 3–5). To dotyczy więc też Związku Zawodowego „Budowlani" i
+  powinno wejść do trybu przyjęcia w § 15 Kodeksu, nie tylko do tego
+  dokumentu.
+- **Dokładna zawartość rejestru zgłoszeń** i okres przechowywania
+  danych (3 lata po zakończeniu sprawy) — art. 29.
 
 ## Co zostało ocenione
 

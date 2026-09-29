@@ -11,17 +11,33 @@ przyjęcia Kodeksu, patrz
 [`01_Kodeks_odpowiedzialnego_sprawowania_mandatu.md`](01_Kodeks_odpowiedzialnego_sprawowania_mandatu.md)
 § 15.
 
-**Podstawa ustawowa (dodana po audycie).** Jeżeli Spółdzielnia
-zatrudnia **co najmniej 50 osób** (stan na 1 stycznia lub 1 lipca
-danego roku), niniejsza Procedura musi spełniać wymogi ustawy z dnia
-14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. 2024 poz. 928) —
+**Podstawa ustawowa (dodana po audycie, zaktualizowana po pełnej
+konwersji ustawy).** Jeżeli Spółdzielnia zatrudnia **co najmniej 50
+osób** w przeliczeniu na pełne etaty (stan na 1 stycznia lub 1 lipca
+danego roku —
+[art. 23 ust. 1–2](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-23)),
+niniejsza Procedura musi spełniać wymogi ustawy z dnia 14 czerwca
+2024 r. o ochronie sygnalistów (Dz. U. 2024 poz. 928,
+[pełny tekst](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md)) —
 niezależnie od tego, czy Spółdzielnia przyjmie własny dokument, ustawa
-i tak obowiązuje (art. 23 ust. 1). **Do zweryfikowania: czy SMDM
-przekracza ten próg zatrudnienia** — ta baza wiedzy nie zawiera liczby
-etatów. Poniższe paragrafy zostały uzupełnione o obowiązkowe elementy
-ustawowe (art. 25 ust. 1); pełny tekst ustawy nie jest jeszcze
-przekonwertowany do `przepisy-prawne/` w tym repozytorium — warto to
-zrobić przed ostatecznym przyjęciem dokumentu.
+i tak obowiązuje. Poniżej tego progu ustanowienie procedury jest
+fakultatywne
+([art. 24 ust. 2](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-24)),
+ale jeśli Spółdzielnia ją ma, powinna i tak spełniać te same wymogi
+jakościowe. **Do zweryfikowania: czy SMDM przekracza ten próg
+zatrudnienia** — ta baza wiedzy nie zawiera liczby etatów.
+
+**Konsultacje przed ustanowieniem procedury — krok pominięty w tym
+projekcie.** Ustawa wymaga, żeby procedurę zgłoszeń wewnętrznych
+ustalić **po konsultacji** z zakładową organizacją związkową (albo
+z przedstawicielami pracowników, jeśli związek nie działa), trwającej
+**5–10 dni** od przedstawienia projektu, a sama procedura wchodzi w
+życie dopiero **7 dni** po podaniu jej do wiadomości osób wykonujących
+pracę
+([art. 24 ust. 3–5](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-24)).
+To dotyczy więc też Związku Zawodowego „Budowlani" (patrz
+[`../../kadry/README.md`](../../kadry/README.md)) — ten krok trzeba
+dodać do trybu przyjęcia w § 15 Kodeksu, nie tylko do tego dokumentu.
 
 ## § 1. Cel
 
@@ -45,9 +61,14 @@ podejrzenie nieprawidłowości nie powinno być publicznie rozstrzygane przed za
 
 1a. Na wniosek zgłaszającego, zgłoszenie ustne może zostać dokonane
 podczas bezpośredniego spotkania zorganizowanego w terminie **14 dni**
-od otrzymania takiego wniosku — wymóg ustawowy (ustawa o ochronie
-sygnalistów, art. 26 ust. 6), obowiązkowy jeśli Spółdzielnia podlega
-tej ustawie (patrz UWAGA na początku dokumentu).
+od otrzymania takiego wniosku — wymóg ustawowy
+([art. 26 ust. 6](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-26)),
+obowiązkowy jeśli Spółdzielnia podlega tej ustawie (patrz UWAGA na
+początku dokumentu). Zgłoszenie może być też dokonane telefonicznie —
+jeśli linia jest nagrywana, za zgodą zgłaszającego dokumentuje się je
+nagraniem lub transkrypcją; jeśli nie jest nagrywana — protokołem
+rozmowy, który zgłaszający może sprawdzić i podpisać (art. 26 ust.
+2–5).
 
 2. Jeżeli zgłoszenie dotyczy osoby odpowiedzialnej za przyjmowanie zgłoszeń, kieruje się je do osoby zastępczej [●].
 
@@ -56,20 +77,30 @@ tej ustawie (patrz UWAGA na początku dokumentu).
 4. **Zgłoszenia zewnętrzne, niezależne od tej Procedury.** Zgłaszający
 może, bez uprzedniego zgłoszenia wewnętrznego, dokonać zgłoszenia do
 Rzecznika Praw Obywatelskich albo właściwego organu publicznego
-(ustawa o ochronie sygnalistów, art. 30 ust. 1–2). Ta Procedura tego
-prawa nie ogranicza ani nie zastępuje — o tej możliwości należy
-poinformować zgłaszającego przy potwierdzeniu przyjęcia zgłoszenia
-(§ 4).
+([art. 30 ust. 1–2](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-30)).
+Ta Procedura tego prawa nie ogranicza ani nie zastępuje — informację o
+tej możliwości, zrozumiałą i łatwo dostępną, należy zamieścić w samej
+Procedurze (nie tylko przekazać przy potwierdzeniu zgłoszenia) — wymóg
+ustawowy
+([art. 25 ust. 1 pkt 8](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-25)).
 
 ## § 4. Rejestracja i wstępna ocena
 
-1. Zgłoszenie otrzymuje numer i datę wpływu.
+1. Zgłoszenie otrzymuje numer i datę wpływu i jest wpisywane do
+**rejestru zgłoszeń**, który obejmuje: numer zgłoszenia, przedmiot
+naruszenia, dane osobowe zgłaszającego i osoby, której dotyczy
+zgłoszenie (w zakresie niezbędnym do identyfikacji), adres do kontaktu
+zgłaszającego, datę zgłoszenia, informację o podjętych działaniach
+następczych oraz datę zakończenia sprawy
+([art. 29 ust. 1 i 4](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-29)).
+Dane w rejestrze przechowuje się **3 lata** po zakończeniu roku
+kalendarzowego, w którym zakończono sprawę (art. 29 ust. 5).
 
 1a. **Potwierdzenie przyjęcia zgłoszenia** przekazuje się zgłaszającemu
-w terminie **7 dni** od otrzymania zgłoszenia (ustawa o ochronie
-sygnalistów, art. 25 ust. 1 pkt 5) — chyba że zgłaszający wyraźnie nie
-zażyczył sobie potwierdzenia albo mogłoby to ujawnić jego tożsamość
-osobie trzeciej.
+w terminie **7 dni** od otrzymania zgłoszenia
+([art. 25 ust. 1 pkt 5](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-25)) —
+chyba że zgłaszający wyraźnie nie zażyczył sobie potwierdzenia albo nie
+podał adresu do kontaktu.
 
 2. Wstępna ocena określa, czy sprawa podlega Procedurze, czy powinna być przekazana innemu trybowi.
 
@@ -77,9 +108,12 @@ osobie trzeciej.
 
 4. Zgłoszenia przyjmuje wyznaczona, bezstronna jednostka lub osoba
 [●], upoważniona do podejmowania działań następczych, w tym weryfikacji
-zgłoszenia i dalszego postępowania wyjaśniającego (ustawa o ochronie
-sygnalistów, art. 25 ust. 1 pkt 1 i 3). Procedurę postępowania ze
-zgłoszeniami anonimowymi ustala się odrębnie [●] (art. 25 ust. 1 pkt 4).
+zgłoszenia i dalszego postępowania wyjaśniającego
+([art. 25 ust. 1 pkt 1 i 3](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-25)).
+Osoby dopuszczone do przyjmowania/weryfikacji zgłoszeń muszą mieć
+**pisemne upoważnienie** i są związane tajemnicą również po ustaniu
+zatrudnienia (art. 27 ust. 2). Procedurę postępowania ze zgłoszeniami
+anonimowymi ustala się odrębnie [●] (art. 25 ust. 1 pkt 4).
 
 ## § 5. Postępowanie wyjaśniające
 
@@ -98,8 +132,8 @@ zgłoszeniami anonimowymi ustala się odrębnie [●] (art. 25 ust. 1 pkt 4).
 2. **Informację zwrotną** o podjętych lub planowanych działaniach
 następczych przekazuje się zgłaszającemu w terminie **3 miesięcy** od
 potwierdzenia przyjęcia zgłoszenia (albo od upływu 7 dni na
-potwierdzenie, jeśli go nie przekazano) — wymóg ustawowy (ustawa o
-ochronie sygnalistów, art. 25 ust. 1 pkt 7).
+potwierdzenie, jeśli go nie przekazano) — wymóg ustawowy
+([art. 25 ust. 1 pkt 7](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-25)).
 
 ## § 7. Ochrona przed odwetem
 
