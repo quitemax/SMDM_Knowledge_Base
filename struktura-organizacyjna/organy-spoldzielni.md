@@ -120,9 +120,11 @@ Zarząd.
 ## Zarząd (§ 54–60)
 
 - Kieruje działalnością Spółdzielni i reprezentuje ją na zewnątrz.
-- Skład: **3 członkowie**, w tym prezes i jego zastępcy (w praktyce:
-  Prezes, Członek Zarządu – Główny Księgowy, Członek Zarządu ds.
-  techniczno-eksploatacyjnych — patrz
+- Skład: **od 2 do 3 członków**, w tym prezes i jego zastępcy (do
+  29.06.2026 statut wymagał sztywno 3 członków — zmienione uchwałą
+  Walnego Zgromadzenia z 29.06.2026, wpisaną do KRS; w praktyce
+  dotychczasowy pełny skład to: Prezes, Członek Zarządu – Główny
+  Księgowy, Członek Zarządu ds. techniczno-eksploatacyjnych — patrz
   [`struktura-i-hierarchia.md`](struktura-i-hierarchia.md)). Wybiera i
   odwołuje ich **Rada Nadzorcza**, na czas nieokreślony; odwołanie wymaga
   pisemnego uzasadnienia (§ 55).

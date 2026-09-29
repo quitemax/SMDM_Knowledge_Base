@@ -1,5 +1,14 @@
 # Statut Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
+> **Aktualizacja 2026-06-29**: Walne Zgromadzenie (część obradująca w
+> dniu 29 czerwca 2026 r.) podjęło uchwały zmieniające [§ 55](#par-55)
+> (zarząd 2–3 członków zamiast 3) oraz skreślające
+> [§ 62 ust. 3](#par-62). Zmiany wpisane do KRS. Źródło: transkrypcja
+> nagrania obrad + potwierdzenie osoby będącej wówczas członkiem
+> Zarządu (protokół z Walnego Zgromadzenia nie był dostępny w momencie
+> tej aktualizacji — jeśli się znajdzie, zweryfikuj dokładną treść
+> uchwał względem niego).
+
 ## Spis treści
 
 - [1. Postanowienia ogólne oraz cel i przedmiot działalności Spółdzielni](#dzial-1)
@@ -923,7 +932,10 @@ Zarząd kieruje działalnością Spółdzielni oraz reprezentuje ją na zewnątr
 <a id="par-55"></a>
 #### § 55
 
-1. Zarząd składa się z trzech członków, w tym prezesa i jego zastępców.
+1. Zarząd składa się z dwóch do trzech członków, w tym prezesa i jego
+zastępców. *(Zmienione uchwałą Walnego Zgromadzenia z 29.06.2026 r. —
+pierwotne brzmienie: „Zarząd składa się z trzech członków, w tym prezesa
+i jego zastępców.")*
 
 2. Członków Zarządu, w tym prezesa i jego zastępców, wybiera na czas nieokreślony
 i odwołuje Rada Nadzorcza. Odwołanie wymaga pisemnego uzasadnienia.
@@ -1068,8 +1080,10 @@ powinowactwa w linii prostej i w drugim stopniu linii bocznej.
 2. Do Rady Nadzorczej nie może kandydować osoba uprzednio odwołana z funkcji
 członka Rady Nadzorczej Spółdzielni Mieszkaniowej „Doły-Marysińska”.
 
-3. Rada Nadzorcza nie może powołać na funkcję członka Zarządu Spółdzielni osoby
-uprzednio odwołanej z wyżej wymienionej funkcji.
+3. (skreślony). *(Skreślony uchwałą Walnego Zgromadzenia z 29.06.2026 r. —
+pierwotne brzmienie: „Rada Nadzorcza nie może powołać na funkcję członka
+Zarządu Spółdzielni osoby uprzednio odwołanej z wyżej wymienionej
+funkcji.")*
 
 4. Do Rady Nadzorczej nie mogą kandydować osoby zadłużone wobec Spółdzielni oraz
 osoby prawomocnie skazane za popełnienie przestępstwa. Koszt zaświadczenia z
