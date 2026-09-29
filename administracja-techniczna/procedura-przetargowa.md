@@ -131,9 +131,11 @@ długo wiszącej flagi „sprawdź, czy dotyczy" —
   [art. 6](../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-6).
   **Budynki mieszkalne nie są na tej liście** — nawet duża inwestycja
   remontowa/termomodernizacyjna dofinansowana w większości ze środków
-  publicznych (np. premia termomodernizacyjna z BGK) **nie uruchamia
-  PZP**, bo warunek (3) nigdy nie jest spełniony dla zwykłego budynku
-  mieszkalnego.
+  publicznych (np.
+  [premia termomodernizacyjna/remontowa z BGK](premia-termomodernizacyjna-remontowa.md),
+  która i tak nigdy nie przekracza progu >50% wartości zamówienia z
+  warunku (1) — patrz tamten dokument) **nie uruchamia PZP**, bo warunek
+  (3) nigdy nie jest spełniony dla zwykłego budynku mieszkalnego.
 - **Wniosek**: dla typowych zamówień SMDM na roboty budowlane, dostawy
   i usługi (w tym remonty, termomodernizację, zakupy IT) obowiązuje
   wyłącznie własny

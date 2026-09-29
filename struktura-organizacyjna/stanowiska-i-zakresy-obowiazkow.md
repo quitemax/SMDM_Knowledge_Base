@@ -61,7 +61,10 @@
 - organizuje realizację spraw techniczno-eksploatacyjnych zgodnie z
   prawem budowlanym,
 - opracowuje plany remontów oraz analizy rzeczowe i finansowe ich
-  realizacji, plany i analizy konserwacji zasobów i dźwigów,
+  realizacji, plany i analizy konserwacji zasobów i dźwigów — patrz też
+  [`../administracja-techniczna/premia-termomodernizacyjna-remontowa.md`](../administracja-techniczna/premia-termomodernizacyjna-remontowa.md)
+  i
+  [`../administracja-techniczna/przeglad-okresowy-budynku.md`](../administracja-techniczna/przeglad-okresowy-budynku.md),
 - współpracuje z Komisją GZM Rady Nadzorczej,
 - współuczestniczy z Komisją Przetargową w organizacji przetargów na
   roboty budowlane, nadzoruje projekty umów na roboty i ich ewidencję,
