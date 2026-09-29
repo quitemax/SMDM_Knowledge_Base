@@ -47,7 +47,9 @@
 - nadzoruje windykację należności, współpracuje z obsługą prawną w
   zakresie egzekucji zadłużeń czynszowych,
 - przedkłada Radzie Nadzorczej wnioski o wykluczenie ze Spółdzielni
-  członków z zadłużeniami czynszowymi,
+  członków z zadłużeniami czynszowymi — **⚠️ do zweryfikowania**: patrz
+  zastrzeżenie prawne w
+  [`../czynsze-ksiegowosc/procedura-windykacyjna.md`](../czynsze-ksiegowosc/procedura-windykacyjna.md#wykluczenie),
 - reprezentuje Spółdzielnię na zewnątrz w sprawach finansowo-księgowych,
 - ma prawo żądać od innych komórek organizacyjnych wyjaśnień, informacji
   i dokumentów potwierdzających operacje gospodarcze oraz egzekwować

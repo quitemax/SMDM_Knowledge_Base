@@ -41,9 +41,18 @@ mieszkaniowej).
    u.s.m.](../przepisy-prawne/md/ustawa-o-spoldzielniach-mieszkaniowych.md#art-15))
    w określonych przypadkach (§ 7).
 
-**Ustanie członkostwa** (§ 9): wygaśnięcie prawa lokatorskiego, zbycie
-prawa własnościowego/odrębnej własności/ekspektatywy (lub udziału),
-wygaśnięcie roszczenia o prawo lokatorskie.
+**Ustanie członkostwa** (§ 9; statut
+[§ 17](../zrodla/md/statut.md#par-17)): wygaśnięcie prawa lokatorskiego,
+zbycie prawa własnościowego/odrębnej własności/ekspektatywy (lub
+udziału), wygaśnięcie roszczenia o prawo lokatorskie, śmierć członka,
+oraz przypadki z
+[art. 24¹ i 26 ustawy o spółdzielniach mieszkaniowych](../przepisy-prawne/md/ustawa-o-spoldzielniach-mieszkaniowych.md#art-241)
+(uchwała właścicieli lokali o przejściu pod ustawę o własności lokali;
+automatyczne powstanie wspólnoty po wyodrębnieniu ostatniego lokalu w
+budynku). Dla członka z zaległościami — wygaśnięcie spółdzielczego
+prawa lokatorskiego wymaga **wyroku sądu**, nie samej uchwały organu
+Spółdzielni — patrz zastrzeżenie w
+[`../czynsze-ksiegowosc/procedura-windykacyjna.md#wykluczenie`](../czynsze-ksiegowosc/procedura-windykacyjna.md#wykluczenie).
 
 **Ustanawianie praw do lokali** (§ 10–11): umowa o ustanowienie prawa
 lokatorskiego — forma pisemna pod rygorem nieważności; umowa o

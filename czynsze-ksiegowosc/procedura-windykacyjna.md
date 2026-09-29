@@ -14,7 +14,8 @@ sądowym/egzekucyjnym — stanowisko **PR** (ds. obsługi prawnej).
 - Zatwierdza/decyduje: **Zarząd** (rozłożenie na raty, umorzenia,
   odszkodowanie za bezumowne korzystanie, zawieszenie egzekucji);
   **Rada Nadzorcza** (wykluczenie zadłużonego członka ze Spółdzielni —
-  na wniosek Głównego Księgowego).
+  na wniosek Głównego Księgowego) — **patrz zastrzeżenie prawne
+  poniżej**, ten mechanizm wymaga weryfikacji.
 - Konsultowany: PR (opinia przed zawieszeniem egzekucji).
 - Informowany o wyniku: dłużnik.
 
@@ -107,13 +108,62 @@ w roku).
   (sąd może mimo to przyznać lokal socjalny, jeśli uzasadniają to
   zasady współżycia społecznego).
 
+<a id="wykluczenie"></a>
+**⚠️ Zastrzeżenie prawne: „wykluczenie zadłużonego członka przez Radę
+Nadzorczą" — mechanizm wątpliwy, wymaga weryfikacji.** Ten proces jest
+wymieniony w opisie roli Głównego Księgowego
+([`../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md`](../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md)),
+ale **`regulamin-windykacji.pdf` w ogóle go nie opisuje** (sprawdzone —
+plik nie zawiera słowa „wykluczenie"), a analiza prawa budzi poważne
+wątpliwości, czy jest dziś stosowalny wprost:
+- Dla członka z **zaległością ≥6 miesięcy** posiadającego **spółdzielcze
+  lokatorskie prawo do lokalu**, jedynym sposobem pozbawienia go tego
+  prawa z powodu zadłużenia jest **wyrok sądu** stwierdzający wygaśnięcie
+  prawa — nie uchwała Rady Nadzorczej. Sąd **nie może** orzec wygaśnięcia,
+  jeśli członek spłaci całość zaległości najpóźniej przed zamknięciem
+  rozprawy (również w II instancji) —
+  [ustawa o spółdzielniach mieszkaniowych art. 11 ust. 1¹, 1⁴](../przepisy-prawne/md/ustawa-o-spoldzielniach-mieszkaniowych.md#art-11).
+  Samo „wykluczenie" członka (utrata członkostwa) **nie jest tym
+  samym** co utrata prawa do lokalu — członkostwo takiej osoby i tak
+  ustaje automatycznie dopiero z chwilą prawomocnego wygaśnięcia
+  spółdzielczego prawa lokatorskiego
+  ([statut § 17 ust. 1 pkt 1](../zrodla/md/statut.md#par-17)), więc
+  samodzielne „wykluczenie" przez RN przed tym wyrokiem nie usuwa
+  dłużnika z lokalu.
+- Ogólny mechanizm wykluczenia/wykreślenia z Prawa spółdzielczego
+  ([art. 24](../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-24))
+  wymaga, żeby **to statut określał przyczyny** wykluczenia (§ 2) —
+  a w aktualnym statucie SMDM paragrafy, które kiedyś to regulowały
+  (§ 18–24), są dziś w całości **„(skreślony)"**
+  ([`../zrodla/md/statut.md`](../zrodla/md/statut.md#par-17), sekcja
+  2.6), i słowo „wykluczenie"/„wykreślenie" nie występuje już nigdzie
+  indziej w statucie. Bez statutowo określonych przyczyn wykluczenia,
+  podstawa prawna do skorzystania z art. 24 Prawa spółdzielczego
+  wygląda na brakującą.
+- **DO UZUPEŁNIENIA / do wyjaśnienia przez osobę z dostępem do
+  pełnej historii zmian statutu i praktyki Rady Nadzorczej**: czy
+  „wykluczenie za zadłużenie" to opis nieaktualnej praktyki sprzed
+  usunięcia § 18–24 ze statutu, czy funkcjonuje na innej podstawie,
+  której nie znalazłem w dostępnych źródłach. Do czasu wyjaśnienia nie
+  traktuj tego jako pewnego, działającego mechanizmu.
+
 **Źródło / podstawa**: `regulamin-windykacji.pdf` (tekst jednolity 2018,
 uchwała RN nr 22/R/18 z 25.09.2018, zmiana 27/R/18) § 1–6; dla kroku
 „eksmisja" — ustawa o ochronie praw lokatorów, mieszkaniowym zasobie
 gminy i o zmianie Kodeksu cywilnego,
 [art. 11](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-11),
 [14](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14),
-[16](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-16)–[18](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-18).
+[16](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-16)–[18](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-18);
+dla zastrzeżenia dot. „wykluczenia" — ustawa o spółdzielniach
+mieszkaniowych
+[art. 11](../przepisy-prawne/md/ustawa-o-spoldzielniach-mieszkaniowych.md#art-11),
+Prawo spółdzielcze
+[art. 24](../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-24),
+statut
+[§ 17](../zrodla/md/statut.md#par-17).
 
-**Ostatnia aktualizacja**: 2026-09-29 (dodano ochronę prawną lokatora
-przy eksmisji — ustawa o ochronie praw lokatorów).
+**Ostatnia aktualizacja**: 2026-09-29 — dodano ochronę prawną lokatora
+przy eksmisji (ustawa o ochronie praw lokatorów); dodano zastrzeżenie
+prawne dot. „wykluczenia zadłużonego członka przez Radę Nadzorczą" —
+mechanizm nieznaleziony w regulamin-windykacji.pdf, prawna podstawa
+wątpliwa po usunięciu § 18–24 ze statutu, wymaga wyjaśnienia.
