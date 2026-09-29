@@ -12,8 +12,8 @@ głównie postępowania w konkretnych sprawach (nie samego funkcjonowania
 organu), może zostać przyjęty uchwałą Rady Nadzorczej na podstawie
 § 49 ust. 1 pkt 21 Statutu (regulaminy nie zastrzeżone dla innych
 organów) — do potwierdzenia przez radcę prawnego łącznie z trybem
-przyjęcia Kodeksu, patrz tam § 15
-([`01_Kodeks_odpowiedzialnego_sprawowania_mandatu.md`](01_Kodeks_odpowiedzialnego_sprawowania_mandatu.md)).
+przyjęcia Kodeksu, patrz „Kodeks odpowiedzialnego sprawowania
+mandatu" § 15.
 
 ## § 1. Cel
 
@@ -36,8 +36,8 @@ Celem Polityki jest zapobieganie sytuacjom, w których interes osobisty, majątk
 3. Rejestr oświadczeń prowadzi osoba lub organ wskazany w uchwale
    [●] — naturalnym kandydatem jest stanowisko **PM** (ds.
    organizacyjno-samorządowych), które już prowadzi rejestr członków i
-   uchwał organów (patrz
-   [`../../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md`](../../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md)) —
+   uchwał organów (patrz opis stanowiska PM w regulaminie
+   organizacyjnym Spółdzielni) —
    do potwierdzenia uchwałą, nie zakładania z góry. Dostęp do niego
    ogranicza się do osób uprawnionych.
 

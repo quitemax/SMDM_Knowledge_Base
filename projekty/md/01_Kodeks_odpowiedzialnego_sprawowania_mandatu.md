@@ -11,7 +11,7 @@
 
 **Wersja 3 (świeży przegląd)** — doprecyzowano § 4 ust. 3 (zdanie odrębne — brak tej podstawy w Regulaminie Rady Nadzorczej) i ust. 4 (niejasne pojęcie „sabotowania" zastąpione konkretnymi przykładami); § 13 uzupełniono o wskazanie realnych, już istniejących środków (odwołanie z funkcji), zamiast pozostawiać temat całkowicie abstrakcyjnym; § 15 dodano zasadę braku działania wstecz; § 8 dodano odesłanie do polityki RODO.
 
-Pełny audyt — patrz [`../audyt-propozycji-etycznych.md`](../audyt-propozycji-etycznych.md).
+Pełny audyt — patrz odrębny dokument „Audyt pakietu dokumentów etycznych (projekty robocze)".
 
 # Preambuła
 
@@ -64,8 +64,7 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
 3. Członek, który głosował przeciw uchwale, może zgłosić zdanie odrębne
    na zasadach określonych w regulaminie organu. **Uwaga po audycie**:
    dla Zarządu taka podstawa istnieje wprost (protokół zawiera „ew.
-   zdanie odrębne" — Regulamin Zarządu, patrz
-   [`../../zarzad/zasady-dzialania.md`](../../zarzad/zasady-dzialania.md)),
+   zdanie odrębne" — Regulamin Zarządu, § 13),
    ale **Regulamin Rady Nadzorczej nie zawiera dziś przepisu o zdaniu
    odrębnym** (sprawdzone — brak tego pojęcia w całym dokumencie). Ten
    ustęp Kodeksu zakłada więc mechanizm, który dla Rady faktycznie nie
@@ -141,7 +140,7 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
 
 4. Obowiązek poufności trwa także po zakończeniu mandatu, z zastrzeżeniem praw członków Spółdzielni do informacji i obowiązków wynikających z prawa.
 
-5. Szczegółowe zasady publikacji informacji określają Statut, przepisy prawa i właściwe standardy komunikacji. Zasady przetwarzania danych osobowych mieszkańców/członków, do których członkowie organów mają dostęp — patrz [`../../struktura-organizacyjna/ochrona-danych-osobowych.md`](../../struktura-organizacyjna/ochrona-danych-osobowych.md).
+5. Szczegółowe zasady publikacji informacji określają Statut, przepisy prawa i właściwe standardy komunikacji. Zasady przetwarzania danych osobowych mieszkańców/członków, do których członkowie organów mają dostęp — patrz wewnętrzna polityka ochrony danych osobowych Spółdzielni (RODO).
 
 ## § 9. Równe traktowanie i relacje ze spółdzielcami
 
@@ -196,8 +195,8 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
 1b. **Ogólne „wykluczenie ze Spółdzielni" (utrata członkostwa)
    nie jest tu adekwatnym środkiem** i nie powinno być z tym mylone —
    niezależnie od wątpliwości co do jego dzisiejszej podstawy prawnej
-   w ogóle (patrz
-   [`../../czynsze-ksiegowosc/procedura-windykacyjna.md#wykluczenie`](../../czynsze-ksiegowosc/procedura-windykacyjna.md#wykluczenie)),
+   w ogóle (patrz zastrzeżenie prawne w wewnętrznej dokumentacji
+   procedury windykacyjnej Spółdzielni dot. wykluczenia),
    naruszenie Kodeksu przez sprawowanie mandatu nie jest tym samym co
    niewykonywanie obowiązków członkowskich, więc nawet gdyby ta
    podstawa istniała, nie byłaby tu naturalnym środkiem — właściwym jest

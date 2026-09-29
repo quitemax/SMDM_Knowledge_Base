@@ -7,9 +7,8 @@
 
 **Tryb przyjęcia (propozycja)**: uchwała Rady Nadzorczej na podstawie
 § 49 ust. 1 pkt 21 Statutu — do potwierdzenia łącznie z trybem
-przyjęcia Kodeksu, patrz
-[`01_Kodeks_odpowiedzialnego_sprawowania_mandatu.md`](01_Kodeks_odpowiedzialnego_sprawowania_mandatu.md)
-§ 15. Zasada z Kodeksu § 6 (nadzór ekspercki bez przejmowania
+przyjęcia Kodeksu, patrz „Kodeks odpowiedzialnego sprawowania
+mandatu" § 15. Zasada z Kodeksu § 6 (nadzór ekspercki bez przejmowania
 wykonawstwa) dotyczy jednolicie wszystkich dziedzin wiedzy
 specjalistycznej w Radzie, nie tylko IT — ten Standard opisuje jej
 zastosowanie konkretnie do systemów i danych, na tej samej zasadzie co

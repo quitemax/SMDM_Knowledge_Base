@@ -6,9 +6,8 @@
 
 **Tryb przyjęcia (propozycja)**: uchwała Rady Nadzorczej na podstawie
 § 49 ust. 1 pkt 21 Statutu — do potwierdzenia łącznie z trybem
-przyjęcia Kodeksu, patrz
-[`01_Kodeks_odpowiedzialnego_sprawowania_mandatu.md`](01_Kodeks_odpowiedzialnego_sprawowania_mandatu.md)
-§ 15.
+przyjęcia Kodeksu, patrz „Kodeks odpowiedzialnego sprawowania
+mandatu" § 15.
 
 ## § 1. Cel
 
@@ -22,9 +21,9 @@ Standard stosuje się w szczególności do istotnych inwestycji, zakupów, zmian
 jest zdefiniowane liczbowo, co w praktyce zostawia ocenę Zarządowi/
 Radzie za każdym razem od nowa. Jako punkt odniesienia proponuje się
 wartość **50 000 zł** — próg, od którego regulamin zakupowy Spółdzielni
-wymaga już pełnego trybu przetargowego (patrz
-[`../../administracja-techniczna/procedura-przetargowa.md`](../../administracja-techniczna/procedura-przetargowa.md)) —
-zamiast tworzyć osobny, niepowiązany próg. Nie jest to sztywna reguła:
+(„Regulamin wyboru wykonawców robót, dostaw i usług") wymaga już
+pełnego trybu przetargowego — zamiast tworzyć osobny, niepowiązany
+próg. Nie jest to sztywna reguła:
 sprawy poniżej tej kwoty, ale o dużym wpływie niefinansowym (np. zmiana
 dostawcy systemu obsługi czynszów), również powinny być traktowane jako
 istotne.
