@@ -17,7 +17,8 @@ nazwę pliku co PDF, więc łatwo je ze sobą powiązać.
 |---|---|---|---|
 | Regulamin Walnego Zgromadzenia | [pdf](pdf/regulamin-walnego-zgromadzenia.pdf) | [md](md/regulamin-walnego-zgromadzenia.md) | Tryb zwoływania, obradowania i podejmowania uchwał przez Walne Zgromadzenie. |
 | Regulamin Rady Nadzorczej | [pdf](pdf/regulamin-rady-nadzorczej.pdf) | [md](md/regulamin-rady-nadzorczej.md) | Zakres działania, tryb pracy i podejmowania uchwał przez Radę Nadzorczą. |
-| Regulamin stałych komisji Rady Nadzorczej | [pdf](pdf/regulamin-stalych-komisji-rady-nadzorczej.pdf) | [md](md/regulamin-stalych-komisji-rady-nadzorczej.md) | Zasady działania stałych komisji RN (m.in. Komisji Rewizyjnej). |
+| Regulamin stałych komisji Rady Nadzorczej | [pdf](pdf/regulamin-stalych-komisji-rady-nadzorczej.pdf) | [md](md/regulamin-stalych-komisji-rady-nadzorczej.md) | Zasady działania stałych komisji RN (m.in. Komisji Rewizyjnej). W oryginalnym skanie brakowało strony z Załącznikiem nr 2 (Komisja GZM) — uzupełniona z osobnego skanu poniżej i wklejona do tego samego pliku md. |
+| Regulamin stałych komisji Rady Nadzorczej — Załącznik nr 2 (uzupełnienie brakującej strony) | [pdf](pdf/regulamin-stalych-komisji-rady-nadzorczej-zalacznik-2.pdf) | (treść wklejona do [md powyżej](md/regulamin-stalych-komisji-rady-nadzorczej.md#zalacznik-2)) | Zakres działania Komisji Gospodarki Zasobami Mieszkaniowymi (GZM) — brakująca strona 7 głównego regulaminu. |
 | Regulamin Zarządu | [pdf](pdf/regulamin-zarzadu.pdf) | [md](md/regulamin-zarzadu.md) | Zasady działania Zarządu, podział czynności, tryb podejmowania uchwał. |
 
 ## Organizacja i pracownicy

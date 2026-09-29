@@ -43,14 +43,27 @@ Zakres działania określają załączniki do regulaminu (§ 2 ust. 1):
   rocznych sprawozdań finansowych, wnioski o zatwierdzenie bilansów;
   kontrola inwentaryzacji majątku; inne czynności zlecone przez Radę w
   zakresie nadzoru i kontroli finansowej.
-- **Komisja GZM**: **DO UZUPEŁNIENIA** — Załącznik nr 2 (zakres działania
-  tej komisji) brakuje w zeskanowanym źródle: numeracja stron skanu
-  skacze z „6" (koniec Załącznika nr 1) na „8" (Załącznik nr 3) — strona
-  z Załącznikiem nr 2 nie została zeskanowana, nie tylko jest nieczytelna.
-  Do uzupełnienia z oryginału w archiwum Spółdzielni. Wiadomo z innych
-  źródeł, że **Członek Zarządu ds. techniczno-eksploatacyjnych** na
-  bieżąco współpracuje z tą komisją (patrz
+- **Komisja GZM** (Załącznik nr 2): opiniowanie planów działalności
+  Spółdzielni w zakresie zasobów mieszkaniowych, infrastruktury oraz
+  przestrzennego zagospodarowania terenu; okresowe analizy i ocena
+  realizowanych prac remontowych; udział w przetargach na wykonawców
+  robót remontowych; udział w przeglądach stanu technicznego budynków i
+  instalacji; rozpatrywanie i opiniowanie wniosków/skarg członków
+  Spółdzielni dot. gospodarki zasobami mieszkaniowymi; inne czynności
+  opiniodawcze zlecone przez Radę; opiniowanie działalności służb
+  technicznych Spółdzielni w zakresie dozoru i procedury odbioru
+  zleconych prac oraz wykonawstwa usług własnych; nadzór nad wykonaniem
+  zaleceń polustracyjnych dot. gospodarki zasobami mieszkaniowymi. Ma
+  prawo uczestniczyć w odbiorze powykonawczym (o którym zawiadamia ją
+  Zarząd). Członkowie oddelegowani do konkretnych czynności sporządzają
+  krótką notatkę z ich wykonania, z którą Komisja zapoznaje się na
+  najbliższym posiedzeniu. **Członek Zarządu ds.
+  techniczno-eksploatacyjnych** na bieżąco współpracuje z tą komisją
+  (patrz
   [`../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md`](../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md)).
+  *(Treść załącznika uzupełniona 2026-09-29 z osobno dostarczonego skanu
+  — brakowało jej wcześniej w głównym pliku źródłowym, patrz
+  [`../zrodla/spis-dokumentow.md`](../zrodla/spis-dokumentow.md).)*
 - **Komisja Regulaminowa** (Załącznik nr 3): opiniowanie projektów
   regulaminów i innych przepisów wewnętrznych, do których wydawania
   uprawniona jest Rada; wnioskowanie w sprawie zmian w już uchwalonych
@@ -139,5 +152,5 @@ właściwości komisji rozstrzyga **prezydium Rady** (§ 2 ust. 2–3).
   wynikające z działalności komisji mogą ujawniać wyłącznie na prezydium
   Rady i na posiedzeniu Rady (§ 14).
 
-**Ostatnia aktualizacja**: 2026-09-28 (pierwsza wersja — Komisja GZM w
-większości do uzupełnienia, patrz wyżej).
+**Ostatnia aktualizacja**: 2026-09-29 (uzupełniono zakres działania
+Komisji GZM na podstawie odnalezionego Załącznika nr 2).

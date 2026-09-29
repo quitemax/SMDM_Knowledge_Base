@@ -91,12 +91,17 @@ spośród nieograniczonej liczby kandydatów (§ 28).
    wykonanie planów, gospodarkę finansową, zabezpieczenie majątku,
    dyscyplinę zatrudnienia; opiniuje zamknięcia rachunkowe i wnioskuje o
    zatwierdzenie bilansów.
-2. **Komisja GZM** (gospodarka zasobami mieszkaniowymi) — dokładny
-   katalog kompetencji **DO UZUPEŁNIENIA**: strona z tym załącznikiem
-   (nr 2) nie została w ogóle zeskanowana — numeracja stron skoczy z „6"
-   (koniec Załącznika nr 1) na „8" (Załącznik nr 3) — więc to nie kwestia
-   nieczytelności, tylko brakującej strony w źródle. Wiadomo, że Członek
-   Zarządu ds. techniczno-eksploatacyjnych na bieżąco z nią współpracuje.
+2. **Komisja GZM** (gospodarka zasobami mieszkaniowymi) — opiniuje plany
+   działalności Spółdzielni w zakresie zasobów mieszkaniowych,
+   infrastruktury i zagospodarowania terenu; ocenia realizowane prace
+   remontowe; bierze udział w przetargach na wykonawców robót
+   remontowych i w przeglądach stanu technicznego budynków/instalacji;
+   opiniuje wnioski i skargi członków dot. gospodarki zasobami
+   mieszkaniowymi oraz działalność służb technicznych; nadzoruje
+   wykonanie zaleceń polustracyjnych w tym zakresie. Członek Zarządu ds.
+   techniczno-eksploatacyjnych na bieżąco z nią współpracuje. Pełny
+   katalog — patrz
+   [`../rada-nadzorcza/komisje-rady-nadzorczej.md`](../rada-nadzorcza/komisje-rady-nadzorczej.md).
 3. **Komisja Regulaminowa** — opiniuje projekty regulaminów i innych
    przepisów wewnętrznych, do których uchwalania uprawniona jest Rada;
    wnioskuje o zmiany w już uchwalonych regulaminach.

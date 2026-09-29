@@ -28,6 +28,7 @@
   - [§ 16](#par-16)
   - [§ 17](#par-17)
 - [Załącznik nr 1 — Zakres działania Komisji Rewizyjnej](#zalacznik-1)
+- [Załącznik nr 2 — Zakres działania Komisji Gospodarki Zasobami Mieszkaniowymi](#zalacznik-2)
 - [Załącznik nr 3 — Zakres działania Komisji Regulaminowej](#zalacznik-3)
 
 <a id="dzial-1"></a>
@@ -63,7 +64,7 @@ których uchwalania uprawniona jest Rada.
 1. Zakres działania Komisji określa załącznik do regulaminu:
 
 - [zał. nr 1 - Komisja Rewizyjna](#zalacznik-1)
-- zał. nr 2 - Komisja GZM
+- [zał. nr 2 - Komisja GZM](#zalacznik-2)
 - [zał. nr 3 - Komisja Regulaminowa](#zalacznik-3)
 
 2. Komisja może również rozpatrywać inne sprawy, niż określone w załączniku do
@@ -319,6 +320,47 @@ wyników objętych tymi sprawozdaniami.
 
 7. Wykonywanie innych czynności zleconych przez Radę w zakresie nadzoru i kontroli
 gospodarki finansowej oraz rachunkowości Spółdzielni.
+
+<a id="zalacznik-2"></a>
+## Załącznik nr 2
+
+> Ta strona brakowała w oryginalnym skanie `regulamin-stalych-komisji-rady-nadzorczej.pdf`
+> (numeracja skakała ze strony 6 na 8) — treść odtworzona z osobno
+> dostarczonego skanu:
+> [`regulamin-stalych-komisji-rady-nadzorczej-zalacznik-2.pdf`](../pdf/regulamin-stalych-komisji-rady-nadzorczej-zalacznik-2.pdf).
+
+ZAKRES DZIAŁANIA KOMISJI GOSPODARKI ZASOBAMI MIESZKANIOWYMI
+
+1. Do zakresu działania Komisji należy:
+
+1/ opiniowanie planów działalności Spółdzielni w zakresie zasobów mieszkaniowych,
+infrastruktury oraz przestrzennego zagospodarowania terenu Spółdzielni,
+
+2/ dokonywanie okresowych analiz i oceny realizowanych prac remontowych,
+
+3/ udział w przetargach na wykonawców robót remontowych,
+
+4/ udział w przeglądach dotyczących stanu technicznego budynków i instalacji,
+
+5/ rozpatrywanie i opiniowanie wniosków i skarg członków Spółdzielni dot. gospodarki
+zasobami mieszkaniowymi,
+
+6/ wykonywanie innych czynności opiniodawczych zleconych przez Radę,
+
+7/ opiniowanie działalności służb technicznych Spółdzielni w zakresie dozoru i procedury
+odbioru wszystkich zleconych prac oraz wykonawstwa usług własnych,
+
+8/ nadzór nad wykonaniem zaleceń polustracyjnych dotyczących gospodarki zasobami
+mieszkaniowymi.
+
+2. Komisja ma prawo uczestniczyć w odbiorze powykonawczym, o którym każdorazowo
+zawiadamiana jest przez Zarząd Spółdzielni.
+
+3. Członkowie Komisji oddelegowani do realizacji określonych czynności sporządzają
+krótką notatkę z ich wykonania.
+
+Z treścią notatki zapoznawana jest Komisja na najbliższym posiedzeniu. Notatka pozostaje
+w aktach Komisji.
 
 <a id="zalacznik-3"></a>
 ## Załącznik nr 3
