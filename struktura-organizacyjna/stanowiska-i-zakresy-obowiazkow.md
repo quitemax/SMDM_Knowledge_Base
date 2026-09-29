@@ -82,7 +82,10 @@
   coroczny przegląd systemu ochrony danych — patrz
   [`ochrona-danych-osobowych.md`](ochrona-danych-osobowych.md).
 - **PP** (ds. pracowniczych i sekretariatu): kadry, dokumentacja
-  pracownicza, dyscyplina pracy, kancelaria/sekretariat Zarządu.
+  pracownicza, dyscyplina pracy — patrz
+  [`../kadry/urlopy-wypoczynkowe.md`](../kadry/urlopy-wypoczynkowe.md) i
+  [`../kadry/odpowiedzialnosc-porzadkowa.md`](../kadry/odpowiedzialnosc-porzadkowa.md)
+  — kancelaria/sekretariat Zarządu.
 - **PB** (ds. bhp i p.poż.): analizy i kontrole bhp/ppoż., szkolenia,
   dochodzenia powypadkowe.
 - **PS**: utrzymanie obiektu siedziby Spółdzielni.

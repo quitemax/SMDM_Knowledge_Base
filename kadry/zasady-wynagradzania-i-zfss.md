@@ -1,7 +1,8 @@
 # Zasady wynagradzania i Zakładowy Fundusz Świadczeń Socjalnych
 
 > To zaplecze regulaminowe, nie proces krok-po-krok — procesy kadrowe
-> (onboarding, offboarding) mają swoje osobne pliki w tym folderze.
+> (onboarding, offboarding, urlopy wypoczynkowe, odpowiedzialność
+> porządkowa) mają swoje osobne pliki w tym folderze.
 
 ## Zasady wynagradzania
 
