@@ -1,84 +1,105 @@
-# Procedura przetargowa na remont/wykonawcę zewnętrznego
+# Procedura wyboru wykonawcy/dostawcy (roboty budowlane, dostawy, usługi)
 
-**Cel procesu**: wybór najkorzystniejszej oferty na roboty remontowe u
-zewnętrznego wykonawcy, w sposób jawny i weryfikowalny.
+**Cel procesu**: wybór najkorzystniejszej oferty na roboty budowlane,
+dostawy lub usługi zlecane przez Spółdzielnię i finansowane w całości z
+jej środków — w sposób jawny, konkurencyjny i weryfikowalny (§ 1 ust. 1).
 
-**Właściciel procesu**: **Komisja Przetargowa**, powoływana przez
-Zarząd (Zamawiającego).
+**Właściciel procesu**: **Zarząd** jako Zamawiający — powołuje Komisję
+Przetargową i zatwierdza wyniki postępowań (§ 9 ust. 1, § 4 ust. 7–8).
 
 **Kto uczestniczy i za co odpowiada**:
-- Odpowiedzialny za wykonanie: Komisja Przetargowa (obecnie: min. 5
-  osób — 3 delegowani przez Zarząd + 2 członków Rady Nadzorczej
-  wskazanych uchwałą RN); Przewodniczący Komisji (wybierany po każdej
-  zmianie składu).
-- Zatwierdza/decyduje: Komisja Przetargowa (wybór oferty; zamówienia do
-  80 000 zł w trybie zapytania ofertowego); **Zarząd** (ogłoszenie
-  przetargu, ewentualne unieważnienie, podpisanie umowy).
-- Konsultowany: Rada Nadzorcza (coroczna korekta progu kwotowego).
-- Informowany o wyniku: oferenci (przez protokół/ogłoszenie wyniku).
+- Odpowiedzialny za wykonanie: **Komisja Przetargowa** (min. 3 osoby,
+  tryb przetargu — § 9–10) albo **Dział Techniczny** (tryb zapytania o
+  cenę lub zamówienia z wolnej ręki, po zatwierdzeniu przez Zarząd —
+  § 12 ust. 4). Dział Techniczny odpowiada też za wstępną wycenę
+  zamówienia przed wyborem trybu (§ 7 ust. 1) oraz za przechowywanie
+  dokumentacji postępowań min. 5 lat (§ 24 ust. 1).
+- Zatwierdza/decyduje: w trybie **przetargu** — wyboru dokonuje Komisja
+  Przetargowa, zatwierdza **Zarząd** (§ 4 ust. 7, § 16 ust. 1); w trybie
+  **zapytania o cenę** lub **wolnej ręki** — wyboru wykonawcy dokonuje
+  wprost **Zarząd** (§ 4 ust. 8).
+- Konsultowany: **Rada Nadzorcza** — weryfikuje progi kwotowe nie
+  rzadziej niż raz na 3 lata, na wniosek Zarządu, uchwałą (§ 7 ust. 5);
+  wyraża zgodę na zamówienie z wolnej ręki powyżej progu w trybie
+  szczególnym (§ 18 ust. 2 lit. b). Raz w miesiącu Zarząd przedstawia
+  Radzie zestawienie umów zawartych w trybie zapytania o cenę wraz z
+  treścią zapytań i ofert (§ 17 ust. 7).
+- Informowany o wyniku: oferenci — niezwłoczne zawiadomienie o wyborze,
+  wykluczeniu, odrzuceniu oferty lub unieważnieniu postępowania
+  (§ 16 ust. 3, § 19 ust. 3).
 
 **Kroki procesu**:
-1. Zarząd decyduje o potrzebie remontu i (jeśli wartość szacunkowa robót
-   przekracza **80 000 zł** w jednym obiekcie/branży) zleca przygotowanie
-   przetargu — próg nie może być obchodzony przez dzielenie zamówień.
-2. **Dokumentacja**: co do zasady wymagana dokumentacja projektowa lub
-   „ślepy kosztorys", z wyjątkiem robót prostych, rzeczowo i ilościowo
-   określonych.
-3. **Ogłoszenie**: w prasie codziennej, albo (zamiennie) afisze przed
-   Spółdzielnią i w widocznych miejscach; przy nieproporcjonalnie
-   wysokich kosztach ogłoszenia — powiadomienie indywidualne min. 4
-   znanych wykonawców. Treść musi zawierać m.in.: Zamawiającego, rodzaj
-   przetargu, termin/miejsce, przedmiot i lokalizację robót, termin
-   składania ofert, termin realizacji, wysokość wadium (jeśli
-   wymagane).
-4. **Wadium** (jeśli wymagane): celowość i wysokość ustala Zarząd
-   (zalecane 3–5% wartości robót); przepada przy wycofaniu/zmianie
-   oferty po rozpoczęciu przetargu lub uchylaniu się zwycięzcy od
-   umowy; zwrot niezwłocznie po przetargu (zwycięzcy — dzień po
-   zawarciu umowy).
-5. **Oferty**: pisemne, muszą zawierać dane oferenta, przedmiot,
-   wynagrodzenie + kosztorys, termin gwarancji, oświadczenia o
-   przyjęciu warunków przetargu i związaniu ofertą, dowód wpłaty
-   wadium.
-6. **Część jawna** przetargu: Komisja w obecności oferentów sprawdza
-   prawidłowość ogłoszenia, otwiera koperty, odrzuca oferty
-   spóźnione/niekompletne/nieczytelne, odczytuje propozycje. Tylko
-   jedna ważna oferta → **unieważnienie przetargu**.
-7. **Część niejawna**: Komisja analizuje oferty i wybiera najkorzystniejszą
-   (albo uznaje, że żadna się nie nadaje); podpisuje protokół z datą
-   rozstrzygnięcia. Przy równorzędności ofert — możliwy dodatkowy
-   przetarg ustny.
-8. **Umowa**: zawiadomienie o wyborze oferty tworzy stosunek
-   zobowiązaniowy (przepisy KC o umowie przedwstępnej); podpisanie w
-   terminie z ogłoszenia. Aneks przy dodatkowych/nieprzewidzianych
-   pracach wymaga **protokołu konieczności**, pozytywnie zaopiniowanego
-   przez Komisję Przetargową.
-
-**Wyjątek — zapytanie ofertowe (do 80 000 zł)**: zamówienia poniżej
-progu udziela **Komisja Przetargowa** (nie Zarząd) na podstawie
-zapytania ofertowego do min. 2 oferentów; niejawna analiza wg rachunku
-ekonomicznego i cen rynkowych; protokół z datą rozstrzygnięcia. *(Zmiana
-z 2026 r. — wcześniej Zarząd mógł zlecać takie roboty „wg własnego
-uznania", bez procedury.)*
-
-**Wyłączenia**: roboty na podstawie umów stałych w zakresie prac
-gazowych i elektrycznych nie podlegają przetargom.
+1. **Ustalenie wartości zamówienia** — Dział Techniczny sporządza wycenę
+   (a dla kwot powyżej 50 000 zł — kosztorys inwestorski) przed wyborem
+   trybu postępowania (§ 7 ust. 1). Zamówienia nie wolno sztucznie
+   dzielić, by obejść progi kwotowe (§ 7 ust. 3–4).
+2. **Wybór trybu** na podstawie ustalonej wartości:
+   - **do 5 000 zł** → zamówienie z wolnej ręki, bez postępowania
+     konkurencyjnego (§ 18 ust. 2 lit. a);
+   - **do 50 000 zł** → zapytanie o cenę, skierowane do min. 3
+     wykonawców (§ 17 ust. 2 lit. a, ust. 3);
+   - **powyżej 50 000 zł** → przetarg — tryb podstawowy (§ 3 ust. 5,
+     § 8).
+   Zapytanie o cenę lub wolna ręka są też dopuszczalne niezależnie od
+   kwoty, gdy wcześniejszy przetarg (odpowiednio: dwukrotny lub
+   dwukrotny + jednokrotne zapytanie o cenę) nie dał rezultatu
+   (§ 17 ust. 2 lit. b, § 18 ust. 2 lit. b — to drugie wymaga zgody Rady
+   Nadzorczej).
+3. **Przetarg**: ogłoszenie w siedzibie Spółdzielni, na stronie
+   internetowej oraz w prasie lokalnej/komunikacji elektronicznej,
+   termin składania ofert min. 14 dni (§ 8 ust. 2, § 13) → Komisja
+   Przetargowa jawnie otwiera oferty (§ 14) → bada, ocenia, ewentualnie
+   negocjuje z oferentami (§ 15) → wybiera najkorzystniejszą ofertę
+   (§ 16) → przekazuje protokół **Zarządowi do zatwierdzenia**
+   (§ 9 ust. 7).
+4. **Zapytanie o cenę / wolna ręka**: czynności wykonuje Dział Techniczny
+   po zatwierdzeniu przez Zarząd; wyboru wykonawcy dokonuje wprost
+   Zarząd (§ 4 ust. 8, § 12 ust. 4).
+5. **Zabezpieczenie** należytego wykonania umowy — Zamawiający może go
+   żądać; podstawowa forma to kaucja gwarancyjna, standardowo 10%
+   wynagrodzenia za całość zamówienia (§ 23).
+6. **Umowa** pisemna, zawierana w terminie 30 dni od zawiadomienia
+   wybranego wykonawcy o wyborze oferty (§ 20).
+7. **Archiwizacja**: dokumentację postępowania przechowuje Dział
+   Techniczny min. 5 lat od zakończenia realizacji zamówienia, dłużej
+   przy umowach objętych rękojmią/gwarancją (§ 24 ust. 1).
 
 **Systemy/narzędzia używane**: DO UZUPEŁNIENIA.
 
-**Częstotliwość**: na żądanie (każdy remont powyżej progu kwotowego).
+**Częstotliwość**: na żądanie — każde zamówienie na roboty budowlane,
+dostawy lub usługi finansowane w całości ze środków Spółdzielni
+(§ 1 ust. 1). Nie dotyczy awarii, likwidacji ich skutków, zdarzeń
+losowych i katastrof (§ 3 ust. 6) — te są zlecane poza tą procedurą.
 
 **Co może pójść nie tak / na co uważać**:
-- Próg **80 000 zł** może się zmieniać rok do roku (Rada Nadzorcza może
-  go korygować) — sprawdź aktualną wartość przed założeniem, że dana
-  robota wymaga/nie wymaga przetargu.
+- **Progi kwotowe (5 000 zł / 50 000 zł) zmienia wyłącznie Rada
+  Nadzorcza**, nie rzadziej niż raz na 3 lata, na wniosek Zarządu, w
+  formie uchwały — bez zmiany treści samego regulaminu (§ 7 ust. 5).
+  Sprawdź aktualną uchwałę przed założeniem, że dany próg wciąż
+  obowiązuje.
+- Regulamin obejmuje **też dostawy i usługi, nie tylko roboty
+  budowlane/remonty** (§ 1 ust. 1, § 2 lit. i–j) — dotyczy więc też np.
+  zakupów sprzętu, oprogramowania czy usług IT. W strukturze
+  organizacyjnej nikt nie jest jednak jawnie wyznaczony jako właściciel
+  zakupów IT — patrz [`../it-systemy/`](../it-systemy/).
 - Rozbicie jednego zamówienia na kilka mniejszych w celu obejścia progu
-  jest zabronione.
-- Tylko jedna ważna oferta = przetarg automatycznie unieważniony —
-  warto zadbać o realne zainteresowanie min. kilku wykonawców.
+  jest zabronione (§ 7 ust. 3).
+- Tylko jedna ważna oferta w przetargu, albo mniej niż 3 oferty w
+  zapytaniu o cenę → co do zasady unieważnienie postępowania (§ 19
+  ust. 1), z wyjątkiem szczególnego trybu za zgodą Zarządu
+  (§ 19 ust. 2).
 
-**Źródło / podstawa**: Regulamin udzielania zamówień na roboty i usługi
-(uchwała RN nr 33/R/26 z 22.04.2026, na podstawie § 49 ust. 1 pkt 21
-Statutu) — plik `regulamin-przetargow.pdf`.
+**Źródło / podstawa**: [Regulamin wyboru wykonawców robót, dostaw i
+usług](../zrodla/md/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md)
+(uchwała Rady Nadzorczej nr 62/R/26, na podstawie
+[statut § 49 ust. 1 pkt 18](../zrodla/md/statut.md#par-49)) — **aktualny**
+regulamin, zastępujący wcześniejszy
+[`regulamin-przetargow.md`](../zrodla/md/regulamin-przetargow.md) (próg
+80 000 zł) — ten ostatni jest **nieaktualny**, zachowany w repozytorium
+wyłącznie dla historii, patrz
+[`zrodla/spis-dokumentow.md`](../zrodla/spis-dokumentow.md).
 
-**Ostatnia aktualizacja**: 2026-09-25 (pierwsza wersja).
+**Ostatnia aktualizacja**: 2026-09-29 — poprawiono na podstawie
+aktualnego regulaminu; poprzednia wersja tego pliku błędnie bazowała na
+zastąpionym `regulamin-przetargow.md` (próg 80 000 zł, skład Komisji
+5 osób z delegacją Rady Nadzorczej — te dane były nieaktualne).

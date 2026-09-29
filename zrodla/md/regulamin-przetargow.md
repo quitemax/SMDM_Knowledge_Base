@@ -1,5 +1,16 @@
 # Regulamin udzielania zamówień na roboty i usługi przez SM „Doły-Marysińska”
 
+> ⚠️ **NIEAKTUALNY — zastąpiony.** Ten regulamin (próg przetargu:
+> roboty powyżej 80 000 zł, zapytanie ofertowe do 80 000 zł) został
+> zastąpiony przez
+> [`regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md`](regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md)
+> (uchwała Rady Nadzorczej nr 62/R/26; progi: zapytanie o cenę do
+> 50 000 zł, wolna ręka do 5 000 zł; zakres poszerzony też o dostawy i
+> usługi, nie tylko roboty budowlane). Plik zachowany w repozytorium
+> wyłącznie jako materiał historyczny — patrz
+> [`../spis-dokumentow.md`](../spis-dokumentow.md). **Nie używaj progów
+> ani trybów opisanych poniżej do bieżących decyzji.**
+
 *(tekst jednolity)*
 
 ## Spis treści

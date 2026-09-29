@@ -54,7 +54,7 @@ nazwę pliku co PDF, więc łatwo je ze sobą powiązać.
 | Dokument | PDF | Markdown | Opis |
 |---|---|---|---|
 | Regulamin Komisji Przetargowej (lokale mieszkalne i garaże) | [pdf](pdf/regulamin-komisji-przetargowej-i-organizowania-przetargow-na-lokale-mieszkalne-i-garaze.pdf) | [md](md/regulamin-komisji-przetargowej-i-organizowania-przetargow-na-lokale-mieszkalne-i-garaze.md) | Działanie Komisji Przetargowej i organizowanie przetargów na lokale mieszkalne i garaże odzyskane przez Spółdzielnię. |
-| Regulamin przetargów (nieaktualny) | [pdf](pdf/regulamin-przetargow.pdf) | [md](md/regulamin-przetargow.md) | Uchwała zmieniająca nazwę dawnego "Regulaminu organizowania licytacji..." na drodze do obecnego regulaminu poniżej — **zastąpiony**, zachowany dla historii. |
+| Regulamin przetargów (nieaktualny) | [pdf](pdf/regulamin-przetargow.pdf) | [md](md/regulamin-przetargow.md) | Uchwała zmieniająca nazwę dawnego "Regulaminu organizowania licytacji..." na drodze do obecnego regulaminu poniżej — **zastąpiony przez „Regulamin wyboru wykonawców robót, dostaw i usług" poniżej (próg 80 000 zł → 50 000/5 000 zł), zachowany wyłącznie dla historii, nie stosować.** |
 | Regulamin wyboru wykonawców robót, dostaw i usług (aktualny) | [pdf](pdf/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.pdf) | [md](md/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md) | Aktualnie obowiązujące zasady i tryb wyboru wykonawców robót budowlanych, dostaw i usług (uchwała nr 62/R/26). |
 
 ## Porządek, technika, inne
