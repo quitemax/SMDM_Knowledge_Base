@@ -87,7 +87,7 @@ wybór i za zapisy umowy: uprawnienia, plan BIOZ, ubezpieczenie OC, kierownik ro
 |---|---|
 | Ustawa z 29.09.1994 r. o rachunkowości | sprawozdanie finansowe spółdzielni |
 | Ustawa o podatku dochodowym od osób prawnych | zwolnienia dotyczące gospodarki zasobami mieszkaniowymi |
-| Ustawa z 11.09.2019 r. — Prawo zamówień publicznych | wiąże spółdzielnię tylko w określonych przypadkach (np. zamówienia sektorowe, dofinansowanie publiczne) — sprawdź, czy w ogóle was dotyczy |
+| Ustawa z 11.09.2019 r. — Prawo zamówień publicznych | **Rozstrzygnięte 2026-09-29: co do zasady NIE dotyczy SMDM** dla typowych zamówień na roboty/remonty budynków mieszkalnych — patrz analiza w [`../administracja-techniczna/procedura-przetargowa.md`](../administracja-techniczna/procedura-przetargowa.md#pzp) |
 | Kodeks cywilny — umowa o roboty budowlane (art. 647 i nast.), rękojmia, gwarancja | podstawa umów z wykonawcami |
 
 ## 9. Dane osobowe i sprawy lokatorskie

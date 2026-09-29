@@ -89,6 +89,51 @@ losowych i katastrof (§ 3 ust. 6) — te są zlecane poza tą procedurą.
   ust. 1), z wyjątkiem szczególnego trybu za zgodą Zarządu
   (§ 19 ust. 2).
 
+<a id="pzp"></a>
+**Czy Prawo zamówień publicznych (PZP) dotyczy tej procedury? Co do
+zasady nie.** Analiza zakresu podmiotowego ustawy (rozstrzygnięcie
+długo wiszącej flagi „sprawdź, czy dotyczy" —
+[`../zrodla/przepisy-prawne-zewnetrzne.md`](../zrodla/przepisy-prawne-zewnetrzne.md)):
+- SMDM nie jest **zamawiającym publicznym** — nie jest jednostką
+  sektora finansów publicznych ani osobą prawną finansowaną w >50%,
+  kontrolowaną lub nadzorowaną przez podmioty publiczne (Spółdzielnia
+  jest zarządzana przez własne organy — WZ/RN/Zarząd — nie przez
+  administrację publiczną) —
+  [art. 4](../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-4)
+  ustawy.
+- SMDM nie jest **zamawiającym sektorowym** — nie prowadzi działalności
+  sieciowej (woda/energia/transport/poczta) jako operator infrastruktury
+  na prawach szczególnych/wyłącznych, tylko jako zwykły odbiorca tych
+  usług —
+  [art. 5](../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-5).
+- SMDM może stać się **zamawiającym subsydiowanym** tylko, jeśli
+  **łącznie** spełnione są trzy warunki: (1) ponad 50% wartości
+  konkretnego zamówienia finansowane ze środków publicznych, (2)
+  wartość zamówienia równa lub przekraczająca **progi unijne**
+  (rzędu milionów zł dla robót budowlanych), **oraz** (3) przedmiotem
+  zamówienia są roboty inżynierii lądowej/wodnej z załącznika II
+  dyrektywy 2014/24/UE, albo budowa **szpitali, obiektów
+  sportowo-rekreacyjnych, budynków szkolnych/szkół wyższych lub
+  budynków administracji publicznej** —
+  [art. 6](../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-6).
+  **Budynki mieszkalne nie są na tej liście** — nawet duża inwestycja
+  remontowa/termomodernizacyjna dofinansowana w większości ze środków
+  publicznych (np. premia termomodernizacyjna z BGK) **nie uruchamia
+  PZP**, bo warunek (3) nigdy nie jest spełniony dla zwykłego budynku
+  mieszkalnego.
+- **Wniosek**: dla typowych zamówień SMDM na roboty budowlane, dostawy
+  i usługi (w tym remonty, termomodernizację, zakupy IT) obowiązuje
+  wyłącznie własny
+  [regulamin wyboru wykonawców](../zrodla/md/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md)
+  opisany w tym pliku — **nie PZP**.
+- **DO UZUPEŁNIENIA / zastrzeżenie**: to jest analiza samej ustawy PZP,
+  nie sprawdzenie każdej możliwej umowy grantowej z osobna —
+  niektóre programy dofinansowania (np. z gminnych/wojewódzkich
+  funduszy) mogą **umownie** narzucać „zasadę konkurencyjności" jako
+  warunek dotacji, niezależnie od tego, czy PZP formalnie się stosuje —
+  to wymagałoby sprawdzenia konkretnej umowy o dofinansowanie, jeśli
+  taka wystąpi.
+
 **Źródło / podstawa**: [Regulamin wyboru wykonawców robót, dostaw i
 usług](../zrodla/md/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md)
 (uchwała Rady Nadzorczej nr 62/R/26, na podstawie
@@ -100,6 +145,7 @@ wyłącznie dla historii, patrz
 [`zrodla/spis-dokumentow.md`](../zrodla/spis-dokumentow.md).
 
 **Ostatnia aktualizacja**: 2026-09-29 — poprawiono na podstawie
-aktualnego regulaminu; poprzednia wersja tego pliku błędnie bazowała na
-zastąpionym `regulamin-przetargow.md` (próg 80 000 zł, skład Komisji
-5 osób z delegacją Rady Nadzorczej — te dane były nieaktualne).
+aktualnego regulaminu (poprzednia wersja błędnie bazowała na
+zastąpionym `regulamin-przetargow.md`, próg 80 000 zł); dodano analizę
+zakresu podmiotowego ustawy Prawo zamówień publicznych, rozstrzygającą
+czy PZP dotyczy SMDM.
