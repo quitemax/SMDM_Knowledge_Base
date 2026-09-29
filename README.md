@@ -12,24 +12,25 @@ można rozważyć migrację do dedykowanego narzędzia (np. BookStack).
 
 ## Struktura
 
-- [`struktura-organizacyjna/`](struktura-organizacyjna/) — kto jest kim,
-  komu podlega, jakie stanowiska istnieją, mapa zastępowalności, podział
-  terenowy.
-- [`zarzad/`](zarzad/) — procesy zarządcze, decyzje, uchwały, sprawy
-  statutowe.
-- [`rada-nadzorcza/`](rada-nadzorcza/) — zasady działania Rady Nadzorczej,
-  podejmowanie uchwał, wybór członków Zarządu, stałe komisje Rady.
-- [`administracja-techniczna/`](administracja-techniczna/) — procesy
-  związane z budynkami, przeglądami, zgłoszeniami, przetargami.
-- [`czynsze-ksiegowosc/`](czynsze-ksiegowosc/) — procesy finansowe:
-  czynsze, fundusz remontowy, windykacja, faktury.
-- [`kadry/`](kadry/) — procesy pracownicze: onboarding, offboarding,
-  wynagrodzenia.
-- [`it-systemy/`](it-systemy/) — dokumentacja techniczna systemów
-  używanych w spółdzielni.
-- [`procedury-mieszkancow/`](procedury-mieszkancow/) — czego mieszkaniec
-  może się spodziewać, jak zgłasza sprawy (do wykorzystania też przy
-  komunikacji zewnętrznej).
+- [`struktura-organizacyjna/`](struktura-organizacyjna/README.md) — kto
+  jest kim, komu podlega, jakie stanowiska istnieją, mapa
+  zastępowalności, podział terenowy.
+- [`zarzad/`](zarzad/README.md) — procesy zarządcze, decyzje, uchwały,
+  sprawy statutowe.
+- [`rada-nadzorcza/`](rada-nadzorcza/README.md) — zasady działania Rady
+  Nadzorczej, podejmowanie uchwał, wybór członków Zarządu, stałe komisje
+  Rady.
+- [`administracja-techniczna/`](administracja-techniczna/README.md) —
+  procesy związane z budynkami, przeglądami, zgłoszeniami, przetargami.
+- [`czynsze-ksiegowosc/`](czynsze-ksiegowosc/README.md) — procesy
+  finansowe: czynsze, fundusz remontowy, windykacja, faktury.
+- [`kadry/`](kadry/README.md) — procesy pracownicze: onboarding,
+  offboarding, wynagrodzenia.
+- [`it-systemy/`](it-systemy/README.md) — dokumentacja techniczna
+  systemów używanych w spółdzielni.
+- [`procedury-mieszkancow/`](procedury-mieszkancow/README.md) — czego
+  mieszkaniec może się spodziewać, jak zgłasza sprawy (do wykorzystania
+  też przy komunikacji zewnętrznej).
 - [`zrodla/`](zrodla/) — oryginalne regulaminy i statut (PDF) oraz ich
   wersje przekonwertowane na Markdown, na podstawie których zbudowano
   powyższe foldery; pełna lista z opisami w
