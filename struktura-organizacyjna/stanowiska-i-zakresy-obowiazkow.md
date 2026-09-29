@@ -79,7 +79,8 @@
 - **PR** (ds. obsługi prawnej): zastępstwo prawne, opinie prawne, obsługa
   prawna zebrań WZ i RN, egzekucja, wzory umów.
 - **PRO** (ds. ochrony danych osobowych): obowiązki ADO/RODO, szkolenia,
-  coroczny przegląd systemu ochrony danych.
+  coroczny przegląd systemu ochrony danych — patrz
+  [`ochrona-danych-osobowych.md`](ochrona-danych-osobowych.md).
 - **PP** (ds. pracowniczych i sekretariatu): kadry, dokumentacja
   pracownicza, dyscyplina pracy, kancelaria/sekretariat Zarządu.
 - **PB** (ds. bhp i p.poż.): analizy i kontrole bhp/ppoż., szkolenia,

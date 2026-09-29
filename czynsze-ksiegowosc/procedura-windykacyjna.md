@@ -44,7 +44,18 @@ zamieszkujących, najemców/dzierżawców, osób bez tytułu prawnego):
 6. **Eksmisja** (jeśli dotyczy) — PR, po pełnomocnictwie od Zarządu,
    może skierować pozew o eksmisję, gdy osoba utraciła prawo
    lokatorskie, zajmuje lokal bez tytułu prawnego, a egzekucja była
-   bezskuteczna.
+   bezskuteczna. **Ochrona lokatora obowiązuje też przy utracie
+   spółdzielczego prawa do lokalu** — ustanie stosunku prawnego nie
+   może następować na warunkach mniej korzystnych dla lokatora niż
+   wynika z ustawy o ochronie praw lokatorów
+   ([art. 11 ust. 8](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-11)).
+   Do dnia opróżnienia lokalu osoba zajmująca go bez tytułu prawnego
+   płaci **odszkodowanie w wysokości czynszu, jaki Spółdzielnia mogłaby
+   uzyskać z najmu** (uzupełniająco — jeśli odszkodowanie nie pokrywa
+   strat, Spółdzielnia może żądać odszkodowania uzupełniającego) —
+   [art. 18](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-18)
+   ustawy (to prawdopodobnie podstawa prawna „odszkodowania za
+   bezumowne korzystanie" wspomnianego niżej).
 
 **Możliwość ugody na każdym etapie** — na wniosek dłużnika, złożenie
 wniosku zawiesza postępowanie z kroku 2 (nie postępowanie sądowe/
@@ -68,8 +79,41 @@ w roku).
   dłużnika — warto to jasno komunikować już na etapie wezwania.
 - Zasada zaliczania spłat wg art. 451 k.c. — kolejność zaliczania wpłat
   ma znaczenie prawne, nie tylko księgowe.
+- **Sąd musi w wyroku eksmisyjnym orzec o uprawnieniu (albo braku
+  uprawnienia) do najmu socjalnego lokalu** — obowiązek zapewnienia
+  takiego lokalu ciąży na **gminie**, nie na Spółdzielni
+  ([art. 14 ust. 1](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14)).
+  Do czasu złożenia przez gminę oferty najmu socjalnego wykonanie
+  eksmisji jest **wstrzymane** (ust. 6) — realny wpływ na czas trwania
+  całej sprawy, niezależny od Spółdzielni.
+- **Sąd nie może odmówić** tego uprawnienia m.in. kobiecie w ciąży,
+  małoletniemu, osobie niepełnosprawnej/ubezwłasnowolnionej (i jej
+  opiekunowi), obłożnie choremu, emerytowi/renciście spełniającemu
+  kryteria pomocy społecznej, bezrobotnemu — **chyba że mają gdzie
+  indziej zamieszkać** ([art. 14 ust. 4](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14)).
+  Ta ochrona **dotyczy też byłych członków SMDM, którzy utracili
+  spółdzielcze prawo do lokalu** (ust. 7 — wyjątek od zasady, że osoby
+  bez tytułu prawnego do lokalu spoza publicznego zasobu mieszkaniowego
+  co do zasady tej ochrony nie mają).
+- **Moratorium zimowe**: wyroków eksmisyjnych **nie wykonuje się od 1
+  listopada do 31 marca**, jeśli eksmitowanemu nie wskazano lokalu, do
+  którego ma się przenieść —
+  [art. 16](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-16).
+- **Wyjątki od powyższych ochron** (brak prawa do lokalu socjalnego,
+  brak moratorium zimowego): eksmisja z powodu przemocy w rodzinie,
+  rażącego/uporczywego naruszania porządku domowego, albo zajęcia
+  lokalu bez żadnego tytułu prawnego —
+  [art. 17](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-17)
+  (sąd może mimo to przyznać lokal socjalny, jeśli uzasadniają to
+  zasady współżycia społecznego).
 
 **Źródło / podstawa**: `regulamin-windykacji.pdf` (tekst jednolity 2018,
-uchwała RN nr 22/R/18 z 25.09.2018, zmiana 27/R/18) § 1–6.
+uchwała RN nr 22/R/18 z 25.09.2018, zmiana 27/R/18) § 1–6; dla kroku
+„eksmisja" — ustawa o ochronie praw lokatorów, mieszkaniowym zasobie
+gminy i o zmianie Kodeksu cywilnego,
+[art. 11](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-11),
+[14](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14),
+[16](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-16)–[18](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-18).
 
-**Ostatnia aktualizacja**: 2026-09-25 (pierwsza wersja).
+**Ostatnia aktualizacja**: 2026-09-29 (dodano ochronę prawną lokatora
+przy eksmisji — ustawa o ochronie praw lokatorów).
