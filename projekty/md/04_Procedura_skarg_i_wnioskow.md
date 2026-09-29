@@ -34,9 +34,9 @@ Procedura zapewnia jednolity, możliwy do odtworzenia sposób obsługi skarg i w
 
 ## § 4. Skargi na organy
 
-1. Skargi na Zarząd rozpatruje organ właściwy zgodnie ze Statutem i prawem.
+1. Skargi na Zarząd rozpatruje organ właściwy, czyli Rada Nadzorcza (Statut § 49 ust. 1 pkt 7).
 
-2. Skargi na członka Rady rozpatruje organ właściwy, z wyłączeniem zainteresowanego.
+2. Skargi na członka Rady rozpatruje organ właściwy, czyli Rada Nadzorcza, z wyłączeniem zainteresowanego.
 
 3. Skargi dotyczące całego organu wymagają wskazania niezależnego
    trybu rozpatrzenia [●] — **to samo nierozstrzygnięte pytanie co w
