@@ -36,6 +36,53 @@ oryginalnych `.docx`:
 tego dokumentu): 1.4, 1.5, oraz wszystkie uwagi szczegółowe do
 poszczególnych dokumentów w sekcji 2.
 
+## Status poprawek (trzecia tura — świeży przegląd Kodeksu)
+
+Przy ponownym, niezależnym przeczytaniu dok. 01 (bez opierania się na
+poprzedniej ocenie) znalazłem cztery dodatkowe, konkretne problemy —
+wszystkie już poprawione w [`md/01_...md`](md/01_Kodeks_odpowiedzialnego_sprawowania_mandatu.md):
+
+1. **§ 4 ust. 3 zakładał nieistniejący mechanizm.** Kodeks odsyła do
+   „zdania odrębnego na zasadach określonych w regulaminie organu" —
+   sprawdziłem oba regulaminy: **Regulamin Zarządu** rzeczywiście
+   przewiduje zdanie odrębne w protokole, ale **Regulamin Rady
+   Nadzorczej — wcale**. Dla Rady ten przepis Kodeksu odsyłał donikąd.
+   Oznaczone wprost, z rekomendacją uzupełnienia Regulaminu RN.
+2. **§ 4 ust. 4 „sabotowanie" nie miało definicji.** Niezdefiniowany,
+   emocjonalnie nacechowany termin w dokumencie mającym *zapobiegać*
+   konfliktom to ryzyko — może sam stać się przedmiotem sporu o to, co
+   nim jest. Zastąpione konkretnym katalogiem zachowań.
+3. **§ 13 był całkowicie abstrakcyjny w kwestii konsekwencji.** Nie
+   wskazywał żadnego realnego środka. Doprecyzowano: odwołanie z
+   Zarządu przez RN (Statut § 55 ust. 2) i odwołanie z Rady przez WZ
+   (Statut § 48) to already-existing, konkretne środki — nazwane wprost,
+   razem z uwagą, że nie ma dziś żadnej sankcji „pośredniej" między
+   brakiem reakcji a pełnym odwołaniem.
+4. **Brak zasady nieretroakcji.** Dokument w kilku miejscach wyraźnie
+   nawiązuje do niedawnych wydarzeń (patrz uwaga o „skrojeniu pod jedną
+   osobę" wyżej) — bez jawnej zasady, że Kodeks ocenia zachowania od
+   dnia wejścia w życie, mógłby być odczytany jako próba wstecznego
+   rozliczenia. Dodano wprost w § 15.
+
+Dodatkowo: § 8 dostał odesłanie do
+[`../struktura-organizacyjna/ochrona-danych-osobowych.md`](../struktura-organizacyjna/ochrona-danych-osobowych.md).
+
+**Pozostałych 6 dokumentów nie przeglądałem ponownie w tej turze** —
+jeśli chcesz, mogę zrobić to samo świeże spojrzenie na każdy z nich.
+
+## Status: ustawa o ochronie sygnalistów — tylko zweryfikowana, nie wdrożona do bazy
+
+Artykuły cytowane w poprawce dok. 03 (art. 23, 25, 26, 30) zostały
+zweryfikowane **doraźnie**, pojedynczym zapytaniem do tekstu ustawy
+(Dz.U. 2024 poz. 928) — **nie przeszły przez pełny proces konwersji**
+stosowany dla pozostałych ~40 aktów w `przepisy-prawne/` (pobranie PDF,
+konwersja z zachowaniem struktury artykułów i kotwic, wpis do
+`przepisy-prawne/README.md` i `zrodla/przepisy-prawne-zewnetrzne.md`).
+Cytaty są wiarygodne (zweryfikowane wprost z tekstu ustawy), ale **nie
+można jeszcze linkować** do tej ustawy tak, jak do pozostałych aktów w
+tej bazie. Do zrobienia osobno, jeśli pakiet dokumentów etycznych ma
+być traktowany na równi z resztą bazy wiedzy.
+
 ## Co zostało ocenione
 
 1. `01_Kodeks_odpowiedzialnego_sprawowania_mandatu`

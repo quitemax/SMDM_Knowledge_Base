@@ -7,7 +7,11 @@
 
 **UWAGA: **Projekt powstał przez przebudowę pierwotnego Kodeksu Etyki Organów Spółdzielni. Przed przyjęciem wymaga weryfikacji przez radcę prawnego Spółdzielni oraz sprawdzenia zgodności ze Statutem i regulaminami organów.
 
-**Wersja 2 (po audycie)** — poprawiono § 6 (uogólniono zapis o ekspertyzie specjalistycznej, tak by dotyczył każdej dziedziny wiedzy fachowej w Radzie, nie tylko IT) oraz § 15 (dodano konkretną propozycję trybu przyjęcia). Pełny audyt — patrz [`../audyt-propozycji-etycznych.md`](../audyt-propozycji-etycznych.md).
+**Wersja 2 (po audycie)** — poprawiono § 6 (uogólniono zapis o ekspertyzie specjalistycznej, tak by dotyczył każdej dziedziny wiedzy fachowej w Radzie, nie tylko IT) oraz § 15 (dodano konkretną propozycję trybu przyjęcia).
+
+**Wersja 3 (świeży przegląd)** — doprecyzowano § 4 ust. 3 (zdanie odrębne — brak tej podstawy w Regulaminie Rady Nadzorczej) i ust. 4 (niejasne pojęcie „sabotowania" zastąpione konkretnymi przykładami); § 13 uzupełniono o wskazanie realnych, już istniejących środków (odwołanie z funkcji), zamiast pozostawiać temat całkowicie abstrakcyjnym; § 15 dodano zasadę braku działania wstecz; § 8 dodano odesłanie do polityki RODO.
+
+Pełny audyt — patrz [`../audyt-propozycji-etycznych.md`](../audyt-propozycji-etycznych.md).
 
 # Preambuła
 
@@ -57,9 +61,29 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
 
 2. Stanowisko organu powstaje w trybie właściwym dla tego organu. Pojedynczy członek nie przedstawia własnego stanowiska jako stanowiska organu bez odpowiedniego upoważnienia.
 
-3. Członek, który głosował przeciw uchwale, może zgłosić zdanie odrębne na zasadach określonych w regulaminie organu.
+3. Członek, który głosował przeciw uchwale, może zgłosić zdanie odrębne
+   na zasadach określonych w regulaminie organu. **Uwaga po audycie**:
+   dla Zarządu taka podstawa istnieje wprost (protokół zawiera „ew.
+   zdanie odrębne" — Regulamin Zarządu, patrz
+   [`../../zarzad/zasady-dzialania.md`](../../zarzad/zasady-dzialania.md)),
+   ale **Regulamin Rady Nadzorczej nie zawiera dziś przepisu o zdaniu
+   odrębnym** (sprawdzone — brak tego pojęcia w całym dokumencie). Ten
+   ustęp Kodeksu zakłada więc mechanizm, który dla Rady faktycznie nie
+   istnieje. Przed przyjęciem Kodeksu należy albo uzupełnić Regulamin
+   Rady Nadzorczej o tę instytucję, albo usunąć/przeformułować ten
+   ustęp tak, by nie sugerował uprawnienia, którego nie ma.
 
-4. Po prawidłowym podjęciu decyzji członek nie powinien podejmować działań mających na celu jej sabotowanie, zachowując prawo do korzystania ze środków przewidzianych prawem i Statutem.
+4. Po prawidłowym podjęciu decyzji członek nie podejmuje działań
+   **sprzecznych z jej wykonaniem** — w szczególności nie instruuje
+   pracowników ani kontrahentów, by uchwały nie wykonywali, nie
+   przedstawia publicznie uchwały jako nieobowiązującej, oraz nie
+   utrudnia jej realizacji poza trybem przewidzianym prawem i
+   Statutem — zachowując przy tym prawo do korzystania ze środków
+   przewidzianych prawem i Statutem (odwołanie, zaskarżenie uchwały do
+   sądu, zdanie odrębne). *(Doprecyzowane po audycie — pierwotne
+   „sabotowanie" nie miało definicji, co czyniło ten przepis trudnym do
+   stosowania i podatnym na nadużycie jako niejasny zarzut wobec osoby
+   głosującej mniejszościowo.)*
 
 ## § 5. Standard świadomego wykonywania mandatu
 
@@ -117,7 +141,7 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
 
 4. Obowiązek poufności trwa także po zakończeniu mandatu, z zastrzeżeniem praw członków Spółdzielni do informacji i obowiązków wynikających z prawa.
 
-5. Szczegółowe zasady publikacji informacji określają Statut, przepisy prawa i właściwe standardy komunikacji.
+5. Szczegółowe zasady publikacji informacji określają Statut, przepisy prawa i właściwe standardy komunikacji. Zasady przetwarzania danych osobowych mieszkańców/członków, do których członkowie organów mają dostęp — patrz [`../../struktura-organizacyjna/ochrona-danych-osobowych.md`](../../struktura-organizacyjna/ochrona-danych-osobowych.md).
 
 ## § 9. Równe traktowanie i relacje ze spółdzielcami
 
@@ -154,6 +178,30 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
 ## § 13. Naruszenia Kodeksu
 
 1. Kodeks nie ustanawia sankcji wykraczających poza kompetencje właściwego organu wynikające z prawa, Statutu i regulaminów.
+
+1a. **Istniejące, statutowe środki** (dla jasności, nie jako nowe
+   uprawnienie — patrz § 1 ust. 2): naruszenie Kodeksu przez członka
+   Zarządu może stanowić podstawę **odwołania go z Zarządu przez Radę
+   Nadzorczą**, z pisemnym uzasadnieniem (Statut § 55 ust. 2); naruszenie
+   przez członka Rady Nadzorczej może stanowić podstawę **odwołania go
+   z Rady przez Walne Zgromadzenie** większością 2/3 głosów (Statut
+   § 48). **Kodeks nie przewiduje dziś żadnej sankcji pośredniej**
+   (upomnienie, nagana) — jedynym dostępnym środkiem pozostaje pełne
+   odwołanie z organu, co jest krokiem poważnym i niewspółmiernym do
+   drobniejszych naruszeń. Warto rozważyć w toku dalszych prac, czy
+   pakiet dokumentów powinien przewidywać także łagodniejsze reakcje
+   (np. formalne zwrócenie uwagi przez Prezydium/Przewodniczącego), czy
+   pozostać przy zasadzie „albo nic, albo odwołanie".
+
+1b. **Ogólne „wykluczenie ze Spółdzielni" (utrata członkostwa)
+   nie jest tu adekwatnym środkiem** i nie powinno być z tym mylone —
+   niezależnie od wątpliwości co do jego dzisiejszej podstawy prawnej
+   w ogóle (patrz
+   [`../../czynsze-ksiegowosc/procedura-windykacyjna.md#wykluczenie`](../../czynsze-ksiegowosc/procedura-windykacyjna.md#wykluczenie)),
+   naruszenie Kodeksu przez sprawowanie mandatu nie jest tym samym co
+   niewykonywanie obowiązków członkowskich, więc nawet gdyby ta
+   podstawa istniała, nie byłaby tu naturalnym środkiem — właściwym jest
+   odwołanie z funkcji (ust. 1a), nie utrata członkostwa.
 
 2. Postępowanie dotyczące naruszenia powinno zapewniać bezstronność, możliwość przedstawienia wyjaśnień oraz wyłączenie osoby, której dotyczy sprawa.
 
@@ -194,7 +242,16 @@ Proporcjonalność — zakres procedury i kontroli powinien odpowiadać wadze i 
 
 3. Członkowie organów potwierdzają zapoznanie się z Kodeksem.
 
-4. Data wejścia w życie: [●].
+4. **Brak działania wstecz**: Kodeks ocenia zachowania od dnia jego
+   wejścia w życie. Nie służy do wstecznej kwalifikacji zachowań
+   sprzed tej daty jako „naruszenia Kodeksu" — co nie ogranicza oceny
+   takich zachowań na podstawie przepisów i regulaminów już wcześniej
+   obowiązujących. *(Dodane po audycie — dokument w kilku miejscach
+   wyraźnie nawiązuje do doświadczeń niedawnego okresu; jasna reguła
+   nieretroakcji zapobiega odbiorowi Kodeksu jako narzędzia do
+   rozliczania przeszłości, a nie ustanawiania standardu na przyszłość.)*
+
+5. Data wejścia w życie: [●].
 
 # Załącznik — podstawowe reguły praktyczne
 
