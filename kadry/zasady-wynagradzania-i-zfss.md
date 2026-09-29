@@ -2,7 +2,7 @@
 
 > To zaplecze regulaminowe, nie proces krok-po-krok — procesy kadrowe
 > (onboarding, offboarding, urlopy wypoczynkowe, odpowiedzialność
-> porządkowa) mają swoje osobne pliki w tym folderze.
+> porządkowa, czas pracy) mają swoje osobne pliki w tym folderze.
 
 ## Zasady wynagradzania
 

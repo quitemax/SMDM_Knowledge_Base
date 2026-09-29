@@ -83,9 +83,10 @@
   [`ochrona-danych-osobowych.md`](ochrona-danych-osobowych.md).
 - **PP** (ds. pracowniczych i sekretariatu): kadry, dokumentacja
   pracownicza, dyscyplina pracy — patrz
-  [`../kadry/urlopy-wypoczynkowe.md`](../kadry/urlopy-wypoczynkowe.md) i
+  [`../kadry/urlopy-wypoczynkowe.md`](../kadry/urlopy-wypoczynkowe.md),
   [`../kadry/odpowiedzialnosc-porzadkowa.md`](../kadry/odpowiedzialnosc-porzadkowa.md)
-  — kancelaria/sekretariat Zarządu.
+  i [`../kadry/czas-pracy.md`](../kadry/czas-pracy.md) — kancelaria/
+  sekretariat Zarządu.
 - **PB** (ds. bhp i p.poż.): analizy i kontrole bhp/ppoż., szkolenia,
   dochodzenia powypadkowe.
 - **PS**: utrzymanie obiektu siedziby Spółdzielni.
