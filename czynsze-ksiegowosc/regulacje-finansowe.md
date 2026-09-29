@@ -59,6 +59,9 @@
 - Odpady komunalne (§ 24): zaliczka = średniomiesięczne zużycie wody z
   roku poprzedniego × stawka wg uchwały Rady Miejskiej w Łodzi;
   rozliczenie w ciągu **90 dni** po zakończeniu rocznego okresu.
+  Ustawowe obowiązki Spółdzielni jako właściciela nieruchomości
+  (deklaracje do Gminy, segregacja, ryzyko podwyższonej opłaty) — patrz
+  [`../administracja-techniczna/gospodarka-odpadami.md`](../administracja-techniczna/gospodarka-odpadami.md).
 - Za niedogrzanie lokalu / brak ciepłej wody — upusty cenowe (§ 30); za
   unieruchomienie dźwigu >24h — bonifikata proporcjonalna (§ 31).
 

@@ -146,7 +146,8 @@
 - kontrola wykorzystania pralni, suszarni, boksów i pomieszczeń
   wspólnych,
 - kontrola wywozu nieczystości, przygotowywanie deklaracji podatkowych w
-  tym zakresie,
+  tym zakresie — patrz
+  [`../administracja-techniczna/gospodarka-odpadami.md`](../administracja-techniczna/gospodarka-odpadami.md),
 - nadzór nad utrzymaniem zieleni,
 - koordynacja odczytów liczników, kontrola zabezpieczeń pomieszczeń
   technicznych,

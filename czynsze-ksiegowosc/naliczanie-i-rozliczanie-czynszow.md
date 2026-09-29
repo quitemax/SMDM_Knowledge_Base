@@ -33,7 +33,9 @@ pod nadzorem **Członka Zarządu – Głównego Księgowego**.
    zobowiązania (potrącana najpierw z zaległościami), bez odsetek.
 4. **Odpady komunalne**: zaliczka = średniomiesięczne zużycie wody z
    roku poprzedniego × stawka Rady Miejskiej w Łodzi; rozliczenie w
-   ciągu 90 dni po zakończeniu rocznego okresu.
+   ciągu 90 dni po zakończeniu rocznego okresu. Ustawowe obowiązki
+   Spółdzielni (deklaracje do Gminy, segregacja) — patrz
+   [`../administracja-techniczna/gospodarka-odpadami.md`](../administracja-techniczna/gospodarka-odpadami.md).
 5. **Reklamacje rozliczenia** — termin **14 dni** od doręczenia (dot.
    podgrzania wody/c.o.), po tym terminie nieuwzględniane.
 
