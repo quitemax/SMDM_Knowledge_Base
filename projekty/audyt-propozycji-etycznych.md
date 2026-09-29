@@ -67,8 +67,42 @@ wszystkie już poprawione w [`md/01_...md`](md/01_Kodeks_odpowiedzialnego_sprawo
 Dodatkowo: § 8 dostał odesłanie do
 [`../struktura-organizacyjna/ochrona-danych-osobowych.md`](../struktura-organizacyjna/ochrona-danych-osobowych.md).
 
-**Pozostałych 6 dokumentów nie przeglądałem ponownie w tej turze** —
-jeśli chcesz, mogę zrobić to samo świeże spojrzenie na każdy z nich.
+## Status poprawek (czwarta tura — świeży przegląd dok. 02–07)
+
+Ten sam, niezależny sposób czytania zastosowany do pozostałych sześciu
+dokumentów. Znalezione i poprawione bezpośrednio w plikach:
+
+- **02 (konflikt interesów)**: § 3 — wskazano PM jako naturalnego
+  kandydata na prowadzącego rejestr oświadczeń (było zupełnie puste
+  `[●]`); § 4 — dodano rozstrzygnięcie remisu głosów przy wyłączeniu
+  (na korzyść wyłączenia — brakowało tego wcześniej); § 6 —
+  przypomnienie o statutowym zakazie łączenia funkcji RN/Zarząd
+  (Statut § 61), bezpośrednio istotne biorąc pod uwagę historię SMDM.
+- **03 (zgłaszanie nieprawidłowości)**: § 7 uzupełniony o rzeczywisty
+  katalog zakazanych działań odwetowych z ustawy (art. 11–12) i krąg
+  chronionych osób szerszy niż tylko pracownicy (art. 4); § 3
+  skrzyżowany odnośnikiem z tym samym pytaniem w dok. 04, żeby nie
+  rozjechały się w dwie różne odpowiedzi.
+- **04 (skargi i wnioski)**: § 3 ust. 5 — termin odpowiedzi zgrany ze
+  Statutem § 26 (1 miesiąc) zamiast pozostawiania `[●]` niezależnie od
+  już istniejącego przepisu; § 4 ust. 3 skrzyżowany odnośnikiem z dok.
+  03 (patrz wyżej).
+- **05 (standard decyzji)**: § 2 — dodano orientacyjny próg
+  „istotności" powiązany z progiem regulaminu zakupowego (50 000 zł)
+  zamiast zostawiać pojęcie całkowicie nieostre; nowy § 5a — archiwizacja
+  kart decyzji (nie było żadnej reguły przechowywania).
+- **06 (zakupy)**: § 6 doprecyzowany, żeby nie dublował materii już
+  opisanej w Standardzie IT (odesłanie zamiast równoległego opisu).
+- **07 (IT)**: § 2 zakotwiczony wprost w łańcuchu decyzyjnym dla
+  inwestycji (WZ → RN → Zarząd) opisanym już w tej bazie wiedzy — ten
+  Standard nie tworzy nowej ścieżki, tylko ją stosuje do IT; § 7 —
+  oznaczona realna luka: dokument mówił o „zatwierdzonych usługach AI",
+  nie wskazując nigdzie, kto je zatwierdza — jedyne miejsce w całym
+  pakiecie bez nawet placeholdera `[●]`.
+
+**Nadal otwarte po tej turze** (świadomie, wymaga decyzji ludzi, nie
+dokumentacyjnej poprawki): wspólna odpowiedź dla dok. 03/04 na pytanie
+„co gdy zarzut dotyczy całego organu"; wszystkie pozostałe `[●]`.
 
 ## Status: ustawa o ochronie sygnalistów — teraz w pełni wdrożona do bazy
 

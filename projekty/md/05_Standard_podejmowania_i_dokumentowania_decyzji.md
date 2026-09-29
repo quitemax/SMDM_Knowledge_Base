@@ -2,6 +2,8 @@
 
 **PROJEKT ROBOCZY — do dyskusji i weryfikacji prawnej**
 
+**Poprawki po świeżym przeglądzie**: § 2 (orientacyjny próg „istotności" powiązany z progiem regulaminu zakupowego), nowy § 5a (archiwizacja kart decyzji).
+
 **Tryb przyjęcia (propozycja)**: uchwała Rady Nadzorczej na podstawie
 § 49 ust. 1 pkt 21 Statutu — do potwierdzenia łącznie z trybem
 przyjęcia Kodeksu, patrz
@@ -15,6 +17,17 @@ Standard ma zapewnić, aby istotne decyzje były oparte na wystarczających info
 ## § 2. Kiedy stosować
 
 Standard stosuje się w szczególności do istotnych inwestycji, zakupów, zmian systemów obsługi, zobowiązań długoterminowych, projektów IT i decyzji o znaczącym wpływie na członków.
+
+**Orientacyjny próg „istotności" (dodane po audycie)**: pojęcie nie
+jest zdefiniowane liczbowo, co w praktyce zostawia ocenę Zarządowi/
+Radzie za każdym razem od nowa. Jako punkt odniesienia proponuje się
+wartość **50 000 zł** — próg, od którego regulamin zakupowy Spółdzielni
+wymaga już pełnego trybu przetargowego (patrz
+[`../../administracja-techniczna/procedura-przetargowa.md`](../../administracja-techniczna/procedura-przetargowa.md)) —
+zamiast tworzyć osobny, niepowiązany próg. Nie jest to sztywna reguła:
+sprawy poniżej tej kwoty, ale o dużym wpływie niefinansowym (np. zmiana
+dostawcy systemu obsługi czynszów), również powinny być traktowane jako
+istotne.
 
 ## § 3. Minimalny model decyzji
 
@@ -45,6 +58,16 @@ Dokumentacja powinna pozwalać osobie, która nie uczestniczyła w pierwotnej dy
 ## § 5. Eksperci
 
 Jeżeli decyzja wymaga wiedzy specjalistycznej, organ może zasięgnąć opinii wewnętrznego eksperta, niezależnego eksperta lub audytora. Opinie powinny wskazywać zakres ograniczeń i założeń.
+
+## § 5a. Archiwizacja kart decyzji
+
+Wypełnione karty decyzji przechowuje się w sposób umożliwiający
+odtworzenie historii sprawy — analogicznie do innych dokumentów
+organizacyjnych Spółdzielni (np. protokoły Walnego Zgromadzenia — **10
+lat**, Statut § 37 ust. 6). Właściciela tego obowiązku (np. PM) i
+dokładny okres przechowywania ustala się w uchwale przyjmującej
+Standard [●]. *(Dodane po audycie — pierwotna wersja nie precyzowała,
+kto i jak długo przechowuje karty.)*
 
 ## § 6. Przegląd po realizacji
 

@@ -2,6 +2,8 @@
 
 **PROJEKT ROBOCZY — do dyskusji i weryfikacji prawnej**
 
+**Poprawki po świeżym przeglądzie**: § 6 doprecyzowany, żeby nie dublował się z odrębnym Standardem IT.
+
 **Tryb przyjęcia (propozycja)**: uchwała Rady Nadzorczej na podstawie
 § 49 ust. 1 pkt 21 Statutu — do potwierdzenia łącznie z trybem
 przyjęcia Kodeksu, patrz
@@ -57,7 +59,7 @@ Osoba uczestnicząca w ocenie ofert ujawnia konflikt interesów i wyłącza się
 
 ## § 6. Vendor lock-in
 
-Przy systemach IT i usługach krytycznych należy ocenić możliwość zmiany dostawcy, eksportu danych, dostępności dokumentacji i kosztu migracji.
+Przy systemach IT i usługach krytycznych należy ocenić możliwość zmiany dostawcy, eksportu danych, dostępności dokumentacji i kosztu migracji. Szczegółowe zasady dla systemów IT — patrz [`07_Standard_IT_danych_i_technologii.md`](07_Standard_IT_danych_i_technologii.md) § 3 i § 8; ten paragraf stosuje tę samą zasadę do zakupów spoza IT (np. usług serwisowych, zarządzania nieruchomością), żeby nie ograniczać jej wyłącznie do technologii.
 
 ## § 7. Ocena wykonania
 

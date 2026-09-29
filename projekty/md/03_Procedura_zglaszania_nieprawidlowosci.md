@@ -72,7 +72,11 @@ rozmowy, który zgłaszający może sprawdzić i podpisać (art. 26 ust.
 
 2. Jeżeli zgłoszenie dotyczy osoby odpowiedzialnej za przyjmowanie zgłoszeń, kieruje się je do osoby zastępczej [●].
 
-3. Należy przewidzieć kanał dla zgłoszeń dotyczących całego Zarządu lub całej Rady [●].
+3. Należy przewidzieć kanał dla zgłoszeń dotyczących całego Zarządu
+   lub całej Rady [●] — **to samo pytanie co w Procedurze skarg i
+   wniosków** § 4 ust. 3 (patrz
+   [`04_Procedura_skarg_i_wnioskow.md`](04_Procedura_skarg_i_wnioskow.md));
+   oba dokumenty powinny dostać spójną odpowiedź.
 
 4. **Zgłoszenia zewnętrzne, niezależne od tej Procedury.** Zgłaszający
 może, bez uprzedniego zgłoszenia wewnętrznego, dokonać zgłoszenia do
@@ -138,6 +142,16 @@ potwierdzenie, jeśli go nie przekazano) — wymóg ustawowy
 ## § 7. Ochrona przed odwetem
 
 Nie wolno podejmować działań odwetowych wobec osoby, która w dobrej wierze zgłosiła podejrzenie nieprawidłowości lub uczestniczyła w postępowaniu wyjaśniającym.
+
+Jeżeli zgłaszający jest pracownikiem Spółdzielni, zakaz działań
+odwetowych i ich katalog (m.in. wypowiedzenie, obniżenie wynagrodzenia,
+wstrzymanie awansu, przeniesienie na niższe stanowisko, mobbing)
+wynikają wprost z ustawy
+([art. 11–12](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-11))
+— niezależnie od tego, czy Spółdzielnia podlega jej obowiązkowo. Ta
+ochrona dotyczy szerszego kręgu osób niż tylko pracownicy — także
+np. zleceniobiorców, stażystów i członków organów
+([art. 4](../../przepisy-prawne/md/ustawa-o-ochronie-sygnalistow.md#art-4)).
 
 ## § 8. Wyłączenie
 
