@@ -47,9 +47,7 @@ podejrzenie nieprawidłowości nie powinno być publicznie rozstrzygane przed za
 
 1a. Na wniosek zgłaszającego, zgłoszenie ustne może zostać dokonane
 podczas bezpośredniego spotkania zorganizowanego w terminie **14 dni**
-od otrzymania takiego wniosku — wymóg ustawowy (art. 26 ust. 6),
-obowiązkowy jeśli Spółdzielnia podlega tej ustawie (patrz UWAGA na
-początku dokumentu). Zgłoszenie może być też dokonane telefonicznie —
+od otrzymania takiego wniosku. Zgłoszenie może być też dokonane telefonicznie —
 jeśli linia jest nagrywana, za zgodą zgłaszającego dokumentuje się je
 nagraniem lub transkrypcją; jeśli nie jest nagrywana — protokołem
 rozmowy, który zgłaszający może sprawdzić i podpisać (art. 26 ust.

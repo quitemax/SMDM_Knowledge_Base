@@ -31,13 +31,7 @@ Celem Polityki jest zapobieganie sytuacjom, w których interes osobisty, majątk
 
 2. Oświadczenie powinno obejmować tylko informacje istotne dla oceny konfliktu interesów.
 
-3. Rejestr oświadczeń prowadzi osoba lub organ wskazany w uchwale
-   [●] — naturalnym kandydatem jest stanowisko **PM** (ds.
-   organizacyjno-samorządowych), które już prowadzi rejestr członków i
-   uchwał organów (patrz opis stanowiska PM w regulaminie
-   organizacyjnym Spółdzielni) —
-   do potwierdzenia uchwałą, nie zakładania z góry. Dostęp do niego
-   ogranicza się do osób uprawnionych.
+3. Rejestr oświadczeń prowadzi osoba lub organ wskazany w uchwale [●].
 
 ## § 4. Wyłączenie
 
@@ -67,11 +61,7 @@ Celem Polityki jest zapobieganie sytuacjom, w których interes osobisty, majątk
 
 1. Członek Rady zamierzający ubiegać się o zatrudnienie w Spółdzielni
    lub funkcję w Zarządzie ujawnia zamiar i wyłącza się z prac
-   dotyczących tego stanowiska. **Przypomnienie o istniejącym już
-   zakazie łączenia funkcji**: nie można być jednocześnie członkiem
-   Rady Nadzorczej i Zarządu (Statut § 61) — członek Rady wybrany do
-   Zarządu musi zrzec się mandatu w Radzie, nie może pełnić obu funkcji
-   równolegle nawet przejściowo.
+   dotyczących tego stanowiska.
 
 2. Szczegółowe zasady okresu karencji, rekrutacji i jawności kryteriów określa właściwa procedura lub regulamin, po weryfikacji prawnej.
 
