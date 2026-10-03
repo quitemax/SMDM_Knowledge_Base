@@ -42,6 +42,8 @@ dokumentacja projektu.
   [`zrodla/przepisy-prawne-zewnetrzne.md`](zrodla/przepisy-prawne-zewnetrzne.md)
   — listę zewnętrznych ustaw i rozporządzeń wyznaczających ramy działalności
   Spółdzielni.
+- [`wzory/`](wzory/README.md) — wzory wniosków i oświadczeń do pobrania ze
+  strony Spółdzielni (PDF oraz wersje Markdown).
 - [`przepisy-prawne/`](przepisy-prawne/) — pełne teksty (PDF, docelowo też
   Markdown) tych zewnętrznych aktów prawnych; patrz
   [`przepisy-prawne/README.md`](przepisy-prawne/README.md) po publikatory,

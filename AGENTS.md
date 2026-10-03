@@ -62,7 +62,7 @@ Repozytorium jest importowane przez coopOS — format opisuje
 [`docs/kontrakt-importu.md`](docs/kontrakt-importu.md).
 
 - Każdy nowy lub zmieniony plik `.md` w `manual/`, `zrodla/md/` i
-  `przepisy-prawne/md/` musi mieć poprawny front matter; plik bez niego
+  `przepisy-prawne/md/` i `wzory/md/` musi mieć poprawny front matter; plik bez niego
   nie jest publikowany.
 - Przed commitem uruchom `python tools/validate_front_matter.py`
   (i `python tools/build_indexes.py`, jeśli zmieniłeś metadane w

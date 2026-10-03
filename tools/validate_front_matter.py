@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Waliduje front matter (metadane) i względne odnośniki w plikach md.
 
-Sprawdzane katalogi: manual/, zrodla/md/ (z podkatalogami), przepisy-prawne/md/.
+Sprawdzane katalogi: manual/, zrodla/md/ (z podkatalogami), przepisy-prawne/md/, wzory/md/.
 Specyfikacja formatu: docs/kontrakt-importu.md.
 
 Kod wyjścia: 0 = brak błędów, 1 = są błędy (lista z numerami linii).
@@ -24,6 +24,7 @@ SCOPES = {
     "manual": {"kinds": {"manual"}, "needs_pdf": False},
     "zrodla/md": {"kinds": {"statut", "regulamin", "uchwala"}, "needs_pdf": True},
     "przepisy-prawne/md": {"kinds": {"akt-prawny"}, "needs_pdf": True},
+    "wzory/md": {"kinds": {"wzor"}, "needs_pdf": True},
 }
 STATUSES = {"obowiazujacy", "nieaktualny", "uchylony", "projekt"}
 AUDIENCES = {"public", "resident", "member", "membership", "technical", "finance",
@@ -258,11 +259,11 @@ def main():
     for scope, path in files:
         name = os.path.basename(path)[:-3]
         names_by_scope[scope].add(name)
-        if scope in ("zrodla/md", "przepisy-prawne/md"):
+        if scope in ("zrodla/md", "przepisy-prawne/md", "wzory/md"):
             if name in seen:
                 err(path, 1, f"nazwa pliku nie jest unikalna (jest też {rel(seen[name])})")
             seen[name] = path
-    all_doc_names = names_by_scope["zrodla/md"] | names_by_scope["przepisy-prawne/md"]
+    all_doc_names = names_by_scope["zrodla/md"] | names_by_scope["przepisy-prawne/md"] | names_by_scope["wzory/md"]
 
     for scope, path in files:
         text = open(path, encoding="utf-8").read()

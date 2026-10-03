@@ -11,6 +11,7 @@ coopOS co jakiś czas (cron) pobiera to repozytorium i publikuje jego treść na
 
 - `zrodla/` — statut i regulaminy → strona „Dokumenty” (HTML z md + PDF do pobrania),
 - `przepisy-prawne/` — akty prawne → strona „Dokumenty / Przepisy prawa” (HTML z md + PDF),
+- `wzory/` — wzory wniosków i oświadczeń do pobrania (`kind: wzor`; PDF + md),
 - `manual/` — baza wiedzy → strony treści (publiczny „Poradnik mieszkańca” i wewnętrzna „Baza wiedzy”).
 
 Importer nie zgaduje: **plik bez poprawnych metadanych nie jest publikowany** (to celowe — brak
@@ -38,7 +39,7 @@ w cudzysłowie prostym `"`.
 | Pole | Wymagane | Znaczenie |
 |---|---|---|
 | `title` | tak | Tytuł wyświetlany na stronie i na listach. To on jest kanoniczny: pierwszy nagłówek `#` w treści może się różnić (np. „Ustawa z dnia 26 czerwca 1974 r.” albo „kadry/”), importer usuwa go z treści i pokazuje `title`. |
-| `kind` | tak | Rodzaj dokumentu; steruje tym, w którym dziale strony się pojawi. W `zrodla/md/`: `statut`, `regulamin`, `uchwala`; w `przepisy-prawne/md/`: `akt-prawny`; w `manual/`: `manual`. |
+| `kind` | tak | Rodzaj dokumentu; steruje tym, w którym dziale strony się pojawi. W `zrodla/md/`: `statut`, `regulamin`, `uchwala`; w `przepisy-prawne/md/`: `akt-prawny`; w `wzory/md/`: `wzor`; w `manual/`: `manual`. |
 | `status` | tak | `obowiazujacy` (aktualny), `nieaktualny` (zastąpiony, tylko historia), `uchylony` (akt uchylony), `projekt` (w opracowaniu, nie publikować). |
 | `audience` | tak | Lista odbiorców, patrz niżej. |
 | `summary` | zalecane | Jedno–dwa zdania na listę dokumentów (zastępuje kolumnę „Opis” ze spisu dokumentów). |
@@ -156,8 +157,8 @@ coopOS mapuje te wartości na uprawnienia (to jego sprawa, nie tego repozytorium
 
 ## 5. Czego repozytorium NIE zawiera
 
-- **Wzorów wniosków i oświadczeń** (PDF/docx do pobrania przez mieszkańców) — wgrywa się je z panelu
-  coopOS (dział Dokumenty), nie przez to repozytorium.
+- **Wypełnionych formularzy** (dane osobowe). Puste wzory wniosków i oświadczeń są w `wzory/`
+  (`kind: wzor`; pole `source_url` wskazuje pierwotny plik na stronie Spółdzielni).
 - Danych osobowych, haseł, kluczy.
 
 ## 6. Walidacja
