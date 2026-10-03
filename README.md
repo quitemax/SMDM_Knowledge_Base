@@ -47,6 +47,15 @@ dokumentacja projektu.
   [`przepisy-prawne/README.md`](przepisy-prawne/README.md) po publikatory,
   stan prawny na dzień pobrania i interwały sprawdzania aktualizacji.
 
+## Import przez coopOS
+
+To repozytorium jest cyklicznie importowane przez aplikację coopOS i
+publikowane na stronie spółdzielni (statut, regulaminy i przepisy jako
+dokumenty, `manual/` jako baza wiedzy). **Pliki md bez poprawnego front
+matter nie są publikowane.** Format metadanych, odbiorców (`audience`) i
+konwencje treści opisuje [`docs/kontrakt-importu.md`](docs/kontrakt-importu.md);
+poprawność sprawdza `python tools/validate_front_matter.py`.
+
 ## Jak dokumentować proces
 
 Każdy opisany proces powinien używać jednego, wspólnego szablonu — patrz
@@ -68,6 +77,8 @@ wiedzy nie zawierała nieprawdziwych informacji.
 ## Dokumentacja projektu
 
 - [`docs/historia.md`](docs/historia.md) — jak i po co powstał ten projekt.
+- [`docs/kontrakt-importu.md`](docs/kontrakt-importu.md) — format metadanych
+  i konwencje wymagane przez import do coopOS.
 - [`AGENTS.md`](AGENTS.md) — zasady pracy z tym repozytorium dla agentów AI.
 
 ## Zasada poufności

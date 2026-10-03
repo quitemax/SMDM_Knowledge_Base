@@ -56,6 +56,24 @@ redagowanie treści, nie programowanie.
   jakimkolwiek dokumencie, który ma być podstawą decyzji, akt powinien
   przejść pełną konwersję jak reszta.
 
+## Metadane dokumentów
+
+Repozytorium jest importowane przez coopOS — format opisuje
+[`docs/kontrakt-importu.md`](docs/kontrakt-importu.md).
+
+- Każdy nowy lub zmieniony plik `.md` w `manual/`, `zrodla/md/` i
+  `przepisy-prawne/md/` musi mieć poprawny front matter; plik bez niego
+  nie jest publikowany.
+- Przed commitem uruchom `python tools/validate_front_matter.py`
+  (i `python tools/build_indexes.py`, jeśli zmieniłeś metadane w
+  `zrodla/md/` lub `przepisy-prawne/md/` — spisy są generowane).
+- Nowy akt prawny wymaga `publisher` i `legal_state_date` (tego drugiego
+  nie zgaduj — pomiń, jeśli źródło go nie podaje).
+- Nie zmieniaj nazwy opublikowanego pliku md bez potrzeby: nazwa to adres
+  dokumentu na stronie. Zastąpiony dokument oznacz `status: nieaktualny`
+  i `superseded_by` (nie usuwaj go).
+- Wątpliwość co do `audience` = węższa grupa.
+
 ## Styl
 
 - Pisz po polsku, w stylu istniejących plików (rzeczowo, bez ozdobników).
