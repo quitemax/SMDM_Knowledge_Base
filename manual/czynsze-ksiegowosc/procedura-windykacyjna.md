@@ -49,12 +49,12 @@ zamieszkujących, najemców/dzierżawców, osób bez tytułu prawnego):
    spółdzielczego prawa do lokalu** — ustanie stosunku prawnego nie
    może następować na warunkach mniej korzystnych dla lokatora niż
    wynika z ustawy o ochronie praw lokatorów
-   ([art. 11 ust. 8](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-11)).
+   ([art. 11 ust. 8](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-11)).
    Do dnia opróżnienia lokalu osoba zajmująca go bez tytułu prawnego
    płaci **odszkodowanie w wysokości czynszu, jaki Spółdzielnia mogłaby
    uzyskać z najmu** (uzupełniająco — jeśli odszkodowanie nie pokrywa
    strat, Spółdzielnia może żądać odszkodowania uzupełniającego) —
-   [art. 18](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-18)
+   [art. 18](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-18)
    ustawy (to prawdopodobnie podstawa prawna „odszkodowania za
    bezumowne korzystanie" wspomnianego niżej).
 
@@ -83,7 +83,7 @@ w roku).
 - **Sąd musi w wyroku eksmisyjnym orzec o uprawnieniu (albo braku
   uprawnienia) do najmu socjalnego lokalu** — obowiązek zapewnienia
   takiego lokalu ciąży na **gminie**, nie na Spółdzielni
-  ([art. 14 ust. 1](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14)).
+  ([art. 14 ust. 1](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14)).
   Do czasu złożenia przez gminę oferty najmu socjalnego wykonanie
   eksmisji jest **wstrzymane** (ust. 6) — realny wpływ na czas trwania
   całej sprawy, niezależny od Spółdzielni.
@@ -91,7 +91,7 @@ w roku).
   małoletniemu, osobie niepełnosprawnej/ubezwłasnowolnionej (i jej
   opiekunowi), obłożnie choremu, emerytowi/renciście spełniającemu
   kryteria pomocy społecznej, bezrobotnemu — **chyba że mają gdzie
-  indziej zamieszkać** ([art. 14 ust. 4](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14)).
+  indziej zamieszkać** ([art. 14 ust. 4](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14)).
   Ta ochrona **dotyczy też byłych członków SMDM, którzy utracili
   spółdzielcze prawo do lokalu** (ust. 7 — wyjątek od zasady, że osoby
   bez tytułu prawnego do lokalu spoza publicznego zasobu mieszkaniowego
@@ -99,12 +99,12 @@ w roku).
 - **Moratorium zimowe**: wyroków eksmisyjnych **nie wykonuje się od 1
   listopada do 31 marca**, jeśli eksmitowanemu nie wskazano lokalu, do
   którego ma się przenieść —
-  [art. 16](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-16).
+  [art. 16](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-16).
 - **Wyjątki od powyższych ochron** (brak prawa do lokalu socjalnego,
   brak moratorium zimowego): eksmisja z powodu przemocy w rodzinie,
   rażącego/uporczywego naruszania porządku domowego, albo zajęcia
   lokalu bez żadnego tytułu prawnego —
-  [art. 17](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-17)
+  [art. 17](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-17)
   (sąd może mimo to przyznać lokal socjalny, jeśli uzasadniają to
   zasady współżycia społecznego).
 
@@ -122,20 +122,20 @@ wątpliwości, czy jest dziś stosowalny wprost:
   prawa — nie uchwała Rady Nadzorczej. Sąd **nie może** orzec wygaśnięcia,
   jeśli członek spłaci całość zaległości najpóźniej przed zamknięciem
   rozprawy (również w II instancji) —
-  [ustawa o spółdzielniach mieszkaniowych art. 11 ust. 1¹, 1⁴](../przepisy-prawne/md/ustawa-o-spoldzielniach-mieszkaniowych.md#art-11).
+  [ustawa o spółdzielniach mieszkaniowych art. 11 ust. 1¹, 1⁴](../../przepisy-prawne/md/ustawa-o-spoldzielniach-mieszkaniowych.md#art-11).
   Samo „wykluczenie" członka (utrata członkostwa) **nie jest tym
   samym** co utrata prawa do lokalu — członkostwo takiej osoby i tak
   ustaje automatycznie dopiero z chwilą prawomocnego wygaśnięcia
   spółdzielczego prawa lokatorskiego
-  ([statut § 17 ust. 1 pkt 1](../zrodla/md/statut.md#par-17)), więc
+  ([statut § 17 ust. 1 pkt 1](../../zrodla/md/statut.md#par-17)), więc
   samodzielne „wykluczenie" przez RN przed tym wyrokiem nie usuwa
   dłużnika z lokalu.
 - Ogólny mechanizm wykluczenia/wykreślenia z Prawa spółdzielczego
-  ([art. 24](../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-24))
+  ([art. 24](../../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-24))
   wymaga, żeby **to statut określał przyczyny** wykluczenia (§ 2) —
   a w aktualnym statucie SMDM paragrafy, które kiedyś to regulowały
   (§ 18–24), są dziś w całości **„(skreślony)"**
-  ([`../zrodla/md/statut.md`](../zrodla/md/statut.md#par-17), sekcja
+  ([`../zrodla/md/statut.md`](../../zrodla/md/statut.md#par-17), sekcja
   2.6), i słowo „wykluczenie"/„wykreślenie" nie występuje już nigdzie
   indziej w statucie. Bez statutowo określonych przyczyn wykluczenia,
   podstawa prawna do skorzystania z art. 24 Prawa spółdzielczego
@@ -151,16 +151,16 @@ wątpliwości, czy jest dziś stosowalny wprost:
 uchwała RN nr 22/R/18 z 25.09.2018, zmiana 27/R/18) § 1–6; dla kroku
 „eksmisja" — ustawa o ochronie praw lokatorów, mieszkaniowym zasobie
 gminy i o zmianie Kodeksu cywilnego,
-[art. 11](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-11),
-[14](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14),
-[16](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-16)–[18](../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-18);
+[art. 11](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-11),
+[14](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-14),
+[16](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-16)–[18](../../przepisy-prawne/md/ustawa-o-ochronie-praw-lokatorow.md#art-18);
 dla zastrzeżenia dot. „wykluczenia" — ustawa o spółdzielniach
 mieszkaniowych
-[art. 11](../przepisy-prawne/md/ustawa-o-spoldzielniach-mieszkaniowych.md#art-11),
+[art. 11](../../przepisy-prawne/md/ustawa-o-spoldzielniach-mieszkaniowych.md#art-11),
 Prawo spółdzielcze
-[art. 24](../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-24),
+[art. 24](../../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-24),
 statut
-[§ 17](../zrodla/md/statut.md#par-17).
+[§ 17](../../zrodla/md/statut.md#par-17).
 
 **Ostatnia aktualizacja**: 2026-09-29 — dodano ochronę prawną lokatora
 przy eksmisji (ustawa o ochronie praw lokatorów); dodano zastrzeżenie

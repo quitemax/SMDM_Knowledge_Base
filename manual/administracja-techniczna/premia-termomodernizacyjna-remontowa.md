@@ -30,14 +30,14 @@ wewnętrznym Spółdzielni.
    określające zakres, parametry techniczne i ekonomiczne
    przedsięwzięcia oraz wskazujące rozwiązanie optymalne; stanowi
    założenia do projektu budowlanego
-   ([ustawa o wspieraniu termomodernizacji i remontów art. 2 pkt 8–9](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-2)).
+   ([ustawa o wspieraniu termomodernizacji i remontów art. 2 pkt 8–9](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-2)).
    Forma i zakres audytu energetycznego — patrz
-   [`../przepisy-prawne/md/rozporzadzenie-audyt-energetyczny.md`](../przepisy-prawne/md/rozporzadzenie-audyt-energetyczny.md).
+   [`../przepisy-prawne/md/rozporzadzenie-audyt-energetyczny.md`](../../przepisy-prawne/md/rozporzadzenie-audyt-energetyczny.md).
 2. **Kredyt bankowy** — warunek konieczny obu premii: kwota kredytu
    zaciągniętego na przedsięwzięcie musi stanowić **co najmniej 50%**
    kosztów przedsięwzięcia
-   ([art. 3 ust. 2](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-3),
-   [art. 7 ust. 1a](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-7)).
+   ([art. 3 ust. 2](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-3),
+   [art. 7 ust. 1a](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-7)).
 3. **Premia termomodernizacyjna** — przysługuje, jeśli audyt energetyczny
    wykazuje jeden z efektów: zmniejszenie rocznego zapotrzebowania na
    energię o **≥10%** (gdy modernizowany jest wyłącznie system grzewczy)
@@ -45,49 +45,49 @@ wewnętrznym Spółdzielni.
    lokalnej sieci ciepłowniczej o **≥25%**, zmniejszenie kosztów
    pozyskania ciepła o **≥20%**, lub zamiana źródła energii na
    odnawialne / zastosowanie wysokosprawnej kogeneracji
-   ([art. 3 ust. 1](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-3)).
+   ([art. 3 ust. 1](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-3)).
    **Wysokość: 26%** kosztów przedsięwzięcia, **31%** jeśli łącznie
    realizowana jest instalacja odnawialnego źródła energii (OZE)
    stanowiąca ≥10% łącznych kosztów
-   ([art. 5](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-5)).
+   ([art. 5](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-5)).
    Dodatkowe wsparcie **50%** kosztów kotwienia warstwy fakturowej —
    dotyczy **budynków wielkopłytowych**
-   ([art. 5a](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-5a)) —
+   ([art. 5a](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-5a)) —
    **DO UZUPEŁNIENIA**: czy któryś budynek SMDM jest wielkopłytowy.
    Dodatkowy **grant termomodernizacyjny 10%**, jeśli po
    termomodernizacji budynek spełnia maksymalne wskaźniki EP dla
    nowych budynków
-   ([art. 5b](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-5b)).
+   ([art. 5b](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-5b)).
 4. **Premia remontowa** — dotyczy wyłącznie budynku wielorodzinnego
    użytkowanego **od co najmniej 40 lat** (albo 20 lat dla budynków TBS/
    SIM finansowanych określonymi kredytami)
-   ([art. 6](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-6)).
+   ([art. 6](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-6)).
    Warunki: zmniejszenie zapotrzebowania na energię o **≥10%** (albo
    **≥25%**, jeśli wskaźnik kosztu przedsięwzięcia >0,3), wskaźnik
    kosztu przedsięwzięcia w przedziale **0,05–0,70**
-   ([art. 7](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-7)).
+   ([art. 7](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-7)).
    **Wysokość: 25%** kosztów przedsięwzięcia
-   ([art. 9](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-9)).
+   ([art. 9](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-9)).
    **Nie obejmuje** remontu wnętrz lokali (poza oknami i balkonami do
    wyłącznego użytku właścicieli — te są objęte)
-   ([art. 8](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-8);
+   ([art. 8](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-8);
    definicja „przedsięwzięcia remontowego" —
-   [art. 2 pkt 3](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-2)).
+   [art. 2 pkt 3](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-2)).
 5. **Premia powodziowa** (jeśli dotyczy) — dla budynku uszkodzonego w
    powodzi w stopniu ≥5% jego wartości; wysokość 50–70% kosztów
    (70% dla zasobu gminnego, 60% dla zabytków, 50% pozostałe); wniosek
    do BGK w ciągu **roku** od uszkodzenia, z audytem remontowym
-   ([art. 9c–9d](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-9c)).
+   ([art. 9c–9d](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-9c)).
 6. **Zakaz podwójnego finansowania** — premia (żadna z powyższych) nie
    może być przeznaczona na prace, na które uzyskano już inne wsparcie
    ze środków publicznych
-   ([art. 4](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-4),
+   ([art. 4](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-4),
    analogicznie dla premii remontowej i powodziowej).
 7. **Rozliczenie** — po zrealizowaniu przedsięwzięcia inwestor
    przedkłada do BGK dokumenty potwierdzające poniesione wydatki i
    zgodność realizacji z projektem (wzorowane na trybie premii
    powodziowej,
-   [art. 9e](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-9e))
+   [art. 9e](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-9e))
    — **DO UZUPEŁNIENIA** dokładny tryb dla premii termomodernizacyjnej/
    remontowej (nie doczytany w tej aktualizacji, analogiczny mechanizm
    powinien być w dalszej części ustawy).
@@ -103,7 +103,7 @@ termomodernizacji budynku.
   poza premią powodziową) — to istotne dla analizy, czy dana inwestycja
   mogłaby podlegać Prawu zamówień publicznych jako „zamówienie
   subsydiowane": PZP wymaga finansowania publicznego **>50%** wartości
-  zamówienia ([art. 6 pkt 1 PZP](../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-6)),
+  zamówienia ([art. 6 pkt 1 PZP](../../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-6)),
   więc sama premia termomodernizacyjna/remontowa **nigdy samodzielnie
   nie uruchamia PZP** — patrz analiza w
   [`procedura-przetargowa.md#pzp`](procedura-przetargowa.md#pzp).
@@ -120,9 +120,9 @@ termomodernizacji budynku.
 **Źródło / podstawa**: ustawa z 21.11.2008 r. o wspieraniu
 termomodernizacji i remontów oraz o centralnej ewidencji emisyjności
 budynków,
-[art. 1–9e](../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-1);
+[art. 1–9e](../../przepisy-prawne/md/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.md#art-1);
 rozporządzenie w sprawie audytu energetycznego — patrz
-[`../przepisy-prawne/md/rozporzadzenie-audyt-energetyczny.md`](../przepisy-prawne/md/rozporzadzenie-audyt-energetyczny.md).
+[`../przepisy-prawne/md/rozporzadzenie-audyt-energetyczny.md`](../../przepisy-prawne/md/rozporzadzenie-audyt-energetyczny.md).
 Wewnętrzny proces decyzyjny Spółdzielni (kto inicjuje, kto przygotowuje
 wniosek) nie jest opisany w żadnym dostępnym regulaminie SMDM.
 

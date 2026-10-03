@@ -64,6 +64,6 @@ związany z kadencją Rady).
 
 **Źródło / podstawa**: `regulamin-rady-nadzorczej.pdf` § 23 (dział IV);
 § 55–56 Statutu; art. 49 ustawy Prawo spółdzielcze — patrz
-[`../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md`](../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-49).
+[`../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md`](../../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-49).
 
 **Ostatnia aktualizacja**: 2026-09-28 (pierwsza wersja).

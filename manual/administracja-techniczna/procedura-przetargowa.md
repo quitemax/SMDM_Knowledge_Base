@@ -97,7 +97,7 @@ losowych i katastrof (§ 3 ust. 6) — te są zlecane poza tą procedurą.
   pracochłonności >500 osobodni, wykonawca (jego kierownik budowy) musi
   sporządzić **plan bezpieczeństwa i ochrony zdrowia (BIOZ)** przed
   rozpoczęciem robót —
-  [Prawo budowlane art. 21a](../przepisy-prawne/md/ustawa-prawo-budowlane.md#art-21a).
+  [Prawo budowlane art. 21a](../../przepisy-prawne/md/ustawa-prawo-budowlane.md#art-21a).
   Warto to zastrzec wprost w warunkach zamówienia/umowie, razem z
   wymogiem odpowiednich uprawnień budowlanych kierownika robót i
   ubezpieczenia OC wykonawcy.
@@ -106,19 +106,19 @@ losowych i katastrof (§ 3 ust. 6) — te są zlecane poza tą procedurą.
 **Czy Prawo zamówień publicznych (PZP) dotyczy tej procedury? Co do
 zasady nie.** Analiza zakresu podmiotowego ustawy (rozstrzygnięcie
 długo wiszącej flagi „sprawdź, czy dotyczy" —
-[`../zrodla/przepisy-prawne-zewnetrzne.md`](../zrodla/przepisy-prawne-zewnetrzne.md)):
+[`../zrodla/przepisy-prawne-zewnetrzne.md`](../../zrodla/przepisy-prawne-zewnetrzne.md)):
 - SMDM nie jest **zamawiającym publicznym** — nie jest jednostką
   sektora finansów publicznych ani osobą prawną finansowaną w >50%,
   kontrolowaną lub nadzorowaną przez podmioty publiczne (Spółdzielnia
   jest zarządzana przez własne organy — WZ/RN/Zarząd — nie przez
   administrację publiczną) —
-  [art. 4](../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-4)
+  [art. 4](../../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-4)
   ustawy.
 - SMDM nie jest **zamawiającym sektorowym** — nie prowadzi działalności
   sieciowej (woda/energia/transport/poczta) jako operator infrastruktury
   na prawach szczególnych/wyłącznych, tylko jako zwykły odbiorca tych
   usług —
-  [art. 5](../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-5).
+  [art. 5](../../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-5).
 - SMDM może stać się **zamawiającym subsydiowanym** tylko, jeśli
   **łącznie** spełnione są trzy warunki: (1) ponad 50% wartości
   konkretnego zamówienia finansowane ze środków publicznych, (2)
@@ -128,7 +128,7 @@ długo wiszącej flagi „sprawdź, czy dotyczy" —
   dyrektywy 2014/24/UE, albo budowa **szpitali, obiektów
   sportowo-rekreacyjnych, budynków szkolnych/szkół wyższych lub
   budynków administracji publicznej** —
-  [art. 6](../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-6).
+  [art. 6](../../przepisy-prawne/md/ustawa-prawo-zamowien-publicznych.md#art-6).
   **Budynki mieszkalne nie są na tej liście** — nawet duża inwestycja
   remontowa/termomodernizacyjna dofinansowana w większości ze środków
   publicznych (np.
@@ -139,7 +139,7 @@ długo wiszącej flagi „sprawdź, czy dotyczy" —
 - **Wniosek**: dla typowych zamówień SMDM na roboty budowlane, dostawy
   i usługi (w tym remonty, termomodernizację, zakupy IT) obowiązuje
   wyłącznie własny
-  [regulamin wyboru wykonawców](../zrodla/md/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md)
+  [regulamin wyboru wykonawców](../../zrodla/md/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md)
   opisany w tym pliku — **nie PZP**.
 - **DO UZUPEŁNIENIA / zastrzeżenie**: to jest analiza samej ustawy PZP,
   nie sprawdzenie każdej możliwej umowy grantowej z osobna —
@@ -150,14 +150,14 @@ długo wiszącej flagi „sprawdź, czy dotyczy" —
   taka wystąpi.
 
 **Źródło / podstawa**: [Regulamin wyboru wykonawców robót, dostaw i
-usług](../zrodla/md/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md)
+usług](../../zrodla/md/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.md)
 (uchwała Rady Nadzorczej nr 62/R/26, na podstawie
-[statut § 49 ust. 1 pkt 18](../zrodla/md/statut.md#par-49)) — **aktualny**
+[statut § 49 ust. 1 pkt 18](../../zrodla/md/statut.md#par-49)) — **aktualny**
 regulamin, zastępujący wcześniejszy
-[`regulamin-przetargow.md`](../zrodla/md/regulamin-przetargow.md) (próg
+[`regulamin-przetargow.md`](../../zrodla/md/regulamin-przetargow.md) (próg
 80 000 zł) — ten ostatni jest **nieaktualny**, zachowany w repozytorium
 wyłącznie dla historii, patrz
-[`zrodla/spis-dokumentow.md`](../zrodla/spis-dokumentow.md).
+[`zrodla/spis-dokumentow.md`](../../zrodla/spis-dokumentow.md).
 
 **Ostatnia aktualizacja**: 2026-09-29 — poprawiono na podstawie
 aktualnego regulaminu (poprzednia wersja błędnie bazowała na

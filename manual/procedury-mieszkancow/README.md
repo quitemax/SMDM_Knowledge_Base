@@ -10,6 +10,6 @@ wykorzystania też przy komunikacji zewnętrznej.
   mieszkańców.
 
 **Powiązane**: pełna treść regulaminu porządku domowego —
-[`../zrodla/md/regulamin-porzadku-domowego-2025.md`](../zrodla/md/regulamin-porzadku-domowego-2025.md);
+[`../zrodla/md/regulamin-porzadku-domowego-2025.md`](../../zrodla/md/regulamin-porzadku-domowego-2025.md);
 eskalacja skarg do Zarządu —
 [`../zarzad/obsluga-reklamacji-mieszkancow.md`](../zarzad/obsluga-reklamacji-mieszkancow.md).

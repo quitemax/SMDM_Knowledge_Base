@@ -13,14 +13,14 @@ redagowanie treści, nie programowanie.
 
 - **Każdy opisany fakt musi mieć źródło.** Jeśli proces albo zasada
   wynika z regulaminu/statutu, dodaj cytat paragrafu (patrz istniejące
-  pliki w `zarzad/`, `czynsze-ksiegowosc/` itd. jako wzór). Nie zgaduj i
+  pliki w `manual/zarzad/`, `manual/czynsze-ksiegowosc/` itd. jako wzór). Nie zgaduj i
   nie wymyślaj procedur.
 - **Brak informacji = `DO UZUPEŁNIENIA`, nie wymyślanie.** Jeśli żaden
   regulamin nie opisuje danego procesu operacyjnego, oznacz to wprost
   zamiast wypełniać treścią, która brzmi wiarygodnie, ale nie jest
   prawdziwa.
 - **Nowy opisany proces = wspólny szablon.** Patrz
-  [`szablon-procesu.md`](szablon-procesu.md).
+  [`manual/szablon-procesu.md`](manual/szablon-procesu.md).
 - **Dane osobowe.** Opisy stanowisk to opis ROLI, nie CV konkretnej
   osoby — bez nazwisk, inicjałów, wynagrodzeń, dat konkretnych umów.
   Pliki dotyczące zakresów obowiązków i umów konkretnych, nazwanych osób

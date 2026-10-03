@@ -70,6 +70,6 @@ wniosku 1/3 członków Rady lub Zarządu (§ 8 ust. 3).
 **Źródło / podstawa**: `regulamin-rady-nadzorczej.pdf` § 8–15, 25; § 49
 Statutu (zakres działania Rady); art. 44–46 ustawy Prawo spółdzielcze —
 patrz
-[`../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md`](../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-46).
+[`../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md`](../../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-46).
 
 **Ostatnia aktualizacja**: 2026-09-28 (pierwsza wersja).

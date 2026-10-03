@@ -71,7 +71,7 @@ przedzatrudnieniowe (kroki 1–3 wyżej), ale nie:
 
 **Źródło / podstawa**: `regulamin-pracy.pdf` § 2, 7, 19, 43, załączniki
 nr 2 i 4 — patrz
-[`../zrodla/md/regulamin-pracy.md`](../zrodla/md/regulamin-pracy.md#par-7);
+[`../zrodla/md/regulamin-pracy.md`](../../zrodla/md/regulamin-pracy.md#par-7);
 fragmenty zakresów obowiązków PP/PB/PRO (Regulamin Organizacyjny) dla
 podziału odpowiedzialności między stanowiskami.
 

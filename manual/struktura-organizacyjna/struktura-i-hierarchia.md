@@ -63,7 +63,7 @@ jednym pionem (§ 4):
 > Uwaga: to są **nazwy stanowisk/ról z regulaminu**, nie nazwiska
 > konkretnych osób. Ile osób faktycznie zajmuje każde stanowisko i kto
 > to jest — patrz wewnętrzna ewidencja kadrowa (poza zakresem tej bazy
-> wiedzy, patrz zasada poufności w [`../README.md`](../README.md)).
+> wiedzy, patrz zasada poufności w [`../README.md`](../../README.md)).
 
 ## Zasada podległości
 

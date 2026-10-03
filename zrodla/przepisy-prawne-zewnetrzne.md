@@ -87,7 +87,7 @@ wybór i za zapisy umowy: uprawnienia, plan BIOZ, ubezpieczenie OC, kierownik ro
 |---|---|
 | Ustawa z 29.09.1994 r. o rachunkowości | sprawozdanie finansowe spółdzielni |
 | Ustawa o podatku dochodowym od osób prawnych | zwolnienia dotyczące gospodarki zasobami mieszkaniowymi |
-| Ustawa z 11.09.2019 r. — Prawo zamówień publicznych | **Rozstrzygnięte 2026-09-29: co do zasady NIE dotyczy SMDM** dla typowych zamówień na roboty/remonty budynków mieszkalnych — patrz analiza w [`../administracja-techniczna/procedura-przetargowa.md`](../administracja-techniczna/procedura-przetargowa.md#pzp) |
+| Ustawa z 11.09.2019 r. — Prawo zamówień publicznych | **Rozstrzygnięte 2026-09-29: co do zasady NIE dotyczy SMDM** dla typowych zamówień na roboty/remonty budynków mieszkalnych — patrz analiza w [`../administracja-techniczna/procedura-przetargowa.md`](../manual/administracja-techniczna/procedura-przetargowa.md#pzp) |
 | Kodeks cywilny — umowa o roboty budowlane (art. 647 i nast.), rękojmia, gwarancja | podstawa umów z wykonawcami |
 
 ## 9. Dane osobowe i sprawy lokatorskie
@@ -99,7 +99,7 @@ wybór i za zapisy umowy: uprawnienia, plan BIOZ, ubezpieczenie OC, kierownik ro
 
 ## 10. Kadry i prawo pracy
 
-**Kategoria dodana 2026-09-28** — gap ujawnił się przy przeglądzie `kadry/` w bazie
+**Kategoria dodana 2026-09-28** — gap ujawnił się przy przeglądzie `manual/kadry/` w bazie
 wiedzy: `regulamin-pracy.pdf` (w `zrodla/`) cytuje Kodeks pracy dziesiątki razy jako
 swoją podstawę prawną (art. 104 § 2 — podstawa samego regulaminu; dalej liczne konkretne
 artykuły: 29, 52 § 1 pkt 1, 108, 132–133, 140¹, 154⁴, 167², 18³ᵃ–18³ᵉ i inne), ale sam

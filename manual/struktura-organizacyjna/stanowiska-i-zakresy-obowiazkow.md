@@ -2,7 +2,7 @@
 
 > To opisy **ról**, nie CV konkretnych osób — bez nazwisk, inicjałów,
 > wynagrodzeń czy dat konkretnych umów o pracę (patrz zasada poufności w
-> [`../README.md`](../README.md)). Skróty stanowisk (PM, FC, TT, itd.) —
+> [`../README.md`](../../README.md)). Skróty stanowisk (PM, FC, TT, itd.) —
 > patrz [`struktura-i-hierarchia.md`](struktura-i-hierarchia.md) po
 > schemat podległości.
 >

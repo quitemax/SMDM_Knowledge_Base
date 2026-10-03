@@ -3,7 +3,7 @@
 > Źródło: `regulamin-stalych-komisji-rady-nadzorczej.pdf` (tekst
 > jednolity, uchwalony przez Radę Nadzorczą uchwałą nr 83/R/99 z
 > 07.10.1999 r., zmieniony uchwałą nr 50/R/2006 z 24.10.2006 r. — patrz
-> [`../zrodla/md/regulamin-stalych-komisji-rady-nadzorczej.md`](../zrodla/md/regulamin-stalych-komisji-rady-nadzorczej.md#par-17)).
+> [`../zrodla/md/regulamin-stalych-komisji-rady-nadzorczej.md`](../../zrodla/md/regulamin-stalych-komisji-rady-nadzorczej.md#par-17)).
 > Numery paragrafów bez dalszego oznaczenia odnoszą się do tego
 > regulaminu. Podstawa statutowa: § 49 ust. 1 pkt 21 Statutu (uchwalanie
 > regulaminów nie zastrzeżonych do kompetencji innych organów) oraz § 50
@@ -63,7 +63,7 @@ Zakres działania określają załączniki do regulaminu (§ 2 ust. 1):
   [`../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md`](../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md)).
   *(Treść załącznika uzupełniona 2026-09-29 z osobno dostarczonego skanu
   — brakowało jej wcześniej w głównym pliku źródłowym, patrz
-  [`../zrodla/spis-dokumentow.md`](../zrodla/spis-dokumentow.md).)*
+  [`../zrodla/spis-dokumentow.md`](../../zrodla/spis-dokumentow.md).)*
 - **Komisja Regulaminowa** (Załącznik nr 3): opiniowanie projektów
   regulaminów i innych przepisów wewnętrznych, do których wydawania
   uprawniona jest Rada; wnioskowanie w sprawie zmian w już uchwalonych

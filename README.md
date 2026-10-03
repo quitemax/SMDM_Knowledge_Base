@@ -12,23 +12,27 @@ można rozważyć migrację do dedykowanego narzędzia (np. BookStack).
 
 ## Struktura
 
-- [`struktura-organizacyjna/`](struktura-organizacyjna/README.md) — kto
+Treść opisowa (struktura, procesy, procedury) znajduje się w katalogu
+`manual/`; poza nim są źródła, przepisy prawne, narzędzia, projekty i
+dokumentacja projektu.
+
+- [`manual/struktura-organizacyjna/`](manual/struktura-organizacyjna/README.md) — kto
   jest kim, komu podlega, jakie stanowiska istnieją, mapa
   zastępowalności, podział terenowy.
-- [`zarzad/`](zarzad/README.md) — procesy zarządcze, decyzje, uchwały,
+- [`manual/zarzad/`](manual/zarzad/README.md) — procesy zarządcze, decyzje, uchwały,
   sprawy statutowe.
-- [`rada-nadzorcza/`](rada-nadzorcza/README.md) — zasady działania Rady
+- [`manual/rada-nadzorcza/`](manual/rada-nadzorcza/README.md) — zasady działania Rady
   Nadzorczej, podejmowanie uchwał, wybór członków Zarządu, stałe komisje
   Rady.
-- [`administracja-techniczna/`](administracja-techniczna/README.md) —
+- [`manual/administracja-techniczna/`](manual/administracja-techniczna/README.md) —
   procesy związane z budynkami, przeglądami, zgłoszeniami, przetargami.
-- [`czynsze-ksiegowosc/`](czynsze-ksiegowosc/README.md) — procesy
+- [`manual/czynsze-ksiegowosc/`](manual/czynsze-ksiegowosc/README.md) — procesy
   finansowe: czynsze, fundusz remontowy, windykacja, faktury.
-- [`kadry/`](kadry/README.md) — procesy pracownicze: onboarding,
+- [`manual/kadry/`](manual/kadry/README.md) — procesy pracownicze: onboarding,
   offboarding, wynagrodzenia.
-- [`it-systemy/`](it-systemy/README.md) — dokumentacja techniczna
+- [`manual/it-systemy/`](manual/it-systemy/README.md) — dokumentacja techniczna
   systemów używanych w spółdzielni.
-- [`procedury-mieszkancow/`](procedury-mieszkancow/README.md) — czego
+- [`manual/procedury-mieszkancow/`](manual/procedury-mieszkancow/README.md) — czego
   mieszkaniec może się spodziewać, jak zgłasza sprawy (do wykorzystania
   też przy komunikacji zewnętrznej).
 - [`zrodla/`](zrodla/) — oryginalne regulaminy i statut (PDF) oraz ich
@@ -46,7 +50,7 @@ można rozważyć migrację do dedykowanego narzędzia (np. BookStack).
 ## Jak dokumentować proces
 
 Każdy opisany proces powinien używać jednego, wspólnego szablonu — patrz
-[`szablon-procesu.md`](szablon-procesu.md). Jednolity format sprawia, że
+[`manual/szablon-procesu.md`](manual/szablon-procesu.md). Jednolity format sprawia, że
 każdy proces jest tak samo łatwy do znalezienia i zrozumienia, niezależnie
 od tego, kto go spisywał.
 
@@ -70,6 +74,6 @@ wiedzy nie zawierała nieprawdziwych informacji.
 
 Ta baza wiedzy zawiera treść regulaminów i statutu — dokumentów uznanych
 za dostępne publicznie (np. udostępnianych członkom spółdzielni). Opisy
-stanowisk w [`struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md`](struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md)
+stanowisk w [`struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md`](manual/struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md)
 są celowo napisane jako opis ROLI, nie CV konkretnej osoby — bez nazwisk,
 inicjałów, wynagrodzeń czy dat konkretnych umów o pracę.

@@ -21,23 +21,23 @@ art. 52 Kp) — odrębna ścieżka od zwykłego rozwiązania/wypowiedzenia:
   zatrudnienie (oczywistego albo stwierdzonego prawomocnym wyrokiem),
   lub zawinionej utracie uprawnień koniecznych do pracy na danym
   stanowisku
-  ([Kodeks pracy art. 52 § 1](../przepisy-prawne/md/kodeks-pracy.md#art-52)).
+  ([Kodeks pracy art. 52 § 1](../../przepisy-prawne/md/kodeks-pracy.md#art-52)).
 - Regulamin pracy **§ 17** wymienia przykładowy katalog „ciężkiego
   naruszenia" w SMDM — m.in. częste zaniedbywanie obowiązków, rażąca
   niedbałość o mienie, przywłaszczenie mienia Spółdzielni,
   nieusprawiedliwiona nieobecność dłuższa niż 2 dni, stawienie się do
   pracy pod wpływem alkoholu/środków odurzających, mobbing, ujawnienie
   danych osobowych/tajemnicy służbowej — patrz
-  [`../zrodla/md/regulamin-pracy.md#par-17`](../zrodla/md/regulamin-pracy.md#par-17).
+  [`../zrodla/md/regulamin-pracy.md#par-17`](../../zrodla/md/regulamin-pracy.md#par-17).
 - **Termin**: nie później niż **1 miesiąc** od uzyskania przez
   pracodawcę wiadomości o okoliczności uzasadniającej rozwiązanie —
   krótszy i liczony inaczej niż terminy dla kar porządkowych, patrz
   [`odpowiedzialnosc-porzadkowa.md`](odpowiedzialnosc-porzadkowa.md)
-  ([Kodeks pracy art. 52 § 2](../przepisy-prawne/md/kodeks-pracy.md#art-52)).
+  ([Kodeks pracy art. 52 § 2](../../przepisy-prawne/md/kodeks-pracy.md#art-52)).
 - **Wymagana konsultacja związkowa przed decyzją**: Zarząd zasięga
   opinii zakładowej organizacji związkowej, zawiadamiając ją o
   przyczynie; związek ma **maks. 3 dni** na wyrażenie zastrzeżeń
-  ([Kodeks pracy art. 52 § 3](../przepisy-prawne/md/kodeks-pracy.md#art-52)).
+  ([Kodeks pracy art. 52 § 3](../../przepisy-prawne/md/kodeks-pracy.md#art-52)).
 
 **Chronieni działacze związkowi** — dla osób wskazanych uchwałą zarządu
 zakładowej organizacji związkowej jako podlegające ochronie (limit
@@ -50,7 +50,7 @@ roboczych** (na zmianę warunków/wypowiedzenie) albo **7 dni roboczych**
 odpowiedzi w terminie = zgoda domniemana. Naruszenie tej ochrony rodzi
 po stronie Spółdzielni obowiązek **rekompensaty w wysokości 6-miesięcznego
 wynagrodzenia** tej osoby, niezależnie od faktycznej szkody
-([ustawa o związkach zawodowych art. 32](../przepisy-prawne/md/ustawa-o-zwiazkach-zawodowych.md#art-32)).
+([ustawa o związkach zawodowych art. 32](../../przepisy-prawne/md/ustawa-o-zwiazkach-zawodowych.md#art-32)).
 **DO UZUPEŁNIENIA**: czy i które osoby są obecnie tak wskazane w SMDM —
 to zależy od uchwały zarządu związku „Budowlani", nie od Spółdzielni.
 
@@ -95,9 +95,9 @@ wciąż aktywny dostęp do systemu po odejściu pracownika, jeśli odebranie
 dostępów nie jest formalnie powiązane z podpisaniem karty obiegowej.
 
 **Źródło / podstawa**: `regulamin-pracy.pdf` § 17, § 19 ust. 5 — patrz
-[`../zrodla/md/regulamin-pracy.md`](../zrodla/md/regulamin-pracy.md#par-19);
+[`../zrodla/md/regulamin-pracy.md`](../../zrodla/md/regulamin-pracy.md#par-19);
 Regulamin ZFŚS § 16 (pożyczki); Kodeks pracy
-[art. 52](../przepisy-prawne/md/kodeks-pracy.md#art-52) (rozwiązanie
+[art. 52](../../przepisy-prawne/md/kodeks-pracy.md#art-52) (rozwiązanie
 dyscyplinarne) — reszta procesu (zwykłe wypowiedzenie, świadectwo
 pracy) nie jest opisana w żadnym z dostępnych dokumentów.
 

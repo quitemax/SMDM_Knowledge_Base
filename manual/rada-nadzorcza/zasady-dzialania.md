@@ -2,14 +2,14 @@
 
 > Źródło: `regulamin-rady-nadzorczej.pdf` (uchwalony przez Walne
 > Zgromadzenie — patrz
-> [`../zrodla/md/regulamin-rady-nadzorczej.md`](../zrodla/md/regulamin-rady-nadzorczej.md#par-27),
+> [`../zrodla/md/regulamin-rady-nadzorczej.md`](../../zrodla/md/regulamin-rady-nadzorczej.md#par-27),
 > § 27: zastąpił poprzedni regulamin uchwalony przez Zebranie
 > Przedstawicieli). Numery paragrafów bez dalszego oznaczenia odnoszą się
 > do tego regulaminu.
 >
 > Podstawa prawna wyższego rzędu: art. 44–46 ustawy Prawo spółdzielcze —
 > patrz
-> [`../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md`](../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-44)
+> [`../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md`](../../przepisy-prawne/md/ustawa-prawo-spoldzielcze.md#art-44)
 > (Statut § 46–53 i niniejszy regulamin rozwijają tę ustawową ramę; Statut
 > § 49 pokrywa się niemal dosłownie z art. 46 § 1 ustawy).
 
