@@ -251,7 +251,7 @@ protokołem.
 
 1. Podział obowiązków w zakresie napraw, remontów bieżących i modernizacji lokali
 określa [Regulamin kosztów gospodarki zasobami mieszkaniowymi oraz ustalania
-opłat za używanie lokali](regulamin-rozliczania-kosztow-gospodarki-zasobami-mieszkaniowymi-i-ustalania-oplat-za-uzywanie-lokali.md), obowiązujący również najemców lokali.
+opłat za używanie lokali](regulamin-rozliczania-kosztow-gzm-i-oplat-za-lokale.md), obowiązujący również najemców lokali.
 2. Zarząd Spółdzielni na wniosek zainteresowanego może zwolnić najemcę od
 ponoszenia całości lub części kosztów eksploatacyjnych w zamian za przejęcie
 wykonywania remontów i innych obowiązków przez najemcę.

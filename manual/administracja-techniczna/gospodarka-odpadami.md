@@ -47,7 +47,7 @@ Głównego Księgowego (FC/FK) — patrz
    mieszkańcy, Łódź stosuje metodę „ilość zużytej wody"
    ([art. 6j ust. 1 pkt 2](../../przepisy-prawne/md/ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach.md#art-6j))
    — zgodnie z wewnętrznym
-   [regulaminem rozliczania kosztów GZM § 24 ust. 2 i 5](../../zrodla/md/regulamin-rozliczania-kosztow-gospodarki-zasobami-mieszkaniowymi-i-ustalania-oplat-za-uzywanie-lokali.md#par-24).
+   [regulaminem rozliczania kosztów GZM § 24 ust. 2 i 5](../../zrodla/md/regulamin-rozliczania-kosztow-gzm-i-oplat-za-lokale.md#par-24).
 2. **Złożenie/aktualizacja deklaracji do Gminy** — obowiązek ustawowy
    właściciela nieruchomości, na której mieszkają mieszkańcy
    ([art. 6m ust. 1](../../przepisy-prawne/md/ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach.md#art-6m)).
@@ -62,7 +62,7 @@ Głównego Księgowego (FC/FK) — patrz
 3. **Naliczanie miesięcznej zaliczki mieszkańcom** — zaliczka =
    średniomiesięczne zużycie wody z roku poprzedniego × stawka z
    uchwały Rady Miejskiej w Łodzi
-   ([regulamin § 24 ust. 5](../../zrodla/md/regulamin-rozliczania-kosztow-gospodarki-zasobami-mieszkaniowymi-i-ustalania-oplat-za-uzywanie-lokali.md#par-24);
+   ([regulamin § 24 ust. 5](../../zrodla/md/regulamin-rozliczania-kosztow-gzm-i-oplat-za-lokale.md#par-24);
    patrz też
    [`../czynsze-ksiegowosc/regulacje-finansowe.md`](../czynsze-ksiegowosc/regulacje-finansowe.md)
    i
@@ -125,7 +125,7 @@ porządku w gminach,
 [6ka](../../przepisy-prawne/md/ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach.md#art-6ka),
 [6o](../../przepisy-prawne/md/ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach.md#art-6o);
 [regulamin rozliczania kosztów gospodarki zasobami mieszkaniowymi
-§ 24](../../zrodla/md/regulamin-rozliczania-kosztow-gospodarki-zasobami-mieszkaniowymi-i-ustalania-oplat-za-uzywanie-lokali.md#par-24);
+§ 24](../../zrodla/md/regulamin-rozliczania-kosztow-gzm-i-oplat-za-lokale.md#par-24);
 zakres obowiązków stanowiska TA (Regulamin Organizacyjny) — patrz
 [`../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md`](../struktura-organizacyjna/stanowiska-i-zakresy-obowiazkow.md).
 Konkretne stawki i tryb uiszczania opłaty ustala uchwała Rady Miejskiej

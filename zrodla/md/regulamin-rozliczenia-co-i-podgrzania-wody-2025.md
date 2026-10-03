@@ -53,7 +53,7 @@ zasobie gminy i o zmianie Kodeksu cywilnego (Dz.U. 2001 nr 71 poz. 733 z późn.
 8. Statut Spółdzielni Mieszkaniowej „Doły-Marysińska”;
 
 9. [Regulamin rozliczania kosztów gospodarki zasobami mieszkaniowymi w Spółdzielni
-Mieszkaniowej „Doły-Marysińska”](regulamin-rozliczania-kosztow-gospodarki-zasobami-mieszkaniowymi-i-ustalania-oplat-za-uzywanie-lokali.md).
+Mieszkaniowej „Doły-Marysińska”](regulamin-rozliczania-kosztow-gzm-i-oplat-za-lokale.md).
 
 <a id="par-2"></a>
 ### § 2

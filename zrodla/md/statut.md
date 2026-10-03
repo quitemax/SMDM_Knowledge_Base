@@ -848,10 +848,10 @@ przeznaczeniu i dzierżawy terenu](regulamin-zasad-zawierania-umow-najmu-lokali.
 terenie Spółdzielni](regulamin-umieszczania-reklam.md),
 
 14) [uchwalanie regulaminu rozliczania kosztów gospodarki zasobami mieszkaniowymi
-i ustalania opłat za używanie lokali](regulamin-rozliczania-kosztow-gospodarki-zasobami-mieszkaniowymi-i-ustalania-oplat-za-uzywanie-lokali.md),
+i ustalania opłat za używanie lokali](regulamin-rozliczania-kosztow-gzm-i-oplat-za-lokale.md),
 
 15) uchwalanie zasad rozliczenia kosztów dostawy ciepła do lokali oraz pobierania
-opłat za [centralne ogrzewanie i podgrzanie wody](regulamin-rozliczenia-kosztow-podgrzania-wody-zuzycia-centralnego-ogrzewania-oraz-oplat-stalych-za-energie-cieplna-2025.md), [zużycie zimnej wody](regulamin-rozliczenia-kosztow-zuzycia-wody.md),
+opłat za [centralne ogrzewanie i podgrzanie wody](regulamin-rozliczenia-co-i-podgrzania-wody-2025.md), [zużycie zimnej wody](regulamin-rozliczenia-kosztow-zuzycia-wody.md),
 
 16) [uchwalanie regulaminu tworzenia, wydatkowania i rozliczania środków
 finansowych funduszu remontowego](regulamin-tworzenia-wydatkowania-i-rozliczania-srodkow-funduszu-remontowego.md),
@@ -2037,7 +2037,7 @@ wysokości pomniejszonej o kwotę należną Spółdzielni z tytułu opłat już 
 #### § 160
 
 Podział obowiązków w zakresie napraw wewnątrz lokali określa [regulamin rozliczania
-kosztów gospodarki zasobami mieszkaniowymi i ustalania opłat za używanie lokali](regulamin-rozliczania-kosztow-gospodarki-zasobami-mieszkaniowymi-i-ustalania-oplat-za-uzywanie-lokali.md).
+kosztów gospodarki zasobami mieszkaniowymi i ustalania opłat za używanie lokali](regulamin-rozliczania-kosztow-gzm-i-oplat-za-lokale.md).
 
 <a id="dzial-10"></a>
 ## 10. Przepisy przejściowe i końcowe
