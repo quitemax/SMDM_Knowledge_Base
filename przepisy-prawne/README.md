@@ -315,22 +315,26 @@ konwersji na Markdown.
 
 ### 1. Ustrój spółdzielni
 
+<!-- build_indexes:przepisy:1 -->
 | Plik | Źródło (Dz.U.) | Stan prawny na dzień |
 |---|---|---|
 | `ustawa-prawo-spoldzielcze.pdf` | 2026 poz. 521 | 23.03.2026 |
 | `ustawa-o-spoldzielniach-mieszkaniowych.pdf` | 2026 poz. 889 | 10.06.2026 |
-| `ustawa-o-wlasnosci-lokali.pdf` | 2026 poz. 232 | — (tekst jednolity z 20.02.2026) |
+| `ustawa-o-wlasnosci-lokali.pdf` | 2026 poz. 232 | 20.02.2026 |
+<!-- /build_indexes:przepisy:1 -->
 
 ### 2. Proces budowlany i utrzymanie budynku
 
+<!-- build_indexes:przepisy:2 -->
 | Plik | Źródło (Dz.U.) | Uwagi |
 |---|---|---|
-| `ustawa-prawo-budowlane.pdf` | 2026 poz. 524 | tekst jednolity, stan na 19.03.2026 |
-| `ustawa-prawo-budowlane-nowelizacja-2025-1847.pdf` | 2025 poz. 1847 | nowelizacja z 4.12.2025, wchodzi etapami (część przepisów dopiero 20.09.2026 i 1.04.2027) — **nie jest jeszcze w pełni wliczona** do tekstu jednolitego powyżej |
-| `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE.pdf` | 1999 nr 74 poz. 836 | **UCHYLONE 21.09.2026.** Zastępujące rozporządzenie jeszcze nie zostało opublikowane (trwa proces legislacyjny w MRiT) — 18-miesięczny okres przejściowy pozwala nadal stosować te przepisy |
-| `rozporzadzenie-warunki-techniczne-budynkow-i-usytuowanie-2002-UCHYLONE.pdf` | tekst jedn. 2022 poz. 1225 (akt macierzysty 2002 nr 75 poz. 690) | **UCHYLONE 20.09.2026**, ten sam powód co wyżej — zastępujące rozporządzenie ma objąć oba akty naraz |
-| `rozporzadzenie-ksiazka-obiektu-budowlanego-c-kob.pdf` | 2022 poz. 2778 | obowiązujący |
-| `rozporzadzenie-dziennik-budowy-edb.pdf` | 2023 poz. 45 | obowiązujący |
+| `ustawa-prawo-budowlane.pdf` | 2026 poz. 524 | Tekst jednolity, stan na 19.03.2026. |
+| `ustawa-prawo-budowlane-nowelizacja-2025-1847.pdf` | 2025 poz. 1847 | Nowelizacja z 4.12.2025, wchodząca w życie etapami (część przepisów dopiero 20.09.2026 i 1.04.2027); nie jest jeszcze w pełni wliczona do tekstu jednolitego Prawa budowlanego. |
+| `rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE.pdf` | 1999 nr 74 poz. 836 | Uchylone 21.09.2026. Rozporządzenie zastępujące jeszcze nie zostało opublikowane (trwa proces legislacyjny w MRiT); 18-miesięczny okres przejściowy pozwala nadal stosować te przepisy. |
+| `rozporzadzenie-warunki-techniczne-budynkow-i-usytuowanie-2002-UCHYLONE.pdf` | tekst jedn. 2022 poz. 1225 (akt macierzysty 2002 nr 75 poz. 690) | Uchylone 20.09.2026, z tego samego powodu co rozporządzenie z 1999 r.: zastępujące rozporządzenie ma objąć oba akty naraz. |
+| `rozporzadzenie-ksiazka-obiektu-budowlanego-c-kob.pdf` | 2022 poz. 2778 | Obowiązujące. |
+| `rozporzadzenie-dziennik-budowy-edb.pdf` | 2023 poz. 45 | Obowiązujące. |
+<!-- /build_indexes:przepisy:2 -->
 
 **⚠️ Do zrobienia priorytetowo:** sprawdzić, czy nowe rozporządzenie zastępujące warunki
 techniczne (1999 + 2002) zostało już opublikowane — patrz sekcja „Interwały sprawdzania”
@@ -338,80 +342,96 @@ niżej.
 
 ### 3. BHP przy robotach budowlanych
 
+<!-- build_indexes:przepisy:3 -->
 | Plik | Źródło (Dz.U.) | Uwagi |
 |---|---|---|
-| `rozporzadzenie-bhp-roboty-budowlane.pdf` | 2003 nr 47 poz. 401 | brak formalnego tekstu jednolitego — pobrano tekst oryginalny |
-| `rozporzadzenie-ogolne-przepisy-bhp.pdf` | 2003 nr 169 poz. 1650 | tekst jednolity, obowiązujący |
-| `rozporzadzenie-plan-bioz.pdf` | 2003 nr 120 poz. 1126 | obowiązujący |
+| `rozporzadzenie-bhp-roboty-budowlane.pdf` | 2003 nr 47 poz. 401 | Brak formalnego tekstu jednolitego; zamieszczono tekst oryginalny. |
+| `rozporzadzenie-ogolne-przepisy-bhp.pdf` | 2003 nr 169 poz. 1650 | Tekst jednolity, obowiązujący. |
+| `rozporzadzenie-plan-bioz.pdf` | 2003 nr 120 poz. 1126 | Obowiązujące. |
+<!-- /build_indexes:przepisy:3 -->
 
 ### 4. Ochrona przeciwpożarowa
 
+<!-- build_indexes:przepisy:4 -->
 | Plik | Źródło (Dz.U.) | Uwagi |
 |---|---|---|
-| `ustawa-o-ochronie-przeciwpozarowej.pdf` | 2025 poz. 188 | tekst jednolity; nowelizacja DU 2026/815 (ustawa o zarządzaniu kryzysowym) jeszcze nie wliczona |
-| `rozporzadzenie-ochrona-przeciwpozarowa-budynkow.pdf` | 2023 poz. 822 | tekst jednolity |
-| `rozporzadzenie-ochrona-przeciwpozarowa-budynkow-nowelizacja-2024-1716.pdf` | 2024 poz. 1716 | nowelizacja z 21.11.2024, jeszcze nie wliczona do tekstu jednolitego powyżej |
+| `ustawa-o-ochronie-przeciwpozarowej.pdf` | 2025 poz. 188 | Tekst jednolity; nowelizacja Dz.U. 2026 poz. 815 (ustawa o zarządzaniu kryzysowym) nie jest jeszcze wliczona. |
+| `rozporzadzenie-ochrona-przeciwpozarowa-budynkow.pdf` | 2023 poz. 822 | Tekst jednolity. |
+| `rozporzadzenie-ochrona-przeciwpozarowa-budynkow-nowelizacja-2024-1716.pdf` | 2024 poz. 1716 | Nowelizacja z 21.11.2024; nie jest jeszcze wliczona do tekstu jednolitego rozporządzenia. |
+<!-- /build_indexes:przepisy:4 -->
 
 Przewody kominowe i CEEB nie mają odrębnego aktu — podstawa to Prawo budowlane (kat. 2)
 i ustawa o CEEB (kat. 5).
 
 ### 5. Energia, ciepło, termomodernizacja
 
+<!-- build_indexes:przepisy:5 -->
 | Plik | Źródło (Dz.U.) | Uwagi |
 |---|---|---|
-| `ustawa-o-charakterystyce-energetycznej-budynkow.pdf` | 2024 poz. 101 | tekst jednolity |
-| `ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.pdf` | 2026 poz. 920 | tekst jednolity, stan na 25.06.2026. **Ta ustawa dostaje nowy tekst jednolity wyjątkowo często** (styczeń 2022, październik 2024, wrzesień 2025, lipiec 2026) |
-| `rozporzadzenie-audyt-energetyczny.pdf` | 2009 nr 43 poz. 346 | tekst oryginalny (brak tekstu jednolitego) |
-| `rozporzadzenie-audyt-energetyczny-nowelizacja-2022-2816.pdf` | 2022 poz. 2816 | najnowsza nowelizacja wzorów kart audytu |
-| `ustawa-prawo-energetyczne.pdf` | 2026 poz. 43 | tekst jednolity, stan na dzień ogłoszenia 5.12.2025 |
-| `rozporzadzenie-podzielniki-kosztow-ogrzewania.pdf` | 2021 poz. 2273 | obowiązujący |
+| `ustawa-o-charakterystyce-energetycznej-budynkow.pdf` | 2024 poz. 101 | Tekst jednolity. |
+| `ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.pdf` | 2026 poz. 920 | Tekst jednolity, stan na 25.06.2026. Ustawa dostaje nowy tekst jednolity wyjątkowo często (styczeń 2022, październik 2024, wrzesień 2025, lipiec 2026). |
+| `rozporzadzenie-audyt-energetyczny.pdf` | 2009 nr 43 poz. 346 | Tekst oryginalny (brak tekstu jednolitego). |
+| `rozporzadzenie-audyt-energetyczny-nowelizacja-2022-2816.pdf` | 2022 poz. 2816 | Najnowsza nowelizacja wzorów kart audytu. |
+| `ustawa-prawo-energetyczne.pdf` | 2026 poz. 43 | Tekst jednolity, stan na dzień ogłoszenia 5.12.2025. |
+| `rozporzadzenie-podzielniki-kosztow-ogrzewania.pdf` | 2021 poz. 2273 | Obowiązujące. |
+<!-- /build_indexes:przepisy:5 -->
 
 ### 6. Media, odpady, woda
 
+<!-- build_indexes:przepisy:6 -->
 | Plik | Źródło (Dz.U.) | Uwagi |
 |---|---|---|
-| `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach.pdf` | 2025 poz. 733 | tekst jednolity |
-| `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-i-odprowadzaniu-sciekow.pdf` | 2024 poz. 757 | tekst jednolity |
-| `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605.pdf` | 2026 poz. 605 | duża nowelizacja (wdrożenie dyrektywy UE 2020/2184), weszła w życie 21.05.2026, jeszcze nie wliczona do tekstu jednolitego powyżej |
-| `ustawa-prawo-o-miarach.pdf` | 2022 poz. 2063 | tekst jednolity |
-| `rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych.pdf` | 2026 poz. 551 | tekst jednolity (dot. terminów legalizacji wodomierzy — 5 lat, załącznik nr 5) |
+| `ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach.pdf` | 2025 poz. 733 | Tekst jednolity. |
+| `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-i-odprowadzaniu-sciekow.pdf` | 2024 poz. 757 | Tekst jednolity. |
+| `ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605.pdf` | 2026 poz. 605 | Duża nowelizacja (wdrożenie dyrektywy UE 2020/2184), weszła w życie 21.05.2026; nie jest jeszcze wliczona do tekstu jednolitego ustawy. |
+| `ustawa-prawo-o-miarach.pdf` | 2022 poz. 2063 | Tekst jednolity. |
+| `rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych.pdf` | 2026 poz. 551 | Tekst jednolity; dotyczy m.in. terminów legalizacji wodomierzy (5 lat, załącznik nr 5). |
+<!-- /build_indexes:przepisy:6 -->
 
 ### 7. Dźwigi i urządzenia techniczne
 
+<!-- build_indexes:przepisy:7 -->
 | Plik | Źródło (Dz.U.) | Uwagi |
 |---|---|---|
-| `ustawa-o-dozorze-technicznym.pdf` | 2024 poz. 1194 | tekst jednolity |
-| `ustawa-o-dozorze-technicznym-nowelizacja-2026-252.pdf` | 2026 poz. 252 | nowelizacja z 23.01.2026, jeszcze nie wliczona |
-| `rozporzadzenie-dozor-techniczny-dzwigi-utb.pdf` | 2018 poz. 2176 | tekst oryginalny (urządzenia transportu bliskiego, w tym dźwigi osobowe) |
+| `ustawa-o-dozorze-technicznym.pdf` | 2024 poz. 1194 | Tekst jednolity. |
+| `ustawa-o-dozorze-technicznym-nowelizacja-2026-252.pdf` | 2026 poz. 252 | Nowelizacja z 23.01.2026; nie jest jeszcze wliczona do tekstu jednolitego ustawy o dozorze technicznym. |
+| `rozporzadzenie-dozor-techniczny-dzwigi-utb.pdf` | 2018 poz. 2176 | Tekst oryginalny; dotyczy urządzeń transportu bliskiego, w tym dźwigów osobowych. |
+<!-- /build_indexes:przepisy:7 -->
 
 ### 8. Finanse, rachunkowość, umowy
 
+<!-- build_indexes:przepisy:8 -->
 | Plik | Źródło (Dz.U.) | Uwagi |
 |---|---|---|
-| `ustawa-o-rachunkowosci.pdf` | 2026 poz. 522 | tekst jednolity |
-| `ustawa-o-podatku-dochodowym-od-osob-prawnych-cit.pdf` | 2026 poz. 554 | tekst jednolity, stan na 18.03.2026 |
-| `ustawa-prawo-zamowien-publicznych.pdf` | 2026 poz. 793 | tekst jednolity, stan na 25.05.2026 |
-| `kodeks-cywilny.pdf` | 2026 poz. 795 | tekst jednolity, stan na 19.05.2026 (całość kodeksu — dla Spółdzielni istotne zwłaszcza art. 647 i nast. o umowie o roboty budowlane, rękojmia, gwarancja) |
+| `ustawa-o-rachunkowosci.pdf` | 2026 poz. 522 | Tekst jednolity. |
+| `ustawa-o-podatku-dochodowym-od-osob-prawnych-cit.pdf` | 2026 poz. 554 | Tekst jednolity, stan na 18.03.2026. |
+| `ustawa-prawo-zamowien-publicznych.pdf` | 2026 poz. 793 | Tekst jednolity, stan na 25.05.2026. |
+| `kodeks-cywilny.pdf` | 2026 poz. 795 | Tekst jednolity, stan na 19.05.2026 (całość kodeksu; dla Spółdzielni istotne zwłaszcza art. 647 i nast. o umowie o roboty budowlane, rękojmia, gwarancja). |
+<!-- /build_indexes:przepisy:8 -->
 
 ### 9. Dane osobowe i sprawy lokatorskie
 
+<!-- build_indexes:przepisy:9 -->
 | Plik | Źródło | Uwagi |
 |---|---|---|
-| `rodo-rozporzadzenie-2016-679.pdf` | Dz.Urz. UE L 119/1 z 4.5.2016 | rozporządzenie unijne, stosowane wprost, nie ma polskiego tekstu jednolitego do aktualizacji; PDF z mirrora PIBR (zapasowo — EUR-Lex bywa niedostępny, blokada anty-botowa), ale MD przekonwertowano z HTML pobranego bezpośrednio z EUR-Lex |
-| `ustawa-o-ochronie-danych-osobowych.pdf` | 2019 poz. 1781 | tekst jednolity z 2019 r.; nowelizacje DU 2026/252 i DU 2026/548 jeszcze nie wliczone |
-| `ustawa-o-ochronie-praw-lokatorow.pdf` | 2023 poz. 725 | tekst jednolity |
+| `rodo-rozporzadzenie-2016-679.pdf` | Dz.Urz. UE L 119/1 z 4.5.2016 | Rozporządzenie unijne stosowane wprost; nie ma polskiego tekstu jednolitego do aktualizacji. Tekst md przekonwertowano z HTML pobranego z EUR-Lex. |
+| `ustawa-o-ochronie-danych-osobowych.pdf` | 2019 poz. 1781 | Tekst jednolity z 2019 r.; nowelizacje Dz.U. 2026 poz. 252 i poz. 548 nie są jeszcze wliczone. |
+| `ustawa-o-ochronie-praw-lokatorow.pdf` | 2023 poz. 725 | Tekst jednolity. |
+<!-- /build_indexes:przepisy:9 -->
 
 ### 10. Kadry i prawo pracy
 
 Dodane 28.09.2026 — patrz sekcja „Stan konwersji do Markdown” (batch 10) po szczegóły
 konwersji i napotkane błędy.
 
+<!-- build_indexes:przepisy:10 -->
 | Plik | Źródło (Dz.U.) | Uwagi |
 |---|---|---|
-| `kodeks-pracy.pdf` | 2026 poz. 1245 | tekst jednolity, stan na dzień ogłoszenia 1.09.2026; zawiera już zapowiedzianą zmianę § 2 art. 18[3a] wchodzącą w życie dopiero 5.11.2026 (widoczna w treści z przypisem) |
-| `ustawa-o-zakladowym-funduszu-swiadczen-socjalnych.pdf` | 2024 poz. 288 | tekst jednolity z 26.02.2024 |
-| `ustawa-o-zakladowym-funduszu-swiadczen-socjalnych-nowelizacja-2026-25.pdf` | 2026 poz. 25 | nowelizacja (razem z Kodeksem pracy) z 4.12.2025, weszła w życie 27.01.2026 — **nie jest jeszcze wliczona** do tekstu jednolitego ZFŚS powyżej (Kodeksu pracy dotyczy, ale tam już wliczona, bo jego tekst jednolity jest nowszy) |
-| `ustawa-o-zwiazkach-zawodowych.pdf` | 2026 poz. 549 | tekst jednolity, stan na dzień ogłoszenia 17.04.2026 |
+| `kodeks-pracy.pdf` | 2026 poz. 1245 | Tekst jednolity, stan na dzień ogłoszenia 1.09.2026; zawiera już zapowiedzianą zmianę art. 18[3a] § 2, wchodzącą w życie dopiero 5.11.2026 (widoczną w treści z przypisem). |
+| `ustawa-o-zakladowym-funduszu-swiadczen-socjalnych.pdf` | 2024 poz. 288 | Tekst jednolity z 26.02.2024. |
+| `ustawa-o-zakladowym-funduszu-swiadczen-socjalnych-nowelizacja-2026-25.pdf` | 2026 poz. 25 | Nowelizacja z 4.12.2025, weszła w życie 27.01.2026; nie jest jeszcze wliczona do tekstu jednolitego ustawy o ZFŚS (w Kodeksie pracy jest już wliczona, bo jego tekst jednolity jest nowszy). |
+| `ustawa-o-zwiazkach-zawodowych.pdf` | 2026 poz. 549 | Tekst jednolity, stan na dzień ogłoszenia 17.04.2026. |
+<!-- /build_indexes:przepisy:10 -->
 
 ### 11. Zgodność / zgłaszanie nieprawidłowości
 
@@ -420,9 +440,11 @@ Dodane 29.09.2026 — gap ujawnił się przy audycie pakietu dokumentów etyczny
 pisana bez odniesienia do tej ustawy, mimo że jest to dokładnie ten rodzaj wewnętrznego
 kanału, którego ustawa wymaga dla podmiotów z ≥50 zatrudnionymi.
 
+<!-- build_indexes:przepisy:11 -->
 | Plik | Źródło (Dz.U.) | Uwagi |
 |---|---|---|
-| `ustawa-o-ochronie-sygnalistow.pdf` | 2024 poz. 928 | tekst oryginalny (ustawa z 14.06.2024, brak jeszcze tekstu jednolitego); weszła w życie 25.09.2024, część przepisów 25.12.2024. Konwersja z HTML (`html_to_md.py`), bez problemów konwersji. |
+| `ustawa-o-ochronie-sygnalistow.pdf` | 2024 poz. 928 | Tekst oryginalny (ustawa z 14.06.2024; brak jeszcze tekstu jednolitego); weszła w życie 25.09.2024, część przepisów 25.12.2024. |
+<!-- /build_indexes:przepisy:11 -->
 
 **Do zweryfikowania przed wykorzystaniem w SMDM**: czy Spółdzielnia zatrudnia ≥50 osób
 (art. 23 ust. 1–2) — od tego zależy, czy ustawa wiąże ją obowiązkowo, czy tylko fakultatywnie

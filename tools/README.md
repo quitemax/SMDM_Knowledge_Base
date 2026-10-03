@@ -11,6 +11,45 @@ uruchamiane ręcznie przy okazji dodawania nowego dokumentu źródłowego.
 (`docx`, dla dwóch skryptów docx). Żaden skrypt nie wymaga Pandoc ani
 LibreOffice.
 
+## Metadane i spisy dokumentów
+
+Format metadanych (front matter) opisuje
+[`../docs/kontrakt-importu.md`](../docs/kontrakt-importu.md). Zależność:
+`pyyaml` (`pip install pyyaml`). Oba skrypty uruchamiane są też w GitHub
+Actions (`.github/workflows/validate.yml`).
+
+### `validate_front_matter.py`
+
+Waliduje front matter wszystkich plików md w `manual/`, `zrodla/md/` i
+`przepisy-prawne/md/`: wymagane pola, dozwolone wartości `kind`/`status`/
+`audience`, istnienie pliku `pdf`, poprawność `superseded_by`, unikalność
+nazw plików, nagłówek `#` na początku treści oraz to, że wszystkie
+względne odnośniki (i kotwice `#...`) prowadzą do istniejących miejsc.
+Kończy się kodem ≠ 0 i listą błędów z numerami linii. `-v` wypisuje też
+ostrzeżenia (np. brak `legal_state_date`).
+
+```
+python tools/validate_front_matter.py [-v]
+```
+
+### `build_indexes.py`
+
+Generuje z front matter `zrodla/spis-dokumentow.md` oraz tabele aktów w
+`przepisy-prawne/README.md` (tylko fragmenty między znacznikami
+`<!-- build_indexes:... -->`; reszta tych plików jest ręczna). Spisów nie
+edytuje się ręcznie — zmiana opisu/kolejności to zmiana front matter i
+ponowne uruchomienie skryptu. `--check` nic nie zapisuje i kończy się kodem
+1, gdy spisy są nieaktualne.
+
+```
+python tools/build_indexes.py [--check]
+```
+
+**Uwaga:** skrypty konwersji poniżej tworzą plik md bez front matter —
+po konwersji dodaj blok metadanych (patrz kontrakt importu) i uruchom
+`validate_front_matter.py`. `toc_and_links.py` uruchamiaj przed dodaniem
+front matter albo pamiętaj, że działa na treści pliku, nie na bloku YAML.
+
 ## Konwersja przepisów prawnych (`przepisy-prawne/`)
 
 ### `pdf_to_md.py`
