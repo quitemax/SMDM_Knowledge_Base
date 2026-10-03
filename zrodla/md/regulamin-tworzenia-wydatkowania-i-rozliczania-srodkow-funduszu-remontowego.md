@@ -1,3 +1,14 @@
+---
+title: "Regulamin funduszu remontowego"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Tworzenie, wydatkowanie i rozliczanie środków funduszu remontowego."
+category: "Finanse i rozliczenia"
+pdf: "../pdf/regulamin-tworzenia-wydatkowania-i-rozliczania-srodkow-funduszu-remontowego.pdf"
+order: 12
+---
+
 # Regulamin tworzenia, wydatkowania i rozliczania środków finansowych funduszu remontowego w Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 ## Spis treści

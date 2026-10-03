@@ -1,3 +1,15 @@
+---
+title: "Ustawa o utrzymaniu czystości i porządku w gminach"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity."
+category: "6. Media, odpady, woda"
+pdf: "../pdf/ustawa-o-utrzymaniu-czystosci-i-porzadku-w-gminach.pdf"
+publisher: "Dz.U. 2025 poz. 733"
+order: 22
+---
+
 # Ustawa z dnia 13 września 1996 r.
 
 o utrzymaniu czystości i porządku w gminach1)

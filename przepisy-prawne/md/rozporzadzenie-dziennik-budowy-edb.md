@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie dziennika budowy oraz systemu Elektroniczny Dziennik Budowy"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Obowiązujące."
+category: "2. Proces budowlany i utrzymanie budynku"
+pdf: "../pdf/rozporzadzenie-dziennik-budowy-edb.pdf"
+publisher: "Dz.U. 2023 poz. 45"
+order: 9
+---
+
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 22 grudnia 2022 r.
 
 w sprawie dziennika budowy oraz systemu Elektroniczny Dziennik Budowy [1)]

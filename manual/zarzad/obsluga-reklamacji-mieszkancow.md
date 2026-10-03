@@ -1,3 +1,13 @@
+---
+title: "Obsługa reklamacji mieszkańców eskalowanych do Zarządu"
+kind: manual
+status: obowiazujacy
+audience: [management, supervisory]
+summary: "Rozpatrywanie skarg mieszkańców, które nie zostały rozwiązane na poziomie administracji osiedlowej."
+section: zarzad
+incomplete: true
+---
+
 # Obsługa reklamacji/skarg mieszkańców eskalowanych do zarządu
 
 **Cel procesu**: rozpatrzenie skarg mieszkańców na działanie

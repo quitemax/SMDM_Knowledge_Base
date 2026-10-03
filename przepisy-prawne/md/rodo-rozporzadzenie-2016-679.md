@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie (UE) 2016/679 (RODO)"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Rozporządzenie unijne stosowane wprost; nie ma polskiego tekstu jednolitego do aktualizacji. Tekst md przekonwertowano z HTML pobranego z EUR-Lex."
+category: "9. Dane osobowe i sprawy lokatorskie"
+pdf: "../pdf/rodo-rozporzadzenie-2016-679.pdf"
+publisher: "Dz.Urz. UE L 119/1 z 4.5.2016"
+order: 34
+---
+
 # ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) 2016/679 z dnia 27 kwietnia 2016 r.
 
 w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)

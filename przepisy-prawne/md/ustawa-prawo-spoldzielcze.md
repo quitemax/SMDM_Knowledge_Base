@@ -1,3 +1,15 @@
+---
+title: "Prawo spółdzielcze"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+category: "1. Ustrój spółdzielni"
+pdf: "../pdf/ustawa-prawo-spoldzielcze.pdf"
+publisher: "Dz.U. 2026 poz. 521"
+legal_state_date: 2026-03-23
+order: 1
+---
+
 # Ustawa z dnia 16 września 1982 r.
 
 Prawo spółdzielcze

@@ -1,3 +1,14 @@
+---
+title: "Regulamin zasad zawierania umów najmu lokali"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zasady najmu lokali mieszkalnych, lokali o innym przeznaczeniu i dzierżawy terenu."
+category: "Członkostwo i prawa do lokali"
+pdf: "../pdf/regulamin-zasad-zawierania-umow-najmu-lokali.pdf"
+order: 19
+---
+
 # Regulamin w sprawie zasad zawierania umów najmu lokali mieszkalnych, lokali o innym przeznaczeniu i dzierżawy terenu w SM „Doły — Marysińska”
 
 *(tekst jednolity)*

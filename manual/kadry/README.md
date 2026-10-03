@@ -1,3 +1,13 @@
+---
+title: "Kadry"
+kind: manual
+status: obowiazujacy
+audience: [hr, management]
+summary: "Procesy pracownicze: od zatrudnienia po zakończenie współpracy, urlopy, dyscyplina pracy, wynagrodzenia."
+section: kadry
+order: 0
+---
+
 # kadry/
 
 Procesy pracownicze: od zatrudnienia po zakończenie współpracy, urlopy,

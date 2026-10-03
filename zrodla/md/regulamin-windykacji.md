@@ -1,3 +1,14 @@
+---
+title: "Regulamin windykacji"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Procedura windykacji należności Spółdzielni (wezwania, ugody, postępowanie sądowe/egzekucyjne)."
+category: "Finanse i rozliczenia"
+pdf: "../pdf/regulamin-windykacji.pdf"
+order: 16
+---
+
 # Regulamin windykacji należności w Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 *(tekst jednolity)*

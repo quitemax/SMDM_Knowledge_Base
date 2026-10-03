@@ -1,3 +1,13 @@
+---
+title: "Zarząd"
+kind: manual
+status: obowiazujacy
+audience: [management, supervisory]
+summary: "Procesy zarządcze: jak Zarząd pracuje i podejmuje decyzje, sprawy członkowskie i statutowe."
+section: zarzad
+order: 0
+---
+
 # zarzad/
 
 Procesy zarządcze: jak Zarząd pracuje i podejmuje decyzje, sprawy

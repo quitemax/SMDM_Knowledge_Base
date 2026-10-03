@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie informacji dotyczącej bezpieczeństwa i ochrony zdrowia oraz planu bezpieczeństwa i ochrony zdrowia"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Obowiązujące."
+category: "3. BHP przy robotach budowlanych"
+pdf: "../pdf/rozporzadzenie-plan-bioz.pdf"
+publisher: "Dz.U. 2003 nr 120 poz. 1126"
+order: 12
+---
+
 # Rozporządzenie Ministra Infrastruktury[1)] z dnia 23 czerwca 2003 r.
 
 w sprawie informacji dotyczącej bezpieczeństwa i ochrony zdrowia oraz planu bezpieczeństwa i ochrony zdrowia

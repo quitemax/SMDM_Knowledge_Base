@@ -1,3 +1,13 @@
+---
+title: "Zgłaszanie spraw"
+kind: manual
+status: obowiazujacy
+audience: [public]
+summary: "Jak i gdzie mieszkaniec zgłasza awarie, zagrożenia i inne sprawy oraz czego może się spodziewać."
+section: procedury-mieszkancow
+incomplete: true
+---
+
 # Czego mieszkaniec może się spodziewać — zgłaszanie spraw
 
 > Materiał do wykorzystania też przy komunikacji zewnętrznej.

@@ -1,3 +1,16 @@
+---
+title: "Prawo zamówień publicznych"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity, stan na 25.05.2026."
+category: "8. Finanse, rachunkowość, umowy"
+pdf: "../pdf/ustawa-prawo-zamowien-publicznych.pdf"
+publisher: "Dz.U. 2026 poz. 793"
+legal_state_date: 2026-05-25
+order: 32
+---
+
 # Ustawa z dnia 11 września 2019 r.
 
 Prawo zamówień publicznych1)

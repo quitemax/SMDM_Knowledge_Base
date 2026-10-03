@@ -1,3 +1,14 @@
+---
+title: "Regulamin eksploatacji instalacji domofonowej"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zasady montażu, eksploatacji, konserwacji instalacji domofonowej i opłat z tego tytułu."
+category: "Porządek, technika, inne"
+pdf: "../pdf/regulamin-eksploatacji-instalacji-domofonowej.pdf"
+order: 24
+---
+
 # Regulamin eksploatacji instalacji domofonowej w zasobach Spółdzielni Mieszkaniowej „Doły-Marysińska”
 
 ## Spis treści

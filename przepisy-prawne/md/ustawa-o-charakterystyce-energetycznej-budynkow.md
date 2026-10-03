@@ -1,3 +1,15 @@
+---
+title: "Ustawa o charakterystyce energetycznej budynków"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity."
+category: "5. Energia, ciepło, termomodernizacja"
+pdf: "../pdf/ustawa-o-charakterystyce-energetycznej-budynkow.pdf"
+publisher: "Dz.U. 2024 poz. 101"
+order: 16
+---
+
 # Ustawa z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków
 
 <a id="spis-tresci"></a>

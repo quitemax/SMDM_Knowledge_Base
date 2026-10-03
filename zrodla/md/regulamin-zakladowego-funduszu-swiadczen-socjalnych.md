@@ -1,3 +1,14 @@
+---
+title: "Regulamin Zakładowego Funduszu Świadczeń Socjalnych"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zasady tworzenia i wydatkowania ZFŚS, komu i na jakich zasadach przysługują świadczenia."
+category: "Organizacja i pracownicy"
+pdf: "../pdf/regulamin-zakladowego-funduszu-swiadczen-socjalnych.pdf"
+order: 10
+---
+
 # Regulamin zakładowego funduszu świadczeń socjalnych w SM „Doły-Marysińska”
 
 *(tekst jednolity)*

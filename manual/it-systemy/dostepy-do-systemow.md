@@ -1,3 +1,12 @@
+---
+title: "Zarządzanie dostępami do systemów"
+kind: manual
+status: projekt
+audience: [admin]
+summary: "Odsyłacz do dokumentu o dostępach do systemów (kto ma dostęp i jak się go nadaje lub odbiera); treść jeszcze niedostępna."
+section: it-systemy
+---
+
 # Zarządzanie dostępami do systemów
 
 To odsyłacz/placeholder, nie treść — zgodnie z rozmową, w której

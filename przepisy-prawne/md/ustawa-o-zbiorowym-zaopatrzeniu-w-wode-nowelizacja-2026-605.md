@@ -1,3 +1,15 @@
+---
+title: "Ustawa z 13 marca 2026 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Duża nowelizacja (wdrożenie dyrektywy UE 2020/2184), weszła w życie 21.05.2026; nie jest jeszcze wliczona do tekstu jednolitego ustawy."
+category: "6. Media, odpady, woda"
+pdf: "../pdf/ustawa-o-zbiorowym-zaopatrzeniu-w-wode-nowelizacja-2026-605.pdf"
+publisher: "Dz.U. 2026 poz. 605"
+order: 24
+---
+
 # Ustawa z dnia 13 marca 2026 r.
 
 o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw1), 2)

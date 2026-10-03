@@ -1,3 +1,13 @@
+---
+title: "Mapa zastępowalności"
+kind: manual
+status: obowiazujacy
+audience: [membership, technical, finance, hr, management, supervisory]
+summary: "Kto zastępuje kogo podczas urlopu lub choroby."
+section: struktura-organizacyjna
+incomplete: true
+---
+
 # Mapa zastępowalności
 
 Kto zastępuje kogo podczas urlopu/choroby — z perspektywy kompetencji

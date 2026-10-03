@@ -1,3 +1,14 @@
+---
+title: "Regulamin rozliczenia kosztów c.o. i podgrzania wody"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Rozliczanie kosztów podgrzania wody, zużycia centralnego ogrzewania oraz opłat stałych za energię cieplną."
+category: "Finanse i rozliczenia"
+pdf: "../pdf/regulamin-rozliczenia-co-i-podgrzania-wody-2025.pdf"
+order: 14
+---
+
 # Regulamin rozliczania kosztów podgrzania wody, zużycia centralnego ogrzewania oraz opłat stałych za energię cieplną w Spółdzielni Mieszkaniowej „Doły-Marysińska”
 
 ## Spis treści

@@ -1,3 +1,13 @@
+---
+title: "Przegląd okresowy budynku"
+kind: manual
+status: obowiazujacy
+audience: [technical, management]
+summary: "Przeglądy budowlane, kominiarskie, ppoż. i dźwigowe: kto je wykonuje, protokoły, książka obiektu."
+section: administracja-techniczna
+incomplete: true
+---
+
 # Przegląd okresowy budynku (budowlany, kominiarski, ppoż, dźwigowy)
 
 **Cel procesu**: zapewnienie zgodności budynków z wymogami prawa

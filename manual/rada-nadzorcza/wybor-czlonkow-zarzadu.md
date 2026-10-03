@@ -1,3 +1,13 @@
+---
+title: "Wybór członków Zarządu"
+kind: manual
+status: obowiazujacy
+audience: [supervisory, management]
+summary: "Obsadzanie stanowisk w Zarządzie w drodze tajnego głosowania Rady Nadzorczej."
+section: rada-nadzorcza
+incomplete: true
+---
+
 # Wybór członków Zarządu przez Radę Nadzorczą
 
 **Cel procesu**: obsadzenie stanowisk w Zarządzie (Prezes, zastępcy/

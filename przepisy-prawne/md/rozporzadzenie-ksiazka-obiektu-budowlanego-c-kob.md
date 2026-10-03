@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie książki obiektu budowlanego oraz systemu Cyfrowa Książka Obiektu Budowlanego"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Obowiązujące."
+category: "2. Proces budowlany i utrzymanie budynku"
+pdf: "../pdf/rozporzadzenie-ksiazka-obiektu-budowlanego-c-kob.pdf"
+publisher: "Dz.U. 2022 poz. 2778"
+order: 8
+---
+
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 15 grudnia 2022 r.
 
 w sprawie książki obiektu budowlanego oraz systemu Cyfrowa Książka Obiektu Budowlanego [1)]

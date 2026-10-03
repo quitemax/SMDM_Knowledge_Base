@@ -1,3 +1,13 @@
+---
+title: "Rozliczenie funduszu remontowego"
+kind: manual
+status: obowiazujacy
+audience: [finance, membership, management]
+summary: "Gromadzenie i wydatkowanie środków na remonty oraz okresowe rozliczanie z mieszkańcami poszczególnych nieruchomości."
+section: czynsze-ksiegowosc
+incomplete: true
+---
+
 # Rozliczenie funduszu remontowego
 
 **Cel procesu**: gromadzenie i wydatkowanie środków na remonty zasobów

@@ -1,3 +1,14 @@
+---
+title: "Uchwała RN nr 4/R/26 (14.01.2026) — plan remontów, osiedle Doły"
+kind: uchwala
+status: obowiazujacy
+audience: [member, management, supervisory]
+summary: "Plan remontów zasobów mieszkaniowych na 2026 r. dla osiedla „Doły\" — z tabelą kosztów per nieruchomość."
+category: "Uchwały Rady Nadzorczej"
+pdf: "../../pdf/uchwaly-rady-nadzorczej/uchwala-rady-nadzorczej-2026-01-14-plan-remontow.pdf"
+order: 28
+---
+
 # uchwala-rady-nadzorczej-2026-01-14-plan-remontow
 
 > **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).

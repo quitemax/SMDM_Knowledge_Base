@@ -1,3 +1,15 @@
+---
+title: "Prawo o miarach"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity."
+category: "6. Media, odpady, woda"
+pdf: "../pdf/ustawa-prawo-o-miarach.pdf"
+publisher: "Dz.U. 2022 poz. 2063"
+order: 25
+---
+
 # Ustawa z dnia 11 maja 2001 r. – Prawo o miarach
 
 <a id="spis-tresci"></a>

@@ -1,3 +1,15 @@
+---
+title: "Ustawa o ochronie danych osobowych"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity z 2019 r.; nowelizacje Dz.U. 2026 poz. 252 i poz. 548 nie są jeszcze wliczone."
+category: "9. Dane osobowe i sprawy lokatorskie"
+pdf: "../pdf/ustawa-o-ochronie-danych-osobowych.pdf"
+publisher: "Dz.U. 2019 poz. 1781"
+order: 35
+---
+
 # Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych
 
 [2)]

@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity, obowiązujący."
+category: "3. BHP przy robotach budowlanych"
+pdf: "../pdf/rozporzadzenie-ogolne-przepisy-bhp.pdf"
+publisher: "Dz.U. 2003 nr 169 poz. 1650"
+order: 11
+---
+
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy
 
 <a id="spis-tresci"></a>

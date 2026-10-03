@@ -1,3 +1,13 @@
+---
+title: "Odbiór techniczny remontu"
+kind: manual
+status: obowiazujacy
+audience: [technical, management]
+summary: "Potwierdzenie, że remont został wykonany zgodnie z umową, przed ostatecznym rozliczeniem."
+section: administracja-techniczna
+incomplete: true
+---
+
 # Odbiór techniczny wykonanego remontu
 
 **Cel procesu**: potwierdzenie, że remont/robota wykonana przez

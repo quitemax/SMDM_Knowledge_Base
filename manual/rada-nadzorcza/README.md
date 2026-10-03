@@ -1,3 +1,13 @@
+---
+title: "Rada Nadzorcza"
+kind: manual
+status: obowiazujacy
+audience: [supervisory, management]
+summary: "Zasady działania Rady Nadzorczej: jak pracuje, jak wybiera Zarząd, jakie ma stałe komisje."
+section: rada-nadzorcza
+order: 0
+---
+
 # rada-nadzorcza/
 
 Zasady działania Rady Nadzorczej: jak pracuje, jak wybiera Zarząd, jakie

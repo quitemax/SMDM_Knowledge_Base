@@ -1,3 +1,11 @@
+---
+title: "Szablon opisu procesu"
+kind: manual
+status: projekt
+audience: [admin]
+summary: "Wzór dla autorów: szablon opisu procesu w bazie wiedzy."
+---
+
 # Szablon opisu procesu
 
 Skopiuj ten szablon dla każdego nowego procesu i uzupełnij. Jednolity

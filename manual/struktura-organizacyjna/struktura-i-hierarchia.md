@@ -1,3 +1,12 @@
+---
+title: "Struktura organizacyjna i hierarchia"
+kind: manual
+status: obowiazujacy
+audience: [membership, technical, finance, hr, management, supervisory]
+summary: "Piony, podległość służbowa i skróty stanowisk."
+section: struktura-organizacyjna
+---
+
 # Struktura organizacyjna i hierarchia
 
 > Źródło: `regulamin-organizacyjny-2025-10-06.pdf` (aktualna wersja,

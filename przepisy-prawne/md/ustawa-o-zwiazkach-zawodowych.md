@@ -1,3 +1,16 @@
+---
+title: "Ustawa o związkach zawodowych"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity, stan na dzień ogłoszenia 17.04.2026."
+category: "10. Kadry i prawo pracy"
+pdf: "../pdf/ustawa-o-zwiazkach-zawodowych.pdf"
+publisher: "Dz.U. 2026 poz. 549"
+legal_state_date: 2026-04-17
+order: 40
+---
+
 # Ustawa z dnia 23 maja 1991 r.
 
 o związkach zawodowych

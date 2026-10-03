@@ -1,3 +1,12 @@
+---
+title: "Organy Spółdzielni"
+kind: manual
+status: obowiazujacy
+audience: [public]
+summary: "Walne Zgromadzenie, Rada Nadzorcza i Zarząd: skład, kompetencje i tryb działania, na podstawie statutu."
+section: struktura-organizacyjna
+---
+
 # Organy spółdzielni
 
 > Źródło: `statut.pdf` (statut SM „Doły-Marysińska” w Łodzi). Numery

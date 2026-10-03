@@ -1,3 +1,13 @@
+---
+title: "Odpowiedzialność porządkowa pracowników"
+kind: manual
+status: obowiazujacy
+audience: [hr, management]
+summary: "Stosowanie kar porządkowych zgodnie z Kodeksem pracy i regulaminem pracy, z zachowaniem prawa pracownika do obrony."
+section: kadry
+incomplete: true
+---
+
 # Odpowiedzialność porządkowa pracowników (kary porządkowe)
 
 **Cel procesu**: stosowanie kar porządkowych wobec pracowników

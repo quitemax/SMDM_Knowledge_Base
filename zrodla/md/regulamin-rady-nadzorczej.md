@@ -1,3 +1,14 @@
+---
+title: "Regulamin Rady Nadzorczej"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zakres działania, tryb pracy i podejmowania uchwał przez Radę Nadzorczą."
+category: "Organy Spółdzielni"
+pdf: "../pdf/regulamin-rady-nadzorczej.pdf"
+order: 3
+---
+
 # Regulamin Rady Nadzorczej Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 ## Spis treści

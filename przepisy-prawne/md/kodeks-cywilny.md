@@ -1,3 +1,16 @@
+---
+title: "Kodeks cywilny"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity, stan na 19.05.2026 (całość kodeksu; dla Spółdzielni istotne zwłaszcza art. 647 i nast. o umowie o roboty budowlane, rękojmia, gwarancja)."
+category: "8. Finanse, rachunkowość, umowy"
+pdf: "../pdf/kodeks-cywilny.pdf"
+publisher: "Dz.U. 2026 poz. 795"
+legal_state_date: 2026-05-19
+order: 33
+---
+
 # Ustawa z dnia 23 kwietnia 1964 r.
 
 Kodeks cywilny1)

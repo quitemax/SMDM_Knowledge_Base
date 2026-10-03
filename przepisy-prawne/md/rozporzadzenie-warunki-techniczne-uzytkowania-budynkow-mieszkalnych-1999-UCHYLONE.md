@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie warunków technicznych użytkowania budynków mieszkalnych (1999)"
+kind: akt-prawny
+status: uchylony
+audience: [public]
+summary: "Uchylone 21.09.2026. Rozporządzenie zastępujące jeszcze nie zostało opublikowane (trwa proces legislacyjny w MRiT); 18-miesięczny okres przejściowy pozwala nadal stosować te przepisy."
+category: "2. Proces budowlany i utrzymanie budynku"
+pdf: "../pdf/rozporzadzenie-warunki-techniczne-uzytkowania-budynkow-mieszkalnych-1999-UCHYLONE.pdf"
+publisher: "Dz.U. 1999 nr 74 poz. 836"
+order: 6
+---
+
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 1999 r.
 
 w sprawie warunków technicznych użytkowania budynków mieszkalnych.

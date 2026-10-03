@@ -1,3 +1,16 @@
+---
+title: "Prawo budowlane"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity, stan na 19.03.2026."
+category: "2. Proces budowlany i utrzymanie budynku"
+pdf: "../pdf/ustawa-prawo-budowlane.pdf"
+publisher: "Dz.U. 2026 poz. 524"
+legal_state_date: 2026-03-19
+order: 4
+---
+
 # Ustawa z dnia 7 lipca 1994 r.
 
 Prawo budowlane1)

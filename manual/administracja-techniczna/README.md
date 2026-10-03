@@ -1,3 +1,13 @@
+---
+title: "Administracja techniczna"
+kind: manual
+status: obowiazujacy
+audience: [technical, management]
+summary: "Procesy związane z budynkami: przeglądy, zgłoszenia awarii, remonty, przetargi na roboty/dostawy/usługi, gospodarka odpadami, finansowanie termomodernizacji."
+section: administracja-techniczna
+order: 0
+---
+
 # administracja-techniczna/
 
 Procesy związane z budynkami: przeglądy, zgłoszenia awarii, remonty,

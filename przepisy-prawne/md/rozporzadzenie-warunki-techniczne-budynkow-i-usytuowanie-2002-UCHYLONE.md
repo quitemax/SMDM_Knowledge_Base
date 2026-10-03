@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (2002)"
+kind: akt-prawny
+status: uchylony
+audience: [public]
+summary: "Uchylone 20.09.2026, z tego samego powodu co rozporządzenie z 1999 r.: zastępujące rozporządzenie ma objąć oba akty naraz."
+category: "2. Proces budowlany i utrzymanie budynku"
+pdf: "../pdf/rozporzadzenie-warunki-techniczne-budynkow-i-usytuowanie-2002-UCHYLONE.pdf"
+publisher: "Dz.U. tekst jedn. 2022 poz. 1225 (akt macierzysty 2002 nr 75 poz. 690)"
+order: 7
+---
+
 # Rozporządzenie Ministra Infrastruktury z dnia 12 kwietnia 2002 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie
 
 Na podstawie art. 7 ust. 2 pkt 1 [2)] ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz z 2022 r. poz. 88) zarządza się, co następuje:

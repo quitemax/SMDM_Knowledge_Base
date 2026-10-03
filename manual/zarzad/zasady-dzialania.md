@@ -1,3 +1,12 @@
+---
+title: "Zasady działania Zarządu"
+kind: manual
+status: obowiazujacy
+audience: [management, supervisory]
+summary: "Posiedzenia, kworum, głosowanie, podział kompetencji i tryb obiegowy."
+section: zarzad
+---
+
 # Zasady działania Zarządu
 
 > Źródło: `regulamin-zarzadu.pdf` (uchwała Rady Nadzorczej z 24.11.2020,

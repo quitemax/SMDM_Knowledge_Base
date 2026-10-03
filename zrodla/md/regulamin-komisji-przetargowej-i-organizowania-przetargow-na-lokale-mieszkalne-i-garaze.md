@@ -1,3 +1,14 @@
+---
+title: "Regulamin Komisji Przetargowej (lokale mieszkalne i garaże)"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Działanie Komisji Przetargowej i organizowanie przetargów na lokale mieszkalne i garaże odzyskane przez Spółdzielnię."
+category: "Przetargi i wykonawcy"
+pdf: "../pdf/regulamin-komisji-przetargowej-i-organizowania-przetargow-na-lokale-mieszkalne-i-garaze.pdf"
+order: 20
+---
+
 # Regulamin działania Komisji przetargowej oraz zasad organizowania przetargu na lokale mieszkalne i garaże w SM „Doły — Marysińska”
 
 ## Spis treści

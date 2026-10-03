@@ -1,3 +1,14 @@
+---
+title: "Regulamin pracy"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Regulamin pracy pracowników (porządek, dyscyplina, BHP) — odrębny od regulaminu wynagradzania."
+category: "Organizacja i pracownicy"
+pdf: "../pdf/regulamin-pracy.pdf"
+order: 9
+---
+
 # Regulamin pracy obowiązujący w Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 ## Spis treści

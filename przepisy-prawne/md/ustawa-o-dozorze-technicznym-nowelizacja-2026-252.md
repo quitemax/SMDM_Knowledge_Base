@@ -1,3 +1,15 @@
+---
+title: "Ustawa z 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (w zakresie dozoru technicznego)"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Nowelizacja z 23.01.2026; nie jest jeszcze wliczona do tekstu jednolitego ustawy o dozorze technicznym."
+category: "7. Dźwigi i urządzenia techniczne"
+pdf: "../pdf/ustawa-o-dozorze-technicznym-nowelizacja-2026-252.pdf"
+publisher: "Dz.U. 2026 poz. 252"
+order: 28
+---
+
 # Ustawa z dnia 23 stycznia 2026 r.
 
 o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw1)

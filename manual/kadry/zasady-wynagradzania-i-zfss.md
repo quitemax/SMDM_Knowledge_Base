@@ -1,3 +1,12 @@
+---
+title: "Zasady wynagradzania i ZFŚS"
+kind: manual
+status: obowiazujacy
+audience: [hr, management]
+summary: "Zaplecze regulaminowe: zasady wynagradzania oraz Zakładowy Fundusz Świadczeń Socjalnych."
+section: kadry
+---
+
 # Zasady wynagradzania i Zakładowy Fundusz Świadczeń Socjalnych
 
 > To zaplecze regulaminowe, nie proces krok-po-krok — procesy kadrowe

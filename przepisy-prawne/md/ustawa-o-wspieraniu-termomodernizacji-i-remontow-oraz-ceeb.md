@@ -1,3 +1,16 @@
+---
+title: "Ustawa o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity, stan na 25.06.2026. Ustawa dostaje nowy tekst jednolity wyjątkowo często (styczeń 2022, październik 2024, wrzesień 2025, lipiec 2026)."
+category: "5. Energia, ciepło, termomodernizacja"
+pdf: "../pdf/ustawa-o-wspieraniu-termomodernizacji-i-remontow-oraz-ceeb.pdf"
+publisher: "Dz.U. 2026 poz. 920"
+legal_state_date: 2026-06-25
+order: 17
+---
+
 # Ustawa z dnia 21 listopada 2008 r.
 
 o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków

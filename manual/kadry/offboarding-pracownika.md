@@ -1,3 +1,13 @@
+---
+title: "Offboarding pracownika"
+kind: manual
+status: obowiazujacy
+audience: [hr, management]
+summary: "Zakończenie współpracy z pracownikiem: rozliczenie zobowiązań, karta obiegowa, odebranie dostępów."
+section: kadry
+incomplete: true
+---
+
 # Offboarding pracownika
 
 **Cel procesu**: uporządkowane zakończenie współpracy z pracownikiem,

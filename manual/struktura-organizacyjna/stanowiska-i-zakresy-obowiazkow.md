@@ -1,3 +1,12 @@
+---
+title: "Stanowiska i zakresy obowiązków"
+kind: manual
+status: obowiazujacy
+audience: [membership, technical, finance, hr, management, supervisory]
+summary: "Opisy ról (nie osób) i zakresy obowiązków stanowisk według regulaminu organizacyjnego."
+section: struktura-organizacyjna
+---
+
 # Stanowiska i zakresy obowiązków
 
 > To opisy **ról**, nie CV konkretnych osób — bez nazwisk, inicjałów,

@@ -1,3 +1,13 @@
+---
+title: "Problemy z systemem Papirus"
+kind: manual
+status: obowiazujacy
+audience: [admin]
+summary: "Zgłaszanie i rozwiązywanie problemów z systemem Papirus/OID."
+section: it-systemy
+incomplete: true
+---
+
 # Zgłaszanie i rozwiązywanie problemów z systemem Papirus
 
 **Cel procesu**: sprawne zgłaszanie i usuwanie problemów z systemem

@@ -1,3 +1,15 @@
+---
+title: "Regulamin wyboru wykonawców robót, dostaw i usług"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Aktualnie obowiązujące zasady i tryb wyboru wykonawców robót budowlanych, dostaw i usług (uchwała nr 62/R/26)."
+category: "Przetargi i wykonawcy"
+pdf: "../pdf/regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug.pdf"
+resolution: "62/R/26"
+order: 22
+---
+
 # Regulamin wyboru wykonawców robót, dostaw i usług w Spółdzielni Mieszkaniowej „Doły — Marysińska” w Łodzi
 
 ## Spis treści

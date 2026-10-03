@@ -1,3 +1,12 @@
+---
+title: "Przetarg na lokale i garaże oraz umowy najmu"
+kind: manual
+status: obowiazujacy
+audience: [technical, management]
+summary: "Licytacja na lokale mieszkalne i garaże odzyskane przez Spółdzielnię oraz zasady zawierania umów najmu."
+section: administracja-techniczna
+---
+
 # Przetarg (licytacja) na lokale/garaże i umowy najmu
 
 > To osobna procedura od przetargu na roboty remontowe — patrz

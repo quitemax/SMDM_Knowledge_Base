@@ -1,3 +1,13 @@
+---
+title: "Gospodarka odpadami komunalnymi"
+kind: manual
+status: obowiazujacy
+audience: [technical, management]
+summary: "Obowiązki Spółdzielni wobec Gminy w zakresie odpadów komunalnych oraz naliczanie i roczne rozliczanie opłat z mieszkańcami."
+section: administracja-techniczna
+incomplete: true
+---
+
 # Gospodarka odpadami komunalnymi — obowiązki Spółdzielni i naliczanie opłat
 
 **Cel procesu**: wypełnienie ustawowych obowiązków Spółdzielni jako

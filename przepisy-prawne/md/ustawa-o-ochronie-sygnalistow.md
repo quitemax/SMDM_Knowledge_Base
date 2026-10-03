@@ -1,3 +1,15 @@
+---
+title: "Ustawa o ochronie sygnalistów"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst oryginalny (ustawa z 14.06.2024; brak jeszcze tekstu jednolitego); weszła w życie 25.09.2024, część przepisów 25.12.2024."
+category: "11. Zgodność / zgłaszanie nieprawidłowości"
+pdf: "../pdf/ustawa-o-ochronie-sygnalistow.pdf"
+publisher: "Dz.U. 2024 poz. 928"
+order: 41
+---
+
 # Ustawa z dnia 14 czerwca 2024 r.
 
 o ochronie sygnalistów [1)]

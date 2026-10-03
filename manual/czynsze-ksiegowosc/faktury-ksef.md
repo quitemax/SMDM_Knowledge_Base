@@ -1,3 +1,13 @@
+---
+title: "Faktury i KSeF"
+kind: manual
+status: obowiazujacy
+audience: [finance, membership, management]
+summary: "Wystawianie i wysyłka faktur przez Krajowy System e-Faktur."
+section: czynsze-ksiegowosc
+incomplete: true
+---
+
 # Wystawianie i wysyłka faktur przez KSeF
 
 **Cel procesu**: wystawianie faktur zgodnie z wymogami Krajowego Systemu

@@ -1,3 +1,14 @@
+---
+title: "Regulamin porządku domowego (2025)"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zasady porządku domowego i współżycia mieszkańców (obowiązki Spółdzielni i użytkowników lokali)."
+category: "Porządek, technika, inne"
+pdf: "../pdf/regulamin-porzadku-domowego-2025.pdf"
+order: 23
+---
+
 # Regulamin porządku domowego w Spółdzielni Mieszkaniowej „Doły — Marysińska” w Łodzi
 
 ## Spis treści

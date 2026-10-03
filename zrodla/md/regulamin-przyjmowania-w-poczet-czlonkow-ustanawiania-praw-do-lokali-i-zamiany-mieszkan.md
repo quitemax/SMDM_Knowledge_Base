@@ -1,3 +1,14 @@
+---
+title: "Regulamin przyjmowania w poczet członków, ustanawiania praw do lokali i zamiany mieszkań"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Tryb przyjmowania członków, ustanawiania praw do lokali (w tym odrębnej własności) i zamiany mieszkań."
+category: "Członkostwo i prawa do lokali"
+pdf: "../pdf/regulamin-przyjmowania-w-poczet-czlonkow-ustanawiania-praw-do-lokali-i-zamiany-mieszkan.pdf"
+order: 17
+---
+
 # Regulamin przyjmowania w poczet członków Spółdzielni, ustanawiania praw do lokali oraz zamiany mieszkań w Spółdzielni Mieszkaniowej „Doły-Marysińska”
 
 ## Spis treści

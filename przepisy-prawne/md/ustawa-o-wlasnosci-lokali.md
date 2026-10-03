@@ -1,3 +1,16 @@
+---
+title: "Ustawa o własności lokali"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity z 20.02.2026."
+category: "1. Ustrój spółdzielni"
+pdf: "../pdf/ustawa-o-wlasnosci-lokali.pdf"
+publisher: "Dz.U. 2026 poz. 232"
+legal_state_date: 2026-02-20
+order: 3
+---
+
 # Ustawa z dnia 24 czerwca 1994 r.
 
 o własności lokali

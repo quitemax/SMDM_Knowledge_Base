@@ -1,3 +1,15 @@
+---
+title: "Ustawa z 4 grudnia 2025 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Nowelizacja z 4.12.2025, wchodząca w życie etapami (część przepisów dopiero 20.09.2026 i 1.04.2027); nie jest jeszcze w pełni wliczona do tekstu jednolitego Prawa budowlanego."
+category: "2. Proces budowlany i utrzymanie budynku"
+pdf: "../pdf/ustawa-prawo-budowlane-nowelizacja-2025-1847.pdf"
+publisher: "Dz.U. 2025 poz. 1847"
+order: 5
+---
+
 # Ustawa z dnia 4 grudnia 2025 r.
 
 o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw1)

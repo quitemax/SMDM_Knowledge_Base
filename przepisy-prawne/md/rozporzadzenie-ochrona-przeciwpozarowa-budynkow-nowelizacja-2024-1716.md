@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie z 21 listopada 2024 r. zmieniające rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Nowelizacja z 21.11.2024; nie jest jeszcze wliczona do tekstu jednolitego rozporządzenia."
+category: "4. Ochrona przeciwpożarowa"
+pdf: "../pdf/rozporzadzenie-ochrona-przeciwpozarowa-budynkow-nowelizacja-2024-1716.pdf"
+publisher: "Dz.U. 2024 poz. 1716"
+order: 15
+---
+
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 listopada 2024 r.
 
 zmieniające rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów [1)]

@@ -1,3 +1,13 @@
+---
+title: "Procedura wyboru wykonawcy lub dostawcy"
+kind: manual
+status: obowiazujacy
+audience: [technical, management]
+summary: "Wybór najkorzystniejszej oferty na roboty budowlane, dostawy lub usługi finansowane ze środków Spółdzielni, według regulaminu wyboru wykonawców."
+section: administracja-techniczna
+incomplete: true
+---
+
 # Procedura wyboru wykonawcy/dostawcy (roboty budowlane, dostawy, usługi)
 
 **Cel procesu**: wybór najkorzystniejszej oferty na roboty budowlane,

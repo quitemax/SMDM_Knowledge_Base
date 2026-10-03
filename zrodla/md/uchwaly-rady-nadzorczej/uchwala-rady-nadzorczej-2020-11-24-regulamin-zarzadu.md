@@ -1,3 +1,14 @@
+---
+title: "Uchwała RN nr 51/R/20 (24.11.2020) — wprowadzenie Regulaminu Zarządu"
+kind: uchwala
+status: obowiazujacy
+audience: [member, management, supervisory]
+summary: "Uchwała wprowadzająca wcześniejszą wersję Regulaminu Zarządu."
+category: "Uchwały Rady Nadzorczej"
+pdf: "../../pdf/uchwaly-rady-nadzorczej/uchwala-rady-nadzorczej-2020-11-24-regulamin-zarzadu.pdf"
+order: 27
+---
+
 # uchwala-rady-nadzorczej-2020-11-24-regulamin-zarzadu
 
 > **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).

@@ -1,3 +1,12 @@
+---
+title: "Gospodarka finansowa — zasady ogólne"
+kind: manual
+status: obowiazujacy
+audience: [finance, membership, management]
+summary: "Zaplecze regulaminowe procesów finansowych: gospodarka finansowa i zasady naliczania opłat."
+section: czynsze-ksiegowosc
+---
+
 # Gospodarka finansowa — zasady ogólne
 
 > Zaplecze wiedzy dla procesów w tym dziale (patrz też

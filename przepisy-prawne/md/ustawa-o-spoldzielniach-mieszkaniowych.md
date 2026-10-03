@@ -1,3 +1,15 @@
+---
+title: "Ustawa o spółdzielniach mieszkaniowych"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+category: "1. Ustrój spółdzielni"
+pdf: "../pdf/ustawa-o-spoldzielniach-mieszkaniowych.pdf"
+publisher: "Dz.U. 2026 poz. 889"
+legal_state_date: 2026-06-10
+order: 2
+---
+
 # Ustawa z dnia 15 grudnia 2000 r.
 
 o spółdzielniach mieszkaniowych

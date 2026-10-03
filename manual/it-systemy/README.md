@@ -1,3 +1,13 @@
+---
+title: "IT i systemy"
+kind: manual
+status: obowiazujacy
+audience: [admin]
+summary: "Dokumentacja techniczna systemów używanych w Spółdzielni."
+section: it-systemy
+order: 0
+---
+
 # it-systemy/
 
 Dokumentacja techniczna systemów używanych w Spółdzielni.

@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie prawnej kontroli metrologicznej przyrządów pomiarowych"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity; dotyczy m.in. terminów legalizacji wodomierzy (5 lat, załącznik nr 5)."
+category: "6. Media, odpady, woda"
+pdf: "../pdf/rozporzadzenie-kontrola-metrologiczna-przyrzadow-pomiarowych.pdf"
+publisher: "Dz.U. 2026 poz. 551"
+order: 26
+---
+
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii1) z dnia 22 marca 2019 r.
 
 w sprawie prawnej kontroli metrologicznej przyrządów pomiarowych2), 3)

@@ -1,3 +1,12 @@
+---
+title: "Stałe komisje Rady Nadzorczej"
+kind: manual
+status: obowiazujacy
+audience: [supervisory, management]
+summary: "Zasady działania stałych komisji Rady Nadzorczej według ich regulaminu."
+section: rada-nadzorcza
+---
+
 # Stałe komisje Rady Nadzorczej
 
 > Źródło: `regulamin-stalych-komisji-rady-nadzorczej.pdf` (tekst

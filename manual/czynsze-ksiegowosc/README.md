@@ -1,3 +1,13 @@
+---
+title: "Czynsze i księgowość"
+kind: manual
+status: obowiazujacy
+audience: [finance, membership, management]
+summary: "Procesy finansowe: naliczanie i rozliczanie czynszów, fundusz remontowy, windykacja, faktury, rozliczanie wkładów."
+section: czynsze-ksiegowosc
+order: 0
+---
+
 # czynsze-ksiegowosc/
 
 Procesy finansowe: naliczanie i rozliczanie czynszów, fundusz

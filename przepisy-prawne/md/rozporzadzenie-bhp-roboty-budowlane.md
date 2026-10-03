@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie bezpieczeństwa i higieny pracy podczas wykonywania robót budowlanych"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Brak formalnego tekstu jednolitego; zamieszczono tekst oryginalny."
+category: "3. BHP przy robotach budowlanych"
+pdf: "../pdf/rozporzadzenie-bhp-roboty-budowlane.pdf"
+publisher: "Dz.U. 2003 nr 47 poz. 401"
+order: 10
+---
+
 # Rozporządzenie Ministra Infrastruktury[1)] z dnia 6 lutego 2003 r.
 
 w sprawie bezpieczeństwa i higieny pracy podczas wykonywania robót budowlanych

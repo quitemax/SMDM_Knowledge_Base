@@ -1,3 +1,13 @@
+---
+title: "Struktura organizacyjna"
+kind: manual
+status: obowiazujacy
+audience: [membership, technical, finance, hr, management, supervisory]
+summary: "Kto jest kim w Spółdzielni, komu podlega, jakie stanowiska istnieją."
+section: struktura-organizacyjna
+order: 0
+---
+
 # struktura-organizacyjna/
 
 Kto jest kim w Spółdzielni, komu podlega, jakie stanowiska istnieją.

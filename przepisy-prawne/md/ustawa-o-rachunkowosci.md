@@ -1,3 +1,15 @@
+---
+title: "Ustawa o rachunkowości"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity."
+category: "8. Finanse, rachunkowość, umowy"
+pdf: "../pdf/ustawa-o-rachunkowosci.pdf"
+publisher: "Dz.U. 2026 poz. 522"
+order: 30
+---
+
 # Ustawa z dnia 29 września 1994 r.
 
 o rachunkowości1)

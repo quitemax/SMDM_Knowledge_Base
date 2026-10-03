@@ -1,3 +1,13 @@
+---
+title: "Obsługa zgłoszenia awarii"
+kind: manual
+status: obowiazujacy
+audience: [technical, management]
+summary: "Od zgłoszenia awarii przez mieszkańca do zamknięcia sprawy."
+section: administracja-techniczna
+incomplete: true
+---
+
 # Obsługa zgłoszenia awarii (od zgłoszenia mieszkańca do zamknięcia sprawy)
 
 **Cel procesu**: usunięcie awarii/usterki w zasobach Spółdzielni w

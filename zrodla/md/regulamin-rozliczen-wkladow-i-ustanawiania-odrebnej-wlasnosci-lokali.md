@@ -1,3 +1,14 @@
+---
+title: "Regulamin rozliczeń wkładów i ustanawiania odrębnej własności"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Rozliczanie wkładów mieszkaniowych i budowlanych, przekształcanie i ustanawianie odrębnej własności lokali."
+category: "Członkostwo i prawa do lokali"
+pdf: "../pdf/regulamin-rozliczen-wkladow-i-ustanawiania-odrebnej-wlasnosci-lokali.pdf"
+order: 18
+---
+
 # Regulamin rozliczeń wkładów mieszkaniowych i budowlanych oraz przenoszenia i ustanawiania własności odrębnej lokali w Spółdzielni Mieszkaniowej „Doły - Marysińska” w Łodzi
 
 *(tekst jednolity)*

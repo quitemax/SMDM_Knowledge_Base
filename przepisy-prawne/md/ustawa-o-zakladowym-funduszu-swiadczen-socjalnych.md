@@ -1,3 +1,16 @@
+---
+title: "Ustawa o zakładowym funduszu świadczeń socjalnych"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity z 26.02.2024."
+category: "10. Kadry i prawo pracy"
+pdf: "../pdf/ustawa-o-zakladowym-funduszu-swiadczen-socjalnych.pdf"
+publisher: "Dz.U. 2024 poz. 288"
+legal_state_date: 2024-02-26
+order: 38
+---
+
 # Ustawa z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych
 
 <a id="spis-tresci"></a>

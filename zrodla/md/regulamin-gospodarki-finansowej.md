@@ -1,3 +1,14 @@
+---
+title: "Regulamin gospodarki finansowej"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Ogólne zasady gospodarki finansowej Spółdzielni (fundusze własne, rachunkowość)."
+category: "Finanse i rozliczenia"
+pdf: "../pdf/regulamin-gospodarki-finansowej.pdf"
+order: 11
+---
+
 # Regulamin gospodarki finansowej Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 ## Spis treści

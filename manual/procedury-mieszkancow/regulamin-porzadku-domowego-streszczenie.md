@@ -1,3 +1,12 @@
+---
+title: "Regulamin porządku domowego — streszczenie"
+kind: manual
+status: obowiazujacy
+audience: [public]
+summary: "Streszczenie najważniejszych zasad Regulaminu porządku domowego dla mieszkańców."
+section: procedury-mieszkancow
+---
+
 # Regulamin porządku domowego — streszczenie dla mieszkańców
 
 > Streszczenie najważniejszych zasad z „Regulaminu porządku domowego w

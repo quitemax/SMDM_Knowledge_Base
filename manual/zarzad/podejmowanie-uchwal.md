@@ -1,3 +1,13 @@
+---
+title: "Podejmowanie uchwał przez Zarząd"
+kind: manual
+status: obowiazujacy
+audience: [management, supervisory]
+summary: "Formalny tryb podejmowania przez Zarząd uchwał w sprawach zastrzeżonych dla uchwał."
+section: zarzad
+incomplete: true
+---
+
 # Podejmowanie uchwał przez Zarząd
 
 **Cel procesu**: formalne, kolegialne podjęcie decyzji przez Zarząd w

@@ -1,3 +1,14 @@
+---
+title: "Regulamin rozliczania kosztów GZM i opłat za lokale"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Rozliczanie kosztów gospodarki zasobami mieszkaniowymi i ustalanie opłat za używanie lokali."
+category: "Finanse i rozliczenia"
+pdf: "../pdf/regulamin-rozliczania-kosztow-gzm-i-oplat-za-lokale.pdf"
+order: 13
+---
+
 # Regulamin rozliczania kosztów gospodarki zasobami mieszkaniowymi oraz ustalania opłat za używanie lokali w Spółdzielni Mieszkaniowej „Doły - Marysińska” w Łodzi
 
 *(tekst jednolity)*

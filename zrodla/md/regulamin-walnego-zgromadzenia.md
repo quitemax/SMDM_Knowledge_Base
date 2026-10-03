@@ -1,3 +1,14 @@
+---
+title: "Regulamin Walnego Zgromadzenia"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Tryb zwoływania, obradowania i podejmowania uchwał przez Walne Zgromadzenie."
+category: "Organy Spółdzielni"
+pdf: "../pdf/regulamin-walnego-zgromadzenia.pdf"
+order: 2
+---
+
 # regulamin-walnego-zgromadzenia
 
 > **Uwaga:** ten dokument (w całości lub częściowo) został rozpoznany automatycznie z zeskanowanego obrazu (OCR). OCR bywa niedokładny, zwłaszcza przy podpisach, pieczątkach i tabelach — przed użyciem w audycie lub sprawozdaniu zweryfikuj kluczowe dane (daty, kwoty, nazwiska, numery uchwał).

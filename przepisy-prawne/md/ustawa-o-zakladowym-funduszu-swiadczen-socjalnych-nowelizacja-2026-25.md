@@ -1,3 +1,15 @@
+---
+title: "Ustawa z 4 grudnia 2025 r. o zmianie ustawy – Kodeks pracy oraz ustawy o zakładowym funduszu świadczeń socjalnych"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Nowelizacja z 4.12.2025, weszła w życie 27.01.2026; nie jest jeszcze wliczona do tekstu jednolitego ustawy o ZFŚS (w Kodeksie pracy jest już wliczona, bo jego tekst jednolity jest nowszy)."
+category: "10. Kadry i prawo pracy"
+pdf: "../pdf/ustawa-o-zakladowym-funduszu-swiadczen-socjalnych-nowelizacja-2026-25.pdf"
+publisher: "Dz.U. 2026 poz. 25"
+order: 39
+---
+
 # Ustawa z dnia 4 grudnia 2025 r.
 
 o zmianie ustawy – Kodeks pracy oraz ustawy o zakładowym funduszu świadczeń socjalnych

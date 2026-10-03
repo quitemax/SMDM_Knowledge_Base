@@ -1,3 +1,16 @@
+---
+title: "Prawo energetyczne"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity, stan na dzień ogłoszenia 5.12.2025."
+category: "5. Energia, ciepło, termomodernizacja"
+pdf: "../pdf/ustawa-prawo-energetyczne.pdf"
+publisher: "Dz.U. 2026 poz. 43"
+legal_state_date: 2025-12-05
+order: 20
+---
+
 # Ustawa z dnia 10 kwietnia 1997 r.
 
 Prawo energetyczne1)

@@ -1,3 +1,14 @@
+---
+title: "Regulamin funkcjonowania monitoringu wizyjnego"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zasady monitoringu wizyjnego na terenie Spółdzielni, w tym obowiązki RODO."
+category: "Porządek, technika, inne"
+pdf: "../pdf/regulamin-funkcjonowania-monitoringu-wizyjnego.pdf"
+order: 25
+---
+
 # Regulamin funkcjonowania monitoringu wizyjnego w Spółdzielni Mieszkaniowej „Doły-Marysińska”
 
 **Podstawa prawa:** Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679

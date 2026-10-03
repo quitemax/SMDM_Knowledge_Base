@@ -1,3 +1,13 @@
+---
+title: "Przygotowanie i zwołanie Walnego Zgromadzenia"
+kind: manual
+status: obowiazujacy
+audience: [management, supervisory]
+summary: "Przygotowanie i zwołanie Walnego Zgromadzenia zgodnie ze statutem."
+section: zarzad
+incomplete: true
+---
+
 # Przygotowanie i zwołanie Walnego Zgromadzenia
 
 **Cel procesu**: zapewnienie, że Walne Zgromadzenie (najwyższy organ

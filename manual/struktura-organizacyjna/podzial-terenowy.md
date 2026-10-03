@@ -1,3 +1,13 @@
+---
+title: "Podział terenowy"
+kind: manual
+status: obowiazujacy
+audience: [membership, technical, finance, hr, management, supervisory]
+summary: "Które budynki i rejony obsługuje która administracja osiedlowa."
+section: struktura-organizacyjna
+incomplete: true
+---
+
 # Podział terenowy
 
 Które budynki/rejony obsługuje która administracja osiedlowa — istotne

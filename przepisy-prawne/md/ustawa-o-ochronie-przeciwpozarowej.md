@@ -1,3 +1,15 @@
+---
+title: "Ustawa o ochronie przeciwpożarowej"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity; nowelizacja Dz.U. 2026 poz. 815 (ustawa o zarządzaniu kryzysowym) nie jest jeszcze wliczona."
+category: "4. Ochrona przeciwpożarowa"
+pdf: "../pdf/ustawa-o-ochronie-przeciwpozarowej.pdf"
+publisher: "Dz.U. 2025 poz. 188"
+order: 13
+---
+
 # Ustawa z dnia 24 sierpnia 1991 r.
 
 o ochronie przeciwpożarowej

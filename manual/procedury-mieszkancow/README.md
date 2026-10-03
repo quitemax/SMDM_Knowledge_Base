@@ -1,3 +1,13 @@
+---
+title: "Procedury dla mieszkańców"
+kind: manual
+status: obowiazujacy
+audience: [public]
+summary: "Czego mieszkaniec może się spodziewać i jak zgłasza sprawy."
+section: procedury-mieszkancow
+order: 0
+---
+
 # procedury-mieszkancow/
 
 Czego mieszkaniec może się spodziewać, jak zgłasza sprawy — materiał do

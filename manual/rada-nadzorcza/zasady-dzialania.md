@@ -1,3 +1,12 @@
+---
+title: "Zasady działania Rady Nadzorczej"
+kind: manual
+status: obowiazujacy
+audience: [supervisory, management]
+summary: "Skład, prezydium, zwoływanie posiedzeń, kworum, głosowanie, status postanowień."
+section: rada-nadzorcza
+---
+
 # Zasady działania Rady Nadzorczej
 
 > Źródło: `regulamin-rady-nadzorczej.pdf` (uchwalony przez Walne

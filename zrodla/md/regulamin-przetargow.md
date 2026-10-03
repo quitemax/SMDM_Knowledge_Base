@@ -1,3 +1,15 @@
+---
+title: "Regulamin przetargów"
+kind: regulamin
+status: nieaktualny
+audience: [public]
+summary: "Zastąpiony przez Regulamin wyboru wykonawców robót, dostaw i usług (próg 80 000 zł zastąpiono progami 50 000/5 000 zł); zachowany wyłącznie dla historii."
+category: "Przetargi i wykonawcy"
+pdf: "../pdf/regulamin-przetargow.pdf"
+superseded_by: regulamin-wyboru-wykonawcow-robot-dostaw-i-uslug
+order: 21
+---
+
 # Regulamin udzielania zamówień na roboty i usługi przez SM „Doły-Marysińska”
 
 > ⚠️ **NIEAKTUALNY — zastąpiony.** Ten regulamin (próg przetargu:

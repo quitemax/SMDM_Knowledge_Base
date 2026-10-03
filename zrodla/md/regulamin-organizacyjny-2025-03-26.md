@@ -1,3 +1,16 @@
+---
+title: "Regulamin Organizacyjny (26.03.2025)"
+kind: regulamin
+status: nieaktualny
+audience: [public]
+summary: "Struktura organizacyjna i zakresy działania stanowisk/komórek; wersja uchylona uchwałą z 06.10.2025, zachowana dla historii zmian."
+category: "Organizacja i pracownicy"
+pdf: "../pdf/regulamin-organizacyjny-2025-03-26.pdf"
+superseded_by: regulamin-organizacyjny-2025-10-06
+effective_from: 2025-03-26
+order: 6
+---
+
 # Regulamin Organizacyjny w Spółdzielni Mieszkaniowej „Doły - Marysińska” w Łodzi
 
 *(tekst jednolity)*

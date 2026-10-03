@@ -1,3 +1,14 @@
+---
+title: "Regulamin Zarządu"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zasady działania Zarządu, podział czynności, tryb podejmowania uchwał."
+category: "Organy Spółdzielni"
+pdf: "../pdf/regulamin-zarzadu.pdf"
+order: 5
+---
+
 # Regulamin Zarządu Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 ## Spis treści

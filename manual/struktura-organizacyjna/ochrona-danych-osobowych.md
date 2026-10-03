@@ -1,3 +1,13 @@
+---
+title: "Ochrona danych osobowych (RODO)"
+kind: manual
+status: obowiazujacy
+audience: [membership, technical, finance, hr, management, supervisory]
+summary: "Zapewnienie zgodności przetwarzania danych osobowych członków, mieszkańców, kontrahentów i pracowników z RODO."
+section: struktura-organizacyjna
+incomplete: true
+---
+
 # Ochrona danych osobowych (RODO) w Spółdzielni
 
 **Cel procesu**: zapewnienie zgodności przetwarzania danych osobowych

@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie warunków technicznych dozoru technicznego w zakresie eksploatacji, napraw i modernizacji urządzeń transportu bliskiego"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst oryginalny; dotyczy urządzeń transportu bliskiego, w tym dźwigów osobowych."
+category: "7. Dźwigi i urządzenia techniczne"
+pdf: "../pdf/rozporzadzenie-dozor-techniczny-dzwigi-utb.pdf"
+publisher: "Dz.U. 2018 poz. 2176"
+order: 29
+---
+
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 30 października 2018 r.
 
 w sprawie warunków technicznych dozoru technicznego w zakresie eksploatacji, napraw i modernizacji urządzeń transportu bliskiego [1)]

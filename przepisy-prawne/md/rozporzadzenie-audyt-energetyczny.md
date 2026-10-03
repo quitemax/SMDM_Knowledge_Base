@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie szczegółowego zakresu i form audytu energetycznego oraz części audytu remontowego, wzorów kart audytów, a także algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst oryginalny (brak tekstu jednolitego)."
+category: "5. Energia, ciepło, termomodernizacja"
+pdf: "../pdf/rozporzadzenie-audyt-energetyczny.pdf"
+publisher: "Dz.U. 2009 nr 43 poz. 346"
+order: 18
+---
+
 # Rozporządzenie Ministra Infrastruktury[1)] z dnia 17 marca 2009 r.
 
 w sprawie szczegółowego zakresu i form audytu energetycznego oraz części audytu remontowego, wzorów kart audytów, a także algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego

@@ -1,3 +1,15 @@
+---
+title: "Ustawa o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity."
+category: "6. Media, odpady, woda"
+pdf: "../pdf/ustawa-o-zbiorowym-zaopatrzeniu-w-wode-i-odprowadzaniu-sciekow.pdf"
+publisher: "Dz.U. 2024 poz. 757"
+order: 23
+---
+
 # Ustawa z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków
 
 <a id="spis-tresci"></a>

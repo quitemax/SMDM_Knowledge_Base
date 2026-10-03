@@ -1,3 +1,13 @@
+---
+title: "Onboarding pracownika"
+kind: manual
+status: obowiazujacy
+audience: [hr, management]
+summary: "Wdrożenie nowego pracownika, w tym nadanie dostępów do systemów."
+section: kadry
+incomplete: true
+---
+
 # Onboarding nowego pracownika
 
 **Cel procesu**: sprawne i kompletne wdrożenie nowego pracownika,

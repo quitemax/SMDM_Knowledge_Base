@@ -1,3 +1,13 @@
+---
+title: "Premia termomodernizacyjna i remontowa"
+kind: manual
+status: obowiazujacy
+audience: [technical, management]
+summary: "Pozyskiwanie premii z Funduszu Termomodernizacji i Remontów (BGK) na częściowe sfinansowanie kredytowanego remontu lub termomodernizacji."
+section: administracja-techniczna
+incomplete: true
+---
+
 # Premia termomodernizacyjna i remontowa (Fundusz Termomodernizacji i Remontów)
 
 **Cel procesu**: pozyskanie premii (dofinansowania) z Funduszu

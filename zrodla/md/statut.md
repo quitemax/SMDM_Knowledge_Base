@@ -1,3 +1,14 @@
+---
+title: "Statut Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi"
+kind: statut
+status: obowiazujacy
+audience: [public]
+summary: "Podstawowy akt prawny: cel i przedmiot działalności, członkostwo, organy Spółdzielni, tytuły prawne do lokali, gospodarka Spółdzielni."
+category: "Statut"
+pdf: "../pdf/statut.pdf"
+order: 1
+---
+
 # Statut Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 > **Aktualizacja 2026-06-29**: Walne Zgromadzenie (część obradująca w

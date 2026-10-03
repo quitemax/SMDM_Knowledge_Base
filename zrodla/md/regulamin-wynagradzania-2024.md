@@ -1,3 +1,15 @@
+---
+title: "Regulamin wynagradzania (2024)"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zasady wynagradzania pracowników, składniki wynagrodzenia, tabele zaszeregowania (uchwała Zarządu nr 338/2024)."
+category: "Organizacja i pracownicy"
+pdf: "../pdf/regulamin-wynagradzania-2024.pdf"
+resolution: "338/2024"
+order: 8
+---
+
 # Regulamin wynagradzania pracowników Spółdzielni Mieszkaniowej „Doły-Marysińska” w Łodzi
 
 ## Spis treści

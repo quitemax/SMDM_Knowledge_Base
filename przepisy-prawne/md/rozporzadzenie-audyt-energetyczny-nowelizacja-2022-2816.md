@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie z 15 grudnia 2022 r. zmieniające rozporządzenie w sprawie audytu energetycznego"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Najnowsza nowelizacja wzorów kart audytu."
+category: "5. Energia, ciepło, termomodernizacja"
+pdf: "../pdf/rozporzadzenie-audyt-energetyczny-nowelizacja-2022-2816.pdf"
+publisher: "Dz.U. 2022 poz. 2816"
+order: 19
+---
+
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 15 grudnia 2022 r.
 
 zmieniające rozporządzenie w sprawie szczegółowego zakresu i form audytu energetycznego oraz części audytu remontowego, wzorów kart audytów, a także algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego [1)]

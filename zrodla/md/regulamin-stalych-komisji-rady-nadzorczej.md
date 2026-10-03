@@ -1,3 +1,14 @@
+---
+title: "Regulamin stałych komisji Rady Nadzorczej"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zasady działania stałych komisji RN (m.in. Komisji Rewizyjnej). W oryginalnym skanie brakowało strony z Załącznikiem nr 2 (Komisja GZM) — uzupełniona z osobnego skanu poniżej i wklejona do tego samego pliku md."
+category: "Organy Spółdzielni"
+pdf: "../pdf/regulamin-stalych-komisji-rady-nadzorczej.pdf"
+order: 4
+---
+
 # Regulamin stałych komisji Rady Nadzorczej w SM „Doły-Marysińska” w Łodzi
 
 *(tekst jednolity)*

@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie warunków ustalania technicznej możliwości i opłacalności zastosowania ciepłomierzy, podzielników kosztów ogrzewania oraz wodomierzy do pomiaru ciepłej wody użytkowej"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Obowiązujące."
+category: "5. Energia, ciepło, termomodernizacja"
+pdf: "../pdf/rozporzadzenie-podzielniki-kosztow-ogrzewania.pdf"
+publisher: "Dz.U. 2021 poz. 2273"
+order: 21
+---
+
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 grudnia 2021 r.
 
 w sprawie warunków ustalania technicznej możliwości i opłacalności zastosowania ciepłomierzy, podzielników kosztów ogrzewania oraz wodomierzy do pomiaru ciepłej wody użytkowej, warunków wyboru metody rozliczania kosztów zakupu ciepła oraz zakresu informacji zawartych w indywidualnych rozliczeniach [1)]

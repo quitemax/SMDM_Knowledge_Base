@@ -1,3 +1,13 @@
+---
+title: "Przyjmowanie w poczet członków"
+kind: manual
+status: obowiazujacy
+audience: [management, supervisory]
+summary: "Formalne przyjęcie osoby w poczet członków Spółdzielni."
+section: zarzad
+incomplete: true
+---
+
 # Przyjmowanie w poczet członków
 
 **Cel procesu**: formalne przyjęcie osoby (nabywcy odrębnej własności

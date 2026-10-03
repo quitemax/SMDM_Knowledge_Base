@@ -1,3 +1,15 @@
+---
+title: "Ustawa o dozorze technicznym"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity."
+category: "7. Dźwigi i urządzenia techniczne"
+pdf: "../pdf/ustawa-o-dozorze-technicznym.pdf"
+publisher: "Dz.U. 2024 poz. 1194"
+order: 27
+---
+
 # Ustawa z dnia 21 grudnia 2000 r. o dozorze technicznym
 
 <a id="spis-tresci"></a>

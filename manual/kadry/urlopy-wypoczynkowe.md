@@ -1,3 +1,13 @@
+---
+title: "Urlopy wypoczynkowe"
+kind: manual
+status: obowiazujacy
+audience: [hr, management]
+summary: "Planowanie i udzielanie corocznego urlopu wypoczynkowego zgodnie z Kodeksem pracy i regulaminem pracy."
+section: kadry
+incomplete: true
+---
+
 # Urlopy wypoczynkowe pracowników
 
 **Cel procesu**: zaplanowanie i udzielanie pracownikom corocznego,

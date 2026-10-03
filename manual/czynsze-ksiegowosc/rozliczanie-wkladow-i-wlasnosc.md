@@ -1,3 +1,13 @@
+---
+title: "Rozliczanie wkładów i ustanowienie odrębnej własności"
+kind: manual
+status: obowiazujacy
+audience: [finance, membership, management]
+summary: "Rozliczenie wkładów mieszkaniowych i budowlanych przy zmianach tytułu prawnego do lokalu."
+section: czynsze-ksiegowosc
+incomplete: true
+---
+
 # Rozliczanie wkładów / ustanowienie odrębnej własności
 
 **Cel procesu**: prawidłowe rozliczenie wkładów mieszkaniowych/

@@ -1,3 +1,13 @@
+---
+title: "Czas pracy"
+kind: manual
+status: obowiazujacy
+audience: [hr, management]
+summary: "Normy i rozkłady czasu pracy, przerwy, godziny nadliczbowe i ewidencja czasu pracy."
+section: kadry
+incomplete: true
+---
+
 # Czas pracy, system i rozkład czasu pracy
 
 **Cel procesu**: określenie obowiązujących w Spółdzielni norm i

@@ -1,3 +1,15 @@
+---
+title: "Regulamin Organizacyjny (06.10.2025)"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Aktualnie obowiązująca struktura organizacyjna, zakresy działania stanowisk, schemat organizacyjny (załącznik)."
+category: "Organizacja i pracownicy"
+pdf: "../pdf/regulamin-organizacyjny-2025-10-06.pdf"
+effective_from: 2025-10-06
+order: 7
+---
+
 # Regulamin Organizacyjny w Spółdzielni Mieszkaniowej „Doły - Marysińska” w Łodzi
 
 *(tekst jednolity)*

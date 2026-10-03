@@ -1,3 +1,15 @@
+---
+title: "Ustawa o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity."
+category: "9. Dane osobowe i sprawy lokatorskie"
+pdf: "../pdf/ustawa-o-ochronie-praw-lokatorow.pdf"
+publisher: "Dz.U. 2023 poz. 725"
+order: 36
+---
+
 # Ustawa z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego
 
 <a id="spis-tresci"></a>

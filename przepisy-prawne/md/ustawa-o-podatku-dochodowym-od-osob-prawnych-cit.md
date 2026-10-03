@@ -1,3 +1,16 @@
+---
+title: "Ustawa o podatku dochodowym od osób prawnych (CIT)"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity, stan na 18.03.2026."
+category: "8. Finanse, rachunkowość, umowy"
+pdf: "../pdf/ustawa-o-podatku-dochodowym-od-osob-prawnych-cit.pdf"
+publisher: "Dz.U. 2026 poz. 554"
+legal_state_date: 2026-03-18
+order: 31
+---
+
 # Ustawa z dnia 15 lutego 1992 r.
 
 o podatku dochodowym od osób prawnych1)

@@ -1,3 +1,14 @@
+---
+title: "Regulamin rozliczenia kosztów zużycia wody"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Rozliczanie kosztów zużycia zimnej wody i odprowadzania ścieków."
+category: "Finanse i rozliczenia"
+pdf: "../pdf/regulamin-rozliczenia-kosztow-zuzycia-wody.pdf"
+order: 15
+---
+
 # Regulamin rozliczenia kosztów zużycia wody w Spółdzielni Mieszkaniowej „Doły — Marysińska”
 
 *(tekst jednolity)*

@@ -1,3 +1,13 @@
+---
+title: "Procedura windykacyjna"
+kind: manual
+status: obowiazujacy
+audience: [finance, membership, management]
+summary: "Stopniowany tryb odzyskiwania należności od lokali zalegających z opłatami, od wezwania do zapłaty po egzekucję."
+section: czynsze-ksiegowosc
+incomplete: true
+---
+
 # Procedura windykacyjna wobec zadłużonych lokali
 
 **Cel procesu**: odzyskanie należności od osób zalegających z opłatami

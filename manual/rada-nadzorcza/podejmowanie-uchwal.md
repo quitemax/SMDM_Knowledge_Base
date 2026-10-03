@@ -1,3 +1,13 @@
+---
+title: "Podejmowanie uchwał przez Radę Nadzorczą"
+kind: manual
+status: obowiazujacy
+audience: [supervisory, management]
+summary: "Formalny tryb podejmowania uchwał w sprawach z zakresu działania Rady Nadzorczej."
+section: rada-nadzorcza
+incomplete: true
+---
+
 # Podejmowanie uchwał przez Radę Nadzorczą
 
 **Cel procesu**: formalne, kolegialne podjęcie decyzji przez Radę

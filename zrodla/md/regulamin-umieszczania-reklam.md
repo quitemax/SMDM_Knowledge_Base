@@ -1,3 +1,14 @@
+---
+title: "Regulamin umieszczania reklam"
+kind: regulamin
+status: obowiazujacy
+audience: [public]
+summary: "Zasady i opłaty za umieszczanie reklam na obiektach spółdzielczych."
+category: "Porządek, technika, inne"
+pdf: "../pdf/regulamin-umieszczania-reklam.pdf"
+order: 26
+---
+
 # Regulamin umieszczania reklam na obiektach spółdzielczych na terenie Spółdzielni Mieszkaniowej „Doły – Marysińska”
 
 ## Spis treści

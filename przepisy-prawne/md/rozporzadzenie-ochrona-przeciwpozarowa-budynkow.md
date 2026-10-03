@@ -1,3 +1,15 @@
+---
+title: "Rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity."
+category: "4. Ochrona przeciwpożarowa"
+pdf: "../pdf/rozporzadzenie-ochrona-przeciwpozarowa-budynkow.pdf"
+publisher: "Dz.U. 2023 poz. 822"
+order: 14
+---
+
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów
 
 <a id="spis-tresci"></a>

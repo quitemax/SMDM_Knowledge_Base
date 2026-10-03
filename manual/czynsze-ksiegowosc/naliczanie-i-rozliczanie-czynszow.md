@@ -1,3 +1,13 @@
+---
+title: "Naliczanie i rozliczanie czynszów i mediów"
+kind: manual
+status: obowiazujacy
+audience: [finance, membership, management]
+summary: "Miesięczne naliczanie opłat za lokal (eksploatacja i media) oraz okresowe rozliczenie z rzeczywistym zużyciem."
+section: czynsze-ksiegowosc
+incomplete: true
+---
+
 # Naliczanie i rozliczanie czynszów/mediów
 
 **Cel procesu**: prawidłowe naliczenie miesięcznych opłat za lokal

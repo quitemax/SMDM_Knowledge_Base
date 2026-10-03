@@ -1,3 +1,16 @@
+---
+title: "Kodeks pracy"
+kind: akt-prawny
+status: obowiazujacy
+audience: [public]
+summary: "Tekst jednolity, stan na dzień ogłoszenia 1.09.2026; zawiera już zapowiedzianą zmianę art. 18[3a] § 2, wchodzącą w życie dopiero 5.11.2026 (widoczną w treści z przypisem)."
+category: "10. Kadry i prawo pracy"
+pdf: "../pdf/kodeks-pracy.pdf"
+publisher: "Dz.U. 2026 poz. 1245"
+legal_state_date: 2026-09-01
+order: 37
+---
+
 # Ustawa z dnia 26 czerwca 1974 r.
 
 Kodeks pracy
